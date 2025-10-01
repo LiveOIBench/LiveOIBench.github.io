@@ -1,22 +1,203 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="utf-8">
+  <title>LiveOIBench Leaderboard</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Leaderboard - Under Construction</title>
-  <link rel="stylesheet" href="./static/css/bulma.min.css">
-  <link rel="stylesheet" href="./static/css/index.css">
-  <link rel="icon" href="./static/images/liveoibench_logo.png" type="image/png">
+
+  <link rel="icon" type="image/x-icon" href="static/images/whitebackground.ico">
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
+
+  <link rel="stylesheet" href="static/css/bulma.min.css">
+  <link rel="stylesheet" href="static/css/fontawesome.all.min.css">
+  <link rel="stylesheet" href="static/css/index.css">
+  <link rel="stylesheet" href="static/css/leaderboard.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="static/js/fontawesome.all.min.js"></script>
+
+  <style>
+    /* Sortable column styles */
+    .sortable {
+      position: relative;
+      cursor: pointer;
+      user-select: none;
+      white-space: nowrap;
+    }
+
+    .sortable:hover {
+      background-color: rgba(0, 0, 0, 0.05);
+    }
+
+    .sort-indicators {
+      display: inline-block;
+      position: relative;
+      width: 12px;
+      height: 24px;
+      margin-left: 8px;
+      vertical-align: middle;
+    }
+
+    .sort-up, .sort-down {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      color: #ccc;
+      transition: color 0.2s ease;
+      font-size: 12px;
+      line-height: 1;
+    }
+
+    .sort-up {
+      top: 2px;
+    }
+
+    .sort-down {
+      bottom: 2px;
+    }
+
+    .sort-up.active, .sort-down.active {
+      color: #333;
+    }
+
+    .sortable:hover .sort-up:not(.active),
+    .sortable:hover .sort-down:not(.active) {
+      color: #999;
+    }
+
+    /* Table header styles */
+    .table th {
+      padding: 0.5em 0.75em;
+      text-align: center;
+    }
+
+    .table td {
+      padding: 0.5em 0.75em;
+      vertical-align: middle;
+    }
+  </style>
 </head>
+
 <body>
-  <section class="hero is-fullheight">
+  <!-- Hero Section -->
+  <section class="hero is-light">
     <div class="hero-body">
-      <div class="container has-text-centered">
-        <h1 class="title is-1">🚧 Under Construction 🚧</h1>
-        <h2 class="subtitle">Leaderboard will be available soon</h2>
-        <a href="index.html" class="button is-primary">Back to Home</a>
+      <div class="container is-max-desktop">
+        <div class="columns is-centered">
+          <div class="column has-text-centered">
+            <h1 class="title is-1 publication-title">LiveOIBench Leaderboard</h1>
+          </div>
+        </div>
       </div>
     </div>
   </section>
+
+  <!-- Division Selection Section -->
+  <section class="section">
+    <div class="container is-max-desktop">
+      <div class="box">
+        <div class="division-selection">
+          <h3 class="title is-4 has-text-centered mb-4">Select Divisions<a href="#" onclick="document.getElementById('division-scope').scrollIntoView({behavior: 'smooth'}); return false;" class="has-text-info ml-2">*</a></h3>
+          <div class="division-tabs">
+            <div class="division-tab is-active" data-division="1">
+              <span class="division-name">Division 1</span>
+            </div>
+            <div class="division-tab is-active" data-division="2">
+              <span class="division-name">Division 2</span>
+            </div>
+            <div class="division-tab is-active" data-division="3">
+              <span class="division-name">Division 3</span>
+            </div>
+            <div class="division-tab is-active" data-division="4">
+              <span class="division-name">Division 4</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="box">
+        <h3 class="title is-4 has-text-centered mb-4">Select Competitions</h3>
+        <div class="field">
+          <div class="control has-text-centered mb-4">
+            <button class="button is-dark is-rounded" id="toggleAll">Select All</button>
+          </div>
+          <div class="competition-tabs">
+            <!-- Competition tabs will be dynamically added here by JavaScript -->
+          </div>
+          <div class="mt-6">
+            <div class="date-range-container">
+              <div class="date-range-slider">
+                <input type="range" id="startDateSlider" min="0" max="35" value="0" step="1">
+                <input type="range" id="endDateSlider" min="0" max="35" value="35" step="1">
+              </div>
+              <div class="date-range-labels has-text-centered">
+                <span id="dateRangeDisplay" class="is-size-5">454 problems selected in the current time window (8/1/2024 to 5/1/2025). You can adjust the start or end date to change the time window.</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Leaderboard Table Section -->
+  <section class="section">
+    <div class="container is-max-desktop">
+      <div class="box">
+        <h3 class="title is-4 has-text-centered mb-4">Model Rankings</h3>
+        <div class="table-container">
+          <table id="rankingTable" class="table is-striped is-fullwidth is-hoverable">
+            <thead>
+              <tr>
+                <th></th>
+                <th>Rank</th>
+                <th>Model</th>
+                <th>Gold 🥇</th>
+                <th>Silver 🥈</th>
+                <th>Bronze 🥉</th>
+                <th>Total</th>
+                <th>Pass Rate</th>
+                <th>Relative Score</th>
+                <th>Human Percentile</th>
+              </tr>
+            </thead>
+            <tbody>
+              <!-- Filled dynamically by leaderboard.js -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Back Button -->
+  <section class="section">
+    <div class="container is-max-desktop has-text-centered">
+      <a class="button is-dark is-rounded" href="index.html">
+        <span class="icon">
+          <i class="fas fa-arrow-left"></i>
+        </span>
+        <span>Back to Home</span>
+      </a>
+    </div>
+  </section>
+
+  <!-- Division Scope Section -->
+  <section id="division-scope" class="section pt-0">
+    <div class="container is-max-desktop">
+      <div class="box">
+        <h4 class="title is-5 has-text-centered mb-4">Division Scope</h4>
+        <div class="content is-small">
+          <div id="division-scope-content">
+            <!-- Will be populated by JavaScript -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Link to external scripts -->
+  <script src="static/js/competition-config.js"></script>
+  <script src="static/js/leaderboard.js"></script>
 </body>
 </html>

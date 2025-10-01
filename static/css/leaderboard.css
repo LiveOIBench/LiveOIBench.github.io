@@ -1,0 +1,568 @@
+.competition-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 0.75rem 0;
+    justify-content: center;
+    max-width: 100%;
+  }
+  
+  .competition-tab {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.35rem 0.75rem;
+    margin: 0 0.25rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    color: white;
+    font-weight: 500;
+    background-color: #2196f3;
+    width: 110px;
+    font-size: 0.9rem;
+  }
+  
+  .competition-tab:not(.is-active) {
+    opacity: 0.4;
+    filter: grayscale(50%);
+  }
+  
+  .competition-tab:hover {
+    opacity: 0.7;
+    filter: grayscale(0%);
+  }
+  
+  .competition-tab.is-active {
+    opacity: 1;
+    filter: grayscale(0%);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+  }
+  
+  .competition-tab:focus {
+    outline: none;
+  }
+  
+  /* Tooltip styles */
+  .competition-tab[data-tooltip] {
+    position: relative;
+  }
+  
+  .competition-tab[data-tooltip]:hover::after {
+    content: attr(data-tooltip);
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 0.75rem 1rem;
+    background-color: rgba(0, 0, 0, 0.9);
+    color: white;
+    border-radius: 6px;
+    font-size: 0.875rem;
+    white-space: nowrap;
+    z-index: 1000;
+    margin-bottom: 0.75rem;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  }
+  
+  .competition-tab[data-tooltip]:hover::before {
+    content: '';
+    position: absolute;
+    bottom: calc(100% - 5px);
+    left: 50%;
+    transform: translateX(-50%);
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgba(0, 0, 0, 0.9) transparent transparent transparent;
+    z-index: 1000;
+  }
+  
+  .competition-controls {
+    display: flex;
+    gap: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  #toggleAll {
+    font-size: 0.9rem;
+    padding: 0.5rem 1rem;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 4px;
+    color: #4a4a4a;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+  
+  #toggleAll:hover {
+    background-color: #f0f8ff;
+  }
+  
+  .section-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 0.75rem;
+    color: #363636;
+  }
+  
+  /* Enhance table styles */
+  .table-container {
+    margin: 1rem 0;
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 0 2px 3px rgba(0,0,0,0.1);
+    overflow-anchor: none;
+    min-height: 400px;
+    width: 100%;
+  }
+  
+  .table {
+    margin-bottom: 0 !important;
+    font-family: 'Google Sans', sans-serif;
+    width: 100%;
+  }
+  
+  .table th {
+    background-color: #f8f9fa;
+    font-weight: 600;
+    color: #363636;
+    border-bottom: 2px solid #dbdbdb;
+  }
+  
+  .table td {
+    vertical-align: middle;
+    color: #4a4a4a;
+  }
+  
+  .table tbody tr:hover {
+    background-color: #f8f9fa;
+  }
+  
+  /* Adjust section spacing */
+  .section {
+    padding: 2rem 1.5rem;
+  }
+  
+  .section:not(:first-child) {
+    padding-top: 1rem;
+  }
+  
+  /* Date Range Slider Styles */
+  .date-range-container {
+    margin: 1rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .date-range-slider {
+    position: relative;
+    height: 40px;
+    margin-bottom: 1rem;
+    width: 80%;
+    max-width: 800px;
+  }
+  
+  .date-range-slider input[type="range"] {
+    position: absolute;
+    width: 100%;
+    height: 20px;
+    border-radius: 6px;
+    background: transparent;
+    pointer-events: none;
+    -webkit-appearance: none;
+    appearance: none;
+    top: 20px;
+  }
+  
+  .date-range-slider input[type="range"]:first-child {
+    z-index: 10;
+  }
+  
+  .date-range-slider input[type="range"]:last-child {
+    z-index: 9;
+  }
+  
+  .date-range-slider input[type="range"]::-webkit-slider-track {
+    width: 100%;
+    height: 8px;
+    background: #f0f0f0;
+    border-radius: 4px;
+    border: none;
+  }
+  
+  .date-range-slider input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 24px;
+    height: 24px;
+    background: #3273dc;
+    border-radius: 50%;
+    cursor: pointer;
+    border: 2px solid white;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    pointer-events: all;
+    position: relative;
+    z-index: 100;
+    transition: all 0.2s ease;
+  }
+  
+  .date-range-slider input[type="range"]::-webkit-slider-thumb:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  }
+  
+  .date-range-slider input[type="range"]::-moz-range-track {
+    width: 100%;
+    height: 8px;
+    background: #f0f0f0;
+    border-radius: 4px;
+    border: none;
+  }
+  
+  .date-range-slider input[type="range"]::-moz-range-thumb {
+    width: 24px;
+    height: 24px;
+    background: #3273dc;
+    border-radius: 50%;
+    cursor: pointer;
+    border: 2px solid white;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    pointer-events: all;
+    position: relative;
+    z-index: 100;
+    transition: all 0.2s ease;
+  }
+  
+  .date-range-slider input[type="range"]::-moz-range-thumb:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  }
+  
+  .date-range-slider::before {
+    content: '';
+    position: absolute;
+    top: 28px;
+    left: 0;
+    right: 0;
+    height: 8px;
+    background: #3273dc;
+    border-radius: 4px;
+    z-index: 8;
+    opacity: 0.3;
+  }
+  
+  .date-range-slider::after {
+    content: '';
+    position: absolute;
+    top: 28px;
+    left: var(--start-percent, 0%);
+    right: calc(100% - var(--end-percent, 100%));
+    height: 8px;
+    background: #3273dc;
+    border-radius: 4px;
+    z-index: 8;
+  }
+  
+  .date-range-labels {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    max-width: 800px;
+    font-size: 0.75rem;
+    color: #666;
+  }
+  
+  .date-range-labels .has-text-weight-medium {
+    font-weight: 500;
+    font-size: 0.75rem;
+  }
+  
+  #dateRangeDisplay.is-size-5 {
+    font-size: 1.05rem !important;
+  }
+  
+  #total-questions.is-size-5 {
+    font-size: 1.05rem !important;
+  }
+  
+  .date-range-labels .mt-4 .is-size-5 {
+    font-size: 1.05rem !important;
+  }
+  
+  /* Box styles */
+  .box {
+    border-radius: 8px;
+    box-shadow: 0 2px 3px rgba(0,0,0,0.1);
+    background-color: white;
+    padding: 1.5rem;
+  }
+  
+  /* Responsive adjustments */
+  @media screen and (max-width: 768px) {
+    .date-range-slider {
+      width: 95%;
+    }
+    
+    .competition-tab {
+      padding: 0.5rem 1rem;
+      font-size: 0.9rem;
+    }
+    
+    .box {
+      padding: 1.5rem;
+    }
+  }
+  
+  /* Division tabs styles */
+  .division-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin: 0.75rem 0;
+    justify-content: center;
+    max-width: 100%;
+  }
+  
+  .division-tab {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    margin: 0 0.25rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    color: white;
+    font-weight: 500;
+  }
+  
+  .division-tab[data-division="1"] {
+    background-color: #1a237e; /* Deep Blue */
+  }
+  
+  .division-tab[data-division="2"] {
+    background-color: #00897b; /* Teal */
+  }
+  
+  .division-tab[data-division="3"] {
+    background-color: #00bcd4; /* Cyan */
+  }
+  
+  .division-tab[data-division="4"] {
+    background-color: #9e9e9e; /* Light Gray */
+  }
+  
+  .division-tab:not(.is-active) {
+    opacity: 0.4;
+    filter: grayscale(50%);
+  }
+  
+  .division-tab:hover {
+    opacity: 0.7;
+    filter: grayscale(0%);
+  }
+  
+  .division-tab.is-active {
+    opacity: 1;
+    filter: grayscale(0%);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+  }
+  
+  .division-name {
+    font-weight: 500;
+  }
+  
+  /* Division indicator styles */
+  .division-indicator {
+    font-size: 0.8rem;
+    padding: 0.2rem 0.4rem;
+    border-radius: 4px;
+    display: inline-block;
+    vertical-align: middle;
+    font-weight: 600;
+  }
+  
+  .division-1 {
+    background-color: #FFD700;
+    color: #000;
+  }
+  
+  .division-2 {
+    background-color: #C0C0C0;
+    color: #000;
+  }
+  
+  .division-3 {
+    background-color: #CD7F32;
+    color: #fff;
+  }
+  
+  .division-4 {
+    background-color: #4a4a4a;
+    color: #fff;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  .select-all-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.35rem 0.75rem;
+    margin: 0 0.25rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    color: white;
+    font-weight: 500;
+    background-color: #2196f3;
+    width: 110px;
+    font-size: 0.9rem;
+    border: none;
+  }
+  
+  .select-all-button:hover {
+    opacity: 0.7;
+    filter: grayscale(0%);
+  }
+  
+  .select-all-button:active {
+    opacity: 1;
+    filter: grayscale(0%);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  .button.is-dark.is-rounded {
+    background-color: #2196f3 !important;
+    color: white !important;
+    border: none !important;
+    box-shadow: none !important;
+    opacity: 0.7 !important;
+    filter: grayscale(50%) !important;
+  }
+  
+  .button.is-dark.is-rounded.deselect {
+    background-color: #2196f3 !important;
+    opacity: 1 !important;
+    filter: grayscale(0%) !important;
+  }
+  
+  .button.is-dark.is-rounded:hover {
+    opacity: 1 !important;
+    filter: grayscale(0%) !important;
+  }
+  
+  .button.is-dark.is-rounded:focus {
+    border-color: transparent !important;
+    box-shadow: none !important;
+  }
+  
+  #rankingTable th {
+    position: relative;
+    padding: 10px;
+    text-align: center;
+    white-space: nowrap;
+    cursor: pointer;
+  }
+  
+  #rankingTable th:first-child {
+    cursor: default;
+  }
+  
+  #rankingTable td {
+    padding: 8px;
+    text-align: center;
+  }
+  
+  #rankingTable td:first-child {
+    text-align: left;
+  }
+  
+  .header-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+  }
+  
+  .sort-arrows {
+    display: inline-flex;
+    flex-direction: column;
+    margin-left: 5px;
+    opacity: 0.3;
+  }
+  
+  .sorted-asc .sort-arrows .fa-sort-up,
+  .sorted-desc .sort-arrows .fa-sort-down {
+    opacity: 1;
+  }
+  
+  .sort-arrows i {
+    font-size: 12px;
+    line-height: 6px;
+  }
+  
+  /* Column widths */
+  #rankingTable th:nth-child(1) { width: 40px; text-align: center; }  /* Empty column for rank icon */
+  #rankingTable th:nth-child(2) { width: 60px; text-align: center; }  /* Rank */
+  #rankingTable th:nth-child(3) { width: 300px; text-align: left; }   /* Model name */
+  #rankingTable th:nth-child(4) { width: 120px; text-align: center; } /* Gold */
+  #rankingTable th:nth-child(5) { width: 120px; text-align: center; } /* Silver */
+  #rankingTable th:nth-child(6) { width: 120px; text-align: center; } /* Bronze */
+  #rankingTable th:nth-child(7) { width: 100px; text-align: center; } /* Total */
+  #rankingTable th:nth-child(8) { width: 120px; text-align: center; } /* Pass Rate */
+  #rankingTable th:nth-child(9) { width: 120px; text-align: center; } /* Relative Score */
+  #rankingTable th:nth-child(10) { width: 120px; text-align: center; } /* Human Percentile */
+  
+  /* Ensure table cells respect column widths and alignment */
+  #rankingTable td,
+  #rankingTable th {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding: 0.75rem;
+    vertical-align: middle;
+  }
+  
+  /* Center align all cells except model name */
+  #rankingTable td {
+    text-align: center;
+  }
+  
+  /* Left align model name column */
+  #rankingTable td:nth-child(3) {
+    text-align: left;
+  }
+  
+  /* Center the header content and sort indicators */
+  .header-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+  }
+  
+  /* Ensure medal emojis are centered with text */
+  #rankingTable th img,
+  #rankingTable th span {
+    vertical-align: middle;
+  }
+  
+  /* Add horizontal scrolling for smaller screens */
+  @media screen and (max-width: 1344px) {
+    .table-container {
+      overflow-x: auto;
+    }
+    
+    .table {
+      min-width: 1200px; /* Ensure minimum width for all columns */
+    }
+  }
+  
+  .container.is-max-desktop {
+    max-width: 1344px !important;  /* Increased from default */
+  } 
