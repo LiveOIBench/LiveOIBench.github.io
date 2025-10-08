@@ -161,6 +161,72 @@
       </div>
     </div>
     <!--/ Abstract. -->
+
+    <!-- LiveOIBench Construction. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">LiveOIBench Construction</h2>
+        <div class="content has-text-justified">
+          <p>
+            Our benchmark consists of 403 coding problems collected directly from the official websites of 72 competitions across 14 renowned Informatics Olympiads, focusing on contests held from 2023 onward. To build this benchmark, we developed custom web crawlers tailored to each official competition website, complemented by thorough manual verification to ensure high accuracy and integrity of the collected data. The dataset includes challenging problems designed by experts, each with clearly defined subtasks that enable precise partial scoring. Additionally, expert-designed private test cases are included to guarantee reliable evaluation. The dataset is further enriched with detailed algorithm tags, clearly marked difficulty levels, and contestant Codeforces ratings, facilitating comprehensive performance analyses. Our benchmark uniquely supports direct comparisons between models and human contestants through percentile rankings, medals, and ratings. To keep the dataset relevant and uncontaminated, we continuously incorporate new contests directly from the official websites of actively maintained competitions.
+          </p>
+        </div>
+      </div>
+    </div>
+    <!--/ LiveOIBench Construction. -->
+
+    <!-- Models vs. Humans. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Models vs. Humans</h2>
+        <div class="content has-text-justified">
+          <div class="has-text-centered">
+            <img src="./static/images/tokens_vs_percentile.png" alt="Models vs. Humans" style="max-width: 100%; height: auto;">
+          </div>
+          <p>
+            This figure show average human percentile across all contests of each model against
+            completion tokens per problem. Our comprehensive benchmarking of 32 LLMs demonstrates
+            that proprietary models like GPT-5 currently lead in competitive coding performance, achieving
+            exceptional token efficiency and outperforming approximately 82% of human contestants.
+            However, GPT-5 still falls short of top-tier human competitors, highlighting a clear performance
+            gap at the elite level. Open-weight "thinking" models such as GPT-OSS-120B significantly
+            narrow this gap, especially under extended reasoning budgets, while non-thinking models
+            consistently lag, underscoring the critical importance of extended reasoning. Additionally,
+            sequential scaling strategies further enhance smaller models' capabilities, emphasizing
+            inference-time approaches' effectiveness in bridging performance gaps. A multifaceted
+            evaluation approach—including human percentile, medal rankings, and Codeforces ELO—provides deeper insights into these nuanced differences in model proficiency. Full results
+            can be viewed at our leaderboard page.
+          </p>
+        </div>
+      </div>
+    </div>
+    <!--/ Models vs. Humans. -->
+
+    <!-- Reasoning Behavior Analysis. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Reasoning Behavior Analysis</h2>
+        <div class="content has-text-justified">
+          <div class="has-text-centered">
+            <img src="./static/images/result.png" alt="Reasoning Behavior Analysis" style="max-width: 100%; height: auto;">
+          </div>
+          <p>
+            The figure provides an analysis of how reasoning behaviors in LLMs
+            correlate with problem difficulty, reasoning budgets, model capabilities, and solution
+            correctness. As problem difficulty increases (a), GPT-OSS-120B-High prioritizes exploration and
+            deeper analysis, reducing initial planning and verification efforts. Conversely, when reasoning
+            budgets increase (b), the model strategically directs additional resources toward deeper
+            analysis, implementation, and verification without increasing exploration. Stronger reasoning
+            models (c) further demonstrate reduced exploration, allocating more tokens to structured
+            planning, detailed analysis, and solution development. Finally, correct solutions (d) prominently
+            feature structured planning and targeted verification steps, significantly reducing the need for
+            continuous re-analysis and exploration, highlighting the importance of robust initial reasoning
+            frameworks.
+          </p>
+        </div>
+      </div>
+    </div>
+    <!--/ Reasoning Behavior Analysis. -->
   </div>
 </section>
 
@@ -168,7 +234,11 @@
 <section class="section" id="BibTeX">
   <div class="container is-max-desktop content">
     <h2 class="title">BibTeX</h2>
-    <pre><code><!-- Citation will be available soon --></code></pre>
+    <pre><code>@article{zou2025liveoibench,
+  title={LiveOIBench: Can Large Language Models Outperform Human Contestants in Informatics Olympiads?},
+  author={Zou, Kaijian and Xiong, Aaron and Zhang, Yunxiang and Zhang, Xinliang Frederick and Ren, Yueqi and Yang, Jirong and Lee, Ayoung and Bhushan, Shitanshu and Wang, Lu},
+  year={2025}
+}</code></pre>
   </div>
 </section>
 
