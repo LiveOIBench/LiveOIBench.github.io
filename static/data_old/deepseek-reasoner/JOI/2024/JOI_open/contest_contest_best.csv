@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+2024-open-t1_Examination_2,deepseek-reasoner,RUNTIME_ERROR,0,0.00%,0.180,3.91015625
+2024-open-t2_Heat_Stroke,deepseek-reasoner,RUNTIME_ERROR,6,36.57%,0.040,0.00390625
+2024-open-t3_Library_3,deepseek-reasoner,RUNTIME_ERROR,0,18.37%,0.040,1.48046875

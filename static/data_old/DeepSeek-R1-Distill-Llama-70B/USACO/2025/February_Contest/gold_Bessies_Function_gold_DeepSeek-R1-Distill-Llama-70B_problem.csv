@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Bessies_Function_DeepSeek-R1-Distill-Llama-70B_0.cpp,WRONG_ANSWER,35,19.05%,0.240,8.2578125,0,0,0,0,0,0,0,0,17.543859649122805,0,0,0,0,0,17.543859649122805,0,0,0,0,0
+gold_Bessies_Function_DeepSeek-R1-Distill-Llama-70B_1.cpp,WRONG_ANSWER,35,19.05%,0.220,7.65234375,0,0,0,0,0,0,0,0,17.543859649122805,0,0,0,0,0,17.543859649122805,0,0,0,0,0
+gold_Bessies_Function_DeepSeek-R1-Distill-Llama-70B_2.cpp,WRONG_ANSWER,35,19.05%,0.210,15.66796875,0,0,0,0,0,0,0,0,17.543859649122805,0,0,0,0,0,17.543859649122805,0,0,0,0,0
+gold_Bessies_Function_DeepSeek-R1-Distill-Llama-70B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessies_Function_DeepSeek-R1-Distill-Llama-70B_4.cpp,WRONG_ANSWER,88,33.33%,0.200,2.84765625,0,17.543859649122805,0,0,0,0,0,0,17.543859649122805,0,0,17.543859649122805,0,0,17.543859649122805,0,0,17.543859649122805,0,0
+gold_Bessies_Function_DeepSeek-R1-Distill-Llama-70B_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessies_Function_DeepSeek-R1-Distill-Llama-70B_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessies_Function_DeepSeek-R1-Distill-Llama-70B_7.cpp,TIME_LIMIT_EXCEEDED,0,4.76%,2.350,10.87109375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

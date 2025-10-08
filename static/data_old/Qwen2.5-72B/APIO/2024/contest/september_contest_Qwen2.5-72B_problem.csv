@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+september_Qwen2.5-72B_0.cpp,RUNTIME_ERROR,0,0.00%,0.230,12.70703125,0,0,0,0,0,0,0,0,0,0
+september_Qwen2.5-72B_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0
+september_Qwen2.5-72B_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0
+september_Qwen2.5-72B_3.cpp,RUNTIME_ERROR,0,0.00%,0.300,11.7890625,0,0,0,0,0,0,0,0,0,0
+september_Qwen2.5-72B_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.120,26.70703125,0,0,0,0,0,0,0,0,0,0
+september_Qwen2.5-72B_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.250,11.8125,0,0,0,0,0,0,0,0,0,0
+september_Qwen2.5-72B_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.230,12.10546875,0,0,0,0,0,0,0,0,0,0
+september_Qwen2.5-72B_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.190,12.09765625,0,0,0,0,0,0,0,0,0,0

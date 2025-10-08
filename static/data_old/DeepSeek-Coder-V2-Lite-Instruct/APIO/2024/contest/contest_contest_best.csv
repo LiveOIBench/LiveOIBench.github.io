@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+show,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+september,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+train,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

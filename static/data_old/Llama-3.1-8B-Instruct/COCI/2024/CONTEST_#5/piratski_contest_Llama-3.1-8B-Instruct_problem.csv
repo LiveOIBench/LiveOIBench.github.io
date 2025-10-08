@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+piratski_Llama-3.1-8B-Instruct_0.cpp,WRONG_ANSWER,0,0.00%,0.170,115.41796875,0,0,0
+piratski_Llama-3.1-8B-Instruct_1.cpp,WRONG_ANSWER,0,0.00%,0.100,1.55859375,0,0,0
+piratski_Llama-3.1-8B-Instruct_2.cpp,WRONG_ANSWER,0,0.00%,0.100,1.55859375,0,0,0
+piratski_Llama-3.1-8B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,0.00390625,0,0,0
+piratski_Llama-3.1-8B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,0.00390625,0,0,0
+piratski_Llama-3.1-8B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.260,0.00390625,0,0,0
+piratski_Llama-3.1-8B-Instruct_6.cpp,WRONG_ANSWER,0,0.00%,0.150,96.9453125,0,0,0
+piratski_Llama-3.1-8B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,0.00390625,0,0,0

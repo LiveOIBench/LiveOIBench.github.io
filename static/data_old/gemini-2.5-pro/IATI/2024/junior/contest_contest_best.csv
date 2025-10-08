@@ -1,0 +1,7 @@
+problem,model,status,score,%test passed,time,memory
+aquarelle,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,89,96.20%,0.460,96.14453125
+parentheses,gemini-2.5-pro,ACCEPTED,100,100.00%,0.270,9.58984375
+tolls,gemini-2.5-pro,ACCEPTED,100,100.00%,0.200,4.64453125
+twins,gemini-2.5-pro,ACCEPTED,100,100.00%,0.140,10.26171875
+walk,gemini-2.5-pro,ACCEPTED,100,100.00%,0.390,15.21875
+xy,gemini-2.5-pro,RUNTIME_ERROR,0,2.86%,0.130,2.3671875

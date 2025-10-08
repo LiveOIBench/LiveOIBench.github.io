@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+cyberland_seed-oss_0.cpp,MEMORY_LIMIT_EXCEEDED,44,34.15%,0.540,21.91796875,0,0,8,13,0,7,16,0,0
+cyberland_seed-oss_1.cpp,MEMORY_LIMIT_EXCEEDED,44,35.37%,0.490,28.36328125,0,0,8,13,0,7,16,0,0
+cyberland_seed-oss_2.cpp,RUNTIME_ERROR,15,20.73%,0.220,9.02734375,0,0,8,0,0,7,0,0,0
+cyberland_seed-oss_3.cpp,MEMORY_LIMIT_EXCEEDED,15,20.73%,0.940,2352.80078125,0,0,8,0,0,7,0,0,0
+cyberland_seed-oss_4.cpp,MEMORY_LIMIT_EXCEEDED,20,23.17%,0.740,2449.99609375,0,5,8,0,0,7,0,0,0
+cyberland_seed-oss_5.cpp,RUNTIME_ERROR,63,53.66%,0.940,35.921875,0,0,8,13,19,7,16,0,0
+cyberland_seed-oss_6.cpp,RUNTIME_ERROR,20,23.17%,0.160,7.99609375,0,5,8,0,0,7,0,0,0
+cyberland_seed-oss_7.cpp,TIME_LIMIT_EXCEEDED,15,18.29%,2.980,22.09765625,0,0,8,0,0,7,0,0,0

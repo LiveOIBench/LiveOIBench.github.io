@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+circlepassing_gpt-o3-mini-high_0.cpp,RUNTIME_ERROR,14,32.22%,0.040,0.00390625,0,14,0,0,0,0
+circlepassing_gpt-o3-mini-high_1.cpp,RUNTIME_ERROR,14,35.87%,0.040,0.00390625,0,14,0,0,0,0
+circlepassing_gpt-o3-mini-high_2.cpp,RUNTIME_ERROR,0,5.19%,0.040,0.00390625,0,0,0,0,0,0
+circlepassing_gpt-o3-mini-high_3.cpp,ACCEPTED,100,100.00%,0.100,5.1640625,0,14,20,22,17,27
+circlepassing_gpt-o3-mini-high_4.cpp,RUNTIME_ERROR,14,32.22%,0.040,0.00390625,0,14,0,0,0,0
+circlepassing_gpt-o3-mini-high_5.cpp,RUNTIME_ERROR,14,30.00%,0.040,0.00390625,0,14,0,0,0,0
+circlepassing_gpt-o3-mini-high_6.cpp,RUNTIME_ERROR,14,30.00%,0.040,0.00390625,0,14,0,0,0,0
+circlepassing_gpt-o3-mini-high_7.cpp,RUNTIME_ERROR,14,30.00%,0.040,0.00390625,0,14,0,0,0,0

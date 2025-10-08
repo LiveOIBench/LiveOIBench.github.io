@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Tractor_Paths,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Mana_Collection,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Subtree_Activation,Llama-4-Scout,RUNTIME_ERROR,0,4.76%,0.020,1.78125

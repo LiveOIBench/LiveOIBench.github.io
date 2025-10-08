@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Evidence_Board_DeepSeek-R1-Distill-Llama-70B_0.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_DeepSeek-R1-Distill-Llama-70B_1.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.810,484.69140625,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_DeepSeek-R1-Distill-Llama-70B_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.250,475.81640625,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_DeepSeek-R1-Distill-Llama-70B_3.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.170,21.984375,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_DeepSeek-R1-Distill-Llama-70B_4.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.840,480.046875,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_DeepSeek-R1-Distill-Llama-70B_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.740,484.6953125,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_DeepSeek-R1-Distill-Llama-70B_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.830,493.72265625,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_DeepSeek-R1-Distill-Llama-70B_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.890,475.81640625,0,0,0,0,0,0,0,0,0,0

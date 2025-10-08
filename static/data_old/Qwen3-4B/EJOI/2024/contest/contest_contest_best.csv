@@ -1,0 +1,7 @@
+problem,model,status,score,%test passed,time,memory
+cheese,Qwen3-4B,RUNTIME_ERROR,19,41.03%,0.620,7.03125
+oldorhei,Qwen3-4B,ACCEPTED,100,100.00%,0.490,57.5
+manypairs,Qwen3-4B,COMPILATION_ERROR,0,0.00%,0.000,0
+cfduels,Qwen3-4B,RUNTIME_ERROR,0,15.38%,0.000,0
+hora,Qwen3-4B,COMPILATION_ERROR,0,0.00%,0.000,0
+sweets,Qwen3-4B,TIME_LIMIT_EXCEEDED,27,37.10%,3.610,37.06640625

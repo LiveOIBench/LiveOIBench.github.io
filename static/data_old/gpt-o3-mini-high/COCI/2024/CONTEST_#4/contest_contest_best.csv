@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+bingo,gpt-o3-mini-high,ACCEPTED,50,100.00%,0.000,0
+knjige,gpt-o3-mini-high,ACCEPTED,70,100.00%,0.050,3.10546875
+lepeze,gpt-o3-mini-high,RUNTIME_ERROR,16,21.15%,0.210,46.66796875
+putovanje,gpt-o3-mini-high,ACCEPTED,110,100.00%,1.850,5.5859375
+roboti,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,23,52.27%,2.210,18.234375

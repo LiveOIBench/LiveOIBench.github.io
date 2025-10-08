@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Astral_Superposition,Qwen3-8B-Non-Thinking,WRONG_ANSWER,33,16.67%,0.800,24.3515625
+bronze_Its_Mooin_Time_II,Qwen3-8B-Non-Thinking,WRONG_ANSWER,0,9.09%,0.320,16.9609375
+bronze_Cow_Checkups,Qwen3-8B-Non-Thinking,TIME_LIMIT_EXCEEDED,100,46.15%,2.260,1.59765625

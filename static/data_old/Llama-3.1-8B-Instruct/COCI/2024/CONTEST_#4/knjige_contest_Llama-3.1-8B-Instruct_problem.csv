@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+knjige_Llama-3.1-8B-Instruct_0.cpp,RUNTIME_ERROR,0,0.00%,0.060,3.6171875,0,0,0
+knjige_Llama-3.1-8B-Instruct_1.cpp,RUNTIME_ERROR,0,0.00%,0.110,4.390625,0,0,0
+knjige_Llama-3.1-8B-Instruct_2.cpp,RUNTIME_ERROR,0,0.00%,0.080,5.9375,0,0,0
+knjige_Llama-3.1-8B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.140,15.02734375,0,0,0
+knjige_Llama-3.1-8B-Instruct_4.cpp,RUNTIME_ERROR,0,0.00%,0.070,7.484375,0,0,0
+knjige_Llama-3.1-8B-Instruct_5.cpp,RUNTIME_ERROR,0,0.00%,0.090,5.9375,0,0,0
+knjige_Llama-3.1-8B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.160,9.8046875,0,0,0
+knjige_Llama-3.1-8B-Instruct_7.cpp,RUNTIME_ERROR,0,0.00%,0.080,5.9375,0,0,0

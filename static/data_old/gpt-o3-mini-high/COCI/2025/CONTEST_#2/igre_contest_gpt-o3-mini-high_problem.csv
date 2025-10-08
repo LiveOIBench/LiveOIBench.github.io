@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+igre_gpt-o3-mini-high_0.cpp,ACCEPTED,70,100.00%,0.180,1.66015625,6,13,23,28
+igre_gpt-o3-mini-high_1.cpp,ACCEPTED,70,100.00%,0.080,1.55859375,6,13,23,28
+igre_gpt-o3-mini-high_2.cpp,ACCEPTED,70,100.00%,0.150,1.6015625,6,13,23,28
+igre_gpt-o3-mini-high_3.cpp,ACCEPTED,70,100.00%,0.080,1.55859375,6,13,23,28
+igre_gpt-o3-mini-high_4.cpp,ACCEPTED,70,100.00%,0.080,1.55859375,6,13,23,28
+igre_gpt-o3-mini-high_5.cpp,ACCEPTED,70,100.00%,0.470,1.8203125,6,13,23,28
+igre_gpt-o3-mini-high_6.cpp,ACCEPTED,70,100.00%,0.190,1.58203125,6,13,23,28
+igre_gpt-o3-mini-high_7.cpp,ACCEPTED,70,100.00%,0.260,1.5546875,6,13,23,28

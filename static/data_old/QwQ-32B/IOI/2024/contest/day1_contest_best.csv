@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+message,QwQ-32B,RUNTIME_ERROR,0,6.67%,0.620,3.91015625
+nile,QwQ-32B,TIME_LIMIT_EXCEEDED,17,20.69%,2.210,5.6875
+tree,QwQ-32B,TIME_LIMIT_EXCEEDED,10,25.88%,2.210,16.9921875

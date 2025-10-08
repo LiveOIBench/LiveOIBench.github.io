@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+roboti_gpt-o3-mini-high_0.cpp,TIME_LIMIT_EXCEEDED,10,34.09%,2.280,19.11328125,10,0,0,0
+roboti_gpt-o3-mini-high_1.cpp,TIME_LIMIT_EXCEEDED,10,20.45%,2.210,17.3515625,10,0,0,0
+roboti_gpt-o3-mini-high_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.230,0.00390625,0,0,0,0
+roboti_gpt-o3-mini-high_3.cpp,TIME_LIMIT_EXCEEDED,23,52.27%,2.230,17.34765625,10,13,0,0
+roboti_gpt-o3-mini-high_4.cpp,TIME_LIMIT_EXCEEDED,10,20.45%,2.210,46.4765625,10,0,0,0
+roboti_gpt-o3-mini-high_5.cpp,TIME_LIMIT_EXCEEDED,10,13.64%,2.220,13.16015625,10,0,0,0
+roboti_gpt-o3-mini-high_6.cpp,TIME_LIMIT_EXCEEDED,23,52.27%,2.210,18.234375,10,13,0,0
+roboti_gpt-o3-mini-high_7.cpp,TIME_LIMIT_EXCEEDED,23,43.18%,2.210,4.125,10,13,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+labirint_gemini-2.5-flash_0.cpp,ACCEPTED,70,100.00%,0.050,0.00390625,11,13,24,22
+labirint_gemini-2.5-flash_1.cpp,ACCEPTED,70,100.00%,0.310,2.32421875,11,13,24,22
+labirint_gemini-2.5-flash_2.cpp,ACCEPTED,70,100.00%,0.330,2.421875,11,13,24,22
+labirint_gemini-2.5-flash_3.cpp,TIME_LIMIT_EXCEEDED,48,60.00%,1.120,3.0703125,11,13,24,0
+labirint_gemini-2.5-flash_4.cpp,ACCEPTED,70,100.00%,0.120,1.55078125,11,13,24,22
+labirint_gemini-2.5-flash_5.cpp,ACCEPTED,70,100.00%,0.100,0.00390625,11,13,24,22
+labirint_gemini-2.5-flash_6.cpp,ACCEPTED,70,100.00%,0.290,2.06640625,11,13,24,22
+labirint_gemini-2.5-flash_7.cpp,ACCEPTED,70,100.00%,0.290,2.0703125,11,13,24,22

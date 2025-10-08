@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Sequence_Construction,Qwen3-4B,TIME_LIMIT_EXCEEDED,0,5.56%,2.410,224.8203125
+silver_Compatible_Pairs,Qwen3-4B,WRONG_ANSWER,67,33.33%,0.170,13.671875
+silver_Ski_Slope,Qwen3-4B,TIME_LIMIT_EXCEEDED,62,23.53%,2.410,306.58203125

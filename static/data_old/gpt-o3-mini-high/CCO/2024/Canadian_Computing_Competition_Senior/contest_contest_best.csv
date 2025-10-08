@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+s1,gpt-o3-mini-high,ACCEPTED,15,100.00%,0.100,5.109375
+s2,gpt-o3-mini-high,ACCEPTED,15,100.00%,0.020,0.00390625
+s3,gpt-o3-mini-high,RUNTIME_ERROR,2,15.71%,0.040,3.875
+s4,gpt-o3-mini-high,RUNTIME_ERROR,0,0.00%,0.030,0.00390625
+s5,gpt-o3-mini-high,RUNTIME_ERROR,2,20.35%,0.030,10.58203125

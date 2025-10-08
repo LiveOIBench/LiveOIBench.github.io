@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+boi,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,11,17.86%,1.110,0.00390625
+tou,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,51,70.69%,2.210,71.9375
+tow,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,22,66.67%,3.010,1.484375

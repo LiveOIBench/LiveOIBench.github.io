@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+stations_Mistral-Small-3.1-24B-2503_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+stations_Mistral-Small-3.1-24B-2503_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+stations_Mistral-Small-3.1-24B-2503_2.cpp,TIME_LIMIT_EXCEEDED,0,4.55%,3.860,5.67578125,0,0,0,0,0,0,0
+stations_Mistral-Small-3.1-24B-2503_3.cpp,RUNTIME_ERROR,0,0.00%,0.080,6.51171875,0,0,0,0,0,0,0
+stations_Mistral-Small-3.1-24B-2503_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+stations_Mistral-Small-3.1-24B-2503_5.cpp,RUNTIME_ERROR,0,4.55%,0.060,8.0625,0,0,0,0,0,0,0
+stations_Mistral-Small-3.1-24B-2503_6.cpp,RUNTIME_ERROR,0,4.55%,0.100,9.08984375,0,0,0,0,0,0,0
+stations_Mistral-Small-3.1-24B-2503_7.cpp,RUNTIME_ERROR,0,4.55%,0.050,4.96875,0,0,0,0,0,0,0

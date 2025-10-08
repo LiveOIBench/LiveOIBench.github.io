@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+diplomacy,gpt-4.1,TIME_LIMIT_EXCEEDED,0,5.38%,4.480,34.2109375
+garbage,gpt-4.1,TIME_LIMIT_EXCEEDED,59,65.75%,5.510,12.78515625
+xoracle,gpt-4.1,TIME_LIMIT_EXCEEDED,57,91.18%,2.260,4.25390625

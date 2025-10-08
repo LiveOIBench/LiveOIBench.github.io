@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+five_QwQ-32B_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+five_QwQ-32B_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.910,1.8125,0,0,0,0,0,0
+five_QwQ-32B_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+five_QwQ-32B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+five_QwQ-32B_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.860,5.8828125,0,0,0,0,0,0
+five_QwQ-32B_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.890,2.84375,0,0,0,0,0,0
+five_QwQ-32B_6.cpp,TIME_LIMIT_EXCEEDED,5,16.36%,0.870,3.6171875,5,0,0,0,0,0
+five_QwQ-32B_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.920,14.65625,0,0,0,0,0,0

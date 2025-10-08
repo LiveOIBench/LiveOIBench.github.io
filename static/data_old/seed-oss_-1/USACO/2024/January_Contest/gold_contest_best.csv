@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Walking_in_Manhattan,seed-oss_-1,TIME_LIMIT_EXCEEDED,140,45.00%,2.420,3.12890625
+gold_Cowmpetency,seed-oss_-1,WRONG_ANSWER,37,20.00%,0.060,1.76953125
+gold_Nap_Sort,seed-oss_-1,WRONG_ANSWER,0,9.09%,0.040,2.84765625

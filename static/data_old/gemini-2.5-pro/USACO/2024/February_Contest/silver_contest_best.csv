@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Target_Practice_II,gemini-2.5-pro,WRONG_ANSWER,167,46.67%,0.140,9.78515625
+silver_Test_Tubes,gemini-2.5-pro,MEMORY_LIMIT_EXCEEDED,50,14.29%,0.790,280.73046875
+silver_Moorbles,gemini-2.5-pro,ACCEPTED,333,100.00%,0.130,40.35546875

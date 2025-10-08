@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+zid_gpt-5_0.cpp,ACCEPTED,70,100.00%,0.230,1.5546875,17,21,32
+zid_gpt-5_1.cpp,ACCEPTED,70,100.00%,0.170,1.8125,17,21,32
+zid_gpt-5_2.cpp,ACCEPTED,70,100.00%,0.190,1.5546875,17,21,32
+zid_gpt-5_3.cpp,ACCEPTED,70,100.00%,0.160,2.5859375,17,21,32
+zid_gpt-5_4.cpp,ACCEPTED,70,100.00%,0.220,1.5546875,17,21,32
+zid_gpt-5_5.cpp,ACCEPTED,70,100.00%,0.160,1.5546875,17,21,32
+zid_gpt-5_6.cpp,ACCEPTED,70,100.00%,0.160,2.5859375,17,21,32
+zid_gpt-5_7.cpp,ACCEPTED,70,100.00%,0.120,1.8125,17,21,32

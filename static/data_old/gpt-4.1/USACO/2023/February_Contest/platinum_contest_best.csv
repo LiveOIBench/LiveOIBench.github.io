@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Hungry_Cow,gpt-4.1,TIME_LIMIT_EXCEEDED,17,13.64%,6.610,4.828125
+platinum_Problem_Setting,gpt-4.1,TIME_LIMIT_EXCEEDED,33,13.64%,2.280,37.82421875
+platinum_Watching_Cowflix,gpt-4.1,WRONG_ANSWER,0,4.17%,0.160,31.18359375

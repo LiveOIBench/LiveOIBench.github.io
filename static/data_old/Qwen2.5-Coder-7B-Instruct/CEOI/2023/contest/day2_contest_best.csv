@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+trade,Qwen2.5-Coder-7B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+incursion,Qwen2.5-Coder-7B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+avoid,Qwen2.5-Coder-7B-Instruct,RUNTIME_ERROR,0,0.74%,0.040,1.53515625

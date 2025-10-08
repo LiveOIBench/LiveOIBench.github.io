@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+sequence_seed-oss_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+sequence_seed-oss_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+sequence_seed-oss_2.cpp,TIME_LIMIT_EXCEEDED,0,22.11%,1.800,50.42578125,0,0,0,0,0,0,0,0
+sequence_seed-oss_3.cpp,TIME_LIMIT_EXCEEDED,0,22.11%,1.800,33.203125,0,0,0,0,0,0,0,0
+sequence_seed-oss_4.cpp,TIME_LIMIT_EXCEEDED,0,24.21%,1.810,46.80859375,0,0,0,0,0,0,0,0
+sequence_seed-oss_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+sequence_seed-oss_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+sequence_seed-oss_7.cpp,TIME_LIMIT_EXCEEDED,0,22.11%,1.800,9.25,0,0,0,0,0,0,0,0

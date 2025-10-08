@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Walking_in_Manhattan,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,140,45.00%,2.230,11.640625
+gold_Cowmpetency,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,148,50.00%,2.220,219.03515625
+gold_Nap_Sort,gpt-o3-mini-high,WRONG_ANSWER,0,9.09%,0.060,2.84765625

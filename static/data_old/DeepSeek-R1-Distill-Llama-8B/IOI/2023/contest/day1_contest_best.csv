@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+soccer,DeepSeek-R1-Distill-Llama-8B,RUNTIME_ERROR,0,5.93%,0.000,0
+closing,DeepSeek-R1-Distill-Llama-8B,TIME_LIMIT_EXCEEDED,0,4.48%,1.120,6.203125
+longesttrip,DeepSeek-R1-Distill-Llama-8B,COMPILATION_ERROR,0,0.00%,0.000,0

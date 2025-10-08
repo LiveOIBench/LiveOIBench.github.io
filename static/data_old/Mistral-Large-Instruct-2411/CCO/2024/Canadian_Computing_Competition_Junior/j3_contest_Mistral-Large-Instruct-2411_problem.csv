@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+j3_Mistral-Large-Instruct-2411_0.cpp,RUNTIME_ERROR,6,33.33%,0.080,2.328125,6,0,0
+j3_Mistral-Large-Instruct-2411_1.cpp,ACCEPTED,15,100.00%,0.090,2.328125,6,7,2
+j3_Mistral-Large-Instruct-2411_2.cpp,ACCEPTED,15,100.00%,0.100,2.328125,6,7,2
+j3_Mistral-Large-Instruct-2411_3.cpp,ACCEPTED,15,100.00%,0.100,2.328125,6,7,2
+j3_Mistral-Large-Instruct-2411_4.cpp,ACCEPTED,15,100.00%,0.100,2.328125,6,7,2
+j3_Mistral-Large-Instruct-2411_5.cpp,ACCEPTED,15,100.00%,0.100,2.328125,6,7,2
+j3_Mistral-Large-Instruct-2411_6.cpp,ACCEPTED,15,100.00%,0.100,2.328125,6,7,2
+j3_Mistral-Large-Instruct-2411_7.cpp,ACCEPTED,15,100.00%,0.090,2.33203125,6,7,2

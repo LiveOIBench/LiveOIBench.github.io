@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Palindrome_Game,DeepSeek-R1-Distill-Llama-8B,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Milk_Exchange,DeepSeek-R1-Distill-Llama-8B,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Maximizing_Productivity,DeepSeek-R1-Distill-Llama-8B,COMPILATION_ERROR,0,0.00%,0.000,0

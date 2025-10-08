@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+september_gpt-5_0.cpp,ACCEPTED,100,100.00%,0.320,21.16015625,11,16,14,5,9,5,11,9,11,9
+september_gpt-5_1.cpp,ACCEPTED,100,100.00%,0.460,21.15234375,11,16,14,5,9,5,11,9,11,9
+september_gpt-5_2.cpp,ACCEPTED,100,100.00%,0.450,22.71484375,11,16,14,5,9,5,11,9,11,9
+september_gpt-5_3.cpp,RUNTIME_ERROR,41,53.12%,0.190,8.32421875,11,0,14,0,0,5,11,0,0,0
+september_gpt-5_4.cpp,ACCEPTED,100,100.00%,0.460,25.29296875,11,16,14,5,9,5,11,9,11,9
+september_gpt-5_5.cpp,ACCEPTED,100,100.00%,0.420,26.1328125,11,16,14,5,9,5,11,9,11,9
+september_gpt-5_6.cpp,ACCEPTED,100,100.00%,0.180,7.796875,11,16,14,5,9,5,11,9,11,9
+september_gpt-5_7.cpp,ACCEPTED,100,100.00%,0.510,26.46875,11,16,14,5,9,5,11,9,11,9

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+icecreammachines_gpt-oss-20b-low_0.cpp,ACCEPTED,100,100.00%,0.040,11.11328125,7,12,22,11,14,13,21
+icecreammachines_gpt-oss-20b-low_1.cpp,ACCEPTED,100,100.00%,0.070,10.0625,7,12,22,11,14,13,21
+icecreammachines_gpt-oss-20b-low_2.cpp,RUNTIME_ERROR,7,46.23%,0.020,0,7,0,0,0,0,0,0
+icecreammachines_gpt-oss-20b-low_3.cpp,ACCEPTED,100,100.00%,0.080,10.3203125,7,12,22,11,14,13,21
+icecreammachines_gpt-oss-20b-low_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+icecreammachines_gpt-oss-20b-low_5.cpp,ACCEPTED,100,100.00%,0.060,15.42578125,7,12,22,11,14,13,21
+icecreammachines_gpt-oss-20b-low_6.cpp,ACCEPTED,100,100.00%,0.050,10.0234375,7,12,22,11,14,13,21
+icecreammachines_gpt-oss-20b-low_7.cpp,ACCEPTED,100,100.00%,0.030,5.625,7,12,22,11,14,13,21

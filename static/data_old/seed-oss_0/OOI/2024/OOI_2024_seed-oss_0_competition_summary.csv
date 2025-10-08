@@ -1,0 +1,19 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Dreaming_is_not_harmful,RUNTIME_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cute_Subsequences,RUNTIME_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The_arithmetic_exercise,RUNTIME_ERROR,0,0.00%,0.040,0.00390625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alice_Bob_and_two_arrays,MEMORY_LIMIT_EXCEEDED,13,32.52%,0.060,35.40234375,,0.0,13.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Card_Flip,RUNTIME_ERROR,0,22.81%,0.190,20.73828125,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Order_Statistics,TIME_LIMIT_EXCEEDED,4,39.89%,4.830,6.4921875,,0,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Best_Runner,RUNTIME_ERROR,0,4.50%,0.060,13.67578125,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Strong_Connectivity_Strikes_Back,ACCEPTED,100,100.00%,0.050,2.84375,,0.0,11.0,0,0,0,0,0,9.0,12.0,13.0,20.0,21.0,14.0,0,0
+Colorful_Diameter,RUNTIME_ERROR,0,0.00%,0.120,251.48046875,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Road_Lighting,UNKNOWN,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Repainting_the_Table,RUNTIME_ERROR,0,5.21%,0.000,0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Distinctive_Features,TIME_LIMIT_EXCEEDED,30,53.94%,3.620,45.38671875,,0.0,10.0,0,0,0,0,0,7.0,13.0,0,0,0,0,0,0
+Classic_Tree_Problem,RUNTIME_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alien_Homophones,UNKNOWN,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stone_Enthusiast,RUNTIME_ERROR,0,5.04%,0.130,23.3515625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Egors_Gaming_Addiction,UNKNOWN,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ultrafast_train,ACCEPTED,100,100.00%,0.080,13.69140625,,0.0,17.0,0,0,0,0,0,13.0,12.0,26.0,32.0,0,0,0,0
+TOTAL,,247,21.41%,,,11.76%,,,,,,,,,,,,,,,

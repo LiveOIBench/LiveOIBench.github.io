@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+Stone_Enthusiast_Qwen2.5-72B_0.cpp,RUNTIME_ERROR,0,1.71%,0.140,27.73828125,0,0,0,0,0,0,0,0
+Stone_Enthusiast_Qwen2.5-72B_1.cpp,RUNTIME_ERROR,0,0.00%,0.150,27.87890625,0,0,0,0,0,0,0,0
+Stone_Enthusiast_Qwen2.5-72B_2.cpp,TIME_LIMIT_EXCEEDED,0,1.71%,2.320,2.2890625,0,0,0,0,0,0,0,0
+Stone_Enthusiast_Qwen2.5-72B_3.cpp,RUNTIME_ERROR,0,1.71%,0.130,27.734375,0,0,0,0,0,0,0,0
+Stone_Enthusiast_Qwen2.5-72B_4.cpp,TIME_LIMIT_EXCEEDED,0,1.71%,2.220,27.83984375,0,0,0,0,0,0,0,0
+Stone_Enthusiast_Qwen2.5-72B_5.cpp,RUNTIME_ERROR,0,0.00%,0.110,4.265625,0,0,0,0,0,0,0,0
+Stone_Enthusiast_Qwen2.5-72B_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.270,2.66796875,0,0,0,0,0,0,0,0
+Stone_Enthusiast_Qwen2.5-72B_7.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0

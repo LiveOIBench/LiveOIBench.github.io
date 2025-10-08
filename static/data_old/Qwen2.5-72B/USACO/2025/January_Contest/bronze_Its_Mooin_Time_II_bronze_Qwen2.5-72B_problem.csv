@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Its_Mooin_Time_II_Qwen2.5-72B_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.240,9.390625,0,0,0,0,0,0,0,0,0,0,0
+bronze_Its_Mooin_Time_II_Qwen2.5-72B_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.220,6.1953125,0,0,0,0,0,0,0,0,0,0,0
+bronze_Its_Mooin_Time_II_Qwen2.5-72B_2.cpp,WRONG_ANSWER,0,0.00%,0.700,51.859375,0,0,0,0,0,0,0,0,0,0,0
+bronze_Its_Mooin_Time_II_Qwen2.5-72B_3.cpp,TIME_LIMIT_EXCEEDED,100,36.36%,2.330,8.078125,0,33.33333333333333,0,33.33333333333333,33.33333333333333,0,0,0,0,0,0
+bronze_Its_Mooin_Time_II_Qwen2.5-72B_4.cpp,WRONG_ANSWER,0,0.00%,0.650,51.85546875,0,0,0,0,0,0,0,0,0,0,0
+bronze_Its_Mooin_Time_II_Qwen2.5-72B_5.cpp,TIME_LIMIT_EXCEEDED,100,36.36%,2.330,7.5859375,0,33.33333333333333,0,33.33333333333333,33.33333333333333,0,0,0,0,0,0
+bronze_Its_Mooin_Time_II_Qwen2.5-72B_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,5.421875,0,0,0,0,0,0,0,0,0,0,0
+bronze_Its_Mooin_Time_II_Qwen2.5-72B_7.cpp,TIME_LIMIT_EXCEEDED,100,36.36%,2.440,10.3984375,0,33.33333333333333,0,33.33333333333333,33.33333333333333,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Cowdependence,Qwen3-14B-Non-Thinking,MEMORY_LIMIT_EXCEEDED,35,15.00%,0.210,277.92578125
+gold_Interstellar_Intervals,Qwen3-14B-Non-Thinking,TIME_LIMIT_EXCEEDED,0,0.00%,2.220,3.13671875
+gold_Job_Completion,Qwen3-14B-Non-Thinking,WRONG_ANSWER,22,12.50%,0.220,4.58203125

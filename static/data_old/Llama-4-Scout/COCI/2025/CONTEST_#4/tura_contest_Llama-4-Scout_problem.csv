@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+tura_Llama-4-Scout_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.610,32.796875,0,0,0
+tura_Llama-4-Scout_1.cpp,RUNTIME_ERROR,0,0.72%,0.020,3.09765625,0,0,0
+tura_Llama-4-Scout_2.cpp,RUNTIME_ERROR,0,0.00%,0.020,2.90625,0,0,0
+tura_Llama-4-Scout_3.cpp,RUNTIME_ERROR,0,0.72%,0.020,2.58984375,0,0,0
+tura_Llama-4-Scout_4.cpp,RUNTIME_ERROR,0,0.72%,0.020,2.5859375,0,0,0
+tura_Llama-4-Scout_5.cpp,RUNTIME_ERROR,0,0.72%,0.020,2.33203125,0,0,0
+tura_Llama-4-Scout_6.cpp,RUNTIME_ERROR,0,0.72%,0.020,2.26953125,0,0,0
+tura_Llama-4-Scout_7.cpp,RUNTIME_ERROR,0,0.72%,0.030,3.10546875,0,0,0

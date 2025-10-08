@@ -1,0 +1,10 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+bouquet,ACCEPTED,100,100.00%,0.110,8.75,,0,8,16,28,18,30,0
+infiniterace,RUNTIME_ERROR,29,58.65%,0.090,2.84765625,,0,29,0,0,0,0,0
+teamcoding,ACCEPTED,100,100.00%,0.630,36.3125,,0,12,19,27,23,19,0
+gardendecorations,RUNTIME_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0
+circlepassing,ACCEPTED,100,100.00%,0.830,69.96875,,0,14,20,22,17,27,0
+makethemmeet,RUNTIME_ERROR,10,22.02%,0.020,0.00390625,,0,10,0.0,0.0,0.0,0.0,0
+lightbulbs,RUNTIME_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0
+bikeparking,RUNTIME_ERROR,25,61.49%,0.100,16.50390625,,0,16,9,0,0,0,0
+TOTAL,,364,55.27%,,,37.50%,,,,,,,

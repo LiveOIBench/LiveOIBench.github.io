@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Job_Completion_Llama-4-Scout_1.cpp,WRONG_ANSWER,22,12.50%,0.090,4.64453125,0,22.22222222222222,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Job_Completion_Llama-4-Scout_1.cpp,WRONG_ANSWER,22,12.50%,0.090,4.64453125,0,22.22222222222222,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Job_Completion_Llama-4-Scout_1.cpp,WRONG_ANSWER,22,12.50%,0.090,4.64453125,0,22.22222222222222,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Job_Completion_Llama-4-Scout_1.cpp,WRONG_ANSWER,22,12.50%,0.090,4.64453125,0,22.22222222222222,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Job_Completion_Llama-4-Scout_1.cpp,WRONG_ANSWER,22,12.50%,0.090,4.64453125,0,22.22222222222222,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Job_Completion_Llama-4-Scout_2.cpp,WRONG_ANSWER,0,6.25%,0.060,4.703125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Job_Completion_Llama-4-Scout_5.cpp,WRONG_ANSWER,22,12.50%,0.080,4.640625,0,22.22222222222222,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Job_Completion_Llama-4-Scout_7.cpp,WRONG_ANSWER,0,0.00%,0.070,4.296875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

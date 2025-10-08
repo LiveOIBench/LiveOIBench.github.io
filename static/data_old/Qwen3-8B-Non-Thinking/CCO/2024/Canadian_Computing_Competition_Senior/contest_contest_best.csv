@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+s1,Qwen3-8B-Non-Thinking,ACCEPTED,15,100.00%,0.270,5.16796875
+s2,Qwen3-8B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+s3,Qwen3-8B-Non-Thinking,RUNTIME_ERROR,0,0.00%,0.070,2.58984375
+s4,Qwen3-8B-Non-Thinking,RUNTIME_ERROR,0,2.00%,0.130,14.6328125
+s5,Qwen3-8B-Non-Thinking,RUNTIME_ERROR,0,2.65%,0.100,2.84765625

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Tractor_Paths,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Mana_Collection,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Subtree_Activation,Qwen2.5-Coder-14B-Instruct,WRONG_ANSWER,0,4.76%,0.160,12.38671875

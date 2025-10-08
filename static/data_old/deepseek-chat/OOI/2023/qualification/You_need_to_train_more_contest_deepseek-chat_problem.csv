@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+You_need_to_train_more_deepseek-chat_0.cpp,TIME_LIMIT_EXCEEDED,74,80.77%,1.130,2.5859375,0.0,18.0,19.0,16.0,21.0,0
+You_need_to_train_more_deepseek-chat_1.cpp,TIME_LIMIT_EXCEEDED,74,80.77%,1.120,9.71484375,0.0,18.0,19.0,16.0,21.0,0
+You_need_to_train_more_deepseek-chat_2.cpp,TIME_LIMIT_EXCEEDED,18,44.35%,1.120,8.515625,0.0,18.0,0,0,0,0
+You_need_to_train_more_deepseek-chat_3.cpp,TIME_LIMIT_EXCEEDED,74,80.77%,1.130,9.78515625,0.0,18.0,19.0,16.0,21.0,0
+You_need_to_train_more_deepseek-chat_4.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+You_need_to_train_more_deepseek-chat_5.cpp,RUNTIME_ERROR,37,56.80%,0.690,9.734375,0.0,18.0,19.0,0,0,0
+You_need_to_train_more_deepseek-chat_6.cpp,TIME_LIMIT_EXCEEDED,74,80.77%,1.180,9.71484375,0.0,18.0,19.0,16.0,21.0,0
+You_need_to_train_more_deepseek-chat_7.cpp,RUNTIME_ERROR,0,30.69%,0.000,0,0.0,0,0,0,0,0

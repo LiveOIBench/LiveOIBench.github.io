@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Cowreography,Qwen2.5-Coder-7B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Grass_Segments,Qwen2.5-Coder-7B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Smaller_Averages,Qwen2.5-Coder-7B-Instruct,RUNTIME_ERROR,0,5.00%,0.110,0.00390625

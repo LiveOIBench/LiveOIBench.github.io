@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Heroes,gpt-4.1,COMPILATION_ERROR,0,0.00%,0.000,0
+Pinball,gpt-4.1,COMPILATION_ERROR,0,0.00%,0.000,0
+AA_Tree,gpt-4.1,COMPILATION_ERROR,0,0.00%,0.000,0

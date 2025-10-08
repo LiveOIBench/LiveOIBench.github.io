@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+piratski_gpt-oss-20b-medium_0.cpp,ACCEPTED,110,100.00%,0.380,2.25,20,40,50
+piratski_gpt-oss-20b-medium_1.cpp,WRONG_ANSWER,0,0.00%,1.400,2.59375,0,0,0
+piratski_gpt-oss-20b-medium_2.cpp,WRONG_ANSWER,0,0.00%,0.080,1.5546875,0,0,0
+piratski_gpt-oss-20b-medium_4.cpp,ACCEPTED,110,100.00%,0.120,2.1484375,20,40,50
+piratski_gpt-oss-20b-medium_5.cpp,WRONG_ANSWER,0,0.00%,0.030,1.55859375,0,0,0
+piratski_gpt-oss-20b-medium_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+piratski_gpt-oss-20b-medium_7.cpp,WRONG_ANSWER,0,0.00%,0.200,2.07421875,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Cowntact_Tracing,gpt-5,WRONG_ANSWER,67,30.43%,0.220,29.62109375
+platinum_A_Graph_Problem,gpt-5,TIME_LIMIT_EXCEEDED,50,26.09%,2.470,20.44921875
+platinum_Train_Scheduling,gpt-5,WRONG_ANSWER,300,91.67%,0.100,1.5546875

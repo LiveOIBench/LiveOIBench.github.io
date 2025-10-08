@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+pahuljice,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,0.00%,0.000,0
+pingvin,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,23,46.88%,0.070,2.8359375
+dizalo,Qwen2.5-Coder-32B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+kuglice,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,8.11%,0.060,0.00390625
+zatopljenje,Qwen2.5-Coder-32B-Instruct,TIME_LIMIT_EXCEEDED,10,42.50%,2.230,2.7890625

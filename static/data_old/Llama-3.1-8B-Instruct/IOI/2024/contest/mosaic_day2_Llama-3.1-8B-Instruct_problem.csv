@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+mosaic_Llama-3.1-8B-Instruct_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0
+mosaic_Llama-3.1-8B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,12,57.66%,1.110,2243.5,0,5,7,0,0,0,0,0,0
+mosaic_Llama-3.1-8B-Instruct_2.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,1.070,2241.1796875,0,0,0,0,0,0,0,0,0
+mosaic_Llama-3.1-8B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.120,11.359375,0,0,0,0,0,0,0,0,0
+mosaic_Llama-3.1-8B-Instruct_4.cpp,RUNTIME_ERROR,0,0.00%,0.100,7.00390625,0,0,0,0,0,0,0,0,0
+mosaic_Llama-3.1-8B-Instruct_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0
+mosaic_Llama-3.1-8B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,0,15.79%,1.120,11.6171875,0,0,0,0,0,0,0,0,0
+mosaic_Llama-3.1-8B-Instruct_7.cpp,RUNTIME_ERROR,0,4.29%,0.090,7.0,0,0,0,0,0,0,0,0,0

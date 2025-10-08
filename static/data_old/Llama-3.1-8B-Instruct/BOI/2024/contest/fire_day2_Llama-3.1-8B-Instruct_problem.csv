@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+fire_Llama-3.1-8B-Instruct_0.cpp,RUNTIME_ERROR,0,0.00%,0.200,252.92578125,0,0,0,0,0,0
+fire_Llama-3.1-8B-Instruct_1.cpp,RUNTIME_ERROR,0,0.00%,0.060,2.84765625,0,0,0,0,0,0
+fire_Llama-3.1-8B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,0,5.33%,1.120,2.90234375,0,0,0,0,0,0
+fire_Llama-3.1-8B-Instruct_3.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.130,5.16015625,0,0,0,0,0,0
+fire_Llama-3.1-8B-Instruct_4.cpp,RUNTIME_ERROR,0,0.00%,0.040,4.39453125,0,0,0,0,0,0
+fire_Llama-3.1-8B-Instruct_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.190,5.1640625,0,0,0,0,0,0
+fire_Llama-3.1-8B-Instruct_6.cpp,RUNTIME_ERROR,0,0.00%,0.110,2.83984375,0,0,0,0,0,0
+fire_Llama-3.1-8B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.130,4.39453125,0,0,0,0,0,0

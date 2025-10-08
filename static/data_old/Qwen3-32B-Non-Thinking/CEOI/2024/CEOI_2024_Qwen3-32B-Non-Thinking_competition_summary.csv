@@ -1,0 +1,8 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+covid,TIME_LIMIT_EXCEEDED,10,66.67%,5.930,1.5390625,,0,10,0,0,0,0,0,0
+battle,MEMORY_LIMIT_EXCEEDED,0,14.58%,1.470,1125.61328125,,0,0,0,0,0,0,0,0
+editor,TIME_LIMIT_EXCEEDED,14,35.38%,4.410,1125.71484375,,0,0,14,0,0,0,0,0
+toy,TIME_LIMIT_EXCEEDED,0,19.16%,1.490,172.5546875,,0,0,0,0,0,0,0,0
+stations,TIME_LIMIT_EXCEEDED,0,6.82%,3.860,6.39453125,,0,0,0,0,0,0,0,0
+sprinklers,ACCEPTED,100,100.00%,0.050,2.33203125,,0,3,6,17,27,47,0,0
+TOTAL,,124,40.43%,,,16.67%,,,,,,,,

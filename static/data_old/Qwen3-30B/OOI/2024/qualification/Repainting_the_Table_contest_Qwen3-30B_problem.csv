@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+Repainting_the_Table_Qwen3-30B_0.cpp,TIME_LIMIT_EXCEEDED,17,50.34%,1.710,40.75,0.0,17.0,0,0,0
+Repainting_the_Table_Qwen3-30B_1.cpp,TIME_LIMIT_EXCEEDED,17,83.43%,1.700,48.3203125,0.0,17.0,0,0,0
+Repainting_the_Table_Qwen3-30B_2.cpp,TIME_LIMIT_EXCEEDED,72,86.84%,1.660,54.06640625,0.0,17.0,21.0,34.0,0
+Repainting_the_Table_Qwen3-30B_3.cpp,TIME_LIMIT_EXCEEDED,17,83.43%,1.700,32.87109375,0.0,17.0,0,0,0
+Repainting_the_Table_Qwen3-30B_4.cpp,RUNTIME_ERROR,51,64.83%,0.480,40.53125,0.0,17.0,0,34.0,0
+Repainting_the_Table_Qwen3-30B_5.cpp,RUNTIME_ERROR,0,5.21%,0.000,0,0.0,0,0,0,0
+Repainting_the_Table_Qwen3-30B_6.cpp,TIME_LIMIT_EXCEEDED,17,50.34%,1.660,40.421875,0.0,17.0,0,0,0
+Repainting_the_Table_Qwen3-30B_7.cpp,RUNTIME_ERROR,0,5.21%,0.000,0,0.0,0,0,0,0

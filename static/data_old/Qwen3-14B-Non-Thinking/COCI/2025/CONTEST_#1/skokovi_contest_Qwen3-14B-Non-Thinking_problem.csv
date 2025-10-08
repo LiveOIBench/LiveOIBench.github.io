@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+skokovi_Qwen3-14B-Non-Thinking_0.cpp,RUNTIME_ERROR,20,50.00%,0.100,3.6171875,20,0,0
+skokovi_Qwen3-14B-Non-Thinking_1.cpp,ACCEPTED,70,100.00%,0.180,12.8984375,20,25,25
+skokovi_Qwen3-14B-Non-Thinking_2.cpp,TIME_LIMIT_EXCEEDED,25,43.75%,5.570,3.6171875,0,25,0
+skokovi_Qwen3-14B-Non-Thinking_3.cpp,ACCEPTED,70,100.00%,0.170,12.8984375,20,25,25
+skokovi_Qwen3-14B-Non-Thinking_4.cpp,TIME_LIMIT_EXCEEDED,25,43.75%,5.550,3.6171875,0,25,0
+skokovi_Qwen3-14B-Non-Thinking_5.cpp,ACCEPTED,70,100.00%,0.180,12.8984375,20,25,25
+skokovi_Qwen3-14B-Non-Thinking_6.cpp,ACCEPTED,70,100.00%,0.190,12.8984375,20,25,25
+skokovi_Qwen3-14B-Non-Thinking_7.cpp,ACCEPTED,70,100.00%,0.170,12.8984375,20,25,25

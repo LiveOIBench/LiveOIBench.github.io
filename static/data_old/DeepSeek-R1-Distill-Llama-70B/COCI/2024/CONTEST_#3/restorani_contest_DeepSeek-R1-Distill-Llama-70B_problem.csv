@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+restorani_DeepSeek-R1-Distill-Llama-70B_0.cpp,RUNTIME_ERROR,0,0.68%,0.150,22.203125,0,0,0,0
+restorani_DeepSeek-R1-Distill-Llama-70B_1.cpp,TIME_LIMIT_EXCEEDED,0,0.68%,2.240,42.55078125,0,0,0,0
+restorani_DeepSeek-R1-Distill-Llama-70B_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+restorani_DeepSeek-R1-Distill-Llama-70B_3.cpp,RUNTIME_ERROR,0,0.68%,0.230,45.76171875,0,0,0,0
+restorani_DeepSeek-R1-Distill-Llama-70B_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+restorani_DeepSeek-R1-Distill-Llama-70B_5.cpp,RUNTIME_ERROR,0,0.68%,0.130,20.5859375,0,0,0,0
+restorani_DeepSeek-R1-Distill-Llama-70B_6.cpp,TIME_LIMIT_EXCEEDED,0,0.68%,2.220,19.59765625,0,0,0,0
+restorani_DeepSeek-R1-Distill-Llama-70B_7.cpp,RUNTIME_ERROR,0,0.00%,0.070,10.75,0,0,0,0

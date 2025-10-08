@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Pareidolia,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Good_Bitstrings,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Triples_of_Cows,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,0.00%,0.230,18.87890625

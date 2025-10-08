@@ -1,0 +1,7 @@
+problem,model,status,score,%test passed,time,memory
+cheese,gpt-5,ACCEPTED,100,100.00%,1.160,100.73828125
+oldorhei,gpt-5,ACCEPTED,100,100.00%,0.110,22.02734375
+manypairs,gpt-5,ACCEPTED,100,100.00%,0.510,145.51953125
+cfduels,gpt-5,ACCEPTED,100,100.00%,0.130,3.265625
+hora,gpt-5,RUNTIME_ERROR,5,10.47%,0.150,1.5390625
+sweets,gpt-5,ACCEPTED,100,100.00%,0.740,90.59765625

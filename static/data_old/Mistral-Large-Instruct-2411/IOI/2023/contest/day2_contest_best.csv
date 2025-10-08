@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+robot,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0
+overtaking,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,39,69.78%,2.760,16.296875
+beechtree,Mistral-Large-Instruct-2411,MEMORY_LIMIT_EXCEEDED,0,3.03%,0.060,28.98828125

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Walking_in_Manhattan,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Cowmpetency,DeepSeek-Coder-V2-Lite-Instruct,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.250,182.28515625
+gold_Nap_Sort,DeepSeek-Coder-V2-Lite-Instruct,WRONG_ANSWER,0,0.00%,0.160,2.84765625

@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+circlepassing,gpt-oss-20b-low,TIME_LIMIT_EXCEEDED,56,77.70%,2.410,9.29296875
+makethemmeet,gpt-oss-20b-low,UNKNOWN,0,0.00%,0.000,0
+lightbulbs,gpt-oss-20b-low,ACCEPTED,100,100.00%,0.020,0
+bikeparking,gpt-oss-20b-low,RUNTIME_ERROR,16,45.10%,0.000,0

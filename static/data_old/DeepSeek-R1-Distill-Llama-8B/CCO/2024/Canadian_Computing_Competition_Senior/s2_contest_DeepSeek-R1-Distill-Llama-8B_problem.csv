@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+s2_DeepSeek-R1-Distill-Llama-8B_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+s2_DeepSeek-R1-Distill-Llama-8B_1.cpp,ACCEPTED,15,100.00%,0.070,0.00390625,5,5,2,3
+s2_DeepSeek-R1-Distill-Llama-8B_2.cpp,RUNTIME_ERROR,0,0.00%,0.080,0.00390625,0,0,0,0
+s2_DeepSeek-R1-Distill-Llama-8B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+s2_DeepSeek-R1-Distill-Llama-8B_4.cpp,RUNTIME_ERROR,0,0.00%,0.050,0.00390625,0,0,0,0
+s2_DeepSeek-R1-Distill-Llama-8B_5.cpp,RUNTIME_ERROR,0,0.00%,0.070,0.00390625,0,0,0,0
+s2_DeepSeek-R1-Distill-Llama-8B_7.cpp,RUNTIME_ERROR,0,0.00%,0.060,0.00390625,0,0,0,0

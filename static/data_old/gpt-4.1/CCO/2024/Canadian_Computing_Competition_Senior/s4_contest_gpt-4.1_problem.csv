@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+s4_gpt-4.1_0.cpp,RUNTIME_ERROR,0,0.00%,0.140,17.28125,0,0,0,0
+s4_gpt-4.1_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.130,18.82421875,0,0,0,0
+s4_gpt-4.1_2.cpp,RUNTIME_ERROR,0,0.00%,0.170,16.5078125,0,0,0,0
+s4_gpt-4.1_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+s4_gpt-4.1_4.cpp,RUNTIME_ERROR,0,0.00%,0.130,18.70703125,0,0,0,0
+s4_gpt-4.1_5.cpp,RUNTIME_ERROR,0,2.00%,0.110,17.28125,0,0,0,0
+s4_gpt-4.1_6.cpp,RUNTIME_ERROR,0,0.00%,0.150,27.59375,0,0,0,0
+s4_gpt-4.1_7.cpp,RUNTIME_ERROR,0,0.00%,0.130,15.734375,0,0,0,0

@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+j1,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,15,100.00%,0.000,0
+j2,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,15,100.00%,0.050,0.00390625
+j3,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,15,100.00%,0.090,2.328125
+j4,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,15,100.00%,0.080,2.82421875
+j5,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,15,100.00%,0.050,1.5546875

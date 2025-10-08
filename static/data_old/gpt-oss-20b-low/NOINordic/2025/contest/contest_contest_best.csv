@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+diplomacy,gpt-oss-20b-low,TIME_LIMIT_EXCEEDED,0,5.38%,4.820,12.62890625
+garbage,gpt-oss-20b-low,TIME_LIMIT_EXCEEDED,0,15.07%,5.980,6.3515625
+xoracle,gpt-oss-20b-low,ACCEPTED,100,100.00%,0.360,3.796875

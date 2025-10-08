@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Bessies_Function_deepseek-chat_0.cpp,RUNTIME_ERROR,0,0.00%,0.070,3.953125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessies_Function_deepseek-chat_1.cpp,RUNTIME_ERROR,0,0.00%,0.070,4.9921875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessies_Function_deepseek-chat_2.cpp,RUNTIME_ERROR,0,0.00%,0.070,4.0078125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessies_Function_deepseek-chat_3.cpp,WRONG_ANSWER,0,4.76%,0.080,5.22265625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessies_Function_deepseek-chat_4.cpp,RUNTIME_ERROR,0,0.00%,0.070,3.87890625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessies_Function_deepseek-chat_5.cpp,RUNTIME_ERROR,0,0.00%,0.070,4.69140625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessies_Function_deepseek-chat_6.cpp,RUNTIME_ERROR,0,0.00%,0.070,3.9296875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessies_Function_deepseek-chat_7.cpp,RUNTIME_ERROR,0,0.00%,0.080,16.1640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

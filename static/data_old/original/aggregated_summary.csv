@@ -1,0 +1,6 @@
+competition_year,model,total_score,avg %passed,avg_time,avg_mem,pass_rate
+ALL_COMPETITIONS,original,700,91.67%,1.52,204.88,91.67%
+APIO-2023,original,300,100.00%,1.91,487.78,100.00%
+APIO-2024,original,200,66.67%,0.29,25.81,66.67%
+OOI-2023,original,100,100.00%,3.87,291.32,100.00%
+RMI-2023,original,100,100.00%,0.01,14.63,100.00%

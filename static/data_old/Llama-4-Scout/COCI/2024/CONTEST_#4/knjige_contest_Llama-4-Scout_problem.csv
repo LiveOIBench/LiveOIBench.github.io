@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+knjige_Llama-4-Scout_0.cpp,RUNTIME_ERROR,7,25.00%,0.030,2.015625,7,0,0
+knjige_Llama-4-Scout_1.cpp,RUNTIME_ERROR,0,0.00%,0.050,2.07421875,0,0,0
+knjige_Llama-4-Scout_2.cpp,RUNTIME_ERROR,0,0.00%,0.020,2.015625,0,0,0
+knjige_Llama-4-Scout_3.cpp,TIME_LIMIT_EXCEEDED,0,21.43%,1.210,2.07421875,0,0,0
+knjige_Llama-4-Scout_4.cpp,RUNTIME_ERROR,0,0.00%,0.040,2.07421875,0,0,0
+knjige_Llama-4-Scout_5.cpp,RUNTIME_ERROR,7,25.00%,0.050,2.07421875,7,0,0
+knjige_Llama-4-Scout_6.cpp,RUNTIME_ERROR,0,0.00%,0.060,2.07421875,0,0,0
+knjige_Llama-4-Scout_7.cpp,RUNTIME_ERROR,0,0.00%,0.060,2.07421875,0,0,0

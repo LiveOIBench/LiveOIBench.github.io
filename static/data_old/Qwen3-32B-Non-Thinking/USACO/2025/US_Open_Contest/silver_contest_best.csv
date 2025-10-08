@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Sequence_Construction,Qwen3-32B-Non-Thinking,WRONG_ANSWER,0,0.00%,0.040,0.00390625
+silver_Compatible_Pairs,Qwen3-32B-Non-Thinking,WRONG_ANSWER,67,33.33%,0.220,25.7890625
+silver_Ski_Slope,Qwen3-32B-Non-Thinking,TIME_LIMIT_EXCEEDED,62,23.53%,2.260,24.24609375

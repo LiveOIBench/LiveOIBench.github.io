@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0_1,subtask_0_2,subtask_0_3,subtask_1_1,subtask_2_1,subtask_3_1,subtask_4_1,subtask_5_1,subtask_6_1,subtask_7_1
+grading-server_DeepSeek-R1-Distill-Llama-70B_0.cpp,RUNTIME_ERROR,0,4.00%,0.500,0.00390625,0,0,0,0,0,0,0,0,0,0
+grading-server_DeepSeek-R1-Distill-Llama-70B_1.cpp,RUNTIME_ERROR,0,2.67%,0.530,0.00390625,0,0,0,0,0,0,0,0,0,0
+grading-server_DeepSeek-R1-Distill-Llama-70B_2.cpp,RUNTIME_ERROR,0,4.00%,0.280,0.00390625,0,0,0,0,0,0,0,0,0,0
+grading-server_DeepSeek-R1-Distill-Llama-70B_3.cpp,RUNTIME_ERROR,0,1.33%,0.480,0.00390625,0,0,0,0,0,0,0,0,0,0
+grading-server_DeepSeek-R1-Distill-Llama-70B_4.cpp,RUNTIME_ERROR,0,1.33%,0.440,0.00390625,0,0,0,0,0,0,0,0,0,0
+grading-server_DeepSeek-R1-Distill-Llama-70B_5.cpp,RUNTIME_ERROR,0,4.00%,0.470,0.00390625,0,0,0,0,0,0,0,0,0,0
+grading-server_DeepSeek-R1-Distill-Llama-70B_6.cpp,RUNTIME_ERROR,0,4.00%,0.500,0.00390625,0,0,0,0,0,0,0,0,0,0
+grading-server_DeepSeek-R1-Distill-Llama-70B_7.cpp,RUNTIME_ERROR,0,4.00%,0.270,0.00390625,0,0,0,0,0,0,0,0,0,0

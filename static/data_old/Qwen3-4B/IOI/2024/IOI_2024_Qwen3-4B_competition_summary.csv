@@ -1,0 +1,8 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+message,RUNTIME_ERROR,0,6.67%,0.120,3.9921875,,0,0.0,0.0,0,0,0,0,0,0
+nile,TIME_LIMIT_EXCEEDED,23,43.48%,2.410,7.9921875,,0,6,0,17,0,0,0,0,0
+tree,TIME_LIMIT_EXCEEDED,0,2.67%,2.410,24.44921875,,0,0,0,0,0,0,0,0,0
+hieroglyphs,TIME_LIMIT_EXCEEDED,0,4.42%,1.200,2447.171875,,0,0,0,0,0,0,0,0,0
+sphinx,RUNTIME_ERROR,0,3.26%,0.030,3.796875,,0,0.0,0.0,0.0,0.0,0.0,0,0,0
+mosaic,MEMORY_LIMIT_EXCEEDED,22,64.86%,0.840,2433.24609375,,0,5,7,0,10,0,0,0,0
+TOTAL,,45,20.89%,,,0.00%,,,,,,,,,

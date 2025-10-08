@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Quantum_Moochanics_gpt-o3-mini-high_0.cpp,WRONG_ANSWER,0,8.33%,0.150,8.8671875,0,0,0,0,0,0,0,0,0,0,0
+gold_Quantum_Moochanics_gpt-o3-mini-high_1.cpp,TIME_LIMIT_EXCEEDED,33,16.67%,2.270,9.48046875,0,33.33333333333333,0,0,0,0,0,0,0,0,0
+gold_Quantum_Moochanics_gpt-o3-mini-high_2.cpp,RUNTIME_ERROR,0,0.00%,0.160,13.671875,0,0,0,0,0,0,0,0,0,0,0
+gold_Quantum_Moochanics_gpt-o3-mini-high_3.cpp,WRONG_ANSWER,33,16.67%,0.080,5.1640625,0,33.33333333333333,0,0,0,0,0,0,0,0,0
+gold_Quantum_Moochanics_gpt-o3-mini-high_4.cpp,TIME_LIMIT_EXCEEDED,0,8.33%,2.260,5.34375,0,0,0,0,0,0,0,0,0,0,0
+gold_Quantum_Moochanics_gpt-o3-mini-high_5.cpp,WRONG_ANSWER,33,16.67%,0.150,16.35546875,0,33.33333333333333,0,0,0,0,0,0,0,0,0
+gold_Quantum_Moochanics_gpt-o3-mini-high_6.cpp,RUNTIME_ERROR,0,0.00%,0.090,4.91015625,0,0,0,0,0,0,0,0,0,0,0
+gold_Quantum_Moochanics_gpt-o3-mini-high_7.cpp,WRONG_ANSWER,0,8.33%,0.150,17.0625,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+editor_gpt-o3-mini-high_0.cpp,RUNTIME_ERROR,5,16.13%,0.730,454.74609375,0,5,0,0,0,0
+editor_gpt-o3-mini-high_1.cpp,MEMORY_LIMIT_EXCEEDED,5,17.74%,0.820,791.83203125,0,5,0,0,0,0
+editor_gpt-o3-mini-high_2.cpp,MEMORY_LIMIT_EXCEEDED,56,90.16%,1.230,1125.35546875,0,5,14,26,11,0
+editor_gpt-o3-mini-high_3.cpp,MEMORY_LIMIT_EXCEEDED,0,8.06%,0.820,823.4609375,0,0,0,0,0,0
+editor_gpt-o3-mini-high_4.cpp,RUNTIME_ERROR,5,56.67%,1.230,496.04296875,0,5,0,0,0,0
+editor_gpt-o3-mini-high_5.cpp,MEMORY_LIMIT_EXCEEDED,5,16.13%,0.560,832.28515625,0,5,0,0,0,0
+editor_gpt-o3-mini-high_6.cpp,MEMORY_LIMIT_EXCEEDED,5,16.13%,0.810,823.45703125,0,5,0,0,0,0
+editor_gpt-o3-mini-high_7.cpp,RUNTIME_ERROR,5,16.13%,0.740,385.515625,0,5,0,0,0,0

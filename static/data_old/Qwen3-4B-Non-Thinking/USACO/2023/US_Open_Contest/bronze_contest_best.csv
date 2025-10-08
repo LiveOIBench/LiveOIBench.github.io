@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_FEB,Qwen3-4B-Non-Thinking,MEMORY_LIMIT_EXCEEDED,118,45.00%,0.310,280.40625
+bronze_Moo_Language,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Rotate_and_Shift,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0

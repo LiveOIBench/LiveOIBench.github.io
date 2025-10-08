@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Burenka_and_Pether,gpt-o3-mini-high,RUNTIME_ERROR,0,9.89%,0.960,230.3671875
+Almost_Certainly,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,16,60.94%,1.110,4.6484375
+Three_Arrays,gpt-o3-mini-high,ACCEPTED,100,100.00%,0.060,9.03125
+Parallel_Universes,gpt-o3-mini-high,RUNTIME_ERROR,11,10.14%,0.040,1.546875

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bakery,Qwen3-30B,ACCEPTED,333,100.00%,0.110,0.00390625
+silver_Cow-libi,Qwen3-30B,ACCEPTED,333,100.00%,0.160,3.0078125
+silver_Moo_Route_II,Qwen3-30B,TIME_LIMIT_EXCEEDED,204,65.00%,4.410,13.4140625

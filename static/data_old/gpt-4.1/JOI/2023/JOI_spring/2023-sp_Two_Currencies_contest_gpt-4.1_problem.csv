@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4
+2023-sp_Two_Currencies_gpt-4.1_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+2023-sp_Two_Currencies_gpt-4.1_1.cpp,RUNTIME_ERROR,0,0.00%,0.120,4.78515625,0,0,0,0
+2023-sp_Two_Currencies_gpt-4.1_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+2023-sp_Two_Currencies_gpt-4.1_3.cpp,TIME_LIMIT_EXCEEDED,10,62.16%,4.410,30.015625,10,0,0,0
+2023-sp_Two_Currencies_gpt-4.1_4.cpp,RUNTIME_ERROR,0,0.00%,0.130,8.51171875,0,0,0,0
+2023-sp_Two_Currencies_gpt-4.1_5.cpp,TIME_LIMIT_EXCEEDED,10,62.16%,4.440,32.640625,10,0,0,0
+2023-sp_Two_Currencies_gpt-4.1_6.cpp,RUNTIME_ERROR,0,0.00%,0.120,4.53515625,0,0,0,0
+2023-sp_Two_Currencies_gpt-4.1_7.cpp,RUNTIME_ERROR,0,0.00%,0.120,1.546875,0,0,0,0

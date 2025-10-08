@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_21,subtask_22,subtask_23,subtask_24,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Logical_Moos_Qwen2.5-72B_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.500,7.48046875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Logical_Moos_Qwen2.5-72B_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.340,7.81640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Logical_Moos_Qwen2.5-72B_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.330,7.81640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Logical_Moos_Qwen2.5-72B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Logical_Moos_Qwen2.5-72B_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.490,9.421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Logical_Moos_Qwen2.5-72B_5.cpp,TIME_LIMIT_EXCEEDED,28,15.38%,2.380,21.6171875,0,13.888888888888888,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13.888888888888888,0,0,0,0,0
+bronze_Logical_Moos_Qwen2.5-72B_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.590,14.9609375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Logical_Moos_Qwen2.5-72B_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.420,7.48046875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

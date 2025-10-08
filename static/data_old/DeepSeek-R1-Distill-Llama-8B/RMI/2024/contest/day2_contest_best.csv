@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Jump_Civilization,DeepSeek-R1-Distill-Llama-8B,COMPILATION_ERROR,0,0.00%,0.000,0
+Ramen,DeepSeek-R1-Distill-Llama-8B,COMPILATION_ERROR,0,0.00%,0.000,0
+Signals,DeepSeek-R1-Distill-Llama-8B,UNKNOWN,0,0.00%,0.000,0

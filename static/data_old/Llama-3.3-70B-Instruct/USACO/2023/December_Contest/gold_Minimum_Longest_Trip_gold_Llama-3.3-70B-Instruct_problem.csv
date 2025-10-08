@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Minimum_Longest_Trip_Llama-3.3-70B-Instruct_0.cpp,RUNTIME_ERROR,0,0.00%,0.230,18.84765625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Minimum_Longest_Trip_Llama-3.3-70B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.340,27.546875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Minimum_Longest_Trip_Llama-3.3-70B-Instruct_2.cpp,RUNTIME_ERROR,104,30.00%,0.270,17.86328125,0,20.833333333333332,0,0,20.833333333333332,20.833333333333332,20.833333333333332,0,0,20.833333333333332,0,0,0,0,0,0,0
+gold_Minimum_Longest_Trip_Llama-3.3-70B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,0,5.00%,2.280,18.375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Minimum_Longest_Trip_Llama-3.3-70B-Instruct_4.cpp,MEMORY_LIMIT_EXCEEDED,21,10.00%,0.260,199.0390625,0,0,0,0,0,0,0,0,0,0,0,0,20.833333333333332,0,0,0,0
+gold_Minimum_Longest_Trip_Llama-3.3-70B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,0,5.00%,2.270,17.60546875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Minimum_Longest_Trip_Llama-3.3-70B-Instruct_6.cpp,RUNTIME_ERROR,0,5.00%,0.250,19.90234375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Minimum_Longest_Trip_Llama-3.3-70B-Instruct_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.290,211.9140625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

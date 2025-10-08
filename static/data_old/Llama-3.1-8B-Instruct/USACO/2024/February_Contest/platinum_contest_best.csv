@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Lazy_Cow,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Minimum_Sum_of_Maximums,Llama-3.1-8B-Instruct,RUNTIME_ERROR,50,20.83%,0.110,0
+platinum_Infinite_Adventure,Llama-3.1-8B-Instruct,TIME_LIMIT_EXCEEDED,42,11.11%,2.470,5.2265625

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+covid,Qwen3-30B,COMPILATION_ERROR,0,0.00%,0.000,0
+battle,Qwen3-30B,RUNTIME_ERROR,6,52.99%,0.750,71.51953125
+editor,Qwen3-30B,TIME_LIMIT_EXCEEDED,14,35.38%,4.440,1125.6796875

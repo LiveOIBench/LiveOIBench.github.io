@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Burenka_and_Pether,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,10,38.96%,3.320,16.94921875
+Almost_Certainly,gemini-2.5-pro,RUNTIME_ERROR,13,17.39%,0.120,5.94140625
+Three_Arrays,gemini-2.5-pro,ACCEPTED,100,100.00%,0.060,9.03125
+Parallel_Universes,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,30,30.94%,2.210,3.8828125

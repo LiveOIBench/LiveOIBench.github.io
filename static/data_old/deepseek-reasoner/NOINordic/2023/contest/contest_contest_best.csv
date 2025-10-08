@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+icecreammachines,deepseek-reasoner,ACCEPTED,100,100.00%,0.070,9.7421875
+chatnoi,deepseek-reasoner,ACCEPTED,100,100.00%,0.680,113.2734375
+islandalliances,deepseek-reasoner,ACCEPTED,100,100.00%,0.310,22.4375

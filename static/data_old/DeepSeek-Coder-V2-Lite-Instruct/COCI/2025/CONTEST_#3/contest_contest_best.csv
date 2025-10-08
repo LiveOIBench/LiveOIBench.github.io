@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+autobus,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,16.33%,0.000,0
+karte,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,11,37.31%,1.330,0.00390625
+bojanje,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,4.35%,0.000,0
+stablo,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+procesor,DeepSeek-Coder-V2-Lite-Instruct,UNKNOWN,0,0.00%,0.000,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+game_DeepSeek-R1-Distill-Llama-70B_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.800,304.00390625,0,0,0,0,0
+game_DeepSeek-R1-Distill-Llama-70B_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.810,118.671875,0,0,0,0,0
+game_DeepSeek-R1-Distill-Llama-70B_2.cpp,TIME_LIMIT_EXCEEDED,8,32.50%,1.830,117.83984375,8,0,0,0,0
+game_DeepSeek-R1-Distill-Llama-70B_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.850,117.8984375,0,0,0,0,0
+game_DeepSeek-R1-Distill-Llama-70B_4.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0
+game_DeepSeek-R1-Distill-Llama-70B_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.800,306.69921875,0,0,0,0,0
+game_DeepSeek-R1-Distill-Llama-70B_6.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0
+game_DeepSeek-R1-Distill-Llama-70B_7.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0

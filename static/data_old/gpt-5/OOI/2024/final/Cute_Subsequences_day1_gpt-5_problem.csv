@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Cute_Subsequences_gpt-5_0.cpp,ACCEPTED,100,100.00%,0.050,8.46484375,0.0,14.0,19.0,17.0,21.0,15.0,14.0
+Cute_Subsequences_gpt-5_1.cpp,ACCEPTED,100,100.00%,0.130,11.76171875,0.0,14.0,19.0,17.0,21.0,15.0,14.0
+Cute_Subsequences_gpt-5_2.cpp,ACCEPTED,100,100.00%,0.130,8.203125,0.0,14.0,19.0,17.0,21.0,15.0,14.0
+Cute_Subsequences_gpt-5_3.cpp,ACCEPTED,100,100.00%,0.140,8.234375,0.0,14.0,19.0,17.0,21.0,15.0,14.0
+Cute_Subsequences_gpt-5_4.cpp,ACCEPTED,100,100.00%,0.130,6.9609375,0.0,14.0,19.0,17.0,21.0,15.0,14.0
+Cute_Subsequences_gpt-5_5.cpp,ACCEPTED,100,100.00%,0.190,9.234375,0.0,14.0,19.0,17.0,21.0,15.0,14.0
+Cute_Subsequences_gpt-5_6.cpp,RUNTIME_ERROR,0,41.28%,0.160,12.8984375,0.0,0,0,0,0,0,0
+Cute_Subsequences_gpt-5_7.cpp,ACCEPTED,100,100.00%,0.130,11.25,0.0,14.0,19.0,17.0,21.0,15.0,14.0

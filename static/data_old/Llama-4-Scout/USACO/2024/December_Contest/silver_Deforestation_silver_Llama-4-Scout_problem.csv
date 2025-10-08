@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Deforestation_Llama-4-Scout_0.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.070,5.95703125,0,0,0,0,0,0,0,0,0,0,0
+silver_Deforestation_Llama-4-Scout_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Deforestation_Llama-4-Scout_2.cpp,WRONG_ANSWER,0,0.00%,0.130,3.796875,0,0,0,0,0,0,0,0,0,0,0
+silver_Deforestation_Llama-4-Scout_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Deforestation_Llama-4-Scout_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.410,5.3203125,0,0,0,0,0,0,0,0,0,0,0
+silver_Deforestation_Llama-4-Scout_5.cpp,WRONG_ANSWER,0,0.00%,0.860,3.8046875,0,0,0,0,0,0,0,0,0,0,0
+silver_Deforestation_Llama-4-Scout_6.cpp,WRONG_ANSWER,0,0.00%,0.140,3.28125,0,0,0,0,0,0,0,0,0,0,0
+silver_Deforestation_Llama-4-Scout_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.430,9.390625,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Colorful_Diameter_gemini-2.5-flash_0.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0
+Colorful_Diameter_gemini-2.5-flash_1.cpp,TIME_LIMIT_EXCEEDED,0,8.12%,7.710,27.15234375,0,0,0,0,0,0,0,0,0,0
+Colorful_Diameter_gemini-2.5-flash_2.cpp,TIME_LIMIT_EXCEEDED,0,2.27%,7.730,31.87109375,0.0,0,0,0,0,0,0,0,0,0
+Colorful_Diameter_gemini-2.5-flash_3.cpp,TIME_LIMIT_EXCEEDED,51,81.60%,7.720,21.27734375,0.0,10.0,8.0,11.0,14.0,8.0,0,0,0,0
+Colorful_Diameter_gemini-2.5-flash_4.cpp,TIME_LIMIT_EXCEEDED,0,2.27%,7.720,28.1015625,0.0,0,0,0,0,0,0,0,0,0
+Colorful_Diameter_gemini-2.5-flash_5.cpp,TIME_LIMIT_EXCEEDED,21,55.78%,7.710,27.21484375,0.0,10.0,0,11.0,0,0,0,0,0,0
+Colorful_Diameter_gemini-2.5-flash_6.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0
+Colorful_Diameter_gemini-2.5-flash_7.cpp,TIME_LIMIT_EXCEEDED,0,2.27%,7.710,37.4921875,0.0,0,0,0,0,0,0,0,0,0

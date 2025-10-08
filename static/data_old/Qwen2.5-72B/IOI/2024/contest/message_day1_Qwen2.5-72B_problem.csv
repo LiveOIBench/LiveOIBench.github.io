@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+message_Qwen2.5-72B_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+message_Qwen2.5-72B_1.cpp,RUNTIME_ERROR,0,0.00%,0.420,3.859375,0,0.0,0.0
+message_Qwen2.5-72B_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+message_Qwen2.5-72B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+message_Qwen2.5-72B_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+message_Qwen2.5-72B_5.cpp,RUNTIME_ERROR,0,0.00%,4.920,4.48046875,0,0.0,0.0
+message_Qwen2.5-72B_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+message_Qwen2.5-72B_7.cpp,RUNTIME_ERROR,0,0.00%,0.430,3.86328125,0,0.0,0.0

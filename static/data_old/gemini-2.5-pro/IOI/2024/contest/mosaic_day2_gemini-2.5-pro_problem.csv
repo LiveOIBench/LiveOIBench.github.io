@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+mosaic_gemini-2.5-pro_0.cpp,TIME_LIMIT_EXCEEDED,19,65.29%,1.120,209.13671875,0,5,7,7,0,0,0,0,0
+mosaic_gemini-2.5-pro_1.cpp,MEMORY_LIMIT_EXCEEDED,30,73.87%,0.940,2247.8828125,0,5,7,0,10,8,0,0,0
+mosaic_gemini-2.5-pro_2.cpp,RUNTIME_ERROR,30,73.87%,0.220,294.953125,0,5,7,0,10,8,0,0,0
+mosaic_gemini-2.5-pro_3.cpp,TIME_LIMIT_EXCEEDED,19,64.46%,1.120,64.9765625,0,5,7,7,0,0,0,0,0
+mosaic_gemini-2.5-pro_4.cpp,MEMORY_LIMIT_EXCEEDED,37,82.86%,0.850,2227.2578125,0,5,7,7,10,8,0,0,0
+mosaic_gemini-2.5-pro_5.cpp,RUNTIME_ERROR,20,61.17%,0.200,20.54296875,0,5,0,7,0,8,0,0,0
+mosaic_gemini-2.5-pro_6.cpp,RUNTIME_ERROR,20,61.17%,0.210,50.32421875,0,5,0,7,0,8,0,0,0
+mosaic_gemini-2.5-pro_7.cpp,TIME_LIMIT_EXCEEDED,0,19.23%,1.120,17.59375,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+dizalo_Qwen2.5-Coder-7B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.320,2.84765625,0,0,0,0
+dizalo_Qwen2.5-Coder-7B-Instruct_1.cpp,RUNTIME_ERROR,0,0.00%,1.840,2.58984375,0,0,0,0
+dizalo_Qwen2.5-Coder-7B-Instruct_2.cpp,RUNTIME_ERROR,0,0.00%,0.070,3.36328125,0,0,0,0
+dizalo_Qwen2.5-Coder-7B-Instruct_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+dizalo_Qwen2.5-Coder-7B-Instruct_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+dizalo_Qwen2.5-Coder-7B-Instruct_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+dizalo_Qwen2.5-Coder-7B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.310,3.36328125,0,0,0,0
+dizalo_Qwen2.5-Coder-7B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.310,3.36328125,0,0,0,0

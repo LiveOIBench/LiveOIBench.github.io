@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Majority_Opinion_Qwen3-30B-Non-Thinking_0.cpp,WRONG_ANSWER,24,6.67%,0.130,2.68359375,0,23.809523809523807,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Majority_Opinion_Qwen3-30B-Non-Thinking_1.cpp,WRONG_ANSWER,24,6.67%,0.140,3.7890625,0,23.809523809523807,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Majority_Opinion_Qwen3-30B-Non-Thinking_2.cpp,TIME_LIMIT_EXCEEDED,24,6.67%,2.450,3.875,0,23.809523809523807,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Majority_Opinion_Qwen3-30B-Non-Thinking_3.cpp,WRONG_ANSWER,24,6.67%,0.130,3.53515625,0,23.809523809523807,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Majority_Opinion_Qwen3-30B-Non-Thinking_4.cpp,WRONG_ANSWER,24,6.67%,0.140,3.796875,0,23.809523809523807,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Majority_Opinion_Qwen3-30B-Non-Thinking_5.cpp,WRONG_ANSWER,24,6.67%,0.140,4.55859375,0,23.809523809523807,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Majority_Opinion_Qwen3-30B-Non-Thinking_6.cpp,WRONG_ANSWER,24,6.67%,0.150,4.5625,0,23.809523809523807,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Majority_Opinion_Qwen3-30B-Non-Thinking_7.cpp,WRONG_ANSWER,24,6.67%,0.130,4.23828125,0,23.809523809523807,0,0,0,0,0,0,0,0,0,0,0,0,0

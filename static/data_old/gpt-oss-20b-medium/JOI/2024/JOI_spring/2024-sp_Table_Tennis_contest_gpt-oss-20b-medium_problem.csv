@@ -1,0 +1,5 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+2024-sp_Table_Tennis_gpt-oss-20b-medium_2.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0
+2024-sp_Table_Tennis_gpt-oss-20b-medium_4.cpp,RUNTIME_ERROR,5,44.35%,0.030,13.41796875,5,0,0,0,0,0
+2024-sp_Table_Tennis_gpt-oss-20b-medium_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.210,0.00390625,0,0,0,0,0,0
+2024-sp_Table_Tennis_gpt-oss-20b-medium_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.020,0.00390625,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Cowmpetency_Qwen3-32B-Non-Thinking_0.cpp,RUNTIME_ERROR,0,0.00%,0.080,6.1640625,0,0,0,0,0,0,0,0,0,0,0
+silver_Cowmpetency_Qwen3-32B-Non-Thinking_1.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.100,6.49609375,0,0,0,0,0,0,0,0,0,0,0
+silver_Cowmpetency_Qwen3-32B-Non-Thinking_2.cpp,RUNTIME_ERROR,0,0.00%,0.070,6.421875,0,0,0,0,0,0,0,0,0,0,0
+silver_Cowmpetency_Qwen3-32B-Non-Thinking_3.cpp,RUNTIME_ERROR,0,0.00%,0.070,6.203125,0,0,0,0,0,0,0,0,0,0,0
+silver_Cowmpetency_Qwen3-32B-Non-Thinking_4.cpp,RUNTIME_ERROR,0,0.00%,0.080,6.16015625,0,0,0,0,0,0,0,0,0,0,0
+silver_Cowmpetency_Qwen3-32B-Non-Thinking_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.310,6.9296875,0,0,0,0,0,0,0,0,0,0,0
+silver_Cowmpetency_Qwen3-32B-Non-Thinking_6.cpp,RUNTIME_ERROR,0,0.00%,0.080,3.05078125,0,0,0,0,0,0,0,0,0,0,0
+silver_Cowmpetency_Qwen3-32B-Non-Thinking_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.140,278.19140625,0,0,0,0,0,0,0,0,0,0,0

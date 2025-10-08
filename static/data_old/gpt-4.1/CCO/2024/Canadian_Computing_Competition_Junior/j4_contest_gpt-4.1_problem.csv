@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+j4_gpt-4.1_0.cpp,ACCEPTED,15,100.00%,0.350,10.2578125,3,3,5,4
+j4_gpt-4.1_1.cpp,ACCEPTED,15,100.00%,0.110,6.23046875,3,3,5,4
+j4_gpt-4.1_2.cpp,ACCEPTED,15,100.00%,0.060,2.55078125,3,3,5,4
+j4_gpt-4.1_3.cpp,ACCEPTED,15,100.00%,0.550,2.828125,3,3,5,4
+j4_gpt-4.1_4.cpp,RUNTIME_ERROR,6,41.94%,0.120,2.57421875,3,3,0,0
+j4_gpt-4.1_5.cpp,RUNTIME_ERROR,3,35.48%,0.060,2.0703125,3,0,0,0
+j4_gpt-4.1_6.cpp,TIME_LIMIT_EXCEEDED,0,51.61%,3.330,3.1484375,0,0,0,0
+j4_gpt-4.1_7.cpp,ACCEPTED,15,100.00%,0.090,2.4921875,3,3,5,4

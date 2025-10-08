@@ -1,0 +1,8 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+cheese,RUNTIME_ERROR,8,20.51%,0.960,6.96875,,0,0,8,0,0,0,0,0
+oldorhei,MEMORY_LIMIT_EXCEEDED,0,2.33%,0.240,279.4765625,,0,0,0,0,0,0,0,0
+manypairs,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0
+cfduels,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0
+hora,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0
+sweets,TIME_LIMIT_EXCEEDED,27,37.10%,3.360,15.734375,,0,7,8,0,12,0,0,0
+TOTAL,,35,9.99%,,,0.00%,,,,,,,,

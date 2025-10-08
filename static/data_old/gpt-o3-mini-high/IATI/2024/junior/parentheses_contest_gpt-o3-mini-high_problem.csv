@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+parentheses_gpt-o3-mini-high_0.cpp,ACCEPTED,100,100.00%,0.290,17.30859375,0,5,10,10,15,15,45
+parentheses_gpt-o3-mini-high_1.cpp,ACCEPTED,100,100.00%,0.200,12.94140625,0,5,10,10,15,15,45
+parentheses_gpt-o3-mini-high_2.cpp,ACCEPTED,100,100.00%,0.210,33.5625,0,5,10,10,15,15,45
+parentheses_gpt-o3-mini-high_3.cpp,ACCEPTED,100,100.00%,0.190,7.26953125,0,5,10,10,15,15,45
+parentheses_gpt-o3-mini-high_4.cpp,ACCEPTED,100,100.00%,0.270,9.703125,0,5,10,10,15,15,45
+parentheses_gpt-o3-mini-high_5.cpp,ACCEPTED,100,100.00%,0.270,17.1796875,0,5,10,10,15,15,45
+parentheses_gpt-o3-mini-high_6.cpp,ACCEPTED,100,100.00%,0.210,32.5390625,0,5,10,10,15,15,45
+parentheses_gpt-o3-mini-high_7.cpp,ACCEPTED,100,100.00%,0.260,9.703125,0,5,10,10,15,15,45

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+robot,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,0.67%,0.050,8.6484375
+overtaking,DeepSeek-R1-Distill-Llama-70B,COMPILATION_ERROR,0,0.00%,0.000,0
+beechtree,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,0,10.59%,1.670,15.484375

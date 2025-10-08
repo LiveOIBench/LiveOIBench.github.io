@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3
+2023-ho-t1_Stone_Arranging_2_gemini-2.5-flash_0.cpp,TIME_LIMIT_EXCEEDED,25,71.30%,2.240,8.3203125,25,0,0
+2023-ho-t1_Stone_Arranging_2_gemini-2.5-flash_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+2023-ho-t1_Stone_Arranging_2_gemini-2.5-flash_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+2023-ho-t1_Stone_Arranging_2_gemini-2.5-flash_3.cpp,ACCEPTED,100,100.00%,0.280,39.44921875,25,35,40
+2023-ho-t1_Stone_Arranging_2_gemini-2.5-flash_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+2023-ho-t1_Stone_Arranging_2_gemini-2.5-flash_5.cpp,TIME_LIMIT_EXCEEDED,25,71.30%,2.260,2.71875,25,0,0
+2023-ho-t1_Stone_Arranging_2_gemini-2.5-flash_6.cpp,TIME_LIMIT_EXCEEDED,60,86.78%,2.210,63.94140625,25,35,0
+2023-ho-t1_Stone_Arranging_2_gemini-2.5-flash_7.cpp,RUNTIME_ERROR,0,34.94%,0.000,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+tiles_Mistral-Small-3.1-24B-2503_0.cpp,MEMORY_LIMIT_EXCEEDED,0,1.33%,0.030,5.89453125,0,0,0,0,0,0,0
+tiles_Mistral-Small-3.1-24B-2503_1.cpp,RUNTIME_ERROR,0,0.66%,0.150,6.46484375,0,0,0,0,0,0,0
+tiles_Mistral-Small-3.1-24B-2503_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+tiles_Mistral-Small-3.1-24B-2503_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+tiles_Mistral-Small-3.1-24B-2503_4.cpp,RUNTIME_ERROR,0,1.33%,0.030,4.390625,0,0,0,0,0,0,0
+tiles_Mistral-Small-3.1-24B-2503_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+tiles_Mistral-Small-3.1-24B-2503_6.cpp,RUNTIME_ERROR,0,0.66%,0.060,2.84765625,0,0,0,0,0,0,0
+tiles_Mistral-Small-3.1-24B-2503_7.cpp,RUNTIME_ERROR,0,0.67%,0.080,2.90625,0,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+jobs,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+portal,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+trains,Qwen2.5-Coder-14B-Instruct,TIME_LIMIT_EXCEEDED,21,78.26%,1.120,2.58984375

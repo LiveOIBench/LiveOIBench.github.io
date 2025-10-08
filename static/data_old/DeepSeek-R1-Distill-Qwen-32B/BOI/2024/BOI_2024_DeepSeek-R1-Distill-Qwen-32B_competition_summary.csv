@@ -1,0 +1,8 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+jobs,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0
+portal,RUNTIME_ERROR,1,12.79%,0.070,2.08984375,,1,0,0,0,0,0,0
+trains,TIME_LIMIT_EXCEEDED,21,78.26%,1.130,3.62109375,,8,13,0,0,0,0,0
+fire,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0
+tiles,TIME_LIMIT_EXCEEDED,4,7.33%,1.120,4.8671875,,4,0,0,0,0,0,0
+wall,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0
+TOTAL,,26,16.40%,,,0.00%,,,,,,,

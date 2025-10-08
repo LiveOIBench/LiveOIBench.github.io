@@ -1,0 +1,10 @@
+problem,model,status,score,%test passed,time,memory
+Paired_roads,gpt-o3-mini-high,RUNTIME_ERROR,0,12.60%,0.070,16.53515625
+Legs_warm-up_exercise,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,0,3.70%,6.610,20.69921875
+Hard_problem,gpt-o3-mini-high,ACCEPTED,100,100.00%,0.100,2.84765625
+Yet_another_queries,gpt-o3-mini-high,ACCEPTED,100,100.00%,1.280,73.484375
+Lunch,gpt-o3-mini-high,RUNTIME_ERROR,16,48.51%,0.020,0
+Tournament,gpt-o3-mini-high,ACCEPTED,100,100.00%,0.000,0
+You_need_to_train_more,gpt-o3-mini-high,ACCEPTED,100,100.00%,0.060,6.44921875
+Colorful_graph,gpt-o3-mini-high,ACCEPTED,100,100.00%,0.070,3.359375
+Space_accident,gpt-o3-mini-high,ACCEPTED,100,100.00%,0.060,2.07421875

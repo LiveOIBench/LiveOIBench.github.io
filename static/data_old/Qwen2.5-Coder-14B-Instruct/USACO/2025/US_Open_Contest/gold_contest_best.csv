@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Moo_Decomposition,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,4.00%,0.130,27.91796875
+gold_Election_Queries,Qwen2.5-Coder-14B-Instruct,TIME_LIMIT_EXCEEDED,0,6.67%,3.320,2.06640625
+gold_OohMoo_Milk,Qwen2.5-Coder-14B-Instruct,TIME_LIMIT_EXCEEDED,59,25.00%,2.280,1.81640625

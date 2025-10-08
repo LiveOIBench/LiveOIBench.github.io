@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+robot,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,0.67%,0.230,8.58203125
+overtaking,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,4.69%,0.040,0.00390625
+beechtree,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,0,4.22%,1.660,17.53125

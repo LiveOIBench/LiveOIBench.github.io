@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+cern,deepseek-reasoner,RUNTIME_ERROR,0,25.00%,1.430,14.765625
+koreografija,deepseek-reasoner,UNKNOWN,0,0.00%,0.000,0
+ministarstvo,deepseek-reasoner,RUNTIME_ERROR,0,1.75%,0.100,9.03125
+sirologija,deepseek-reasoner,RUNTIME_ERROR,0,0.57%,0.030,5.6796875

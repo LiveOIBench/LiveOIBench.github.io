@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+minequake,Qwen3-32B,RUNTIME_ERROR,0,3.68%,0.010,0.00390625
+mineraldeposits,Qwen3-32B,TIME_LIMIT_EXCEEDED,0,38.74%,2.990,1.53515625
+sequence,Qwen3-32B,RUNTIME_ERROR,11,54.55%,0.000,0

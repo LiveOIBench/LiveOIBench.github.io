@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+candy_Qwen3-30B-Non-Thinking_0.cpp,RUNTIME_ERROR,0,10.10%,0.000,0,0,0,0,0,0,0
+candy_Qwen3-30B-Non-Thinking_1.cpp,RUNTIME_ERROR,0,15.24%,0.000,0,0,0,0,0,0,0
+candy_Qwen3-30B-Non-Thinking_2.cpp,RUNTIME_ERROR,0,15.69%,0.000,0,0,0,0,0,0,0
+candy_Qwen3-30B-Non-Thinking_3.cpp,TIME_LIMIT_EXCEEDED,0,8.08%,3.420,0.00390625,0,0,0,0,0,0
+candy_Qwen3-30B-Non-Thinking_4.cpp,RUNTIME_ERROR,0,8.08%,0.000,0,0,0,0,0,0,0
+candy_Qwen3-30B-Non-Thinking_5.cpp,TIME_LIMIT_EXCEEDED,6,39.47%,3.590,0.00390625,0,6,0,0,0,0
+candy_Qwen3-30B-Non-Thinking_6.cpp,RUNTIME_ERROR,6,42.11%,0.000,0,0,6,0,0,0,0
+candy_Qwen3-30B-Non-Thinking_7.cpp,RUNTIME_ERROR,0,8.08%,0.000,0,0,0,0,0,0,0

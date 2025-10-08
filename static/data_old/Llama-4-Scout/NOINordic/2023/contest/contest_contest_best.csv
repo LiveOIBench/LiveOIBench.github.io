@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+icecreammachines,Llama-4-Scout,RUNTIME_ERROR,7,46.23%,0.000,0
+chatnoi,Llama-4-Scout,ACCEPTED,100,100.00%,1.150,302.109375
+islandalliances,Llama-4-Scout,TIME_LIMIT_EXCEEDED,0,20.59%,5.990,45.4453125

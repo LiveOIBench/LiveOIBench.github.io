@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+bikesvscars,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,0.00%,0.000,0
+ppp,Qwen2.5-Coder-32B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+findthebox,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,0.00%,0.070,0
+inflation,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,42,41.82%,0.200,17.625

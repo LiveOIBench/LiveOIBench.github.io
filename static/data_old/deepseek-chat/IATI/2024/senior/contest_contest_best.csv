@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+five,deepseek-chat,TIME_LIMIT_EXCEEDED,5,16.36%,0.860,6.25390625
+game,deepseek-chat,RUNTIME_ERROR,0,2.70%,0.190,5.6953125
+lexgcd,deepseek-chat,RUNTIME_ERROR,0,5.74%,0.220,2.8828125
+ones,deepseek-chat,WRONG_ANSWER,25,0.00%,0.200,1.953125
+travel,deepseek-chat,TIME_LIMIT_EXCEEDED,20,29.41%,1.210,333.36328125

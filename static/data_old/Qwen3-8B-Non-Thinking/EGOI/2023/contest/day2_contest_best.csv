@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+candy,Qwen3-8B-Non-Thinking,RUNTIME_ERROR,0,21.62%,0.000,0
+sopsug,Qwen3-8B-Non-Thinking,UNKNOWN,0,0.00%,0.000,0
+guessinggame,Qwen3-8B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+carnival,Qwen3-8B-Non-Thinking,RUNTIME_ERROR,0,10.53%,0.080,0.00390625

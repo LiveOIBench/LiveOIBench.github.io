@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+2024-open-t1_Examination_2_Qwen2.5-Coder-14B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.270,3.0390625,0,0,0,0,0,0,0
+2024-open-t1_Examination_2_Qwen2.5-Coder-14B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.280,3.0390625,0,0,0,0,0,0,0
+2024-open-t1_Examination_2_Qwen2.5-Coder-14B-Instruct_2.cpp,RUNTIME_ERROR,0,12.36%,2.190,15.41015625,0,0,0,0,0,0,0
+2024-open-t1_Examination_2_Qwen2.5-Coder-14B-Instruct_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+2024-open-t1_Examination_2_Qwen2.5-Coder-14B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,2.27%,2.230,24.66796875,0,0,0,0,0,0,0
+2024-open-t1_Examination_2_Qwen2.5-Coder-14B-Instruct_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+2024-open-t1_Examination_2_Qwen2.5-Coder-14B-Instruct_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+2024-open-t1_Examination_2_Qwen2.5-Coder-14B-Instruct_7.cpp,RUNTIME_ERROR,0,0.00%,0.180,5.35546875,0,0,0,0,0,0,0

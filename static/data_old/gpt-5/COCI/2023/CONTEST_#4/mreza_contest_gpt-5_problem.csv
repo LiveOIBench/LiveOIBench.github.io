@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+mreza_gpt-5_0.cpp,ACCEPTED,110,100.00%,0.570,32.0859375,21,29,60
+mreza_gpt-5_1.cpp,ACCEPTED,110,100.00%,0.930,32.69921875,21,29,60
+mreza_gpt-5_2.cpp,ACCEPTED,110,100.00%,1.770,79.71875,21,29,60
+mreza_gpt-5_3.cpp,ACCEPTED,110,100.00%,1.680,22.3359375,21,29,60
+mreza_gpt-5_4.cpp,ACCEPTED,110,100.00%,0.630,38.83984375,21,29,60
+mreza_gpt-5_5.cpp,RUNTIME_ERROR,29,22.22%,0.870,132.53125,0,29,0
+mreza_gpt-5_6.cpp,ACCEPTED,110,100.00%,1.270,45.62890625,21,29,60
+mreza_gpt-5_7.cpp,ACCEPTED,110,100.00%,1.540,31.76953125,21,29,60

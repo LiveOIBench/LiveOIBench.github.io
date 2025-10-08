@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+astronomer,Qwen3-4B-Non-Thinking,RUNTIME_ERROR,0,0.70%,0.000,0
+staringcontest,Qwen3-4B-Non-Thinking,TIME_LIMIT_EXCEEDED,0,0.00%,0.020,0.7265625
+tycho,Qwen3-4B-Non-Thinking,RUNTIME_ERROR,0,4.50%,0.020,0

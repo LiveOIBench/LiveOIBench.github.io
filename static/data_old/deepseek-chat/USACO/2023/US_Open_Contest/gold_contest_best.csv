@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Custodial_Cleanup,deepseek-chat,WRONG_ANSWER,0,5.56%,0.100,10.8671875
+gold_Pareidolia,deepseek-chat,RUNTIME_ERROR,0,5.88%,0.080,18.9765625
+gold_Tree_Merging,deepseek-chat,RUNTIME_ERROR,0,0.00%,0.040,0.00390625

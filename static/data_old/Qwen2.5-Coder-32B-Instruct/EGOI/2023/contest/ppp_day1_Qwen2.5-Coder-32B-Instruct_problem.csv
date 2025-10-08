@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+ppp_Qwen2.5-Coder-32B-Instruct_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+ppp_Qwen2.5-Coder-32B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.310,915.76171875,0,0,0,0,0,0,0
+ppp_Qwen2.5-Coder-32B-Instruct_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+ppp_Qwen2.5-Coder-32B-Instruct_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+ppp_Qwen2.5-Coder-32B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.340,15.09375,0,0,0,0,0,0,0
+ppp_Qwen2.5-Coder-32B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.350,1079.21484375,0,0,0,0,0,0,0
+ppp_Qwen2.5-Coder-32B-Instruct_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+ppp_Qwen2.5-Coder-32B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.330,12.1328125,0,0,0,0,0,0,0

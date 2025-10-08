@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Card_Flip,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,14.29%,0.460,18.66796875
+Order_Statistics,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,4,47.45%,4.420,3.6171875
+Best_Runner,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,23,32.26%,1.110,4.65234375
+Strong_Connectivity_Strikes_Back,Llama-3.3-70B-Instruct,ACCEPTED,100,100.00%,0.110,1.5

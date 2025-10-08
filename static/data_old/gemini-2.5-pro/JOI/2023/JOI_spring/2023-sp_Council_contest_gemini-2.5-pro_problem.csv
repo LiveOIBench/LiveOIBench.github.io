@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+2023-sp_Council_gemini-2.5-pro_0.cpp,RUNTIME_ERROR,0,27.91%,0.310,57.23828125,0,0,0,0,0,0,0
+2023-sp_Council_gemini-2.5-pro_1.cpp,ACCEPTED,100,100.00%,0.670,31.19921875,8,8,6,19,15,22,22
+2023-sp_Council_gemini-2.5-pro_2.cpp,RUNTIME_ERROR,0,13.91%,0.070,38.67578125,0,0,0,0,0,0,0
+2023-sp_Council_gemini-2.5-pro_3.cpp,ACCEPTED,100,100.00%,2.400,31.19921875,8,8,6,19,15,22,22
+2023-sp_Council_gemini-2.5-pro_4.cpp,RUNTIME_ERROR,0,29.77%,0.130,17.28125,0,0,0,0,0,0,0
+2023-sp_Council_gemini-2.5-pro_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.610,57.234375,0,0,0,0,0,0,0
+2023-sp_Council_gemini-2.5-pro_6.cpp,TIME_LIMIT_EXCEEDED,41,90.00%,3.600,3.875,8,8,6,19,0,0,0
+2023-sp_Council_gemini-2.5-pro_7.cpp,RUNTIME_ERROR,0,27.91%,0.130,41.5234375,0,0,0,0,0,0,0

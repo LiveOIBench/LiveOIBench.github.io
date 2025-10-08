@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+paradoks,gpt-4.1,ACCEPTED,50,100.00%,0.000,0
+igre,gpt-4.1,RUNTIME_ERROR,29,44.90%,0.110,1.55859375
+razlicitost,gpt-4.1,MEMORY_LIMIT_EXCEEDED,47,74.42%,0.130,4.390625
+blistavost,gpt-4.1,TIME_LIMIT_EXCEEDED,75,67.21%,4.460,4.125
+trokuti,gpt-4.1,RUNTIME_ERROR,13,25.96%,0.090,1.81640625

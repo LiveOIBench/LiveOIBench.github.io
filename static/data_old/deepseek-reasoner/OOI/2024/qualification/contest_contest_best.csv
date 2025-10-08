@@ -1,0 +1,10 @@
+problem,model,status,score,%test passed,time,memory
+Colorful_Diameter,deepseek-reasoner,RUNTIME_ERROR,0,21.00%,0.080,7.484375
+Road_Lighting,deepseek-reasoner,RUNTIME_ERROR,13,10.11%,0.060,2.84375
+Repainting_the_Table,deepseek-reasoner,TIME_LIMIT_EXCEEDED,72,86.84%,1.660,42.77734375
+Distinctive_Features,deepseek-reasoner,ACCEPTED,100,100.00%,0.620,141.54296875
+Classic_Tree_Problem,deepseek-reasoner,UNKNOWN,0,0.00%,0.000,0
+Alien_Homophones,deepseek-reasoner,TIME_LIMIT_EXCEEDED,55,92.16%,2.210,100.390625
+Stone_Enthusiast,deepseek-reasoner,ACCEPTED,100,100.00%,0.390,2.87890625
+Egors_Gaming_Addiction,deepseek-reasoner,TIME_LIMIT_EXCEEDED,15,60.19%,2.210,16.97265625
+Ultrafast_train,deepseek-reasoner,RUNTIME_ERROR,68,98.88%,0.100,11.17578125

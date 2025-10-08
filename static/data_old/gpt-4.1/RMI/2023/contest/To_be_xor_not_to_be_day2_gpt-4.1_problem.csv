@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+To_be_xor_not_to_be_gpt-4.1_0.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+To_be_xor_not_to_be_gpt-4.1_1.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0
+To_be_xor_not_to_be_gpt-4.1_2.cpp,RUNTIME_ERROR,9,38.30%,0.110,1.55078125,0,3,6,0,0,0,0
+To_be_xor_not_to_be_gpt-4.1_3.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0
+To_be_xor_not_to_be_gpt-4.1_4.cpp,RUNTIME_ERROR,9,38.30%,0.120,1.6640625,0,3,6,0,0.0,0,0
+To_be_xor_not_to_be_gpt-4.1_5.cpp,RUNTIME_ERROR,9,42.55%,0.100,1.609375,0,3,6,0.0,0,0,0.0
+To_be_xor_not_to_be_gpt-4.1_6.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0
+To_be_xor_not_to_be_gpt-4.1_7.cpp,RUNTIME_ERROR,9,42.55%,0.120,1.8125,0,3,6,0.0,0,0,0.0

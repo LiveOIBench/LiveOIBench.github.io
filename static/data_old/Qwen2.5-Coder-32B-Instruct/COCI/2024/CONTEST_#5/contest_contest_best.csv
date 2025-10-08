@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+zlagalica,Qwen2.5-Coder-32B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+bitovi,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,0.00%,0.060,1.55078125
+piratski,Qwen2.5-Coder-32B-Instruct,WRONG_ANSWER,0,0.00%,0.040,1.55859375
+rolete,Qwen2.5-Coder-32B-Instruct,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,2.890625
+trokut,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,0.00%,0.060,0.00390625

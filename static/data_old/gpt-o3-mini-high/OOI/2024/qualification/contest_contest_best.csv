@@ -1,0 +1,10 @@
+problem,model,status,score,%test passed,time,memory
+Colorful_Diameter,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,48,84.94%,7.710,19.55859375
+Road_Lighting,gpt-o3-mini-high,RUNTIME_ERROR,13,22.68%,0.090,27.64453125
+Repainting_the_Table,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,72,86.84%,1.660,40.42578125
+Distinctive_Features,gpt-o3-mini-high,ACCEPTED,100,100.00%,0.530,68.58203125
+Classic_Tree_Problem,gpt-o3-mini-high,UNKNOWN,0,0.00%,0.000,0
+Alien_Homophones,gpt-o3-mini-high,ACCEPTED,100,100.00%,0.670,285.14453125
+Stone_Enthusiast,gpt-o3-mini-high,ACCEPTED,100,100.00%,0.340,21.890625
+Egors_Gaming_Addiction,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,36,77.45%,2.210,17.0234375
+Ultrafast_train,gpt-o3-mini-high,ACCEPTED,100,100.00%,0.090,10.0

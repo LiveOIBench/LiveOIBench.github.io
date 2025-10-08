@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+dev,Mistral-Large-Instruct-2411,RUNTIME_ERROR,0,1.66%,0.030,0.00390625
+exp,Mistral-Large-Instruct-2411,RUNTIME_ERROR,0,1.34%,0.170,6.97265625
+gcd,Mistral-Large-Instruct-2411,RUNTIME_ERROR,0,3.28%,0.000,0

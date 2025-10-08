@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+berilij_DeepSeek-R1-Distill-Llama-70B_0.cpp,TIME_LIMIT_EXCEEDED,0,2.27%,1.120,80.61328125,0,0,0,0
+berilij_DeepSeek-R1-Distill-Llama-70B_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+berilij_DeepSeek-R1-Distill-Llama-70B_2.cpp,RUNTIME_ERROR,0,2.27%,0.190,3.87109375,0,0,0,0
+berilij_DeepSeek-R1-Distill-Llama-70B_3.cpp,RUNTIME_ERROR,0,0.00%,0.310,23.8359375,0,0,0,0
+berilij_DeepSeek-R1-Distill-Llama-70B_4.cpp,RUNTIME_ERROR,0,2.27%,0.230,10.3203125,0,0,0,0
+berilij_DeepSeek-R1-Distill-Llama-70B_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+berilij_DeepSeek-R1-Distill-Llama-70B_6.cpp,RUNTIME_ERROR,0,2.27%,0.370,12.28515625,0,0,0,0
+berilij_DeepSeek-R1-Distill-Llama-70B_7.cpp,RUNTIME_ERROR,0,2.27%,0.310,12.28125,0,0,0,0

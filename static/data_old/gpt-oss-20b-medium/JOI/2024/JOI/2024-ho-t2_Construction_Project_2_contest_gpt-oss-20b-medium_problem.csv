@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4
+2024-ho-t2_Construction_Project_2_gpt-oss-20b-medium_0.cpp,RUNTIME_ERROR,8,2.08%,0.020,0,8,0,0,0
+2024-ho-t2_Construction_Project_2_gpt-oss-20b-medium_1.cpp,RUNTIME_ERROR,8,47.97%,0.240,46.578125,8,0,0,0
+2024-ho-t2_Construction_Project_2_gpt-oss-20b-medium_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+2024-ho-t2_Construction_Project_2_gpt-oss-20b-medium_3.cpp,ACCEPTED,100,100.00%,0.240,80.2734375,8,16,29,47
+2024-ho-t2_Construction_Project_2_gpt-oss-20b-medium_4.cpp,ACCEPTED,100,100.00%,0.490,57.0859375,8,16,29,47
+2024-ho-t2_Construction_Project_2_gpt-oss-20b-medium_5.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0
+2024-ho-t2_Construction_Project_2_gpt-oss-20b-medium_6.cpp,ACCEPTED,100,100.00%,0.190,34.20703125,8,16,29,47
+2024-ho-t2_Construction_Project_2_gpt-oss-20b-medium_7.cpp,ACCEPTED,100,100.00%,0.230,33.609375,8,16,29,47

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+astronomer,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,9,68.80%,5.510,1.71875
+staringcontest,gemini-2.5-pro,RUNTIME_ERROR,20,74.36%,0.030,1.5390625
+tycho,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,32,87.55%,2.220,1116.3359375

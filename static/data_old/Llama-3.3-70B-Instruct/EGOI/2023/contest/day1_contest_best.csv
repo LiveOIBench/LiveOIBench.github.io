@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+bikesvscars,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,6.10%,0.070,1.5546875
+ppp,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,0,1.43%,3.310,9.03125
+findthebox,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,0.00%,0.070,0
+inflation,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,28,36.36%,3.310,2.5859375

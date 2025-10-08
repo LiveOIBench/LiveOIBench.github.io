@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Cow-libi_Qwen3-4B_0.cpp,TIME_LIMIT_EXCEEDED,0,9.09%,4.820,2.62109375,0,0,0,0,0,0,0,0,0,0,0
+silver_Cow-libi_Qwen3-4B_1.cpp,TIME_LIMIT_EXCEEDED,100,36.36%,4.820,2.6171875,0,33.33333333333333,0,33.33333333333333,33.33333333333333,0,0,0,0,0,0
+silver_Cow-libi_Qwen3-4B_2.cpp,TIME_LIMIT_EXCEEDED,100,36.36%,4.820,2.62109375,0,33.33333333333333,0,33.33333333333333,33.33333333333333,0,0,0,0,0,0
+silver_Cow-libi_Qwen3-4B_3.cpp,WRONG_ANSWER,0,9.09%,0.050,0.00390625,0,0,0,0,0,0,0,0,0,0,0
+silver_Cow-libi_Qwen3-4B_4.cpp,WRONG_ANSWER,0,9.09%,0.060,0.00390625,0,0,0,0,0,0,0,0,0,0,0
+silver_Cow-libi_Qwen3-4B_5.cpp,WRONG_ANSWER,0,9.09%,0.140,0.00390625,0,0,0,0,0,0,0,0,0,0,0
+silver_Cow-libi_Qwen3-4B_6.cpp,TIME_LIMIT_EXCEEDED,0,9.09%,4.820,2.6171875,0,0,0,0,0,0,0,0,0,0,0
+silver_Cow-libi_Qwen3-4B_7.cpp,TIME_LIMIT_EXCEEDED,0,9.09%,4.820,2.6171875,0,0,0,0,0,0,0,0,0,0,0

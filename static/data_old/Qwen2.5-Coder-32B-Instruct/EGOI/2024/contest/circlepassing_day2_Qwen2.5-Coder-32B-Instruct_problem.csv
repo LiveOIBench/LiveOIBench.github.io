@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+circlepassing_Qwen2.5-Coder-32B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,20,48.48%,2.350,594.6171875,0,0,20,0,0,0
+circlepassing_Qwen2.5-Coder-32B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,20,48.48%,2.210,1125.53125,0,0,20,0,0,0
+circlepassing_Qwen2.5-Coder-32B-Instruct_2.cpp,MEMORY_LIMIT_EXCEEDED,0,18.29%,0.080,2.84375,0,0,0,0,0,0
+circlepassing_Qwen2.5-Coder-32B-Instruct_3.cpp,RUNTIME_ERROR,0,2.60%,0.080,0.00390625,0,0,0,0,0,0
+circlepassing_Qwen2.5-Coder-32B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,20,48.48%,2.260,774.21875,0,0,20,0,0,0
+circlepassing_Qwen2.5-Coder-32B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,20,48.48%,2.300,594.6171875,0,0,20,0,0,0
+circlepassing_Qwen2.5-Coder-32B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,20,48.48%,2.260,772.66796875,0,0,20,0,0,0
+circlepassing_Qwen2.5-Coder-32B-Instruct_7.cpp,RUNTIME_ERROR,0,0.00%,0.450,300.875,0,0,0,0,0,0

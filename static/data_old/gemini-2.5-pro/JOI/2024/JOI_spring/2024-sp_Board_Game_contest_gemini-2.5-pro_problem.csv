@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+2024-sp_Board_Game_gemini-2.5-pro_0.cpp,MEMORY_LIMIT_EXCEEDED,0,2.56%,0.420,1123.80859375,0,0,0,0,0,0,0,0
+2024-sp_Board_Game_gemini-2.5-pro_1.cpp,RUNTIME_ERROR,3,8.07%,0.880,139.59375,3,0,0,0,0,0,0,0
+2024-sp_Board_Game_gemini-2.5-pro_2.cpp,TIME_LIMIT_EXCEEDED,3,8.07%,4.880,301.640625,3,0,0,0,0,0,0,0
+2024-sp_Board_Game_gemini-2.5-pro_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+2024-sp_Board_Game_gemini-2.5-pro_4.cpp,RUNTIME_ERROR,10,21.47%,0.140,13.5234375,3,7,0,0,0,0,0,0
+2024-sp_Board_Game_gemini-2.5-pro_5.cpp,MEMORY_LIMIT_EXCEEDED,0,2.56%,0.460,1008.56640625,0,0,0,0,0,0,0,0
+2024-sp_Board_Game_gemini-2.5-pro_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+2024-sp_Board_Game_gemini-2.5-pro_7.cpp,RUNTIME_ERROR,17,36.04%,0.250,13.97265625,3,7,7,0,0,0,0,0

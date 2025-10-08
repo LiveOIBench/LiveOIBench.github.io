@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+neboderi_gpt-5_0.cpp,ACCEPTED,110,100.00%,0.280,176.09375,11,22,27,18,32
+neboderi_gpt-5_1.cpp,ACCEPTED,110,100.00%,0.280,176.3515625,11,22,27,18,32
+neboderi_gpt-5_2.cpp,RUNTIME_ERROR,0,12.96%,0.250,169.40625,0,0,0,0,0
+neboderi_gpt-5_3.cpp,ACCEPTED,110,100.00%,0.200,12.90234375,11,22,27,18,32
+neboderi_gpt-5_4.cpp,ACCEPTED,110,100.00%,0.260,177.83984375,11,22,27,18,32
+neboderi_gpt-5_5.cpp,ACCEPTED,110,100.00%,1.210,24.24609375,11,22,27,18,32
+neboderi_gpt-5_6.cpp,ACCEPTED,110,100.00%,0.170,13.61328125,11,22,27,18,32
+neboderi_gpt-5_7.cpp,ACCEPTED,110,100.00%,0.250,162.11328125,11,22,27,18,32

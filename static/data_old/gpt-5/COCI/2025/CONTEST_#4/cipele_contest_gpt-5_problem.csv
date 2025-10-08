@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+cipele_gpt-5_0.cpp,ACCEPTED,120,100.00%,0.220,23.6640625,17,27,37,24,15
+cipele_gpt-5_1.cpp,ACCEPTED,120,100.00%,0.430,25.53125,17,27,37,24,15
+cipele_gpt-5_2.cpp,ACCEPTED,120,100.00%,0.310,33.8515625,17,27,37,24,15
+cipele_gpt-5_3.cpp,ACCEPTED,120,100.00%,0.480,34.5703125,17,27,37,24,15
+cipele_gpt-5_4.cpp,ACCEPTED,120,100.00%,0.410,36.01953125,17,27,37,24,15
+cipele_gpt-5_5.cpp,TIME_LIMIT_EXCEEDED,83,83.87%,2.410,23.8203125,17,27,0,24,15
+cipele_gpt-5_6.cpp,RUNTIME_ERROR,27,12.90%,0.160,12.58203125,0,27,0,0,0
+cipele_gpt-5_7.cpp,RUNTIME_ERROR,37,16.13%,0.230,37.32421875,0,0,37,0,0

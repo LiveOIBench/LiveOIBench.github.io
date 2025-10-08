@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bovine_Acrobatics,Qwen2.5-72B,RUNTIME_ERROR,89,23.53%,0.210,2.84765625
+silver_Cycle_Correspondence,Qwen2.5-72B,TIME_LIMIT_EXCEEDED,28,13.33%,2.270,3.87890625
+silver_Target_Practice,Qwen2.5-72B,WRONG_ANSWER,28,20.00%,0.130,5.41796875

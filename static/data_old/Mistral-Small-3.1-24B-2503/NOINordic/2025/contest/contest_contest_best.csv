@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+diplomacy,Mistral-Small-3.1-24B-2503,TIME_LIMIT_EXCEEDED,0,1.08%,4.470,7.4140625
+garbage,Mistral-Small-3.1-24B-2503,TIME_LIMIT_EXCEEDED,0,2.74%,5.650,10.6875
+xoracle,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,0.00%,0.140,0

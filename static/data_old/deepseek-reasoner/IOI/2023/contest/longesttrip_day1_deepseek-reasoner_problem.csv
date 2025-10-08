@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+longesttrip_deepseek-reasoner_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+longesttrip_deepseek-reasoner_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+longesttrip_deepseek-reasoner_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+longesttrip_deepseek-reasoner_3.cpp,RUNTIME_ERROR,5,12.05%,0.190,4.05078125,0,5,0,0,0.0
+longesttrip_deepseek-reasoner_4.cpp,RUNTIME_ERROR,5,18.67%,0.240,4.03125,0,5,0,0,0.0
+longesttrip_deepseek-reasoner_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+longesttrip_deepseek-reasoner_6.cpp,RUNTIME_ERROR,5,3.01%,0.090,3.99609375,0,5,0,0,0.0
+longesttrip_deepseek-reasoner_7.cpp,RUNTIME_ERROR,5,3.01%,0.060,3.9140625,0,5,0,0,0.0

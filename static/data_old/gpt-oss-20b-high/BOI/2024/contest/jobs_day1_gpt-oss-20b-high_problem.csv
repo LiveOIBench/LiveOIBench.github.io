@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+jobs_gpt-oss-20b-high_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+jobs_gpt-oss-20b-high_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+jobs_gpt-oss-20b-high_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+jobs_gpt-oss-20b-high_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+jobs_gpt-oss-20b-high_5.cpp,RUNTIME_ERROR,11,9.42%,0.090,22.953125,11,0,0,0,0
+jobs_gpt-oss-20b-high_6.cpp,RUNTIME_ERROR,11,9.42%,0.090,24.2421875,11,0,0,0,0
+jobs_gpt-oss-20b-high_7.cpp,RUNTIME_ERROR,11,9.42%,0.100,41.76953125,11,0,0,0,0

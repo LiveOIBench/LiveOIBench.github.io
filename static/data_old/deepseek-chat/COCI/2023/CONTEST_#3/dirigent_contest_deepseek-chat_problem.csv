@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+dirigent_deepseek-chat_0.cpp,RUNTIME_ERROR,0,0.00%,0.190,1.55078125,0,0,0
+dirigent_deepseek-chat_1.cpp,RUNTIME_ERROR,20,64.29%,0.170,3.6171875,0,20,0
+dirigent_deepseek-chat_2.cpp,RUNTIME_ERROR,0,0.00%,0.160,1.5546875,0,0,0
+dirigent_deepseek-chat_3.cpp,RUNTIME_ERROR,0,0.00%,0.170,1.5546875,0,0,0
+dirigent_deepseek-chat_4.cpp,RUNTIME_ERROR,0,0.00%,0.200,1.5546875,0,0,0
+dirigent_deepseek-chat_5.cpp,RUNTIME_ERROR,0,0.00%,0.100,1.55859375,0,0,0
+dirigent_deepseek-chat_6.cpp,RUNTIME_ERROR,0,0.00%,0.180,1.55078125,0,0,0
+dirigent_deepseek-chat_7.cpp,RUNTIME_ERROR,0,0.00%,0.080,1.55859375,0,0,0

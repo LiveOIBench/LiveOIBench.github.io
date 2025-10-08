@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+paradoks,gpt-o3-mini-high,ACCEPTED,50,100.00%,0.000,0
+igre,gpt-o3-mini-high,ACCEPTED,70,100.00%,0.080,1.55859375
+razlicitost,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,47,74.42%,2.210,10.765625
+blistavost,gpt-o3-mini-high,ACCEPTED,120,100.00%,0.160,1.8125
+trokuti,gpt-o3-mini-high,RUNTIME_ERROR,13,25.96%,0.040,1.8125

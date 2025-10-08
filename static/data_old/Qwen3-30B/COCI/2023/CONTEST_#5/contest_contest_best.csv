@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+kalendar,Qwen3-30B,ACCEPTED,50,100.00%,0.000,0
+diskurs,Qwen3-30B,TIME_LIMIT_EXCEEDED,20,26.00%,2.370,5.42578125
+logaritam,Qwen3-30B,ACCEPTED,110,100.00%,0.210,0.00390625
+slasticarnica,Qwen3-30B,RUNTIME_ERROR,0,2.50%,0.050,0.00390625
+zastave,Qwen3-30B,ACCEPTED,110,100.00%,0.120,2.07421875

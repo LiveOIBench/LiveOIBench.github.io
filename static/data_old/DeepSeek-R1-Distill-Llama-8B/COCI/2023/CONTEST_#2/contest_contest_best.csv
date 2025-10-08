@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+tramvaji,DeepSeek-R1-Distill-Llama-8B,COMPILATION_ERROR,0,0.00%,0.000,0
+ekspert,DeepSeek-R1-Distill-Llama-8B,COMPILATION_ERROR,0,0.00%,0.000,0
+lampice,DeepSeek-R1-Distill-Llama-8B,RUNTIME_ERROR,0,2.38%,0.120,0.00390625
+prijateljice,DeepSeek-R1-Distill-Llama-8B,COMPILATION_ERROR,0,0.00%,0.000,0
+kruhologija,DeepSeek-R1-Distill-Llama-8B,COMPILATION_ERROR,0,0.00%,0.000,0

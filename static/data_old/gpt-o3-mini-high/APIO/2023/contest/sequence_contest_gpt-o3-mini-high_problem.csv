@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+sequence_gpt-o3-mini-high_0.cpp,RUNTIME_ERROR,0,8.24%,1.710,117.05078125,0,0,0,0,0,0,0,0
+sequence_gpt-o3-mini-high_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+sequence_gpt-o3-mini-high_2.cpp,TIME_LIMIT_EXCEEDED,0,25.26%,1.800,140.515625,0,0,0,0,0,0,0,0
+sequence_gpt-o3-mini-high_3.cpp,RUNTIME_ERROR,0,8.24%,0.360,22.6953125,0,0,0,0,0,0,0,0
+sequence_gpt-o3-mini-high_4.cpp,RUNTIME_ERROR,0,25.26%,0.380,159.59375,0,0,0,0,0,0,0,0
+sequence_gpt-o3-mini-high_5.cpp,RUNTIME_ERROR,0,27.37%,1.320,140.51171875,0,0,0,0,0,0,0,0
+sequence_gpt-o3-mini-high_6.cpp,RUNTIME_ERROR,12,30.53%,1.000,117.0546875,0,0,0,0,12,0,0,0
+sequence_gpt-o3-mini-high_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0

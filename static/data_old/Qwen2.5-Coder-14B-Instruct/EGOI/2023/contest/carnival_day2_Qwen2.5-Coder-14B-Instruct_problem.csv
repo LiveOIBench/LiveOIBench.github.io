@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+carnival_Qwen2.5-Coder-14B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,0,13.16%,1.110,0.00390625,0,0,0,0,0
+carnival_Qwen2.5-Coder-14B-Instruct_1.cpp,RUNTIME_ERROR,0,10.53%,0.080,0.00390625,0,0,0,0,0
+carnival_Qwen2.5-Coder-14B-Instruct_2.cpp,RUNTIME_ERROR,0,13.16%,0.080,0.00390625,0,0,0,0,0
+carnival_Qwen2.5-Coder-14B-Instruct_3.cpp,RUNTIME_ERROR,0,0.00%,0.070,0.00390625,0,0,0,0,0
+carnival_Qwen2.5-Coder-14B-Instruct_4.cpp,RUNTIME_ERROR,0,10.53%,0.080,1.51953125,0,0,0,0,0
+carnival_Qwen2.5-Coder-14B-Instruct_5.cpp,RUNTIME_ERROR,11,30.23%,0.130,3.16015625,0,11,0,0,0
+carnival_Qwen2.5-Coder-14B-Instruct_6.cpp,RUNTIME_ERROR,11,30.23%,0.130,3.36328125,0,11,0,0,0
+carnival_Qwen2.5-Coder-14B-Instruct_7.cpp,RUNTIME_ERROR,0,10.53%,0.080,0.00390625,0,0,0,0,0

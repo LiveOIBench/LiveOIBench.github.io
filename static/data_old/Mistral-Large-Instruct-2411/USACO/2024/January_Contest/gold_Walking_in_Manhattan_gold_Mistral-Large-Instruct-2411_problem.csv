@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Walking_in_Manhattan_Mistral-Large-Instruct-2411_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.360,10.796875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Walking_in_Manhattan_Mistral-Large-Instruct-2411_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.320,2.37109375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Walking_in_Manhattan_Mistral-Large-Instruct-2411_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.280,9.27734375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Walking_in_Manhattan_Mistral-Large-Instruct-2411_3.cpp,TIME_LIMIT_EXCEEDED,0,5.00%,2.270,13.9296875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Walking_in_Manhattan_Mistral-Large-Instruct-2411_4.cpp,WRONG_ANSWER,0,0.00%,0.240,9.30078125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Walking_in_Manhattan_Mistral-Large-Instruct-2411_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.300,13.03515625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Walking_in_Manhattan_Mistral-Large-Instruct-2411_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.280,5.84765625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Walking_in_Manhattan_Mistral-Large-Instruct-2411_7.cpp,WRONG_ANSWER,0,0.00%,0.580,10.3203125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

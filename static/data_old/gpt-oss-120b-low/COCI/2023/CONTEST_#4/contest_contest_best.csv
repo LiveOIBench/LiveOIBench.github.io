@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+7krokods,gpt-oss-120b-low,RUNTIME_ERROR,0,0.00%,0.000,0
+zrinka,gpt-oss-120b-low,ACCEPTED,70,100.00%,0.120,1.55859375
+bojanje,gpt-oss-120b-low,ACCEPTED,110,100.00%,0.020,0.00390625
+mreza,gpt-oss-120b-low,ACCEPTED,110,100.00%,1.230,56.05859375
+vrsta,gpt-oss-120b-low,ACCEPTED,110,100.00%,0.110,7.484375

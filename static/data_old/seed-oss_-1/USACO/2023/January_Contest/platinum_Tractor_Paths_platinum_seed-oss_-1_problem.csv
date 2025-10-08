@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Tractor_Paths_seed-oss_0.cpp,TIME_LIMIT_EXCEEDED,44,18.75%,4.830,39.27734375,0,22.22222222222222,0,0,0,0,0,0,22.22222222222222,0,0,0,0,0,0,0
+platinum_Tractor_Paths_seed-oss_1.cpp,WRONG_ANSWER,0,6.25%,0.180,22.16796875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_seed-oss_2.cpp,TIME_LIMIT_EXCEEDED,44,18.75%,4.820,21.14453125,0,22.22222222222222,0,0,0,0,0,0,22.22222222222222,0,0,0,0,0,0,0
+platinum_Tractor_Paths_seed-oss_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.840,55.1640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_seed-oss_4.cpp,WRONG_ANSWER,0,6.25%,0.150,22.9375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_seed-oss_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.420,276.84765625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_seed-oss_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.850,55.07421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_seed-oss_7.cpp,WRONG_ANSWER,0,6.25%,0.130,22.01171875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

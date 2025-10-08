@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Bovine_Acrobatics_Qwen2.5-72B_0.cpp,TIME_LIMIT_EXCEEDED,22,5.88%,2.300,2.84765625,0,0,0,0,0,0,0,0,22.22222222222222,0,0,0,0,0,0,0
+silver_Bovine_Acrobatics_Qwen2.5-72B_1.cpp,RUNTIME_ERROR,89,23.53%,0.210,2.84765625,0,0,22.22222222222222,0,0,0,0,0,22.22222222222222,0,0,0,0,0,22.22222222222222,22.22222222222222
+silver_Bovine_Acrobatics_Qwen2.5-72B_2.cpp,RUNTIME_ERROR,0,0.00%,0.230,2.84765625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Bovine_Acrobatics_Qwen2.5-72B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Bovine_Acrobatics_Qwen2.5-72B_4.cpp,RUNTIME_ERROR,0,0.00%,0.200,2.84765625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Bovine_Acrobatics_Qwen2.5-72B_5.cpp,TIME_LIMIT_EXCEEDED,22,5.88%,2.270,2.84765625,0,0,0,0,0,0,0,0,22.22222222222222,0,0,0,0,0,0,0
+silver_Bovine_Acrobatics_Qwen2.5-72B_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Bovine_Acrobatics_Qwen2.5-72B_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.340,3.62109375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

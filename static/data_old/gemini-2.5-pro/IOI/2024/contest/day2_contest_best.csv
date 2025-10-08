@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+hieroglyphs,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,0,8.97%,1.110,37.69140625
+sphinx,gemini-2.5-pro,RUNTIME_ERROR,10,54.21%,0.410,4.18359375
+mosaic,gemini-2.5-pro,MEMORY_LIMIT_EXCEEDED,37,82.86%,0.850,2227.2578125

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+neboderi_Qwen2.5-72B_0.cpp,RUNTIME_ERROR,0,0.00%,2.130,5.16796875,0,0,0,0,0
+neboderi_Qwen2.5-72B_1.cpp,RUNTIME_ERROR,0,0.00%,2.120,5.16796875,0,0,0,0,0
+neboderi_Qwen2.5-72B_2.cpp,RUNTIME_ERROR,0,0.00%,2.130,5.16796875,0,0,0,0,0
+neboderi_Qwen2.5-72B_3.cpp,RUNTIME_ERROR,0,0.00%,2.130,5.16796875,0,0,0,0,0
+neboderi_Qwen2.5-72B_4.cpp,RUNTIME_ERROR,0,0.00%,2.140,5.16796875,0,0,0,0,0
+neboderi_Qwen2.5-72B_5.cpp,RUNTIME_ERROR,0,0.00%,2.130,5.16796875,0,0,0,0,0
+neboderi_Qwen2.5-72B_6.cpp,TIME_LIMIT_EXCEEDED,11,18.52%,2.870,12.90234375,11,0,0,0,0
+neboderi_Qwen2.5-72B_7.cpp,RUNTIME_ERROR,0,0.00%,2.070,12.90234375,0,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Target_Practice_Qwen3-14B-Non-Thinking_0.cpp,TIME_LIMIT_EXCEEDED,28,6.67%,2.400,11.3359375,0,27.777777777777775,0,0,0,0,0,0,0,0,0,0,0
+silver_Target_Practice_Qwen3-14B-Non-Thinking_1.cpp,TIME_LIMIT_EXCEEDED,28,26.67%,2.270,16.75390625,0,27.777777777777775,0,0,0,0,0,0,0,0,0,0,0
+silver_Target_Practice_Qwen3-14B-Non-Thinking_2.cpp,TIME_LIMIT_EXCEEDED,28,20.00%,2.380,10.515625,0,27.777777777777775,0,0,0,0,0,0,0,0,0,0,0
+silver_Target_Practice_Qwen3-14B-Non-Thinking_3.cpp,TIME_LIMIT_EXCEEDED,28,26.67%,2.400,6.703125,0,27.777777777777775,0,0,0,0,0,0,0,0,0,0,0
+silver_Target_Practice_Qwen3-14B-Non-Thinking_4.cpp,RUNTIME_ERROR,28,6.67%,0.150,9.02734375,0,27.777777777777775,0,0,0,0,0,0,0,0,0,0,0
+silver_Target_Practice_Qwen3-14B-Non-Thinking_5.cpp,TIME_LIMIT_EXCEEDED,28,26.67%,2.370,10.38671875,0,27.777777777777775,0,0,0,0,0,0,0,0,0,0,0
+silver_Target_Practice_Qwen3-14B-Non-Thinking_6.cpp,TIME_LIMIT_EXCEEDED,28,6.67%,2.230,6.44921875,0,27.777777777777775,0,0,0,0,0,0,0,0,0,0,0
+silver_Target_Practice_Qwen3-14B-Non-Thinking_7.cpp,TIME_LIMIT_EXCEEDED,83,40.00%,2.320,7.2734375,0,27.777777777777775,0,0,0,27.777777777777775,27.777777777777775,0,0,0,0,0,0

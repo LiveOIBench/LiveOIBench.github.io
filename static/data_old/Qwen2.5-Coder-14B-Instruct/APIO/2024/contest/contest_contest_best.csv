@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+show,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+september,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,4.69%,0.280,13.640625
+train,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

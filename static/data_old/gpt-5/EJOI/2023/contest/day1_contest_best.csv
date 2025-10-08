@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+teleporters,gpt-5,ACCEPTED,100,100.00%,0.310,11.5625
+tree_search,gpt-5,ACCEPTED,100,100.00%,0.140,27.48828125
+opening_offices,gpt-5,RUNTIME_ERROR,23,39.34%,0.130,7.58984375

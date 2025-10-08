@@ -1,0 +1,8 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+neboderi_gpt-oss-120b-high_0.cpp,ACCEPTED,110,100.00%,100.00%,0.250,175.171875,11,22,27,18,32
+neboderi_gpt-oss-120b-high_1.cpp,ACCEPTED,110,100.00%,100.00%,1.240,32.44140625,11,22,27,18,32
+neboderi_gpt-oss-120b-high_2.cpp,MEMORY_LIMIT_EXCEEDED,78,70.91%,79.63%,1.030,503.0234375,11,22,27,18,0
+neboderi_gpt-oss-120b-high_3.cpp,ACCEPTED,110,100.00%,100.00%,0.190,12.90234375,11,22,27,18,32
+neboderi_gpt-oss-120b-high_4.cpp,ACCEPTED,110,100.00%,100.00%,0.170,12.90234375,11,22,27,18,32
+neboderi_gpt-oss-120b-high_6.cpp,ACCEPTED,110,100.00%,100.00%,0.160,12.90234375,11,22,27,18,32
+neboderi_gpt-oss-120b-high_7.cpp,ACCEPTED,110,100.00%,100.00%,0.190,12.90234375,11,22,27,18,32

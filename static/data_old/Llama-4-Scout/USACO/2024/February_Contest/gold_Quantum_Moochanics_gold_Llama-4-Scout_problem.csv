@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Quantum_Moochanics_Llama-4-Scout_0.cpp,RUNTIME_ERROR,0,0.00%,0.030,4.390625,0,0,0,0,0,0,0,0,0,0,0
+gold_Quantum_Moochanics_Llama-4-Scout_1.cpp,RUNTIME_ERROR,0,0.00%,0.070,9.98828125,0,0,0,0,0,0,0,0,0,0,0
+gold_Quantum_Moochanics_Llama-4-Scout_2.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,1.450,135.0234375,0,0,0,0,0,0,0,0,0,0,0
+gold_Quantum_Moochanics_Llama-4-Scout_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Quantum_Moochanics_Llama-4-Scout_4.cpp,RUNTIME_ERROR,0,0.00%,0.080,10.875,0,0,0,0,0,0,0,0,0,0,0
+gold_Quantum_Moochanics_Llama-4-Scout_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,1.500,135.01171875,0,0,0,0,0,0,0,0,0,0,0
+gold_Quantum_Moochanics_Llama-4-Scout_6.cpp,RUNTIME_ERROR,0,0.00%,0.060,6.19921875,0,0,0,0,0,0,0,0,0,0,0
+gold_Quantum_Moochanics_Llama-4-Scout_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.420,15.7734375,0,0,0,0,0,0,0,0,0,0,0

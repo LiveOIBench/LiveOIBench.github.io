@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+s4_gpt-5_0.cpp,RUNTIME_ERROR,3,30.88%,0.230,1.84765625,3,0,0
+s4_gpt-5_1.cpp,RUNTIME_ERROR,0,1.47%,0.040,1.5546875,0,0,0
+s4_gpt-5_2.cpp,RUNTIME_ERROR,0,1.47%,0.030,1.5546875,0,0,0
+s4_gpt-5_3.cpp,RUNTIME_ERROR,3,30.88%,0.250,1.984375,3,0,0
+s4_gpt-5_4.cpp,ACCEPTED,15,100.00%,0.240,2.17578125,3,6,6
+s4_gpt-5_5.cpp,RUNTIME_ERROR,3,30.88%,0.290,1.55078125,3,0,0
+s4_gpt-5_6.cpp,RUNTIME_ERROR,0,1.47%,0.040,1.5546875,0,0,0
+s4_gpt-5_7.cpp,RUNTIME_ERROR,3,30.88%,0.410,1.859375,3,0,0

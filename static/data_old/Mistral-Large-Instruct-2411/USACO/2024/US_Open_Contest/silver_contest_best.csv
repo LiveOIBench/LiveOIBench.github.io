@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bessies_Interview,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Painting_Fence_Posts,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_The_Winning_Gene,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,67,25.00%,2.240,1.55078125

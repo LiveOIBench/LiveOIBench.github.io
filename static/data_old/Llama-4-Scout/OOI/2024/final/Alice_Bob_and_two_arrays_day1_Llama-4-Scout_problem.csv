@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Alice_Bob_and_two_arrays_Llama-4-Scout_0.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alice_Bob_and_two_arrays_Llama-4-Scout_1.cpp,RUNTIME_ERROR,13,32.52%,0.460,0.00390625,0.0,13.0,0,0,0,0,0,0,0,0,0,0
+Alice_Bob_and_two_arrays_Llama-4-Scout_2.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alice_Bob_and_two_arrays_Llama-4-Scout_3.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alice_Bob_and_two_arrays_Llama-4-Scout_4.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alice_Bob_and_two_arrays_Llama-4-Scout_5.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alice_Bob_and_two_arrays_Llama-4-Scout_6.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alice_Bob_and_two_arrays_Llama-4-Scout_7.cpp,MEMORY_LIMIT_EXCEEDED,57,75.70%,0.240,219.1640625,0.0,13.0,0,0,12.0,11.0,8.0,0,7.0,6.0,0,0

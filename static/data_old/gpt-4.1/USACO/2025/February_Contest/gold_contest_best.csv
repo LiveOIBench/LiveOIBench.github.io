@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Bessies_Function,gpt-4.1,RUNTIME_ERROR,35,9.52%,0.150,2.84765625
+gold_The_Best_Subsequence,gpt-4.1,TIME_LIMIT_EXCEEDED,59,30.00%,2.370,157.76953125
+gold_Friendship_Editing,gpt-4.1,TIME_LIMIT_EXCEEDED,44,27.78%,2.460,0.00390625

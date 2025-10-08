@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_DFS_Order,Llama-3.3-70B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Shock_Wave,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,0.00%,0.130,2.015625
+platinum_Watering_the_Plants,Llama-3.3-70B-Instruct,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.390,268.53515625

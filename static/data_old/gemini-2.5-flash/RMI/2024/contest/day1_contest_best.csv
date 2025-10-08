@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Choose_Interval,gemini-2.5-flash,UNKNOWN,0,0.00%,0.000,0
+Skittlez,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,28,64.15%,2.410,38.3984375
+Octagon,gemini-2.5-flash,RUNTIME_ERROR,55,86.59%,0.080,0.00390625

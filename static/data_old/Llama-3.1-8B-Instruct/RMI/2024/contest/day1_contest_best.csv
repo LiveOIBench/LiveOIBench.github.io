@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Choose_Interval,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,0.00%,0.000,0
+Skittlez,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,0.00%,0.000,0
+Octagon,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,14.29%,0.000,0

@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+candy,gemini-2.5-flash,ACCEPTED,100,100.00%,0.040,4.90625
+sopsug,gemini-2.5-flash,UNKNOWN,0,0.00%,0.000,0
+guessinggame,gemini-2.5-flash,RUNTIME_ERROR,0,0.00%,0.000,0
+carnival,gemini-2.5-flash,ACCEPTED,100,100.00%,0.050,3.36328125

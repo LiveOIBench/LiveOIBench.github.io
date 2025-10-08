@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+wow,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,5.56%,0.000,0
+zid,Qwen3-32B-Non-Thinking,TIME_LIMIT_EXCEEDED,38,66.67%,1.110,2.5859375
+tornjevi,Qwen3-32B-Non-Thinking,TIME_LIMIT_EXCEEDED,61,79.63%,2.210,24.421875
+crtez,Qwen3-32B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+stablo,Qwen3-32B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0

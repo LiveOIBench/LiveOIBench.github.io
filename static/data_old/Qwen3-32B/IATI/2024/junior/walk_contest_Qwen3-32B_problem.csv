@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+walk_Qwen3-32B_0.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+walk_Qwen3-32B_1.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.310,557.66015625,0,0,0,0,0,0,0,0
+walk_Qwen3-32B_2.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.310,579.31640625,0,0,0,0,0,0,0,0
+walk_Qwen3-32B_3.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+walk_Qwen3-32B_4.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.290,611.27734375,0,0,0,0,0,0,0,0
+walk_Qwen3-32B_5.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+walk_Qwen3-32B_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.290,529.0390625,0,0,0,0,0,0,0,0

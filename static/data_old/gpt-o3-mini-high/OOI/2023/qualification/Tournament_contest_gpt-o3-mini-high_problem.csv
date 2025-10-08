@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Tournament_gpt-o3-mini-high_0.cpp,TIME_LIMIT_EXCEEDED,80,97.15%,3.320,0.00390625,0.0,14.0,0,8.0,0,12.0,9.0,10.0,9.0,8.0,10.0
+Tournament_gpt-o3-mini-high_1.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+Tournament_gpt-o3-mini-high_2.cpp,TIME_LIMIT_EXCEEDED,80,97.15%,3.320,0.00390625,0.0,14.0,0,8.0,0,12.0,9.0,10.0,9.0,8.0,10.0
+Tournament_gpt-o3-mini-high_3.cpp,TIME_LIMIT_EXCEEDED,80,97.15%,3.310,0.00390625,0.0,14.0,0,8.0,0,12.0,9.0,10.0,9.0,8.0,10.0
+Tournament_gpt-o3-mini-high_4.cpp,TIME_LIMIT_EXCEEDED,80,97.15%,3.310,0.00390625,0.0,14.0,0,8.0,0,12.0,9.0,10.0,9.0,8.0,10.0
+Tournament_gpt-o3-mini-high_5.cpp,TIME_LIMIT_EXCEEDED,80,97.15%,3.320,0.00390625,0.0,14.0,0,8.0,0,12.0,9.0,10.0,9.0,8.0,10.0
+Tournament_gpt-o3-mini-high_6.cpp,MEMORY_LIMIT_EXCEEDED,80,97.15%,0.040,1.69921875,0.0,14.0,0,8.0,0,12.0,9.0,10.0,9.0,8.0,10.0
+Tournament_gpt-o3-mini-high_7.cpp,ACCEPTED,100,100.00%,0.000,0,0.0,14.0,9.0,8.0,11.0,12.0,9.0,10.0,9.0,8.0,10.0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Roundabout_Rounding,deepseek-reasoner,ACCEPTED,333,100.00%,0.050,0.00390625
+bronze_Farmer_Johns_Cheese_Block,deepseek-reasoner,ACCEPTED,333,100.00%,0.100,12.90234375
+bronze_Its_Mooin_Time,deepseek-reasoner,ACCEPTED,333,100.00%,0.040,0.00390625

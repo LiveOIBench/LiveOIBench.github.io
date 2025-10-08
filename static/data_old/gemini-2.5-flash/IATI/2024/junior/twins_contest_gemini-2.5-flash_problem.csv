@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+twins_gemini-2.5-flash_0.cpp,RUNTIME_ERROR,40,35.88%,0.130,3.265625,40,0,0
+twins_gemini-2.5-flash_1.cpp,RUNTIME_ERROR,40,37.06%,0.130,3.265625,40,0,0
+twins_gemini-2.5-flash_2.cpp,RUNTIME_ERROR,40,35.88%,0.130,3.70703125,40,0,0
+twins_gemini-2.5-flash_3.cpp,RUNTIME_ERROR,50,42.35%,0.150,3.453125,40,10,0
+twins_gemini-2.5-flash_4.cpp,RUNTIME_ERROR,40,35.88%,0.130,3.5078125,40,0,0
+twins_gemini-2.5-flash_5.cpp,RUNTIME_ERROR,40,37.06%,0.130,3.73828125,40,0,0
+twins_gemini-2.5-flash_6.cpp,RUNTIME_ERROR,40,37.06%,0.130,3.140625,40,0,0
+twins_gemini-2.5-flash_7.cpp,RUNTIME_ERROR,40,35.88%,0.130,3.26953125,40,0,0

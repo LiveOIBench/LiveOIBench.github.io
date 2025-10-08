@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+skrivaca_Qwen3-4B_0.cpp,RUNTIME_ERROR,0,0.00%,0.230,15.48046875,0,0,0,0
+skrivaca_Qwen3-4B_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.410,17.3203125,0,0,0,0
+skrivaca_Qwen3-4B_2.cpp,RUNTIME_ERROR,0,0.00%,0.160,13.92578125,0,0,0,0
+skrivaca_Qwen3-4B_3.cpp,RUNTIME_ERROR,0,0.00%,0.210,14.70703125,0,0,0,0
+skrivaca_Qwen3-4B_4.cpp,RUNTIME_ERROR,0,0.00%,0.130,15.73828125,0,0,0,0
+skrivaca_Qwen3-4B_5.cpp,RUNTIME_ERROR,0,0.00%,0.280,15.4765625,0,0,0,0
+skrivaca_Qwen3-4B_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.420,15.73828125,0,0,0,0
+skrivaca_Qwen3-4B_7.cpp,RUNTIME_ERROR,0,0.00%,0.100,15.48046875,0,0,0,0

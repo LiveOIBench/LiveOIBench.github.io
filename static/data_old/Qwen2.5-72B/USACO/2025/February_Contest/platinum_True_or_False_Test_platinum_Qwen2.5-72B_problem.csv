@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_True_or_False_Test_Qwen2.5-72B_0.cpp,WRONG_ANSWER,0,0.00%,0.370,7.48828125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_True_or_False_Test_Qwen2.5-72B_1.cpp,WRONG_ANSWER,0,0.00%,0.410,7.48828125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_True_or_False_Test_Qwen2.5-72B_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.450,5.1640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_True_or_False_Test_Qwen2.5-72B_3.cpp,WRONG_ANSWER,0,0.00%,0.160,7.48828125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_True_or_False_Test_Qwen2.5-72B_4.cpp,WRONG_ANSWER,0,0.00%,0.390,5.9375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_True_or_False_Test_Qwen2.5-72B_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.470,7.48828125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_True_or_False_Test_Qwen2.5-72B_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.460,7.48828125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_True_or_False_Test_Qwen2.5-72B_7.cpp,WRONG_ANSWER,0,0.00%,0.360,7.48828125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

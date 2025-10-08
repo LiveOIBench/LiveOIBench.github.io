@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+labirint_gemini-2.5-pro_0.cpp,ACCEPTED,70,100.00%,0.050,0.00390625,11,13,24,22
+labirint_gemini-2.5-pro_1.cpp,ACCEPTED,70,100.00%,0.070,0,11,13,24,22
+labirint_gemini-2.5-pro_2.cpp,RUNTIME_ERROR,37,82.50%,0.100,2.2890625,0,13,24,0
+labirint_gemini-2.5-pro_3.cpp,ACCEPTED,70,100.00%,0.060,1.546875,11,13,24,22
+labirint_gemini-2.5-pro_4.cpp,ACCEPTED,70,100.00%,0.070,0.00390625,11,13,24,22
+labirint_gemini-2.5-pro_5.cpp,ACCEPTED,70,100.00%,0.070,1.5546875,11,13,24,22
+labirint_gemini-2.5-pro_6.cpp,ACCEPTED,70,100.00%,0.070,1.5546875,11,13,24,22
+labirint_gemini-2.5-pro_7.cpp,ACCEPTED,70,100.00%,0.070,1.5546875,11,13,24,22

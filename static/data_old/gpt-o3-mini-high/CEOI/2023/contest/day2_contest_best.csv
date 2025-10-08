@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+trade,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,0,16.95%,7.710,17.0625
+incursion,gpt-o3-mini-high,COMPILATION_ERROR,0,0.00%,0.000,0
+avoid,gpt-o3-mini-high,RUNTIME_ERROR,0,0.00%,0.020,0

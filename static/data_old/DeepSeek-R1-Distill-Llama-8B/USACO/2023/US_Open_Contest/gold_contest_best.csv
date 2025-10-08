@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Custodial_Cleanup,DeepSeek-R1-Distill-Llama-8B,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Pareidolia,DeepSeek-R1-Distill-Llama-8B,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Tree_Merging,DeepSeek-R1-Distill-Llama-8B,COMPILATION_ERROR,0,0.00%,0.000,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_21,subtask_22,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Watching_Cowflix_Qwen3-32B_0.cpp,WRONG_ANSWER,0,8.33%,0.090,13.3359375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watching_Cowflix_Qwen3-32B_1.cpp,WRONG_ANSWER,45,20.83%,0.110,42.55859375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15.15151515151515,15.15151515151515,15.15151515151515,0,0,0
+platinum_Watching_Cowflix_Qwen3-32B_2.cpp,TIME_LIMIT_EXCEEDED,0,8.33%,3.330,17.43359375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watching_Cowflix_Qwen3-32B_3.cpp,MEMORY_LIMIT_EXCEEDED,15,12.50%,0.190,277.828125,0,0,0,0,0,0,0,0,0,15.15151515151515,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watching_Cowflix_Qwen3-32B_4.cpp,WRONG_ANSWER,0,4.17%,0.110,41.70703125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watching_Cowflix_Qwen3-32B_5.cpp,TIME_LIMIT_EXCEEDED,0,8.33%,3.330,158.62109375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watching_Cowflix_Qwen3-32B_6.cpp,TIME_LIMIT_EXCEEDED,0,4.17%,3.310,29.515625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watching_Cowflix_Qwen3-32B_7.cpp,RUNTIME_ERROR,0,0.00%,0.160,48.3515625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

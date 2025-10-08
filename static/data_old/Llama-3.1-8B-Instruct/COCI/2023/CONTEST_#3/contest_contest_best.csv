@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+estimathon,Llama-3.1-8B-Instruct,RUNTIME_ERROR,39,80.00%,0.060,0
+dirigent,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,0.00%,0.060,8.83203125
+baltazar,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+bomboni,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+skrivaca,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

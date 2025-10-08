@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Median_Heap,gpt-o3-mini-high,ACCEPTED,333,100.00%,0.280,24.0
+gold_Reachable_Pairs,gpt-o3-mini-high,WRONG_ANSWER,50,26.09%,0.180,23.3828125
+gold_Photo_Op,gpt-o3-mini-high,COMPILATION_ERROR,0,0.00%,0.000,0

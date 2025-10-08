@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+walk_gpt-oss-20b-medium_0.cpp,ACCEPTED,100,100.00%,0.280,13.9296875,0,10,7,29,27,7,14,6
+walk_gpt-oss-20b-medium_1.cpp,ACCEPTED,100,100.00%,0.300,14.07421875,0,10,7,29,27,7,14,6
+walk_gpt-oss-20b-medium_2.cpp,ACCEPTED,100,100.00%,0.290,14.1640625,0,10,7,29,27,7,14,6
+walk_gpt-oss-20b-medium_3.cpp,ACCEPTED,100,100.00%,0.280,14.07421875,0,10,7,29,27,7,14,6
+walk_gpt-oss-20b-medium_4.cpp,ACCEPTED,100,100.00%,0.280,14.0625,0,10,7,29,27,7,14,6
+walk_gpt-oss-20b-medium_5.cpp,RUNTIME_ERROR,0,1.79%,0.030,2.5859375,0,0,0,0,0,0,0,0
+walk_gpt-oss-20b-medium_6.cpp,ACCEPTED,100,100.00%,0.280,14.703125,0,10,7,29,27,7,14,6
+walk_gpt-oss-20b-medium_7.cpp,RUNTIME_ERROR,0,1.79%,0.040,2.5859375,0,0,0,0,0,0,0,0

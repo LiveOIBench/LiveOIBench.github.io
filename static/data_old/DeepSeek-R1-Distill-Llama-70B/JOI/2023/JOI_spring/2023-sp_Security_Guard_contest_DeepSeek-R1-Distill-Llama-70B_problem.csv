@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+2023-sp_Security_Guard_DeepSeek-R1-Distill-Llama-70B_0.cpp,RUNTIME_ERROR,0,5.95%,0.170,18.5625,0,0,0,0,0,0,0
+2023-sp_Security_Guard_DeepSeek-R1-Distill-Llama-70B_1.cpp,RUNTIME_ERROR,0,5.95%,0.170,17.26171875,0,0,0,0,0,0,0
+2023-sp_Security_Guard_DeepSeek-R1-Distill-Llama-70B_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+2023-sp_Security_Guard_DeepSeek-R1-Distill-Llama-70B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+2023-sp_Security_Guard_DeepSeek-R1-Distill-Llama-70B_4.cpp,RUNTIME_ERROR,0,5.95%,0.150,7.7421875,0,0,0,0,0,0,0
+2023-sp_Security_Guard_DeepSeek-R1-Distill-Llama-70B_5.cpp,RUNTIME_ERROR,0,5.95%,0.160,5.40234375,0,0,0,0,0,0,0
+2023-sp_Security_Guard_DeepSeek-R1-Distill-Llama-70B_6.cpp,RUNTIME_ERROR,0,5.95%,0.160,7.4921875,0,0,0,0,0,0,0
+2023-sp_Security_Guard_DeepSeek-R1-Distill-Llama-70B_7.cpp,RUNTIME_ERROR,0,5.95%,0.160,4.390625,0,0,0,0,0,0,0

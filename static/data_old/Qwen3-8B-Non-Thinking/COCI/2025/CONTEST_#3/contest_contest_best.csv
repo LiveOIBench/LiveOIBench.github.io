@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+autobus,Qwen3-8B-Non-Thinking,RUNTIME_ERROR,0,16.33%,0.000,0
+karte,Qwen3-8B-Non-Thinking,TIME_LIMIT_EXCEEDED,11,37.31%,1.150,0.00390625
+bojanje,Qwen3-8B-Non-Thinking,RUNTIME_ERROR,0,4.35%,0.000,0
+stablo,Qwen3-8B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+procesor,Qwen3-8B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0

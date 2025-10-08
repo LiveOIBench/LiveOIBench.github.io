@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+tycho_deepseek-chat_0.cpp,RUNTIME_ERROR,5,78.75%,0.010,1.55859375,0,0,5,0,0,0,0,0
+tycho_deepseek-chat_1.cpp,RUNTIME_ERROR,0,8.85%,0.000,0,0,0,0,0,0,0,0,0
+tycho_deepseek-chat_2.cpp,RUNTIME_ERROR,0,7.08%,0.000,0,0,0,0,0,0,0,0,0
+tycho_deepseek-chat_3.cpp,RUNTIME_ERROR,0,4.50%,0.000,0,0,0,0,0,0,0,0,0
+tycho_deepseek-chat_4.cpp,RUNTIME_ERROR,0,70.91%,0.000,0,0,0,0,0,0,0,0,0
+tycho_deepseek-chat_5.cpp,RUNTIME_ERROR,0,63.24%,0.000,0,0,0,0,0,0,0,0,0
+tycho_deepseek-chat_6.cpp,RUNTIME_ERROR,0,4.50%,0.010,0,0,0,0,0,0,0,0,0
+tycho_deepseek-chat_7.cpp,RUNTIME_ERROR,0,4.50%,0.000,0,0,0,0,0,0,0,0,0

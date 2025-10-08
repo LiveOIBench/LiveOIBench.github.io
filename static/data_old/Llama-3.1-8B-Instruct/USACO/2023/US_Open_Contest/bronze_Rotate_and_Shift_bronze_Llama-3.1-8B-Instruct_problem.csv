@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Rotate_and_Shift_Llama-3.1-8B-Instruct_0.cpp,WRONG_ANSWER,0,0.00%,0.110,2.07421875,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Rotate_and_Shift_Llama-3.1-8B-Instruct_1.cpp,WRONG_ANSWER,0,0.00%,3.380,2.07421875,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Rotate_and_Shift_Llama-3.1-8B-Instruct_2.cpp,WRONG_ANSWER,0,0.00%,0.110,1.875,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Rotate_and_Shift_Llama-3.1-8B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.470,2.07421875,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Rotate_and_Shift_Llama-3.1-8B-Instruct_4.cpp,WRONG_ANSWER,0,0.00%,3.490,2.1328125,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Rotate_and_Shift_Llama-3.1-8B-Instruct_5.cpp,WRONG_ANSWER,0,0.00%,0.110,2.390625,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Rotate_and_Shift_Llama-3.1-8B-Instruct_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.120,2.58984375,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Rotate_and_Shift_Llama-3.1-8B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.460,2.84765625,0,0,0,0,0,0,0,0,0,0,0,0,0

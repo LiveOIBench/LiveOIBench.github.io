@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+zlagalica,gpt-4.1,ACCEPTED,50,100.00%,0.000,0
+bitovi,gpt-4.1,COMPILATION_ERROR,0,0.00%,0.000,0
+piratski,gpt-4.1,COMPILATION_ERROR,0,0.00%,0.000,0
+rolete,gpt-4.1,TIME_LIMIT_EXCEEDED,0,2.04%,2.210,4.296875
+trokut,gpt-4.1,RUNTIME_ERROR,0,0.00%,0.060,0.00390625

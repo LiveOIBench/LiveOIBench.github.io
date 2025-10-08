@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+vrsta_Qwen2.5-Coder-32B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,0,2.00%,1.120,562.296875,0,0,0,0
+vrsta_Qwen2.5-Coder-32B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,19,20.00%,1.230,400.1328125,19,0,0,0
+vrsta_Qwen2.5-Coder-32B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,45,40.00%,1.120,119.8359375,19,26,0,0
+vrsta_Qwen2.5-Coder-32B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.110,117.515625,0,0,0,0
+vrsta_Qwen2.5-Coder-32B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.150,405.03125,0,0,0,0
+vrsta_Qwen2.5-Coder-32B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,19,20.00%,1.150,393.6875,19,0,0,0
+vrsta_Qwen2.5-Coder-32B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.140,394.71875,0,0,0,0
+vrsta_Qwen2.5-Coder-32B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.180,413.0234375,0,0,0,0

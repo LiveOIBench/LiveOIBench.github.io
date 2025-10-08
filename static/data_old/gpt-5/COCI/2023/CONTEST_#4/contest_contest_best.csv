@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+7krokods,gpt-5,COMPILATION_ERROR,0,0.00%,0.000,0
+zrinka,gpt-5,ACCEPTED,70,100.00%,0.130,1.55859375
+bojanje,gpt-5,ACCEPTED,110,100.00%,0.010,0.00390625
+mreza,gpt-5,ACCEPTED,110,100.00%,0.570,32.0859375
+vrsta,gpt-5,ACCEPTED,110,100.00%,0.130,7.484375

@@ -1,0 +1,7 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+tree_deepseek-chat_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,15.953125,0,0,0,0,0,0,0,0
+tree_deepseek-chat_2.cpp,TIME_LIMIT_EXCEEDED,10,25.88%,2.210,26.9375,0,10,0,0,0,0,0,0
+tree_deepseek-chat_3.cpp,TIME_LIMIT_EXCEEDED,0,2.67%,2.220,23.546875,0,0,0,0,0,0,0,0
+tree_deepseek-chat_4.cpp,RUNTIME_ERROR,0,2.67%,0.040,18.953125,0,0,0,0,0,0,0,0
+tree_deepseek-chat_5.cpp,TIME_LIMIT_EXCEEDED,0,2.67%,2.210,25.11328125,0,0,0,0,0,0,0,0
+tree_deepseek-chat_7.cpp,TIME_LIMIT_EXCEEDED,10,25.88%,2.230,22.265625,0,10,0,0,0,0,0,0

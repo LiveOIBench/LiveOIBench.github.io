@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Burenka_and_Pether,DeepSeek-R1-Distill-Qwen-32B,RUNTIME_ERROR,0,0.79%,0.550,28.8828125
+Almost_Certainly,DeepSeek-R1-Distill-Qwen-32B,RUNTIME_ERROR,0,0.00%,0.090,4.13671875
+Three_Arrays,DeepSeek-R1-Distill-Qwen-32B,RUNTIME_ERROR,0,32.95%,0.090,0
+Parallel_Universes,DeepSeek-R1-Distill-Qwen-32B,RUNTIME_ERROR,0,0.72%,0.090,0.00390625

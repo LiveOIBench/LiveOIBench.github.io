@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Cowreography,seed-oss_-1,WRONG_ANSWER,100,39.13%,0.030,3.28125
+gold_Grass_Segments,seed-oss_-1,ACCEPTED,333,100.00%,0.310,49.41796875
+gold_Smaller_Averages,seed-oss_-1,ACCEPTED,333,100.00%,1.960,4.63671875

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Milk_Sum,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Field_Day,Llama-3.1-8B-Instruct,MEMORY_LIMIT_EXCEEDED,0,5.00%,0.230,279.9921875
+silver_Pareidolia,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

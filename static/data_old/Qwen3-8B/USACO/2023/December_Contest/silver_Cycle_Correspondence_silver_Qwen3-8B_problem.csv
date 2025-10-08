@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Cycle_Correspondence_Qwen3-8B_0.cpp,WRONG_ANSWER,56,33.33%,0.350,33.5234375,0,27.777777777777775,0,0,0,27.777777777777775,0,0,0,0,0,0,0
+silver_Cycle_Correspondence_Qwen3-8B_1.cpp,WRONG_ANSWER,56,33.33%,0.090,29.140625,0,27.777777777777775,0,0,0,27.777777777777775,0,0,0,0,0,0,0
+silver_Cycle_Correspondence_Qwen3-8B_2.cpp,WRONG_ANSWER,56,33.33%,0.160,31.2265625,0,27.777777777777775,0,0,0,27.777777777777775,0,0,0,0,0,0,0
+silver_Cycle_Correspondence_Qwen3-8B_3.cpp,WRONG_ANSWER,56,33.33%,0.350,33.5234375,0,27.777777777777775,0,0,0,27.777777777777775,0,0,0,0,0,0,0
+silver_Cycle_Correspondence_Qwen3-8B_4.cpp,WRONG_ANSWER,56,33.33%,0.270,18.5703125,0,27.777777777777775,0,0,0,27.777777777777775,0,0,0,0,0,0,0
+silver_Cycle_Correspondence_Qwen3-8B_5.cpp,WRONG_ANSWER,56,33.33%,0.370,43.3203125,0,27.777777777777775,0,0,0,27.777777777777775,0,0,0,0,0,0,0
+silver_Cycle_Correspondence_Qwen3-8B_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.320,53.375,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Cycle_Correspondence_Qwen3-8B_7.cpp,MEMORY_LIMIT_EXCEEDED,28,6.67%,0.110,29.140625,0,27.777777777777775,0,0,0,0,0,0,0,0,0,0,0

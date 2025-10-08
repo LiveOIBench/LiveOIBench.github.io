@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Bessies_Function,QwQ-32B,RUNTIME_ERROR,88,23.81%,0.150,7.1171875
+gold_The_Best_Subsequence,QwQ-32B,TIME_LIMIT_EXCEEDED,20,20.00%,2.280,8.05859375
+gold_Friendship_Editing,QwQ-32B,COMPILATION_ERROR,0,0.00%,0.000,0

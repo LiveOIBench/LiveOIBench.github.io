@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+slasticarnica_Qwen2.5-Coder-7B-Instruct_0.cpp,RUNTIME_ERROR,0,0.00%,0.060,0.00390625,0,0,0
+slasticarnica_Qwen2.5-Coder-7B-Instruct_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+slasticarnica_Qwen2.5-Coder-7B-Instruct_2.cpp,RUNTIME_ERROR,0,0.00%,0.050,0.00390625,0,0,0
+slasticarnica_Qwen2.5-Coder-7B-Instruct_3.cpp,RUNTIME_ERROR,0,0.00%,0.130,2.84765625,0,0,0
+slasticarnica_Qwen2.5-Coder-7B-Instruct_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+slasticarnica_Qwen2.5-Coder-7B-Instruct_5.cpp,RUNTIME_ERROR,0,0.00%,1.150,0.00390625,0,0,0
+slasticarnica_Qwen2.5-Coder-7B-Instruct_6.cpp,RUNTIME_ERROR,0,0.00%,0.070,3.62109375,0,0,0
+slasticarnica_Qwen2.5-Coder-7B-Instruct_7.cpp,RUNTIME_ERROR,0,0.00%,0.080,0.00390625,0,0,0

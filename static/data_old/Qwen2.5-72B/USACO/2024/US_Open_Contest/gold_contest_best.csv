@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Cowreography,Qwen2.5-72B,RUNTIME_ERROR,0,4.35%,0.140,9.91015625
+gold_Grass_Segments,Qwen2.5-72B,TIME_LIMIT_EXCEEDED,0,15.00%,2.350,11.30859375
+gold_Smaller_Averages,Qwen2.5-72B,RUNTIME_ERROR,0,10.00%,0.110,3.359375

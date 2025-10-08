@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+roboti_deepseek-chat_0.cpp,TIME_LIMIT_EXCEEDED,13,34.09%,2.230,17.5390625,0,13,0,0
+roboti_deepseek-chat_1.cpp,TIME_LIMIT_EXCEEDED,0,9.09%,2.240,23.65234375,0,0,0,0
+roboti_deepseek-chat_2.cpp,TIME_LIMIT_EXCEEDED,0,13.64%,2.240,25.78125,0,0,0,0
+roboti_deepseek-chat_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.240,18.9296875,0,0,0,0
+roboti_deepseek-chat_4.cpp,RUNTIME_ERROR,0,2.27%,0.390,0.00390625,0,0,0,0
+roboti_deepseek-chat_5.cpp,TIME_LIMIT_EXCEEDED,13,34.09%,2.220,25.78515625,0,13,0,0
+roboti_deepseek-chat_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+roboti_deepseek-chat_7.cpp,TIME_LIMIT_EXCEEDED,13,34.09%,2.210,557.39453125,0,13,0,0

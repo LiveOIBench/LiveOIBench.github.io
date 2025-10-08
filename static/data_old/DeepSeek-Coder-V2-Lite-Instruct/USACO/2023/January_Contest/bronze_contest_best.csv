@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Leaders,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,0.00%,0.130,1.8125
+bronze_Air_Cownditioning_II,DeepSeek-Coder-V2-Lite-Instruct,WRONG_ANSWER,0,0.00%,0.000,0
+bronze_Moo_Operations,DeepSeek-Coder-V2-Lite-Instruct,WRONG_ANSWER,0,0.00%,0.000,0

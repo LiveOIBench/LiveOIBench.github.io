@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Parallel_Universes_Qwen3-14B_0.cpp,RUNTIME_ERROR,0,0.00%,0.090,0,0,0,0,0,0,0,0,0,0,0,0
+Parallel_Universes_Qwen3-14B_1.cpp,RUNTIME_ERROR,0,0.72%,0.090,8.1953125,0,0,0,0,0,0,0,0,0,0,0
+Parallel_Universes_Qwen3-14B_2.cpp,RUNTIME_ERROR,11,10.14%,0.090,1.55078125,0,0,0,0,0,11.0,0,0,0,0,0
+Parallel_Universes_Qwen3-14B_3.cpp,RUNTIME_ERROR,23,15.94%,0.360,1.8046875,0,0,0,0,0,11.0,0,0,12.0,0,0
+Parallel_Universes_Qwen3-14B_4.cpp,RUNTIME_ERROR,0,0.72%,0.090,0,0,0,0,0,0,0,0,0,0,0,0
+Parallel_Universes_Qwen3-14B_5.cpp,RUNTIME_ERROR,0,5.80%,0.090,0.00390625,0,0,0,0,0,0,0,0,0,0,0
+Parallel_Universes_Qwen3-14B_6.cpp,RUNTIME_ERROR,11,8.70%,0.300,2.1796875,0,0,0,0,0,11.0,0,0,0,0,0
+Parallel_Universes_Qwen3-14B_7.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,3 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+stations_gpt-oss-20b-medium_3.cpp,RUNTIME_ERROR,0,15.22%,0.250,87.9296875,0,0,0,0,0,0,0
+stations_gpt-oss-20b-medium_4.cpp,RUNTIME_ERROR,0,4.55%,3.730,53.84375,0,0,0,0,0,0,0

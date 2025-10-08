@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+More_Gifts,Qwen2.5-Coder-7B-Instruct,RUNTIME_ERROR,0,5.61%,0.080,5.109375
+Big_Persimmon,Qwen2.5-Coder-7B-Instruct,RUNTIME_ERROR,0,8.62%,0.000,0
+Evidence_Board,Qwen2.5-Coder-7B-Instruct,UNKNOWN,0,0.00%,0.000,0
+Draw_Polygon_Lines,Qwen2.5-Coder-7B-Instruct,UNKNOWN,0,0.00%,0.000,0

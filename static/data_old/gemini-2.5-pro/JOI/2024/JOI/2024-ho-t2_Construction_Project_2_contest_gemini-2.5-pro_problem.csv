@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4
+2024-ho-t2_Construction_Project_2_gemini-2.5-pro_0.cpp,ACCEPTED,100,100.00%,0.330,36.13671875,8,16,29,47
+2024-ho-t2_Construction_Project_2_gemini-2.5-pro_1.cpp,ACCEPTED,100,100.00%,1.230,122.52734375,8,16,29,47
+2024-ho-t2_Construction_Project_2_gemini-2.5-pro_2.cpp,RUNTIME_ERROR,8,57.97%,0.940,191.97265625,8,0,0,0
+2024-ho-t2_Construction_Project_2_gemini-2.5-pro_3.cpp,ACCEPTED,100,100.00%,0.370,40.3203125,8,16,29,47
+2024-ho-t2_Construction_Project_2_gemini-2.5-pro_4.cpp,RUNTIME_ERROR,8,57.97%,0.260,36.1796875,8,0,0,0
+2024-ho-t2_Construction_Project_2_gemini-2.5-pro_5.cpp,RUNTIME_ERROR,8,57.97%,0.250,42.09375,8,0,0,0
+2024-ho-t2_Construction_Project_2_gemini-2.5-pro_6.cpp,RUNTIME_ERROR,8,2.08%,0.120,37.9609375,8,0,0,0
+2024-ho-t2_Construction_Project_2_gemini-2.5-pro_7.cpp,RUNTIME_ERROR,8,2.08%,0.000,0,8,0,0,0

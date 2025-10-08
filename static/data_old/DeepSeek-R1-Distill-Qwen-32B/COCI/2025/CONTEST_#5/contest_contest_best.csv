@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+wow,DeepSeek-R1-Distill-Qwen-32B,ACCEPTED,50,100.00%,0.070,0
+zid,DeepSeek-R1-Distill-Qwen-32B,TIME_LIMIT_EXCEEDED,38,66.67%,1.220,2.9296875
+tornjevi,DeepSeek-R1-Distill-Qwen-32B,TIME_LIMIT_EXCEEDED,18,38.89%,2.230,89.0234375
+crtez,DeepSeek-R1-Distill-Qwen-32B,TIME_LIMIT_EXCEEDED,0,8.51%,2.210,2.453125
+stablo,DeepSeek-R1-Distill-Qwen-32B,RUNTIME_ERROR,0,0.99%,3.800,291.26171875

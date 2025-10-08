@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+icecreammachines,gpt-oss-20b-medium,ACCEPTED,100,100.00%,0.030,4.390625
+chatnoi,gpt-oss-20b-medium,TIME_LIMIT_EXCEEDED,22,63.83%,4.810,690.9609375
+islandalliances,gpt-oss-20b-medium,ACCEPTED,100,100.00%,0.080,14.1171875

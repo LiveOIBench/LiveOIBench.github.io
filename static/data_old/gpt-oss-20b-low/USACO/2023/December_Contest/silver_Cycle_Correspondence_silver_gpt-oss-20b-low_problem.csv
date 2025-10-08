@@ -1,0 +1,6 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Cycle_Correspondence_gpt-oss-20b-low_0.cpp,RUNTIME_ERROR,0,0.00%,0.170,42.2890625,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Cycle_Correspondence_gpt-oss-20b-low_1.cpp,RUNTIME_ERROR,28,13.33%,0.140,29.0,0,0,0,0,0,27.777777777777775,0,0,0,0,0,0,0
+silver_Cycle_Correspondence_gpt-oss-20b-low_2.cpp,WRONG_ANSWER,56,33.33%,0.070,18.828125,0,27.777777777777775,0,0,0,27.777777777777775,0,0,0,0,0,0,0
+silver_Cycle_Correspondence_gpt-oss-20b-low_6.cpp,RUNTIME_ERROR,0,0.00%,0.050,9.03515625,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Cycle_Correspondence_gpt-oss-20b-low_7.cpp,WRONG_ANSWER,139,46.67%,0.130,43.0625,0,27.777777777777775,0,27.777777777777775,27.777777777777775,0,0,0,0,27.777777777777775,27.777777777777775,0,0

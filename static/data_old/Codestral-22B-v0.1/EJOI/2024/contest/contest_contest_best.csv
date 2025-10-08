@@ -1,0 +1,7 @@
+problem,model,status,score,%test passed,time,memory
+cheese,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+oldorhei,Codestral-22B-v0.1,TIME_LIMIT_EXCEEDED,7,32.56%,3.330,3.421875
+manypairs,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+cfduels,Codestral-22B-v0.1,RUNTIME_ERROR,0,19.75%,0.110,2.5859375
+hora,Codestral-22B-v0.1,RUNTIME_ERROR,0,1.16%,0.080,3.3671875
+sweets,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0

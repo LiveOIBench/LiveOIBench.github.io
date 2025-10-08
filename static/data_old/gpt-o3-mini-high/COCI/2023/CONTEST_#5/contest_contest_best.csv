@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+kalendar,gpt-o3-mini-high,ACCEPTED,50,100.00%,0.000,0
+diskurs,gpt-o3-mini-high,RUNTIME_ERROR,0,0.00%,0.050,7.2265625
+logaritam,gpt-o3-mini-high,ACCEPTED,110,100.00%,0.030,0.00390625
+slasticarnica,gpt-o3-mini-high,ACCEPTED,110,100.00%,1.180,193.109375
+zastave,gpt-o3-mini-high,ACCEPTED,110,100.00%,0.090,2.07421875

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+diplomacy,Qwen2.5-Coder-32B-Instruct,TIME_LIMIT_EXCEEDED,0,1.08%,4.480,7.84375
+garbage,Qwen2.5-Coder-32B-Instruct,TIME_LIMIT_EXCEEDED,0,8.22%,5.670,5.421875
+xoracle,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,9,23.53%,0.270,1.5234375

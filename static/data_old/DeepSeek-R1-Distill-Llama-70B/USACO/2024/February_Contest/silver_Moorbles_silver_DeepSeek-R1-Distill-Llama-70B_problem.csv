@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Moorbles_DeepSeek-R1-Distill-Llama-70B_0.cpp,WRONG_ANSWER,67,33.33%,0.310,23.41796875,0,0,0,0,0,0,0,0,33.33333333333333,33.33333333333333,0
+silver_Moorbles_DeepSeek-R1-Distill-Llama-70B_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Moorbles_DeepSeek-R1-Distill-Llama-70B_2.cpp,RUNTIME_ERROR,0,0.00%,0.300,23.421875,0,0,0,0,0,0,0,0,0,0,0
+silver_Moorbles_DeepSeek-R1-Distill-Llama-70B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Moorbles_DeepSeek-R1-Distill-Llama-70B_4.cpp,RUNTIME_ERROR,0,0.00%,0.290,24.18359375,0,0,0,0,0,0,0,0,0,0,0
+silver_Moorbles_DeepSeek-R1-Distill-Llama-70B_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Moorbles_DeepSeek-R1-Distill-Llama-70B_6.cpp,WRONG_ANSWER,0,8.33%,0.290,23.41796875,0,0,0,0,0,0,0,0,0,0,0
+silver_Moorbles_DeepSeek-R1-Distill-Llama-70B_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0

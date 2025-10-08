@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+nile_Qwen2.5-72B_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,10.06640625,0,0,0,0,0,0,0,0
+nile_Qwen2.5-72B_1.cpp,RUNTIME_ERROR,0,0.00%,0.040,5.4296875,0,0,0,0,0,0,0,0
+nile_Qwen2.5-72B_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,5.4296875,0,0,0,0,0,0,0,0
+nile_Qwen2.5-72B_3.cpp,RUNTIME_ERROR,0,0.00%,0.030,3.8828125,0,0,0,0,0,0,0,0
+nile_Qwen2.5-72B_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+nile_Qwen2.5-72B_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.220,1019.078125,0,0,0,0,0,0,0,0
+nile_Qwen2.5-72B_6.cpp,TIME_LIMIT_EXCEEDED,17,20.69%,2.210,11.35546875,0,0,0,17,0,0,0,0
+nile_Qwen2.5-72B_7.cpp,TIME_LIMIT_EXCEEDED,17,29.03%,2.220,6.140625,0,0,0,17,0,0,0,0

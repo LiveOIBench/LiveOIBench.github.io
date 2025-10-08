@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Legs_warm-up_exercise_DeepSeek-R1-Distill-Qwen-32B_0.cpp,RUNTIME_ERROR,0,0.00%,0.220,17.83984375,0,0,0,0,0,0,0,0,0,0,0
+Legs_warm-up_exercise_DeepSeek-R1-Distill-Qwen-32B_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,6.620,18.50390625,0,0,0,0,0,0,0,0,0,0,0
+Legs_warm-up_exercise_DeepSeek-R1-Distill-Qwen-32B_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,6.610,12.328125,0,0,0,0,0,0,0,0,0,0,0
+Legs_warm-up_exercise_DeepSeek-R1-Distill-Qwen-32B_3.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+Legs_warm-up_exercise_DeepSeek-R1-Distill-Qwen-32B_4.cpp,RUNTIME_ERROR,0,2.05%,0.220,2.33984375,0.0,0,0,0,0,0,0,0,0,0,0
+Legs_warm-up_exercise_DeepSeek-R1-Distill-Qwen-32B_5.cpp,RUNTIME_ERROR,0,0.00%,0.240,8.3203125,0,0,0,0,0,0,0,0,0,0,0
+Legs_warm-up_exercise_DeepSeek-R1-Distill-Qwen-32B_6.cpp,RUNTIME_ERROR,0,0.00%,0.230,12.63671875,0,0,0,0,0,0,0,0,0,0,0
+Legs_warm-up_exercise_DeepSeek-R1-Distill-Qwen-32B_7.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+tree_gemini-2.5-pro_0.cpp,TIME_LIMIT_EXCEEDED,10,25.88%,2.210,23.2734375,0,10,0,0,0,0,0,0
+tree_gemini-2.5-pro_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,87.1015625,0,0,0,0,0,0,0,0
+tree_gemini-2.5-pro_2.cpp,RUNTIME_ERROR,0,0.00%,0.050,13.546875,0,0,0,0,0,0,0,0
+tree_gemini-2.5-pro_3.cpp,RUNTIME_ERROR,0,0.00%,0.110,78.3359375,0,0,0,0,0,0,0,0
+tree_gemini-2.5-pro_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.220,70.53125,0,0,0,0,0,0,0,0
+tree_gemini-2.5-pro_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,1.090,2252.109375,0,0,0,0,0,0,0,0
+tree_gemini-2.5-pro_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+tree_gemini-2.5-pro_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0

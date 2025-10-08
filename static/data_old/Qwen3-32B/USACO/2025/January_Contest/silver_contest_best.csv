@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cow_Checkups,Qwen3-32B,ACCEPTED,333,100.00%,0.320,47.4453125
+silver_Farmer_Johns_Favorite_Operation,Qwen3-32B,TIME_LIMIT_EXCEEDED,44,18.75%,2.250,7.48828125
+silver_Table_Recovery,Qwen3-32B,WRONG_ANSWER,0,13.33%,0.350,5.41796875

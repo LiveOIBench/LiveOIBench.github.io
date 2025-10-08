@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Reflection,Llama-3.3-70B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Making_Mexes,Llama-3.3-70B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Printing_Sequences,Llama-3.3-70B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

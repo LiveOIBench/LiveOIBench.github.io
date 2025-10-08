@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+hieroglyphs,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,0,10.26%,1.120,130.3671875
+sphinx,gpt-o3-mini-high,RUNTIME_ERROR,0,6.38%,0.050,3.8203125
+mosaic,gpt-o3-mini-high,RUNTIME_ERROR,0,4.29%,0.070,17.546875

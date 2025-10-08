@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+tree_gemini-2.5-flash_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+tree_gemini-2.5-flash_1.cpp,TIME_LIMIT_EXCEEDED,0,2.67%,2.210,46.83984375,0,0,0,0,0,0,0,0
+tree_gemini-2.5-flash_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+tree_gemini-2.5-flash_3.cpp,TIME_LIMIT_EXCEEDED,10,25.88%,2.210,16.05859375,0,10,0,0,0,0,0,0
+tree_gemini-2.5-flash_4.cpp,TIME_LIMIT_EXCEEDED,10,25.88%,2.210,23.2734375,0,10,0,0,0,0,0,0
+tree_gemini-2.5-flash_5.cpp,RUNTIME_ERROR,0,0.00%,0.110,77.24609375,0,0,0,0,0,0,0,0
+tree_gemini-2.5-flash_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.220,1804.3671875,0,0,0,0,0,0,0,0
+tree_gemini-2.5-flash_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,94.29296875,0,0,0,0,0,0,0,0

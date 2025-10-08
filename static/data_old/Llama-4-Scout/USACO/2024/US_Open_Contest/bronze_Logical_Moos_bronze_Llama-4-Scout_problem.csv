@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_21,subtask_22,subtask_23,subtask_24,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Logical_Moos_Llama-4-Scout_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Logical_Moos_Llama-4-Scout_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Logical_Moos_Llama-4-Scout_2.cpp,RUNTIME_ERROR,0,0.00%,0.020,0.00390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Logical_Moos_Llama-4-Scout_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Logical_Moos_Llama-4-Scout_4.cpp,RUNTIME_ERROR,0,0.00%,0.060,27.0703125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Logical_Moos_Llama-4-Scout_5.cpp,TIME_LIMIT_EXCEEDED,97,34.62%,2.420,28.5390625,0,13.888888888888888,0,0,0,0,0,0,0,0,0,0,13.888888888888888,0,0,0,0,13.888888888888888,13.888888888888888,13.888888888888888,13.888888888888888,13.888888888888888,0,0,0
+bronze_Logical_Moos_Llama-4-Scout_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.050,20.7734375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Logical_Moos_Llama-4-Scout_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.060,22.39453125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

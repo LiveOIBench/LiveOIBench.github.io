@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+bouquet_gpt-5_0.cpp,ACCEPTED,100,100.00%,0.060,15.22265625,0,8,16,28,18,30
+bouquet_gpt-5_1.cpp,ACCEPTED,100,100.00%,0.880,66.12890625,0,8,16,28,18,30
+bouquet_gpt-5_2.cpp,ACCEPTED,100,100.00%,0.100,15.22265625,0,8,16,28,18,30
+bouquet_gpt-5_3.cpp,RUNTIME_ERROR,0,1.19%,0.080,5.16796875,0,0,0,0,0,0
+bouquet_gpt-5_4.cpp,ACCEPTED,100,100.00%,0.110,16.25390625,0,8,16,28,18,30
+bouquet_gpt-5_5.cpp,ACCEPTED,100,100.00%,0.100,5.9375,0,8,16,28,18,30
+bouquet_gpt-5_6.cpp,ACCEPTED,100,100.00%,0.110,5.9375,0,8,16,28,18,30
+bouquet_gpt-5_7.cpp,ACCEPTED,100,100.00%,0.420,53.08984375,0,8,16,28,18,30

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+toy,deepseek-reasoner,RUNTIME_ERROR,0,52.60%,0.020,1.55078125
+stations,deepseek-reasoner,RUNTIME_ERROR,0,4.55%,0.030,6.1171875
+sprinklers,deepseek-reasoner,RUNTIME_ERROR,9,47.01%,0.050,2.0703125

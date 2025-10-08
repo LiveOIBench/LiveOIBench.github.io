@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Target_Practice_II,gpt-oss-20b-low,WRONG_ANSWER,0,0.00%,0.040,5.421875
+silver_Test_Tubes,gpt-oss-20b-low,WRONG_ANSWER,17,4.76%,0.060,1.7109375
+silver_Moorbles,gpt-oss-20b-low,WRONG_ANSWER,67,33.33%,0.080,18.57421875

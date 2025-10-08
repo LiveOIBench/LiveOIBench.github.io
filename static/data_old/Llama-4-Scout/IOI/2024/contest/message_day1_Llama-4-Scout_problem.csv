@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+message_Llama-4-Scout_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+message_Llama-4-Scout_1.cpp,RUNTIME_ERROR,0,0.00%,0.860,4.07421875,0,0.0,0.0
+message_Llama-4-Scout_2.cpp,RUNTIME_ERROR,0,0.00%,0.290,3.953125,0,0.0,0.0
+message_Llama-4-Scout_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+message_Llama-4-Scout_4.cpp,RUNTIME_ERROR,0,0.00%,0.210,3.921875,0,0.0,0.0
+message_Llama-4-Scout_5.cpp,RUNTIME_ERROR,0,0.00%,1.420,4.0859375,0,0.0,0.0
+message_Llama-4-Scout_6.cpp,RUNTIME_ERROR,0,0.00%,0.710,4.16796875,0,0.0,0.0
+message_Llama-4-Scout_7.cpp,RUNTIME_ERROR,0,0.00%,1.450,4.09765625,0,0.0,0.0

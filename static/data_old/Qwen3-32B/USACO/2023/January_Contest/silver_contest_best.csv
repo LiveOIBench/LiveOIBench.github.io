@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Find_and_Replace,Qwen3-32B,WRONG_ANSWER,0,6.67%,0.000,0
+silver_Following_Directions,Qwen3-32B,ACCEPTED,333,100.00%,5.900,18.37890625
+silver_Moo_Route,Qwen3-32B,MEMORY_LIMIT_EXCEEDED,56,15.00%,0.380,176.0625

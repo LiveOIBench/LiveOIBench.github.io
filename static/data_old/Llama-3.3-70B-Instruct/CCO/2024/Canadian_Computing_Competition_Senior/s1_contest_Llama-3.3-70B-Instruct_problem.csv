@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+s1_Llama-3.3-70B-Instruct_0.cpp,ACCEPTED,15,100.00%,0.310,5.16796875,2,1,2,5,5
+s1_Llama-3.3-70B-Instruct_1.cpp,ACCEPTED,15,100.00%,0.330,5.28515625,2,1,2,5,5
+s1_Llama-3.3-70B-Instruct_3.cpp,ACCEPTED,15,100.00%,0.320,5.28515625,2,1,2,5,5
+s1_Llama-3.3-70B-Instruct_4.cpp,ACCEPTED,15,100.00%,0.340,5.16796875,2,1,2,5,5
+s1_Llama-3.3-70B-Instruct_5.cpp,ACCEPTED,15,100.00%,0.300,5.28515625,2,1,2,5,5
+s1_Llama-3.3-70B-Instruct_6.cpp,ACCEPTED,15,100.00%,0.330,5.28515625,2,1,2,5,5
+s1_Llama-3.3-70B-Instruct_6.cpp,ACCEPTED,15,100.00%,0.330,5.28515625,2,1,2,5,5
+s1_Llama-3.3-70B-Instruct_7.cpp,ACCEPTED,15,100.00%,0.310,5.16796875,2,1,2,5,5

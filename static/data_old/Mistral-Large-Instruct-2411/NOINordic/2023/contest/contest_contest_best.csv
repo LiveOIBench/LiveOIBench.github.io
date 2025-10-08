@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+icecreammachines,Mistral-Large-Instruct-2411,RUNTIME_ERROR,7,46.23%,0.000,0
+chatnoi,Mistral-Large-Instruct-2411,RUNTIME_ERROR,0,43.06%,0.130,0
+islandalliances,Mistral-Large-Instruct-2411,MEMORY_LIMIT_EXCEEDED,52,76.00%,2.590,1125.3515625

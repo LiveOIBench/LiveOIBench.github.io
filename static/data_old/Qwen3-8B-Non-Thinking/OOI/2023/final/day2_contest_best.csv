@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Burenka_and_Pether,Qwen3-8B-Non-Thinking,UNKNOWN,0,0.00%,0.000,0
+Almost_Certainly,Qwen3-8B-Non-Thinking,RUNTIME_ERROR,0,0.00%,0.120,5.9375
+Three_Arrays,Qwen3-8B-Non-Thinking,UNKNOWN,0,0.00%,0.000,0
+Parallel_Universes,Qwen3-8B-Non-Thinking,RUNTIME_ERROR,0,0.72%,0.090,5.2109375

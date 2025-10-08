@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+islandalliances_Llama-4-Scout_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,6.000,596.109375,0,0,0,0,0
+islandalliances_Llama-4-Scout_1.cpp,RUNTIME_ERROR,0,0.00%,2.330,24.5390625,0,0,0,0,0
+islandalliances_Llama-4-Scout_2.cpp,RUNTIME_ERROR,0,0.00%,0.240,19.12890625,0,0,0,0,0
+islandalliances_Llama-4-Scout_3.cpp,RUNTIME_ERROR,0,3.23%,0.260,15.73046875,0,0,0,0,0
+islandalliances_Llama-4-Scout_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+islandalliances_Llama-4-Scout_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,6.010,675.484375,0,0,0,0,0
+islandalliances_Llama-4-Scout_7.cpp,TIME_LIMIT_EXCEEDED,0,20.59%,5.990,45.4453125,0,0,0,0,0

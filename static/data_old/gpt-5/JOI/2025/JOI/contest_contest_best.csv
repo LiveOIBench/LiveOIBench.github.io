@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+2025-ho-t1_Grid_Coloring,gpt-5,ACCEPTED,100,100.00%,0.080,13.67578125
+2025-ho-t2_Bitaro_the_Brave_2,gpt-5,ACCEPTED,100,100.00%,0.080,24.25
+2025-ho-t3_Mi_Teleférico,gpt-5,ACCEPTED,100,100.00%,0.380,81.4921875
+2025-ho-t4_Just_Long_Neckties_2,gpt-5,RUNTIME_ERROR,0,9.15%,0.000,0
+2025-ho-t5_Post_Office,gpt-5,RUNTIME_ERROR,3,34.64%,0.110,40.14453125

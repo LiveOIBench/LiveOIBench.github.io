@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Target_Practice_II,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,0,6.67%,2.770,133.02734375
+silver_Test_Tubes,gemini-2.5-flash,WRONG_ANSWER,50,14.29%,0.070,6.015625
+silver_Moorbles,gemini-2.5-flash,ACCEPTED,333,100.00%,0.110,17.51171875

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Circles,deepseek-chat,RUNTIME_ERROR,4,16.13%,0.840,46.15625
+To_be_xor_not_to_be,deepseek-chat,RUNTIME_ERROR,9,38.30%,0.040,0
+Statues,deepseek-chat,RUNTIME_ERROR,0,8.11%,0.040,5.421875

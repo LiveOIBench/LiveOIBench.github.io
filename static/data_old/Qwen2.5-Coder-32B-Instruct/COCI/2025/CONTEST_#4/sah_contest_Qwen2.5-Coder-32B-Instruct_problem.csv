@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+sah_Qwen2.5-Coder-32B-Instruct_0.cpp,RUNTIME_ERROR,13,26.47%,0.090,0.00390625,13,0,0
+sah_Qwen2.5-Coder-32B-Instruct_1.cpp,ACCEPTED,50,100.00%,1.820,0.00390625,13,19,18
+sah_Qwen2.5-Coder-32B-Instruct_2.cpp,ACCEPTED,50,100.00%,1.730,3.1015625,13,19,18
+sah_Qwen2.5-Coder-32B-Instruct_3.cpp,ACCEPTED,50,100.00%,0.100,0.00390625,13,19,18
+sah_Qwen2.5-Coder-32B-Instruct_4.cpp,ACCEPTED,50,100.00%,0.130,0.00390625,13,19,18
+sah_Qwen2.5-Coder-32B-Instruct_5.cpp,ACCEPTED,50,100.00%,1.760,0.00390625,13,19,18
+sah_Qwen2.5-Coder-32B-Instruct_6.cpp,ACCEPTED,50,100.00%,0.100,0.00390625,13,19,18
+sah_Qwen2.5-Coder-32B-Instruct_7.cpp,ACCEPTED,50,100.00%,0.100,0.00390625,13,19,18

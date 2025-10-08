@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+cyberland_deepseek-chat_0.cpp,RUNTIME_ERROR,0,0.00%,0.010,5.47265625,0,0,0,0,0,0,0,0,0
+cyberland_deepseek-chat_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0
+cyberland_deepseek-chat_2.cpp,RUNTIME_ERROR,44,35.37%,0.890,27.84765625,0,0,8,13,0,7,16,0,0
+cyberland_deepseek-chat_3.cpp,RUNTIME_ERROR,49,43.90%,0.360,26.76953125,0,5,8,13,0,7,16,0,0
+cyberland_deepseek-chat_4.cpp,RUNTIME_ERROR,0,0.00%,0.020,15.78515625,0,0,0,0,0,0,0,0,0
+cyberland_deepseek-chat_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0
+cyberland_deepseek-chat_6.cpp,TIME_LIMIT_EXCEEDED,97,87.80%,2.980,81.20703125,0,5,8,13,19,7,16,29,0
+cyberland_deepseek-chat_7.cpp,TIME_LIMIT_EXCEEDED,97,92.68%,2.980,73.9921875,0,5,8,13,19,7,16,29,0

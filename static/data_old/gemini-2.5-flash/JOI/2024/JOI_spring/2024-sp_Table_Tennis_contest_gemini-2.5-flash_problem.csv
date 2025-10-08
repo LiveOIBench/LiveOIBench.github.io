@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+2024-sp_Table_Tennis_gemini-2.5-flash_0.cpp,RUNTIME_ERROR,5,44.35%,0.060,13.41796875,5,0,0,0,0,0
+2024-sp_Table_Tennis_gemini-2.5-flash_1.cpp,RUNTIME_ERROR,0,0.00%,0.040,0.00390625,0,0,0,0,0,0
+2024-sp_Table_Tennis_gemini-2.5-flash_2.cpp,RUNTIME_ERROR,0,10.26%,0.090,4.74609375,0,0,0,0,0,0
+2024-sp_Table_Tennis_gemini-2.5-flash_3.cpp,RUNTIME_ERROR,0,10.26%,0.080,19.6015625,0,0,0,0,0,0
+2024-sp_Table_Tennis_gemini-2.5-flash_4.cpp,TIME_LIMIT_EXCEEDED,62,85.15%,1.160,96.9453125,5,4,23,30,0,0
+2024-sp_Table_Tennis_gemini-2.5-flash_5.cpp,RUNTIME_ERROR,5,47.67%,0.160,96.94921875,5,0,0,0,0,0
+2024-sp_Table_Tennis_gemini-2.5-flash_6.cpp,RUNTIME_ERROR,0,10.26%,0.070,13.671875,0,0,0,0,0,0
+2024-sp_Table_Tennis_gemini-2.5-flash_7.cpp,RUNTIME_ERROR,5,47.24%,0.110,4.73828125,5,0,0,0,0,0

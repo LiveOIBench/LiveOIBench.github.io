@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+j1,Mistral-Large-Instruct-2411,ACCEPTED,15,100.00%,0.000,0
+j2,Mistral-Large-Instruct-2411,ACCEPTED,15,100.00%,0.000,0
+j3,Mistral-Large-Instruct-2411,ACCEPTED,15,100.00%,0.000,0
+s1j4,Mistral-Large-Instruct-2411,RUNTIME_ERROR,6,52.50%,0.000,0
+j5,Mistral-Large-Instruct-2411,RUNTIME_ERROR,6,72.22%,0.000,0

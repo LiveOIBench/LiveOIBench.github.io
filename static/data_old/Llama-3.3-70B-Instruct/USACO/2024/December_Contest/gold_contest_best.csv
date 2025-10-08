@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Cowdependence,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,35,15.00%,2.280,5.1796875
+gold_Interstellar_Intervals,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,4.35%,0.120,9.33984375
+gold_Job_Completion,Llama-3.3-70B-Instruct,WRONG_ANSWER,22,12.50%,0.220,4.58203125

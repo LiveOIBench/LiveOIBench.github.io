@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Find_and_Replace,DeepSeek-R1-Distill-Llama-70B,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Lights_Off,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,37,20.00%,4.420,279.23046875
+gold_Moo_Route,DeepSeek-R1-Distill-Llama-70B,WRONG_ANSWER,0,4.76%,0.130,1.81640625

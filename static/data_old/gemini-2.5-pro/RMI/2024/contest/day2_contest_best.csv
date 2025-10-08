@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Jump_Civilization,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,17,33.33%,1.110,37.3828125
+Ramen,gemini-2.5-pro,COMPILATION_ERROR,0,0.00%,0.000,0
+Signals,gemini-2.5-pro,ACCEPTED,100,100.00%,0.310,65.4921875

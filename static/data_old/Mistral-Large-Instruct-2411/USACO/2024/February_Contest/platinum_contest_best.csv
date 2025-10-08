@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Lazy_Cow,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Minimum_Sum_of_Maximums,Mistral-Large-Instruct-2411,RUNTIME_ERROR,17,8.33%,0.000,0
+platinum_Infinite_Adventure,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,21,11.11%,2.300,562.29296875

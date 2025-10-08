@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+robot,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,0.67%,0.050,8.70703125
+overtaking,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,6.06%,0.320,0.984375
+beechtree,Qwen2.5-Coder-14B-Instruct,TIME_LIMIT_EXCEEDED,0,17.65%,1.660,33.0859375

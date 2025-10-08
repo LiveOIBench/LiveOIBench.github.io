@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Choose_Interval,Qwen3-14B,RUNTIME_ERROR,0,10.91%,0.000,0
+Skittlez,Qwen3-14B,MEMORY_LIMIT_EXCEEDED,7,40.91%,0.310,305.6328125
+Octagon,Qwen3-14B,RUNTIME_ERROR,0,24.44%,0.120,1.61328125

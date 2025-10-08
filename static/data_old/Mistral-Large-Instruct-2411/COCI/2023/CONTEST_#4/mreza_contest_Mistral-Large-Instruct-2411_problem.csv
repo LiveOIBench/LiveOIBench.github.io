@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+mreza_Mistral-Large-Instruct-2411_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,5.520,22.69140625,0,0,0
+mreza_Mistral-Large-Instruct-2411_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,5.520,15.43359375,0,0,0
+mreza_Mistral-Large-Instruct-2411_2.cpp,RUNTIME_ERROR,0,0.00%,0.090,10.8359375,0,0,0
+mreza_Mistral-Large-Instruct-2411_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,5.540,18.6640625,0,0,0
+mreza_Mistral-Large-Instruct-2411_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,5.510,17.27734375,0,0,0
+mreza_Mistral-Large-Instruct-2411_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+mreza_Mistral-Large-Instruct-2411_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+mreza_Mistral-Large-Instruct-2411_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0

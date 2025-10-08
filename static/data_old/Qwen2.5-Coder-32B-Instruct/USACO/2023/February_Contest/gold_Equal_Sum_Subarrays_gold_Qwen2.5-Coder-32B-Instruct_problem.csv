@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Equal_Sum_Subarrays_Qwen2.5-Coder-32B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.350,28.10546875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Equal_Sum_Subarrays_Qwen2.5-Coder-32B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.350,28.10546875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Equal_Sum_Subarrays_Qwen2.5-Coder-32B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.360,14.703125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Equal_Sum_Subarrays_Qwen2.5-Coder-32B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.370,41.25390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Equal_Sum_Subarrays_Qwen2.5-Coder-32B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,6.25%,3.370,31.19921875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Equal_Sum_Subarrays_Qwen2.5-Coder-32B-Instruct_5.cpp,RUNTIME_ERROR,0,0.00%,0.120,0.00390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Equal_Sum_Subarrays_Qwen2.5-Coder-32B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.350,16.765625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Equal_Sum_Subarrays_Qwen2.5-Coder-32B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.320,18.5703125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

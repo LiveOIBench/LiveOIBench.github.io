@@ -1,0 +1,6 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Lazy_Sort_Qwen3-8B_0.cpp,WRONG_ANSWER,0,13.33%,0.020,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Lazy_Sort_Qwen3-8B_1.cpp,WRONG_ANSWER,0,6.67%,0.070,96.69140625,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Lazy_Sort_Qwen3-8B_2.cpp,WRONG_ANSWER,0,13.33%,0.020,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Lazy_Sort_Qwen3-8B_3.cpp,WRONG_ANSWER,0,6.67%,0.050,37.07421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Lazy_Sort_Qwen3-8B_6.cpp,WRONG_ANSWER,0,13.33%,0.030,1.8125,0,0,0,0,0,0,0,0,0,0,0,0,0,0

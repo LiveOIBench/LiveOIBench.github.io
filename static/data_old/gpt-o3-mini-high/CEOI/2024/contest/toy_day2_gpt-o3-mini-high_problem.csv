@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+toy_gpt-o3-mini-high_0.cpp,RUNTIME_ERROR,0,52.60%,0.020,1.55078125,0,0,0,0,0,0
+toy_gpt-o3-mini-high_1.cpp,RUNTIME_ERROR,0,23.75%,0.020,1.55078125,0,0,0,0,0,0
+toy_gpt-o3-mini-high_2.cpp,TIME_LIMIT_EXCEEDED,44,85.97%,1.490,911.11328125,0,14,21,9,0,0
+toy_gpt-o3-mini-high_3.cpp,RUNTIME_ERROR,0,52.60%,0.020,1.55078125,0,0,0,0,0,0
+toy_gpt-o3-mini-high_4.cpp,RUNTIME_ERROR,0,52.60%,0.020,1.55078125,0,0,0,0,0,0
+toy_gpt-o3-mini-high_5.cpp,RUNTIME_ERROR,0,6.93%,0.030,9.65625,0,0,0,0,0,0
+toy_gpt-o3-mini-high_6.cpp,ACCEPTED,100,100.00%,0.240,4.3828125,0,14,21,9,29,27
+toy_gpt-o3-mini-high_7.cpp,RUNTIME_ERROR,0,52.60%,0.020,1.55078125,0,0,0,0,0,0

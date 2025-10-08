@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+show,gpt-5,COMPILATION_ERROR,0,0.00%,0.000,0
+september,gpt-5,ACCEPTED,100,100.00%,0.180,7.796875
+train,gpt-5,RUNTIME_ERROR,40,48.21%,0.210,16.98828125

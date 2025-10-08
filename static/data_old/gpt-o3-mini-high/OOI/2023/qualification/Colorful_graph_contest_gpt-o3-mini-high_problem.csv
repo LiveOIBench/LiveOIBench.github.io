@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+Colorful_graph_gpt-o3-mini-high_0.cpp,TIME_LIMIT_EXCEEDED,0,14.38%,1.660,3.62109375,0.0,0,0,0,0,0,0,0,0
+Colorful_graph_gpt-o3-mini-high_1.cpp,TIME_LIMIT_EXCEEDED,0,14.38%,1.670,5.8671875,0.0,0,0,0,0,0,0,0,0
+Colorful_graph_gpt-o3-mini-high_2.cpp,MEMORY_LIMIT_EXCEEDED,34,79.39%,1.370,270.05859375,0.0,10.0,9.0,15.0,0,0,0,0,0
+Colorful_graph_gpt-o3-mini-high_3.cpp,ACCEPTED,100,100.00%,0.070,3.359375,0.0,10.0,9.0,15.0,16.0,14.0,13.0,12.0,11.0
+Colorful_graph_gpt-o3-mini-high_4.cpp,TIME_LIMIT_EXCEEDED,0,14.38%,1.660,3.046875,0.0,0,0,0,0,0,0,0,0
+Colorful_graph_gpt-o3-mini-high_5.cpp,MEMORY_LIMIT_EXCEEDED,34,75.35%,1.270,271.4375,0.0,10.0,9.0,15.0,0,0,0,0,0
+Colorful_graph_gpt-o3-mini-high_6.cpp,TIME_LIMIT_EXCEEDED,50,86.25%,1.660,57.45703125,0.0,10.0,9.0,15.0,16.0,0,0,0,0
+Colorful_graph_gpt-o3-mini-high_7.cpp,ACCEPTED,100,100.00%,0.070,4.39453125,0.0,10.0,9.0,15.0,16.0,14.0,13.0,12.0,11.0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+d1p2_deepseek-chat_0.cpp,RUNTIME_ERROR,0,1.90%,0.070,12.90234375,0,0,0,0,0,0,0
+d1p2_deepseek-chat_1.cpp,RUNTIME_ERROR,0,0.95%,0.070,24.24609375,0,0,0,0,0,0,0
+d1p2_deepseek-chat_2.cpp,RUNTIME_ERROR,0,1.90%,0.080,13.16015625,0,0,0,0,0,0,0
+d1p2_deepseek-chat_3.cpp,TIME_LIMIT_EXCEEDED,0,1.90%,5.510,16.51171875,0,0,0,0,0,0,0
+d1p2_deepseek-chat_4.cpp,RUNTIME_ERROR,0,0.00%,0.060,5.109375,0,0,0,0,0,0,0
+d1p2_deepseek-chat_5.cpp,RUNTIME_ERROR,0,1.90%,0.120,14.4765625,0,0,0,0,0,0,0
+d1p2_deepseek-chat_6.cpp,TIME_LIMIT_EXCEEDED,0,1.90%,5.510,23.7734375,0,0,0,0,0,0,0
+d1p2_deepseek-chat_7.cpp,RUNTIME_ERROR,0,1.90%,0.070,12.8984375,0,0,0,0,0,0,0

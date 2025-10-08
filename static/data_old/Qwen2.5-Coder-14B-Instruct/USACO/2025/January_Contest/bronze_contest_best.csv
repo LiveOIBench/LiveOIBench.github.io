@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Astral_Superposition,Qwen2.5-Coder-14B-Instruct,WRONG_ANSWER,33,16.67%,0.250,3.18359375
+bronze_Its_Mooin_Time_II,Qwen2.5-Coder-14B-Instruct,TIME_LIMIT_EXCEEDED,100,36.36%,2.320,9.8046875
+bronze_Cow_Checkups,Qwen2.5-Coder-14B-Instruct,TIME_LIMIT_EXCEEDED,100,46.15%,2.220,1.55859375

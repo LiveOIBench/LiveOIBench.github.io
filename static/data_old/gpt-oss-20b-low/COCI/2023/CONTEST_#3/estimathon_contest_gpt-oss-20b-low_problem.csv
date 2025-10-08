@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1
+estimathon_gpt-oss-20b-low_0.cpp,RUNTIME_ERROR,39,66.67%,0.000,0,0,39
+estimathon_gpt-oss-20b-low_1.cpp,RUNTIME_ERROR,39,66.67%,0.020,0,0,39
+estimathon_gpt-oss-20b-low_2.cpp,RUNTIME_ERROR,39,66.67%,0.020,0,0,39
+estimathon_gpt-oss-20b-low_3.cpp,RUNTIME_ERROR,39,66.67%,0.020,0,0,39
+estimathon_gpt-oss-20b-low_4.cpp,RUNTIME_ERROR,39,66.67%,0.010,0,0,39
+estimathon_gpt-oss-20b-low_5.cpp,ACCEPTED,50,100.00%,0.010,0,11,39
+estimathon_gpt-oss-20b-low_6.cpp,RUNTIME_ERROR,39,66.67%,0.020,0,0,39
+estimathon_gpt-oss-20b-low_7.cpp,ACCEPTED,50,100.00%,0.020,0,11,39

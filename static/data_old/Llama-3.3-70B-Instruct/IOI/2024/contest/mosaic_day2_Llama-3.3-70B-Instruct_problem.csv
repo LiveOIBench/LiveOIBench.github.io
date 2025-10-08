@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+mosaic_Llama-3.3-70B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,12,57.66%,1.120,2246.8515625,0,5,7,0,0,0,0,0,0
+mosaic_Llama-3.3-70B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,12,57.66%,1.120,2228.2890625,0,5,7,0,0,0,0,0,0
+mosaic_Llama-3.3-70B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,12,57.66%,1.130,2232.4140625,0,5,7,0,0,0,0,0,0
+mosaic_Llama-3.3-70B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,12,57.66%,1.110,2236.53515625,0,5,7,0,0,0,0,0,0
+mosaic_Llama-3.3-70B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,22,64.86%,1.110,2238.85546875,0,5,7,0,10,0,0,0,0
+mosaic_Llama-3.3-70B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,12,57.66%,1.110,2237.3125,0,5,7,0,0,0,0,0,0
+mosaic_Llama-3.3-70B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,12,57.66%,1.110,2219.5234375,0,5,7,0,0,0,0,0,0
+mosaic_Llama-3.3-70B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,12,57.66%,1.120,2243.7578125,0,5,7,0,0,0,0,0,0

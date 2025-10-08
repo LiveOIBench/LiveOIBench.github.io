@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Leaders,Llama-4-Scout,TIME_LIMIT_EXCEEDED,244,76.47%,2.410,2.94921875
+bronze_Air_Cownditioning_II,Llama-4-Scout,ACCEPTED,333,100.00%,0.020,0.00390625
+bronze_Moo_Operations,Llama-4-Scout,ACCEPTED,333,100.00%,0.170,3.59765625

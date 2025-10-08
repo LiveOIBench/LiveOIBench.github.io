@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+teleporters,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0
+tree_search,Llama-4-Scout,RUNTIME_ERROR,20,33.33%,0.100,9.12890625
+opening_offices,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0

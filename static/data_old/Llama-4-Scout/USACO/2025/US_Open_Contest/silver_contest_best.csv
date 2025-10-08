@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Sequence_Construction,Llama-4-Scout,WRONG_ANSWER,0,5.56%,0.060,0.00390625
+silver_Compatible_Pairs,Llama-4-Scout,WRONG_ANSWER,67,33.33%,0.240,25.78515625
+silver_Ski_Slope,Llama-4-Scout,TIME_LIMIT_EXCEEDED,62,23.53%,2.410,4.90625

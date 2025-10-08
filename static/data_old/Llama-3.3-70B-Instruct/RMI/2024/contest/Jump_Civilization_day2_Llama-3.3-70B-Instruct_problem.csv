@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+Jump_Civilization_Llama-3.3-70B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,6,26.32%,1.150,3.6171875,0,6,0,0,0,0
+Jump_Civilization_Llama-3.3-70B-Instruct_1.cpp,RUNTIME_ERROR,0,2.04%,0.510,3.6171875,0,0,0,0,0,0
+Jump_Civilization_Llama-3.3-70B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,6,26.32%,1.170,3.6171875,0,6,0,0,0,0
+Jump_Civilization_Llama-3.3-70B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,0,6.12%,1.150,3.6171875,0,0,0,0,0,0
+Jump_Civilization_Llama-3.3-70B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,5.88%,1.110,3.61328125,0,0,0,0,0,0
+Jump_Civilization_Llama-3.3-70B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,6,36.07%,1.110,5.9375,0,6,0,0,0,0
+Jump_Civilization_Llama-3.3-70B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,0,5.88%,1.250,2.84375,0,0,0,0,0,0
+Jump_Civilization_Llama-3.3-70B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,6,26.32%,1.150,3.41015625,0,6,0,0,0,0

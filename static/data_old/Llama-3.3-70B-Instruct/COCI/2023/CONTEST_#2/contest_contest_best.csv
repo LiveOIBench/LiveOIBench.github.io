@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+tramvaji,Llama-3.3-70B-Instruct,RUNTIME_ERROR,25,50.00%,0.000,0
+ekspert,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,0.00%,0.000,0
+lampice,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,0,2.38%,3.340,7.484375
+prijateljice,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,21.33%,0.000,0
+kruhologija,Llama-3.3-70B-Instruct,UNKNOWN,0,0.00%,0.000,0

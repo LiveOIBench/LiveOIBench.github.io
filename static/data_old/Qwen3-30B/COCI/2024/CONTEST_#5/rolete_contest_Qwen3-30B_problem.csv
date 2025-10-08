@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+rolete_Qwen3-30B_0.cpp,RUNTIME_ERROR,26,22.45%,0.270,3.6171875,0,26,0,0
+rolete_Qwen3-30B_1.cpp,RUNTIME_ERROR,0,2.04%,0.160,3.6171875,0,0,0,0
+rolete_Qwen3-30B_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.220,3.2734375,0,0,0,0
+rolete_Qwen3-30B_3.cpp,RUNTIME_ERROR,26,22.45%,0.370,2.84375,0,26,0,0
+rolete_Qwen3-30B_4.cpp,RUNTIME_ERROR,0,0.00%,0.280,2.84375,0,0,0,0
+rolete_Qwen3-30B_5.cpp,RUNTIME_ERROR,0,0.00%,0.600,2.84375,0,0,0,0
+rolete_Qwen3-30B_6.cpp,RUNTIME_ERROR,26,22.45%,0.230,2.84375,0,26,0,0
+rolete_Qwen3-30B_7.cpp,RUNTIME_ERROR,26,22.45%,0.630,3.6171875,0,26,0,0

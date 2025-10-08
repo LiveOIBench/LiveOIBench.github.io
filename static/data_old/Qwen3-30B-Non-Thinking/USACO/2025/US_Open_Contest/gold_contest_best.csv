@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Moo_Decomposition,Qwen3-30B-Non-Thinking,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.140,17.82421875
+gold_Election_Queries,Qwen3-30B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_OohMoo_Milk,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,0,0.00%,0.120,2.0703125

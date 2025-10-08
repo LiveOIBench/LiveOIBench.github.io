@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+osobna,gpt-5,ACCEPTED,50,100.00%,0.000,0
+skokovi,gpt-5,ACCEPTED,70,100.00%,0.090,3.6171875
+hijerarhija,gpt-5,ACCEPTED,90,100.00%,0.190,25.46875
+uciteljica,gpt-5,RUNTIME_ERROR,35,32.79%,0.150,38.26953125
+zbunjenost,gpt-5,ACCEPTED,120,100.00%,0.200,30.82421875

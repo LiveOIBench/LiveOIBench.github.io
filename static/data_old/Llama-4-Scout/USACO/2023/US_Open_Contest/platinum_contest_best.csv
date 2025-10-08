@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Pareidolia,Llama-4-Scout,RUNTIME_ERROR,0,0.00%,0.020,1.97265625
+platinum_Good_Bitstrings,Llama-4-Scout,TIME_LIMIT_EXCEEDED,17,9.52%,2.420,121.40625
+platinum_Triples_of_Cows,Llama-4-Scout,TIME_LIMIT_EXCEEDED,0,5.00%,2.420,306.34765625

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Find_and_Replace,Llama-4-Scout,WRONG_ANSWER,0,6.67%,0.020,0
+gold_Lights_Off,Llama-4-Scout,TIME_LIMIT_EXCEEDED,19,15.00%,4.810,305.03515625
+gold_Moo_Route,Llama-4-Scout,TIME_LIMIT_EXCEEDED,0,4.76%,2.410,1.81640625

@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Card_Flip,Codestral-22B-v0.1,RUNTIME_ERROR,0,10.68%,0.630,20.6484375
+Order_Statistics,Codestral-22B-v0.1,RUNTIME_ERROR,0,0.00%,0.000,0
+Best_Runner,Codestral-22B-v0.1,TIME_LIMIT_EXCEEDED,16,14.29%,1.160,2.6484375
+Strong_Connectivity_Strikes_Back,Codestral-22B-v0.1,RUNTIME_ERROR,66,57.26%,0.100,7.7421875

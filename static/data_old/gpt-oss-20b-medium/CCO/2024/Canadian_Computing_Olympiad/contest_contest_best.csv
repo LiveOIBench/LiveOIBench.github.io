@@ -1,0 +1,7 @@
+problem,model,status,score,%test passed,time,memory
+d1p1,gpt-oss-20b-medium,ACCEPTED,25,100.00%,0.950,82.20703125
+d1p2,gpt-oss-20b-medium,ACCEPTED,25,100.00%,0.520,93.25
+d1p3,gpt-oss-20b-medium,COMPILATION_ERROR,0,0.00%,0.000,0
+d2p1,gpt-oss-20b-medium,RUNTIME_ERROR,0,0.00%,0.010,0.00390625
+d2p2,gpt-oss-20b-medium,RUNTIME_ERROR,0,0.00%,0.200,66.76953125
+d2p3,gpt-oss-20b-medium,RUNTIME_ERROR,0,2.87%,0.080,68.57421875

@@ -1,0 +1,7 @@
+problem,model,status,score,%test passed,time,memory
+d1p1,Qwen2.5-Coder-14B-Instruct,TIME_LIMIT_EXCEEDED,5,23.21%,4.430,99.5234375
+d1p2,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,0.00%,0.730,55.1484375
+d1p3,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,0.00%,0.190,33.5234375
+d2p1,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,0.00%,0.050,0.00390625
+d2p2,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,0.00%,0.120,8.51953125
+d2p3,Qwen2.5-Coder-14B-Instruct,TIME_LIMIT_EXCEEDED,0,2.30%,4.430,26.3125

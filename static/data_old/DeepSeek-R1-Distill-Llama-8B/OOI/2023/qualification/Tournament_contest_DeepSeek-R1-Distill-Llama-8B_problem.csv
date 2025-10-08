@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Tournament_DeepSeek-R1-Distill-Llama-8B_0.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+Tournament_DeepSeek-R1-Distill-Llama-8B_1.cpp,ACCEPTED,100,100.00%,0.000,0,0.0,14.0,9.0,8.0,11.0,12.0,9.0,10.0,9.0,8.0,10.0
+Tournament_DeepSeek-R1-Distill-Llama-8B_3.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+Tournament_DeepSeek-R1-Distill-Llama-8B_4.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+Tournament_DeepSeek-R1-Distill-Llama-8B_5.cpp,TIME_LIMIT_EXCEEDED,80,97.15%,3.310,0.00390625,0.0,14.0,0,8.0,0,12.0,9.0,10.0,9.0,8.0,10.0
+Tournament_DeepSeek-R1-Distill-Llama-8B_6.cpp,ACCEPTED,100,100.00%,0.100,0,0.0,14.0,9.0,8.0,11.0,12.0,9.0,10.0,9.0,8.0,10.0
+Tournament_DeepSeek-R1-Distill-Llama-8B_7.cpp,ACCEPTED,100,100.00%,0.090,0,0.0,14.0,9.0,8.0,11.0,12.0,9.0,10.0,9.0,8.0,10.0

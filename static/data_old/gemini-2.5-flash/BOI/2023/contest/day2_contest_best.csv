@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+minequake,gemini-2.5-flash,RUNTIME_ERROR,18,22.37%,0.040,6.97265625
+mineraldeposits,gemini-2.5-flash,RUNTIME_ERROR,9,53.38%,0.010,1.5390625
+sequence,gemini-2.5-flash,RUNTIME_ERROR,11,54.55%,0.000,0

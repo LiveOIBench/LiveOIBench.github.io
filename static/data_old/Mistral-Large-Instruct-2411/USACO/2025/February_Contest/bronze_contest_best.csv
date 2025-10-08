@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Reflection,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Making_Mexes,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Printing_Sequences,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0

@@ -1,0 +1,10 @@
+problem,model,status,score,%test passed,time,memory
+Paired_roads,gpt-oss-20b-low,UNKNOWN,0,0.00%,0.000,0
+Legs_warm-up_exercise,gpt-oss-20b-low,RUNTIME_ERROR,0,0.00%,0.020,6.7109375
+Hard_problem,gpt-oss-20b-low,ACCEPTED,100,100.00%,0.080,12.125
+Yet_another_queries,gpt-oss-20b-low,TIME_LIMIT_EXCEEDED,19,49.24%,1.800,9.29296875
+Lunch,gpt-oss-20b-low,RUNTIME_ERROR,16,19.35%,0.000,0
+Tournament,gpt-oss-20b-low,ACCEPTED,100,100.00%,0.000,0
+You_need_to_train_more,gpt-oss-20b-low,ACCEPTED,100,100.00%,0.130,17.53515625
+Colorful_graph,gpt-oss-20b-low,ACCEPTED,100,100.00%,0.040,2.58984375
+Space_accident,gpt-oss-20b-low,RUNTIME_ERROR,49,74.23%,0.020,2.07421875

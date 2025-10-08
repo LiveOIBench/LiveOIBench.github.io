@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+hieroglyphs,Llama-3.3-70B-Instruct,MEMORY_LIMIT_EXCEEDED,0,6.99%,0.910,2252.265625
+sphinx,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,3.26%,0.050,3.80078125
+mosaic,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,22,64.86%,1.110,2238.85546875

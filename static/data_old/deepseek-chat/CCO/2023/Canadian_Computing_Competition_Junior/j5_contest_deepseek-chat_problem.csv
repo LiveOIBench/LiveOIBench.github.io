@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+j5_deepseek-chat_0.cpp,ACCEPTED,15,100.00%,0.000,0,2,2,2,9
+j5_deepseek-chat_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+j5_deepseek-chat_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+j5_deepseek-chat_3.cpp,RUNTIME_ERROR,6,72.22%,0.000,0,2,2,2,0
+j5_deepseek-chat_4.cpp,ACCEPTED,15,100.00%,0.000,0,2,2,2,9
+j5_deepseek-chat_5.cpp,ACCEPTED,15,100.00%,0.000,0,2,2,2,9
+j5_deepseek-chat_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+j5_deepseek-chat_7.cpp,ACCEPTED,15,100.00%,0.000,0,2,2,2,9

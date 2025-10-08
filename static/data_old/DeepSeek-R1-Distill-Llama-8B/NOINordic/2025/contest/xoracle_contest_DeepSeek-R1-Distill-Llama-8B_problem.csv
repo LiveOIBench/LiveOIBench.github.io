@@ -1,0 +1,3 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+xoracle_DeepSeek-R1-Distill-Llama-8B_4.cpp,RUNTIME_ERROR,0,0.00%,0.140,1.48046875,0,0,0,0,0,0
+xoracle_DeepSeek-R1-Distill-Llama-8B_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.130,1.54296875,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Hoof_Paper_Scissors_Minus_One,Qwen3-8B-Non-Thinking,TIME_LIMIT_EXCEEDED,152,50.00%,3.430,35.32421875
+bronze_More_Cow_Photos,Qwen3-8B-Non-Thinking,TIME_LIMIT_EXCEEDED,0,9.09%,2.210,2.12109375
+bronze_Its_Mooin_Time_III,Qwen3-8B-Non-Thinking,TIME_LIMIT_EXCEEDED,100,27.27%,2.210,4.6484375

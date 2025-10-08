@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4
+2023-sp_Belt_Conveyor_DeepSeek-R1-Distill-Llama-70B_0.cpp,RUNTIME_ERROR,0,0.00%,0.720,16.30859375,0,0,0,0
+2023-sp_Belt_Conveyor_DeepSeek-R1-Distill-Llama-70B_1.cpp,RUNTIME_ERROR,1,12.90%,0.780,30.828125,1,0,0,0
+2023-sp_Belt_Conveyor_DeepSeek-R1-Distill-Llama-70B_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+2023-sp_Belt_Conveyor_DeepSeek-R1-Distill-Llama-70B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+2023-sp_Belt_Conveyor_DeepSeek-R1-Distill-Llama-70B_4.cpp,RUNTIME_ERROR,0,0.00%,0.120,3.40234375,0,0,0,0
+2023-sp_Belt_Conveyor_DeepSeek-R1-Distill-Llama-70B_5.cpp,RUNTIME_ERROR,1,12.90%,0.150,9.9921875,1,0,0,0
+2023-sp_Belt_Conveyor_DeepSeek-R1-Distill-Llama-70B_6.cpp,RUNTIME_ERROR,0,0.00%,0.700,11.44140625,0,0,0,0
+2023-sp_Belt_Conveyor_DeepSeek-R1-Distill-Llama-70B_7.cpp,RUNTIME_ERROR,1,12.90%,0.260,12.09765625,1,0,0,0

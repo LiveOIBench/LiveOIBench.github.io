@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Equal_Sum_Subarrays,Qwen3-30B-Non-Thinking,TIME_LIMIT_EXCEEDED,0,12.50%,3.440,14.69921875
+gold_Fertilizing_Pastures,Qwen3-30B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Piling_Papers,Qwen3-30B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0

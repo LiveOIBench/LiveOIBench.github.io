@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+sudoku,QwQ-32B,ACCEPTED,50,100.00%,0.000,0
+labirint,QwQ-32B,ACCEPTED,70,100.00%,0.150,2.5546875
+an2dl,QwQ-32B,ACCEPTED,110,100.00%,1.170,114.47265625
+kocke,QwQ-32B,RUNTIME_ERROR,0,13.33%,0.060,0.00390625
+mostovi,QwQ-32B,COMPILATION_ERROR,0,0.00%,0.000,0

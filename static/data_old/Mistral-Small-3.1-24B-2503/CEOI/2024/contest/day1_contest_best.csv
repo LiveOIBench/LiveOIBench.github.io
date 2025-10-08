@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+covid,Mistral-Small-3.1-24B-2503,TIME_LIMIT_EXCEEDED,10,66.67%,6.310,1.5390625
+battle,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,12.50%,0.360,51.40625
+editor,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,11.29%,0.200,4.65234375

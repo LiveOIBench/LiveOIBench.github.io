@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Jump_Civilization,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,11,15.69%,0.210,37.91015625
+Ramen,DeepSeek-R1-Distill-Llama-70B,COMPILATION_ERROR,0,0.00%,0.000,0
+Signals,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,61,60.47%,1.330,5.16796875

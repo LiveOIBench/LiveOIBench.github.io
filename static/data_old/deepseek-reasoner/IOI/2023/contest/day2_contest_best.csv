@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+robot,deepseek-reasoner,COMPILATION_ERROR,0,0.00%,0.000,0
+overtaking,deepseek-reasoner,RUNTIME_ERROR,0,16.67%,0.000,0.00390625
+beechtree,deepseek-reasoner,TIME_LIMIT_EXCEEDED,0,17.65%,1.660,43.6875

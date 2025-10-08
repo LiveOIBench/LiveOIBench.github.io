@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+icecreammachines,gemini-2.5-pro,ACCEPTED,100,100.00%,0.090,10.0625
+chatnoi,gemini-2.5-pro,RUNTIME_ERROR,41,57.96%,1.370,172.1875
+islandalliances,gemini-2.5-pro,ACCEPTED,100,100.00%,0.200,9.03125

@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+osobna,deepseek-reasoner,ACCEPTED,50,100.00%,0.000,0
+skokovi,deepseek-reasoner,ACCEPTED,70,100.00%,0.060,2.7890625
+hijerarhija,deepseek-reasoner,ACCEPTED,90,100.00%,0.290,16.171875
+uciteljica,deepseek-reasoner,RUNTIME_ERROR,0,1.64%,0.000,0
+zbunjenost,deepseek-reasoner,RUNTIME_ERROR,15,33.87%,0.000,0

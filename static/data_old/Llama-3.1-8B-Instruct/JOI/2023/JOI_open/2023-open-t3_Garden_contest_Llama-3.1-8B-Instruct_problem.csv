@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+2023-open-t3_Garden_Llama-3.1-8B-Instruct_0.cpp,RUNTIME_ERROR,0,0.00%,0.180,9.07421875,0,0,0,0,0,0
+2023-open-t3_Garden_Llama-3.1-8B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.270,10.89453125,0,0,0,0,0,0
+2023-open-t3_Garden_Llama-3.1-8B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.240,16.49609375,0,0,0,0,0,0
+2023-open-t3_Garden_Llama-3.1-8B-Instruct_3.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.590,521.3046875,0,0,0,0,0,0
+2023-open-t3_Garden_Llama-3.1-8B-Instruct_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+2023-open-t3_Garden_Llama-3.1-8B-Instruct_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+2023-open-t3_Garden_Llama-3.1-8B-Instruct_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+2023-open-t3_Garden_Llama-3.1-8B-Instruct_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.720,517.49609375,0,0,0,0,0,0

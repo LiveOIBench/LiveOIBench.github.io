@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+oldorhei_gpt-oss-20b-medium_0.cpp,ACCEPTED,100,100.00%,0.260,80.50390625,0,7,16,17,31,29
+oldorhei_gpt-oss-20b-medium_1.cpp,ACCEPTED,100,100.00%,0.190,80.50390625,0,7,16,17,31,29
+oldorhei_gpt-oss-20b-medium_2.cpp,ACCEPTED,100,100.00%,0.220,99.78125,0,7,16,17,31,29
+oldorhei_gpt-oss-20b-medium_3.cpp,ACCEPTED,100,100.00%,0.200,21.72265625,0,7,16,17,31,29
+oldorhei_gpt-oss-20b-medium_4.cpp,ACCEPTED,100,100.00%,0.180,80.5546875,0,7,16,17,31,29
+oldorhei_gpt-oss-20b-medium_5.cpp,ACCEPTED,100,100.00%,0.250,86.43359375,0,7,16,17,31,29
+oldorhei_gpt-oss-20b-medium_6.cpp,ACCEPTED,100,100.00%,0.320,113.1875,0,7,16,17,31,29
+oldorhei_gpt-oss-20b-medium_7.cpp,RUNTIME_ERROR,0,0.00%,0.150,52.6640625,0,0,0,0,0,0

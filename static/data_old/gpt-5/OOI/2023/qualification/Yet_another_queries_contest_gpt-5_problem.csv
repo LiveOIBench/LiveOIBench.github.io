@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+Yet_another_queries_gpt-5_0.cpp,RUNTIME_ERROR,0,0.00%,0.330,79.5234375,0,0,0,0,0,0,0,0,0
+Yet_another_queries_gpt-5_1.cpp,ACCEPTED,100,100.00%,1.170,75.39453125,0.0,19.0,17.0,11.0,13.0,12.0,9.0,10.0,9.0
+Yet_another_queries_gpt-5_2.cpp,ACCEPTED,100,100.00%,1.040,45.4921875,0.0,19.0,17.0,11.0,13.0,12.0,9.0,10.0,9.0
+Yet_another_queries_gpt-5_3.cpp,TIME_LIMIT_EXCEEDED,67,85.55%,1.800,43.26171875,0.0,19.0,17.0,0,0,12.0,9.0,10.0,0
+Yet_another_queries_gpt-5_4.cpp,ACCEPTED,100,100.00%,1.140,85.0234375,0.0,19.0,17.0,11.0,13.0,12.0,9.0,10.0,9.0
+Yet_another_queries_gpt-5_5.cpp,TIME_LIMIT_EXCEEDED,67,85.55%,1.800,79.51953125,0.0,19.0,17.0,0,0,12.0,9.0,10.0,0
+Yet_another_queries_gpt-5_6.cpp,ACCEPTED,100,100.00%,1.080,91.9765625,0.0,19.0,17.0,11.0,13.0,12.0,9.0,10.0,9.0
+Yet_another_queries_gpt-5_7.cpp,ACCEPTED,100,100.00%,0.940,36.46484375,0.0,19.0,17.0,11.0,13.0,12.0,9.0,10.0,9.0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+mreza_gpt-oss-120b-low_0.cpp,ACCEPTED,110,100.00%,1.230,56.05859375,21,29,60
+mreza_gpt-oss-120b-low_1.cpp,RUNTIME_ERROR,0,0.00%,0.600,53.734375,0,0,0
+mreza_gpt-oss-120b-low_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+mreza_gpt-oss-120b-low_3.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.110,39.19140625,0,0,0
+mreza_gpt-oss-120b-low_4.cpp,ACCEPTED,110,100.00%,1.300,37.99609375,21,29,60
+mreza_gpt-oss-120b-low_5.cpp,ACCEPTED,110,100.00%,1.970,26.58984375,21,29,60
+mreza_gpt-oss-120b-low_6.cpp,ACCEPTED,110,100.00%,3.310,68.0625,21,29,60
+mreza_gpt-oss-120b-low_7.cpp,ACCEPTED,110,100.00%,1.790,31.51171875,21,29,60

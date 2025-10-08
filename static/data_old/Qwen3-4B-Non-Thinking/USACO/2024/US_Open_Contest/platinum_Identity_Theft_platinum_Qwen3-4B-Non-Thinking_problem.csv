@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Identity_Theft_Qwen3-4B-Non-Thinking_0.cpp,RUNTIME_ERROR,0,0.00%,0.200,109.6875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_Qwen3-4B-Non-Thinking_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.420,6.8203125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_Qwen3-4B-Non-Thinking_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_Qwen3-4B-Non-Thinking_3.cpp,RUNTIME_ERROR,0,0.00%,0.160,105.44921875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_Qwen3-4B-Non-Thinking_4.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.660,562.6484375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_Qwen3-4B-Non-Thinking_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.550,7.0703125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_Qwen3-4B-Non-Thinking_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_Qwen3-4B-Non-Thinking_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.500,13.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

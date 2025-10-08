@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+s1,Llama-3.3-70B-Instruct,ACCEPTED,15,100.00%,0.300,5.28515625
+s2,Llama-3.3-70B-Instruct,ACCEPTED,15,100.00%,0.080,0.00390625
+s3,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,0.00%,0.000,0
+s4,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,2.00%,0.130,13.65625
+s5,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,2.65%,0.470,6.58203125

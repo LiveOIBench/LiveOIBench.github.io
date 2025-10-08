@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+diplomacy,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,25,61.46%,4.450,32.109375
+garbage,gemini-2.5-flash,ACCEPTED,100,100.00%,0.250,24.7265625
+xoracle,gemini-2.5-flash,ACCEPTED,100,100.00%,0.380,3.94140625

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Reflection,gpt-oss-20b-low,ACCEPTED,333,100.00%,0.050,5.6796875
+bronze_Making_Mexes,gpt-oss-20b-low,ACCEPTED,333,100.00%,0.040,3.10546875
+bronze_Printing_Sequences,gpt-oss-20b-low,ACCEPTED,333,100.00%,0.050,1.6171875

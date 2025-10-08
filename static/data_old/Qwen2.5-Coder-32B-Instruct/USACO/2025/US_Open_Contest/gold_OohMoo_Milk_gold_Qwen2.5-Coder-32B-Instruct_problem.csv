@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_OohMoo_Milk_Qwen2.5-Coder-32B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.400,3.6171875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_OohMoo_Milk_Qwen2.5-Coder-32B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.260,3.6171875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_OohMoo_Milk_Qwen2.5-Coder-32B-Instruct_2.cpp,RUNTIME_ERROR,0,0.00%,0.130,2.07421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_OohMoo_Milk_Qwen2.5-Coder-32B-Instruct_3.cpp,RUNTIME_ERROR,0,0.00%,0.210,3.921875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_OohMoo_Milk_Qwen2.5-Coder-32B-Instruct_4.cpp,RUNTIME_ERROR,0,0.00%,0.130,3.37890625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_OohMoo_Milk_Qwen2.5-Coder-32B-Instruct_5.cpp,RUNTIME_ERROR,0,0.00%,0.130,1.81640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_OohMoo_Milk_Qwen2.5-Coder-32B-Instruct_6.cpp,RUNTIME_ERROR,0,0.00%,0.120,2.07421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_OohMoo_Milk_Qwen2.5-Coder-32B-Instruct_7.cpp,RUNTIME_ERROR,0,0.00%,0.370,2.90625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

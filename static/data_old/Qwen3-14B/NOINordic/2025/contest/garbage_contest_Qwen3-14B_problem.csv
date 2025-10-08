@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+garbage_Qwen3-14B_0.cpp,RUNTIME_ERROR,0,4.11%,0.220,4.00390625,0,0,0,0,0,0
+garbage_Qwen3-14B_1.cpp,TIME_LIMIT_EXCEEDED,0,15.07%,5.570,8.06640625,0,0,0,0,0,0
+garbage_Qwen3-14B_2.cpp,TIME_LIMIT_EXCEEDED,0,5.48%,5.750,2.9296875,0,0,0,0,0,0
+garbage_Qwen3-14B_3.cpp,TIME_LIMIT_EXCEEDED,0,15.07%,5.650,3.26171875,0,0,0,0,0,0
+garbage_Qwen3-14B_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+garbage_Qwen3-14B_5.cpp,TIME_LIMIT_EXCEEDED,0,5.48%,5.770,2.9765625,0,0,0,0,0,0
+garbage_Qwen3-14B_6.cpp,TIME_LIMIT_EXCEEDED,0,15.07%,5.510,4.8125,0,0,0,0,0,0
+garbage_Qwen3-14B_7.cpp,TIME_LIMIT_EXCEEDED,0,5.48%,5.560,3.9296875,0,0,0,0,0,0

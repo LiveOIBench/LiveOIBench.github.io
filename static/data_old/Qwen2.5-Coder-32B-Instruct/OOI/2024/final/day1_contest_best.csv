@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Dreaming_is_not_harmful,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,10,12.73%,0.250,64.3515625
+Cute_Subsequences,Qwen2.5-Coder-32B-Instruct,TIME_LIMIT_EXCEEDED,0,3.37%,1.160,10.83984375
+The_arithmetic_exercise,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,4,13.04%,0.110,2.84765625
+Alice_Bob_and_two_arrays,Qwen2.5-Coder-32B-Instruct,ACCEPTED,100,100.00%,0.530,1.8125

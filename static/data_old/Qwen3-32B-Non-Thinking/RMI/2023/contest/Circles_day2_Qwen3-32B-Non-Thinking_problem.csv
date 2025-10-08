@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Circles_Qwen3-32B-Non-Thinking_0.cpp,RUNTIME_ERROR,0,3.23%,0.660,46.15625,0,0,0,0,0,0,0
+Circles_Qwen3-32B-Non-Thinking_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+Circles_Qwen3-32B-Non-Thinking_2.cpp,RUNTIME_ERROR,0,18.18%,0.340,45.640625,0,0,0,0,0,0,0
+Circles_Qwen3-32B-Non-Thinking_3.cpp,RUNTIME_ERROR,0,0.00%,0.890,329.48046875,0,0,0,0,0,0,0
+Circles_Qwen3-32B-Non-Thinking_4.cpp,RUNTIME_ERROR,0,3.23%,0.140,80.703125,0,0,0,0,0,0,0
+Circles_Qwen3-32B-Non-Thinking_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.660,45.89453125,0,0,0,0,0,0,0
+Circles_Qwen3-32B-Non-Thinking_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+Circles_Qwen3-32B-Non-Thinking_7.cpp,RUNTIME_ERROR,0,0.00%,0.300,149.28125,0,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Big_Persimmon_Qwen3-4B_0.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0
+Big_Persimmon_Qwen3-4B_1.cpp,TIME_LIMIT_EXCEEDED,0,3.45%,2.410,181.3984375,0,0,0,0,0,0,0
+Big_Persimmon_Qwen3-4B_2.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0
+Big_Persimmon_Qwen3-4B_3.cpp,RUNTIME_ERROR,12,17.74%,0.050,32.04296875,0,0,12.0,0,0,0,0
+Big_Persimmon_Qwen3-4B_4.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0
+Big_Persimmon_Qwen3-4B_5.cpp,RUNTIME_ERROR,0,31.34%,0.030,7.99609375,0.0,0,0,0,0,0,0
+Big_Persimmon_Qwen3-4B_6.cpp,RUNTIME_ERROR,12,17.74%,0.020,16.76953125,0,0,12.0,0,0,0,0
+Big_Persimmon_Qwen3-4B_7.cpp,RUNTIME_ERROR,0,0.00%,0.020,1.4609375,0,0,0,0,0,0,0

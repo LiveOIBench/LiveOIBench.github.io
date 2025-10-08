@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+five,gemini-2.5-flash,COMPILATION_ERROR,0,0.00%,0.000,0
+game,gemini-2.5-flash,RUNTIME_ERROR,0,10.81%,0.390,7.49609375
+lexgcd,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,10,19.83%,1.840,373.2734375
+ones,gemini-2.5-flash,WRONG_ANSWER,29,0.00%,0.150,1.953125
+travel,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,20,29.41%,1.240,85.53515625

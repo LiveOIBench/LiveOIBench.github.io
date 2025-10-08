@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+sudoku,deepseek-chat,ACCEPTED,50,100.00%,0.000,0
+labirint,deepseek-chat,RUNTIME_ERROR,24,37.50%,0.060,0.00390625
+an2dl,deepseek-chat,ACCEPTED,110,100.00%,1.130,99.0078125
+kocke,deepseek-chat,TIME_LIMIT_EXCEEDED,0,13.33%,2.210,192.59765625
+mostovi,deepseek-chat,TIME_LIMIT_EXCEEDED,30,56.78%,3.310,8.26953125

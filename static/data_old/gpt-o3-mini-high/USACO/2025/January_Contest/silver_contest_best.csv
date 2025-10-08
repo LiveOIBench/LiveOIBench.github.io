@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cow_Checkups,gpt-o3-mini-high,ACCEPTED,333,100.00%,0.230,47.9609375
+silver_Farmer_Johns_Favorite_Operation,gpt-o3-mini-high,ACCEPTED,333,100.00%,0.110,5.96875
+silver_Table_Recovery,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,83,33.33%,2.250,63.28125

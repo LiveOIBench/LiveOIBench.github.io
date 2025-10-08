@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Piling_Papers_gpt-o3-mini-high_0.cpp,TIME_LIMIT_EXCEEDED,0,7.69%,2.220,6.4375,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Piling_Papers_gpt-o3-mini-high_1.cpp,MEMORY_LIMIT_EXCEEDED,56,23.08%,2.140,280.890625,0,27.777777777777775,0,0,0,27.777777777777775,0,0,0,0,0,0,0
+gold_Piling_Papers_gpt-o3-mini-high_2.cpp,TIME_LIMIT_EXCEEDED,0,7.69%,2.210,280.859375,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Piling_Papers_gpt-o3-mini-high_3.cpp,MEMORY_LIMIT_EXCEEDED,0,7.69%,1.620,280.859375,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Piling_Papers_gpt-o3-mini-high_4.cpp,MEMORY_LIMIT_EXCEEDED,0,7.69%,0.170,277.92578125,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Piling_Papers_gpt-o3-mini-high_5.cpp,TIME_LIMIT_EXCEEDED,0,7.69%,2.220,280.84375,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Piling_Papers_gpt-o3-mini-high_6.cpp,MEMORY_LIMIT_EXCEEDED,0,7.69%,1.480,280.7890625,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Piling_Papers_gpt-o3-mini-high_7.cpp,TIME_LIMIT_EXCEEDED,56,23.08%,2.220,280.859375,0,27.777777777777775,0,0,0,27.777777777777775,0,0,0,0,0,0,0

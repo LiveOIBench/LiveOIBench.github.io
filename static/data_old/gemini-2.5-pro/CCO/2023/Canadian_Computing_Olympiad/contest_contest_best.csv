@@ -1,0 +1,7 @@
+problem,model,status,score,%test passed,time,memory
+d1p1,gemini-2.5-pro,ACCEPTED,25,100.00%,0.100,10.328125
+d1p2,gemini-2.5-pro,MEMORY_LIMIT_EXCEEDED,0,1.90%,1.480,1111.17578125
+d1p3,gemini-2.5-pro,RUNTIME_ERROR,0,4.81%,0.150,12.90234375
+d2p1,gemini-2.5-pro,RUNTIME_ERROR,1,29.46%,0.020,1.60546875
+d2p2,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,0,7.81%,2.230,1120.9765625
+d2p3,gemini-2.5-pro,RUNTIME_ERROR,0,52.83%,0.200,10.89453125

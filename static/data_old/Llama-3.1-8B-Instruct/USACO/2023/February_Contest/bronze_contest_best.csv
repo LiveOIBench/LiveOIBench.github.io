@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Hungry_Cow,Llama-3.1-8B-Instruct,RUNTIME_ERROR,100,30.77%,0.130,2.84765625
+bronze_Stamp_Grid,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Watching_Mooloo,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,0.00%,0.120,2.015625

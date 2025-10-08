@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+jobs,gemini-2.5-flash,RUNTIME_ERROR,0,0.72%,0.080,41.76953125
+portal,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,55,79.10%,1.120,4.65625
+trains,gemini-2.5-flash,ACCEPTED,100,100.00%,0.140,128.14453125

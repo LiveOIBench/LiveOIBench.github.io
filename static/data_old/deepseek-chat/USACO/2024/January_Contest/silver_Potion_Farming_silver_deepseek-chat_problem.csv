@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Potion_Farming_deepseek-chat_0.cpp,WRONG_ANSWER,48,13.33%,0.080,9.546875,0,0,23.809523809523807,0,0,0,0,23.809523809523807,0,0,0,0,0,0,0
+silver_Potion_Farming_deepseek-chat_1.cpp,WRONG_ANSWER,0,0.00%,0.070,9.2890625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Potion_Farming_deepseek-chat_2.cpp,WRONG_ANSWER,24,6.67%,0.070,9.29296875,0,0,0,0,0,0,0,23.809523809523807,0,0,0,0,0,0,0
+silver_Potion_Farming_deepseek-chat_3.cpp,WRONG_ANSWER,24,6.67%,0.070,10.1640625,0,0,0,0,0,0,0,23.809523809523807,0,0,0,0,0,0,0
+silver_Potion_Farming_deepseek-chat_4.cpp,WRONG_ANSWER,24,6.67%,0.080,11.6015625,0,0,23.809523809523807,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Potion_Farming_deepseek-chat_5.cpp,WRONG_ANSWER,0,0.00%,0.070,6.96875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Potion_Farming_deepseek-chat_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,12.64453125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Potion_Farming_deepseek-chat_7.cpp,WRONG_ANSWER,48,13.33%,0.070,9.03125,0,0,0,0,0,0,0,23.809523809523807,0,0,0,0,23.809523809523807,0,0

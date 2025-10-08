@@ -1,0 +1,7 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+iksevi_gpt-oss-120b-high_0.cpp,RUNTIME_ERROR,15,13.64%,33.33%,0.300,42.50390625,15,0,0
+iksevi_gpt-oss-120b-high_2.cpp,RUNTIME_ERROR,15,13.64%,33.33%,0.480,84.734375,15,0,0
+iksevi_gpt-oss-120b-high_3.cpp,ACCEPTED,110,100.00%,100.00%,0.400,82.62109375,15,55,40
+iksevi_gpt-oss-120b-high_5.cpp,RUNTIME_ERROR,15,13.64%,33.33%,0.480,39.4921875,15,0,0
+iksevi_gpt-oss-120b-high_6.cpp,ACCEPTED,110,100.00%,100.00%,0.340,43.015625,15,55,40
+iksevi_gpt-oss-120b-high_7.cpp,ACCEPTED,110,100.00%,100.00%,0.350,39.62890625,15,55,40

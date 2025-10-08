@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Forklift_Certified,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,0,0.00%,2.270,3.36328125
+platinum_Lazy_Sort,DeepSeek-Coder-V2-Lite-Instruct,WRONG_ANSWER,0,6.67%,0.200,1.46875
+platinum_Package_Pickup,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

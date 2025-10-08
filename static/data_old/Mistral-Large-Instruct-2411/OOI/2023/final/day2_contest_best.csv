@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Burenka_and_Pether,Mistral-Large-Instruct-2411,UNKNOWN,0,0.00%,0.000,0
+Almost_Certainly,Mistral-Large-Instruct-2411,UNKNOWN,0,0.00%,0.000,0
+Three_Arrays,Mistral-Large-Instruct-2411,RUNTIME_ERROR,0,6.57%,0.050,0
+Parallel_Universes,Mistral-Large-Instruct-2411,MEMORY_LIMIT_EXCEEDED,0,0.72%,0.090,0.00390625

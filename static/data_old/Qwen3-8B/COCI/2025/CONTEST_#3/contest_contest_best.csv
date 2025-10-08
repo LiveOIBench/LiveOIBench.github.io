@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+autobus,Qwen3-8B,COMPILATION_ERROR,0,0.00%,0.000,0
+karte,Qwen3-8B,ACCEPTED,70,100.00%,0.100,0.00390625
+bojanje,Qwen3-8B,RUNTIME_ERROR,0,4.35%,0.020,0.00390625
+stablo,Qwen3-8B,TIME_LIMIT_EXCEEDED,0,5.88%,2.410,33.86328125
+procesor,Qwen3-8B,COMPILATION_ERROR,0,0.00%,0.000,0

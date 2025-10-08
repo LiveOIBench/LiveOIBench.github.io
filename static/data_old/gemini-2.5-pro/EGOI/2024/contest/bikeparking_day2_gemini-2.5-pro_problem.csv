@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+bikeparking_gemini-2.5-pro_0.cpp,RUNTIME_ERROR,25,61.49%,0.100,16.50390625,0,16,9,0,0,0
+bikeparking_gemini-2.5-pro_1.cpp,RUNTIME_ERROR,0,18.42%,0.120,12.8984375,0,0,0,0,0,0
+bikeparking_gemini-2.5-pro_2.cpp,RUNTIME_ERROR,25,61.49%,0.130,17.5390625,0,16,9,0,0,0
+bikeparking_gemini-2.5-pro_3.cpp,RUNTIME_ERROR,25,61.49%,0.180,19.6015625,0,16,9,0,0,0
+bikeparking_gemini-2.5-pro_4.cpp,RUNTIME_ERROR,25,61.49%,0.120,14.96484375,0,16,9,0,0,0
+bikeparking_gemini-2.5-pro_5.cpp,RUNTIME_ERROR,25,61.49%,0.130,14.96484375,0,16,9,0,0,0
+bikeparking_gemini-2.5-pro_6.cpp,RUNTIME_ERROR,25,61.49%,0.170,21.98828125,0,16,9,0,0,0
+bikeparking_gemini-2.5-pro_7.cpp,RUNTIME_ERROR,25,61.49%,0.150,24.2421875,0,16,9,0,0,0

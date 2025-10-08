@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+stations_gpt-o3-mini-high_0.cpp,RUNTIME_ERROR,0,6.82%,0.200,62.76171875,0,0,0,0,0,0,0
+stations_gpt-o3-mini-high_1.cpp,RUNTIME_ERROR,0,6.82%,0.040,7.15625,0,0,0,0,0,0,0
+stations_gpt-o3-mini-high_2.cpp,RUNTIME_ERROR,18,52.54%,2.200,6.453125,0,18,0,0,0,0,0
+stations_gpt-o3-mini-high_3.cpp,RUNTIME_ERROR,0,4.55%,0.040,9.12890625,0,0,0,0,0,0,0
+stations_gpt-o3-mini-high_4.cpp,RUNTIME_ERROR,0,4.55%,0.050,18.05078125,0,0,0,0,0,0,0
+stations_gpt-o3-mini-high_5.cpp,TIME_LIMIT_EXCEEDED,0,21.28%,3.870,9.0546875,0,0,0,0,0,0,0
+stations_gpt-o3-mini-high_6.cpp,RUNTIME_ERROR,0,2.33%,0.070,6.49609375,0,0,0,0,0,0,0
+stations_gpt-o3-mini-high_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.860,1210.27734375,0,0,0,0,0,0,0

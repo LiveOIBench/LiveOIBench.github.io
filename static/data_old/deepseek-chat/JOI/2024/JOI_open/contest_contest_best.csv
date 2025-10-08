@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+2024-open-t1_Examination_2,deepseek-chat,TIME_LIMIT_EXCEEDED,20,40.20%,2.220,100.18359375
+2024-open-t2_Heat_Stroke,deepseek-chat,RUNTIME_ERROR,6,36.57%,0.040,0.00390625
+2024-open-t3_Library_3,deepseek-chat,RUNTIME_ERROR,2,50.00%,0.040,1.53515625

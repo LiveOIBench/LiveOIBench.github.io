@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Min_Max_Subarrays,gemini-2.5-pro,WRONG_ANSWER,0,23.08%,0.450,35.83203125
+platinum_Transforming_Pairs,gemini-2.5-pro,WRONG_ANSWER,37,15.79%,0.190,0.00390625
+platinum_True_or_False_Test,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,105,35.00%,3.420,134.1484375

@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+sudoku,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,45.71%,0.000,0
+labirint,Qwen3-32B-Non-Thinking,ACCEPTED,70,100.00%,0.290,2.0703125
+an2dl,Qwen3-32B-Non-Thinking,ACCEPTED,110,100.00%,1.120,128.140625
+kocke,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,13.33%,0.030,1.53125
+mostovi,Qwen3-32B-Non-Thinking,TIME_LIMIT_EXCEEDED,30,56.78%,3.350,15.4765625

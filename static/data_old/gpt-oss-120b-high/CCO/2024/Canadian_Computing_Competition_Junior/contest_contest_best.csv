@@ -1,0 +1,2 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+j1,gpt-oss-120b-high,ACCEPTED,15,100.00%,100.00%,0.020,0

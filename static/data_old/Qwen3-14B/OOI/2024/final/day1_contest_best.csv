@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Dreaming_is_not_harmful,Qwen3-14B,TIME_LIMIT_EXCEEDED,0,5.61%,2.210,37.90625
+Cute_Subsequences,Qwen3-14B,ACCEPTED,100,100.00%,0.150,16.5859375
+The_arithmetic_exercise,Qwen3-14B,RUNTIME_ERROR,4,13.04%,0.100,4.625
+Alice_Bob_and_two_arrays,Qwen3-14B,ACCEPTED,100,100.00%,0.400,1.55859375

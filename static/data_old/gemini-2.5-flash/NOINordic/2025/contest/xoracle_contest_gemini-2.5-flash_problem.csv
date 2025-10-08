@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+xoracle_gemini-2.5-flash_0.cpp,RUNTIME_ERROR,8,29.41%,0.390,3.91015625,8,0,0,0,0,0
+xoracle_gemini-2.5-flash_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+xoracle_gemini-2.5-flash_2.cpp,TIME_LIMIT_EXCEEDED,57,75.00%,2.260,3.671875,8,5,9,11,24,0
+xoracle_gemini-2.5-flash_3.cpp,ACCEPTED,100,100.00%,0.410,3.92578125,8,5,9,11,24,43
+xoracle_gemini-2.5-flash_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+xoracle_gemini-2.5-flash_5.cpp,TIME_LIMIT_EXCEEDED,57,75.00%,2.260,3.3515625,8,5,9,11,24,0
+xoracle_gemini-2.5-flash_6.cpp,ACCEPTED,100,100.00%,0.380,3.94140625,8,5,9,11,24,43
+xoracle_gemini-2.5-flash_7.cpp,TIME_LIMIT_EXCEEDED,57,75.00%,2.260,3.76171875,8,5,9,11,24,0

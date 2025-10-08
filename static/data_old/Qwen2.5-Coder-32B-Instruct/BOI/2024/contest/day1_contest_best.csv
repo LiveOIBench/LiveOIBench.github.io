@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+jobs,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,0.00%,0.070,19.6015625
+portal,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,1,10.53%,0.110,15.26953125
+trains,Qwen2.5-Coder-32B-Instruct,TIME_LIMIT_EXCEEDED,21,78.26%,1.110,2.015625

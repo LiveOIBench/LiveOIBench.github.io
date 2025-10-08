@@ -1,0 +1,10 @@
+problem,model,status,score,%test passed,time,memory
+Colorful_Diameter,gpt-5,ACCEPTED,100,100.00%,6.620,48.23046875
+Road_Lighting,gpt-5,ACCEPTED,100,100.00%,0.700,67.09375
+Repainting_the_Table,gpt-5,ACCEPTED,100,100.00%,0.180,40.42578125
+Distinctive_Features,gpt-5,ACCEPTED,100,100.00%,0.330,73.76171875
+Classic_Tree_Problem,gpt-5,RUNTIME_ERROR,0,0.00%,0.010,0.00390625
+Alien_Homophones,gpt-5,TIME_LIMIT_EXCEEDED,62,90.84%,2.420,71.453125
+Stone_Enthusiast,gpt-5,ACCEPTED,100,100.00%,0.230,22.5703125
+Egors_Gaming_Addiction,gpt-5,ACCEPTED,100,100.00%,0.210,35.05859375
+Ultrafast_train,gpt-5,ACCEPTED,100,100.00%,0.060,10.37109375

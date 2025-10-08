@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_FEB,Qwen2.5-Coder-14B-Instruct,WRONG_ANSWER,118,45.00%,0.110,1.55078125
+bronze_Moo_Language,Qwen2.5-Coder-14B-Instruct,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.150,1.6875
+bronze_Rotate_and_Shift,Qwen2.5-Coder-14B-Instruct,MEMORY_LIMIT_EXCEEDED,139,46.15%,0.480,281.00390625

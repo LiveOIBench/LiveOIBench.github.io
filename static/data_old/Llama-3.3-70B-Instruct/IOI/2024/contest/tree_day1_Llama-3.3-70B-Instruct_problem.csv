@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+tree_Llama-3.3-70B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,22.19140625,0,0,0,0,0,0,0,0
+tree_Llama-3.3-70B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,15.171875,0,0,0,0,0,0,0,0
+tree_Llama-3.3-70B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,35.89453125,0,0,0,0,0,0,0,0
+tree_Llama-3.3-70B-Instruct_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+tree_Llama-3.3-70B-Instruct_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+tree_Llama-3.3-70B-Instruct_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+tree_Llama-3.3-70B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,5.21875,0,0,0,0,0,0,0,0
+tree_Llama-3.3-70B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.220,19.89453125,0,0,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Target_Practice_II,Qwen3-32B,WRONG_ANSWER,167,46.67%,0.070,5.83203125
+silver_Test_Tubes,Qwen3-32B,MEMORY_LIMIT_EXCEEDED,50,14.29%,0.240,132.96875
+silver_Moorbles,Qwen3-32B,ACCEPTED,333,100.00%,0.100,17.5078125

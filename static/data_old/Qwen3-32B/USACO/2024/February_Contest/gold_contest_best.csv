@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Bessla_Motors,Qwen3-32B,TIME_LIMIT_EXCEEDED,139,53.33%,3.340,8.6484375
+gold_Milk_Exchange,Qwen3-32B,MEMORY_LIMIT_EXCEEDED,50,26.09%,0.490,281.03125
+gold_Quantum_Moochanics,Qwen3-32B,WRONG_ANSWER,67,33.33%,0.140,7.9609375

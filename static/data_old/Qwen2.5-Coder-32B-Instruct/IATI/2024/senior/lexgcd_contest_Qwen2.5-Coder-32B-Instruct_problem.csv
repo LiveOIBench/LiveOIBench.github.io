@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+lexgcd_Qwen2.5-Coder-32B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,6,4.13%,1.840,611.28125,6,0,0,0,0,0,0
+lexgcd_Qwen2.5-Coder-32B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.880,2.58203125,0,0,0,0,0,0,0
+lexgcd_Qwen2.5-Coder-32B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,0,4.92%,1.810,2.8828125,0,0,0,0,0,0,0
+lexgcd_Qwen2.5-Coder-32B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,0,4.92%,1.870,2.5859375,0,0,0,0,0,0,0
+lexgcd_Qwen2.5-Coder-32B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.800,611.28125,0,0,0,0,0,0,0
+lexgcd_Qwen2.5-Coder-32B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.800,585.23828125,0,0,0,0,0,0,0
+lexgcd_Qwen2.5-Coder-32B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,0,4.92%,1.880,2.84375,0,0,0,0,0,0,0
+lexgcd_Qwen2.5-Coder-32B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,0,4.92%,1.870,2.5859375,0,0,0,0,0,0,0

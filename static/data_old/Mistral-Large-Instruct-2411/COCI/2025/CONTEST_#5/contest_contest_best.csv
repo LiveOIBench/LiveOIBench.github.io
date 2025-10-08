@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+wow,Mistral-Large-Instruct-2411,RUNTIME_ERROR,0,0.00%,0.000,0
+zid,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,38,66.67%,1.110,2.58984375
+tornjevi,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,7,33.33%,2.210,16.51171875
+crtez,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0
+stablo,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,15,27.72%,4.210,230.1796875

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+Jump_Civilization_gpt-5_0.cpp,TIME_LIMIT_EXCEEDED,6,24.56%,1.210,21.6640625,0,6,0,0,0,0
+Jump_Civilization_gpt-5_1.cpp,TIME_LIMIT_EXCEEDED,6,36.07%,1.240,4.90625,0,6,0,0,0,0
+Jump_Civilization_gpt-5_2.cpp,TIME_LIMIT_EXCEEDED,6,36.07%,1.260,20.88671875,0,6,0,0,0,0
+Jump_Civilization_gpt-5_3.cpp,TIME_LIMIT_EXCEEDED,6,36.07%,1.220,5.33203125,0,6,0,0,0,0
+Jump_Civilization_gpt-5_4.cpp,TIME_LIMIT_EXCEEDED,6,36.07%,1.210,4.90625,0,6,0,0,0,0
+Jump_Civilization_gpt-5_5.cpp,TIME_LIMIT_EXCEEDED,6,36.07%,1.200,4.90625,0,6,0,0,0,0
+Jump_Civilization_gpt-5_6.cpp,TIME_LIMIT_EXCEEDED,6,28.07%,1.270,612.3046875,0,6,0,0,0,0
+Jump_Civilization_gpt-5_7.cpp,RUNTIME_ERROR,0,4.08%,0.160,20.890625,0,0,0,0,0,0

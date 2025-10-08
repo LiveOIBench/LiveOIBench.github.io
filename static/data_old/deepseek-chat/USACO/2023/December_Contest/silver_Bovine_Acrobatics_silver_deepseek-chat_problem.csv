@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Bovine_Acrobatics_deepseek-chat_0.cpp,RUNTIME_ERROR,0,0.00%,0.400,5.9375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Bovine_Acrobatics_deepseek-chat_1.cpp,RUNTIME_ERROR,0,0.00%,0.210,10.60546875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Bovine_Acrobatics_deepseek-chat_2.cpp,RUNTIME_ERROR,89,23.53%,0.320,4.390625,0,0,22.22222222222222,0,0,0,0,0,22.22222222222222,0,0,0,0,0,22.22222222222222,22.22222222222222
+silver_Bovine_Acrobatics_deepseek-chat_3.cpp,RUNTIME_ERROR,0,0.00%,0.100,4.390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Bovine_Acrobatics_deepseek-chat_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.260,5.82421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Bovine_Acrobatics_deepseek-chat_5.cpp,RUNTIME_ERROR,0,0.00%,0.200,5.9375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Bovine_Acrobatics_deepseek-chat_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Bovine_Acrobatics_deepseek-chat_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.230,9.03125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

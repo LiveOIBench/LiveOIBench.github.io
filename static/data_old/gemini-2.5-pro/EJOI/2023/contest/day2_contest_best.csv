@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+square_grid_puzzle,gemini-2.5-pro,RUNTIME_ERROR,0,25.00%,1.180,183.44921875
+team_building,gemini-2.5-pro,ACCEPTED,100,100.00%,0.190,33.0703125
+tree_infection,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,36,33.33%,1.150,75.08984375

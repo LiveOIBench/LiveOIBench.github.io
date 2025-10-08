@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Bessies_Function_deepseek-reasoner_0.cpp,WRONG_ANSWER,0,4.76%,0.130,3.62109375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessies_Function_deepseek-reasoner_1.cpp,RUNTIME_ERROR,0,0.00%,0.080,17.01953125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessies_Function_deepseek-reasoner_2.cpp,WRONG_ANSWER,0,4.76%,0.080,4.1796875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessies_Function_deepseek-reasoner_3.cpp,MEMORY_LIMIT_EXCEEDED,0,4.76%,0.470,132.22265625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessies_Function_deepseek-reasoner_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.270,32.984375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessies_Function_deepseek-reasoner_5.cpp,RUNTIME_ERROR,0,0.00%,0.070,3.87890625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessies_Function_deepseek-reasoner_6.cpp,WRONG_ANSWER,18,14.29%,0.070,4.77734375,0,17.543859649122805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessies_Function_deepseek-reasoner_7.cpp,RUNTIME_ERROR,18,4.76%,0.080,3.2109375,0,17.543859649122805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

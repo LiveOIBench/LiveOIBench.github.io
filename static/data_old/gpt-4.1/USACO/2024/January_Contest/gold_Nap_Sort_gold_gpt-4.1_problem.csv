@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Nap_Sort_gpt-4.1_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Nap_Sort_gpt-4.1_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Nap_Sort_gpt-4.1_2.cpp,WRONG_ANSWER,0,0.00%,0.130,2.84765625,0,0,0,0,0,0,0,0,0,0,0
+gold_Nap_Sort_gpt-4.1_3.cpp,WRONG_ANSWER,0,0.00%,0.130,4.390625,0,0,0,0,0,0,0,0,0,0,0
+gold_Nap_Sort_gpt-4.1_4.cpp,WRONG_ANSWER,0,0.00%,0.130,2.84765625,0,0,0,0,0,0,0,0,0,0,0
+gold_Nap_Sort_gpt-4.1_5.cpp,WRONG_ANSWER,0,0.00%,0.130,4.39453125,0,0,0,0,0,0,0,0,0,0,0
+gold_Nap_Sort_gpt-4.1_6.cpp,WRONG_ANSWER,0,0.00%,0.130,2.84765625,0,0,0,0,0,0,0,0,0,0,0
+gold_Nap_Sort_gpt-4.1_7.cpp,WRONG_ANSWER,0,0.00%,0.160,8.625,0,0,0,0,0,0,0,0,0,0,0

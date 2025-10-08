@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+five,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+game,Qwen3-4B-Non-Thinking,UNKNOWN,0,0.00%,0.000,0
+lexgcd,Qwen3-4B-Non-Thinking,RUNTIME_ERROR,0,7.38%,0.130,2.0703125
+ones,Qwen3-4B-Non-Thinking,WRONG_ANSWER,22,0.00%,0.140,1.953125
+travel,Qwen3-4B-Non-Thinking,MEMORY_LIMIT_EXCEEDED,0,1.20%,0.710,272.49609375

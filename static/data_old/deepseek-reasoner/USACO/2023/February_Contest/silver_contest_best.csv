@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bakery,deepseek-reasoner,ACCEPTED,333,100.00%,0.040,0.00390625
+silver_Cow-libi,deepseek-reasoner,ACCEPTED,333,100.00%,0.090,2.5859375
+silver_Moo_Route_II,deepseek-reasoner,ACCEPTED,333,100.00%,1.280,15.21875

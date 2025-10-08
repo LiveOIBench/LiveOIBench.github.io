@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+circlepassing,Qwen2.5-Coder-7B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+makethemmeet,Qwen2.5-Coder-7B-Instruct,UNKNOWN,0,0.00%,0.000,0
+lightbulbs,Qwen2.5-Coder-7B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+bikeparking,Qwen2.5-Coder-7B-Instruct,RUNTIME_ERROR,0,6.31%,0.080,0

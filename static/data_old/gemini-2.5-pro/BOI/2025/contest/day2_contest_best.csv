@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+dev,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,0,4.40%,2.210,554.06640625
+exp,gemini-2.5-pro,MEMORY_LIMIT_EXCEEDED,37,44.97%,0.180,262.203125
+gcd,gemini-2.5-pro,RUNTIME_ERROR,0,3.28%,0.000,0

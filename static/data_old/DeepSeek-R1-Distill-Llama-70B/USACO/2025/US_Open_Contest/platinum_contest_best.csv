@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Forklift_Certified,DeepSeek-R1-Distill-Llama-70B,MEMORY_LIMIT_EXCEEDED,24,6.25%,0.260,219.671875
+platinum_Lazy_Sort,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,6.67%,0.160,39.453125
+platinum_Package_Pickup,DeepSeek-R1-Distill-Llama-70B,COMPILATION_ERROR,0,0.00%,0.000,0

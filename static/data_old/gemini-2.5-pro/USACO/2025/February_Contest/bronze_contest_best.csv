@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Reflection,gemini-2.5-pro,ACCEPTED,333,100.00%,0.090,16.765625
+bronze_Making_Mexes,gemini-2.5-pro,ACCEPTED,333,100.00%,0.070,2.7890625
+bronze_Printing_Sequences,gemini-2.5-pro,ACCEPTED,333,100.00%,0.270,0.00390625

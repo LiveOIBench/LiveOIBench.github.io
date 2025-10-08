@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+kalendar,Llama-4-Scout,RUNTIME_ERROR,26,64.71%,0.010,0
+diskurs,Llama-4-Scout,TIME_LIMIT_EXCEEDED,0,2.00%,2.420,5.890625
+logaritam,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0
+slasticarnica,Llama-4-Scout,RUNTIME_ERROR,0,2.50%,0.070,2.84765625
+zastave,Llama-4-Scout,RUNTIME_ERROR,0,23.81%,0.030,2.1328125

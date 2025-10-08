@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Milk_Sum,Llama-3.3-70B-Instruct,WRONG_ANSWER,0,0.00%,2.980,4.91015625
+silver_Field_Day,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,0,5.00%,2.330,9.03125
+silver_Pareidolia,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,0,16.67%,4.450,1.80078125

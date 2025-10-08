@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Distinctive_Features_gpt-oss-20b-low_0.cpp,TIME_LIMIT_EXCEEDED,30,53.94%,3.610,46.35546875,0.0,10.0,7.0,13.0,0,0,0,0,0,0
+Distinctive_Features_gpt-oss-20b-low_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.610,73.6328125,0,0,0,0,0,0,0,0,0,0
+Distinctive_Features_gpt-oss-20b-low_2.cpp,TIME_LIMIT_EXCEEDED,30,54.51%,3.620,78.14453125,0.0,10.0,7.0,13.0,0,0,0,0,0,0
+Distinctive_Features_gpt-oss-20b-low_3.cpp,TIME_LIMIT_EXCEEDED,30,53.94%,3.620,47.44921875,0.0,10.0,7.0,13.0,0,0,0,0,0,0
+Distinctive_Features_gpt-oss-20b-low_4.cpp,TIME_LIMIT_EXCEEDED,30,53.94%,3.620,47.44921875,0.0,10.0,7.0,13.0,0,0,0,0,0,0
+Distinctive_Features_gpt-oss-20b-low_5.cpp,RUNTIME_ERROR,0,0.00%,0.380,45.38671875,0,0,0,0,0,0,0,0,0,0
+Distinctive_Features_gpt-oss-20b-low_6.cpp,MEMORY_LIMIT_EXCEEDED,0,5.23%,0.420,101.32421875,0.0,0,0,0,0,0,0,0,0,0
+Distinctive_Features_gpt-oss-20b-low_7.cpp,TIME_LIMIT_EXCEEDED,30,53.94%,3.610,47.44921875,0.0,10.0,7.0,13.0,0,0,0,0,0,0

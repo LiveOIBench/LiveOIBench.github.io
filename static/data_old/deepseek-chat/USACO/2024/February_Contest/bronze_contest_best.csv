@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Palindrome_Game,deepseek-chat,ACCEPTED,333,100.00%,0.060,1.59375
+bronze_Milk_Exchange,deepseek-chat,TIME_LIMIT_EXCEEDED,154,56.25%,2.210,6.37109375
+bronze_Maximizing_Productivity,deepseek-chat,ACCEPTED,333,100.00%,0.140,3.62109375

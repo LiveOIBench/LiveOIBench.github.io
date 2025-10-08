@@ -1,0 +1,6 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+2023-sp_Passport_gpt-oss-20b-low_0.cpp,RUNTIME_ERROR,6,47.14%,0.040,31.99609375,6,0,0,0,0
+2023-sp_Passport_gpt-oss-20b-low_1.cpp,RUNTIME_ERROR,6,43.28%,0.040,6.97265625,6,0,0,0,0
+2023-sp_Passport_gpt-oss-20b-low_3.cpp,RUNTIME_ERROR,6,34.43%,0.030,3.24609375,6,0,0,0,0
+2023-sp_Passport_gpt-oss-20b-low_4.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+2023-sp_Passport_gpt-oss-20b-low_5.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0

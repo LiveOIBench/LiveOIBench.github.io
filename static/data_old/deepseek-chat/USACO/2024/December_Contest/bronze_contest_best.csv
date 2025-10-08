@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Roundabout_Rounding,deepseek-chat,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Farmer_Johns_Cheese_Block,deepseek-chat,ACCEPTED,333,100.00%,0.210,188.46875
+bronze_Its_Mooin_Time,deepseek-chat,ACCEPTED,333,100.00%,0.090,0.00390625

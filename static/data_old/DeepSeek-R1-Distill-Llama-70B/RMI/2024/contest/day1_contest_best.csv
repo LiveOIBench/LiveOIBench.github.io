@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Choose_Interval,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,100,100.00%,0.530,11.07421875
+Skittlez,DeepSeek-R1-Distill-Llama-70B,MEMORY_LIMIT_EXCEEDED,7,40.91%,0.260,306.28515625
+Octagon,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,24.44%,0.000,0

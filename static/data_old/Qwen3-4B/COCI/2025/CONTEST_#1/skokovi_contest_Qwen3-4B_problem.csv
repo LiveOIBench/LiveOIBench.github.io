@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+skokovi_Qwen3-4B_0.cpp,ACCEPTED,70,100.00%,0.090,12.125,20,25,25
+skokovi_Qwen3-4B_1.cpp,ACCEPTED,70,100.00%,0.090,12.8984375,20,25,25
+skokovi_Qwen3-4B_2.cpp,ACCEPTED,70,100.00%,0.130,12.125,20,25,25
+skokovi_Qwen3-4B_3.cpp,ACCEPTED,70,100.00%,0.100,12.8984375,20,25,25
+skokovi_Qwen3-4B_4.cpp,ACCEPTED,70,100.00%,0.100,12.125,20,25,25
+skokovi_Qwen3-4B_5.cpp,ACCEPTED,70,100.00%,0.100,5.19140625,20,25,25
+skokovi_Qwen3-4B_6.cpp,ACCEPTED,70,100.00%,0.140,12.125,20,25,25
+skokovi_Qwen3-4B_7.cpp,ACCEPTED,70,100.00%,0.110,6.48046875,20,25,25

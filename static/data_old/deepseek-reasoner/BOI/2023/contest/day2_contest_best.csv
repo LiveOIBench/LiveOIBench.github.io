@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+minequake,deepseek-reasoner,TIME_LIMIT_EXCEEDED,41,90.34%,2.210,3.1015625
+mineraldeposits,deepseek-reasoner,RUNTIME_ERROR,0,37.27%,0.010,1.4765625
+sequence,deepseek-reasoner,RUNTIME_ERROR,11,54.55%,0.010,0

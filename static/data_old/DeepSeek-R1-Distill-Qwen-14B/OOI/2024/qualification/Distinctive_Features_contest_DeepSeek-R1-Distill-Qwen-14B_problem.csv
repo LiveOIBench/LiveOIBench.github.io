@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Distinctive_Features_DeepSeek-R1-Distill-Qwen-14B_0.cpp,TIME_LIMIT_EXCEEDED,30,53.36%,3.350,43.578125,0.0,10.0,7.0,13.0,0,0,0,0,0,0
+Distinctive_Features_DeepSeek-R1-Distill-Qwen-14B_1.cpp,TIME_LIMIT_EXCEEDED,30,53.36%,3.380,43.578125,0.0,10.0,7.0,13.0,0,0,0,0,0,0
+Distinctive_Features_DeepSeek-R1-Distill-Qwen-14B_2.cpp,TIME_LIMIT_EXCEEDED,30,53.36%,3.410,50.58984375,0.0,10.0,7.0,13.0,0,0,0,0,0,0
+Distinctive_Features_DeepSeek-R1-Distill-Qwen-14B_3.cpp,TIME_LIMIT_EXCEEDED,30,52.78%,3.340,56.46484375,0.0,10.0,7.0,13.0,0,0,0,0,0,0
+Distinctive_Features_DeepSeek-R1-Distill-Qwen-14B_4.cpp,TIME_LIMIT_EXCEEDED,30,53.36%,3.340,104.2109375,0.0,10.0,7.0,13.0,0,0,0,0,0,0
+Distinctive_Features_DeepSeek-R1-Distill-Qwen-14B_5.cpp,RUNTIME_ERROR,0,0.00%,1.200,47.4453125,0,0,0,0,0,0,0,0,0,0
+Distinctive_Features_DeepSeek-R1-Distill-Qwen-14B_6.cpp,TIME_LIMIT_EXCEEDED,30,53.36%,3.400,43.58203125,0.0,10.0,7.0,13.0,0,0,0,0,0,0
+Distinctive_Features_DeepSeek-R1-Distill-Qwen-14B_7.cpp,TIME_LIMIT_EXCEEDED,30,53.36%,3.410,43.58203125,0.0,10.0,7.0,13.0,0,0,0,0,0,0

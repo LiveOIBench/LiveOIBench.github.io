@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_The_Best_Lineup,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Vocabulary_Quiz,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Transforming_Pairs,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0

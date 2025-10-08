@@ -1,0 +1,5 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+sequence,TIME_LIMIT_EXCEEDED,0,16.85%,1.800,46.78515625,,0,0,0,0,0,0,0,0,0
+abc,RUNTIME_ERROR,4,16.00%,0.170,13.3203125,,4,0,0,0,0,0,0,0,0
+cyberland,MEMORY_LIMIT_EXCEEDED,20,24.39%,0.780,2445.09765625,,0,5,8,0,0,7,0,0,0
+TOTAL,,24,19.08%,,,0.00%,,,,,,,,,

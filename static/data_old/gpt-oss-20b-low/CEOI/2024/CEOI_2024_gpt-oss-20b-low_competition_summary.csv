@@ -1,0 +1,8 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+covid,RUNTIME_ERROR,10,66.67%,1.470,1.5390625,,0,10,0,0,0,0,0,0
+battle,RUNTIME_ERROR,36,55.97%,0.130,56.83203125,,0,6,0,0,0,0,30,0
+editor,RUNTIME_ERROR,0,12.90%,0.130,154.18359375,,0,0,0,0,0,0,0,0
+toy,RUNTIME_ERROR,0,45.63%,0.010,2.3203125,,0,0,0,0,0,0,0,0
+stations,RUNTIME_ERROR,0,4.55%,0.010,0.00390625,,0,0,0,0,0,0,0,0
+sprinklers,RUNTIME_ERROR,0,3.33%,0.010,2.328125,,0,0,0,0,0,0,0,0
+TOTAL,,46,31.51%,,,0.00%,,,,,,,,

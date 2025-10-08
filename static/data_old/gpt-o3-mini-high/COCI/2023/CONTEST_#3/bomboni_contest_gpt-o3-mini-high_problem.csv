@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+bomboni_gpt-o3-mini-high_0.cpp,ACCEPTED,110,100.00%,0.280,244.671875,13,17,33,47
+bomboni_gpt-o3-mini-high_1.cpp,ACCEPTED,110,100.00%,0.380,258.82421875,13,17,33,47
+bomboni_gpt-o3-mini-high_2.cpp,ACCEPTED,110,100.00%,0.240,236.9375,13,17,33,47
+bomboni_gpt-o3-mini-high_3.cpp,ACCEPTED,110,100.00%,0.290,244.671875,13,17,33,47
+bomboni_gpt-o3-mini-high_4.cpp,ACCEPTED,110,100.00%,1.630,438.9140625,13,17,33,47
+bomboni_gpt-o3-mini-high_5.cpp,ACCEPTED,110,100.00%,0.360,247.3046875,13,17,33,47
+bomboni_gpt-o3-mini-high_6.cpp,ACCEPTED,110,100.00%,0.350,471.54296875,13,17,33,47
+bomboni_gpt-o3-mini-high_7.cpp,ACCEPTED,110,100.00%,0.200,3.35546875,13,17,33,47

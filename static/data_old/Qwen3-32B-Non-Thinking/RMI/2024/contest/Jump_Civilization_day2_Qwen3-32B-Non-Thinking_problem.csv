@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+Jump_Civilization_Qwen3-32B-Non-Thinking_0.cpp,RUNTIME_ERROR,0,5.88%,0.080,27.0859375,0,0,0,0,0,0
+Jump_Civilization_Qwen3-32B-Non-Thinking_1.cpp,RUNTIME_ERROR,0,0.00%,0.080,26.11328125,0,0,0,0,0,0
+Jump_Civilization_Qwen3-32B-Non-Thinking_2.cpp,RUNTIME_ERROR,0,0.00%,0.100,4.6484375,0,0,0,0,0,0
+Jump_Civilization_Qwen3-32B-Non-Thinking_3.cpp,RUNTIME_ERROR,0,0.00%,0.070,4.59375,0,0,0,0,0,0
+Jump_Civilization_Qwen3-32B-Non-Thinking_4.cpp,RUNTIME_ERROR,0,0.00%,0.070,3.67578125,0,0,0,0,0,0
+Jump_Civilization_Qwen3-32B-Non-Thinking_5.cpp,RUNTIME_ERROR,0,0.00%,0.090,4.703125,0,0,0,0,0,0
+Jump_Civilization_Qwen3-32B-Non-Thinking_6.cpp,RUNTIME_ERROR,0,0.00%,0.070,4.64453125,0,0,0,0,0,0
+Jump_Civilization_Qwen3-32B-Non-Thinking_7.cpp,TIME_LIMIT_EXCEEDED,0,9.80%,1.120,5.6796875,0,0,0,0,0,0

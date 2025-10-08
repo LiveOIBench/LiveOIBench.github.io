@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+More_Gifts,Codestral-22B-v0.1,TIME_LIMIT_EXCEEDED,30,63.83%,1.110,0.00390625
+Big_Persimmon,Codestral-22B-v0.1,RUNTIME_ERROR,12,17.74%,0.080,0
+Evidence_Board,Codestral-22B-v0.1,UNKNOWN,0,0.00%,0.000,0
+Draw_Polygon_Lines,Codestral-22B-v0.1,TIME_LIMIT_EXCEEDED,18,14.74%,2.250,4.7578125

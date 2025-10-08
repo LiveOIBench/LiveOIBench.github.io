@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+chairgame,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,0.00%,0.140,0.00390625
+thinice,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,22.03%,0.130,3.6171875
+animeshops,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,0.00%,0.150,6.19140625

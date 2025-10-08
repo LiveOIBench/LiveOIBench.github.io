@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Triples_of_Cows_gpt-5_0.cpp,WRONG_ANSWER,0,10.00%,0.070,16.8671875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Triples_of_Cows_gpt-5_1.cpp,WRONG_ANSWER,137,50.00%,1.870,4.90625,0,19.6078431372549,0,0,0,0,0,0,0,0,19.6078431372549,19.6078431372549,19.6078431372549,19.6078431372549,19.6078431372549,19.6078431372549,0,0
+platinum_Triples_of_Cows_gpt-5_2.cpp,WRONG_ANSWER,0,10.00%,0.150,17.38671875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Triples_of_Cows_gpt-5_3.cpp,WRONG_ANSWER,0,10.00%,0.170,18.40625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Triples_of_Cows_gpt-5_4.cpp,WRONG_ANSWER,0,10.00%,0.180,16.8671875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Triples_of_Cows_gpt-5_5.cpp,WRONG_ANSWER,0,10.00%,0.170,16.62109375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Triples_of_Cows_gpt-5_6.cpp,TIME_LIMIT_EXCEEDED,78,35.00%,2.450,4.6484375,0,19.6078431372549,0,0,0,0,0,0,0,0,19.6078431372549,0,0,19.6078431372549,19.6078431372549,0,0,0
+platinum_Triples_of_Cows_gpt-5_7.cpp,MEMORY_LIMIT_EXCEEDED,137,50.00%,0.730,289.94921875,0,19.6078431372549,0,0,0,0,0,0,0,0,19.6078431372549,19.6078431372549,19.6078431372549,19.6078431372549,19.6078431372549,19.6078431372549,0,0

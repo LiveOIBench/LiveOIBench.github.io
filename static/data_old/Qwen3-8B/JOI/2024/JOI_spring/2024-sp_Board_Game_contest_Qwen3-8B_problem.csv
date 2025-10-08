@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+2024-sp_Board_Game_Qwen3-8B_0.cpp,TIME_LIMIT_EXCEEDED,0,2.56%,4.810,849.12890625,0,0,0,0,0,0,0,0
+2024-sp_Board_Game_Qwen3-8B_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+2024-sp_Board_Game_Qwen3-8B_2.cpp,RUNTIME_ERROR,0,0.00%,0.750,2.83203125,0,0,0,0,0,0,0,0
+2024-sp_Board_Game_Qwen3-8B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+2024-sp_Board_Game_Qwen3-8B_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+2024-sp_Board_Game_Qwen3-8B_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+2024-sp_Board_Game_Qwen3-8B_6.cpp,RUNTIME_ERROR,3,8.07%,0.070,4.640625,3,0,0,0,0,0,0,0
+2024-sp_Board_Game_Qwen3-8B_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.820,2.46484375,0,0,0,0,0,0,0,0

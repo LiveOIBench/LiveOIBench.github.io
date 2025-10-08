@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Bovine_Acrobatics_Qwen2.5-Coder-14B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.340,2.84765625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Bovine_Acrobatics_Qwen2.5-Coder-14B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.270,7.484375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Bovine_Acrobatics_Qwen2.5-Coder-14B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.380,5.94140625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Bovine_Acrobatics_Qwen2.5-Coder-14B-Instruct_3.cpp,RUNTIME_ERROR,44,11.76%,0.170,4.65234375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22.22222222222222,22.22222222222222
+silver_Bovine_Acrobatics_Qwen2.5-Coder-14B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.470,5.94140625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Bovine_Acrobatics_Qwen2.5-Coder-14B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.290,5.1640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Bovine_Acrobatics_Qwen2.5-Coder-14B-Instruct_6.cpp,RUNTIME_ERROR,89,23.53%,0.210,2.84765625,0,0,22.22222222222222,0,0,0,0,0,22.22222222222222,0,0,0,0,0,22.22222222222222,22.22222222222222
+silver_Bovine_Acrobatics_Qwen2.5-Coder-14B-Instruct_7.cpp,RUNTIME_ERROR,44,11.76%,0.140,7.484375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22.22222222222222,22.22222222222222

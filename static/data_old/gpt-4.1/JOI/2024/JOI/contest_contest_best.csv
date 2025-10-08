@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+2024-ho-t1_Room_Temperature,gpt-4.1,MEMORY_LIMIT_EXCEEDED,0,32.26%,0.540,436.91796875
+2024-ho-t2_Construction_Project_2,gpt-4.1,TIME_LIMIT_EXCEEDED,53,72.73%,2.280,45.59765625
+2024-ho-t3_Marathon_Race_2,gpt-4.1,TIME_LIMIT_EXCEEDED,14,77.46%,1.740,0.00390625
+2024-ho-t4_Gift_Exchange,gpt-4.1,TIME_LIMIT_EXCEEDED,0,52.43%,2.980,3.90234375
+2024-ho-t5_Road_Service_2,gpt-4.1,COMPILATION_ERROR,0,0.00%,0.000,0

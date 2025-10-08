@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+icecreammachines,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,7,46.23%,0.000,0
+chatnoi,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,42.33%,0.140,0.00390625
+islandalliances,Mistral-Small-3.1-24B-2503,ACCEPTED,100,100.00%,3.400,10.8359375

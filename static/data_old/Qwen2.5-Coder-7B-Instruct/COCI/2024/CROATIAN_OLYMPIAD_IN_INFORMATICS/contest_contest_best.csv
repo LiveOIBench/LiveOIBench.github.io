@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+cern,Qwen2.5-Coder-7B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+koreografija,Qwen2.5-Coder-7B-Instruct,UNKNOWN,0,0.00%,0.000,0
+ministarstvo,Qwen2.5-Coder-7B-Instruct,TIME_LIMIT_EXCEEDED,0,1.75%,1.110,9.03515625
+sirologija,Qwen2.5-Coder-7B-Instruct,RUNTIME_ERROR,0,0.00%,0.100,5.16796875

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+dev_gpt-5_0.cpp,RUNTIME_ERROR,0,1.10%,0.030,1.5546875,0,0,0,0,0,0,0
+dev_gpt-5_1.cpp,RUNTIME_ERROR,0,1.10%,0.030,1.55859375,0,0,0,0,0,0,0
+dev_gpt-5_2.cpp,RUNTIME_ERROR,0,1.10%,0.030,1.55078125,0,0,0,0,0,0,0
+dev_gpt-5_3.cpp,RUNTIME_ERROR,0,1.10%,0.040,1.69921875,0,0,0,0,0,0,0
+dev_gpt-5_4.cpp,TIME_LIMIT_EXCEEDED,0,4.40%,2.420,4.390625,0,0,0,0,0,0,0
+dev_gpt-5_5.cpp,RUNTIME_ERROR,0,1.10%,0.030,1.60546875,0,0,0,0,0,0,0
+dev_gpt-5_6.cpp,RUNTIME_ERROR,0,1.10%,0.030,1.55078125,0,0,0,0,0,0,0
+dev_gpt-5_7.cpp,RUNTIME_ERROR,0,1.10%,0.030,1.5546875,0,0,0,0,0,0,0

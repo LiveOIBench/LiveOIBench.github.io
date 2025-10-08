@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+boi,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0
+tou,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,0,2.59%,2.210,272.6328125
+tow,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,0,16.67%,3.010,10.82421875

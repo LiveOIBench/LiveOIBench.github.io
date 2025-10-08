@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+cern,Qwen3-32B,RUNTIME_ERROR,0,17.86%,1.020,12.9609375
+koreografija,Qwen3-32B,UNKNOWN,0,0.00%,0.000,0
+ministarstvo,Qwen3-32B,RUNTIME_ERROR,0,1.75%,0.190,9.02734375
+sirologija,Qwen3-32B,RUNTIME_ERROR,0,0.00%,0.070,5.16796875

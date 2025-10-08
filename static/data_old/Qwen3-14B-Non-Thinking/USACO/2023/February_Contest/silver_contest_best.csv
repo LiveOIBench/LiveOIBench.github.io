@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bakery,Qwen3-14B-Non-Thinking,TIME_LIMIT_EXCEEDED,100,36.36%,2.330,0.00390625
+silver_Cow-libi,Qwen3-14B-Non-Thinking,WRONG_ANSWER,0,9.09%,0.240,3.62109375
+silver_Moo_Route_II,Qwen3-14B-Non-Thinking,RUNTIME_ERROR,130,35.00%,0.210,15.21875

@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+pahuljice,Mistral-Small-3.1-24B-2503,ACCEPTED,50,100.00%,0.000,0
+pingvin,Mistral-Small-3.1-24B-2503,ACCEPTED,70,100.00%,0.090,3.87109375
+dizalo,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0
+kuglice,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,5.41%,0.000,0
+zatopljenje,Mistral-Small-3.1-24B-2503,TIME_LIMIT_EXCEEDED,10,42.50%,2.220,2.07421875

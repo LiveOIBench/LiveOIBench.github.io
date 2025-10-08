@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+cern,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+koreografija,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+ministarstvo,Codestral-22B-v0.1,RUNTIME_ERROR,0,1.75%,0.240,255.27734375
+sirologija,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0

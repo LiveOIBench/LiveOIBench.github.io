@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bessies_Interview,Qwen3-14B-Non-Thinking,WRONG_ANSWER,33,9.52%,0.160,4.66015625
+silver_Painting_Fence_Posts,Qwen3-14B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_The_Winning_Gene,Qwen3-14B-Non-Thinking,TIME_LIMIT_EXCEEDED,67,25.00%,2.220,1.55078125

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+circlepassing_gemini-2.5-pro_0.cpp,TIME_LIMIT_EXCEEDED,56,77.70%,2.210,54.890625,0,14,20,22,0,0
+circlepassing_gemini-2.5-pro_1.cpp,ACCEPTED,100,100.00%,0.830,69.96875,0,14,20,22,17,27
+circlepassing_gemini-2.5-pro_2.cpp,TIME_LIMIT_EXCEEDED,56,77.70%,2.210,158.94921875,0,14,20,22,0,0
+circlepassing_gemini-2.5-pro_3.cpp,TIME_LIMIT_EXCEEDED,56,77.70%,2.230,124.26171875,0,14,20,22,0,0
+circlepassing_gemini-2.5-pro_4.cpp,ACCEPTED,100,100.00%,1.990,96.68359375,0,14,20,22,17,27
+circlepassing_gemini-2.5-pro_5.cpp,RUNTIME_ERROR,14,50.94%,0.100,0.00390625,0,14,0,0,0,0
+circlepassing_gemini-2.5-pro_6.cpp,RUNTIME_ERROR,14,50.94%,0.090,0.00390625,0,14,0,0,0,0
+circlepassing_gemini-2.5-pro_7.cpp,TIME_LIMIT_EXCEEDED,56,77.70%,2.210,102.703125,0,14,20,22,0,0

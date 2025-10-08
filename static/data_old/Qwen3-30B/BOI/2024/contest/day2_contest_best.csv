@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+fire,Qwen3-30B,ACCEPTED,100,100.00%,0.150,4.6484375
+tiles,Qwen3-30B,RUNTIME_ERROR,4,12.26%,0.090,2.84765625
+wall,Qwen3-30B,RUNTIME_ERROR,0,14.46%,0.020,0

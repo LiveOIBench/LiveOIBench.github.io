@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Card_Flip,gemini-2.5-pro,RUNTIME_ERROR,19,43.70%,0.720,33.77734375
+Order_Statistics,gemini-2.5-pro,RUNTIME_ERROR,59,92.14%,0.640,46.28125
+Best_Runner,gemini-2.5-pro,RUNTIME_ERROR,60,52.82%,0.330,117.1171875
+Strong_Connectivity_Strikes_Back,gemini-2.5-pro,ACCEPTED,100,100.00%,0.110,1.8125

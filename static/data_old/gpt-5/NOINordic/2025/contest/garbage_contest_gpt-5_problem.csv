@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+garbage_gpt-5_0.cpp,ACCEPTED,100,100.00%,0.260,21.95703125,10,12,15,22,23,18
+garbage_gpt-5_1.cpp,RUNTIME_ERROR,0,26.03%,0.250,18.09375,0,0,0,0,0,0
+garbage_gpt-5_2.cpp,ACCEPTED,100,100.00%,0.270,18.6796875,10,12,15,22,23,18
+garbage_gpt-5_3.cpp,RUNTIME_ERROR,0,26.03%,0.220,12.41796875,0,0,0,0,0,0
+garbage_gpt-5_4.cpp,RUNTIME_ERROR,22,46.58%,0.240,13.265625,0,0,0,22,0,0
+garbage_gpt-5_5.cpp,RUNTIME_ERROR,0,26.03%,0.250,23.57421875,0,0,0,0,0,0
+garbage_gpt-5_6.cpp,RUNTIME_ERROR,0,26.03%,0.260,22.03125,0,0,0,0,0,0
+garbage_gpt-5_7.cpp,RUNTIME_ERROR,0,26.03%,0.270,26.671875,0,0,0,0,0,0

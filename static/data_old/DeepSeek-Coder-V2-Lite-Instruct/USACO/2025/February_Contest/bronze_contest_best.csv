@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Reflection,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Making_Mexes,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Printing_Sequences,DeepSeek-Coder-V2-Lite-Instruct,WRONG_ANSWER,30,15.38%,0.100,0.00390625

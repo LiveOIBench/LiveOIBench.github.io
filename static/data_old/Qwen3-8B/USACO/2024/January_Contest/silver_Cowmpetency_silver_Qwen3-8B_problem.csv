@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Cowmpetency_Qwen3-8B_0.cpp,WRONG_ANSWER,0,8.33%,0.060,5.42578125,0,0,0,0,0,0,0,0,0,0,0
+silver_Cowmpetency_Qwen3-8B_1.cpp,WRONG_ANSWER,0,8.33%,0.070,3.671875,0,0,0,0,0,0,0,0,0,0,0
+silver_Cowmpetency_Qwen3-8B_2.cpp,WRONG_ANSWER,0,8.33%,0.100,2.609375,0,0,0,0,0,0,0,0,0,0,0
+silver_Cowmpetency_Qwen3-8B_3.cpp,WRONG_ANSWER,0,8.33%,0.060,2.63671875,0,0,0,0,0,0,0,0,0,0,0
+silver_Cowmpetency_Qwen3-8B_5.cpp,TIME_LIMIT_EXCEEDED,0,8.33%,2.430,2.80078125,0,0,0,0,0,0,0,0,0,0,0
+silver_Cowmpetency_Qwen3-8B_6.cpp,WRONG_ANSWER,0,8.33%,0.090,4.23046875,0,0,0,0,0,0,0,0,0,0,0
+silver_Cowmpetency_Qwen3-8B_7.cpp,WRONG_ANSWER,0,8.33%,0.060,3.390625,0,0,0,0,0,0,0,0,0,0,0

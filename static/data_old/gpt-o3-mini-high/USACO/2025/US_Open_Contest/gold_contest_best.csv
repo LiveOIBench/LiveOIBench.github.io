@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Moo_Decomposition,gpt-o3-mini-high,ACCEPTED,333,100.00%,0.040,2.36328125
+gold_Election_Queries,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,26,6.67%,3.360,29.07421875
+gold_OohMoo_Milk,gpt-o3-mini-high,ACCEPTED,333,100.00%,0.060,4.140625

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cake_Game,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Deforestation,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_2D_Conveyor_Belt,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0

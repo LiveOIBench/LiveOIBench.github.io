@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+ppp_gemini-2.5-pro_0.cpp,RUNTIME_ERROR,20,21.43%,0.430,118.59765625,0,0,0,0,20,0,0
+ppp_gemini-2.5-pro_1.cpp,RUNTIME_ERROR,20,21.43%,0.240,58.765625,0,0,0,0,20,0,0
+ppp_gemini-2.5-pro_2.cpp,RUNTIME_ERROR,0,1.43%,0.130,37.1328125,0,0,0,0,0,0,0
+ppp_gemini-2.5-pro_3.cpp,TIME_LIMIT_EXCEEDED,20,24.29%,3.310,116.5390625,0,0,0,0,20,0,0
+ppp_gemini-2.5-pro_4.cpp,TIME_LIMIT_EXCEEDED,36,45.21%,3.340,119.38671875,0,0,16,0,20,0,0
+ppp_gemini-2.5-pro_5.cpp,MEMORY_LIMIT_EXCEEDED,36,45.21%,0.520,466.44921875,0,0,16,0,20,0,0
+ppp_gemini-2.5-pro_6.cpp,MEMORY_LIMIT_EXCEEDED,36,45.21%,2.780,905.1875,0,0,16,0,20,0,0
+ppp_gemini-2.5-pro_7.cpp,MEMORY_LIMIT_EXCEEDED,36,45.21%,0.970,904.15625,0,0,16,0,20,0,0

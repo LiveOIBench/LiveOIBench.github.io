@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+bikesvscars,Mistral-Large-Instruct-2411,UNKNOWN,0,0.00%,0.000,0
+ppp,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0
+findthebox,Mistral-Large-Instruct-2411,RUNTIME_ERROR,0,0.00%,0.070,0
+inflation,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,14,42.62%,3.370,35.32421875

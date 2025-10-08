@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Evidence_Board_gemini-2.5-pro_0.cpp,RUNTIME_ERROR,0,0.00%,0.150,21.9609375,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_gemini-2.5-pro_1.cpp,MEMORY_LIMIT_EXCEEDED,7,51.96%,0.940,226.19921875,0.0,0,0,0,0,0,7.0,0,0,0
+Evidence_Board_gemini-2.5-pro_2.cpp,MEMORY_LIMIT_EXCEEDED,7,51.96%,1.080,226.17578125,0.0,0,0,0,0,0,7.0,0,0,0
+Evidence_Board_gemini-2.5-pro_3.cpp,RUNTIME_ERROR,0,5.88%,0.260,44.60546875,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_gemini-2.5-pro_4.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.490,380.91015625,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_gemini-2.5-pro_5.cpp,RUNTIME_ERROR,7,8.09%,0.280,29.39453125,0,0,0,0,0,0,7.0,0,0,0
+Evidence_Board_gemini-2.5-pro_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.210,380.91015625,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_gemini-2.5-pro_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.480,380.7890625,0,0,0,0,0,0,0,0,0,0

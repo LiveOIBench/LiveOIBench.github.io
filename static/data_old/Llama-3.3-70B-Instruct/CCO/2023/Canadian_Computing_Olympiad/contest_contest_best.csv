@@ -1,0 +1,7 @@
+problem,model,status,score,%test passed,time,memory
+d1p1,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,2.86%,0.100,5.16796875
+d1p2,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,0,1.90%,5.510,5.109375
+d1p3,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,4.81%,0.100,8.0859375
+d2p1,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,16.07%,0.040,1.609375
+d2p2,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,3.12%,0.170,13.98046875
+d2p3,Llama-3.3-70B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

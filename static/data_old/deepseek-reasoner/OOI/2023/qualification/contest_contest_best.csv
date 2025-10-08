@@ -1,0 +1,10 @@
+problem,model,status,score,%test passed,time,memory
+Paired_roads,deepseek-reasoner,RUNTIME_ERROR,0,12.60%,0.090,22.70703125
+Legs_warm-up_exercise,deepseek-reasoner,RUNTIME_ERROR,0,2.05%,0.040,2.07421875
+Hard_problem,deepseek-reasoner,ACCEPTED,100,100.00%,0.110,2.07421875
+Yet_another_queries,deepseek-reasoner,TIME_LIMIT_EXCEEDED,67,79.87%,1.660,37.62109375
+Lunch,deepseek-reasoner,RUNTIME_ERROR,0,16.84%,0.020,0
+Tournament,deepseek-reasoner,MEMORY_LIMIT_EXCEEDED,80,97.15%,0.040,0.00390625
+You_need_to_train_more,deepseek-reasoner,ACCEPTED,100,100.00%,0.060,2.84375
+Colorful_graph,deepseek-reasoner,ACCEPTED,100,100.00%,0.070,4.13671875
+Space_accident,deepseek-reasoner,RUNTIME_ERROR,25,71.13%,0.050,2.88671875

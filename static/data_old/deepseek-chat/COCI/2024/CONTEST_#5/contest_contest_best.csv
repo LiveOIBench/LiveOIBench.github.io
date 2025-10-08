@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+zlagalica,deepseek-chat,ACCEPTED,50,100.00%,0.030,0
+bitovi,deepseek-chat,COMPILATION_ERROR,0,0.00%,0.000,0
+piratski,deepseek-chat,WRONG_ANSWER,0,0.00%,0.030,1.55859375
+rolete,deepseek-chat,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,2.84375
+trokut,deepseek-chat,RUNTIME_ERROR,0,0.00%,0.030,0.00390625

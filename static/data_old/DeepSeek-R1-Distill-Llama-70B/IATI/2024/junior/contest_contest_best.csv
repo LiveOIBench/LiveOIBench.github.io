@@ -1,0 +1,7 @@
+problem,model,status,score,%test passed,time,memory
+aquarelle,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,42.15%,0.120,0
+parentheses,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,3.10%,0.340,6.46484375
+tolls,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,100,100.00%,0.210,14.32421875
+twins,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,40,35.88%,0.130,2.44921875
+walk,DeepSeek-R1-Distill-Llama-70B,COMPILATION_ERROR,0,0.00%,0.000,0
+xy,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,2.86%,0.160,3.1171875

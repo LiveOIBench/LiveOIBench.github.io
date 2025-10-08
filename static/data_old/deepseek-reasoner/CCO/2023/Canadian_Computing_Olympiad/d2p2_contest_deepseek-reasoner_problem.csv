@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+d2p2_deepseek-reasoner_0.cpp,RUNTIME_ERROR,2,10.16%,0.190,33.65625,2,0,0,0,0,0
+d2p2_deepseek-reasoner_1.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0
+d2p2_deepseek-reasoner_2.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,1.140,538.5390625,0,0,0,0,0,0
+d2p2_deepseek-reasoner_3.cpp,TIME_LIMIT_EXCEEDED,0,1.56%,2.210,5.515625,0,0,0,0,0,0
+d2p2_deepseek-reasoner_4.cpp,RUNTIME_ERROR,2,9.38%,0.130,16.75,2,0,0,0,0,0
+d2p2_deepseek-reasoner_5.cpp,RUNTIME_ERROR,2,9.38%,0.110,16.2421875,2,0,0,0,0,0
+d2p2_deepseek-reasoner_6.cpp,RUNTIME_ERROR,2,8.59%,0.120,17.5234375,2,0,0,0,0,0
+d2p2_deepseek-reasoner_7.cpp,RUNTIME_ERROR,2,9.38%,0.160,45.86328125,2,0,0,0,0,0

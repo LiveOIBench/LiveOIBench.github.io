@@ -1,0 +1,10 @@
+problem,model,status,score,%test passed,time,memory
+Paired_roads,gpt-4.1,RUNTIME_ERROR,0,12.60%,0.150,30.25
+Legs_warm-up_exercise,gpt-4.1,UNKNOWN,0,0.00%,0.000,0
+Hard_problem,gpt-4.1,ACCEPTED,100,100.00%,0.170,10.8828125
+Yet_another_queries,gpt-4.1,TIME_LIMIT_EXCEEDED,19,33.33%,1.660,73.671875
+Lunch,gpt-4.1,RUNTIME_ERROR,16,26.80%,0.020,1.921875
+Tournament,gpt-4.1,RUNTIME_ERROR,80,97.15%,0.000,0
+You_need_to_train_more,gpt-4.1,RUNTIME_ERROR,74,80.77%,0.440,4.390625
+Colorful_graph,gpt-4.1,MEMORY_LIMIT_EXCEEDED,0,14.38%,0.190,249.59765625
+Space_accident,gpt-4.1,RUNTIME_ERROR,49,74.23%,0.100,2.07421875

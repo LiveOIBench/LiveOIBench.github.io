@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+2023-sp_Passport_seed-oss_0.cpp,RUNTIME_ERROR,6,62.35%,0.060,17.02734375,6,0,0,0,0
+2023-sp_Passport_seed-oss_1.cpp,RUNTIME_ERROR,6,43.28%,0.050,34.19921875,6,0,0,0,0
+2023-sp_Passport_seed-oss_2.cpp,RUNTIME_ERROR,6,62.35%,0.090,66.29296875,6,0,0,0,0
+2023-sp_Passport_seed-oss_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+2023-sp_Passport_seed-oss_4.cpp,RUNTIME_ERROR,6,62.35%,0.070,33.26953125,6,0,0,0,0
+2023-sp_Passport_seed-oss_5.cpp,RUNTIME_ERROR,6,47.14%,0.050,34.05078125,6,0,0,0,0
+2023-sp_Passport_seed-oss_6.cpp,RUNTIME_ERROR,6,47.14%,0.050,9.09375,6,0,0,0,0
+2023-sp_Passport_seed-oss_7.cpp,RUNTIME_ERROR,6,43.28%,0.060,31.9921875,6,0,0,0,0

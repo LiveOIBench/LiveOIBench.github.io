@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+d1p1_gemini-2.5-flash_0.cpp,ACCEPTED,25,100.00%,0.080,9.03125,3,3,4,4,4,7
+d1p1_gemini-2.5-flash_1.cpp,ACCEPTED,25,100.00%,0.110,16.51171875,3,3,4,4,4,7
+d1p1_gemini-2.5-flash_2.cpp,RUNTIME_ERROR,18,84.29%,0.080,9.03125,3,3,4,4,4,0
+d1p1_gemini-2.5-flash_3.cpp,RUNTIME_ERROR,0,15.71%,0.080,20.6328125,0,0,0,0,0,0
+d1p1_gemini-2.5-flash_4.cpp,ACCEPTED,25,100.00%,0.080,13.6796875,3,3,4,4,4,7
+d1p1_gemini-2.5-flash_5.cpp,ACCEPTED,25,100.00%,0.080,16.51171875,3,3,4,4,4,7
+d1p1_gemini-2.5-flash_6.cpp,ACCEPTED,25,100.00%,0.100,20.3828125,3,3,4,4,4,7
+d1p1_gemini-2.5-flash_7.cpp,ACCEPTED,25,100.00%,0.080,16.5078125,3,3,4,4,4,7

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+fire,gpt-5,ACCEPTED,100,100.00%,0.140,45.7734375
+tiles,gpt-5,RUNTIME_ERROR,24,83.51%,0.150,22.52734375
+wall,gpt-5,ACCEPTED,100,100.00%,0.610,55.4375

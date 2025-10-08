@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Island_Vacation,seed-oss_-1,RUNTIME_ERROR,17,8.70%,0.250,252.15234375
+platinum_Merging_Cells,seed-oss_-1,TIME_LIMIT_EXCEEDED,100,36.36%,2.410,497.3671875
+platinum_Mooball_Teams_III,seed-oss_-1,ACCEPTED,333,100.00%,0.370,22.859375

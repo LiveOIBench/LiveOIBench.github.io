@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+bouquet,DeepSeek-R1-Distill-Qwen-14B,RUNTIME_ERROR,0,46.05%,0.180,6.70703125
+infiniterace,DeepSeek-R1-Distill-Qwen-14B,RUNTIME_ERROR,0,12.00%,0.080,0.00390625
+teamcoding,DeepSeek-R1-Distill-Qwen-14B,COMPILATION_ERROR,0,0.00%,0.000,0
+gardendecorations,DeepSeek-R1-Distill-Qwen-14B,RUNTIME_ERROR,0,11.54%,0.080,0

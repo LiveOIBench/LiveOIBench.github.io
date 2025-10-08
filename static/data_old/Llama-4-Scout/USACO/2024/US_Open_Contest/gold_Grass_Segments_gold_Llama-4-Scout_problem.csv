@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Grass_Segments_Llama-4-Scout_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Grass_Segments_Llama-4-Scout_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Grass_Segments_Llama-4-Scout_2.cpp,TIME_LIMIT_EXCEEDED,39,25.00%,2.420,4.37890625,0,19.6078431372549,0,0,0,0,0,0,0,0,19.6078431372549,0,0,0,0,0,0,0
+gold_Grass_Segments_Llama-4-Scout_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Grass_Segments_Llama-4-Scout_4.cpp,TIME_LIMIT_EXCEEDED,39,25.00%,2.420,5.1640625,0,19.6078431372549,0,0,0,0,0,0,0,0,19.6078431372549,0,0,0,0,0,0,0
+gold_Grass_Segments_Llama-4-Scout_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Grass_Segments_Llama-4-Scout_6.cpp,TIME_LIMIT_EXCEEDED,39,25.00%,2.420,4.39453125,0,19.6078431372549,0,0,0,0,0,0,0,0,19.6078431372549,0,0,0,0,0,0,0
+gold_Grass_Segments_Llama-4-Scout_7.cpp,TIME_LIMIT_EXCEEDED,39,25.00%,2.420,4.39453125,0,19.6078431372549,0,0,0,0,0,0,0,0,19.6078431372549,0,0,0,0,0,0,0

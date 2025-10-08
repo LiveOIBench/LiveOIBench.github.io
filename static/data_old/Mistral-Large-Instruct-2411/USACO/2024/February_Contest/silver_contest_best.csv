@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Target_Practice_II,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Test_Tubes,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Moorbles,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0

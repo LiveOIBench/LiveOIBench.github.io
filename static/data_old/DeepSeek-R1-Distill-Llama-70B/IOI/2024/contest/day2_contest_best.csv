@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+hieroglyphs,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,3,6.99%,0.080,22.3046875
+sphinx,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,10,49.52%,0.390,4.140625
+mosaic,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,22,64.86%,1.110,2236.796875

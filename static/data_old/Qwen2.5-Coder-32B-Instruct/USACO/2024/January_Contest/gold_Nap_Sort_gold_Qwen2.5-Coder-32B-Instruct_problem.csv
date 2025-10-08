@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Nap_Sort_Qwen2.5-Coder-32B-Instruct_0.cpp,WRONG_ANSWER,0,0.00%,0.130,2.84765625,0,0,0,0,0,0,0,0,0,0,0
+gold_Nap_Sort_Qwen2.5-Coder-32B-Instruct_1.cpp,WRONG_ANSWER,0,0.00%,0.130,2.84765625,0,0,0,0,0,0,0,0,0,0,0
+gold_Nap_Sort_Qwen2.5-Coder-32B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.330,4.39453125,0,0,0,0,0,0,0,0,0,0,0
+gold_Nap_Sort_Qwen2.5-Coder-32B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.330,2.84765625,0,0,0,0,0,0,0,0,0,0,0
+gold_Nap_Sort_Qwen2.5-Coder-32B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.280,2.84765625,0,0,0,0,0,0,0,0,0,0,0
+gold_Nap_Sort_Qwen2.5-Coder-32B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.360,3.109375,0,0,0,0,0,0,0,0,0,0,0
+gold_Nap_Sort_Qwen2.5-Coder-32B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.360,4.39453125,0,0,0,0,0,0,0,0,0,0,0
+gold_Nap_Sort_Qwen2.5-Coder-32B-Instruct_7.cpp,WRONG_ANSWER,0,0.00%,0.120,2.84765625,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,5 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0_1,subtask_0_2,subtask_0_3,subtask_1_1,subtask_2_1,subtask_3_1,subtask_4_1,subtask_5_1,subtask_6_1,subtask_7_1
+grading-server_gpt-oss-120b-high_1.cpp,RUNTIME_ERROR,0,0.00%,4.00%,0.090,0.00390625,0,0,0,0,0,0,0,0,0,0
+grading-server_gpt-oss-120b-high_2.cpp,RUNTIME_ERROR,0,0.00%,4.00%,0.090,0.00390625,0,0,0,0,0,0,0,0,0,0
+grading-server_gpt-oss-120b-high_5.cpp,RUNTIME_ERROR,0,0.00%,2.67%,0.090,0.00390625,0,0,0,0,0,0,0,0,0,0
+grading-server_gpt-oss-120b-high_6.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0

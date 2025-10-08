@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+eurokod,gpt-5,ACCEPTED,50,100.00%,0.000,0
+vrsar,gpt-5,ACCEPTED,70,100.00%,0.080,6.7109375
+milano,gpt-5,ACCEPTED,110,100.00%,0.040,4.39453125
+restorani,gpt-5,RUNTIME_ERROR,0,0.68%,0.090,27.23046875
+cesta,gpt-5,ACCEPTED,110,100.00%,0.560,123.55078125

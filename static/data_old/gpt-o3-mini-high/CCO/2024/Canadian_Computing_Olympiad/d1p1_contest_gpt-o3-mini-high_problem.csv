@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+d1p1_gpt-o3-mini-high_0.cpp,ACCEPTED,25,100.00%,1.330,107.765625,5,5,7,8
+d1p1_gpt-o3-mini-high_1.cpp,ACCEPTED,25,100.00%,1.390,107.765625,5,5,7,8
+d1p1_gpt-o3-mini-high_2.cpp,ACCEPTED,25,100.00%,1.350,107.765625,5,5,7,8
+d1p1_gpt-o3-mini-high_3.cpp,ACCEPTED,25,100.00%,1.320,107.765625,5,5,7,8
+d1p1_gpt-o3-mini-high_4.cpp,ACCEPTED,25,100.00%,1.330,107.76953125,5,5,7,8
+d1p1_gpt-o3-mini-high_5.cpp,ACCEPTED,25,100.00%,1.350,107.8515625,5,5,7,8
+d1p1_gpt-o3-mini-high_6.cpp,ACCEPTED,25,100.00%,1.310,107.76953125,5,5,7,8
+d1p1_gpt-o3-mini-high_7.cpp,ACCEPTED,25,100.00%,1.320,107.8515625,5,5,7,8

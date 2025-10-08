@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Flight_Routes,DeepSeek-R1-Distill-Qwen-32B,ACCEPTED,333,100.00%,0.180,5.6796875
+gold_Minimum_Longest_Trip,DeepSeek-R1-Distill-Qwen-32B,WRONG_ANSWER,0,20.00%,0.550,16.5546875
+gold_Haybale_Distribution,DeepSeek-R1-Distill-Qwen-32B,ACCEPTED,333,100.00%,0.350,4.39453125

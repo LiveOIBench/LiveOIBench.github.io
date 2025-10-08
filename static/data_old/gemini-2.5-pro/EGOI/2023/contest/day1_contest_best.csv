@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+bikesvscars,gemini-2.5-pro,ACCEPTED,100,100.00%,0.250,8.24609375
+ppp,gemini-2.5-pro,MEMORY_LIMIT_EXCEEDED,36,45.21%,0.520,466.44921875
+findthebox,gemini-2.5-pro,RUNTIME_ERROR,0,27.07%,0.110,0
+inflation,gemini-2.5-pro,ACCEPTED,100,100.00%,0.320,17.27734375

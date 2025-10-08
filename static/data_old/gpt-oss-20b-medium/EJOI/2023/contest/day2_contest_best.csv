@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+square_grid_puzzle,gpt-oss-20b-medium,RUNTIME_ERROR,0,0.00%,0.000,0
+team_building,gpt-oss-20b-medium,TIME_LIMIT_EXCEEDED,45,42.86%,1.210,2.0703125
+tree_infection,gpt-oss-20b-medium,RUNTIME_ERROR,15,16.67%,0.260,102.58984375

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+trade,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+incursion,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+avoid,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,6.67%,0.040,1.5390625

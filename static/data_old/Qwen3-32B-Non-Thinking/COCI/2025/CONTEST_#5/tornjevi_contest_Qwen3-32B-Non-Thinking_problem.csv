@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+tornjevi_Qwen3-32B-Non-Thinking_0.cpp,TIME_LIMIT_EXCEEDED,7,18.52%,2.220,31.98046875,7,0,0,0,0
+tornjevi_Qwen3-32B-Non-Thinking_1.cpp,TIME_LIMIT_EXCEEDED,61,79.63%,2.210,24.421875,7,11,17,0,26
+tornjevi_Qwen3-32B-Non-Thinking_2.cpp,TIME_LIMIT_EXCEEDED,61,79.63%,2.230,16.765625,7,11,17,0,26
+tornjevi_Qwen3-32B-Non-Thinking_3.cpp,RUNTIME_ERROR,7,18.52%,0.200,24.2421875,7,0,0,0,0
+tornjevi_Qwen3-32B-Non-Thinking_4.cpp,RUNTIME_ERROR,7,18.52%,0.150,105.19921875,7,0,0,0,0
+tornjevi_Qwen3-32B-Non-Thinking_5.cpp,MEMORY_LIMIT_EXCEEDED,7,18.52%,0.920,562.44140625,7,0,0,0,0
+tornjevi_Qwen3-32B-Non-Thinking_6.cpp,TIME_LIMIT_EXCEEDED,7,18.52%,2.220,9.03125,7,0,0,0,0
+tornjevi_Qwen3-32B-Non-Thinking_7.cpp,TIME_LIMIT_EXCEEDED,7,18.52%,2.210,543.89453125,7,0,0,0,0

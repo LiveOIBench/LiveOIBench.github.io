@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+bouquet_Qwen3-32B_0.cpp,RUNTIME_ERROR,0,4.09%,0.040,2.84765625,0,0,0,0,0,0
+bouquet_Qwen3-32B_1.cpp,RUNTIME_ERROR,0,4.09%,0.050,4.64453125,0,0,0,0,0,0
+bouquet_Qwen3-32B_2.cpp,RUNTIME_ERROR,0,3.51%,0.050,2.84765625,0,0,0,0,0,0
+bouquet_Qwen3-32B_3.cpp,RUNTIME_ERROR,0,46.05%,0.060,3.62109375,0,0,0,0,0,0
+bouquet_Qwen3-32B_4.cpp,RUNTIME_ERROR,0,20.42%,0.060,2.84765625,0,0,0,0,0,0
+bouquet_Qwen3-32B_5.cpp,RUNTIME_ERROR,0,4.09%,0.050,4.39453125,0,0,0,0,0,0
+bouquet_Qwen3-32B_6.cpp,RUNTIME_ERROR,0,4.09%,0.050,2.84765625,0,0,0,0,0,0
+bouquet_Qwen3-32B_7.cpp,RUNTIME_ERROR,0,4.09%,0.060,4.39453125,0,0,0,0,0,0

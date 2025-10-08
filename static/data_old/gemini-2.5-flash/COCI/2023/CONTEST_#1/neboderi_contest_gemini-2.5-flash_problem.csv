@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+neboderi_gemini-2.5-flash_0.cpp,RUNTIME_ERROR,0,0.00%,1.110,309.70703125,0,0,0,0,0
+neboderi_gemini-2.5-flash_1.cpp,ACCEPTED,110,100.00%,1.580,325.69140625,11,22,27,18,32
+neboderi_gemini-2.5-flash_2.cpp,RUNTIME_ERROR,0,0.00%,0.090,20.95703125,0,0,0,0,0
+neboderi_gemini-2.5-flash_3.cpp,ACCEPTED,110,100.00%,0.550,12.8984375,11,22,27,18,32
+neboderi_gemini-2.5-flash_4.cpp,ACCEPTED,110,100.00%,1.170,92.8828125,11,22,27,18,32
+neboderi_gemini-2.5-flash_5.cpp,ACCEPTED,110,100.00%,0.270,16.51171875,11,22,27,18,32
+neboderi_gemini-2.5-flash_6.cpp,ACCEPTED,110,100.00%,1.280,165.07421875,11,22,27,18,32
+neboderi_gemini-2.5-flash_7.cpp,ACCEPTED,110,100.00%,1.140,92.8828125,11,22,27,18,32

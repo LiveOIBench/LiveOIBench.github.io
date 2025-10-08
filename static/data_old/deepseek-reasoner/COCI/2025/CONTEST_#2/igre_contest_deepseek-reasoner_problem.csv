@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+igre_deepseek-reasoner_0.cpp,RUNTIME_ERROR,29,44.90%,0.060,1.55859375,6,0,23,0
+igre_deepseek-reasoner_1.cpp,RUNTIME_ERROR,6,12.24%,0.080,0.00390625,6,0,0,0
+igre_deepseek-reasoner_2.cpp,RUNTIME_ERROR,6,59.18%,0.110,0.00390625,6,0,0,0
+igre_deepseek-reasoner_3.cpp,RUNTIME_ERROR,6,12.24%,0.030,0.00390625,6,0,0,0
+igre_deepseek-reasoner_4.cpp,RUNTIME_ERROR,29,44.90%,0.050,0.00390625,6,0,23,0
+igre_deepseek-reasoner_5.cpp,RUNTIME_ERROR,6,12.24%,0.050,0.00390625,6,0,0,0
+igre_deepseek-reasoner_6.cpp,RUNTIME_ERROR,6,59.18%,0.110,1.55859375,6,0,0,0
+igre_deepseek-reasoner_7.cpp,RUNTIME_ERROR,29,44.90%,0.080,0.00390625,6,0,23,0

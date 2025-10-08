@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+aquarelle_Qwen2.5-72B_0.cpp,RUNTIME_ERROR,0,7.06%,0.000,0,0,0,0,0,0,0
+aquarelle_Qwen2.5-72B_1.cpp,RUNTIME_ERROR,0,7.06%,0.130,13.7265625,0,0,0,0,0,0
+aquarelle_Qwen2.5-72B_2.cpp,RUNTIME_ERROR,0,11.24%,0.130,13.2109375,0,0,0,0,0,0
+aquarelle_Qwen2.5-72B_3.cpp,RUNTIME_ERROR,0,20.62%,0.000,0,0,0,0,0,0,0
+aquarelle_Qwen2.5-72B_4.cpp,RUNTIME_ERROR,0,21.65%,0.120,0,0,0,0,0,0,0
+aquarelle_Qwen2.5-72B_5.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+aquarelle_Qwen2.5-72B_6.cpp,RUNTIME_ERROR,0,5.88%,0.000,0,0,0,0,0,0,0
+aquarelle_Qwen2.5-72B_7.cpp,RUNTIME_ERROR,0,35.40%,0.110,0,0,0,0,0,0,0

@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+paradoks,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+igre,Qwen3-4B-Non-Thinking,RUNTIME_ERROR,23,26.53%,0.070,0.00390625
+razlicitost,Qwen3-4B-Non-Thinking,MEMORY_LIMIT_EXCEEDED,22,37.21%,0.220,5.42578125
+blistavost,Qwen3-4B-Non-Thinking,RUNTIME_ERROR,0,0.00%,0.070,1.55078125
+trokuti,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0

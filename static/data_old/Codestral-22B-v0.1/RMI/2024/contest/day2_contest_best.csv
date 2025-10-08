@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Jump_Civilization,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+Ramen,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+Signals,Codestral-22B-v0.1,RUNTIME_ERROR,32,14.29%,0.300,5.16796875

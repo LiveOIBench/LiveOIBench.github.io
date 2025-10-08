@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+battle_Qwen3-30B-Non-Thinking_0.cpp,RUNTIME_ERROR,0,12.50%,0.030,9.30859375,0,0,0,0,0,0,0,0
+battle_Qwen3-30B-Non-Thinking_1.cpp,TIME_LIMIT_EXCEEDED,0,12.50%,3.340,13.171875,0,0,0,0,0,0,0,0
+battle_Qwen3-30B-Non-Thinking_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.320,12.40625,0,0,0,0,0,0,0,0
+battle_Qwen3-30B-Non-Thinking_4.cpp,TIME_LIMIT_EXCEEDED,0,12.50%,3.340,6.20703125,0,0,0,0,0,0,0,0
+battle_Qwen3-30B-Non-Thinking_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.690,516.73046875,0,0,0,0,0,0,0,0
+battle_Qwen3-30B-Non-Thinking_6.cpp,TIME_LIMIT_EXCEEDED,0,12.50%,3.310,5.32421875,0,0,0,0,0,0,0,0
+battle_Qwen3-30B-Non-Thinking_7.cpp,RUNTIME_ERROR,0,0.00%,0.030,4.38671875,0,0,0,0,0,0,0,0

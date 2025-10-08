@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+2024-open-t1_Examination_2_Llama-3.1-8B-Instruct_0.cpp,RUNTIME_ERROR,0,0.00%,0.350,7.2265625,0,0,0,0,0,0,0
+2024-open-t1_Examination_2_Llama-3.1-8B-Instruct_1.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.460,1124.8828125,0,0,0,0,0,0,0
+2024-open-t1_Examination_2_Llama-3.1-8B-Instruct_2.cpp,RUNTIME_ERROR,0,5.68%,0.360,5.16796875,0,0,0,0,0,0,0
+2024-open-t1_Examination_2_Llama-3.1-8B-Instruct_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+2024-open-t1_Examination_2_Llama-3.1-8B-Instruct_4.cpp,RUNTIME_ERROR,0,5.68%,0.330,27.01953125,0,0,0,0,0,0,0
+2024-open-t1_Examination_2_Llama-3.1-8B-Instruct_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+2024-open-t1_Examination_2_Llama-3.1-8B-Instruct_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.170,4.07421875,0,0,0,0,0,0,0

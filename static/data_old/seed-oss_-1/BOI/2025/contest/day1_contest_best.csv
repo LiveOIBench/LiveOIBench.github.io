@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+boi,seed-oss_-1,RUNTIME_ERROR,12,15.48%,0.070,16.765625
+tou,seed-oss_-1,TIME_LIMIT_EXCEEDED,9,36.21%,2.420,61.375
+tow,seed-oss_-1,TIME_LIMIT_EXCEEDED,0,16.67%,0.020,1.671875

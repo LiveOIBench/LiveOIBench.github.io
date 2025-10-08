@@ -1,0 +1,7 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Tractor_Paths_Qwen3-30B-Non-Thinking_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_Qwen3-30B-Non-Thinking_1.cpp,RUNTIME_ERROR,0,0.00%,0.160,37.8125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_Qwen3-30B-Non-Thinking_3.cpp,RUNTIME_ERROR,0,0.00%,0.240,281.7109375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_Qwen3-30B-Non-Thinking_4.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,1.240,501.2109375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_Qwen3-30B-Non-Thinking_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.460,252.91796875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_Qwen3-30B-Non-Thinking_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.490,70.90234375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

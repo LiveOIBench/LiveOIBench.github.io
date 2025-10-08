@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+square_grid_puzzle,seed-oss_-1,RUNTIME_ERROR,0,0.00%,0.000,0
+team_building,seed-oss_-1,TIME_LIMIT_EXCEEDED,60,66.67%,1.210,4.90625
+tree_infection,seed-oss_-1,RUNTIME_ERROR,15,14.81%,0.260,69.53515625

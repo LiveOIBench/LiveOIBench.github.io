@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Circles_gpt-oss-20b-medium_0.cpp,ACCEPTED,100,100.00%,0.350,157.9453125,0,4,9,14,15,21,37
+Circles_gpt-oss-20b-medium_1.cpp,ACCEPTED,100,100.00%,0.350,80.52734375,0,4,9,14,15,21,37
+Circles_gpt-oss-20b-medium_2.cpp,RUNTIME_ERROR,4,12.90%,0.300,89.203125,0,4,0,0,0,0,0
+Circles_gpt-oss-20b-medium_3.cpp,RUNTIME_ERROR,0,0.00%,0.120,80.4453125,0,0,0,0,0,0,0
+Circles_gpt-oss-20b-medium_4.cpp,RUNTIME_ERROR,54,73.17%,0.260,54.91796875,0,4,0,14,15,21,0
+Circles_gpt-oss-20b-medium_6.cpp,RUNTIME_ERROR,54,66.67%,0.300,89.46484375,0,4,0,14,15,21,0
+Circles_gpt-oss-20b-medium_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+islandalliances_gpt-oss-120b-low_0.cpp,ACCEPTED,100,100.00%,0.130,13.15625,15,17,20,23,25
+islandalliances_gpt-oss-120b-low_1.cpp,ACCEPTED,100,100.00%,0.320,21.6640625,15,17,20,23,25
+islandalliances_gpt-oss-120b-low_2.cpp,ACCEPTED,100,100.00%,0.950,21.1484375,15,17,20,23,25
+islandalliances_gpt-oss-120b-low_3.cpp,ACCEPTED,100,100.00%,0.240,21.921875,15,17,20,23,25
+islandalliances_gpt-oss-120b-low_4.cpp,ACCEPTED,100,100.00%,0.130,13.15625,15,17,20,23,25
+islandalliances_gpt-oss-120b-low_5.cpp,ACCEPTED,100,100.00%,0.290,21.40625,15,17,20,23,25
+islandalliances_gpt-oss-120b-low_6.cpp,ACCEPTED,100,100.00%,0.330,21.6640625,15,17,20,23,25
+islandalliances_gpt-oss-120b-low_7.cpp,ACCEPTED,100,100.00%,0.300,21.40625,15,17,20,23,25

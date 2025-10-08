@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Card_Flip,deepseek-reasoner,RUNTIME_ERROR,0,14.29%,0.310,14.953125
+Order_Statistics,deepseek-reasoner,TIME_LIMIT_EXCEEDED,5,23.08%,4.420,8.7890625
+Best_Runner,deepseek-reasoner,RUNTIME_ERROR,60,52.82%,0.080,9.2890625
+Strong_Connectivity_Strikes_Back,deepseek-reasoner,ACCEPTED,100,100.00%,0.150,1.81640625

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+lexgcd_Qwen3-8B_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+lexgcd_Qwen3-8B_1.cpp,TIME_LIMIT_EXCEEDED,0,7.38%,1.810,7.09375,0,0,0,0,0,0,0
+lexgcd_Qwen3-8B_2.cpp,TIME_LIMIT_EXCEEDED,0,3.31%,1.820,6.9765625,0,0,0,0,0,0,0
+lexgcd_Qwen3-8B_3.cpp,RUNTIME_ERROR,0,7.38%,0.030,2.07421875,0,0,0,0,0,0,0
+lexgcd_Qwen3-8B_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+lexgcd_Qwen3-8B_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.810,6.30078125,0,0,0,0,0,0,0
+lexgcd_Qwen3-8B_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.83%,0.280,613.25390625,0,0,0,0,0,0,0
+lexgcd_Qwen3-8B_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.810,2.87890625,0,0,0,0,0,0,0

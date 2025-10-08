@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Almost_Certainly_QwQ-32B_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.160,6.66015625,0,0,0,0,0,0,0
+Almost_Certainly_QwQ-32B_1.cpp,RUNTIME_ERROR,0,0.00%,0.100,4.39453125,0,0,0,0,0,0,0
+Almost_Certainly_QwQ-32B_2.cpp,RUNTIME_ERROR,13,15.94%,0.110,6.71484375,0,0,0,0,13.0,0,0
+Almost_Certainly_QwQ-32B_3.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0
+Almost_Certainly_QwQ-32B_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.110,7.80078125,0,0,0,0,0,0,0
+Almost_Certainly_QwQ-32B_5.cpp,RUNTIME_ERROR,13,15.94%,0.120,4.39453125,0,0,0,0,13.0,0,0
+Almost_Certainly_QwQ-32B_6.cpp,RUNTIME_ERROR,13,15.94%,0.110,9.03515625,0,0,0,0,13.0,0,0
+Almost_Certainly_QwQ-32B_7.cpp,RUNTIME_ERROR,13,15.94%,0.120,7.48828125,0,0,0,0,13.0,0,0

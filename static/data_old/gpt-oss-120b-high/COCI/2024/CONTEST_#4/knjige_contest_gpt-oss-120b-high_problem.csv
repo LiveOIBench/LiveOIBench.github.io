@@ -1,0 +1,7 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+knjige_gpt-oss-120b-high_0.cpp,ACCEPTED,70,100.00%,100.00%,0.040,3.1015625,7,27,36
+knjige_gpt-oss-120b-high_1.cpp,ACCEPTED,70,100.00%,100.00%,0.040,4.39453125,7,27,36
+knjige_gpt-oss-120b-high_3.cpp,ACCEPTED,70,100.00%,100.00%,0.040,4.390625,7,27,36
+knjige_gpt-oss-120b-high_4.cpp,ACCEPTED,70,100.00%,100.00%,0.050,2.84765625,7,27,36
+knjige_gpt-oss-120b-high_6.cpp,ACCEPTED,70,100.00%,100.00%,0.040,3.44140625,7,27,36
+knjige_gpt-oss-120b-high_7.cpp,ACCEPTED,70,100.00%,100.00%,0.040,2.7890625,7,27,36

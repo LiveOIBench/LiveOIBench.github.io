@@ -1,0 +1,5 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+chairgame,TIME_LIMIT_EXCEEDED,32,61.40%,1.220,0.00390625,,8,0,4,0,0,0,20,0
+thinice,RUNTIME_ERROR,0,22.03%,0.160,4.6484375,,0,0,0,0,0,0,0,0
+animeshops,TIME_LIMIT_EXCEEDED,23,60.00%,1.350,9.5859375,,23,0,0,0,0,0,0,0
+TOTAL,,55,47.81%,,,0.00%,,,,,,,,

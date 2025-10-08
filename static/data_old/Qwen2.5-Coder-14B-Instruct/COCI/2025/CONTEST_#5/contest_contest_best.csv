@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+wow,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,5.56%,0.000,0
+zid,Qwen2.5-Coder-14B-Instruct,TIME_LIMIT_EXCEEDED,38,66.67%,1.110,2.5859375
+tornjevi,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,7,18.52%,0.160,16.51171875
+crtez,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,0.00%,0.060,1.484375
+stablo,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

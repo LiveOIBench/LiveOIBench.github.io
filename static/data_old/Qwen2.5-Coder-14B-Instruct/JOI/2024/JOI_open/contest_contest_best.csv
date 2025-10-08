@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+2024-open-t1_Examination_2,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,12.36%,2.190,15.41015625
+2024-open-t2_Heat_Stroke,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,20.85%,0.000,0
+2024-open-t3_Library_3,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,18.37%,0.130,0

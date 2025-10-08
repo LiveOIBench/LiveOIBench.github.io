@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+boi,Qwen2.5-72B,RUNTIME_ERROR,0,0.00%,0.000,0
+tou,Qwen2.5-72B,RUNTIME_ERROR,0,5.17%,0.460,59.30859375
+tow,Qwen2.5-72B,RUNTIME_ERROR,0,0.00%,0.030,1.484375

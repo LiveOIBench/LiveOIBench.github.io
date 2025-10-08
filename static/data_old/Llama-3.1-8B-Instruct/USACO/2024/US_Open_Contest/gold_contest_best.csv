@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Cowreography,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,4.35%,0.110,11.765625
+gold_Grass_Segments,Llama-3.1-8B-Instruct,TIME_LIMIT_EXCEEDED,0,5.00%,2.310,5.41015625
+gold_Smaller_Averages,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,10.00%,0.110,0

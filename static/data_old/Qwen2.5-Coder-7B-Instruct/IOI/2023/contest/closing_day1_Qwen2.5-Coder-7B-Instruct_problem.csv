@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+closing_Qwen2.5-Coder-7B-Instruct_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0
+closing_Qwen2.5-Coder-7B-Instruct_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0
+closing_Qwen2.5-Coder-7B-Instruct_2.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.720,2239.41796875,0,0,0,0,0,0,0,0,0,0
+closing_Qwen2.5-Coder-7B-Instruct_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0
+closing_Qwen2.5-Coder-7B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.110,24.25,0,0,0,0,0,0,0,0,0,0
+closing_Qwen2.5-Coder-7B-Instruct_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0
+closing_Qwen2.5-Coder-7B-Instruct_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0
+closing_Qwen2.5-Coder-7B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.110,21.671875,0,0,0,0,0,0,0,0,0,0

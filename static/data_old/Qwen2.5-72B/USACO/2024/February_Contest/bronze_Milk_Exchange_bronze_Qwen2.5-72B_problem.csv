@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Milk_Exchange_Qwen2.5-72B_0.cpp,TIME_LIMIT_EXCEEDED,0,6.25%,2.450,7.6484375,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Milk_Exchange_Qwen2.5-72B_1.cpp,TIME_LIMIT_EXCEEDED,51,12.50%,2.460,6.34375,0,0,0,0,0,0,0,0,25.64102564102564,25.64102564102564,0,0,0,0
+bronze_Milk_Exchange_Qwen2.5-72B_2.cpp,TIME_LIMIT_EXCEEDED,26,6.25%,2.210,9.1953125,0,0,0,0,0,25.64102564102564,0,0,0,0,0,0,0,0
+bronze_Milk_Exchange_Qwen2.5-72B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Milk_Exchange_Qwen2.5-72B_4.cpp,TIME_LIMIT_EXCEEDED,77,31.25%,2.410,6.34765625,0,0,0,0,0,25.64102564102564,0,0,25.64102564102564,25.64102564102564,0,0,0,0
+bronze_Milk_Exchange_Qwen2.5-72B_5.cpp,TIME_LIMIT_EXCEEDED,77,18.75%,2.210,6.34375,0,0,0,0,0,25.64102564102564,0,0,25.64102564102564,25.64102564102564,0,0,0,0
+bronze_Milk_Exchange_Qwen2.5-72B_6.cpp,TIME_LIMIT_EXCEEDED,26,6.25%,2.250,280.3984375,0,0,0,0,0,25.64102564102564,0,0,0,0,0,0,0,0
+bronze_Milk_Exchange_Qwen2.5-72B_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.420,279.359375,0,0,0,0,0,0,0,0,0,0,0,0,0,0

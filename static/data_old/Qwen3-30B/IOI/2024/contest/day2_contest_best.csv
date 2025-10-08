@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+hieroglyphs,Qwen3-30B,RUNTIME_ERROR,3,6.99%,0.030,11.19921875
+sphinx,Qwen3-30B,RUNTIME_ERROR,3,12.50%,0.390,4.21875
+mosaic,Qwen3-30B,MEMORY_LIMIT_EXCEEDED,22,64.86%,1.070,2240.40625

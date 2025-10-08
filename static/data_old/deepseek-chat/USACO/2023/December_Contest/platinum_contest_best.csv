@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Cowntact_Tracing,deepseek-chat,TIME_LIMIT_EXCEEDED,0,13.04%,2.220,17.6640625
+platinum_A_Graph_Problem,deepseek-chat,TIME_LIMIT_EXCEEDED,50,26.09%,2.230,23.8203125
+platinum_Train_Scheduling,deepseek-chat,WRONG_ANSWER,300,91.67%,0.110,144.8984375

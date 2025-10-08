@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+tura_gpt-o3-mini-high_0.cpp,TIME_LIMIT_EXCEEDED,0,12.95%,0.600,5.23828125,0,0,0
+tura_gpt-o3-mini-high_1.cpp,TIME_LIMIT_EXCEEDED,0,25.90%,0.590,5.19921875,0,0,0
+tura_gpt-o3-mini-high_2.cpp,TIME_LIMIT_EXCEEDED,0,12.95%,0.570,7.18359375,0,0,0
+tura_gpt-o3-mini-high_3.cpp,TIME_LIMIT_EXCEEDED,0,12.95%,0.610,5.015625,0,0,0
+tura_gpt-o3-mini-high_4.cpp,RUNTIME_ERROR,0,0.00%,0.030,2.58203125,0,0,0
+tura_gpt-o3-mini-high_5.cpp,RUNTIME_ERROR,0,0.00%,0.030,1.8046875,0,0,0
+tura_gpt-o3-mini-high_6.cpp,RUNTIME_ERROR,0,16.55%,0.030,2.83984375,0,0,0
+tura_gpt-o3-mini-high_7.cpp,TIME_LIMIT_EXCEEDED,0,25.90%,0.560,6.21484375,0,0,0

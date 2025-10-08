@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+2024-ho-t1_Room_Temperature,gpt-oss-20b-low,RUNTIME_ERROR,0,12.96%,0.000,0
+2024-ho-t2_Construction_Project_2,gpt-oss-20b-low,ACCEPTED,100,100.00%,0.210,25.26953125
+2024-ho-t3_Marathon_Race_2,gpt-oss-20b-low,RUNTIME_ERROR,0,15.56%,0.000,0
+2024-ho-t4_Gift_Exchange,gpt-oss-20b-low,COMPILATION_ERROR,0,0.00%,0.000,0
+2024-ho-t5_Road_Service_2,gpt-oss-20b-low,RUNTIME_ERROR,0,0.00%,0.060,18.5703125

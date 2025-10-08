@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+zbunjenost_deepseek-reasoner_0.cpp,RUNTIME_ERROR,0,3.23%,0.050,0.00390625,0,0,0,0,0
+zbunjenost_deepseek-reasoner_1.cpp,RUNTIME_ERROR,0,1.61%,0.050,2.84375,0,0,0,0,0
+zbunjenost_deepseek-reasoner_2.cpp,RUNTIME_ERROR,0,1.61%,0.080,0.00390625,0,0,0,0,0
+zbunjenost_deepseek-reasoner_3.cpp,RUNTIME_ERROR,0,1.61%,0.040,0.00390625,0,0,0,0,0
+zbunjenost_deepseek-reasoner_4.cpp,RUNTIME_ERROR,15,33.87%,0.000,0,0,0,0,15,0
+zbunjenost_deepseek-reasoner_5.cpp,RUNTIME_ERROR,0,3.23%,0.070,0.00390625,0,0,0,0,0
+zbunjenost_deepseek-reasoner_6.cpp,RUNTIME_ERROR,15,33.87%,0.040,2.7890625,0,0,0,15,0
+zbunjenost_deepseek-reasoner_7.cpp,RUNTIME_ERROR,0,3.23%,0.000,0,0,0,0,0,0

@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+desniklik,gpt-o3-mini-high,ACCEPTED,50,100.00%,0.000,0
+cokolade,gpt-o3-mini-high,ACCEPTED,70,100.00%,0.100,2.84375
+berilij,gpt-o3-mini-high,RUNTIME_ERROR,0,4.55%,0.160,13.16015625
+iksevi,gpt-o3-mini-high,ACCEPTED,110,100.00%,0.460,39.3984375
+neboderi,gpt-o3-mini-high,ACCEPTED,110,100.00%,0.250,12.90234375

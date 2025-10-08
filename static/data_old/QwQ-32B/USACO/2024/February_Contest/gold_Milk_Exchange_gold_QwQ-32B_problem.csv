@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Milk_Exchange_QwQ-32B_0.cpp,RUNTIME_ERROR,0,0.00%,0.210,24.1328125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Milk_Exchange_QwQ-32B_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.510,15.73828125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Milk_Exchange_QwQ-32B_2.cpp,RUNTIME_ERROR,50,17.39%,0.230,17.21875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16.666666666666664,16.666666666666664,16.666666666666664,0,0,0,0
+gold_Milk_Exchange_QwQ-32B_3.cpp,RUNTIME_ERROR,0,4.35%,0.660,16.25390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Milk_Exchange_QwQ-32B_4.cpp,RUNTIME_ERROR,0,0.00%,0.200,20.51171875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Milk_Exchange_QwQ-32B_5.cpp,RUNTIME_ERROR,0,0.00%,0.210,25.1328125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Milk_Exchange_QwQ-32B_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Milk_Exchange_QwQ-32B_7.cpp,RUNTIME_ERROR,0,0.00%,0.640,40.578125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

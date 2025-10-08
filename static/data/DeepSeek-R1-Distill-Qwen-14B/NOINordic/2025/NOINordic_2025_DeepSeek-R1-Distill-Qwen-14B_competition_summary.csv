@@ -1,0 +1,5 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+diplomacy,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0
+garbage,RUNTIME_ERROR,0,5.48%,0.280,14.11328125,,0,0,0,0,0,0
+xoracle,RUNTIME_ERROR,67,41.18%,0.500,3.7578125,,0,0,0,0,24,43
+TOTAL,,67,15.55%,,,0.00%,,,,,,

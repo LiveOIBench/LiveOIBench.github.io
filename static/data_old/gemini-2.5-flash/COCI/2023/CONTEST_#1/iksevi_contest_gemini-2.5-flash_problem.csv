@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+iksevi_gemini-2.5-flash_0.cpp,ACCEPTED,110,100.00%,0.890,77.61328125,15,55,40
+iksevi_gemini-2.5-flash_1.cpp,RUNTIME_ERROR,0,0.00%,0.950,39.3984375,0,0,0
+iksevi_gemini-2.5-flash_2.cpp,ACCEPTED,110,100.00%,1.040,77.5546875,15,55,40
+iksevi_gemini-2.5-flash_3.cpp,RUNTIME_ERROR,0,0.00%,0.440,77.4921875,0,0,0
+iksevi_gemini-2.5-flash_4.cpp,ACCEPTED,110,100.00%,0.480,80.42578125,15,55,40
+iksevi_gemini-2.5-flash_5.cpp,ACCEPTED,110,100.00%,2.110,0.00390625,15,55,40
+iksevi_gemini-2.5-flash_6.cpp,ACCEPTED,110,100.00%,0.460,118.25390625,15,55,40
+iksevi_gemini-2.5-flash_7.cpp,ACCEPTED,110,100.00%,0.430,118.25390625,15,55,40

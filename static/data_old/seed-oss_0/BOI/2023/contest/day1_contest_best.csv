@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+astronomer,seed-oss_0,RUNTIME_ERROR,0,3.45%,0.010,1.828125
+staringcontest,seed-oss_0,RUNTIME_ERROR,0,2.56%,0.010,1.5390625
+tycho,seed-oss_0,RUNTIME_ERROR,0,4.50%,0.000,0

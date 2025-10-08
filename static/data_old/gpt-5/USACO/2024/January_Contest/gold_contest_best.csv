@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Walking_in_Manhattan,gpt-5,ACCEPTED,333,100.00%,0.390,21.41796875
+gold_Cowmpetency,gpt-5,ACCEPTED,333,100.00%,0.090,0.00390625
+gold_Nap_Sort,gpt-5,ACCEPTED,333,100.00%,0.130,2.84375

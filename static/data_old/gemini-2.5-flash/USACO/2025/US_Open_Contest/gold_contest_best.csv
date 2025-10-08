@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Moo_Decomposition,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,143,52.00%,2.230,57.546875
+gold_Election_Queries,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,128,46.67%,3.340,13.20703125
+gold_OohMoo_Milk,gemini-2.5-flash,RUNTIME_ERROR,59,20.00%,0.050,2.07421875

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Moo_Operations_DeepSeek-R1-Distill-Llama-8B_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Moo_Operations_DeepSeek-R1-Distill-Llama-8B_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Moo_Operations_DeepSeek-R1-Distill-Llama-8B_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Moo_Operations_DeepSeek-R1-Distill-Llama-8B_3.cpp,WRONG_ANSWER,233,72.73%,0.000,0,0,0,33.33333333333333,0,0,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333
+bronze_Moo_Operations_DeepSeek-R1-Distill-Llama-8B_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Moo_Operations_DeepSeek-R1-Distill-Llama-8B_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Moo_Operations_DeepSeek-R1-Distill-Llama-8B_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Moo_Operations_DeepSeek-R1-Distill-Llama-8B_7.cpp,WRONG_ANSWER,100,36.36%,0.000,0,0,33.33333333333333,0,33.33333333333333,33.33333333333333,0,0,0,0,0,0

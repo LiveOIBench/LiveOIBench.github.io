@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Find_and_Replace,Qwen3-8B-Non-Thinking,TIME_LIMIT_EXCEEDED,0,6.67%,2.300,224.3359375
+gold_Lights_Off,Qwen3-8B-Non-Thinking,TIME_LIMIT_EXCEEDED,19,10.00%,4.480,263.60546875
+gold_Moo_Route,Qwen3-8B-Non-Thinking,WRONG_ANSWER,0,4.76%,0.120,2.07421875

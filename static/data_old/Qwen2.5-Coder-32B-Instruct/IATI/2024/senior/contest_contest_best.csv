@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+five,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,5,16.36%,0.230,13.4140625
+game,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,0.00%,0.180,6.15234375
+lexgcd,Qwen2.5-Coder-32B-Instruct,TIME_LIMIT_EXCEEDED,6,4.13%,1.840,611.28125
+ones,Qwen2.5-Coder-32B-Instruct,WRONG_ANSWER,25,0.00%,0.190,1.95703125
+travel,Qwen2.5-Coder-32B-Instruct,TIME_LIMIT_EXCEEDED,20,29.41%,1.390,333.36328125

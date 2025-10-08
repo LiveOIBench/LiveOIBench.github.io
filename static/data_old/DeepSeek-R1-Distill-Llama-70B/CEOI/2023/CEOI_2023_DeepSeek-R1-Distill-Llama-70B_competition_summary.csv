@@ -1,0 +1,8 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_0_1,subtask_0_2,subtask_0_3,subtask_1_1,subtask_2_1,subtask_3_1,subtask_4_1,subtask_5_1,subtask_6_1,subtask_7_1
+grading-server,RUNTIME_ERROR,0,4.00%,0.270,0.00390625,,0,0,0,0,0,0,0,0,0,0
+light,RUNTIME_ERROR,0,0.74%,0.350,1.53515625,,0,0,0,0,0,0,0,0,0,0
+balance,UNKNOWN,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0
+trade,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0
+incursion,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0
+avoid,RUNTIME_ERROR,0,0.74%,0.040,1.48046875,,0,0,0,0,0,0,0,0,0,0
+TOTAL,,0,0.91%,,,0.00%,,,,,,,,,,

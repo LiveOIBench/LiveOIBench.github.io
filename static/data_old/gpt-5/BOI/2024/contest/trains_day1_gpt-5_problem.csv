@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+trains_gpt-5_0.cpp,ACCEPTED,100,100.00%,0.320,126.078125,8,13,16,34,29
+trains_gpt-5_1.cpp,ACCEPTED,100,100.00%,0.270,124.2734375,8,13,16,34,29
+trains_gpt-5_2.cpp,ACCEPTED,100,100.00%,0.100,9.80078125,8,13,16,34,29
+trains_gpt-5_3.cpp,ACCEPTED,100,100.00%,0.150,124.27734375,8,13,16,34,29
+trains_gpt-5_4.cpp,ACCEPTED,100,100.00%,0.240,123.8671875,8,13,16,34,29
+trains_gpt-5_5.cpp,ACCEPTED,100,100.00%,0.270,124.6328125,8,13,16,34,29
+trains_gpt-5_6.cpp,ACCEPTED,100,100.00%,0.280,124.6328125,8,13,16,34,29
+trains_gpt-5_7.cpp,ACCEPTED,100,100.00%,0.130,124.27734375,8,13,16,34,29

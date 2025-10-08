@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+boi,deepseek-chat,RUNTIME_ERROR,0,11.90%,0.010,0.00390625
+tou,deepseek-chat,RUNTIME_ERROR,0,5.17%,0.360,53.37109375
+tow,deepseek-chat,RUNTIME_ERROR,0,16.67%,0.040,1.53515625

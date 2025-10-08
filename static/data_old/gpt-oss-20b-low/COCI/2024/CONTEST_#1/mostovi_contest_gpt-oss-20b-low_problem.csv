@@ -1,0 +1,6 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+mostovi_gpt-oss-20b-low_0.cpp,RUNTIME_ERROR,0,0.00%,0.040,6.70703125,0,0,0,0,0
+mostovi_gpt-oss-20b-low_1.cpp,RUNTIME_ERROR,0,0.00%,0.070,31.546875,0,0,0,0,0
+mostovi_gpt-oss-20b-low_3.cpp,RUNTIME_ERROR,0,0.00%,0.050,7.796875,0,0,0,0,0
+mostovi_gpt-oss-20b-low_4.cpp,RUNTIME_ERROR,0,0.00%,0.030,7.7421875,0,0,0,0,0
+mostovi_gpt-oss-20b-low_6.cpp,RUNTIME_ERROR,0,0.00%,0.040,0.00390625,0,0,0,0,0

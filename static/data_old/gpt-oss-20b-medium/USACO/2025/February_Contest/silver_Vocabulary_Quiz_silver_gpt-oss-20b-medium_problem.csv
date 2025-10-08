@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Vocabulary_Quiz_gpt-oss-20b-medium_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Vocabulary_Quiz_gpt-oss-20b-medium_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.430,22.5625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Vocabulary_Quiz_gpt-oss-20b-medium_2.cpp,RUNTIME_ERROR,0,0.00%,0.740,154.953125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Vocabulary_Quiz_gpt-oss-20b-medium_3.cpp,RUNTIME_ERROR,0,0.00%,0.150,21.76953125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Vocabulary_Quiz_gpt-oss-20b-medium_5.cpp,RUNTIME_ERROR,0,0.00%,0.680,147.4765625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Vocabulary_Quiz_gpt-oss-20b-medium_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.450,17.9765625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Vocabulary_Quiz_gpt-oss-20b-medium_7.cpp,RUNTIME_ERROR,0,0.00%,0.320,52.8515625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bovine_Acrobatics,DeepSeek-R1-Distill-Qwen-14B,WRONG_ANSWER,89,35.29%,0.160,4.0703125
+silver_Cycle_Correspondence,DeepSeek-R1-Distill-Qwen-14B,WRONG_ANSWER,56,33.33%,0.250,24.5
+silver_Target_Practice,DeepSeek-R1-Distill-Qwen-14B,MEMORY_LIMIT_EXCEEDED,83,40.00%,0.340,214.41015625

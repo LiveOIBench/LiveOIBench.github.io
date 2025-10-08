@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Palindrome_Game,Qwen2.5-Coder-32B-Instruct,TIME_LIMIT_EXCEEDED,167,53.85%,2.210,115.76953125
+bronze_Milk_Exchange,Qwen2.5-Coder-32B-Instruct,WRONG_ANSWER,128,43.75%,0.120,3.27734375
+bronze_Maximizing_Productivity,Qwen2.5-Coder-32B-Instruct,ACCEPTED,333,100.00%,0.190,4.39453125

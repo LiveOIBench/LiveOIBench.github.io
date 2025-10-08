@@ -1,0 +1,8 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+teleporters,TIME_LIMIT_EXCEEDED,5,16.42%,1.150,1.875,,0,0,0,0,5,0,0,0,0,0,0
+tree_search,RUNTIME_ERROR,35,50.00%,0.150,3.75390625,,0,20,0,0,15,0,0,0,0,0,0
+opening_offices,RUNTIME_ERROR,0,0.00%,0.190,63.6875,,0,0,0,0,0,0,0,0,0,0,0
+square_grid_puzzle,TIME_LIMIT_EXCEEDED,0,12.50%,1.120,887.92578125,,0,0,0,0,0,0,0,0,0,0,0
+team_building,TIME_LIMIT_EXCEEDED,11,19.05%,1.190,2.09765625,,0,11,0,0,0,0,0,0,0,0,0
+tree_infection,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0
+TOTAL,,51,16.33%,,,0.00%,,,,,,,,,,,

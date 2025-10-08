@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+stations_Qwen2.5-72B_0.cpp,TIME_LIMIT_EXCEEDED,0,4.55%,3.860,10.87109375,0,0,0,0,0,0,0
+stations_Qwen2.5-72B_1.cpp,TIME_LIMIT_EXCEEDED,0,4.55%,3.860,9.60546875,0,0,0,0,0,0,0
+stations_Qwen2.5-72B_2.cpp,RUNTIME_ERROR,0,4.55%,0.060,8.00390625,0,0,0,0,0,0,0
+stations_Qwen2.5-72B_3.cpp,RUNTIME_ERROR,0,0.00%,0.040,5.9375,0,0,0,0,0,0,0
+stations_Qwen2.5-72B_4.cpp,RUNTIME_ERROR,0,4.55%,0.050,8.67578125,0,0,0,0,0,0,0
+stations_Qwen2.5-72B_5.cpp,RUNTIME_ERROR,0,4.55%,0.040,5.171875,0,0,0,0,0,0,0
+stations_Qwen2.5-72B_6.cpp,RUNTIME_ERROR,0,4.55%,0.050,5.7421875,0,0,0,0,0,0,0
+stations_Qwen2.5-72B_7.cpp,RUNTIME_ERROR,0,0.00%,0.050,6.0,0,0,0,0,0,0,0

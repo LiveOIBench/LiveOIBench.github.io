@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+cern,gemini-2.5-pro,ACCEPTED,100,100.00%,3.890,15.9609375
+koreografija,gemini-2.5-pro,UNKNOWN,0,0.00%,0.000,0
+ministarstvo,gemini-2.5-pro,RUNTIME_ERROR,0,1.75%,0.110,12.87890625
+sirologija,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,0,2.84%,1.140,14.12890625

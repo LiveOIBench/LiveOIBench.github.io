@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+bouquet_gpt-oss-20b-low_0.cpp,ACCEPTED,100,100.00%,0.080,18.05078125,0,8,16,28,18,30
+bouquet_gpt-oss-20b-low_1.cpp,RUNTIME_ERROR,0,46.05%,0.040,4.13671875,0,0,0,0,0,0
+bouquet_gpt-oss-20b-low_2.cpp,RUNTIME_ERROR,0,20.42%,0.050,5.94140625,0,0,0,0,0,0
+bouquet_gpt-oss-20b-low_3.cpp,ACCEPTED,100,100.00%,0.060,15.22265625,0,8,16,28,18,30
+bouquet_gpt-oss-20b-low_4.cpp,RUNTIME_ERROR,0,4.09%,0.030,4.38671875,0,0,0,0,0,0
+bouquet_gpt-oss-20b-low_5.cpp,RUNTIME_ERROR,0,46.05%,0.040,3.62109375,0,0,0,0,0,0
+bouquet_gpt-oss-20b-low_6.cpp,RUNTIME_ERROR,0,47.16%,0.070,6.70703125,0,0,0,0,0,0
+bouquet_gpt-oss-20b-low_7.cpp,RUNTIME_ERROR,0,4.09%,0.030,2.84375,0,0,0,0,0,0

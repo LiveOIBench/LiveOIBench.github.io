@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Pareidolia_DeepSeek-Coder-V2-Lite-Instruct_0.cpp,RUNTIME_ERROR,0,0.00%,0.120,29.03515625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Pareidolia_DeepSeek-Coder-V2-Lite-Instruct_1.cpp,RUNTIME_ERROR,0,0.00%,0.130,25.16796875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Pareidolia_DeepSeek-Coder-V2-Lite-Instruct_2.cpp,RUNTIME_ERROR,0,0.00%,0.110,7.13671875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Pareidolia_DeepSeek-Coder-V2-Lite-Instruct_3.cpp,RUNTIME_ERROR,0,0.00%,0.120,5.3125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Pareidolia_DeepSeek-Coder-V2-Lite-Instruct_4.cpp,RUNTIME_ERROR,0,0.00%,0.120,13.06640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Pareidolia_DeepSeek-Coder-V2-Lite-Instruct_5.cpp,RUNTIME_ERROR,0,0.00%,0.120,9.6953125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Pareidolia_DeepSeek-Coder-V2-Lite-Instruct_6.cpp,RUNTIME_ERROR,0,0.00%,0.110,15.3671875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Pareidolia_DeepSeek-Coder-V2-Lite-Instruct_7.cpp,RUNTIME_ERROR,0,0.00%,0.120,13.0625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

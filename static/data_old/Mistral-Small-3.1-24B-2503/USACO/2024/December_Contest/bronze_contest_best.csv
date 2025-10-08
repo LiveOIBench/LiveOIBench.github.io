@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Roundabout_Rounding,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Farmer_Johns_Cheese_Block,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Its_Mooin_Time,Mistral-Small-3.1-24B-2503,TIME_LIMIT_EXCEEDED,0,7.69%,2.300,1.546875

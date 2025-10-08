@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_All_Pairs_Similarity,Qwen3-30B,TIME_LIMIT_EXCEEDED,48,20.00%,2.240,23.48046875
+platinum_Its_Mooin_Time,Qwen3-30B,RUNTIME_ERROR,24,16.67%,0.160,10.11328125
+platinum_Maximize_Minimum_Difference,Qwen3-30B,RUNTIME_ERROR,0,5.00%,0.110,1.55078125

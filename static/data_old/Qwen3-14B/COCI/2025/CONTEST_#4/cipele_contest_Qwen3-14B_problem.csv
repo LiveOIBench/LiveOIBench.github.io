@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+cipele_Qwen3-14B_0.cpp,RUNTIME_ERROR,27,12.90%,0.910,57.51171875,0,27,0,0,0
+cipele_Qwen3-14B_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.300,26.81640625,0,0,0,0,0
+cipele_Qwen3-14B_2.cpp,RUNTIME_ERROR,27,12.90%,0.580,46.01171875,0,27,0,0,0
+cipele_Qwen3-14B_3.cpp,RUNTIME_ERROR,0,0.00%,0.360,52.30078125,0,0,0,0,0
+cipele_Qwen3-14B_4.cpp,RUNTIME_ERROR,0,0.00%,0.340,33.01171875,0,0,0,0,0
+cipele_Qwen3-14B_5.cpp,RUNTIME_ERROR,27,12.90%,0.380,50.30859375,0,27,0,0,0
+cipele_Qwen3-14B_6.cpp,RUNTIME_ERROR,0,0.00%,0.210,30.2578125,0,0,0,0,0
+cipele_Qwen3-14B_7.cpp,RUNTIME_ERROR,27,12.90%,0.170,13.9375,0,27,0,0,0

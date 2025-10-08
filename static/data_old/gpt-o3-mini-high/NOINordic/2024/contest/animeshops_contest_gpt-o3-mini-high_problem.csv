@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3
+animeshops_gpt-o3-mini-high_0.cpp,ACCEPTED,100,100.00%,0.120,11.15234375,23,16,61
+animeshops_gpt-o3-mini-high_1.cpp,ACCEPTED,100,100.00%,0.140,10.92578125,23,16,61
+animeshops_gpt-o3-mini-high_2.cpp,WRONG_ANSWER,39,95.65%,0.130,12.1875,23,16,0
+animeshops_gpt-o3-mini-high_3.cpp,ACCEPTED,100,100.00%,0.130,13.328125,23,16,61
+animeshops_gpt-o3-mini-high_4.cpp,ACCEPTED,100,100.00%,0.140,11.30078125,23,16,61
+animeshops_gpt-o3-mini-high_5.cpp,ACCEPTED,100,100.00%,0.110,11.09375,23,16,61
+animeshops_gpt-o3-mini-high_6.cpp,WRONG_ANSWER,39,95.65%,0.130,12.94140625,23,16,0
+animeshops_gpt-o3-mini-high_7.cpp,ACCEPTED,100,100.00%,0.110,11.9296875,23,16,61

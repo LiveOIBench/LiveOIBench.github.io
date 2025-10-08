@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+inflation_deepseek-reasoner_0.cpp,ACCEPTED,100,100.00%,0.140,14.42578125,0,14,28,19,23,16
+inflation_deepseek-reasoner_1.cpp,ACCEPTED,100,100.00%,0.150,16.16796875,0,14,28,19,23,16
+inflation_deepseek-reasoner_2.cpp,ACCEPTED,100,100.00%,0.290,19.59765625,0,14,28,19,23,16
+inflation_deepseek-reasoner_3.cpp,ACCEPTED,100,100.00%,0.150,17.31640625,0,14,28,19,23,16
+inflation_deepseek-reasoner_4.cpp,ACCEPTED,100,100.00%,0.160,17.31640625,0,14,28,19,23,16
+inflation_deepseek-reasoner_5.cpp,ACCEPTED,100,100.00%,0.190,17.3125,0,14,28,19,23,16
+inflation_deepseek-reasoner_6.cpp,ACCEPTED,100,100.00%,0.140,17.3125,0,14,28,19,23,16
+inflation_deepseek-reasoner_7.cpp,ACCEPTED,100,100.00%,0.160,17.31640625,0,14,28,19,23,16

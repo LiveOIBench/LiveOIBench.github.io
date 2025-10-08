@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+diplomacy,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,25,61.46%,4.430,125.6015625
+garbage,gpt-o3-mini-high,ACCEPTED,100,100.00%,0.150,10.39453125
+xoracle,gpt-o3-mini-high,RUNTIME_ERROR,67,41.18%,0.390,3.7890625

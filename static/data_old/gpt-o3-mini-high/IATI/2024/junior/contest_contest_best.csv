@@ -1,0 +1,7 @@
+problem,model,status,score,%test passed,time,memory
+aquarelle,gpt-o3-mini-high,RUNTIME_ERROR,0,51.82%,0.130,2.109375
+parentheses,gpt-o3-mini-high,ACCEPTED,100,100.00%,0.190,7.26953125
+tolls,gpt-o3-mini-high,ACCEPTED,100,100.00%,0.190,5.9375
+twins,gpt-o3-mini-high,RUNTIME_ERROR,40,35.88%,0.130,2.54296875
+walk,gpt-o3-mini-high,ACCEPTED,100,100.00%,0.380,18.53515625
+xy,gpt-o3-mini-high,RUNTIME_ERROR,0,2.86%,0.130,3.609375

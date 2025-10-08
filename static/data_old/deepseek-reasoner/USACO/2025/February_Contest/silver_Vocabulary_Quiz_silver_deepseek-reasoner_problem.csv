@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Vocabulary_Quiz_deepseek-reasoner_0.cpp,RUNTIME_ERROR,0,0.00%,0.180,20.11328125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Vocabulary_Quiz_deepseek-reasoner_1.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,1.340,279.4453125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Vocabulary_Quiz_deepseek-reasoner_2.cpp,RUNTIME_ERROR,0,0.00%,0.170,16.53515625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Vocabulary_Quiz_deepseek-reasoner_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.220,170.81640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Vocabulary_Quiz_deepseek-reasoner_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.230,19.8046875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Vocabulary_Quiz_deepseek-reasoner_5.cpp,RUNTIME_ERROR,0,0.00%,0.230,20.1171875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Vocabulary_Quiz_deepseek-reasoner_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.480,224.67578125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Vocabulary_Quiz_deepseek-reasoner_7.cpp,RUNTIME_ERROR,0,0.00%,0.170,20.1171875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

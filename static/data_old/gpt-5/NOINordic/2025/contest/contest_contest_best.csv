@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+diplomacy,gpt-5,ACCEPTED,100,100.00%,1.260,59.8046875
+garbage,gpt-5,ACCEPTED,100,100.00%,0.260,21.95703125
+xoracle,gpt-5,ACCEPTED,100,100.00%,0.460,3.7734375

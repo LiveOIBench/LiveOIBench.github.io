@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_FEB,Qwen2.5-Coder-7B-Instruct,RUNTIME_ERROR,39,10.00%,0.110,1.734375
+bronze_Moo_Language,Qwen2.5-Coder-7B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Rotate_and_Shift,Qwen2.5-Coder-7B-Instruct,TIME_LIMIT_EXCEEDED,167,53.85%,4.430,2.07421875

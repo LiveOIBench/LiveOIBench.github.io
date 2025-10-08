@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Rotate_and_Shift_Qwen3-4B_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.820,3.65234375,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Rotate_and_Shift_Qwen3-4B_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.820,3.484375,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Rotate_and_Shift_Qwen3-4B_2.cpp,TIME_LIMIT_EXCEEDED,167,53.85%,4.820,2.85546875,0,27.777777777777775,0,0,0,27.777777777777775,27.777777777777775,27.777777777777775,27.777777777777775,27.777777777777775,0,0,0
+bronze_Rotate_and_Shift_Qwen3-4B_3.cpp,WRONG_ANSWER,0,0.00%,0.110,12.12109375,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Rotate_and_Shift_Qwen3-4B_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.820,2.859375,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Rotate_and_Shift_Qwen3-4B_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.820,2.93359375,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Rotate_and_Shift_Qwen3-4B_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.810,2.86328125,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Rotate_and_Shift_Qwen3-4B_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.820,3.23046875,0,0,0,0,0,0,0,0,0,0,0,0,0

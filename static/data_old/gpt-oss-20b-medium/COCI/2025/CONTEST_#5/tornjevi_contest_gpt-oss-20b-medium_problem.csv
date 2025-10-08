@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+tornjevi_gpt-oss-20b-medium_0.cpp,ACCEPTED,90,100.00%,0.440,85.23828125,7,11,17,29,26
+tornjevi_gpt-oss-20b-medium_1.cpp,ACCEPTED,90,100.00%,0.320,12.90234375,7,11,17,29,26
+tornjevi_gpt-oss-20b-medium_2.cpp,ACCEPTED,90,100.00%,0.350,12.8984375,7,11,17,29,26
+tornjevi_gpt-oss-20b-medium_3.cpp,ACCEPTED,90,100.00%,0.440,85.09375,7,11,17,29,26
+tornjevi_gpt-oss-20b-medium_4.cpp,ACCEPTED,90,100.00%,0.430,89.0546875,7,11,17,29,26
+tornjevi_gpt-oss-20b-medium_5.cpp,ACCEPTED,90,100.00%,0.430,89.0546875,7,11,17,29,26
+tornjevi_gpt-oss-20b-medium_6.cpp,ACCEPTED,90,100.00%,0.450,89.0546875,7,11,17,29,26
+tornjevi_gpt-oss-20b-medium_7.cpp,ACCEPTED,90,100.00%,0.300,12.8984375,7,11,17,29,26

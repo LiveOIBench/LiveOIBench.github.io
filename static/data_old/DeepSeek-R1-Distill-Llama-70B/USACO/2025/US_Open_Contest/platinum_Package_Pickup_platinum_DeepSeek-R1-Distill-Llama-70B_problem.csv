@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Package_Pickup_DeepSeek-R1-Distill-Llama-70B_0.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.380,225.4921875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Package_Pickup_DeepSeek-R1-Distill-Llama-70B_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Package_Pickup_DeepSeek-R1-Distill-Llama-70B_2.cpp,RUNTIME_ERROR,0,0.00%,0.140,1.87890625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Package_Pickup_DeepSeek-R1-Distill-Llama-70B_3.cpp,RUNTIME_ERROR,0,0.00%,0.110,0.00390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Package_Pickup_DeepSeek-R1-Distill-Llama-70B_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Package_Pickup_DeepSeek-R1-Distill-Llama-70B_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Package_Pickup_DeepSeek-R1-Distill-Llama-70B_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,3.980,192.5078125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Package_Pickup_DeepSeek-R1-Distill-Llama-70B_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.280,139.29296875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

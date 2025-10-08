@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bessies_Interview,Llama-3.1-8B-Instruct,WRONG_ANSWER,0,0.00%,0.130,2.84765625
+silver_Painting_Fence_Posts,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_The_Winning_Gene,Llama-3.1-8B-Instruct,WRONG_ANSWER,0,0.00%,0.110,1.578125

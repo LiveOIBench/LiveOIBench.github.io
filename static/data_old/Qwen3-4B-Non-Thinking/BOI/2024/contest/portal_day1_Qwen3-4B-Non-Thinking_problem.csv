@@ -1,0 +1,6 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+portal_Qwen3-4B-Non-Thinking_0.cpp,RUNTIME_ERROR,0,0.58%,0.080,2.33984375,0,0,0,0,0,0
+portal_Qwen3-4B-Non-Thinking_2.cpp,TIME_LIMIT_EXCEEDED,1,10.53%,1.160,2.34375,1,0,0,0,0,0
+portal_Qwen3-4B-Non-Thinking_3.cpp,RUNTIME_ERROR,0,0.00%,0.130,10.57421875,0,0,0,0,0,0
+portal_Qwen3-4B-Non-Thinking_6.cpp,TIME_LIMIT_EXCEEDED,1,10.53%,1.120,10.578125,1,0,0,0,0,0
+portal_Qwen3-4B-Non-Thinking_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0

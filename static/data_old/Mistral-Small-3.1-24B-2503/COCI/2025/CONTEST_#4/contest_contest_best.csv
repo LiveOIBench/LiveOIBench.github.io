@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+sah,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,32,63.24%,0.090,1.9609375
+benzinska,Mistral-Small-3.1-24B-2503,TIME_LIMIT_EXCEEDED,40,84.00%,1.210,6.19140625
+xor,Mistral-Small-3.1-24B-2503,UNKNOWN,0,0.00%,0.000,0
+cipele,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,0.00%,0.240,13.9140625
+tura,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,0.72%,0.070,2.265625

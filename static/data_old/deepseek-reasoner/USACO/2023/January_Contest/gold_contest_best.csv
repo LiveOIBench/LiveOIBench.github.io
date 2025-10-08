@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Find_and_Replace,deepseek-reasoner,TIME_LIMIT_EXCEEDED,143,46.67%,2.230,49.25
+gold_Lights_Off,deepseek-reasoner,TIME_LIMIT_EXCEEDED,37,20.00%,4.420,279.90625
+gold_Moo_Route,deepseek-reasoner,WRONG_ANSWER,0,4.76%,0.040,1.7578125

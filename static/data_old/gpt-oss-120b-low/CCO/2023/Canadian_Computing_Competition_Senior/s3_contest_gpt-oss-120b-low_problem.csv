@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+s3_gpt-oss-120b-low_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+s3_gpt-oss-120b-low_1.cpp,RUNTIME_ERROR,0,0.00%,0.020,5.16796875,0,0,0,0
+s3_gpt-oss-120b-low_2.cpp,RUNTIME_ERROR,0,0.00%,0.020,1.81640625,0,0,0,0
+s3_gpt-oss-120b-low_3.cpp,RUNTIME_ERROR,0,2.38%,0.050,34.5546875,0,0,0,0
+s3_gpt-oss-120b-low_4.cpp,RUNTIME_ERROR,0,3.57%,0.030,5.1640625,0,0,0,0
+s3_gpt-oss-120b-low_5.cpp,RUNTIME_ERROR,0,3.57%,0.100,34.5546875,0,0,0,0
+s3_gpt-oss-120b-low_6.cpp,RUNTIME_ERROR,0,0.00%,0.080,5.16796875,0,0,0,0
+s3_gpt-oss-120b-low_7.cpp,RUNTIME_ERROR,0,10.71%,0.120,34.5546875,0,0,0,0

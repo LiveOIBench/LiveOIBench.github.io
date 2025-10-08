@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Logical_Moos,Qwen2.5-Coder-7B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Walking_Along_a_Fence,Qwen2.5-Coder-7B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Farmer_Johns_Favorite_Permutation,Qwen2.5-Coder-7B-Instruct,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.140,7.328125

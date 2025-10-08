@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Cowntact_Tracing,Llama-4-Scout,RUNTIME_ERROR,0,0.00%,0.020,1.796875
+platinum_A_Graph_Problem,Llama-4-Scout,TIME_LIMIT_EXCEEDED,0,4.35%,2.470,162.14453125
+platinum_Train_Scheduling,Llama-4-Scout,RUNTIME_ERROR,0,8.33%,0.020,0.00390625

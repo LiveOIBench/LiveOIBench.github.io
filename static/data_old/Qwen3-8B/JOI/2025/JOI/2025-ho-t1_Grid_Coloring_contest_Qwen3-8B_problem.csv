@@ -1,0 +1,5 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+2025-ho-t1_Grid_Coloring_Qwen3-8B_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.410,19.59765625,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_Qwen3-8B_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.410,19.59765625,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_Qwen3-8B_2.cpp,RUNTIME_ERROR,0,3.41%,0.210,56.20703125,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_Qwen3-8B_5.cpp,RUNTIME_ERROR,0,0.00%,0.280,77.60546875,0,0,0,0,0

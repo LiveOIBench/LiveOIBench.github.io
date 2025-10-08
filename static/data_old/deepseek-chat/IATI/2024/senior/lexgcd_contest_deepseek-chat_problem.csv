@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+lexgcd_deepseek-chat_0.cpp,TIME_LIMIT_EXCEEDED,0,4.92%,1.810,2.88671875,0,0,0,0,0,0,0
+lexgcd_deepseek-chat_1.cpp,MEMORY_LIMIT_EXCEEDED,0,4.92%,0.310,613.5,0,0,0,0,0,0,0
+lexgcd_deepseek-chat_2.cpp,TIME_LIMIT_EXCEEDED,0,4.92%,1.820,3.359375,0,0,0,0,0,0,0
+lexgcd_deepseek-chat_3.cpp,TIME_LIMIT_EXCEEDED,0,4.92%,1.880,3.359375,0,0,0,0,0,0,0
+lexgcd_deepseek-chat_4.cpp,TIME_LIMIT_EXCEEDED,0,4.92%,1.850,2.88671875,0,0,0,0,0,0,0
+lexgcd_deepseek-chat_5.cpp,TIME_LIMIT_EXCEEDED,0,4.92%,1.850,2.8828125,0,0,0,0,0,0,0
+lexgcd_deepseek-chat_6.cpp,RUNTIME_ERROR,0,5.74%,0.220,2.8828125,0,0,0,0,0,0,0
+lexgcd_deepseek-chat_7.cpp,TIME_LIMIT_EXCEEDED,0,4.92%,1.850,3.65234375,0,0,0,0,0,0,0

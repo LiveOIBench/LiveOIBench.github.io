@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+benzinska_deepseek-chat_0.cpp,RUNTIME_ERROR,0,6.00%,0.070,2.84375,0,0,0
+benzinska_deepseek-chat_1.cpp,ACCEPTED,70,100.00%,0.080,3.90625,15,30,25
+benzinska_deepseek-chat_2.cpp,ACCEPTED,70,100.00%,0.090,3.89453125,15,30,25
+benzinska_deepseek-chat_3.cpp,ACCEPTED,70,100.00%,0.080,3.8984375,15,30,25
+benzinska_deepseek-chat_4.cpp,ACCEPTED,70,100.00%,0.080,3.640625,15,30,25
+benzinska_deepseek-chat_5.cpp,ACCEPTED,70,100.00%,0.080,3.89453125,15,30,25
+benzinska_deepseek-chat_6.cpp,ACCEPTED,70,100.00%,0.080,3.90234375,15,30,25
+benzinska_deepseek-chat_7.cpp,ACCEPTED,70,100.00%,0.080,3.39453125,15,30,25

@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Job_Completion_Qwen3-8B_0.cpp,WRONG_ANSWER,22,12.50%,0.100,4.64453125,0,22.22222222222222,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Job_Completion_Qwen3-8B_1.cpp,WRONG_ANSWER,67,25.00%,0.110,5.26171875,0,22.22222222222222,0,0,22.22222222222222,22.22222222222222,0,0,0,0,0,0,0,0,0,0
+gold_Job_Completion_Qwen3-8B_2.cpp,WRONG_ANSWER,22,12.50%,0.110,4.64453125,0,22.22222222222222,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Job_Completion_Qwen3-8B_4.cpp,WRONG_ANSWER,67,25.00%,0.100,5.9296875,0,22.22222222222222,0,0,22.22222222222222,22.22222222222222,0,0,0,0,0,0,0,0,0,0
+gold_Job_Completion_Qwen3-8B_5.cpp,WRONG_ANSWER,22,12.50%,0.100,4.640625,0,22.22222222222222,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Job_Completion_Qwen3-8B_6.cpp,WRONG_ANSWER,22,12.50%,0.100,4.64453125,0,22.22222222222222,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Job_Completion_Qwen3-8B_7.cpp,WRONG_ANSWER,22,12.50%,0.110,4.64453125,0,22.22222222222222,0,0,0,0,0,0,0,0,0,0,0,0,0,0

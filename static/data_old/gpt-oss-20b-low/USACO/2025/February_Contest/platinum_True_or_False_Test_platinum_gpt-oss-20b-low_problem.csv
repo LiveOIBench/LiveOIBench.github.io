@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_True_or_False_Test_gpt-oss-20b-low_0.cpp,WRONG_ANSWER,0,5.00%,0.070,8.2578125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_True_or_False_Test_gpt-oss-20b-low_1.cpp,WRONG_ANSWER,0,5.00%,0.060,7.48828125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_True_or_False_Test_gpt-oss-20b-low_2.cpp,WRONG_ANSWER,0,5.00%,0.060,9.03125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_True_or_False_Test_gpt-oss-20b-low_3.cpp,WRONG_ANSWER,0,5.00%,0.060,7.48828125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_True_or_False_Test_gpt-oss-20b-low_4.cpp,WRONG_ANSWER,0,5.00%,0.050,8.26171875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_True_or_False_Test_gpt-oss-20b-low_6.cpp,WRONG_ANSWER,0,5.00%,0.070,9.03515625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_True_or_False_Test_gpt-oss-20b-low_7.cpp,WRONG_ANSWER,0,5.00%,0.060,12.8984375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

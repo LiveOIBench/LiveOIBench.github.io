@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4
+2023-sp_Two_Currencies_deepseek-chat_0.cpp,RUNTIME_ERROR,0,0.00%,0.040,8.51171875,0,0,0,0
+2023-sp_Two_Currencies_deepseek-chat_1.cpp,TIME_LIMIT_EXCEEDED,10,62.16%,4.440,28.9765625,10,0,0,0
+2023-sp_Two_Currencies_deepseek-chat_2.cpp,RUNTIME_ERROR,0,0.00%,0.040,8.515625,0,0,0,0
+2023-sp_Two_Currencies_deepseek-chat_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+2023-sp_Two_Currencies_deepseek-chat_4.cpp,RUNTIME_ERROR,0,0.00%,0.040,6.19921875,0,0,0,0
+2023-sp_Two_Currencies_deepseek-chat_5.cpp,TIME_LIMIT_EXCEEDED,10,62.16%,4.410,26.5703125,10,0,0,0
+2023-sp_Two_Currencies_deepseek-chat_6.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0
+2023-sp_Two_Currencies_deepseek-chat_7.cpp,TIME_LIMIT_EXCEEDED,10,62.16%,4.460,31.8125,10,0,0,0

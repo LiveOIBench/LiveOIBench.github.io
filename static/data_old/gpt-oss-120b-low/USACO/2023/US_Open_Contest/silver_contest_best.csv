@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Milk_Sum,gpt-oss-120b-low,ACCEPTED,333,100.00%,0.170,12.8984375
+silver_Field_Day,gpt-oss-120b-low,ACCEPTED,333,100.00%,0.070,3.36328125
+silver_Pareidolia,gpt-oss-120b-low,ACCEPTED,333,100.00%,0.050,1.49609375

@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Bessies_Function_Llama-3.1-8B-Instruct_0.cpp,RUNTIME_ERROR,0,0.00%,0.140,9.50390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessies_Function_Llama-3.1-8B-Instruct_1.cpp,RUNTIME_ERROR,0,0.00%,1.120,22.59765625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessies_Function_Llama-3.1-8B-Instruct_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessies_Function_Llama-3.1-8B-Instruct_3.cpp,RUNTIME_ERROR,35,9.52%,0.150,15.25390625,0,0,0,0,0,0,0,0,17.543859649122805,0,0,0,0,0,17.543859649122805,0,0,0,0,0
+gold_Bessies_Function_Llama-3.1-8B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.290,16.12109375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessies_Function_Llama-3.1-8B-Instruct_5.cpp,RUNTIME_ERROR,0,0.00%,0.250,265.04296875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessies_Function_Llama-3.1-8B-Instruct_6.cpp,RUNTIME_ERROR,0,0.00%,0.240,265.05859375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

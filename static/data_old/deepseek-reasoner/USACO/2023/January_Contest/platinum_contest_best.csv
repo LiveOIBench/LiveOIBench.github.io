@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Tractor_Paths,deepseek-reasoner,WRONG_ANSWER,0,6.25%,0.100,7.6328125
+platinum_Mana_Collection,deepseek-reasoner,WRONG_ANSWER,0,4.17%,0.080,0.00390625
+platinum_Subtree_Activation,deepseek-reasoner,WRONG_ANSWER,0,4.76%,0.040,0.00390625

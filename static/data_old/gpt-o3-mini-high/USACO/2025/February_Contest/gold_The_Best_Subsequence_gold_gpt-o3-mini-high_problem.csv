@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_The_Best_Subsequence_gpt-o3-mini-high_0.cpp,TIME_LIMIT_EXCEEDED,78,35.00%,2.230,13.48828125,0,19.6078431372549,0,0,0,0,0,0,0,0,19.6078431372549,19.6078431372549,19.6078431372549,0,0,0,0,0
+gold_The_Best_Subsequence_gpt-o3-mini-high_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.230,28.390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_The_Best_Subsequence_gpt-o3-mini-high_2.cpp,TIME_LIMIT_EXCEEDED,59,30.00%,2.230,53.1953125,0,19.6078431372549,0,0,0,0,0,0,0,0,0,19.6078431372549,19.6078431372549,0,0,0,0,0
+gold_The_Best_Subsequence_gpt-o3-mini-high_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.240,15.92578125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_The_Best_Subsequence_gpt-o3-mini-high_4.cpp,TIME_LIMIT_EXCEEDED,20,20.00%,2.250,15.87109375,0,19.6078431372549,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_The_Best_Subsequence_gpt-o3-mini-high_5.cpp,TIME_LIMIT_EXCEEDED,98,40.00%,2.220,18.49609375,0,19.6078431372549,0,0,0,0,0,0,0,19.6078431372549,19.6078431372549,19.6078431372549,19.6078431372549,0,0,0,0,0
+gold_The_Best_Subsequence_gpt-o3-mini-high_6.cpp,TIME_LIMIT_EXCEEDED,78,35.00%,2.220,17.40625,0,19.6078431372549,0,0,0,0,0,0,0,0,19.6078431372549,19.6078431372549,19.6078431372549,0,0,0,0,0
+gold_The_Best_Subsequence_gpt-o3-mini-high_7.cpp,TIME_LIMIT_EXCEEDED,78,35.00%,2.250,12.32421875,0,19.6078431372549,0,0,0,0,0,0,0,0,19.6078431372549,19.6078431372549,19.6078431372549,0,0,0,0,0

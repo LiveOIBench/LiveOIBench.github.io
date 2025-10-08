@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bakery,gpt-4.1,WRONG_ANSWER,100,36.36%,0.110,0.00390625
+silver_Cow-libi,gpt-4.1,WRONG_ANSWER,0,9.09%,0.160,10.578125
+silver_Moo_Route_II,gpt-4.1,RUNTIME_ERROR,130,35.00%,0.210,14.37109375

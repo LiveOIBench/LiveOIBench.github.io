@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+j3_seed-oss_0.cpp,ACCEPTED,15,100.00%,0.030,2.33203125,6,7,2
+j3_seed-oss_1.cpp,ACCEPTED,15,100.00%,0.030,0.00390625,6,7,2
+j3_seed-oss_2.cpp,ACCEPTED,15,100.00%,0.030,0.00390625,6,7,2
+j3_seed-oss_3.cpp,ACCEPTED,15,100.00%,0.040,0.00390625,6,7,2
+j3_seed-oss_4.cpp,RUNTIME_ERROR,6,33.33%,0.040,2.33203125,6,0,0
+j3_seed-oss_5.cpp,ACCEPTED,15,100.00%,0.040,0.00390625,6,7,2
+j3_seed-oss_6.cpp,RUNTIME_ERROR,6,22.22%,0.030,0.00390625,6,0,0
+j3_seed-oss_7.cpp,ACCEPTED,15,100.00%,0.030,0.00390625,6,7,2

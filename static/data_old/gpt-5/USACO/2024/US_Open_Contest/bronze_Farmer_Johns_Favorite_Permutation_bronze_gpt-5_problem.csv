@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Farmer_Johns_Favorite_Permutation_gpt-5_0.cpp,ACCEPTED,333,100.00%,0.580,7.87109375,0,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333
+bronze_Farmer_Johns_Favorite_Permutation_gpt-5_1.cpp,WRONG_ANSWER,0,9.09%,0.310,6.3125,0,0,0,0,0,0,0,0,0,0,0
+bronze_Farmer_Johns_Favorite_Permutation_gpt-5_2.cpp,WRONG_ANSWER,0,9.09%,0.330,6.30859375,0,0,0,0,0,0,0,0,0,0,0
+bronze_Farmer_Johns_Favorite_Permutation_gpt-5_3.cpp,WRONG_ANSWER,0,9.09%,0.520,6.7109375,0,0,0,0,0,0,0,0,0,0,0
+bronze_Farmer_Johns_Favorite_Permutation_gpt-5_4.cpp,ACCEPTED,333,100.00%,0.820,7.73828125,0,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333
+bronze_Farmer_Johns_Favorite_Permutation_gpt-5_5.cpp,WRONG_ANSWER,0,9.09%,0.150,4.28515625,0,0,0,0,0,0,0,0,0,0,0
+bronze_Farmer_Johns_Favorite_Permutation_gpt-5_6.cpp,WRONG_ANSWER,0,9.09%,0.240,6.31640625,0,0,0,0,0,0,0,0,0,0,0
+bronze_Farmer_Johns_Favorite_Permutation_gpt-5_7.cpp,WRONG_ANSWER,0,9.09%,0.320,6.3125,0,0,0,0,0,0,0,0,0,0,0

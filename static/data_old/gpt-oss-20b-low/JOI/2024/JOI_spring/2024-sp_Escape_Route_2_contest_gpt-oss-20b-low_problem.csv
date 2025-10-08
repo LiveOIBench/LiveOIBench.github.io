@@ -1,0 +1,4 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+2024-sp_Escape_Route_2_gpt-oss-20b-low_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.410,31.6015625,0,0,0,0,0,0
+2024-sp_Escape_Route_2_gpt-oss-20b-low_4.cpp,RUNTIME_ERROR,0,0.00%,0.040,2.84765625,0,0,0,0,0,0
+2024-sp_Escape_Route_2_gpt-oss-20b-low_6.cpp,RUNTIME_ERROR,0,0.00%,0.050,0.00390625,0,0,0,0,0,0

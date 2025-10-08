@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+parentheses_gpt-4.1_0.cpp,ACCEPTED,100,100.00%,0.220,8.046875,0,5,10,10,15,15,45
+parentheses_gpt-4.1_1.cpp,RUNTIME_ERROR,0,3.10%,0.230,15.63671875,0,0,0,0,0,0,0
+parentheses_gpt-4.1_2.cpp,RUNTIME_ERROR,40,91.44%,0.210,18.73046875,0,5,10,10,15,0,0
+parentheses_gpt-4.1_3.cpp,RUNTIME_ERROR,0,2.34%,0.250,17.18359375,0,0,0,0,0,0,0
+parentheses_gpt-4.1_4.cpp,RUNTIME_ERROR,0,2.34%,0.160,6.4921875,0,0,0,0,0,0,0
+parentheses_gpt-4.1_5.cpp,ACCEPTED,100,100.00%,0.220,6.5,0,5,10,10,15,15,45
+parentheses_gpt-4.1_6.cpp,RUNTIME_ERROR,40,91.44%,0.370,39.8125,0,5,10,10,15,0,0
+parentheses_gpt-4.1_7.cpp,TIME_LIMIT_EXCEEDED,0,3.10%,0.440,12.9375,0,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cow_Checkups,Mistral-Small-3.1-24B-2503,TIME_LIMIT_EXCEEDED,0,8.70%,2.500,33.21484375
+silver_Farmer_Johns_Favorite_Operation,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Table_Recovery,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,6.67%,0.370,8.95703125

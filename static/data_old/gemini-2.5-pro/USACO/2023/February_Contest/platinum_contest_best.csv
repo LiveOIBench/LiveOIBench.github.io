@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Hungry_Cow,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,17,13.64%,6.620,5.75
+platinum_Problem_Setting,gemini-2.5-pro,WRONG_ANSWER,33,13.64%,0.130,33.96875
+platinum_Watching_Cowflix,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,76,29.17%,3.340,280.875

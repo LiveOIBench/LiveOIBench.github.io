@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+zid_gpt-oss-20b-medium_0.cpp,ACCEPTED,70,100.00%,0.130,1.5546875,17,21,32
+zid_gpt-oss-20b-medium_1.cpp,ACCEPTED,70,100.00%,0.210,1.5546875,17,21,32
+zid_gpt-oss-20b-medium_2.cpp,ACCEPTED,70,100.00%,0.220,1.5546875,17,21,32
+zid_gpt-oss-20b-medium_3.cpp,ACCEPTED,70,100.00%,0.210,1.5546875,17,21,32
+zid_gpt-oss-20b-medium_4.cpp,ACCEPTED,70,100.00%,0.160,1.5546875,17,21,32
+zid_gpt-oss-20b-medium_5.cpp,ACCEPTED,70,100.00%,0.160,2.5859375,17,21,32
+zid_gpt-oss-20b-medium_6.cpp,ACCEPTED,70,100.00%,0.170,2.5859375,17,21,32
+zid_gpt-oss-20b-medium_7.cpp,ACCEPTED,70,100.00%,0.220,1.5546875,17,21,32

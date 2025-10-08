@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+cern,QwQ-32B,RUNTIME_ERROR,0,17.86%,1.290,12.90234375
+koreografija,QwQ-32B,COMPILATION_ERROR,0,0.00%,0.000,0
+ministarstvo,QwQ-32B,RUNTIME_ERROR,0,1.75%,0.150,9.0390625
+sirologija,QwQ-32B,RUNTIME_ERROR,0,0.57%,0.110,8.515625

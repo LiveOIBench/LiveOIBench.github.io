@@ -1,0 +1,12 @@
+problem,model,status,score,%test passed,time,memory
+2023-sp_Two_Currencies,gpt-oss-20b-medium,ACCEPTED,100,100.00%,0.370,64.3359375
+2023-sp_Passport,gpt-oss-20b-medium,RUNTIME_ERROR,6,47.14%,0.050,9.00390625
+2023-sp_Belt_Conveyor,gpt-oss-20b-medium,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Council,gpt-oss-20b-medium,RUNTIME_ERROR,0,24.00%,0.130,17.3515625
+2023-sp_Mizuyokan_2,gpt-oss-20b-medium,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Chorus,gpt-oss-20b-medium,RUNTIME_ERROR,0,0.00%,0.000,0
+2023-sp_Cookies,gpt-oss-20b-medium,ACCEPTED,100,100.00%,0.050,1.6015625
+2023-sp_Tourism,gpt-oss-20b-medium,TIME_LIMIT_EXCEEDED,28,84.55%,4.820,29.19140625
+2023-sp_Super_Dango_Maker,gpt-oss-20b-medium,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Security_Guard,gpt-oss-20b-medium,RUNTIME_ERROR,0,0.00%,0.030,2.7890625
+2023-sp_Bitaro’s_travel,gpt-oss-20b-medium,RUNTIME_ERROR,5,65.91%,0.070,9.03515625

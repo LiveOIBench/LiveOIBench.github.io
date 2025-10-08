@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+boi,gpt-o3-mini-high,RUNTIME_ERROR,0,11.90%,0.010,0.00390625
+tou,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,32,55.17%,2.210,70.96875
+tow,gpt-o3-mini-high,RUNTIME_ERROR,0,0.00%,0.020,1.48046875

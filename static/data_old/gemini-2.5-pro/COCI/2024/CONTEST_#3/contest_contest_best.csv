@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+eurokod,gemini-2.5-pro,ACCEPTED,50,100.00%,0.000,0
+vrsar,gemini-2.5-pro,ACCEPTED,70,100.00%,0.580,35.921875
+milano,gemini-2.5-pro,ACCEPTED,110,100.00%,0.090,3.6171875
+restorani,gemini-2.5-pro,RUNTIME_ERROR,0,2.05%,0.310,122.6015625
+cesta,gemini-2.5-pro,ACCEPTED,110,100.00%,1.140,184.359375

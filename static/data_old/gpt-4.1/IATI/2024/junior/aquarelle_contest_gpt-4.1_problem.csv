@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+aquarelle_gpt-4.1_0.cpp,RUNTIME_ERROR,0,5.88%,0.000,0,0,0,0,0,0,0
+aquarelle_gpt-4.1_1.cpp,RUNTIME_ERROR,0,5.88%,0.000,0,0,0,0,0,0,0
+aquarelle_gpt-4.1_2.cpp,TIME_LIMIT_EXCEEDED,11,68.24%,0.430,3.83203125,0,11,0,0,0,0
+aquarelle_gpt-4.1_3.cpp,RUNTIME_ERROR,0,5.88%,0.130,2.90234375,0,0,0,0,0,0
+aquarelle_gpt-4.1_4.cpp,RUNTIME_ERROR,0,5.88%,0.000,0,0,0,0,0,0,0
+aquarelle_gpt-4.1_5.cpp,RUNTIME_ERROR,0,5.88%,0.000,0,0,0,0,0,0,0
+aquarelle_gpt-4.1_6.cpp,RUNTIME_ERROR,0,20.62%,0.110,0,0,0,0,0,0,0
+aquarelle_gpt-4.1_7.cpp,RUNTIME_ERROR,0,5.88%,0.110,0,0,0,0,0,0,0

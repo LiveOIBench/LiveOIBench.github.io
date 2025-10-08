@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Hoof_Paper_Scissors_Minus_One,QwQ-32B,ACCEPTED,333,100.00%,0.150,9.8046875
+bronze_More_Cow_Photos,QwQ-32B,ACCEPTED,333,100.00%,0.170,1.86328125
+bronze_Its_Mooin_Time_III,QwQ-32B,ACCEPTED,333,100.00%,0.610,11.8671875

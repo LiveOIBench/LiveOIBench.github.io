@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Forklift_Certified,Qwen3-32B,RUNTIME_ERROR,95,25.00%,0.240,4.15234375
+platinum_Lazy_Sort,Qwen3-32B,WRONG_ANSWER,0,13.33%,0.040,0
+platinum_Package_Pickup,Qwen3-32B,MEMORY_LIMIT_EXCEEDED,0,10.00%,0.180,272.8046875

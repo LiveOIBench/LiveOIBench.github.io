@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+iksevi_DeepSeek-R1-Distill-Llama-70B_0.cpp,RUNTIME_ERROR,0,0.00%,1.200,0.00390625,0,0,0
+iksevi_DeepSeek-R1-Distill-Llama-70B_1.cpp,RUNTIME_ERROR,0,0.00%,1.130,0.00390625,0,0,0
+iksevi_DeepSeek-R1-Distill-Llama-70B_2.cpp,RUNTIME_ERROR,0,0.00%,0.160,77.61328125,0,0,0
+iksevi_DeepSeek-R1-Distill-Llama-70B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+iksevi_DeepSeek-R1-Distill-Llama-70B_4.cpp,RUNTIME_ERROR,0,0.00%,0.260,77.5703125,0,0,0
+iksevi_DeepSeek-R1-Distill-Llama-70B_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+iksevi_DeepSeek-R1-Distill-Llama-70B_6.cpp,RUNTIME_ERROR,0,0.00%,0.920,0.00390625,0,0,0
+iksevi_DeepSeek-R1-Distill-Llama-70B_7.cpp,RUNTIME_ERROR,0,0.00%,1.210,9.03125,0,0,0

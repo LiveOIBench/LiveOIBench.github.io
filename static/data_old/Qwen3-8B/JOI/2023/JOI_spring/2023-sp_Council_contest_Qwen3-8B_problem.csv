@@ -1,0 +1,7 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+2023-sp_Council_Qwen3-8B_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.620,22.44140625,0,0,0,0,0,0,0
+2023-sp_Council_Qwen3-8B_1.cpp,RUNTIME_ERROR,0,3.77%,0.260,2.58984375,0,0,0,0,0,0,0
+2023-sp_Council_Qwen3-8B_3.cpp,TIME_LIMIT_EXCEEDED,16,71.95%,3.610,2.5859375,8,8,0,0,0,0,0
+2023-sp_Council_Qwen3-8B_4.cpp,TIME_LIMIT_EXCEEDED,16,71.95%,3.630,19.60546875,8,8,0,0,0,0,0
+2023-sp_Council_Qwen3-8B_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.620,20.89453125,0,0,0,0,0,0,0
+2023-sp_Council_Qwen3-8B_7.cpp,TIME_LIMIT_EXCEEDED,16,71.95%,3.620,17.28515625,8,8,0,0,0,0,0

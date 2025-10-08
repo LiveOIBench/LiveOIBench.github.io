@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Lights_Off_deepseek-reasoner_0.cpp,TIME_LIMIT_EXCEEDED,0,5.00%,4.420,1.609375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Lights_Off_deepseek-reasoner_1.cpp,TIME_LIMIT_EXCEEDED,19,15.00%,4.410,279.10546875,0,18.51851851851852,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Lights_Off_deepseek-reasoner_2.cpp,TIME_LIMIT_EXCEEDED,0,10.00%,4.430,53.12109375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Lights_Off_deepseek-reasoner_3.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.040,1.69921875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Lights_Off_deepseek-reasoner_4.cpp,TIME_LIMIT_EXCEEDED,37,20.00%,4.420,279.90625,0,18.51851851851852,0,0,0,0,0,0,0,0,0,18.51851851851852,0,0,0,0,0,0,0
+gold_Lights_Off_deepseek-reasoner_5.cpp,TIME_LIMIT_EXCEEDED,0,5.00%,4.420,15.20703125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Lights_Off_deepseek-reasoner_6.cpp,RUNTIME_ERROR,0,0.00%,0.130,6.27734375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Lights_Off_deepseek-reasoner_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.420,21.3828125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

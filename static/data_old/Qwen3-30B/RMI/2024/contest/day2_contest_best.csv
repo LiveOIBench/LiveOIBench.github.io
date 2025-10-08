@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Jump_Civilization,Qwen3-30B,RUNTIME_ERROR,11,15.69%,0.160,26.546875
+Ramen,Qwen3-30B,COMPILATION_ERROR,0,0.00%,0.000,0
+Signals,Qwen3-30B,MEMORY_LIMIT_EXCEEDED,2,11.43%,0.310,34.609375

@@ -1,0 +1,8 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+boi,RUNTIME_ERROR,0,11.90%,0.010,0.00390625,,0,0,0,0,0,0,0
+tou,TIME_LIMIT_EXCEEDED,32,55.17%,2.210,70.96875,,0,9,23,0,0,0,0
+tow,RUNTIME_ERROR,0,0.00%,0.020,1.48046875,,0,0,0,0,0,0,0
+dev,TIME_LIMIT_EXCEEDED,0,4.40%,2.220,4.390625,,0,0,0,0,0,0,0
+exp,TIME_LIMIT_EXCEEDED,0,10.07%,1.120,68.44921875,,0,0,0,0,0,0,0
+gcd,ACCEPTED,100,100.00%,0.080,5.16796875,,0,17,34,11,38,0,0
+TOTAL,,132,30.26%,,,16.67%,,,,,,,

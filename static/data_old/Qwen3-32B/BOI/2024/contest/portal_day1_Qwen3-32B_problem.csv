@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+portal_Qwen3-32B_0.cpp,RUNTIME_ERROR,11,33.51%,0.030,2.84765625,1,10,0,0,0,0
+portal_Qwen3-32B_1.cpp,RUNTIME_ERROR,11,33.51%,0.020,4.1640625,1,10,0,0,0,0
+portal_Qwen3-32B_2.cpp,RUNTIME_ERROR,11,33.51%,0.030,2.84765625,1,10,0,0,0,0
+portal_Qwen3-32B_3.cpp,RUNTIME_ERROR,11,33.51%,0.020,3.6484375,1,10,0,0,0,0
+portal_Qwen3-32B_4.cpp,RUNTIME_ERROR,11,32.98%,0.020,2.84765625,1,10,0,0,0,0
+portal_Qwen3-32B_5.cpp,RUNTIME_ERROR,11,32.11%,0.030,2.84375,1,10,0,0,0,0
+portal_Qwen3-32B_6.cpp,RUNTIME_ERROR,0,2.33%,0.060,2.84765625,0,0,0,0,0,0
+portal_Qwen3-32B_7.cpp,RUNTIME_ERROR,11,33.51%,0.020,2.84765625,1,10,0,0,0,0

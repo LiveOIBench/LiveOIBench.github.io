@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+bingo,seed-oss_-1,ACCEPTED,50,100.00%,0.000,0
+knjige,seed-oss_-1,ACCEPTED,70,100.00%,0.030,3.36328125
+lepeze,seed-oss_-1,RUNTIME_ERROR,0,3.85%,0.000,0
+putovanje,seed-oss_-1,TIME_LIMIT_EXCEEDED,65,74.10%,2.410,5.71875
+roboti,seed-oss_-1,TIME_LIMIT_EXCEEDED,10,34.09%,2.430,18.7421875

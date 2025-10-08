@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+wow,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,5.56%,0.000,0
+zid,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,17,33.33%,1.130,1.55859375
+tornjevi,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,50,74.07%,2.210,5.16796875
+crtez,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,0.00%,0.060,0.00390625
+stablo,Llama-3.3-70B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

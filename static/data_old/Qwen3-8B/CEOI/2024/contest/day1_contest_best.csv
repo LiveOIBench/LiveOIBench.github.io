@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+covid,Qwen3-8B,RUNTIME_ERROR,10,66.67%,1.390,1.55078125
+battle,Qwen3-8B,RUNTIME_ERROR,6,52.24%,0.570,126.703125
+editor,Qwen3-8B,TIME_LIMIT_EXCEEDED,0,15.87%,4.810,310.640625

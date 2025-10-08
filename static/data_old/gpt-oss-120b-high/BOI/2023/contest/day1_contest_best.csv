@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+astronomer,gpt-oss-120b-high,RUNTIME_ERROR,8,75.85%,5.110,1.88671875
+staringcontest,gpt-oss-120b-high,RUNTIME_ERROR,0,16.24%,0.020,1.54296875
+tycho,gpt-oss-120b-high,RUNTIME_ERROR,8,30.88%,0.050,8.3515625

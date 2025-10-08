@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+trains_gemini-2.5-flash_0.cpp,TIME_LIMIT_EXCEEDED,21,76.92%,1.120,3.62109375,8,13,0,0,0
+trains_gemini-2.5-flash_1.cpp,ACCEPTED,100,100.00%,0.140,128.14453125,8,13,16,34,29
+trains_gemini-2.5-flash_2.cpp,TIME_LIMIT_EXCEEDED,8,57.50%,1.110,314.5390625,8,0,0,0,0
+trains_gemini-2.5-flash_3.cpp,RUNTIME_ERROR,0,23.19%,0.180,4.91015625,0,0,0,0,0
+trains_gemini-2.5-flash_4.cpp,TIME_LIMIT_EXCEEDED,21,78.26%,1.120,3.62109375,8,13,0,0,0
+trains_gemini-2.5-flash_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+trains_gemini-2.5-flash_6.cpp,RUNTIME_ERROR,0,6.25%,0.010,5.421875,0,0,0,0,0
+trains_gemini-2.5-flash_7.cpp,RUNTIME_ERROR,0,23.19%,0.160,5.671875,0,0,0,0,0

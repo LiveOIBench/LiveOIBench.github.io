@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Bessies_Function,Qwen3-30B-Non-Thinking,TIME_LIMIT_EXCEEDED,18,4.76%,2.350,39.125
+gold_The_Best_Subsequence,Qwen3-30B-Non-Thinking,TIME_LIMIT_EXCEEDED,59,30.00%,2.350,9.7265625
+gold_Friendship_Editing,Qwen3-30B-Non-Thinking,TIME_LIMIT_EXCEEDED,44,27.78%,2.460,209.44140625

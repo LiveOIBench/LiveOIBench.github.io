@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+desniklik,gemini-2.5-pro,ACCEPTED,50,100.00%,0.000,0
+cokolade,gemini-2.5-pro,ACCEPTED,70,100.00%,0.100,3.6171875
+berilij,gemini-2.5-pro,RUNTIME_ERROR,0,2.27%,0.180,13.08984375
+iksevi,gemini-2.5-pro,ACCEPTED,110,100.00%,0.380,42.27734375
+neboderi,gemini-2.5-pro,ACCEPTED,110,100.00%,0.260,12.90234375

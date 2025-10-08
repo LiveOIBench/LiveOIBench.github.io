@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+toy,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,52.60%,0.040,1.55078125
+stations,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,0,4.55%,3.860,6.40625
+sprinklers,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,16.16%,0.060,1.8125

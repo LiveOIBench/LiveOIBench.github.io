@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+slasticarnica_gpt-oss-120b-low_0.cpp,TIME_LIMIT_EXCEEDED,79,77.50%,2.410,79.390625,21,0,58
+slasticarnica_gpt-oss-120b-low_1.cpp,RUNTIME_ERROR,0,2.50%,0.020,0.00390625,0,0,0
+slasticarnica_gpt-oss-120b-low_2.cpp,RUNTIME_ERROR,0,0.00%,0.020,0.00390625,0,0,0
+slasticarnica_gpt-oss-120b-low_3.cpp,RUNTIME_ERROR,0,2.50%,0.020,0.00390625,0,0,0
+slasticarnica_gpt-oss-120b-low_4.cpp,RUNTIME_ERROR,0,0.00%,0.050,27.8515625,0,0,0
+slasticarnica_gpt-oss-120b-low_5.cpp,RUNTIME_ERROR,0,2.50%,0.360,227.6953125,0,0,0
+slasticarnica_gpt-oss-120b-low_6.cpp,RUNTIME_ERROR,0,2.50%,0.020,0.00390625,0,0,0
+slasticarnica_gpt-oss-120b-low_7.cpp,TIME_LIMIT_EXCEEDED,21,27.50%,2.410,25.27734375,21,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+zastave_seed-oss_0.cpp,ACCEPTED,110,100.00%,0.080,1.81640625,41,22,47
+zastave_seed-oss_1.cpp,ACCEPTED,110,100.00%,0.080,1.81640625,41,22,47
+zastave_seed-oss_2.cpp,RUNTIME_ERROR,0,23.81%,0.060,1.81640625,0,0,0
+zastave_seed-oss_3.cpp,RUNTIME_ERROR,0,23.81%,0.070,1.54296875,0,0,0
+zastave_seed-oss_4.cpp,RUNTIME_ERROR,0,23.81%,0.070,2.07421875,0,0,0
+zastave_seed-oss_5.cpp,ACCEPTED,110,100.00%,0.070,2.07421875,41,22,47
+zastave_seed-oss_6.cpp,ACCEPTED,110,100.00%,0.080,2.58984375,41,22,47
+zastave_seed-oss_7.cpp,ACCEPTED,110,100.00%,0.070,2.07421875,41,22,47

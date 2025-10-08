@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+You_need_to_train_more_Qwen3-4B_0.cpp,TIME_LIMIT_EXCEEDED,37,69.66%,1.210,2.07421875,0.0,18.0,19.0,0,0,0
+You_need_to_train_more_Qwen3-4B_1.cpp,RUNTIME_ERROR,0,13.19%,0.000,0,0,0,0,0,0,0
+You_need_to_train_more_Qwen3-4B_2.cpp,TIME_LIMIT_EXCEEDED,74,84.62%,1.210,2.84765625,0.0,18.0,19.0,16.0,21.0,0
+You_need_to_train_more_Qwen3-4B_3.cpp,RUNTIME_ERROR,0,6.98%,0.000,0,0,0,0,0,0,0
+You_need_to_train_more_Qwen3-4B_5.cpp,TIME_LIMIT_EXCEEDED,74,84.62%,1.210,9.3984375,0.0,18.0,19.0,16.0,21.0,0
+You_need_to_train_more_Qwen3-4B_6.cpp,TIME_LIMIT_EXCEEDED,74,84.62%,1.210,3.90234375,0.0,18.0,19.0,16.0,21.0,0
+You_need_to_train_more_Qwen3-4B_7.cpp,TIME_LIMIT_EXCEEDED,74,84.62%,1.210,9.140625,0.0,18.0,19.0,16.0,21.0,0

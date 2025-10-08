@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+parentheses_Llama-3.3-70B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,0,3.10%,0.430,2.22265625,0,0,0,0,0,0,0
+parentheses_Llama-3.3-70B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,0,3.10%,0.500,2.22265625,0,0,0,0,0,0,0
+parentheses_Llama-3.3-70B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,40,91.83%,0.370,1.859375,0,5,10,10,15,0,0
+parentheses_Llama-3.3-70B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,0,3.10%,0.410,1.85546875,0,0,0,0,0,0,0
+parentheses_Llama-3.3-70B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,3.10%,0.420,2.24609375,0,0,0,0,0,0,0
+parentheses_Llama-3.3-70B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,0,3.10%,0.430,1.82421875,0,0,0,0,0,0,0
+parentheses_Llama-3.3-70B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,0,3.10%,0.380,2.2265625,0,0,0,0,0,0,0
+parentheses_Llama-3.3-70B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,0,3.10%,0.380,2.2421875,0,0,0,0,0,0,0

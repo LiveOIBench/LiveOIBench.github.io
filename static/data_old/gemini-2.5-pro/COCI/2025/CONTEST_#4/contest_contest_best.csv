@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+sah,gemini-2.5-pro,ACCEPTED,50,100.00%,0.040,0.00390625
+benzinska,gemini-2.5-pro,ACCEPTED,70,100.00%,0.080,3.8984375
+xor,gemini-2.5-pro,UNKNOWN,0,0.00%,0.000,0
+cipele,gemini-2.5-pro,ACCEPTED,120,100.00%,0.490,21.8984375
+tura,gemini-2.5-pro,ACCEPTED,120,100.00%,0.080,5.9296875

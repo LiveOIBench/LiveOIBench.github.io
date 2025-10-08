@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+paradoks,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,5.13%,0.000,0
+igre,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,0.00%,0.070,0.00390625
+razlicitost,DeepSeek-Coder-V2-Lite-Instruct,MEMORY_LIMIT_EXCEEDED,25,37.21%,0.320,219.91796875
+blistavost,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,3.28%,0.070,1.5546875
+trokuti,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,13,25.00%,0.100,2.84375

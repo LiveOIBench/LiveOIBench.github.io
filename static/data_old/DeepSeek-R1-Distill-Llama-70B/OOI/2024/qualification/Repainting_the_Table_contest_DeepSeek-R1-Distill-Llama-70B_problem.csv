@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+Repainting_the_Table_DeepSeek-R1-Distill-Llama-70B_0.cpp,TIME_LIMIT_EXCEEDED,72,86.84%,1.660,32.94921875,0.0,17.0,21.0,34.0,0
+Repainting_the_Table_DeepSeek-R1-Distill-Llama-70B_1.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+Repainting_the_Table_DeepSeek-R1-Distill-Llama-70B_2.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+Repainting_the_Table_DeepSeek-R1-Distill-Llama-70B_3.cpp,TIME_LIMIT_EXCEEDED,72,88.42%,1.660,41.96875,0.0,17.0,21.0,34.0,0
+Repainting_the_Table_DeepSeek-R1-Distill-Llama-70B_4.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+Repainting_the_Table_DeepSeek-R1-Distill-Llama-70B_5.cpp,RUNTIME_ERROR,0,16.19%,0.100,0,0.0,0,0,0,0
+Repainting_the_Table_DeepSeek-R1-Distill-Llama-70B_6.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0
+Repainting_the_Table_DeepSeek-R1-Distill-Llama-70B_7.cpp,TIME_LIMIT_EXCEEDED,72,86.84%,1.660,38.86328125,0.0,17.0,21.0,34.0,0

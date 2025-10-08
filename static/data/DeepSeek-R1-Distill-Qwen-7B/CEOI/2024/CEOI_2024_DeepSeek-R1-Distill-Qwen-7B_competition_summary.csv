@@ -1,0 +1,8 @@
+problem,status,score,%test passed,time,memory,pass_rate
+covid,COMPILATION_ERROR,0,0.00%,0.000,0,
+battle,COMPILATION_ERROR,0,0.00%,0.000,0,
+editor,COMPILATION_ERROR,0,0.00%,0.000,0,
+toy,COMPILATION_ERROR,0,0.00%,0.000,0,
+stations,COMPILATION_ERROR,0,0.00%,0.000,0,
+sprinklers,UNKNOWN,0,0.00%,0.000,0,
+TOTAL,,0,0.00%,,,0.00%

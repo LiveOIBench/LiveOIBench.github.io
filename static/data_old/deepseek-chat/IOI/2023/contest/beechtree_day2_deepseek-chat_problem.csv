@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+beechtree_deepseek-chat_0.cpp,TIME_LIMIT_EXCEEDED,0,4.22%,1.660,81.72265625,0,0,0,0,0,0,0,0,0,0
+beechtree_deepseek-chat_1.cpp,TIME_LIMIT_EXCEEDED,0,4.22%,1.660,15.2265625,0,0,0,0,0,0,0,0,0,0
+beechtree_deepseek-chat_2.cpp,TIME_LIMIT_EXCEEDED,0,4.22%,1.660,18.8828125,0,0,0,0,0,0,0,0,0,0
+beechtree_deepseek-chat_3.cpp,TIME_LIMIT_EXCEEDED,0,21.14%,1.660,17.8515625,0,0,0,0,0,0,0,0,0,0
+beechtree_deepseek-chat_4.cpp,RUNTIME_ERROR,0,4.22%,0.060,15.99609375,0,0,0,0,0,0,0,0,0,0
+beechtree_deepseek-chat_5.cpp,RUNTIME_ERROR,0,2.42%,0.060,15.99609375,0,0,0,0,0,0,0,0,0,0
+beechtree_deepseek-chat_6.cpp,TIME_LIMIT_EXCEEDED,0,15.88%,1.670,29.28125,0,0,0,0,0,0,0,0,0,0
+beechtree_deepseek-chat_7.cpp,TIME_LIMIT_EXCEEDED,0,22.86%,1.670,17.83984375,0,0,0,0,0,0,0,0,0,0

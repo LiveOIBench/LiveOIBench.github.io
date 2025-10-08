@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cow_Checkups,QwQ-32B,ACCEPTED,333,100.00%,0.350,53.63671875
+silver_Farmer_Johns_Favorite_Operation,QwQ-32B,ACCEPTED,333,100.00%,0.300,7.5859375
+silver_Table_Recovery,QwQ-32B,RUNTIME_ERROR,0,6.67%,0.170,9.03125

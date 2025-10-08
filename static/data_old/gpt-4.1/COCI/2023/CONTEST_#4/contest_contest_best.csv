@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+7krokods,gpt-4.1,RUNTIME_ERROR,0,0.00%,0.000,0
+zrinka,gpt-4.1,RUNTIME_ERROR,35,40.00%,0.000,0
+bojanje,gpt-4.1,ACCEPTED,110,100.00%,0.050,0
+mreza,gpt-4.1,TIME_LIMIT_EXCEEDED,21,47.22%,5.510,51.96484375
+vrsta,gpt-4.1,ACCEPTED,110,100.00%,0.170,5.1875

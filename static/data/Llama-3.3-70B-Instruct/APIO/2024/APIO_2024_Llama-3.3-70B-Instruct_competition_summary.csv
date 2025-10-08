@@ -1,0 +1,5 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+show,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0
+september,TIME_LIMIT_EXCEEDED,0,0.00%,1.110,8.05078125,,0,0,0,0,0,0,0,0,0,0
+train,RUNTIME_ERROR,0,1.79%,0.510,15.2734375,,0,0,0,0,0,0,0,0,0,0
+TOTAL,,0,0.60%,,,0.00%,,,,,,,,,,

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+minequake,deepseek-chat,RUNTIME_ERROR,0,2.22%,0.000,0
+mineraldeposits,deepseek-chat,TIME_LIMIT_EXCEEDED,0,12.79%,0.010,1.48046875
+sequence,deepseek-chat,RUNTIME_ERROR,0,8.00%,0.000,0

@@ -1,0 +1,10 @@
+problem,model,status,score,%test passed,time,memory
+Colorful_Diameter,deepseek-chat,TIME_LIMIT_EXCEEDED,29,72.16%,7.720,23.9453125
+Road_Lighting,deepseek-chat,TIME_LIMIT_EXCEEDED,24,63.16%,2.210,27.24609375
+Repainting_the_Table,deepseek-chat,RUNTIME_ERROR,0,19.44%,0.040,0.00390625
+Distinctive_Features,deepseek-chat,TIME_LIMIT_EXCEEDED,30,53.36%,3.310,45.38671875
+Classic_Tree_Problem,deepseek-chat,RUNTIME_ERROR,0,0.00%,0.030,0.00390625
+Alien_Homophones,deepseek-chat,TIME_LIMIT_EXCEEDED,38,89.37%,2.210,27.0078125
+Stone_Enthusiast,deepseek-chat,ACCEPTED,100,100.00%,0.330,21.78125
+Egors_Gaming_Addiction,deepseek-chat,TIME_LIMIT_EXCEEDED,15,60.19%,2.220,34.46484375
+Ultrafast_train,deepseek-chat,TIME_LIMIT_EXCEEDED,17,59.69%,1.110,119.62890625

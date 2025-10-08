@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Milk_Sum,Qwen3-14B,ACCEPTED,333,100.00%,0.200,3.62109375
+silver_Field_Day,Qwen3-14B,WRONG_ANSWER,246,75.00%,0.160,23.98046875
+silver_Pareidolia,Qwen3-14B,RUNTIME_ERROR,0,0.00%,0.120,1.82421875

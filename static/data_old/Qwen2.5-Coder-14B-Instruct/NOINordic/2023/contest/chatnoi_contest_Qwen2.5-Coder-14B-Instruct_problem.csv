@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+chatnoi_Qwen2.5-Coder-14B-Instruct_0.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.140,1.703125,0,0,0,0,0,0,0
+chatnoi_Qwen2.5-Coder-14B-Instruct_1.cpp,RUNTIME_ERROR,0,0.00%,0.130,0.00390625,0,0,0,0,0,0,0
+chatnoi_Qwen2.5-Coder-14B-Instruct_2.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0
+chatnoi_Qwen2.5-Coder-14B-Instruct_3.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.130,1.7109375,0,0,0,0,0,0,0
+chatnoi_Qwen2.5-Coder-14B-Instruct_4.cpp,RUNTIME_ERROR,0,1.38%,0.130,0.00390625,0,0,0,0,0,0,0
+chatnoi_Qwen2.5-Coder-14B-Instruct_5.cpp,RUNTIME_ERROR,0,1.38%,0.140,4.1328125,0,0,0,0,0,0,0
+chatnoi_Qwen2.5-Coder-14B-Instruct_6.cpp,RUNTIME_ERROR,0,4.08%,0.130,16.55859375,0,0,0,0,0,0,0
+chatnoi_Qwen2.5-Coder-14B-Instruct_7.cpp,RUNTIME_ERROR,0,1.38%,0.130,6.45703125,0,0,0,0,0,0,0

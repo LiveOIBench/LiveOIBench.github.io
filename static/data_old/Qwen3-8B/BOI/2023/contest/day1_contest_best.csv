@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+astronomer,Qwen3-8B,TIME_LIMIT_EXCEEDED,0,25.62%,5.970,0.00390625
+staringcontest,Qwen3-8B,RUNTIME_ERROR,0,2.56%,0.010,1.546875
+tycho,Qwen3-8B,RUNTIME_ERROR,0,65.24%,0.000,0

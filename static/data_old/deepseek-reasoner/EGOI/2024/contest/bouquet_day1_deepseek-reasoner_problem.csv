@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+bouquet_deepseek-reasoner_0.cpp,RUNTIME_ERROR,0,4.09%,0.070,3.12890625,0,0,0,0,0,0
+bouquet_deepseek-reasoner_1.cpp,RUNTIME_ERROR,24,51.08%,0.070,7.23828125,0,8,16,0,0,0
+bouquet_deepseek-reasoner_2.cpp,RUNTIME_ERROR,0,4.09%,0.050,2.84765625,0,0,0,0,0,0
+bouquet_deepseek-reasoner_3.cpp,RUNTIME_ERROR,0,4.09%,0.050,2.84765625,0,0,0,0,0,0
+bouquet_deepseek-reasoner_4.cpp,RUNTIME_ERROR,24,51.08%,0.070,16.25,0,8,16,0,0,0
+bouquet_deepseek-reasoner_5.cpp,RUNTIME_ERROR,0,4.09%,0.080,3.1015625,0,0,0,0,0,0
+bouquet_deepseek-reasoner_6.cpp,TIME_LIMIT_EXCEEDED,0,5.26%,3.370,5.9375,0,0,0,0,0,0
+bouquet_deepseek-reasoner_7.cpp,RUNTIME_ERROR,24,51.08%,0.070,8.7734375,0,8,16,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+twins_Qwen3-30B_0.cpp,RUNTIME_ERROR,40,35.88%,0.130,2.7265625,40,0,0
+twins_Qwen3-30B_1.cpp,RUNTIME_ERROR,40,35.88%,0.130,3.171875,40,0,0
+twins_Qwen3-30B_2.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0
+twins_Qwen3-30B_3.cpp,RUNTIME_ERROR,40,35.88%,0.140,2.2578125,40,0,0
+twins_Qwen3-30B_4.cpp,RUNTIME_ERROR,40,35.88%,0.130,3.171875,40,0,0
+twins_Qwen3-30B_5.cpp,RUNTIME_ERROR,0,0.00%,0.120,1.6796875,0,0,0
+twins_Qwen3-30B_6.cpp,RUNTIME_ERROR,40,35.88%,0.130,3.171875,40,0,0
+twins_Qwen3-30B_7.cpp,RUNTIME_ERROR,40,35.88%,0.130,3.171875,40,0,0

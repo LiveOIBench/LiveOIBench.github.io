@@ -1,0 +1,19 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Dreaming_is_not_harmful,UNKNOWN,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cute_Subsequences,UNKNOWN,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+The_arithmetic_exercise,UNKNOWN,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alice_Bob_and_two_arrays,UNKNOWN,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+Card_Flip,UNKNOWN,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+Order_Statistics,RUNTIME_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+Best_Runner,UNKNOWN,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+Strong_Connectivity_Strikes_Back,UNKNOWN,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colorful_Diameter,UNKNOWN,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+Road_Lighting,UNKNOWN,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+Repainting_the_Table,RUNTIME_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+Distinctive_Features,UNKNOWN,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+Classic_Tree_Problem,UNKNOWN,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alien_Homophones,UNKNOWN,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stone_Enthusiast,TIME_LIMIT_EXCEEDED,30,44.00%,2.210,2.80078125,,0.0,16.0,0,0,0,14.0,0,0,0,0,0,0,0
+Egors_Gaming_Addiction,UNKNOWN,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ultrafast_train,UNKNOWN,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+TOTAL,,30,2.59%,,,0.00%,,,,,,,,,,,,,

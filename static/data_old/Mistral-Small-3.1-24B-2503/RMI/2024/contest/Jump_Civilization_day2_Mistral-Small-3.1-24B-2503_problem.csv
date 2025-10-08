@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+Jump_Civilization_Mistral-Small-3.1-24B-2503_0.cpp,RUNTIME_ERROR,0,5.88%,0.250,40.484375,0,0,0,0,0,0
+Jump_Civilization_Mistral-Small-3.1-24B-2503_1.cpp,RUNTIME_ERROR,0,0.00%,0.180,16.2578125,0,0,0,0,0,0
+Jump_Civilization_Mistral-Small-3.1-24B-2503_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+Jump_Civilization_Mistral-Small-3.1-24B-2503_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.340,18.078125,0,0,0,0,0,0
+Jump_Civilization_Mistral-Small-3.1-24B-2503_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.220,18.5703125,0,0,0,0,0,0
+Jump_Civilization_Mistral-Small-3.1-24B-2503_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+Jump_Civilization_Mistral-Small-3.1-24B-2503_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+Jump_Civilization_Mistral-Small-3.1-24B-2503_7.cpp,TIME_LIMIT_EXCEEDED,6,34.43%,1.170,18.05078125,0,6,0,0,0,0

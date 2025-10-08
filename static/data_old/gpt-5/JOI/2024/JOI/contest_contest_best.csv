@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+2024-ho-t1_Room_Temperature,gpt-5,ACCEPTED,100,100.00%,0.070,9.03515625
+2024-ho-t2_Construction_Project_2,gpt-5,ACCEPTED,100,100.00%,0.250,27.58984375
+2024-ho-t3_Marathon_Race_2,gpt-5,RUNTIME_ERROR,7,58.82%,0.000,0
+2024-ho-t4_Gift_Exchange,gpt-5,TIME_LIMIT_EXCEEDED,50,79.30%,2.980,13.5
+2024-ho-t5_Road_Service_2,gpt-5,TIME_LIMIT_EXCEEDED,16,61.73%,3.640,109.9140625

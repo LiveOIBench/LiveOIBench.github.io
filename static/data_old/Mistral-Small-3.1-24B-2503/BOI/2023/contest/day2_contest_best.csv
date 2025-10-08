@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+minequake,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,15.07%,0.090,14.9609375
+mineraldeposits,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0
+sequence,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,8.00%,0.000,0

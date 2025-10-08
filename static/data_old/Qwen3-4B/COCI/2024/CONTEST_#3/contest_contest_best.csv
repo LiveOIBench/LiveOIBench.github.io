@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+eurokod,Qwen3-4B,ACCEPTED,50,100.00%,0.000,0
+vrsar,Qwen3-4B,TIME_LIMIT_EXCEEDED,17,21.88%,1.210,6.97265625
+milano,Qwen3-4B,ACCEPTED,110,100.00%,0.110,4.6328125
+restorani,Qwen3-4B,RUNTIME_ERROR,0,0.68%,0.120,60.01171875
+cesta,Qwen3-4B,COMPILATION_ERROR,0,0.00%,0.000,0

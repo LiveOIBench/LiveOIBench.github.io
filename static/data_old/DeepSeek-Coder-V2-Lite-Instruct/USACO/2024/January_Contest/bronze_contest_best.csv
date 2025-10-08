@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Majority_Opinion,DeepSeek-Coder-V2-Lite-Instruct,WRONG_ANSWER,24,6.67%,0.140,3.25390625
+bronze_Cannonball,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,241,75.00%,2.340,2.07421875
+bronze_Balancing_Bacteria,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,0.00%,0.170,2.84765625

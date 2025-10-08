@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+tree_gpt-5_0.cpp,TIME_LIMIT_EXCEEDED,10,25.88%,2.410,16.6875,0,10,0,0,0,0,0,0
+tree_gpt-5_1.cpp,TIME_LIMIT_EXCEEDED,10,25.88%,2.410,15.72265625,0,10,0,0,0,0,0,0
+tree_gpt-5_2.cpp,RUNTIME_ERROR,17,41.30%,0.060,10.38671875,0,10,0,0,7,0,0,0
+tree_gpt-5_3.cpp,TIME_LIMIT_EXCEEDED,0,7.79%,2.410,18.16015625,0,0,0,0,0,0,0,0
+tree_gpt-5_4.cpp,RUNTIME_ERROR,17,41.30%,0.080,21.27734375,0,10,0,0,7,0,0,0
+tree_gpt-5_5.cpp,RUNTIME_ERROR,0,0.00%,0.060,5.796875,0,0,0,0,0,0,0,0
+tree_gpt-5_6.cpp,RUNTIME_ERROR,17,41.30%,0.080,17.2734375,0,10,0,0,7,0,0,0
+tree_gpt-5_7.cpp,RUNTIME_ERROR,7,31.40%,0.080,7.7109375,0,0,0,0,7,0,0,0

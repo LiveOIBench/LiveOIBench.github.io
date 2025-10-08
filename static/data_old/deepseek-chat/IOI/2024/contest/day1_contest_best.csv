@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+message,deepseek-chat,RUNTIME_ERROR,0,6.67%,1.710,4.0859375
+nile,deepseek-chat,TIME_LIMIT_EXCEEDED,17,20.69%,2.210,6.45703125
+tree,deepseek-chat,TIME_LIMIT_EXCEEDED,10,25.88%,2.210,26.9375

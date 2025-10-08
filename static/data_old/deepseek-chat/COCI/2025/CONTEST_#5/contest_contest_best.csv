@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+wow,deepseek-chat,ACCEPTED,50,100.00%,0.000,0
+zid,deepseek-chat,TIME_LIMIT_EXCEEDED,38,66.67%,1.110,2.5859375
+tornjevi,deepseek-chat,ACCEPTED,90,100.00%,0.270,20.8515625
+crtez,deepseek-chat,TIME_LIMIT_EXCEEDED,20,42.55%,2.230,2.328125
+stablo,deepseek-chat,ACCEPTED,120,100.00%,2.020,215.02734375

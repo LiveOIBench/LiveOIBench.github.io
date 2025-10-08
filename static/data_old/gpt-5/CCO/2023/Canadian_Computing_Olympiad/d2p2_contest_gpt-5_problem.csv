@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+d2p2_gpt-5_0.cpp,RUNTIME_ERROR,11,45.31%,0.110,18.0390625,2,0,0,0,4,5
+d2p2_gpt-5_1.cpp,RUNTIME_ERROR,11,45.31%,0.120,21.4609375,2,0,0,0,4,5
+d2p2_gpt-5_2.cpp,RUNTIME_ERROR,2,9.38%,0.150,32.12109375,2,0,0,0,0,0
+d2p2_gpt-5_3.cpp,TIME_LIMIT_EXCEEDED,2,9.38%,2.410,17.578125,2,0,0,0,0,0
+d2p2_gpt-5_4.cpp,RUNTIME_ERROR,11,45.31%,0.120,28.1015625,2,0,0,0,4,5
+d2p2_gpt-5_5.cpp,RUNTIME_ERROR,2,9.38%,0.120,17.265625,2,0,0,0,0,0
+d2p2_gpt-5_6.cpp,RUNTIME_ERROR,0,0.78%,0.150,29.46484375,0,0,0,0,0,0
+d2p2_gpt-5_7.cpp,RUNTIME_ERROR,2,10.94%,0.140,21.48046875,2,0,0,0,0,0

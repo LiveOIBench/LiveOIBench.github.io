@@ -1,0 +1,8 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+Heroes,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0
+Pinball,TIME_LIMIT_EXCEEDED,0,3.12%,3.650,9.03125,,0,0,0,0,0,0,0,0
+AA_Tree,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0
+Circles,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0
+To_be_xor_not_to_be,RUNTIME_ERROR,6,23.26%,0.100,0.00390625,,0,0,6,0,0,0,0,0
+Statues,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0
+TOTAL,,6,4.40%,,,0.00%,,,,,,,,

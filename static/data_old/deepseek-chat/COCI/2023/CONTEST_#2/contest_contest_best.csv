@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+tramvaji,deepseek-chat,ACCEPTED,50,100.00%,0.030,0
+ekspert,deepseek-chat,RUNTIME_ERROR,0,25.00%,0.030,0
+lampice,deepseek-chat,RUNTIME_ERROR,0,0.00%,0.070,4.390625
+prijateljice,deepseek-chat,ACCEPTED,110,100.00%,0.040,7.484375
+kruhologija,deepseek-chat,COMPILATION_ERROR,0,0.00%,0.000,0

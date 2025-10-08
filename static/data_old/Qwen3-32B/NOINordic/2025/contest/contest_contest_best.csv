@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+diplomacy,Qwen3-32B,TIME_LIMIT_EXCEEDED,25,57.29%,4.410,55.17578125
+garbage,Qwen3-32B,TIME_LIMIT_EXCEEDED,25,42.47%,5.510,4.53125
+xoracle,Qwen3-32B,ACCEPTED,100,100.00%,0.410,4.23828125

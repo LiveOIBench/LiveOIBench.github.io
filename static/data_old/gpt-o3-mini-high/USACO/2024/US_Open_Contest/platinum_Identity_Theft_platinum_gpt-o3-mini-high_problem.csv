@@ -1,0 +1,6 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Identity_Theft_gpt-o3-mini-high_0.cpp,RUNTIME_ERROR,17,4.00%,0.210,5.890625,0,0,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_gpt-o3-mini-high_1.cpp,RUNTIME_ERROR,50,24.00%,0.880,26.79296875,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,16.666666666666664,0,0,0,0,0,0,0
+platinum_Identity_Theft_gpt-o3-mini-high_2.cpp,RUNTIME_ERROR,0,4.00%,0.090,69.93359375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_gpt-o3-mini-high_4.cpp,WRONG_ANSWER,67,36.00%,0.400,191.05859375,0,16.666666666666664,0,0,0,0,0,0,0,0,0,16.666666666666664,16.666666666666664,16.666666666666664,0,0,0,0,0,0,0
+platinum_Identity_Theft_gpt-o3-mini-high_7.cpp,RUNTIME_ERROR,50,24.00%,0.900,13.828125,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,16.666666666666664,0,0,0,0,0,0,0

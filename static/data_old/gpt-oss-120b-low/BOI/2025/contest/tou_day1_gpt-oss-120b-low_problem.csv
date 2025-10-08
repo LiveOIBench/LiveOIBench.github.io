@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+tou_gpt-oss-120b-low_0.cpp,MEMORY_LIMIT_EXCEEDED,0,8.19%,1.860,1186.79296875,0,0,0,0,0,0
+tou_gpt-oss-120b-low_1.cpp,MEMORY_LIMIT_EXCEEDED,32,50.86%,1.240,1181.28125,0,9,23,0,0,0
+tou_gpt-oss-120b-low_2.cpp,RUNTIME_ERROR,0,5.17%,1.330,57.7578125,0,0,0,0,0,0
+tou_gpt-oss-120b-low_3.cpp,RUNTIME_ERROR,0,5.17%,0.360,66.26171875,0,0,0,0,0,0
+tou_gpt-oss-120b-low_4.cpp,RUNTIME_ERROR,0,9.05%,0.480,166.5546875,0,0,0,0,0,0
+tou_gpt-oss-120b-low_5.cpp,TIME_LIMIT_EXCEEDED,0,3.88%,2.420,933.86328125,0,0,0,0,0,0
+tou_gpt-oss-120b-low_6.cpp,MEMORY_LIMIT_EXCEEDED,32,50.86%,1.530,1175.9453125,0,9,23,0,0,0
+tou_gpt-oss-120b-low_7.cpp,MEMORY_LIMIT_EXCEEDED,0,1.72%,1.570,1158.8359375,0,0,0,0,0,0

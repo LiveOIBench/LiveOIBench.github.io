@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+candy,Codestral-22B-v0.1,RUNTIME_ERROR,0,16.19%,0.000,0
+sopsug,Codestral-22B-v0.1,UNKNOWN,0,0.00%,0.000,0
+guessinggame,Codestral-22B-v0.1,RUNTIME_ERROR,0,0.00%,0.000,0
+carnival,Codestral-22B-v0.1,RUNTIME_ERROR,11,30.23%,0.080,0.00390625

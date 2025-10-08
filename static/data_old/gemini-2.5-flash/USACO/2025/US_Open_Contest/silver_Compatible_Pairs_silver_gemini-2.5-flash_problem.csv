@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Compatible_Pairs_gemini-2.5-flash_0.cpp,ACCEPTED,333,100.00%,0.910,98.06640625,0,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333
+silver_Compatible_Pairs_gemini-2.5-flash_1.cpp,WRONG_ANSWER,67,33.33%,0.310,55.3203125,0,33.33333333333333,0,33.33333333333333,0,0,0,0,0,0,0
+silver_Compatible_Pairs_gemini-2.5-flash_2.cpp,WRONG_ANSWER,100,41.67%,0.760,100.515625,0,33.33333333333333,33.33333333333333,33.33333333333333,0,0,0,0,0,0,0
+silver_Compatible_Pairs_gemini-2.5-flash_3.cpp,RUNTIME_ERROR,67,16.67%,0.460,103.9609375,0,33.33333333333333,0,33.33333333333333,0,0,0,0,0,0,0
+silver_Compatible_Pairs_gemini-2.5-flash_4.cpp,RUNTIME_ERROR,67,16.67%,0.320,42.94140625,0,33.33333333333333,0,33.33333333333333,0,0,0,0,0,0,0
+silver_Compatible_Pairs_gemini-2.5-flash_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Compatible_Pairs_gemini-2.5-flash_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.230,66.36328125,0,0,0,0,0,0,0,0,0,0,0
+silver_Compatible_Pairs_gemini-2.5-flash_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0

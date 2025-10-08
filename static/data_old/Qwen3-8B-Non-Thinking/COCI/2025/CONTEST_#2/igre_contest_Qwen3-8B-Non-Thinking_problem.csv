@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+igre_Qwen3-8B-Non-Thinking_0.cpp,RUNTIME_ERROR,6,12.24%,0.110,1.55859375,6,0,0,0
+igre_Qwen3-8B-Non-Thinking_1.cpp,RUNTIME_ERROR,0,0.00%,0.070,1.55859375,0,0,0,0
+igre_Qwen3-8B-Non-Thinking_2.cpp,RUNTIME_ERROR,0,0.00%,0.200,1.55859375,0,0,0,0
+igre_Qwen3-8B-Non-Thinking_3.cpp,TIME_LIMIT_EXCEEDED,19,48.98%,2.290,192.33984375,6,13,0,0
+igre_Qwen3-8B-Non-Thinking_4.cpp,RUNTIME_ERROR,6,12.24%,0.420,1.55859375,6,0,0,0
+igre_Qwen3-8B-Non-Thinking_5.cpp,RUNTIME_ERROR,0,0.00%,0.110,1.55859375,0,0,0,0
+igre_Qwen3-8B-Non-Thinking_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+igre_Qwen3-8B-Non-Thinking_7.cpp,RUNTIME_ERROR,0,0.00%,0.080,1.55859375,0,0,0,0

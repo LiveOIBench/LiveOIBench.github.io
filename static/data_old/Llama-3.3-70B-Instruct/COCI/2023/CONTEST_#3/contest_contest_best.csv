@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+estimathon,Llama-3.3-70B-Instruct,ACCEPTED,50,100.00%,0.050,0
+dirigent,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,0.00%,0.080,0.00390625
+baltazar,Llama-3.3-70B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+bomboni,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,46,52.00%,2.210,529.5703125
+skrivaca,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,0.00%,0.220,15.73828125

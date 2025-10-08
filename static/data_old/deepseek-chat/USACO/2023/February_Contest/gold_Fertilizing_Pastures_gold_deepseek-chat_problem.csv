@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Fertilizing_Pastures_deepseek-chat_0.cpp,WRONG_ANSWER,133,40.91%,0.140,18.56640625,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,16.666666666666664,16.666666666666664,16.666666666666664,16.666666666666664,16.666666666666664,16.666666666666664,0
+gold_Fertilizing_Pastures_deepseek-chat_1.cpp,RUNTIME_ERROR,0,0.00%,0.110,17.54296875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Fertilizing_Pastures_deepseek-chat_2.cpp,RUNTIME_ERROR,0,0.00%,0.110,17.4921875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Fertilizing_Pastures_deepseek-chat_3.cpp,RUNTIME_ERROR,0,0.00%,0.130,18.046875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Fertilizing_Pastures_deepseek-chat_4.cpp,RUNTIME_ERROR,0,0.00%,0.150,16.73046875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Fertilizing_Pastures_deepseek-chat_5.cpp,RUNTIME_ERROR,0,0.00%,0.110,17.328125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Fertilizing_Pastures_deepseek-chat_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.240,16.8203125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Fertilizing_Pastures_deepseek-chat_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

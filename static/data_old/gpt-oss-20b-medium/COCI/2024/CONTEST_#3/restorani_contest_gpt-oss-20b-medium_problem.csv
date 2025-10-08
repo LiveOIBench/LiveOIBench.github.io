@@ -1,0 +1,6 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+restorani_gpt-oss-20b-medium_2.cpp,RUNTIME_ERROR,0,0.68%,0.310,418.546875,0,0,0,0
+restorani_gpt-oss-20b-medium_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+restorani_gpt-oss-20b-medium_5.cpp,RUNTIME_ERROR,0,0.68%,0.110,26.81640625,0,0,0,0
+restorani_gpt-oss-20b-medium_6.cpp,RUNTIME_ERROR,0,0.68%,0.110,23.46875,0,0,0,0
+restorani_gpt-oss-20b-medium_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.420,21.6640625,0,0,0,0

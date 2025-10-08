@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+eurokod,Qwen3-30B,ACCEPTED,50,100.00%,0.000,0
+vrsar,Qwen3-30B,ACCEPTED,70,100.00%,0.110,4.390625
+milano,Qwen3-30B,ACCEPTED,110,100.00%,0.150,5.1640625
+restorani,Qwen3-30B,RUNTIME_ERROR,0,0.68%,0.190,63.30078125
+cesta,Qwen3-30B,RUNTIME_ERROR,0,0.92%,0.020,8.01171875

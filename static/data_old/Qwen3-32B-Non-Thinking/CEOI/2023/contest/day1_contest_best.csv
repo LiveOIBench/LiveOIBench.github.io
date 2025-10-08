@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+grading-server,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,2.67%,0.020,0.00390625
+light,Qwen3-32B-Non-Thinking,TIME_LIMIT_EXCEEDED,0,0.00%,0.020,1.48046875
+balance,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,0.00%,0.030,6.7109375

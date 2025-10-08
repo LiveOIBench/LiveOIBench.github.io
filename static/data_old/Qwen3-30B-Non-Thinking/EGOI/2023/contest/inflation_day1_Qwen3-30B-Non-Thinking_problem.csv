@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+inflation_Qwen3-30B-Non-Thinking_0.cpp,TIME_LIMIT_EXCEEDED,0,26.42%,3.360,35.3203125,0,0,0,0,0,0
+inflation_Qwen3-30B-Non-Thinking_1.cpp,RUNTIME_ERROR,19,36.36%,0.380,23.72265625,0,0,0,19,0,0
+inflation_Qwen3-30B-Non-Thinking_2.cpp,TIME_LIMIT_EXCEEDED,0,26.42%,3.360,35.32421875,0,0,0,0,0,0
+inflation_Qwen3-30B-Non-Thinking_3.cpp,TIME_LIMIT_EXCEEDED,0,26.42%,3.350,35.32421875,0,0,0,0,0,0
+inflation_Qwen3-30B-Non-Thinking_4.cpp,RUNTIME_ERROR,19,36.36%,0.370,19.59765625,0,0,0,19,0,0
+inflation_Qwen3-30B-Non-Thinking_6.cpp,TIME_LIMIT_EXCEEDED,0,26.42%,3.390,35.32421875,0,0,0,0,0,0
+inflation_Qwen3-30B-Non-Thinking_7.cpp,TIME_LIMIT_EXCEEDED,0,26.42%,3.350,35.32421875,0,0,0,0,0,0

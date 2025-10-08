@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+dev_gemini-2.5-pro_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+dev_gemini-2.5-pro_1.cpp,TIME_LIMIT_EXCEEDED,0,4.40%,2.220,5.03515625,0,0,0,0,0,0,0
+dev_gemini-2.5-pro_2.cpp,TIME_LIMIT_EXCEEDED,0,4.40%,2.220,536.28515625,0,0,0,0,0,0,0
+dev_gemini-2.5-pro_3.cpp,TIME_LIMIT_EXCEEDED,0,1.10%,2.220,539.83203125,0,0,0,0,0,0,0
+dev_gemini-2.5-pro_4.cpp,TIME_LIMIT_EXCEEDED,0,2.21%,2.220,562.38671875,0,0,0,0,0,0,0
+dev_gemini-2.5-pro_5.cpp,TIME_LIMIT_EXCEEDED,0,4.40%,2.230,18.515625,0,0,0,0,0,0,0
+dev_gemini-2.5-pro_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+dev_gemini-2.5-pro_7.cpp,TIME_LIMIT_EXCEEDED,0,4.40%,2.210,554.06640625,0,0,0,0,0,0,0

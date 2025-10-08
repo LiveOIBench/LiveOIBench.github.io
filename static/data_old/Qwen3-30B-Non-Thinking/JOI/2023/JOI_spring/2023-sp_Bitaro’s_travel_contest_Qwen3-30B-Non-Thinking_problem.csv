@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4
+2023-sp_Bitaro’s_travel_Qwen3-30B-Non-Thinking_0.cpp,RUNTIME_ERROR,0,10.00%,0.000,0,0,0,0,0
+2023-sp_Bitaro’s_travel_Qwen3-30B-Non-Thinking_1.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0
+2023-sp_Bitaro’s_travel_Qwen3-30B-Non-Thinking_2.cpp,TIME_LIMIT_EXCEEDED,5,56.82%,2.210,16.734375,5,0,0,0
+2023-sp_Bitaro’s_travel_Qwen3-30B-Non-Thinking_3.cpp,TIME_LIMIT_EXCEEDED,5,56.82%,2.430,13.67578125,5,0,0,0
+2023-sp_Bitaro’s_travel_Qwen3-30B-Non-Thinking_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.300,33.109375,0,0,0,0
+2023-sp_Bitaro’s_travel_Qwen3-30B-Non-Thinking_5.cpp,TIME_LIMIT_EXCEEDED,5,56.82%,2.410,13.67578125,5,0,0,0
+2023-sp_Bitaro’s_travel_Qwen3-30B-Non-Thinking_6.cpp,TIME_LIMIT_EXCEEDED,15,77.88%,2.370,14.9609375,5,10,0,0
+2023-sp_Bitaro’s_travel_Qwen3-30B-Non-Thinking_7.cpp,TIME_LIMIT_EXCEEDED,5,56.82%,2.420,13.6640625,5,0,0,0

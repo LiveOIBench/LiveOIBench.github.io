@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Astral_Superposition,DeepSeek-R1-Distill-Qwen-32B,WRONG_ANSWER,33,16.67%,0.280,6.96875
+bronze_Its_Mooin_Time_II,DeepSeek-R1-Distill-Qwen-32B,ACCEPTED,333,100.00%,0.530,38.359375
+bronze_Cow_Checkups,DeepSeek-R1-Distill-Qwen-32B,MEMORY_LIMIT_EXCEEDED,300,92.31%,2.020,234.1015625

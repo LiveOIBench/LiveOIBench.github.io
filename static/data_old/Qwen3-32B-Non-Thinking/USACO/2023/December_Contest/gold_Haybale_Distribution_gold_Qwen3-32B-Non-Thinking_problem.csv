@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Haybale_Distribution_Qwen3-32B-Non-Thinking_0.cpp,TIME_LIMIT_EXCEEDED,0,6.25%,2.240,3.6171875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Haybale_Distribution_Qwen3-32B-Non-Thinking_1.cpp,WRONG_ANSWER,22,12.50%,0.120,5.1640625,0,22.22222222222222,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Haybale_Distribution_Qwen3-32B-Non-Thinking_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.230,5.16796875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Haybale_Distribution_Qwen3-32B-Non-Thinking_3.cpp,WRONG_ANSWER,44,18.75%,0.160,3.62109375,0,0,0,0,0,0,0,0,22.22222222222222,22.22222222222222,0,0,0,0,0,0
+gold_Haybale_Distribution_Qwen3-32B-Non-Thinking_4.cpp,WRONG_ANSWER,0,0.00%,0.100,13.734375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Haybale_Distribution_Qwen3-32B-Non-Thinking_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.270,21.15234375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Haybale_Distribution_Qwen3-32B-Non-Thinking_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.240,5.16796875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Haybale_Distribution_Qwen3-32B-Non-Thinking_7.cpp,TIME_LIMIT_EXCEEDED,22,12.50%,2.230,22.6953125,0,22.22222222222222,0,0,0,0,0,0,0,0,0,0,0,0,0,0

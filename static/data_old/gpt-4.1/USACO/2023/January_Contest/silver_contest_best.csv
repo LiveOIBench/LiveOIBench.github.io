@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Find_and_Replace,gpt-4.1,WRONG_ANSWER,71,20.00%,0.000,0
+silver_Following_Directions,gpt-4.1,TIME_LIMIT_EXCEEDED,214,66.67%,8.880,35.6953125
+silver_Moo_Route,gpt-4.1,RUNTIME_ERROR,56,15.00%,0.120,1.74609375

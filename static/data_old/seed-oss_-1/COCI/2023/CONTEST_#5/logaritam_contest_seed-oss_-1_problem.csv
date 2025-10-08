@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+logaritam_seed-oss_0.cpp,ACCEPTED,110,100.00%,0.050,0.00390625,19,26,29,36
+logaritam_seed-oss_1.cpp,ACCEPTED,110,100.00%,0.090,0.00390625,19,26,29,36
+logaritam_seed-oss_2.cpp,ACCEPTED,110,100.00%,0.080,0.00390625,19,26,29,36
+logaritam_seed-oss_3.cpp,ACCEPTED,110,100.00%,0.150,0.00390625,19,26,29,36
+logaritam_seed-oss_4.cpp,ACCEPTED,110,100.00%,0.080,0.00390625,19,26,29,36
+logaritam_seed-oss_5.cpp,TIME_LIMIT_EXCEEDED,48,87.80%,1.210,382.86328125,19,0,29,0
+logaritam_seed-oss_6.cpp,ACCEPTED,110,100.00%,0.070,0.00390625,19,26,29,36
+logaritam_seed-oss_7.cpp,ACCEPTED,110,100.00%,0.090,0.00390625,19,26,29,36

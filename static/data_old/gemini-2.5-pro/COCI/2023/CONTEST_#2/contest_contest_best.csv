@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+tramvaji,gemini-2.5-pro,ACCEPTED,50,100.00%,0.030,0
+ekspert,gemini-2.5-pro,RUNTIME_ERROR,0,0.00%,0.000,0
+lampice,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,12,16.67%,3.370,4.39453125
+prijateljice,gemini-2.5-pro,ACCEPTED,110,100.00%,0.080,28.8828125
+kruhologija,gemini-2.5-pro,COMPILATION_ERROR,0,0.00%,0.000,0

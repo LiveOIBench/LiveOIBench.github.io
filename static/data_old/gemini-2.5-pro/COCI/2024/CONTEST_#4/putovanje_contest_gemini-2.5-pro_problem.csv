@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+putovanje_gemini-2.5-pro_0.cpp,RUNTIME_ERROR,0,7.91%,0.050,4.96484375,0,0,0,0
+putovanje_gemini-2.5-pro_1.cpp,TIME_LIMIT_EXCEEDED,65,84.89%,2.230,6.6875,10,20,35,0
+putovanje_gemini-2.5-pro_2.cpp,TIME_LIMIT_EXCEEDED,65,74.10%,2.280,6.17578125,10,20,35,0
+putovanje_gemini-2.5-pro_3.cpp,TIME_LIMIT_EXCEEDED,65,68.35%,2.210,5.92578125,10,20,35,0
+putovanje_gemini-2.5-pro_4.cpp,TIME_LIMIT_EXCEEDED,65,84.89%,2.240,5.421875,10,20,35,0
+putovanje_gemini-2.5-pro_5.cpp,TIME_LIMIT_EXCEEDED,65,74.10%,2.250,5.26953125,10,20,35,0
+putovanje_gemini-2.5-pro_6.cpp,TIME_LIMIT_EXCEEDED,65,84.89%,2.280,5.30859375,10,20,35,0
+putovanje_gemini-2.5-pro_7.cpp,TIME_LIMIT_EXCEEDED,65,84.89%,2.210,5.9921875,10,20,35,0

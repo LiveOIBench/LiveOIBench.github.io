@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+chairgame_gemini-2.5-pro_0.cpp,TIME_LIMIT_EXCEEDED,37,69.23%,1.180,0.00390625,8,5,4,0,0,0,20,0
+chairgame_gemini-2.5-pro_1.cpp,TIME_LIMIT_EXCEEDED,37,69.23%,1.200,0.00390625,8,5,4,0,0,0,20,0
+chairgame_gemini-2.5-pro_2.cpp,RUNTIME_ERROR,9,36.96%,0.120,0.00390625,0,5,4,0,0,0,0,0
+chairgame_gemini-2.5-pro_3.cpp,TIME_LIMIT_EXCEEDED,37,69.23%,1.200,0.00390625,8,5,4,0,0,0,20,0
+chairgame_gemini-2.5-pro_4.cpp,TIME_LIMIT_EXCEEDED,37,69.23%,1.200,0.00390625,8,5,4,0,0,0,20,0
+chairgame_gemini-2.5-pro_5.cpp,RUNTIME_ERROR,9,36.96%,0.130,0.00390625,0,5,4,0,0,0,0,0
+chairgame_gemini-2.5-pro_6.cpp,TIME_LIMIT_EXCEEDED,37,69.23%,1.210,0.00390625,8,5,4,0,0,0,20,0
+chairgame_gemini-2.5-pro_7.cpp,TIME_LIMIT_EXCEEDED,32,64.41%,1.210,2.4375,8,0,4,0,0,0,20,0

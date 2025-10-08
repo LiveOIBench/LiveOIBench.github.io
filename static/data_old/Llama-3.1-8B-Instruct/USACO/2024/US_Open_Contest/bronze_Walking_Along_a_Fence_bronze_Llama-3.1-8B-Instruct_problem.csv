@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Walking_Along_a_Fence_Llama-3.1-8B-Instruct_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Walking_Along_a_Fence_Llama-3.1-8B-Instruct_1.cpp,WRONG_ANSWER,0,0.00%,0.210,4.13671875,0,0,0,0,0,0,0,0,0,0,0
+bronze_Walking_Along_a_Fence_Llama-3.1-8B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.400,15.02734375,0,0,0,0,0,0,0,0,0,0,0
+bronze_Walking_Along_a_Fence_Llama-3.1-8B-Instruct_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Walking_Along_a_Fence_Llama-3.1-8B-Instruct_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Walking_Along_a_Fence_Llama-3.1-8B-Instruct_5.cpp,WRONG_ANSWER,0,0.00%,0.130,4.91015625,0,0,0,0,0,0,0,0,0,0,0
+bronze_Walking_Along_a_Fence_Llama-3.1-8B-Instruct_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Walking_Along_a_Fence_Llama-3.1-8B-Instruct_7.cpp,WRONG_ANSWER,0,0.00%,0.130,4.796875,0,0,0,0,0,0,0,0,0,0,0

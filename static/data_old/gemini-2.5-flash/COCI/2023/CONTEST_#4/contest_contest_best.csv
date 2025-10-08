@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+7krokods,gemini-2.5-flash,ACCEPTED,50,100.00%,0.000,0
+zrinka,gemini-2.5-flash,ACCEPTED,70,100.00%,0.250,192.59765625
+bojanje,gemini-2.5-flash,ACCEPTED,110,100.00%,0.030,0.00390625
+mreza,gemini-2.5-flash,ACCEPTED,110,100.00%,0.940,112.0625
+vrsta,gemini-2.5-flash,ACCEPTED,110,100.00%,0.140,5.9375

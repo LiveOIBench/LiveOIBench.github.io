@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+robot,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,0.67%,0.040,8.67578125
+overtaking,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,6.06%,0.100,1.19140625
+beechtree,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,0,10.00%,1.660,32.33203125

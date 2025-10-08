@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+grading-server,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,1.33%,0.100,9.09375
+light,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+balance,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,0.00%,0.040,6.71484375

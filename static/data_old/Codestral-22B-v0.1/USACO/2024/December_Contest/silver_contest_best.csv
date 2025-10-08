@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cake_Game,Codestral-22B-v0.1,WRONG_ANSWER,33,9.09%,0.230,6.12109375
+silver_Deforestation,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_2D_Conveyor_Belt,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0

@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+xy_Qwen3-8B_0.cpp,RUNTIME_ERROR,0,0.00%,0.030,4.17578125,0,0,0,0,0,0,0,0
+xy_Qwen3-8B_1.cpp,RUNTIME_ERROR,0,0.00%,0.020,3.72265625,0,0,0,0,0,0,0,0
+xy_Qwen3-8B_2.cpp,RUNTIME_ERROR,0,0.00%,0.050,5.7421875,0,0,0,0,0,0,0,0
+xy_Qwen3-8B_4.cpp,RUNTIME_ERROR,0,0.00%,0.070,5.82421875,0,0,0,0,0,0,0,0
+xy_Qwen3-8B_5.cpp,RUNTIME_ERROR,0,0.00%,0.020,1.7421875,0,0,0,0,0,0,0,0
+xy_Qwen3-8B_6.cpp,RUNTIME_ERROR,0,0.00%,0.040,4.1796875,0,0,0,0,0,0,0,0
+xy_Qwen3-8B_7.cpp,RUNTIME_ERROR,0,0.00%,0.040,5.70703125,0,0,0,0,0,0,0,0

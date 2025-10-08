@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+diplomacy_Qwen3-8B-Non-Thinking_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.540,11.08203125,0,0,0,0,0,0,0
+diplomacy_Qwen3-8B-Non-Thinking_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.450,22.1015625,0,0,0,0,0,0,0
+diplomacy_Qwen3-8B-Non-Thinking_2.cpp,RUNTIME_ERROR,0,0.00%,0.140,2.1796875,0,0,0,0,0,0,0
+diplomacy_Qwen3-8B-Non-Thinking_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+diplomacy_Qwen3-8B-Non-Thinking_4.cpp,TIME_LIMIT_EXCEEDED,0,1.08%,4.460,9.71484375,0,0,0,0,0,0,0
+diplomacy_Qwen3-8B-Non-Thinking_5.cpp,TIME_LIMIT_EXCEEDED,0,1.08%,4.410,13.30859375,0,0,0,0,0,0,0
+diplomacy_Qwen3-8B-Non-Thinking_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+diplomacy_Qwen3-8B-Non-Thinking_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.410,7.59375,0,0,0,0,0,0,0

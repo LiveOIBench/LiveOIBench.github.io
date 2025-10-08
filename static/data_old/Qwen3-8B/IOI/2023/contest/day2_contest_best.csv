@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+robot,Qwen3-8B,RUNTIME_ERROR,0,0.67%,0.050,8.69140625
+overtaking,Qwen3-8B,COMPILATION_ERROR,0,0.00%,0.000,0
+beechtree,Qwen3-8B,TIME_LIMIT_EXCEEDED,0,21.14%,1.810,15.921875

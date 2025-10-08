@@ -1,0 +1,5 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+icecreammachines,MEMORY_LIMIT_EXCEEDED,66,92.98%,0.800,954.171875,,7,12,22,11,14,0,0
+chatnoi,RUNTIME_ERROR,0,43.06%,0.000,0,,0,0,0,0,0,0,0
+islandalliances,TIME_LIMIT_EXCEEDED,37,38.71%,5.520,6.7109375,,0,17,20,0,0,0,0
+TOTAL,,103,58.25%,,,0.00%,,,,,,,

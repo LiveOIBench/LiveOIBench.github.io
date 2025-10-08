@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+sweets_gpt-oss-20b-low_0.cpp,RUNTIME_ERROR,0,0.00%,0.230,65.29296875,0,0,0,0,0,0,0,0
+sweets_gpt-oss-20b-low_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+sweets_gpt-oss-20b-low_2.cpp,RUNTIME_ERROR,0,0.00%,0.430,141.9140625,0,0,0,0,0,0,0,0
+sweets_gpt-oss-20b-low_3.cpp,RUNTIME_ERROR,0,25.81%,1.150,111.56640625,0,0,0,0,0,0,0,0
+sweets_gpt-oss-20b-low_5.cpp,RUNTIME_ERROR,0,0.00%,0.240,68.84375,0,0,0,0,0,0,0,0
+sweets_gpt-oss-20b-low_6.cpp,ACCEPTED,100,100.00%,1.010,115.2890625,0,7,8,17,12,21,24,11
+sweets_gpt-oss-20b-low_7.cpp,ACCEPTED,100,100.00%,0.750,134.38671875,0,7,8,17,12,21,24,11

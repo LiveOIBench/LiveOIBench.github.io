@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+bingo,gemini-2.5-pro,ACCEPTED,50,100.00%,0.000,0
+knjige,gemini-2.5-pro,ACCEPTED,70,100.00%,0.050,2.7890625
+lepeze,gemini-2.5-pro,RUNTIME_ERROR,0,3.85%,0.000,0
+putovanje,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,65,84.89%,2.210,5.9921875
+roboti,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,10,34.09%,2.210,34.33984375

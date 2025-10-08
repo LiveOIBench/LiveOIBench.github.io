@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+sweets_Qwen3-14B_0.cpp,TIME_LIMIT_EXCEEDED,27,37.10%,3.310,74.67578125,0,7,8,0,12,0,0,0
+sweets_Qwen3-14B_1.cpp,TIME_LIMIT_EXCEEDED,27,37.10%,3.360,81.98828125,0,7,8,0,12,0,0,0
+sweets_Qwen3-14B_2.cpp,TIME_LIMIT_EXCEEDED,27,37.10%,3.320,89.4921875,0,7,8,0,12,0,0,0
+sweets_Qwen3-14B_3.cpp,RUNTIME_ERROR,0,0.00%,0.280,89.578125,0,0,0,0,0,0,0,0
+sweets_Qwen3-14B_4.cpp,TIME_LIMIT_EXCEEDED,27,37.10%,3.320,117.5625,0,7,8,0,12,0,0,0
+sweets_Qwen3-14B_5.cpp,TIME_LIMIT_EXCEEDED,12,19.35%,3.350,74.515625,0,0,0,0,12,0,0,0
+sweets_Qwen3-14B_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.360,54.66015625,0,0,0,0,0,0,0,0
+sweets_Qwen3-14B_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.360,63.43359375,0,0,0,0,0,0,0,0

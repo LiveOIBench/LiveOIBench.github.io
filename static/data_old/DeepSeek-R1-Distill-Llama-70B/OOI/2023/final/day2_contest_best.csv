@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Burenka_and_Pether,DeepSeek-R1-Distill-Llama-70B,UNKNOWN,0,0.00%,0.000,0
+Almost_Certainly,DeepSeek-R1-Distill-Llama-70B,UNKNOWN,0,0.00%,0.000,0
+Three_Arrays,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,32.95%,0.090,0.00390625
+Parallel_Universes,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,0.72%,0.090,0.00390625

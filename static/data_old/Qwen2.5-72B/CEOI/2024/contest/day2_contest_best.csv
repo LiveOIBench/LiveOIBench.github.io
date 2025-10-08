@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+toy,Qwen2.5-72B,MEMORY_LIMIT_EXCEEDED,0,7.59%,1.180,1125.61328125
+stations,Qwen2.5-72B,RUNTIME_ERROR,0,4.55%,0.040,5.171875
+sprinklers,Qwen2.5-72B,RUNTIME_ERROR,0,7.61%,0.080,2.33203125

@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+eurokod,gpt-o3-mini-high,ACCEPTED,50,100.00%,0.000,0
+vrsar,gpt-o3-mini-high,ACCEPTED,70,100.00%,0.090,6.7109375
+milano,gpt-o3-mini-high,ACCEPTED,110,100.00%,0.060,3.62109375
+restorani,gpt-o3-mini-high,RUNTIME_ERROR,0,0.68%,0.140,38.6796875
+cesta,gpt-o3-mini-high,ACCEPTED,110,100.00%,0.900,123.33984375

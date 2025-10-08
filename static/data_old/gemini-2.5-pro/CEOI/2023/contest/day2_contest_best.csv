@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+trade,gemini-2.5-pro,MEMORY_LIMIT_EXCEEDED,55,92.62%,1.160,2245.5546875
+incursion,gemini-2.5-pro,COMPILATION_ERROR,0,0.00%,0.000,0
+avoid,gemini-2.5-pro,RUNTIME_ERROR,20,48.15%,0.040,1.5390625

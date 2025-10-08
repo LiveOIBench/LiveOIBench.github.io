@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+chairgame,Mistral-Small-3.1-24B-2503,UNKNOWN,0,0.00%,0.000,0
+thinice,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,22.03%,0.160,2.0703125
+animeshops,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,16.67%,0.200,9.03125

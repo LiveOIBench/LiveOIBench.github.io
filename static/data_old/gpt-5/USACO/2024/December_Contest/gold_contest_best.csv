@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Cowdependence,gpt-5,WRONG_ANSWER,228,65.00%,0.390,6.328125
+gold_Interstellar_Intervals,gpt-5,ACCEPTED,333,100.00%,0.160,46.9375
+gold_Job_Completion,gpt-5,ACCEPTED,333,100.00%,0.090,6.03125

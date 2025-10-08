@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Hungry_Cow,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,0.00%,0.110,0.00390625
+platinum_Problem_Setting,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,0,4.55%,2.270,257.80078125
+platinum_Watching_Cowflix,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

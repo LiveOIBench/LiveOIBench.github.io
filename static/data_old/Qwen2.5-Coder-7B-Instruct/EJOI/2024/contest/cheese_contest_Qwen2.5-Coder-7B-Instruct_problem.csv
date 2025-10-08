@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+cheese_Qwen2.5-Coder-7B-Instruct_0.cpp,RUNTIME_ERROR,0,0.00%,0.400,27.85546875,0,0,0,0,0,0,0
+cheese_Qwen2.5-Coder-7B-Instruct_1.cpp,RUNTIME_ERROR,0,0.00%,0.100,24.19140625,0,0,0,0,0,0,0
+cheese_Qwen2.5-Coder-7B-Instruct_2.cpp,RUNTIME_ERROR,0,0.00%,0.440,29.91796875,0,0,0,0,0,0,0
+cheese_Qwen2.5-Coder-7B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,0,2.56%,2.260,35.3671875,0,0,0,0,0,0,0
+cheese_Qwen2.5-Coder-7B-Instruct_4.cpp,RUNTIME_ERROR,0,0.00%,0.590,5.16796875,0,0,0,0,0,0,0
+cheese_Qwen2.5-Coder-7B-Instruct_5.cpp,RUNTIME_ERROR,0,0.00%,0.960,18.41015625,0,0,0,0,0,0,0
+cheese_Qwen2.5-Coder-7B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.230,3.42578125,0,0,0,0,0,0,0
+cheese_Qwen2.5-Coder-7B-Instruct_7.cpp,RUNTIME_ERROR,0,5.13%,0.970,44.203125,0,0,0,0,0,0,0

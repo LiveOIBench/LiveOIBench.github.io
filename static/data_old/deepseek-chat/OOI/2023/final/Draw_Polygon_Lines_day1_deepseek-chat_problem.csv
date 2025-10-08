@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_21,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Draw_Polygon_Lines_deepseek-chat_0.cpp,TIME_LIMIT_EXCEEDED,12,8.42%,2.260,3.73828125,0,0,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.0,4.0
+Draw_Polygon_Lines_deepseek-chat_1.cpp,MEMORY_LIMIT_EXCEEDED,4,2.63%,0.060,2.65625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.0,0
+Draw_Polygon_Lines_deepseek-chat_2.cpp,MEMORY_LIMIT_EXCEEDED,36,55.60%,2.050,562.15234375,0,0,4.0,3.0,3.0,3.0,3.0,2.0,0,3.0,0,0,0,0,0,0,0,0,0,7.0,4.0,4.0
+Draw_Polygon_Lines_deepseek-chat_3.cpp,TIME_LIMIT_EXCEEDED,19,15.74%,2.210,562.203125,0,0,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.0,4.0,4.0
+Draw_Polygon_Lines_deepseek-chat_4.cpp,MEMORY_LIMIT_EXCEEDED,18,14.74%,0.380,561.87109375,0,0,4.0,3.0,0,0,0,0,0,3.0,0,0,0,0,0,0,0,0,0,0,4.0,4.0
+Draw_Polygon_Lines_deepseek-chat_5.cpp,TIME_LIMIT_EXCEEDED,36,55.60%,2.210,513.16796875,0,0,4.0,3.0,3.0,3.0,3.0,2.0,0,3.0,0,0,0,0,0,0,0,0,0,7.0,4.0,4.0
+Draw_Polygon_Lines_deepseek-chat_6.cpp,MEMORY_LIMIT_EXCEEDED,36,55.60%,0.970,561.8203125,0,0,4.0,3.0,3.0,3.0,3.0,2.0,0,3.0,0,0,0,0,0,0,0,0,0,7.0,4.0,4.0
+Draw_Polygon_Lines_deepseek-chat_7.cpp,MEMORY_LIMIT_EXCEEDED,36,55.60%,0.570,561.38671875,0,0,4.0,3.0,3.0,3.0,3.0,2.0,0,3.0,0,0,0,0,0,0,0,0,0,7.0,4.0,4.0

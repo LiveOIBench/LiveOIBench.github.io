@@ -1,0 +1,7 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Cake_Game_gpt-oss-20b-low_0.cpp,WRONG_ANSWER,0,9.09%,0.110,9.08203125,0,0,0,0,0,0,0,0,0,0,0
+silver_Cake_Game_gpt-oss-20b-low_1.cpp,WRONG_ANSWER,0,9.09%,0.100,6.05859375,0,0,0,0,0,0,0,0,0,0,0
+silver_Cake_Game_gpt-oss-20b-low_2.cpp,WRONG_ANSWER,0,9.09%,0.090,6.05859375,0,0,0,0,0,0,0,0,0,0,0
+silver_Cake_Game_gpt-oss-20b-low_3.cpp,WRONG_ANSWER,0,0.00%,0.090,11.0234375,0,0,0,0,0,0,0,0,0,0,0
+silver_Cake_Game_gpt-oss-20b-low_4.cpp,WRONG_ANSWER,33,18.18%,0.100,9.08203125,0,33.33333333333333,0,0,0,0,0,0,0,0,0
+silver_Cake_Game_gpt-oss-20b-low_5.cpp,WRONG_ANSWER,0,0.00%,0.100,7.92578125,0,0,0,0,0,0,0,0,0,0,0

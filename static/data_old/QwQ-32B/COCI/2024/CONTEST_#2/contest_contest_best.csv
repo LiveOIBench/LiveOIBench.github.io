@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+pahuljice,QwQ-32B,ACCEPTED,50,100.00%,0.000,0
+pingvin,QwQ-32B,ACCEPTED,70,100.00%,0.070,6.1875
+dizalo,QwQ-32B,COMPILATION_ERROR,0,0.00%,0.000,0
+kuglice,QwQ-32B,ACCEPTED,110,100.00%,0.080,28.3671875
+zatopljenje,QwQ-32B,ACCEPTED,110,100.00%,0.180,29.453125

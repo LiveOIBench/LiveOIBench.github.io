@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+portal_seed-oss_0.cpp,TIME_LIMIT_EXCEEDED,1,10.53%,1.220,4.65625,1,0,0,0,0,0
+portal_seed-oss_1.cpp,RUNTIME_ERROR,11,32.11%,0.010,2.7890625,1,10,0,0,0,0
+portal_seed-oss_2.cpp,RUNTIME_ERROR,21,45.55%,0.020,4.65625,1,10,10,0,0,0
+portal_seed-oss_3.cpp,TIME_LIMIT_EXCEEDED,1,10.53%,1.220,2.7890625,1,0,0,0,0,0
+portal_seed-oss_4.cpp,RUNTIME_ERROR,11,32.11%,0.020,2.7890625,1,10,0,0,0,0
+portal_seed-oss_5.cpp,RUNTIME_ERROR,21,45.55%,0.020,2.84765625,1,10,10,0,0,0
+portal_seed-oss_6.cpp,RUNTIME_ERROR,11,33.51%,0.010,2.84765625,1,10,0,0,0,0
+portal_seed-oss_7.cpp,RUNTIME_ERROR,21,45.55%,0.020,4.9296875,1,10,10,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+2025-ho-t2_Bitaro_the_Brave_2_gpt-4.1_0.cpp,TIME_LIMIT_EXCEEDED,10,51.61%,1.350,16.71484375,10,0,0,0,0
+2025-ho-t2_Bitaro_the_Brave_2_gpt-4.1_1.cpp,RUNTIME_ERROR,0,0.00%,0.180,5.16796875,0,0,0,0,0
+2025-ho-t2_Bitaro_the_Brave_2_gpt-4.1_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+2025-ho-t2_Bitaro_the_Brave_2_gpt-4.1_3.cpp,RUNTIME_ERROR,0,0.00%,0.200,9.03515625,0,0,0,0,0
+2025-ho-t2_Bitaro_the_Brave_2_gpt-4.1_4.cpp,ACCEPTED,100,100.00%,0.220,28.0390625,10,21,19,22,28
+2025-ho-t2_Bitaro_the_Brave_2_gpt-4.1_5.cpp,TIME_LIMIT_EXCEEDED,31,59.70%,1.260,20.37890625,10,21,0,0,0
+2025-ho-t2_Bitaro_the_Brave_2_gpt-4.1_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+2025-ho-t2_Bitaro_the_Brave_2_gpt-4.1_7.cpp,RUNTIME_ERROR,0,0.00%,0.200,24.2421875,0,0,0,0,0

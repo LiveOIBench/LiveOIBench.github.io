@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Compatible_Pairs_Qwen3-30B-Non-Thinking_0.cpp,WRONG_ANSWER,67,33.33%,0.370,28.76171875,0,33.33333333333333,0,33.33333333333333,0,0,0,0,0,0,0
+silver_Compatible_Pairs_Qwen3-30B-Non-Thinking_1.cpp,WRONG_ANSWER,67,33.33%,0.430,28.76171875,0,33.33333333333333,0,33.33333333333333,0,0,0,0,0,0,0
+silver_Compatible_Pairs_Qwen3-30B-Non-Thinking_2.cpp,WRONG_ANSWER,33,25.00%,0.500,16.64453125,0,33.33333333333333,0,0,0,0,0,0,0,0,0
+silver_Compatible_Pairs_Qwen3-30B-Non-Thinking_3.cpp,WRONG_ANSWER,67,25.00%,0.370,16.64453125,0,33.33333333333333,0,33.33333333333333,0,0,0,0,0,0,0
+silver_Compatible_Pairs_Qwen3-30B-Non-Thinking_4.cpp,RUNTIME_ERROR,67,16.67%,0.460,28.76171875,0,33.33333333333333,0,33.33333333333333,0,0,0,0,0,0,0
+silver_Compatible_Pairs_Qwen3-30B-Non-Thinking_5.cpp,WRONG_ANSWER,33,25.00%,0.370,16.64453125,0,33.33333333333333,0,0,0,0,0,0,0,0,0
+silver_Compatible_Pairs_Qwen3-30B-Non-Thinking_6.cpp,WRONG_ANSWER,0,8.33%,0.310,28.7578125,0,0,0,0,0,0,0,0,0,0,0
+silver_Compatible_Pairs_Qwen3-30B-Non-Thinking_7.cpp,TIME_LIMIT_EXCEEDED,0,8.33%,2.360,16.64453125,0,0,0,0,0,0,0,0,0,0,0

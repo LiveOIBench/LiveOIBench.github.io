@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Bessies_Function,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_The_Best_Subsequence,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Friendship_Editing,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,22,11.11%,0.090,0

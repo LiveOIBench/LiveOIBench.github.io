@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+icecreammachines_Qwen3-32B-Non-Thinking_0.cpp,MEMORY_LIMIT_EXCEEDED,66,92.98%,0.800,954.171875,7,12,22,11,14,0,0
+icecreammachines_Qwen3-32B-Non-Thinking_1.cpp,RUNTIME_ERROR,7,46.23%,0.000,0,7,0,0,0,0,0,0
+icecreammachines_Qwen3-32B-Non-Thinking_2.cpp,RUNTIME_ERROR,7,46.23%,0.000,0,7,0,0,0,0,0,0
+icecreammachines_Qwen3-32B-Non-Thinking_3.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+icecreammachines_Qwen3-32B-Non-Thinking_4.cpp,RUNTIME_ERROR,7,46.23%,0.000,0,7,0,0,0,0,0,0
+icecreammachines_Qwen3-32B-Non-Thinking_5.cpp,TIME_LIMIT_EXCEEDED,52,92.07%,1.120,2.0703125,7,12,22,11,0,0,0
+icecreammachines_Qwen3-32B-Non-Thinking_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+icecreammachines_Qwen3-32B-Non-Thinking_7.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0

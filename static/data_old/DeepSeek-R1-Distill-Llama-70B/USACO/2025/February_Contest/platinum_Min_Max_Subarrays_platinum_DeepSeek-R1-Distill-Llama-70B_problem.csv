@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Min_Max_Subarrays_DeepSeek-R1-Distill-Llama-70B_0.cpp,TIME_LIMIT_EXCEEDED,0,15.38%,3.370,5.16796875,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_DeepSeek-R1-Distill-Llama-70B_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.430,9.03125,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_DeepSeek-R1-Distill-Llama-70B_2.cpp,TIME_LIMIT_EXCEEDED,0,15.38%,3.370,5.16796875,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_DeepSeek-R1-Distill-Llama-70B_3.cpp,TIME_LIMIT_EXCEEDED,0,23.08%,3.320,5.16796875,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_DeepSeek-R1-Distill-Llama-70B_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.340,5.16796875,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_DeepSeek-R1-Distill-Llama-70B_5.cpp,TIME_LIMIT_EXCEEDED,0,15.38%,3.350,5.16796875,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_DeepSeek-R1-Distill-Llama-70B_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_DeepSeek-R1-Distill-Llama-70B_7.cpp,RUNTIME_ERROR,0,0.00%,0.380,13.41796875,0,0,0,0,0,0,0,0,0,0,0

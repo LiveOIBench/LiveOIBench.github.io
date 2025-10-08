@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bakery,Llama-4-Scout,TIME_LIMIT_EXCEEDED,100,36.36%,2.410,0.00390625
+silver_Cow-libi,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Moo_Route_II,Llama-4-Scout,RUNTIME_ERROR,130,35.00%,0.370,6.6796875

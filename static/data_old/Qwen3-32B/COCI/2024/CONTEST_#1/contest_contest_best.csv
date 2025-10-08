@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+sudoku,Qwen3-32B,ACCEPTED,50,100.00%,0.000,0
+labirint,Qwen3-32B,ACCEPTED,70,100.00%,0.080,2.7734375
+an2dl,Qwen3-32B,ACCEPTED,110,100.00%,1.160,122.20703125
+kocke,Qwen3-32B,RUNTIME_ERROR,0,13.33%,0.000,0
+mostovi,Qwen3-32B,TIME_LIMIT_EXCEEDED,30,56.78%,3.340,6.96484375

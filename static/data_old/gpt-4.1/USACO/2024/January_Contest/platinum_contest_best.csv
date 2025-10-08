@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Island_Vacation,gpt-4.1,MEMORY_LIMIT_EXCEEDED,33,21.74%,0.490,280.98828125
+platinum_Merging_Cells,gpt-4.1,TIME_LIMIT_EXCEEDED,100,36.36%,2.260,562.29296875
+platinum_Mooball_Teams_III,gpt-4.1,MEMORY_LIMIT_EXCEEDED,0,4.17%,0.240,276.01171875

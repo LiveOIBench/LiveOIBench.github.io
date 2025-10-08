@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+hieroglyphs,Qwen3-4B-Non-Thinking,MEMORY_LIMIT_EXCEEDED,0,3.52%,0.910,2239.03125
+sphinx,Qwen3-4B-Non-Thinking,RUNTIME_ERROR,0,3.26%,0.050,3.875
+mosaic,Qwen3-4B-Non-Thinking,MEMORY_LIMIT_EXCEEDED,22,64.86%,1.090,2239.890625

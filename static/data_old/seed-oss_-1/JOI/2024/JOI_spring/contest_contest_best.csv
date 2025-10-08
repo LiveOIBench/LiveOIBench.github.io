@@ -1,0 +1,13 @@
+problem,model,status,score,%test passed,time,memory
+2024-sp_Fish_3,seed-oss_-1,TIME_LIMIT_EXCEEDED,16,64.76%,2.410,67.72265625
+2024-sp_Ski_2,seed-oss_-1,RUNTIME_ERROR,5,23.36%,1.260,0.00390625
+2024-sp_Spy_3,seed-oss_-1,COMPILATION_ERROR,0,0.00%,0.000,0
+2024-sp_Board_Game,seed-oss_-1,RUNTIME_ERROR,10,27.72%,0.050,6.4453125
+2024-sp_Tricolor_Lights,seed-oss_-1,COMPILATION_ERROR,0,0.00%,0.000,0
+2024-sp_Growing_Vegetables_is_Fun_5,seed-oss_-1,MEMORY_LIMIT_EXCEEDED,30,76.69%,1.950,1226.30859375
+2024-sp_Card_Collection,seed-oss_-1,RUNTIME_ERROR,0,19.05%,0.020,0
+2024-sp_JOI_Tour,seed-oss_-1,TIME_LIMIT_EXCEEDED,52,56.05%,3.610,35.7734375
+2024-sp_Tower,seed-oss_-1,RUNTIME_ERROR,0,0.00%,0.040,1.5546875
+2024-sp_Escape_Route_2,seed-oss_-1,TIME_LIMIT_EXCEEDED,54,75.13%,2.410,53.62890625
+2024-sp_Island_Hopping,seed-oss_-1,RUNTIME_ERROR,2,4.31%,0.030,1.55078125
+2024-sp_Table_Tennis,seed-oss_-1,RUNTIME_ERROR,5,44.35%,0.030,13.41796875

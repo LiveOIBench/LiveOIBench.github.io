@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4
+train_gpt-5_0.cpp,RUNTIME_ERROR,10,33.93%,0.080,14.6640625,5,5,0,0
+train_gpt-5_1.cpp,RUNTIME_ERROR,40,48.21%,0.210,16.98828125,5,5,30,0
+train_gpt-5_2.cpp,TIME_LIMIT_EXCEEDED,5,35.71%,1.270,14.5546875,5,0,0,0
+train_gpt-5_3.cpp,RUNTIME_ERROR,5,23.21%,0.180,8.34375,0,5,0,0
+train_gpt-5_4.cpp,RUNTIME_ERROR,10,32.14%,0.200,9.1953125,5,5,0,0
+train_gpt-5_5.cpp,RUNTIME_ERROR,35,33.93%,0.230,36.83984375,0,5,30,0
+train_gpt-5_6.cpp,RUNTIME_ERROR,5,23.21%,0.500,18.01953125,0,5,0,0
+train_gpt-5_7.cpp,RUNTIME_ERROR,5,17.86%,0.160,8.3125,0,5,0,0

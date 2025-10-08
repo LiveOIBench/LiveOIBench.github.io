@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+diplomacy,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+garbage,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,4.11%,0.140,3.6171875
+xoracle,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

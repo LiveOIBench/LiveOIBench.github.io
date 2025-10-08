@@ -1,0 +1,8 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+toy_gpt-oss-120b-high_0.cpp,RUNTIME_ERROR,0,0.00%,52.60%,0.020,2.3203125,0,0,0,0,0,0
+toy_gpt-oss-120b-high_1.cpp,ACCEPTED,100,100.00%,100.00%,0.120,76.83203125,0,14,21,9,29,27
+toy_gpt-oss-120b-high_3.cpp,ACCEPTED,100,100.00%,100.00%,0.140,78.89453125,0,14,21,9,29,27
+toy_gpt-oss-120b-high_4.cpp,ACCEPTED,100,100.00%,100.00%,0.130,77.34375,0,14,21,9,29,27
+toy_gpt-oss-120b-high_5.cpp,ACCEPTED,100,100.00%,100.00%,0.100,41.109375,0,14,21,9,29,27
+toy_gpt-oss-120b-high_6.cpp,RUNTIME_ERROR,0,0.00%,52.60%,0.020,4.64453125,0,0,0,0,0,0
+toy_gpt-oss-120b-high_7.cpp,ACCEPTED,100,100.00%,100.00%,0.080,31.51171875,0,14,21,9,29,27

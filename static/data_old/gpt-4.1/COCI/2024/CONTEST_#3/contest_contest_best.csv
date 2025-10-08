@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+eurokod,gpt-4.1,ACCEPTED,50,100.00%,0.000,0
+vrsar,gpt-4.1,RUNTIME_ERROR,27,50.00%,0.150,7.484375
+milano,gpt-4.1,ACCEPTED,110,100.00%,0.110,9.546875
+restorani,gpt-4.1,TIME_LIMIT_EXCEEDED,0,1.37%,2.210,562.0390625
+cesta,gpt-4.1,RUNTIME_ERROR,0,0.92%,0.050,9.28515625

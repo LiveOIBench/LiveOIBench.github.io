@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Target_Practice_gpt-4.1_0.cpp,MEMORY_LIMIT_EXCEEDED,83,33.33%,0.310,280.875,0,27.777777777777775,0,0,0,27.777777777777775,27.777777777777775,0,0,0,0,0,0
+silver_Target_Practice_gpt-4.1_1.cpp,TIME_LIMIT_EXCEEDED,28,13.33%,2.410,7.5625,0,27.777777777777775,0,0,0,0,0,0,0,0,0,0,0
+silver_Target_Practice_gpt-4.1_2.cpp,MEMORY_LIMIT_EXCEEDED,28,20.00%,0.340,280.8984375,0,27.777777777777775,0,0,0,0,0,0,0,0,0,0,0
+silver_Target_Practice_gpt-4.1_3.cpp,WRONG_ANSWER,28,20.00%,0.160,20.9921875,0,27.777777777777775,0,0,0,0,0,0,0,0,0,0,0
+silver_Target_Practice_gpt-4.1_4.cpp,WRONG_ANSWER,28,20.00%,0.130,17.15625,0,27.777777777777775,0,0,0,0,0,0,0,0,0,0,0
+silver_Target_Practice_gpt-4.1_5.cpp,TIME_LIMIT_EXCEEDED,83,40.00%,2.280,10.13671875,0,27.777777777777775,0,0,0,27.777777777777775,27.777777777777775,0,0,0,0,0,0
+silver_Target_Practice_gpt-4.1_6.cpp,WRONG_ANSWER,28,20.00%,0.160,12.734375,0,27.777777777777775,0,0,0,0,0,0,0,0,0,0,0
+silver_Target_Practice_gpt-4.1_7.cpp,WRONG_ANSWER,28,20.00%,0.120,7.81640625,0,27.777777777777775,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+diplomacy,QwQ-32B,TIME_LIMIT_EXCEEDED,0,2.15%,4.410,7.91796875
+garbage,QwQ-32B,RUNTIME_ERROR,22,46.58%,0.330,22.48828125
+xoracle,QwQ-32B,ACCEPTED,100,100.00%,0.480,3.53125

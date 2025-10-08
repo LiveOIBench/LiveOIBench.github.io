@@ -1,0 +1,7 @@
+problem,model,status,score,%test passed,time,memory
+cheese,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,11,23.08%,0.310,7.03125
+oldorhei,Qwen2.5-Coder-32B-Instruct,TIME_LIMIT_EXCEEDED,7,32.56%,3.330,2.84765625
+manypairs,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,0.00%,0.270,32.69921875
+cfduels,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,24.69%,0.090,3.13671875
+hora,Qwen2.5-Coder-32B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+sweets,Qwen2.5-Coder-32B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

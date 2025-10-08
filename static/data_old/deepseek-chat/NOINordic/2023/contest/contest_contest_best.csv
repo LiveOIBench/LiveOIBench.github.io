@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+icecreammachines,deepseek-chat,ACCEPTED,100,100.00%,0.100,27.7578125
+chatnoi,deepseek-chat,RUNTIME_ERROR,12,59.32%,0.860,279.9921875
+islandalliances,deepseek-chat,ACCEPTED,100,100.00%,0.380,30.90625

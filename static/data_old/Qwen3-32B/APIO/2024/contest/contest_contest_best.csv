@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+show,Qwen3-32B,COMPILATION_ERROR,0,0.00%,0.000,0
+september,Qwen3-32B,RUNTIME_ERROR,28,26.56%,0.900,935.71875
+train,Qwen3-32B,RUNTIME_ERROR,5,17.86%,0.100,10.6328125

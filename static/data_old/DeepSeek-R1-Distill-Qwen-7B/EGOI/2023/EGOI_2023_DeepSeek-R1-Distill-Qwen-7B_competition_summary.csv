@@ -1,0 +1,10 @@
+problem,status,score,%test passed,time,memory,pass_rate
+bikesvscars,UNKNOWN,0,0.00%,0.000,0,
+ppp,COMPILATION_ERROR,0,0.00%,0.000,0,
+findthebox,COMPILATION_ERROR,0,0.00%,0.000,0,
+inflation,COMPILATION_ERROR,0,0.00%,0.000,0,
+candy,COMPILATION_ERROR,0,0.00%,0.000,0,
+sopsug,UNKNOWN,0,0.00%,0.000,0,
+guessinggame,COMPILATION_ERROR,0,0.00%,0.000,0,
+carnival,UNKNOWN,0,0.00%,0.000,0,
+TOTAL,,0,0.00%,,,0.00%

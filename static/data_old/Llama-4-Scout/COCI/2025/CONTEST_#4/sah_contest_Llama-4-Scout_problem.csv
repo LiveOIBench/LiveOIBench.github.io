@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+sah_Llama-4-Scout_0.cpp,ACCEPTED,50,100.00%,0.040,1.4921875,13,19,18
+sah_Llama-4-Scout_1.cpp,ACCEPTED,50,100.00%,1.730,3.1015625,13,19,18
+sah_Llama-4-Scout_2.cpp,RUNTIME_ERROR,13,32.35%,0.080,4.015625,13,0,0
+sah_Llama-4-Scout_3.cpp,RUNTIME_ERROR,13,29.41%,1.030,3.1015625,13,0,0
+sah_Llama-4-Scout_4.cpp,RUNTIME_ERROR,0,1.47%,0.000,0,0,0,0
+sah_Llama-4-Scout_5.cpp,ACCEPTED,50,100.00%,0.040,1.96484375,13,19,18
+sah_Llama-4-Scout_6.cpp,ACCEPTED,50,100.00%,1.620,4.0234375,13,19,18
+sah_Llama-4-Scout_7.cpp,RUNTIME_ERROR,13,29.41%,0.140,3.50390625,13,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+zlagalica_gpt-o3-mini-high_0.cpp,RUNTIME_ERROR,12,25.00%,0.000,0,0,12,0,0
+zlagalica_gpt-o3-mini-high_1.cpp,RUNTIME_ERROR,12,25.00%,0.030,0,0,12,0,0
+zlagalica_gpt-o3-mini-high_2.cpp,RUNTIME_ERROR,12,25.00%,0.000,0,0,12,0,0
+zlagalica_gpt-o3-mini-high_3.cpp,ACCEPTED,50,100.00%,0.000,0,17,12,12,9
+zlagalica_gpt-o3-mini-high_4.cpp,RUNTIME_ERROR,12,25.00%,0.000,0,0,12,0,0
+zlagalica_gpt-o3-mini-high_5.cpp,RUNTIME_ERROR,12,25.00%,0.030,0,0,12,0,0
+zlagalica_gpt-o3-mini-high_6.cpp,ACCEPTED,50,100.00%,0.030,0,17,12,12,9
+zlagalica_gpt-o3-mini-high_7.cpp,RUNTIME_ERROR,12,25.00%,0.000,0,0,12,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Forklift_Certified,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,0,6.25%,2.220,87.8046875
+platinum_Lazy_Sort,gemini-2.5-flash,WRONG_ANSWER,0,6.67%,0.140,77.61328125
+platinum_Package_Pickup,gemini-2.5-flash,MEMORY_LIMIT_EXCEEDED,0,10.00%,0.160,271.51953125

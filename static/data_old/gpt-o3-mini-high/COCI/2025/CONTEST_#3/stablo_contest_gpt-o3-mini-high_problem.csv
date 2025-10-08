@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+stablo_gpt-o3-mini-high_0.cpp,ACCEPTED,120,100.00%,0.460,81.4765625,21,37,22,40
+stablo_gpt-o3-mini-high_1.cpp,RUNTIME_ERROR,0,14.71%,0.330,51.0546875,0,0,0,0
+stablo_gpt-o3-mini-high_2.cpp,RUNTIME_ERROR,0,14.71%,0.410,83.33203125,0,0,0,0
+stablo_gpt-o3-mini-high_3.cpp,ACCEPTED,120,100.00%,0.410,85.40234375,21,37,22,40
+stablo_gpt-o3-mini-high_4.cpp,RUNTIME_ERROR,0,0.00%,0.010,0,0,0,0,0
+stablo_gpt-o3-mini-high_5.cpp,RUNTIME_ERROR,0,14.71%,0.380,89.26953125,0,0,0,0
+stablo_gpt-o3-mini-high_6.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0
+stablo_gpt-o3-mini-high_7.cpp,ACCEPTED,120,100.00%,0.530,45.34375,21,37,22,40

@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Table_Recovery_DeepSeek-R1-Distill-Llama-70B_0.cpp,MEMORY_LIMIT_EXCEEDED,0,6.67%,0.260,5.1640625,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_DeepSeek-R1-Distill-Llama-70B_2.cpp,RUNTIME_ERROR,0,6.67%,0.360,12.89453125,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_DeepSeek-R1-Distill-Llama-70B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_DeepSeek-R1-Distill-Llama-70B_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_DeepSeek-R1-Distill-Llama-70B_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_DeepSeek-R1-Distill-Llama-70B_6.cpp,MEMORY_LIMIT_EXCEEDED,0,6.67%,0.310,9.1328125,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_DeepSeek-R1-Distill-Llama-70B_7.cpp,TIME_LIMIT_EXCEEDED,0,6.67%,2.360,13.20703125,0,0,0,0,0,0,0,0,0,0,0,0,0

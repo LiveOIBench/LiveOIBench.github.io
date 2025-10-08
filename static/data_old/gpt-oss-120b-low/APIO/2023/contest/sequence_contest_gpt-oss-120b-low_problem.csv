@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+sequence_gpt-oss-120b-low_0.cpp,RUNTIME_ERROR,0,0.00%,0.190,37.66015625,0,0,0,0,0,0,0,0
+sequence_gpt-oss-120b-low_1.cpp,RUNTIME_ERROR,0,8.24%,0.100,23.7109375,0,0,0,0,0,0,0,0
+sequence_gpt-oss-120b-low_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.800,31.2109375,0,0,0,0,0,0,0,0
+sequence_gpt-oss-120b-low_3.cpp,RUNTIME_ERROR,0,7.06%,0.080,10.83203125,0,0,0,0,0,0,0,0
+sequence_gpt-oss-120b-low_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.810,43.3203125,0,0,0,0,0,0,0,0
+sequence_gpt-oss-120b-low_5.cpp,RUNTIME_ERROR,0,2.47%,0.130,33.78125,0,0,0,0,0,0,0,0
+sequence_gpt-oss-120b-low_6.cpp,RUNTIME_ERROR,0,8.24%,0.080,6.44140625,0,0,0,0,0,0,0,0
+sequence_gpt-oss-120b-low_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.800,513.56640625,0,0,0,0,0,0,0,0

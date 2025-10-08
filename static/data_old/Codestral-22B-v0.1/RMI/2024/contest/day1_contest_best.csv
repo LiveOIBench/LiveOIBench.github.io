@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Choose_Interval,Codestral-22B-v0.1,RUNTIME_ERROR,0,0.00%,0.000,0
+Skittlez,Codestral-22B-v0.1,RUNTIME_ERROR,0,5.56%,0.010,0
+Octagon,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0

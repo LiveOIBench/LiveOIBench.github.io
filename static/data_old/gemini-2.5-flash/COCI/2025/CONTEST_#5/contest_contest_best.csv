@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+wow,gemini-2.5-flash,ACCEPTED,50,100.00%,0.000,0
+zid,gemini-2.5-flash,ACCEPTED,70,100.00%,0.280,2.5859375
+tornjevi,gemini-2.5-flash,ACCEPTED,90,100.00%,0.170,20.6328125
+crtez,gemini-2.5-flash,RUNTIME_ERROR,0,8.51%,0.250,40.99609375
+stablo,gemini-2.5-flash,ACCEPTED,120,100.00%,2.050,207.29296875

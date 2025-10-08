@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+minequake,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,2.96%,0.020,0
+mineraldeposits,Llama-3.3-70B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+sequence,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,8.00%,0.000,0

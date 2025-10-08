@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1
+ministarstvo_Qwen3-30B_0.cpp,TIME_LIMIT_EXCEEDED,0,1.75%,1.110,5.1640625,0,0
+ministarstvo_Qwen3-30B_1.cpp,RUNTIME_ERROR,0,1.75%,0.210,9.03515625,0,0
+ministarstvo_Qwen3-30B_2.cpp,RUNTIME_ERROR,0,1.75%,0.220,9.03515625,0,0
+ministarstvo_Qwen3-30B_3.cpp,RUNTIME_ERROR,0,0.00%,0.410,9.03125,0,0
+ministarstvo_Qwen3-30B_4.cpp,RUNTIME_ERROR,0,0.00%,0.170,9.28125,0,0
+ministarstvo_Qwen3-30B_5.cpp,RUNTIME_ERROR,0,1.75%,0.170,5.6796875,0,0
+ministarstvo_Qwen3-30B_6.cpp,RUNTIME_ERROR,0,0.00%,0.230,10.57421875,0,0
+ministarstvo_Qwen3-30B_7.cpp,RUNTIME_ERROR,0,0.00%,0.220,5.1640625,0,0

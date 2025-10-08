@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Choose_Interval,deepseek-chat,RUNTIME_ERROR,0,10.91%,0.040,0
+Skittlez,deepseek-chat,MEMORY_LIMIT_EXCEEDED,7,44.44%,0.650,306.2890625
+Octagon,deepseek-chat,RUNTIME_ERROR,0,14.29%,0.000,0

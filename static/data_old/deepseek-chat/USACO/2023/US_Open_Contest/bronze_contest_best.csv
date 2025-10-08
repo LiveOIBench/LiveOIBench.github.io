@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_FEB,deepseek-chat,TIME_LIMIT_EXCEEDED,118,45.00%,2.230,2.21875
+bronze_Moo_Language,deepseek-chat,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Rotate_and_Shift,deepseek-chat,WRONG_ANSWER,0,7.69%,0.040,2.33203125

@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+eurokod,Llama-3.3-70B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+vrsar,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,0,3.12%,1.120,3.36328125
+milano,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,2.38%,0.140,2.84765625
+restorani,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,0,0.68%,2.230,34.7890625
+cesta,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,0,0.92%,3.610,8.7734375

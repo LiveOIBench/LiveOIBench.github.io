@@ -1,0 +1,13 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+five,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0
+game,RUNTIME_ERROR,0,2.70%,0.210,61.1015625,,0,0,0,0,0,0,0
+lexgcd,RUNTIME_ERROR,0,7.38%,0.140,2.12109375,,0,0,0,0,0,0,0
+ones,UNKNOWN,0,0.00%,0.000,0,,0,0,0,0,0,0,0
+travel,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0
+aquarelle,RUNTIME_ERROR,0,12.36%,0.130,24.25,,0,0,0,0,0,0,0
+parentheses,TIME_LIMIT_EXCEEDED,0,2.34%,0.380,3.3671875,,0,0,0,0,0,0,0
+tolls,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0
+twins,UNKNOWN,0,0.00%,0.000,0,,0,0,0,0,0,0,0
+walk,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0
+xy,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0
+TOTAL,,0,2.25%,,,0.00%,,,,,,,

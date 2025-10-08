@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+five,gpt-oss-20b-low,COMPILATION_ERROR,0,0.00%,0.000,0
+game,gpt-oss-20b-low,RUNTIME_ERROR,0,2.70%,0.070,4.91796875
+lexgcd,gpt-oss-20b-low,RUNTIME_ERROR,0,7.38%,0.030,2.07421875
+ones,gpt-oss-20b-low,WRONG_ANSWER,25,0.00%,0.120,1.94921875
+travel,gpt-oss-20b-low,TIME_LIMIT_EXCEEDED,20,29.41%,1.220,33.78125

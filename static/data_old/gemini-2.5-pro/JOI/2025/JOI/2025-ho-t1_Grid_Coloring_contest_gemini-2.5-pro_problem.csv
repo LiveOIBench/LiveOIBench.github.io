@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+2025-ho-t1_Grid_Coloring_gemini-2.5-pro_0.cpp,TIME_LIMIT_EXCEEDED,25,70.95%,2.240,19.55859375,15,10,0,0,0
+2025-ho-t1_Grid_Coloring_gemini-2.5-pro_1.cpp,ACCEPTED,100,100.00%,0.370,35.16015625,15,10,20,25,30
+2025-ho-t1_Grid_Coloring_gemini-2.5-pro_2.cpp,ACCEPTED,100,100.00%,0.310,34.8125,15,10,20,25,30
+2025-ho-t1_Grid_Coloring_gemini-2.5-pro_3.cpp,ACCEPTED,100,100.00%,0.270,36.359375,15,10,20,25,30
+2025-ho-t1_Grid_Coloring_gemini-2.5-pro_4.cpp,RUNTIME_ERROR,0,3.37%,0.200,31.9765625,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_gemini-2.5-pro_5.cpp,ACCEPTED,100,100.00%,0.310,31.9765625,15,10,20,25,30
+2025-ho-t1_Grid_Coloring_gemini-2.5-pro_6.cpp,ACCEPTED,100,100.00%,0.330,48.90625,15,10,20,25,30
+2025-ho-t1_Grid_Coloring_gemini-2.5-pro_7.cpp,ACCEPTED,100,100.00%,0.400,31.9765625,15,10,20,25,30

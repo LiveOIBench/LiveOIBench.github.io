@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+stablo_gemini-2.5-pro_0.cpp,TIME_LIMIT_EXCEEDED,75,79.21%,4.210,273.796875,15,15,45,0
+stablo_gemini-2.5-pro_1.cpp,ACCEPTED,120,100.00%,2.050,192.19140625,15,15,45,45
+stablo_gemini-2.5-pro_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+stablo_gemini-2.5-pro_3.cpp,ACCEPTED,120,100.00%,2.010,184.453125,15,15,45,45
+stablo_gemini-2.5-pro_4.cpp,ACCEPTED,120,100.00%,3.130,182.54296875,15,15,45,45
+stablo_gemini-2.5-pro_5.cpp,ACCEPTED,120,100.00%,2.120,222.73046875,15,15,45,45
+stablo_gemini-2.5-pro_6.cpp,RUNTIME_ERROR,0,0.00%,2.690,384.1484375,0,0,0,0
+stablo_gemini-2.5-pro_7.cpp,ACCEPTED,120,100.00%,3.330,215.203125,15,15,45,45

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cowmpetency,deepseek-chat,TIME_LIMIT_EXCEEDED,0,8.33%,2.230,3.7890625
+silver_Potion_Farming,deepseek-chat,WRONG_ANSWER,48,13.33%,0.070,9.03125
+silver_Cowlendar,deepseek-chat,RUNTIME_ERROR,194,50.00%,2.190,6.19140625

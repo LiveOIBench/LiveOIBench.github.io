@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+igre_Llama-3.1-8B-Instruct_0.cpp,RUNTIME_ERROR,0,0.00%,0.080,1.5546875,0,0,0,0
+igre_Llama-3.1-8B-Instruct_1.cpp,RUNTIME_ERROR,0,0.00%,0.080,0.00390625,0,0,0,0
+igre_Llama-3.1-8B-Instruct_2.cpp,RUNTIME_ERROR,0,0.00%,0.080,0.00390625,0,0,0,0
+igre_Llama-3.1-8B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.290,97.20703125,0,0,0,0
+igre_Llama-3.1-8B-Instruct_4.cpp,RUNTIME_ERROR,0,0.00%,0.110,142.37890625,0,0,0,0
+igre_Llama-3.1-8B-Instruct_5.cpp,RUNTIME_ERROR,0,0.00%,0.080,1.5546875,0,0,0,0
+igre_Llama-3.1-8B-Instruct_6.cpp,RUNTIME_ERROR,0,0.00%,0.080,1.5546875,0,0,0,0
+igre_Llama-3.1-8B-Instruct_7.cpp,RUNTIME_ERROR,0,0.00%,0.170,192.40234375,0,0,0,0

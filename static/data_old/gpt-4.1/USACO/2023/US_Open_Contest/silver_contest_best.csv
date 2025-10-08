@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Milk_Sum,gpt-4.1,ACCEPTED,333,100.00%,0.180,5.9375
+silver_Field_Day,gpt-4.1,ACCEPTED,333,100.00%,2.040,23.18359375
+silver_Pareidolia,gpt-4.1,TIME_LIMIT_EXCEEDED,0,16.67%,4.420,1.49609375

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Cowreography,Mistral-Large-Instruct-2411,MEMORY_LIMIT_EXCEEDED,0,13.04%,0.240,280.87890625
+gold_Grass_Segments,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,39,25.00%,2.310,5.1640625
+gold_Smaller_Averages,Mistral-Large-Instruct-2411,RUNTIME_ERROR,0,10.00%,0.150,2.33203125

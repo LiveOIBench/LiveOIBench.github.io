@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Bessies_Function,gpt-oss-20b-low,RUNTIME_ERROR,105,28.57%,0.070,25.375
+gold_The_Best_Subsequence,gpt-oss-20b-low,RUNTIME_ERROR,0,0.00%,0.180,13.5625
+gold_Friendship_Editing,gpt-oss-20b-low,RUNTIME_ERROR,44,11.11%,2.010,1.81640625

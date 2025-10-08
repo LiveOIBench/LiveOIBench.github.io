@@ -67,6 +67,9 @@ const competitions = [
     // Format the date range display with the full sentence
     const formattedStartDate = `${startDate.getMonth() + 1}/${startDate.getDate()}/${startDate.getFullYear()}`;
     const formattedEndDate = `${endDate.getMonth() + 1}/${endDate.getDate()}/${endDate.getFullYear()}`;
+    if (totalProblems == 0) {
+      totalContests = 0;
+    }
     display.textContent = `${totalProblems} problems and ${totalContests} contests selected in the current time window (${formattedStartDate} to ${formattedEndDate}). You can adjust the start or end date to change the time window.`;
     // Update the track styling
     const maxValue = parseInt(startSlider.max);

@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+zlagalica,Llama-4-Scout,RUNTIME_ERROR,0,0.00%,0.010,0
+bitovi,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0
+piratski,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0
+rolete,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0
+trokut,Llama-4-Scout,RUNTIME_ERROR,0,0.00%,0.020,0.00390625

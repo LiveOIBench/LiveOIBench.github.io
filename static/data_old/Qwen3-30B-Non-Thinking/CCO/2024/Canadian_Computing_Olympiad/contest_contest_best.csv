@@ -1,0 +1,7 @@
+problem,model,status,score,%test passed,time,memory
+d1p1,Qwen3-30B-Non-Thinking,TIME_LIMIT_EXCEEDED,5,23.21%,4.410,91.78515625
+d1p2,Qwen3-30B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+d1p3,Qwen3-30B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+d2p1,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,0,0.00%,0.050,2.32421875
+d2p2,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,0,0.56%,0.080,5.94140625
+d2p3,Qwen3-30B-Non-Thinking,TIME_LIMIT_EXCEEDED,0,3.45%,4.440,1125.62109375

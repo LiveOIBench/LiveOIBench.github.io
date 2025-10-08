@@ -1,0 +1,6 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+2025-ho-t1_Grid_Coloring,TIME_LIMIT_EXCEEDED,0,15.46%,2.330,21.1484375,,0,0,0,0,0,0,0
+2025-ho-t2_Bitaro_the_Brave_2,TIME_LIMIT_EXCEEDED,31,62.77%,1.280,16.51171875,,10,21,0,0,0,0,0
+2025-ho-t4_Just_Long_Neckties_2,RUNTIME_ERROR,0,1.92%,0.000,0,,0,0,0,0,0,0,0
+2025-ho-t5_Post_Office,TIME_LIMIT_EXCEEDED,0,4.69%,2.210,2.84375,,0,0,0,0,0,0,0
+TOTAL,,31,21.21%,,,0.00%,,,,,,,

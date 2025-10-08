@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+sudoku_gpt-oss-20b-low_0.cpp,ACCEPTED,50,100.00%,0.000,0,11,12,13,14
+sudoku_gpt-oss-20b-low_1.cpp,RUNTIME_ERROR,0,45.71%,0.020,0,0,0,0,0
+sudoku_gpt-oss-20b-low_2.cpp,RUNTIME_ERROR,11,60.00%,0.000,0,11,0,0,0
+sudoku_gpt-oss-20b-low_3.cpp,ACCEPTED,50,100.00%,0.020,0,11,12,13,14
+sudoku_gpt-oss-20b-low_4.cpp,ACCEPTED,50,100.00%,0.000,0,11,12,13,14
+sudoku_gpt-oss-20b-low_5.cpp,ACCEPTED,50,100.00%,0.020,0,11,12,13,14
+sudoku_gpt-oss-20b-low_6.cpp,RUNTIME_ERROR,0,45.71%,0.020,0,0,0,0,0
+sudoku_gpt-oss-20b-low_7.cpp,ACCEPTED,50,100.00%,0.020,0,11,12,13,14

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+Stone_Enthusiast_gpt-5_0.cpp,ACCEPTED,100,100.00%,0.230,22.5703125,0.0,16.0,14.0,12.0,16.0,11.0,17.0,14.0
+Stone_Enthusiast_gpt-5_1.cpp,ACCEPTED,100,100.00%,0.350,21.8046875,0.0,16.0,14.0,12.0,16.0,11.0,17.0,14.0
+Stone_Enthusiast_gpt-5_2.cpp,ACCEPTED,100,100.00%,0.370,21.77734375,0.0,16.0,14.0,12.0,16.0,11.0,17.0,14.0
+Stone_Enthusiast_gpt-5_3.cpp,RUNTIME_ERROR,0,12.70%,0.120,4.3671875,0,0,0,0,0,0,0,0
+Stone_Enthusiast_gpt-5_4.cpp,RUNTIME_ERROR,0,6.67%,0.130,43.1328125,0,0,0,0,0,0,0,0
+Stone_Enthusiast_gpt-5_5.cpp,RUNTIME_ERROR,0,26.12%,0.200,21.890625,0.0,0,0,0,0,0,0,0
+Stone_Enthusiast_gpt-5_6.cpp,ACCEPTED,100,100.00%,0.370,21.77734375,0.0,16.0,14.0,12.0,16.0,11.0,17.0,14.0
+Stone_Enthusiast_gpt-5_7.cpp,RUNTIME_ERROR,0,12.70%,0.120,2.68359375,0,0,0,0,0,0,0,0

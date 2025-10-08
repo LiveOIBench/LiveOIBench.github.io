@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+zrinka_seed-oss_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+zrinka_seed-oss_1.cpp,ACCEPTED,70,100.00%,0.230,192.59375,15,20,15,20
+zrinka_seed-oss_3.cpp,ACCEPTED,70,100.00%,0.130,1.55859375,15,20,15,20
+zrinka_seed-oss_4.cpp,ACCEPTED,70,100.00%,0.200,1.6015625,15,20,15,20
+zrinka_seed-oss_5.cpp,ACCEPTED,70,100.00%,0.140,1.55859375,15,20,15,20
+zrinka_seed-oss_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+zrinka_seed-oss_7.cpp,ACCEPTED,70,100.00%,0.190,192.33984375,15,20,15,20

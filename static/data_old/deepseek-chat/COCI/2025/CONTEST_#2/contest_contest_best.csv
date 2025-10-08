@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+paradoks,deepseek-chat,RUNTIME_ERROR,10,38.46%,0.000,0
+igre,deepseek-chat,RUNTIME_ERROR,29,38.78%,0.040,0.00390625
+razlicitost,deepseek-chat,MEMORY_LIMIT_EXCEEDED,22,37.21%,0.070,4.39453125
+blistavost,deepseek-chat,RUNTIME_ERROR,0,9.84%,0.030,1.5546875
+trokuti,deepseek-chat,RUNTIME_ERROR,13,25.96%,0.060,4.39453125

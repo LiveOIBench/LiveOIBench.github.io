@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Best_Runner_gpt-5_0.cpp,TIME_LIMIT_EXCEEDED,42,44.44%,1.220,168.16015625,0.0,23.0,0,0,19.0,0,0
+Best_Runner_gpt-5_1.cpp,RUNTIME_ERROR,0,12.50%,0.330,55.5390625,0.0,0,0,0,0,0,0
+Best_Runner_gpt-5_2.cpp,RUNTIME_ERROR,68,55.41%,0.130,11.8671875,0.0,23.0,10.0,16.0,19.0,0,0
+Best_Runner_gpt-5_3.cpp,RUNTIME_ERROR,0,12.50%,0.330,59.92578125,0.0,0,0,0,0,0,0
+Best_Runner_gpt-5_4.cpp,RUNTIME_ERROR,34,37.10%,0.120,9.37890625,0.0,23.0,0,0,0,11.0,0
+Best_Runner_gpt-5_5.cpp,ACCEPTED,100,100.00%,0.900,146.98828125,0.0,23.0,10.0,16.0,19.0,11.0,21.0
+Best_Runner_gpt-5_6.cpp,RUNTIME_ERROR,34,33.87%,0.120,6.1953125,0.0,23.0,0,0,0,11.0,0
+Best_Runner_gpt-5_7.cpp,RUNTIME_ERROR,0,12.50%,0.150,38.15625,0.0,0,0,0,0,0,0

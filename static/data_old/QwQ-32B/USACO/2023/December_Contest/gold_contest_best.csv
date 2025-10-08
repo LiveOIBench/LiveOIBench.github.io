@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Flight_Routes,QwQ-32B,ACCEPTED,333,100.00%,0.110,2.5859375
+gold_Minimum_Longest_Trip,QwQ-32B,WRONG_ANSWER,83,40.00%,0.270,18.12109375
+gold_Haybale_Distribution,QwQ-32B,ACCEPTED,333,100.00%,0.160,3.62109375

@@ -1,0 +1,6 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+paradoks_Qwen3-8B_1.cpp,RUNTIME_ERROR,0,0.00%,0.020,0,0,0,0
+paradoks_Qwen3-8B_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+paradoks_Qwen3-8B_3.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.020,1.828125,0,0,0
+paradoks_Qwen3-8B_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+paradoks_Qwen3-8B_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.020,1.8203125,0,0,0

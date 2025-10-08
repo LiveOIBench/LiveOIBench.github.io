@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+sah,DeepSeek-R1-Distill-Qwen-14B,ACCEPTED,50,100.00%,0.090,0.00390625
+benzinska,DeepSeek-R1-Distill-Qwen-14B,ACCEPTED,70,100.00%,0.130,5.6015625
+xor,DeepSeek-R1-Distill-Qwen-14B,COMPILATION_ERROR,0,0.00%,0.000,0
+cipele,DeepSeek-R1-Distill-Qwen-14B,COMPILATION_ERROR,0,0.00%,0.000,0
+tura,DeepSeek-R1-Distill-Qwen-14B,RUNTIME_ERROR,0,0.72%,0.070,2.32421875

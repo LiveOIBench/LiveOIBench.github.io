@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+hijerarhija_deepseek-chat_0.cpp,TIME_LIMIT_EXCEEDED,50,75.00%,3.320,46.63671875,7,12,16,15,0,0
+hijerarhija_deepseek-chat_1.cpp,TIME_LIMIT_EXCEEDED,50,75.00%,3.330,18.5703125,7,12,16,15,0,0
+hijerarhija_deepseek-chat_2.cpp,TIME_LIMIT_EXCEEDED,0,25.00%,3.370,57.5,0,0,0,0,0,0
+hijerarhija_deepseek-chat_3.cpp,TIME_LIMIT_EXCEEDED,50,75.00%,3.350,57.75390625,7,12,16,15,0,0
+hijerarhija_deepseek-chat_4.cpp,TIME_LIMIT_EXCEEDED,50,63.89%,3.340,18.5703125,7,12,16,15,0,0
+hijerarhija_deepseek-chat_5.cpp,ACCEPTED,90,100.00%,0.560,57.5,7,12,16,15,23,17
+hijerarhija_deepseek-chat_6.cpp,TIME_LIMIT_EXCEEDED,50,63.89%,3.350,57.49609375,7,12,16,15,0,0
+hijerarhija_deepseek-chat_7.cpp,TIME_LIMIT_EXCEEDED,50,63.89%,3.340,57.49609375,7,12,16,15,0,0

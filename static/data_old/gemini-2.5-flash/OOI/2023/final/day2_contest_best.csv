@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Burenka_and_Pether,gemini-2.5-flash,RUNTIME_ERROR,17,45.05%,0.140,10.57421875
+Almost_Certainly,gemini-2.5-flash,UNKNOWN,0,0.00%,0.000,0
+Three_Arrays,gemini-2.5-flash,ACCEPTED,100,100.00%,0.050,5.9375
+Parallel_Universes,gemini-2.5-flash,RUNTIME_ERROR,0,1.45%,0.030,0

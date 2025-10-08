@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+diplomacy_gemini-2.5-flash_0.cpp,TIME_LIMIT_EXCEEDED,0,5.38%,4.410,135.125,0,0,0,0,0,0,0
+diplomacy_gemini-2.5-flash_1.cpp,TIME_LIMIT_EXCEEDED,25,57.29%,4.430,36.875,9,10,6,0,0,0,0
+diplomacy_gemini-2.5-flash_2.cpp,TIME_LIMIT_EXCEEDED,25,57.29%,4.440,32.0234375,9,10,6,0,0,0,0
+diplomacy_gemini-2.5-flash_3.cpp,RUNTIME_ERROR,0,0.00%,0.770,131.54296875,0,0,0,0,0,0,0
+diplomacy_gemini-2.5-flash_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.440,109.640625,0,0,0,0,0,0,0
+diplomacy_gemini-2.5-flash_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+diplomacy_gemini-2.5-flash_6.cpp,TIME_LIMIT_EXCEEDED,25,61.46%,4.450,32.109375,9,10,6,0,0,0,0
+diplomacy_gemini-2.5-flash_7.cpp,TIME_LIMIT_EXCEEDED,25,57.29%,4.410,32.015625,9,10,6,0,0,0,0

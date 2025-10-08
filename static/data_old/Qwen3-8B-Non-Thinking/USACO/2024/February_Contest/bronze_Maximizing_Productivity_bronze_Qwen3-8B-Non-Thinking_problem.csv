@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Maximizing_Productivity_Qwen3-8B-Non-Thinking_0.cpp,TIME_LIMIT_EXCEEDED,62,23.53%,2.490,3.62109375,0,20.833333333333332,0,0,0,0,0,0,0,20.833333333333332,20.833333333333332,0,0,0,0,0,0
+bronze_Maximizing_Productivity_Qwen3-8B-Non-Thinking_1.cpp,TIME_LIMIT_EXCEEDED,62,23.53%,2.350,3.62109375,0,20.833333333333332,0,0,0,0,0,0,0,20.833333333333332,20.833333333333332,0,0,0,0,0,0
+bronze_Maximizing_Productivity_Qwen3-8B-Non-Thinking_2.cpp,WRONG_ANSWER,0,0.00%,0.190,3.62109375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Maximizing_Productivity_Qwen3-8B-Non-Thinking_3.cpp,TIME_LIMIT_EXCEEDED,62,23.53%,2.380,6.20703125,0,20.833333333333332,0,0,0,0,0,0,0,20.833333333333332,20.833333333333332,0,0,0,0,0,0
+bronze_Maximizing_Productivity_Qwen3-8B-Non-Thinking_4.cpp,TIME_LIMIT_EXCEEDED,62,23.53%,2.350,6.20703125,0,20.833333333333332,0,0,0,0,0,0,0,20.833333333333332,20.833333333333332,0,0,0,0,0,0
+bronze_Maximizing_Productivity_Qwen3-8B-Non-Thinking_5.cpp,TIME_LIMIT_EXCEEDED,62,23.53%,2.480,4.66015625,0,20.833333333333332,0,0,0,0,0,0,0,20.833333333333332,20.833333333333332,0,0,0,0,0,0
+bronze_Maximizing_Productivity_Qwen3-8B-Non-Thinking_6.cpp,WRONG_ANSWER,0,0.00%,0.200,3.91015625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Maximizing_Productivity_Qwen3-8B-Non-Thinking_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.400,3.62109375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bessies_Interview,Qwen3-32B,TIME_LIMIT_EXCEEDED,67,23.81%,2.280,12.1015625
+silver_Painting_Fence_Posts,Qwen3-32B,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_The_Winning_Gene,Qwen3-32B,TIME_LIMIT_EXCEEDED,133,43.75%,2.230,35.984375

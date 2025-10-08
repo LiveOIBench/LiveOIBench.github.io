@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+2023-open-t1_Ancient_Machine_2,Llama-3.3-70B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-open-t2_Cell_Automaton,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,0.00%,0.110,1.55078125
+2023-open-t3_Garden,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,0,13.79%,2.210,21.8828125

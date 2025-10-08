@@ -1,0 +1,6 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+september_gpt-oss-20b-low_0.cpp,RUNTIME_ERROR,0,0.00%,0.110,8.8671875,0,0,0,0,0,0,0,0,0,0
+september_gpt-oss-20b-low_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0
+september_gpt-oss-20b-low_3.cpp,RUNTIME_ERROR,0,0.00%,0.120,3.90625,0,0,0,0,0,0,0,0,0,0
+september_gpt-oss-20b-low_5.cpp,RUNTIME_ERROR,0,0.00%,0.110,3.90625,0,0,0,0,0,0,0,0,0,0
+september_gpt-oss-20b-low_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0

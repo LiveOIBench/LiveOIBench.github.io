@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+igre_gpt-oss-120b-low_0.cpp,ACCEPTED,70,100.00%,0.090,1.55859375,6,13,23,28
+igre_gpt-oss-120b-low_1.cpp,RUNTIME_ERROR,23,26.53%,0.080,1.55859375,0,0,23,0
+igre_gpt-oss-120b-low_2.cpp,RUNTIME_ERROR,23,26.53%,0.060,1.55859375,0,0,23,0
+igre_gpt-oss-120b-low_3.cpp,ACCEPTED,70,100.00%,0.080,1.55859375,6,13,23,28
+igre_gpt-oss-120b-low_4.cpp,RUNTIME_ERROR,23,26.53%,0.060,1.55859375,0,0,23,0
+igre_gpt-oss-120b-low_5.cpp,RUNTIME_ERROR,23,26.53%,0.060,1.55859375,0,0,23,0
+igre_gpt-oss-120b-low_6.cpp,RUNTIME_ERROR,23,26.53%,0.060,1.55859375,0,0,23,0
+igre_gpt-oss-120b-low_7.cpp,RUNTIME_ERROR,29,44.90%,0.060,1.55859375,6,0,23,0

@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+zlagalica,Qwen3-4B,RUNTIME_ERROR,0,0.00%,0.000,0
+bitovi,Qwen3-4B,RUNTIME_ERROR,0,0.00%,0.020,2.0703125
+piratski,Qwen3-4B,COMPILATION_ERROR,0,0.00%,0.000,0
+rolete,Qwen3-4B,RUNTIME_ERROR,0,2.04%,1.220,3.015625
+trokut,Qwen3-4B,RUNTIME_ERROR,0,0.00%,0.020,0.00390625

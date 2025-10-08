@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Lazy_Cow,gpt-o3-mini-high,WRONG_ANSWER,0,10.00%,0.130,18.56640625
+platinum_Minimum_Sum_of_Maximums,gpt-o3-mini-high,RUNTIME_ERROR,50,20.83%,0.040,0.00390625
+platinum_Infinite_Adventure,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,104,38.89%,2.250,481.24609375

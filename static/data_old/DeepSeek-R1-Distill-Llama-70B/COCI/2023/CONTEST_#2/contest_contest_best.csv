@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+tramvaji,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,50,100.00%,0.060,0
+ekspert,DeepSeek-R1-Distill-Llama-70B,COMPILATION_ERROR,0,0.00%,0.000,0
+lampice,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,2.38%,0.110,4.12109375
+prijateljice,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,110,100.00%,0.100,7.48046875
+kruhologija,DeepSeek-R1-Distill-Llama-70B,COMPILATION_ERROR,0,0.00%,0.000,0

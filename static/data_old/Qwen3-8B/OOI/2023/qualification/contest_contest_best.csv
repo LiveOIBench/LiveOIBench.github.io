@@ -1,0 +1,10 @@
+problem,model,status,score,%test passed,time,memory
+Paired_roads,Qwen3-8B,RUNTIME_ERROR,0,12.60%,0.090,29.8203125
+Legs_warm-up_exercise,Qwen3-8B,UNKNOWN,0,0.00%,0.000,0
+Hard_problem,Qwen3-8B,ACCEPTED,100,100.00%,0.080,3.62109375
+Yet_another_queries,Qwen3-8B,TIME_LIMIT_EXCEEDED,19,49.24%,1.800,9.29296875
+Lunch,Qwen3-8B,RUNTIME_ERROR,0,6.98%,0.000,0
+Tournament,Qwen3-8B,ACCEPTED,100,100.00%,0.020,0
+You_need_to_train_more,Qwen3-8B,TIME_LIMIT_EXCEEDED,74,85.26%,1.220,2.7890625
+Colorful_graph,Qwen3-8B,ACCEPTED,100,100.00%,0.050,7.95703125
+Space_accident,Qwen3-8B,RUNTIME_ERROR,15,30.14%,0.070,2.07421875

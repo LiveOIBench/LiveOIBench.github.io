@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+milano_Llama-4-Scout_0.cpp,RUNTIME_ERROR,0,0.00%,0.050,4.9140625,0,0,0,0
+milano_Llama-4-Scout_1.cpp,ACCEPTED,110,100.00%,0.120,5.14453125,21,18,31,40
+milano_Llama-4-Scout_2.cpp,RUNTIME_ERROR,0,9.52%,0.030,3.62109375,0,0,0,0
+milano_Llama-4-Scout_3.cpp,TIME_LIMIT_EXCEEDED,0,2.38%,1.210,4.390625,0,0,0,0
+milano_Llama-4-Scout_4.cpp,RUNTIME_ERROR,0,9.52%,0.020,3.36328125,0,0,0,0
+milano_Llama-4-Scout_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.210,4.8984375,0,0,0,0
+milano_Llama-4-Scout_6.cpp,RUNTIME_ERROR,0,9.52%,0.030,3.62109375,0,0,0,0
+milano_Llama-4-Scout_7.cpp,RUNTIME_ERROR,0,9.52%,0.030,3.36328125,0,0,0,0

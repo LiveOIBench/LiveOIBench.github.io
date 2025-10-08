@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+cern_Qwen3-14B-Non-Thinking_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.410,549.91015625,0,0,0,0,0
+cern_Qwen3-14B-Non-Thinking_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.420,10.89453125,0,0,0,0,0
+cern_Qwen3-14B-Non-Thinking_2.cpp,RUNTIME_ERROR,0,0.00%,0.250,10.89453125,0,0,0,0,0
+cern_Qwen3-14B-Non-Thinking_3.cpp,RUNTIME_ERROR,0,0.00%,1.290,12.92578125,0,0,0,0,0
+cern_Qwen3-14B-Non-Thinking_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.450,46.12109375,0,0,0,0,0
+cern_Qwen3-14B-Non-Thinking_5.cpp,RUNTIME_ERROR,0,0.00%,1.140,53.84375,0,0,0,0,0
+cern_Qwen3-14B-Non-Thinking_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.410,39.4765625,0,0,0,0,0
+cern_Qwen3-14B-Non-Thinking_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.410,24.3828125,0,0,0,0,0

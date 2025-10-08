@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+astronomer,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,5.37%,0.000,0
+staringcontest,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,12.82%,0.020,1.53515625
+tycho,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,4.50%,0.020,0

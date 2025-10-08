@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1
+estimathon_Qwen2.5-72B_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0
+estimathon_Qwen2.5-72B_1.cpp,RUNTIME_ERROR,39,66.67%,0.000,0,0,39
+estimathon_Qwen2.5-72B_2.cpp,RUNTIME_ERROR,11,53.33%,0.000,0,11,0
+estimathon_Qwen2.5-72B_3.cpp,RUNTIME_ERROR,39,66.67%,0.000,0,0,39
+estimathon_Qwen2.5-72B_4.cpp,RUNTIME_ERROR,39,66.67%,0.000,0,0,39
+estimathon_Qwen2.5-72B_5.cpp,RUNTIME_ERROR,0,26.67%,0.000,0,0,0
+estimathon_Qwen2.5-72B_6.cpp,RUNTIME_ERROR,39,73.33%,0.000,0,0,39
+estimathon_Qwen2.5-72B_7.cpp,RUNTIME_ERROR,39,66.67%,0.050,0,0,39

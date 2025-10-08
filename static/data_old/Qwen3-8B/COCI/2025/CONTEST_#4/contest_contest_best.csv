@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+sah,Qwen3-8B,ACCEPTED,50,100.00%,0.030,0.00390625
+benzinska,Qwen3-8B,ACCEPTED,70,100.00%,0.060,3.90234375
+xor,Qwen3-8B,UNKNOWN,0,0.00%,0.000,0
+cipele,Qwen3-8B,RUNTIME_ERROR,27,12.90%,0.080,6.71484375
+tura,Qwen3-8B,COMPILATION_ERROR,0,0.00%,0.000,0

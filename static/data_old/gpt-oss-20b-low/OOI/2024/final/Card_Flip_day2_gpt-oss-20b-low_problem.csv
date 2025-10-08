@@ -1,0 +1,4 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Card_Flip_gpt-oss-20b-low_2.cpp,RUNTIME_ERROR,0,14.29%,0.090,0.00390625,0.0,0,0,0,0,0,0,0,0,0
+Card_Flip_gpt-oss-20b-low_3.cpp,RUNTIME_ERROR,0,14.29%,0.100,6.97265625,0.0,0,0,0,0,0,0,0,0,0
+Card_Flip_gpt-oss-20b-low_5.cpp,RUNTIME_ERROR,0,2.06%,0.110,8.51953125,0,0,0,0,0,0,0,0,0,0

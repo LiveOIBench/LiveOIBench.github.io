@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+garbage_Qwen3-32B_0.cpp,TIME_LIMIT_EXCEEDED,0,15.07%,5.510,4.15234375,0,0,0,0,0,0
+garbage_Qwen3-32B_1.cpp,TIME_LIMIT_EXCEEDED,25,42.47%,5.510,4.53125,10,0,15,0,0,0
+garbage_Qwen3-32B_2.cpp,TIME_LIMIT_EXCEEDED,25,39.73%,5.520,3.87109375,10,0,15,0,0,0
+garbage_Qwen3-32B_3.cpp,TIME_LIMIT_EXCEEDED,0,15.07%,5.520,4.41015625,0,0,0,0,0,0
+garbage_Qwen3-32B_4.cpp,TIME_LIMIT_EXCEEDED,0,17.81%,5.520,4.68359375,0,0,0,0,0,0
+garbage_Qwen3-32B_5.cpp,RUNTIME_ERROR,0,4.11%,0.120,8.75,0,0,0,0,0,0
+garbage_Qwen3-32B_6.cpp,RUNTIME_ERROR,0,19.18%,0.210,23.01953125,0,0,0,0,0,0
+garbage_Qwen3-32B_7.cpp,TIME_LIMIT_EXCEEDED,25,42.47%,5.520,4.40625,10,0,15,0,0,0

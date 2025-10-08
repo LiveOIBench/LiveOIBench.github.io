@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Min_Max_Subarrays,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,0,15.38%,3.320,29.16796875
+platinum_Transforming_Pairs,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,0,5.26%,2.210,251.43359375
+platinum_True_or_False_Test,gemini-2.5-flash,WRONG_ANSWER,0,5.00%,0.110,19.59765625

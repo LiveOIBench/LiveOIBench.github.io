@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+boi_gemini-2.5-pro_0.cpp,RUNTIME_ERROR,0,11.90%,0.010,0.00390625,0,0,0,0,0,0,0
+boi_gemini-2.5-pro_1.cpp,TIME_LIMIT_EXCEEDED,11,17.86%,1.110,0.00390625,0,11,0,0,0,0,0
+boi_gemini-2.5-pro_2.cpp,TIME_LIMIT_EXCEEDED,0,17.65%,1.110,93.078125,0,0,0,0,0,0,0
+boi_gemini-2.5-pro_3.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+boi_gemini-2.5-pro_4.cpp,RUNTIME_ERROR,0,0.00%,0.020,1.5546875,0,0,0,0,0,0,0
+boi_gemini-2.5-pro_5.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+boi_gemini-2.5-pro_6.cpp,RUNTIME_ERROR,0,0.00%,0.020,0,0,0,0,0,0,0,0
+boi_gemini-2.5-pro_7.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0

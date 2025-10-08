@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+hieroglyphs,gpt-oss-20b-low,RUNTIME_ERROR,3,8.73%,0.020,9.29296875
+sphinx,gpt-oss-20b-low,RUNTIME_ERROR,0,3.26%,0.030,3.69921875
+mosaic,gpt-oss-20b-low,RUNTIME_ERROR,7,27.16%,0.070,7.02734375

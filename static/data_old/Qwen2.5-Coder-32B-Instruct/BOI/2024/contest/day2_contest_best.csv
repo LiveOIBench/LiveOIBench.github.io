@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+fire,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,44.64%,0.060,3.12890625
+tiles,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,1.33%,0.050,6.1640625
+wall,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,14.46%,0.100,0.00390625

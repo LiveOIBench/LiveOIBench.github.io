@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_21,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Draw_Polygon_Lines_deepseek-reasoner_0.cpp,MEMORY_LIMIT_EXCEEDED,36,55.60%,0.840,562.2265625,0,0,4.0,3.0,3.0,3.0,3.0,2.0,0,3.0,0,0,0,0,0,0,0,0,0,7.0,4.0,4.0
+Draw_Polygon_Lines_deepseek-reasoner_1.cpp,TIME_LIMIT_EXCEEDED,36,55.60%,2.210,3.03515625,0,0,4.0,3.0,3.0,3.0,3.0,2.0,0,3.0,0,0,0,0,0,0,0,0,0,7.0,4.0,4.0
+Draw_Polygon_Lines_deepseek-reasoner_2.cpp,RUNTIME_ERROR,53,82.19%,0.060,2.33203125,0,0,4.0,3.0,3.0,3.0,3.0,2.0,6.0,3.0,3.0,3.0,0,3.0,2.0,0,0,0,0,7.0,4.0,4.0
+Draw_Polygon_Lines_deepseek-reasoner_3.cpp,RUNTIME_ERROR,0,0.00%,0.050,2.38671875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Draw_Polygon_Lines_deepseek-reasoner_4.cpp,TIME_LIMIT_EXCEEDED,36,55.60%,2.230,3.84765625,0,0,4.0,3.0,3.0,3.0,3.0,2.0,0,3.0,0,0,0,0,0,0,0,0,0,7.0,4.0,4.0
+Draw_Polygon_Lines_deepseek-reasoner_5.cpp,TIME_LIMIT_EXCEEDED,36,55.60%,2.230,3.90234375,0,0,4.0,3.0,3.0,3.0,3.0,2.0,0,3.0,0,0,0,0,0,0,0,0,0,7.0,4.0,4.0
+Draw_Polygon_Lines_deepseek-reasoner_6.cpp,RUNTIME_ERROR,53,82.19%,0.350,3.96875,0,0,4.0,3.0,3.0,3.0,3.0,2.0,6.0,3.0,3.0,3.0,0,3.0,2.0,0,0,0,0,7.0,4.0,4.0
+Draw_Polygon_Lines_deepseek-reasoner_7.cpp,TIME_LIMIT_EXCEEDED,36,55.60%,2.220,146.80078125,0,0,4.0,3.0,3.0,3.0,3.0,2.0,0,3.0,0,0,0,0,0,0,0,0,0,7.0,4.0,4.0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Reachable_Pairs_Qwen3-30B_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Reachable_Pairs_Qwen3-30B_1.cpp,RUNTIME_ERROR,33,8.70%,0.370,16.32421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16.666666666666664,16.666666666666664,0,0,0,0
+gold_Reachable_Pairs_Qwen3-30B_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Reachable_Pairs_Qwen3-30B_3.cpp,RUNTIME_ERROR,33,8.70%,0.220,16.578125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16.666666666666664,16.666666666666664,0,0,0,0
+gold_Reachable_Pairs_Qwen3-30B_4.cpp,RUNTIME_ERROR,33,8.70%,0.240,16.32421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16.666666666666664,16.666666666666664,0,0,0,0
+gold_Reachable_Pairs_Qwen3-30B_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Reachable_Pairs_Qwen3-30B_6.cpp,RUNTIME_ERROR,0,0.00%,0.360,13.5859375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Reachable_Pairs_Qwen3-30B_7.cpp,RUNTIME_ERROR,33,8.70%,0.370,16.8046875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16.666666666666664,16.666666666666664,0,0,0,0

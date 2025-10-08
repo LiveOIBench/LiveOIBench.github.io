@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Reachable_Pairs_Qwen3-32B-Non-Thinking_0.cpp,RUNTIME_ERROR,0,0.00%,0.140,17.71484375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Reachable_Pairs_Qwen3-32B-Non-Thinking_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.240,16.44921875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Reachable_Pairs_Qwen3-32B-Non-Thinking_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.240,27.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Reachable_Pairs_Qwen3-32B-Non-Thinking_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Reachable_Pairs_Qwen3-32B-Non-Thinking_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Reachable_Pairs_Qwen3-32B-Non-Thinking_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.270,24.875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Reachable_Pairs_Qwen3-32B-Non-Thinking_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Reachable_Pairs_Qwen3-32B-Non-Thinking_7.cpp,RUNTIME_ERROR,0,0.00%,0.150,18.05859375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

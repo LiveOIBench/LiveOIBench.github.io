@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Majority_Opinion,Qwen2.5-Coder-14B-Instruct,TIME_LIMIT_EXCEEDED,95,33.33%,2.380,2.09375
+bronze_Cannonball,Qwen2.5-Coder-14B-Instruct,TIME_LIMIT_EXCEEDED,241,75.00%,2.290,2.07421875
+bronze_Balancing_Bacteria,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

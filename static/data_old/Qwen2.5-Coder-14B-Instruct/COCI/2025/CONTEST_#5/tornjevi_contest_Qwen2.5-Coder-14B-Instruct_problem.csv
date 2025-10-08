@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+tornjevi_Qwen2.5-Coder-14B-Instruct_0.cpp,RUNTIME_ERROR,0,0.00%,0.310,16.51171875,0,0,0,0,0
+tornjevi_Qwen2.5-Coder-14B-Instruct_1.cpp,RUNTIME_ERROR,7,18.52%,0.160,16.51171875,7,0,0,0,0
+tornjevi_Qwen2.5-Coder-14B-Instruct_2.cpp,RUNTIME_ERROR,7,18.52%,0.180,16.51171875,7,0,0,0,0
+tornjevi_Qwen2.5-Coder-14B-Instruct_3.cpp,RUNTIME_ERROR,0,0.00%,0.200,16.51171875,0,0,0,0,0
+tornjevi_Qwen2.5-Coder-14B-Instruct_4.cpp,RUNTIME_ERROR,7,18.52%,0.880,16.51171875,7,0,0,0,0
+tornjevi_Qwen2.5-Coder-14B-Instruct_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+tornjevi_Qwen2.5-Coder-14B-Instruct_6.cpp,MEMORY_LIMIT_EXCEEDED,7,18.52%,0.440,537.55078125,7,0,0,0,0
+tornjevi_Qwen2.5-Coder-14B-Instruct_7.cpp,RUNTIME_ERROR,7,18.52%,0.190,16.51171875,7,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Smaller_Averages_Qwen2.5-Coder-32B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.270,5.328125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Smaller_Averages_Qwen2.5-Coder-32B-Instruct_1.cpp,RUNTIME_ERROR,0,5.00%,0.170,2.4296875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Smaller_Averages_Qwen2.5-Coder-32B-Instruct_2.cpp,RUNTIME_ERROR,0,0.00%,0.110,3.1640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Smaller_Averages_Qwen2.5-Coder-32B-Instruct_3.cpp,RUNTIME_ERROR,0,0.00%,0.110,4.42578125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Smaller_Averages_Qwen2.5-Coder-32B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,104,45.00%,2.280,3.421875,0,20.833333333333332,0,0,0,0,0,0,0,20.833333333333332,20.833333333333332,20.833333333333332,20.833333333333332,0,0,0,0
+gold_Smaller_Averages_Qwen2.5-Coder-32B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,104,45.00%,2.250,1.9765625,0,20.833333333333332,0,0,0,0,0,0,0,20.833333333333332,20.833333333333332,20.833333333333332,20.833333333333332,0,0,0,0
+gold_Smaller_Averages_Qwen2.5-Coder-32B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.260,2.109375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Smaller_Averages_Qwen2.5-Coder-32B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,104,45.00%,2.270,1.9765625,0,20.833333333333332,0,0,0,0,0,0,0,20.833333333333332,20.833333333333332,20.833333333333332,20.833333333333332,0,0,0,0

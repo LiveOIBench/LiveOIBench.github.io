@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+teleporters_gpt-o3-mini-high_0.cpp,ACCEPTED,100,100.00%,0.410,11.6171875,0,11,13,10,5,9,6,7,17,8,14
+teleporters_gpt-o3-mini-high_1.cpp,ACCEPTED,100,100.00%,0.520,6.78515625,0,11,13,10,5,9,6,7,17,8,14
+teleporters_gpt-o3-mini-high_2.cpp,TIME_LIMIT_EXCEEDED,26,47.76%,1.120,3.3984375,0,11,0,10,5,0,0,0,0,0,0
+teleporters_gpt-o3-mini-high_3.cpp,TIME_LIMIT_EXCEEDED,35,55.22%,1.130,3.08203125,0,11,0,10,5,9,0,0,0,0,0
+teleporters_gpt-o3-mini-high_4.cpp,TIME_LIMIT_EXCEEDED,14,34.33%,1.140,8.51171875,0,0,0,0,5,9,0,0,0,0,0
+teleporters_gpt-o3-mini-high_5.cpp,TIME_LIMIT_EXCEEDED,35,55.22%,1.150,3.2734375,0,11,0,10,5,9,0,0,0,0,0
+teleporters_gpt-o3-mini-high_6.cpp,TIME_LIMIT_EXCEEDED,35,55.22%,1.140,3.6171875,0,11,0,10,5,9,0,0,0,0,0
+teleporters_gpt-o3-mini-high_7.cpp,TIME_LIMIT_EXCEEDED,41,62.69%,1.140,18.3515625,0,11,0,10,5,9,6,0,0,0,0

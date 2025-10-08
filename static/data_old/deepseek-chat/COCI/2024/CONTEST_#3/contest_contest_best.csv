@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+eurokod,deepseek-chat,ACCEPTED,50,100.00%,0.000,0
+vrsar,deepseek-chat,TIME_LIMIT_EXCEEDED,17,18.75%,1.110,4.90625
+milano,deepseek-chat,RUNTIME_ERROR,0,9.52%,0.070,3.62109375
+restorani,deepseek-chat,RUNTIME_ERROR,0,1.37%,0.080,18.3125
+cesta,deepseek-chat,COMPILATION_ERROR,0,0.00%,0.000,0

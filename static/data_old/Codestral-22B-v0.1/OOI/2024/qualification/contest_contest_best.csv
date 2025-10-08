@@ -1,0 +1,10 @@
+problem,model,status,score,%test passed,time,memory
+Colorful_Diameter,Codestral-22B-v0.1,TIME_LIMIT_EXCEEDED,0,4.10%,7.720,5.16796875
+Road_Lighting,Codestral-22B-v0.1,UNKNOWN,0,0.00%,0.000,0
+Repainting_the_Table,Codestral-22B-v0.1,RUNTIME_ERROR,0,5.21%,0.090,0
+Distinctive_Features,Codestral-22B-v0.1,RUNTIME_ERROR,0,0.00%,0.000,0
+Classic_Tree_Problem,Codestral-22B-v0.1,RUNTIME_ERROR,0,0.00%,0.000,0
+Alien_Homophones,Codestral-22B-v0.1,RUNTIME_ERROR,0,2.37%,0.100,0.00390625
+Stone_Enthusiast,Codestral-22B-v0.1,UNKNOWN,0,0.00%,0.000,0
+Egors_Gaming_Addiction,Codestral-22B-v0.1,UNKNOWN,0,0.00%,0.000,0
+Ultrafast_train,Codestral-22B-v0.1,ACCEPTED,100,100.00%,0.150,8.34765625

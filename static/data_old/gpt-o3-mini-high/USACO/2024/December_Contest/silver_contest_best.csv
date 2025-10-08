@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cake_Game,gpt-o3-mini-high,ACCEPTED,333,100.00%,0.130,6.125
+silver_Deforestation,gpt-o3-mini-high,ACCEPTED,333,100.00%,0.190,9.36328125
+silver_2D_Conveyor_Belt,gpt-o3-mini-high,WRONG_ANSWER,0,15.38%,0.220,47.66796875

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Heroes,gemini-2.5-flash,RUNTIME_ERROR,0,25.53%,0.000,0
+Pinball,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,9,18.75%,3.310,280.76171875
+AA_Tree,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,53,88.24%,0.140,2.328125

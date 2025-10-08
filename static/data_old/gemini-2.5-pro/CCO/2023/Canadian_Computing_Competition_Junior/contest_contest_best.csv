@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+j1,gemini-2.5-pro,ACCEPTED,15,100.00%,0.000,0
+j2,gemini-2.5-pro,ACCEPTED,15,100.00%,0.000,0
+j3,gemini-2.5-pro,ACCEPTED,15,100.00%,0.000,0
+s1j4,gemini-2.5-pro,ACCEPTED,15,100.00%,0.050,2.84765625
+j5,gemini-2.5-pro,ACCEPTED,15,100.00%,0.000,0

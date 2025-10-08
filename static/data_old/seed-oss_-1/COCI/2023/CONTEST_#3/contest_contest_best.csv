@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+estimathon,seed-oss_-1,ACCEPTED,50,100.00%,0.000,0
+dirigent,seed-oss_-1,ACCEPTED,70,100.00%,0.080,3.62109375
+baltazar,seed-oss_-1,RUNTIME_ERROR,30,32.81%,0.300,45.9921875
+bomboni,seed-oss_-1,ACCEPTED,110,100.00%,0.150,7.04296875
+skrivaca,seed-oss_-1,RUNTIME_ERROR,30,23.40%,0.440,53.48046875

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+chairgame,gpt-5,TIME_LIMIT_EXCEEDED,44,83.54%,1.210,1.5546875
+thinice,gpt-5,RUNTIME_ERROR,17,42.03%,0.130,2.578125
+animeshops,gpt-5,ACCEPTED,100,100.00%,0.060,11.3515625

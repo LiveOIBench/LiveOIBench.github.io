@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+7krokods,gpt-o3-mini-high,ACCEPTED,50,100.00%,0.000,0
+zrinka,gpt-o3-mini-high,ACCEPTED,70,100.00%,0.210,96.69140625
+bojanje,gpt-o3-mini-high,ACCEPTED,110,100.00%,0.000,0
+mreza,gpt-o3-mini-high,ACCEPTED,110,100.00%,1.130,35.41796875
+vrsta,gpt-o3-mini-high,ACCEPTED,110,100.00%,0.130,5.1875

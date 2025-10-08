@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Dreaming_is_not_harmful,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,3.77%,0.030,4.91015625
+Cute_Subsequences,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,10.53%,0.040,0
+The_arithmetic_exercise,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,4,13.04%,0.050,2.8984375
+Alice_Bob_and_two_arrays,Qwen3-32B-Non-Thinking,ACCEPTED,100,100.00%,0.270,11.41015625

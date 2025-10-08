@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Lazy_Cow_Llama-4-Scout_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.430,0.00390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Lazy_Cow_Llama-4-Scout_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.420,2.82421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Lazy_Cow_Llama-4-Scout_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.430,129.5546875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Lazy_Cow_Llama-4-Scout_3.cpp,RUNTIME_ERROR,0,0.00%,0.730,12.51171875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Lazy_Cow_Llama-4-Scout_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.420,174.44921875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Lazy_Cow_Llama-4-Scout_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.420,4.39453125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Lazy_Cow_Llama-4-Scout_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.410,129.6171875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Lazy_Cow_Llama-4-Scout_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,1.580,129.61328125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

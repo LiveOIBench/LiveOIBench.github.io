@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+cern,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+koreografija,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+ministarstvo,Qwen2.5-Coder-14B-Instruct,MEMORY_LIMIT_EXCEEDED,0,1.75%,0.930,1102.046875
+sirologija,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

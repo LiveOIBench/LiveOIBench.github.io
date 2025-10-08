@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+2024-open-t1_Examination_2,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,5.68%,0.330,27.01953125
+2024-open-t2_Heat_Stroke,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,20.85%,0.000,0
+2024-open-t3_Library_3,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

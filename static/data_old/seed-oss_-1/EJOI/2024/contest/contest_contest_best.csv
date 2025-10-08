@@ -1,0 +1,7 @@
+problem,model,status,score,%test passed,time,memory
+cheese,seed-oss_-1,RUNTIME_ERROR,11,33.33%,0.180,12.12109375
+oldorhei,seed-oss_-1,ACCEPTED,100,100.00%,0.210,99.78125
+manypairs,seed-oss_-1,COMPILATION_ERROR,0,0.00%,0.000,0
+cfduels,seed-oss_-1,ACCEPTED,100,100.00%,0.130,5.390625
+hora,seed-oss_-1,COMPILATION_ERROR,0,0.00%,0.000,0
+sweets,seed-oss_-1,ACCEPTED,100,100.00%,0.780,105.75390625

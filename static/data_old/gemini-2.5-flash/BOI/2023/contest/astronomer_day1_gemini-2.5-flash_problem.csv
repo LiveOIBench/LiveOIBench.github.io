@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+astronomer_gemini-2.5-flash_0.cpp,RUNTIME_ERROR,8,24.36%,0.010,0.00390625,0,8,0,0,0,0,0,0
+astronomer_gemini-2.5-flash_1.cpp,RUNTIME_ERROR,8,26.83%,0.020,0.00390625,0,8,0,0,0,0,0,0
+astronomer_gemini-2.5-flash_2.cpp,TIME_LIMIT_EXCEEDED,0,32.14%,5.510,0.00390625,0,0,0,0,0,0,0,0
+astronomer_gemini-2.5-flash_3.cpp,TIME_LIMIT_EXCEEDED,22,73.96%,5.510,0.00390625,0,0,9,0,13,0,0,0
+astronomer_gemini-2.5-flash_4.cpp,TIME_LIMIT_EXCEEDED,0,32.14%,5.510,0.00390625,0,0,0,0,0,0,0,0
+astronomer_gemini-2.5-flash_5.cpp,RUNTIME_ERROR,8,31.10%,4.200,0.00390625,0,8,0,0,0,0,0,0
+astronomer_gemini-2.5-flash_6.cpp,RUNTIME_ERROR,0,0.00%,0.060,1.61328125,0,0,0,0,0,0,0,0
+astronomer_gemini-2.5-flash_7.cpp,MEMORY_LIMIT_EXCEEDED,0,62.86%,1.110,513.70703125,0,0,0,0,0,0,0,0

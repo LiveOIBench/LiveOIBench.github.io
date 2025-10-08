@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+jobs,seed-oss_0,COMPILATION_ERROR,0,0.00%,0.000,0
+portal,seed-oss_0,RUNTIME_ERROR,1,10.53%,0.040,17.91015625
+trains,seed-oss_0,RUNTIME_ERROR,0,6.25%,0.010,1.5546875

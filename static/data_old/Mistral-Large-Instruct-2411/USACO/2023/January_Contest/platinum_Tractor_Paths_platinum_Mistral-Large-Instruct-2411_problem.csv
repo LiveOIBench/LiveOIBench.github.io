@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Tractor_Paths_Mistral-Large-Instruct-2411_0.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.300,556.62109375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_Mistral-Large-Instruct-2411_1.cpp,RUNTIME_ERROR,0,0.00%,0.460,277.96875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_Mistral-Large-Instruct-2411_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_Mistral-Large-Instruct-2411_3.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.110,3.40625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_Mistral-Large-Instruct-2411_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_Mistral-Large-Instruct-2411_5.cpp,WRONG_ANSWER,0,0.00%,0.200,28.390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_Mistral-Large-Instruct-2411_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_Mistral-Large-Instruct-2411_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,1.150,501.73046875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

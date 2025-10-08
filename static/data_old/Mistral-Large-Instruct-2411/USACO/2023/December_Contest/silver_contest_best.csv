@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bovine_Acrobatics,Mistral-Large-Instruct-2411,RUNTIME_ERROR,67,17.65%,0.220,2.84765625
+silver_Cycle_Correspondence,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,28,6.67%,2.340,8.26171875
+silver_Target_Practice,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,83,40.00%,2.230,7.59375

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+xoracle_Qwen3-14B_0.cpp,TIME_LIMIT_EXCEEDED,32,26.47%,2.270,3.4375,8,0,0,0,24,0
+xoracle_Qwen3-14B_1.cpp,RUNTIME_ERROR,67,41.18%,0.450,3.76953125,0,0,0,0,24,43
+xoracle_Qwen3-14B_2.cpp,RUNTIME_ERROR,67,41.18%,0.480,3.7578125,0,0,0,0,24,43
+xoracle_Qwen3-14B_3.cpp,ACCEPTED,100,100.00%,0.480,3.7890625,8,5,9,11,24,43
+xoracle_Qwen3-14B_4.cpp,RUNTIME_ERROR,0,0.00%,0.140,1.54296875,0,0,0,0,0,0
+xoracle_Qwen3-14B_5.cpp,ACCEPTED,100,100.00%,0.460,3.7578125,8,5,9,11,24,43
+xoracle_Qwen3-14B_6.cpp,RUNTIME_ERROR,67,41.18%,0.470,3.7734375,0,0,0,0,24,43
+xoracle_Qwen3-14B_7.cpp,RUNTIME_ERROR,67,41.18%,0.480,3.79296875,0,0,0,0,24,43

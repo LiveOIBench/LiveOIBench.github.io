@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Bessies_Function_Qwen3-30B_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.400,14.99609375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessies_Function_Qwen3-30B_1.cpp,RUNTIME_ERROR,0,0.00%,0.160,13.15234375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessies_Function_Qwen3-30B_2.cpp,TIME_LIMIT_EXCEEDED,18,4.76%,2.260,16.765625,0,17.543859649122805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessies_Function_Qwen3-30B_3.cpp,WRONG_ANSWER,0,4.76%,0.200,4.39453125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessies_Function_Qwen3-30B_4.cpp,WRONG_ANSWER,88,33.33%,0.220,5.16796875,0,17.543859649122805,0,0,0,0,0,0,17.543859649122805,0,0,17.543859649122805,0,0,17.543859649122805,0,0,17.543859649122805,0,0
+gold_Bessies_Function_Qwen3-30B_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessies_Function_Qwen3-30B_6.cpp,RUNTIME_ERROR,0,0.00%,2.170,277.46875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessies_Function_Qwen3-30B_7.cpp,WRONG_ANSWER,0,4.76%,0.190,4.39453125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+benzinska_Qwen2.5-Coder-14B-Instruct_0.cpp,RUNTIME_ERROR,0,6.00%,0.170,2.84375,0,0,0
+benzinska_Qwen2.5-Coder-14B-Instruct_1.cpp,RUNTIME_ERROR,0,6.00%,0.100,2.84765625,0,0,0
+benzinska_Qwen2.5-Coder-14B-Instruct_2.cpp,RUNTIME_ERROR,0,6.00%,0.110,8.50390625,0,0,0
+benzinska_Qwen2.5-Coder-14B-Instruct_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+benzinska_Qwen2.5-Coder-14B-Instruct_4.cpp,RUNTIME_ERROR,0,6.00%,0.110,4.390625,0,0,0
+benzinska_Qwen2.5-Coder-14B-Instruct_5.cpp,RUNTIME_ERROR,0,6.00%,0.180,2.84765625,0,0,0
+benzinska_Qwen2.5-Coder-14B-Instruct_6.cpp,ACCEPTED,70,100.00%,0.120,8.98046875,15,30,25
+benzinska_Qwen2.5-Coder-14B-Instruct_7.cpp,RUNTIME_ERROR,0,6.00%,0.120,2.84375,0,0,0

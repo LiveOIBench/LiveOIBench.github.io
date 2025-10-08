@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+autobus,deepseek-chat,RUNTIME_ERROR,0,16.33%,0.000,0
+karte,deepseek-chat,ACCEPTED,70,100.00%,0.880,0.00390625
+bojanje,deepseek-chat,RUNTIME_ERROR,0,5.80%,0.000,0
+stablo,deepseek-chat,COMPILATION_ERROR,0,0.00%,0.000,0
+procesor,deepseek-chat,UNKNOWN,0,0.00%,0.000,0

@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Dreaming_is_not_harmful,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,8.93%,0.100,0
+Cute_Subsequences,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,100,100.00%,0.220,4.50390625
+The_arithmetic_exercise,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,4,13.04%,0.110,2.07421875
+Alice_Bob_and_two_arrays,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,100,100.00%,0.440,1.55859375

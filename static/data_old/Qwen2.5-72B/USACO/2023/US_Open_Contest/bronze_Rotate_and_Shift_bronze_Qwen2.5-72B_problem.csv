@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Rotate_and_Shift_Qwen2.5-72B_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.460,3.10546875,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Rotate_and_Shift_Qwen2.5-72B_1.cpp,TIME_LIMIT_EXCEEDED,167,53.85%,4.470,2.47265625,0,27.777777777777775,0,0,0,27.777777777777775,27.777777777777775,27.777777777777775,27.777777777777775,27.777777777777775,0,0,0
+bronze_Rotate_and_Shift_Qwen2.5-72B_2.cpp,WRONG_ANSWER,0,7.69%,0.120,1.81640625,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Rotate_and_Shift_Qwen2.5-72B_3.cpp,WRONG_ANSWER,0,7.69%,0.130,2.07421875,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Rotate_and_Shift_Qwen2.5-72B_4.cpp,WRONG_ANSWER,0,7.69%,0.130,2.07421875,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Rotate_and_Shift_Qwen2.5-72B_5.cpp,WRONG_ANSWER,0,7.69%,0.120,1.81640625,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Rotate_and_Shift_Qwen2.5-72B_6.cpp,RUNTIME_ERROR,0,0.00%,0.120,3.1015625,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Rotate_and_Shift_Qwen2.5-72B_7.cpp,WRONG_ANSWER,0,0.00%,0.110,2.58203125,0,0,0,0,0,0,0,0,0,0,0,0,0

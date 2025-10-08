@@ -1,0 +1,7 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+Strong_Connectivity_Strikes_Back_gpt-oss-20b-low_0.cpp,TIME_LIMIT_EXCEEDED,41,38.79%,1.220,5.93359375,0,0,0,0,0,20.0,21.0,0
+Strong_Connectivity_Strikes_Back_gpt-oss-20b-low_1.cpp,RUNTIME_ERROR,66,57.26%,0.330,1.91015625,0,0,0,12.0,13.0,20.0,21.0,0
+Strong_Connectivity_Strikes_Back_gpt-oss-20b-low_3.cpp,RUNTIME_ERROR,66,57.26%,0.020,2.3203125,0,0,0,12.0,13.0,20.0,21.0,0
+Strong_Connectivity_Strikes_Back_gpt-oss-20b-low_4.cpp,RUNTIME_ERROR,41,37.39%,0.020,1.5546875,0,0,0,0,0,20.0,21.0,0
+Strong_Connectivity_Strikes_Back_gpt-oss-20b-low_5.cpp,ACCEPTED,100,100.00%,0.020,5.93359375,0.0,11.0,9.0,12.0,13.0,20.0,21.0,14.0
+Strong_Connectivity_Strikes_Back_gpt-oss-20b-low_7.cpp,ACCEPTED,100,100.00%,0.020,1.8125,0.0,11.0,9.0,12.0,13.0,20.0,21.0,14.0

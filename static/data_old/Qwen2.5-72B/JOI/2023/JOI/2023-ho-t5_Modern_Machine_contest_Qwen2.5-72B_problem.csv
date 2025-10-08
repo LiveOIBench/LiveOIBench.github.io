@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+2023-ho-t5_Modern_Machine_Qwen2.5-72B_0.cpp,TIME_LIMIT_EXCEEDED,3,45.36%,2.760,2.83984375,3,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_Qwen2.5-72B_1.cpp,TIME_LIMIT_EXCEEDED,3,45.36%,2.820,1.8125,3,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_Qwen2.5-72B_2.cpp,TIME_LIMIT_EXCEEDED,0,14.86%,2.760,1.8125,0,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_Qwen2.5-72B_3.cpp,TIME_LIMIT_EXCEEDED,0,14.86%,2.810,1.81640625,0,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_Qwen2.5-72B_4.cpp,TIME_LIMIT_EXCEEDED,0,14.86%,2.770,1.80859375,0,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_Qwen2.5-72B_5.cpp,TIME_LIMIT_EXCEEDED,3,45.36%,2.810,1.81640625,3,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_Qwen2.5-72B_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_Qwen2.5-72B_7.cpp,TIME_LIMIT_EXCEEDED,0,14.86%,2.790,1.81640625,0,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Colorful_Diameter_gpt-5_0.cpp,MEMORY_LIMIT_EXCEEDED,19,39.18%,1.110,305.80078125,0.0,0,0,0,0,0,11.0,8.0,0,0
+Colorful_Diameter_gpt-5_1.cpp,RUNTIME_ERROR,19,29.27%,1.340,20.51953125,0,0,0,0,0,0,11.0,8.0,0,0
+Colorful_Diameter_gpt-5_2.cpp,TIME_LIMIT_EXCEEDED,54,88.36%,8.410,9.015625,0.0,10.0,8.0,11.0,14.0,0,11.0,0,0,0
+Colorful_Diameter_gpt-5_3.cpp,TIME_LIMIT_EXCEEDED,32,74.20%,8.420,35.65625,0.0,10.0,0,0,14.0,8.0,0,0,0,0
+Colorful_Diameter_gpt-5_4.cpp,RUNTIME_ERROR,41,58.88%,0.730,19.390625,0.0,0,0,0,14.0,8.0,11.0,8.0,0,0
+Colorful_Diameter_gpt-5_5.cpp,TIME_LIMIT_EXCEEDED,62,89.62%,8.410,18.671875,0.0,10.0,8.0,11.0,14.0,0,11.0,8.0,0,0
+Colorful_Diameter_gpt-5_6.cpp,RUNTIME_ERROR,43,72.34%,2.090,34.7421875,0.0,10.0,8.0,0,14.0,0,11.0,0,0,0
+Colorful_Diameter_gpt-5_7.cpp,ACCEPTED,100,100.00%,6.620,48.23046875,0.0,10.0,8.0,11.0,14.0,8.0,11.0,8.0,19.0,11.0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+diplomacy,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+garbage,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,0,4.11%,5.520,2.84375
+xoracle,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,0.00%,0.130,1.5234375

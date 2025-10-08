@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+diplomacy,Qwen3-8B,TIME_LIMIT_EXCEEDED,0,5.38%,4.820,15.48828125
+garbage,Qwen3-8B,TIME_LIMIT_EXCEEDED,0,15.07%,5.980,3.12890625
+xoracle,Qwen3-8B,RUNTIME_ERROR,67,41.18%,0.350,4.1171875

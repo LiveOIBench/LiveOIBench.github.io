@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+chairgame,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,39,79.10%,1.110,0.00390625
+thinice,gpt-o3-mini-high,RUNTIME_ERROR,0,22.03%,0.070,4.48046875
+animeshops,gpt-o3-mini-high,ACCEPTED,100,100.00%,0.110,11.09375

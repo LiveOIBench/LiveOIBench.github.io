@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bovine_Acrobatics,Qwen3-30B,ACCEPTED,333,100.00%,0.130,7.9921875
+silver_Cycle_Correspondence,Qwen3-30B,ACCEPTED,333,100.00%,0.290,59.24609375
+silver_Target_Practice,Qwen3-30B,TIME_LIMIT_EXCEEDED,83,40.00%,2.330,14.69921875

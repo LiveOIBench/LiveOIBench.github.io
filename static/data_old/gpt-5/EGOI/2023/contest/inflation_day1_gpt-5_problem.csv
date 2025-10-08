@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+inflation_gpt-5_0.cpp,ACCEPTED,100,100.00%,0.090,23.19921875,0,14,28,19,23,16
+inflation_gpt-5_1.cpp,ACCEPTED,100,100.00%,0.160,20.8828125,0,14,28,19,23,16
+inflation_gpt-5_2.cpp,ACCEPTED,100,100.00%,0.120,17.01953125,0,14,28,19,23,16
+inflation_gpt-5_3.cpp,ACCEPTED,100,100.00%,0.140,21.3984375,0,14,28,19,23,16
+inflation_gpt-5_4.cpp,ACCEPTED,100,100.00%,0.140,19.6015625,0,14,28,19,23,16
+inflation_gpt-5_5.cpp,ACCEPTED,100,100.00%,0.150,23.4609375,0,14,28,19,23,16
+inflation_gpt-5_6.cpp,ACCEPTED,100,100.00%,0.140,16.25,0,14,28,19,23,16
+inflation_gpt-5_7.cpp,ACCEPTED,100,100.00%,0.130,15.47265625,0,14,28,19,23,16

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Majority_Opinion,gemini-2.5-flash,ACCEPTED,333,100.00%,0.050,2.453125
+bronze_Cannonball,gemini-2.5-flash,ACCEPTED,333,100.00%,0.060,34.3984375
+bronze_Balancing_Bacteria,gemini-2.5-flash,ACCEPTED,333,100.00%,0.060,4.39453125

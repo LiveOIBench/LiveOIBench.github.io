@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Alice_Bob_and_two_arrays_Qwen3-8B_0.cpp,ACCEPTED,100,100.00%,0.920,1.55859375,0.0,13.0,10.0,7.0,12.0,11.0,8.0,10.0,7.0,6.0,7.0,9.0
+Alice_Bob_and_two_arrays_Qwen3-8B_1.cpp,ACCEPTED,100,100.00%,1.650,11.3515625,0.0,13.0,10.0,7.0,12.0,11.0,8.0,10.0,7.0,6.0,7.0,9.0
+Alice_Bob_and_two_arrays_Qwen3-8B_2.cpp,ACCEPTED,100,100.00%,0.340,11.3515625,0.0,13.0,10.0,7.0,12.0,11.0,8.0,10.0,7.0,6.0,7.0,9.0
+Alice_Bob_and_two_arrays_Qwen3-8B_3.cpp,TIME_LIMIT_EXCEEDED,62,81.66%,2.990,11.60546875,0.0,13.0,0,0,0,11.0,8.0,10.0,7.0,6.0,7.0,0
+Alice_Bob_and_two_arrays_Qwen3-8B_4.cpp,RUNTIME_ERROR,0,0.00%,0.020,4.12890625,0,0,0,0,0,0,0,0,0,0,0,0
+Alice_Bob_and_two_arrays_Qwen3-8B_6.cpp,ACCEPTED,100,100.00%,1.150,11.3515625,0.0,13.0,10.0,7.0,12.0,11.0,8.0,10.0,7.0,6.0,7.0,9.0
+Alice_Bob_and_two_arrays_Qwen3-8B_7.cpp,TIME_LIMIT_EXCEEDED,52,84.64%,2.980,114.73046875,0.0,13.0,0,0,0,0,0,10.0,7.0,6.0,7.0,9.0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Circles,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0
+To_be_xor_not_to_be,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,13.95%,0.090,0
+Statues,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0

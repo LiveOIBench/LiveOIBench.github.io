@@ -1,0 +1,330 @@
+{
+  "contest_divisions": {
+    "CCO-2023-Canadian_Computing_Competition_Junior": {
+      "division": "Division 4",
+      "avg_difficulty": 5.0
+    },
+    "CCO-2024-Canadian_Computing_Competition_Junior": {
+      "division": "Division 4",
+      "avg_difficulty": 6.0
+    },
+    "CCO-2024-Canadian_Computing_Competition_Senior": {
+      "division": "Division 4",
+      "avg_difficulty": 11.4
+    },
+    "COCI-2025-CONTEST_#1": {
+      "division": "Division 4",
+      "avg_difficulty": 13.8
+    },
+    "COCI-2025-CONTEST_#5": {
+      "division": "Division 4",
+      "avg_difficulty": 14.0
+    },
+    "USACO-2023-February_Contest-combined": {
+      "division": "Division 4",
+      "avg_difficulty": 14.11111111111111
+    },
+    "COCI-2024-CONTEST_#2": {
+      "division": "Division 4",
+      "avg_difficulty": 14.2
+    },
+    "USACO-2023-January_Contest-combined": {
+      "division": "Division 4",
+      "avg_difficulty": 14.777777777777779
+    },
+    "COCI-2023-CONTEST_#2": {
+      "division": "Division 4",
+      "avg_difficulty": 14.8
+    },
+    "COCI-2025-CONTEST_#3": {
+      "division": "Division 4",
+      "avg_difficulty": 15.0
+    },
+    "USACO-2025-US_Open_Contest-combined": {
+      "division": "Division 4",
+      "avg_difficulty": 15.0
+    },
+    "COCI-2023-CONTEST_#5": {
+      "division": "Division 4",
+      "avg_difficulty": 15.2
+    },
+    "USACO-2024-February_Contest-combined": {
+      "division": "Division 4",
+      "avg_difficulty": 15.222222222222221
+    },
+    "USACO-2024-December_Contest-combined": {
+      "division": "Division 4",
+      "avg_difficulty": 15.333333333333334
+    },
+    "CCO-2023-Canadian_Computing_Competition_Senior": {
+      "division": "Division 4",
+      "avg_difficulty": 15.4
+    },
+    "COCI-2023-CONTEST_#4": {
+      "division": "Division 4",
+      "avg_difficulty": 15.4
+    },
+    "USACO-2023-December_Contest-combined": {
+      "division": "Division 4",
+      "avg_difficulty": 15.444444444444445
+    },
+    "COCI-2023-CONTEST_#1": {
+      "division": "Division 4",
+      "avg_difficulty": 15.6
+    },
+    "USACO-2025-January_Contest-combined": {
+      "division": "Division 4",
+      "avg_difficulty": 15.777777777777779
+    },
+    "COCI-2023-CONTEST_#3": {
+      "division": "Division 3",
+      "avg_difficulty": 16.0
+    },
+    "USACO-2024-January_Contest-combined": {
+      "division": "Division 3",
+      "avg_difficulty": 16.0
+    },
+    "USACO-2025-February_Contest-combined": {
+      "division": "Division 3",
+      "avg_difficulty": 16.0
+    },
+    "COCI-2025-CONTEST_#4": {
+      "division": "Division 3",
+      "avg_difficulty": 16.4
+    },
+    "COCI-2025-CONTEST_#2": {
+      "division": "Division 3",
+      "avg_difficulty": 16.4
+    },
+    "COCI-2024-CONTEST_#1": {
+      "division": "Division 3",
+      "avg_difficulty": 16.6
+    },
+    "COCI-2024-CONTEST_#3": {
+      "division": "Division 3",
+      "avg_difficulty": 17.2
+    },
+    "COCI-2024-CONTEST_#4": {
+      "division": "Division 3",
+      "avg_difficulty": 17.2
+    },
+    "USACO-2024-US_Open_Contest-combined": {
+      "division": "Division 3",
+      "avg_difficulty": 17.22222222222222
+    },
+    "EGOI-2023-contest": {
+      "division": "Division 3",
+      "avg_difficulty": 17.625
+    },
+    "USACO-2023-US_Open_Contest-combined": {
+      "division": "Division 3",
+      "avg_difficulty": 17.88888888888889
+    },
+    "JOI-2025-JOI": {
+      "division": "Division 3",
+      "avg_difficulty": 18.8
+    },
+    "EGOI-2024-contest": {
+      "division": "Division 3",
+      "avg_difficulty": 19.375
+    },
+    "IATI-2024-junior": {
+      "division": "Division 3",
+      "avg_difficulty": 19.666666666666668
+    },
+    "JOI-2023-JOI": {
+      "division": "Division 3",
+      "avg_difficulty": 19.8
+    },
+    "JOI-2024-JOI": {
+      "division": "Division 3",
+      "avg_difficulty": 20.0
+    },
+    "EJOI-2024-contest": {
+      "division": "Division 3",
+      "avg_difficulty": 20.166666666666668
+    },
+    "COCI-2024-CONTEST_#5": {
+      "division": "Division 3",
+      "avg_difficulty": 20.2
+    },
+    "CCO-2024-Canadian_Computing_Olympiad": {
+      "division": "Division 3",
+      "avg_difficulty": 20.333333333333332
+    },
+    "IOI-2024-contest": {
+      "division": "Division 2",
+      "avg_difficulty": 20.333333333333332
+    },
+    "NOINordic-2023-contest": {
+      "division": "Division 2",
+      "avg_difficulty": 20.333333333333332
+    },
+    "OOI-2024-final": {
+      "division": "Division 2",
+      "avg_difficulty": 20.5
+    },
+    "CEOI-2024-contest": {
+      "division": "Division 2",
+      "avg_difficulty": 20.666666666666668
+    },
+    "USACO-2024-US_Open_Contest-platinum": {
+      "division": "Division 2",
+      "avg_difficulty": 21.0
+    },
+    "USACO-2025-US_Open_Contest-platinum": {
+      "division": "Division 2",
+      "avg_difficulty": 21.0
+    },
+    "BOI-2024-contest": {
+      "division": "Division 2",
+      "avg_difficulty": 21.166666666666668
+    },
+    "APIO-2024-contest": {
+      "division": "Division 2",
+      "avg_difficulty": 21.333333333333332
+    },
+    "USACO-2023-January_Contest-platinum": {
+      "division": "Division 2",
+      "avg_difficulty": 21.666666666666668
+    },
+    "EJOI-2023-contest": {
+      "division": "Division 2",
+      "avg_difficulty": 21.833333333333332
+    },
+    "APIO-2023-contest": {
+      "division": "Division 2",
+      "avg_difficulty": 22.0
+    },
+    "BOI-2023-contest": {
+      "division": "Division 2",
+      "avg_difficulty": 22.0
+    },
+    "CCO-2023-Canadian_Computing_Olympiad": {
+      "division": "Division 2",
+      "avg_difficulty": 22.0
+    },
+    "JOI-2024-JOI_open": {
+      "division": "Division 2",
+      "avg_difficulty": 22.0
+    },
+    "RMI-2024-contest": {
+      "division": "Division 2",
+      "avg_difficulty": 22.0
+    },
+    "JOI-2024-JOI_spring": {
+      "division": "Division 2",
+      "avg_difficulty": 22.083333333333332
+    },
+    "NOINordic-2024-contest": {
+      "division": "Division 2",
+      "avg_difficulty": 22.333333333333332
+    },
+    "USACO-2023-February_Contest-platinum": {
+      "division": "Division 2",
+      "avg_difficulty": 22.333333333333332
+    },
+    "USACO-2025-January_Contest-platinum": {
+      "division": "Division 2",
+      "avg_difficulty": 22.333333333333332
+    },
+    "JOI-2023-JOI_spring": {
+      "division": "Division 1",
+      "avg_difficulty": 22.5
+    },
+    "USACO-2024-February_Contest-platinum": {
+      "division": "Division 1",
+      "avg_difficulty": 22.666666666666668
+    },
+    "USACO-2024-January_Contest-platinum": {
+      "division": "Division 1",
+      "avg_difficulty": 22.666666666666668
+    },
+    "USACO-2025-February_Contest-platinum": {
+      "division": "Division 1",
+      "avg_difficulty": 22.666666666666668
+    },
+    "JOI-2023-JOI_open": {
+      "division": "Division 1",
+      "avg_difficulty": 23.0
+    },
+    "NOINordic-2025-contest": {
+      "division": "Division 1",
+      "avg_difficulty": 23.0
+    },
+    "USACO-2023-December_Contest-platinum": {
+      "division": "Division 1",
+      "avg_difficulty": 23.333333333333332
+    },
+    "OOI-2024-qualification": {
+      "division": "Division 1",
+      "avg_difficulty": 23.444444444444443
+    },
+    "BOI-2025-contest": {
+      "division": "Division 1",
+      "avg_difficulty": 23.666666666666668
+    },
+    "USACO-2024-December_Contest-platinum": {
+      "division": "Division 1",
+      "avg_difficulty": 23.666666666666668
+    },
+    "CEOI-2023-contest": {
+      "division": "Division 1",
+      "avg_difficulty": 24.0
+    },
+    "COCI-2024-CROATIAN_OLYMPIAD_IN_INFORMATICS": {
+      "division": "Division 1",
+      "avg_difficulty": 24.0
+    },
+    "OOI-2023-qualification": {
+      "division": "Division 1",
+      "avg_difficulty": 24.0
+    },
+    "RMI-2023-contest": {
+      "division": "Division 1",
+      "avg_difficulty": 24.0
+    },
+    "OOI-2023-final": {
+      "division": "Division 1",
+      "avg_difficulty": 24.125
+    },
+    "IATI-2024-senior": {
+      "division": "Division 1",
+      "avg_difficulty": 24.4
+    },
+    "USACO-2023-US_Open_Contest-platinum": {
+      "division": "Division 1",
+      "avg_difficulty": 24.666666666666668
+    },
+    "IOI-2023-contest": {
+      "division": "Division 1",
+      "avg_difficulty": 25.333333333333332
+    }
+  },
+  "division_boundaries": {
+    "Division 4": {
+      "min_difficulty": 5.0,
+      "max_difficulty": 15.777777777777779,
+      "avg_difficulty": 13.76140350877193
+    },
+    "Division 3": {
+      "min_difficulty": 16.0,
+      "max_difficulty": 20.333333333333332,
+      "avg_difficulty": 18.046198830409356
+    },
+    "Division 2": {
+      "min_difficulty": 20.333333333333332,
+      "max_difficulty": 22.333333333333332,
+      "avg_difficulty": 21.5219298245614
+    },
+    "Division 1": {
+      "min_difficulty": 22.5,
+      "max_difficulty": 25.333333333333332,
+      "avg_difficulty": 23.61867283950617
+    }
+  },
+  "problem_thresholds": {
+    "easy_max": 17,
+    "medium_max": 22
+  }
+}

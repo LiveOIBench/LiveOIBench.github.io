@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Card_Flip_gpt-5_0.cpp,RUNTIME_ERROR,0,27.50%,0.110,6.97265625,0.0,0,0,0,0,0,0,0,0,0
+Card_Flip_gpt-5_1.cpp,RUNTIME_ERROR,0,14.02%,0.150,8.51953125,0.0,0,0,0,0,0,0,0,0,0
+Card_Flip_gpt-5_2.cpp,RUNTIME_ERROR,0,14.29%,0.160,6.97265625,0.0,0,0,0,0,0,0,0,0,0
+Card_Flip_gpt-5_3.cpp,RUNTIME_ERROR,0,7.14%,0.200,12.3828125,0,0,0,0,0,0,0,0,0,0
+Card_Flip_gpt-5_4.cpp,RUNTIME_ERROR,12,42.96%,0.160,6.96484375,0.0,12.0,0,0,0,0,0,0,0,0
+Card_Flip_gpt-5_5.cpp,RUNTIME_ERROR,0,5.94%,0.190,37.6484375,0,0,0,0,0,0,0,0,0,0
+Card_Flip_gpt-5_6.cpp,RUNTIME_ERROR,0,14.29%,0.170,6.97265625,0.0,0,0,0,0,0,0,0,0,0
+Card_Flip_gpt-5_7.cpp,RUNTIME_ERROR,19,43.70%,0.160,6.97265625,0.0,0,0,9.0,10.0,0,0,0,0,0

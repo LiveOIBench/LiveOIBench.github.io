@@ -1,0 +1,7 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+parentheses_gpt-oss-20b-low_0.cpp,RUNTIME_ERROR,0,3.10%,0.090,7.26953125,0,0,0,0,0,0,0
+parentheses_gpt-oss-20b-low_1.cpp,ACCEPTED,100,100.00%,0.170,17.30859375,0,5,10,10,15,15,45
+parentheses_gpt-oss-20b-low_3.cpp,RUNTIME_ERROR,0,3.10%,0.090,20.88671875,0,0,0,0,0,0,0
+parentheses_gpt-oss-20b-low_4.cpp,RUNTIME_ERROR,0,1.56%,0.090,23.24609375,0,0,0,0,0,0,0
+parentheses_gpt-oss-20b-low_6.cpp,TIME_LIMIT_EXCEEDED,0,3.10%,0.370,3.3984375,0,0,0,0,0,0,0
+parentheses_gpt-oss-20b-low_7.cpp,RUNTIME_ERROR,0,3.10%,0.080,18.60546875,0,0,0,0,0,0,0

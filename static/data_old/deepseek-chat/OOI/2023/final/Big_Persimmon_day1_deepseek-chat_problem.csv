@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Big_Persimmon_deepseek-chat_0.cpp,TIME_LIMIT_EXCEEDED,10,37.50%,2.220,62.4609375,0.0,10.0,0,0,0,0,0
+Big_Persimmon_deepseek-chat_1.cpp,RUNTIME_ERROR,12,17.74%,0.040,30.75,0,0,12.0,0,0,0,0
+Big_Persimmon_deepseek-chat_2.cpp,TIME_LIMIT_EXCEEDED,10,37.50%,2.230,306.8671875,0.0,10.0,0,0,0,0,0
+Big_Persimmon_deepseek-chat_3.cpp,RUNTIME_ERROR,22,42.11%,0.080,32.0390625,0.0,10.0,12.0,0,0,0,0
+Big_Persimmon_deepseek-chat_4.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0
+Big_Persimmon_deepseek-chat_5.cpp,RUNTIME_ERROR,0,19.35%,0.030,0.00390625,0,0,0,0,0,0,0
+Big_Persimmon_deepseek-chat_6.cpp,RUNTIME_ERROR,12,17.74%,0.050,32.0390625,0,0,12.0,0,0,0,0
+Big_Persimmon_deepseek-chat_7.cpp,RUNTIME_ERROR,0,8.47%,0.130,301.7109375,0,0,0,0,0,0,0

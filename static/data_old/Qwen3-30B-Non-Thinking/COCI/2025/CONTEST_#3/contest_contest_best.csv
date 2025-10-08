@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+autobus,Qwen3-30B-Non-Thinking,MEMORY_LIMIT_EXCEEDED,0,16.33%,0.070,0.00390625
+karte,Qwen3-30B-Non-Thinking,TIME_LIMIT_EXCEEDED,11,37.31%,1.160,0.00390625
+bojanje,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,0,5.80%,0.000,0
+stablo,Qwen3-30B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+procesor,Qwen3-30B-Non-Thinking,UNKNOWN,0,0.00%,0.000,0

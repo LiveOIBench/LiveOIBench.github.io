@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+bingo,Qwen3-30B-Non-Thinking,ACCEPTED,50,100.00%,0.000,0
+knjige,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,7,25.00%,0.070,2.84765625
+lepeze,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,0,3.85%,0.000,0
+putovanje,Qwen3-30B-Non-Thinking,TIME_LIMIT_EXCEEDED,45,46.76%,2.260,4.6484375
+roboti,Qwen3-30B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0

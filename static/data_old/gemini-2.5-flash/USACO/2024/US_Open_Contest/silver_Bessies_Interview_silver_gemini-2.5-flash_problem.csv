@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Bessies_Interview_gemini-2.5-flash_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Bessies_Interview_gemini-2.5-flash_1.cpp,TIME_LIMIT_EXCEEDED,0,4.76%,2.250,280.81640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Bessies_Interview_gemini-2.5-flash_2.cpp,WRONG_ANSWER,0,4.76%,0.100,8.3828125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Bessies_Interview_gemini-2.5-flash_3.cpp,WRONG_ANSWER,0,4.76%,0.100,7.51171875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Bessies_Interview_gemini-2.5-flash_4.cpp,WRONG_ANSWER,33,14.29%,0.120,7.91796875,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,0
+silver_Bessies_Interview_gemini-2.5-flash_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.240,5.37109375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Bessies_Interview_gemini-2.5-flash_6.cpp,WRONG_ANSWER,33,14.29%,0.180,11.87890625,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,0
+silver_Bessies_Interview_gemini-2.5-flash_7.cpp,WRONG_ANSWER,133,42.86%,0.120,7.42578125,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,16.666666666666664,16.666666666666664,16.666666666666664,16.666666666666664,16.666666666666664,16.666666666666664,0

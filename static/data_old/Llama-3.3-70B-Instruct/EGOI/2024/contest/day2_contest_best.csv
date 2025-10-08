@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+circlepassing,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,56,77.70%,2.240,4.13671875
+makethemmeet,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,7.14%,0.010,0
+lightbulbs,Llama-3.3-70B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+bikeparking,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,0,9.91%,1.150,10.58203125

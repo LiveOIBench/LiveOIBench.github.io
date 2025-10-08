@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cake_Game,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Deforestation,Mistral-Large-Instruct-2411,WRONG_ANSWER,0,9.09%,0.200,3.80078125
+silver_2D_Conveyor_Belt,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0

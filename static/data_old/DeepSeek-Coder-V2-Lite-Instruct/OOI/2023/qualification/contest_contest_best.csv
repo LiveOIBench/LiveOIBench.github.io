@@ -1,0 +1,10 @@
+problem,model,status,score,%test passed,time,memory
+Paired_roads,DeepSeek-Coder-V2-Lite-Instruct,UNKNOWN,0,0.00%,0.000,0
+Legs_warm-up_exercise,DeepSeek-Coder-V2-Lite-Instruct,UNKNOWN,0,0.00%,0.000,0
+Hard_problem,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,32,76.22%,1.130,6.2421875
+Yet_another_queries,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,0.00%,0.170,5.421875
+Lunch,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,13.33%,0.020,0
+Tournament,DeepSeek-Coder-V2-Lite-Instruct,MEMORY_LIMIT_EXCEEDED,80,97.15%,0.000,0
+You_need_to_train_more,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+Colorful_graph,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,0,14.38%,1.660,4.78515625
+Space_accident,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,0,11.03%,1.160,0.00390625

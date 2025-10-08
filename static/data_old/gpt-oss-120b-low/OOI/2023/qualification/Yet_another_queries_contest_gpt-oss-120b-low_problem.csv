@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+Yet_another_queries_gpt-oss-120b-low_0.cpp,RUNTIME_ERROR,0,0.00%,0.940,85.44921875,0,0,0,0,0,0,0,0,0
+Yet_another_queries_gpt-oss-120b-low_1.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0
+Yet_another_queries_gpt-oss-120b-low_2.cpp,ACCEPTED,100,100.00%,1.120,73.48046875,0.0,19.0,17.0,11.0,13.0,12.0,9.0,10.0,9.0
+Yet_another_queries_gpt-oss-120b-low_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.810,134.59765625,0,0,0,0,0,0,0,0,0
+Yet_another_queries_gpt-oss-120b-low_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.800,57.234375,0,0,0,0,0,0,0,0,0
+Yet_another_queries_gpt-oss-120b-low_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.800,105.484375,0,0,0,0,0,0,0,0,0
+Yet_another_queries_gpt-oss-120b-low_6.cpp,RUNTIME_ERROR,0,0.00%,1.000,105.5546875,0,0,0,0,0,0,0,0,0
+Yet_another_queries_gpt-oss-120b-low_7.cpp,RUNTIME_ERROR,0,7.69%,1.250,137.421875,0.0,0,0,0,0,0,0,0,0

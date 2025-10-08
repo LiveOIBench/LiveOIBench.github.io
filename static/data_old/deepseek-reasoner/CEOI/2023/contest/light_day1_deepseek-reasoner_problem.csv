@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0_1,subtask_1_1,subtask_2_1,subtask_3_1,subtask_4_1,subtask_5_1,subtask_6_1,subtask_7_1
+light_deepseek-reasoner_0.cpp,RUNTIME_ERROR,0,0.74%,0.220,1.53515625,0,0,0,0,0,0,0,0
+light_deepseek-reasoner_1.cpp,RUNTIME_ERROR,0,0.00%,0.340,1.53515625,0,0,0,0,0,0,0,0
+light_deepseek-reasoner_2.cpp,RUNTIME_ERROR,0,0.00%,0.180,1.53515625,0,0,0,0,0,0,0,0
+light_deepseek-reasoner_3.cpp,RUNTIME_ERROR,0,0.74%,0.020,1.5390625,0,0,0,0,0,0,0,0
+light_deepseek-reasoner_4.cpp,RUNTIME_ERROR,0,0.74%,0.020,1.5390625,0,0,0,0,0,0,0,0
+light_deepseek-reasoner_5.cpp,RUNTIME_ERROR,0,0.74%,0.020,1.48046875,0,0,0,0,0,0,0,0
+light_deepseek-reasoner_6.cpp,RUNTIME_ERROR,0,0.74%,0.020,1.48046875,0,0,0,0,0,0,0,0
+light_deepseek-reasoner_7.cpp,RUNTIME_ERROR,0,0.00%,0.160,1.52734375,0,0,0,0,0,0,0,0

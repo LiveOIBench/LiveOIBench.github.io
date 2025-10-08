@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+logaritam_gpt-o3-mini-high_0.cpp,ACCEPTED,110,100.00%,0.030,0.00390625,19,26,29,36
+logaritam_gpt-o3-mini-high_1.cpp,TIME_LIMIT_EXCEEDED,74,82.93%,1.110,107.50390625,19,26,29,0
+logaritam_gpt-o3-mini-high_2.cpp,ACCEPTED,110,100.00%,0.050,0.00390625,19,26,29,36
+logaritam_gpt-o3-mini-high_3.cpp,ACCEPTED,110,100.00%,0.050,0.00390625,19,26,29,36
+logaritam_gpt-o3-mini-high_4.cpp,ACCEPTED,110,100.00%,0.050,0.00390625,19,26,29,36
+logaritam_gpt-o3-mini-high_5.cpp,ACCEPTED,110,100.00%,0.030,0.00390625,19,26,29,36
+logaritam_gpt-o3-mini-high_6.cpp,ACCEPTED,110,100.00%,0.030,0.00390625,19,26,29,36
+logaritam_gpt-o3-mini-high_7.cpp,ACCEPTED,110,100.00%,0.030,0.00390625,19,26,29,36

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+bikeparking_gpt-o3-mini-high_0.cpp,RUNTIME_ERROR,25,54.88%,0.080,16.25,0,16,9,0,0,0
+bikeparking_gpt-o3-mini-high_1.cpp,RUNTIME_ERROR,25,61.49%,0.080,10.58203125,0,16,9,0,0,0
+bikeparking_gpt-o3-mini-high_2.cpp,TIME_LIMIT_EXCEEDED,16,50.94%,1.140,51.703125,0,16,0,0,0,0
+bikeparking_gpt-o3-mini-high_3.cpp,RUNTIME_ERROR,25,61.49%,0.060,7.23046875,0,16,9,0,0,0
+bikeparking_gpt-o3-mini-high_4.cpp,RUNTIME_ERROR,16,53.05%,0.060,5.94140625,0,16,0,0,0,0
+bikeparking_gpt-o3-mini-high_5.cpp,RUNTIME_ERROR,25,61.49%,0.060,8.00390625,0,16,9,0,0,0
+bikeparking_gpt-o3-mini-high_6.cpp,RUNTIME_ERROR,25,54.88%,0.090,19.59765625,0,16,9,0,0,0
+bikeparking_gpt-o3-mini-high_7.cpp,RUNTIME_ERROR,25,61.49%,0.110,26.5625,0,16,9,0,0,0

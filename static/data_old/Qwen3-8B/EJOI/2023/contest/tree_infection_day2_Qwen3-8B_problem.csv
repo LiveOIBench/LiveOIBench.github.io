@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+tree_infection_Qwen3-8B_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.210,46.671875,0,0,0,0,0,0,0
+tree_infection_Qwen3-8B_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.220,101.2734375,0,0,0,0,0,0,0
+tree_infection_Qwen3-8B_2.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,1.060,1880.60546875,0,0,0,0,0,0,0
+tree_infection_Qwen3-8B_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.210,94.62109375,0,0,0,0,0,0,0
+tree_infection_Qwen3-8B_4.cpp,TIME_LIMIT_EXCEEDED,0,1.85%,1.210,75.546875,0,0,0,0,0,0,0
+tree_infection_Qwen3-8B_5.cpp,RUNTIME_ERROR,0,0.00%,0.050,14.69921875,0,0,0,0,0,0,0
+tree_infection_Qwen3-8B_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+tree_infection_Qwen3-8B_7.cpp,TIME_LIMIT_EXCEEDED,0,1.85%,1.210,29.30859375,0,0,0,0,0,0,0

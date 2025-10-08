@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+sphinx_gpt-5_0.cpp,RUNTIME_ERROR,0,3.26%,0.030,3.84765625,0,0.0,0.0,0.0,0.0,0.0
+sphinx_gpt-5_1.cpp,RUNTIME_ERROR,0,3.26%,0.030,3.91015625,0,0.0,0.0,0.0,0.0,0.0
+sphinx_gpt-5_2.cpp,RUNTIME_ERROR,0,6.38%,0.030,3.875,0,0,0.0,0,0,0.0
+sphinx_gpt-5_3.cpp,RUNTIME_ERROR,0,3.26%,0.030,3.87109375,0,0.0,0.0,0.0,0.0,0.0
+sphinx_gpt-5_4.cpp,RUNTIME_ERROR,0,3.26%,0.030,3.734375,0,0.0,0.0,0.0,0.0,0.0
+sphinx_gpt-5_5.cpp,RUNTIME_ERROR,0,6.38%,0.030,3.7890625,0,0,0.0,0,0,0.0
+sphinx_gpt-5_6.cpp,RUNTIME_ERROR,3,21.65%,0.280,4.44140625,0,3,0,0,0,0
+sphinx_gpt-5_7.cpp,RUNTIME_ERROR,3,21.65%,0.260,4.4375,0,3,0.0,0,0,0.0

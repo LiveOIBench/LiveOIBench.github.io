@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+s1j4,deepseek-reasoner,ACCEPTED,15,100.00%,0.060,2.84765625
+s2,deepseek-reasoner,ACCEPTED,15,100.00%,0.030,0.00390625
+s3,deepseek-reasoner,RUNTIME_ERROR,2,13.10%,0.020,5.16796875
+s4,deepseek-reasoner,RUNTIME_ERROR,0,1.47%,0.040,32.2265625
+s5,deepseek-reasoner,TIME_LIMIT_EXCEEDED,4,54.69%,1.670,1.83984375

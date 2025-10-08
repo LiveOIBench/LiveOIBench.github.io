@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+lexgcd_gpt-5_0.cpp,RUNTIME_ERROR,38,39.26%,0.370,36.5859375,6,19,13,0,0,0,0
+lexgcd_gpt-5_1.cpp,RUNTIME_ERROR,38,39.26%,0.420,30.77734375,6,19,13,0,0,0,0
+lexgcd_gpt-5_2.cpp,RUNTIME_ERROR,38,39.26%,0.730,36.7109375,6,19,13,0,0,0,0
+lexgcd_gpt-5_3.cpp,RUNTIME_ERROR,38,39.26%,0.420,16.61328125,6,19,13,0,0,0,0
+lexgcd_gpt-5_4.cpp,RUNTIME_ERROR,0,7.38%,0.090,2.07421875,0,0,0,0,0,0,0
+lexgcd_gpt-5_5.cpp,RUNTIME_ERROR,38,39.26%,0.420,16.1796875,6,19,13,0,0,0,0
+lexgcd_gpt-5_6.cpp,RUNTIME_ERROR,38,39.26%,0.420,15.0234375,6,19,13,0,0,0,0
+lexgcd_gpt-5_7.cpp,RUNTIME_ERROR,0,7.38%,0.090,2.07421875,0,0,0,0,0,0,0

@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Dreaming_is_not_harmful,gpt-o3-mini-high,RUNTIME_ERROR,0,13.16%,0.000,0
+Cute_Subsequences,gpt-o3-mini-high,ACCEPTED,100,100.00%,0.090,7.6875
+The_arithmetic_exercise,gpt-o3-mini-high,RUNTIME_ERROR,4,13.04%,0.040,2.8984375
+Alice_Bob_and_two_arrays,gpt-o3-mini-high,ACCEPTED,100,100.00%,0.410,13.96484375

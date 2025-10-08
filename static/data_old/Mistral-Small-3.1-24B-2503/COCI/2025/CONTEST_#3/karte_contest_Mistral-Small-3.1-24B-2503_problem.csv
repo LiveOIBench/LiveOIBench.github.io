@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+karte_Mistral-Small-3.1-24B-2503_0.cpp,RUNTIME_ERROR,18,32.84%,0.380,0.00390625,18,0,0,0
+karte_Mistral-Small-3.1-24B-2503_1.cpp,TIME_LIMIT_EXCEEDED,11,37.31%,1.130,0.00390625,0,11,0,0
+karte_Mistral-Small-3.1-24B-2503_2.cpp,RUNTIME_ERROR,0,5.97%,0.000,0,0,0,0,0
+karte_Mistral-Small-3.1-24B-2503_3.cpp,TIME_LIMIT_EXCEEDED,0,11.94%,1.310,0.00390625,0,0,0,0
+karte_Mistral-Small-3.1-24B-2503_4.cpp,RUNTIME_ERROR,18,32.84%,0.550,0.00390625,18,0,0,0
+karte_Mistral-Small-3.1-24B-2503_5.cpp,TIME_LIMIT_EXCEEDED,11,37.31%,1.220,0.00390625,0,11,0,0
+karte_Mistral-Small-3.1-24B-2503_6.cpp,TIME_LIMIT_EXCEEDED,11,37.31%,1.300,0.00390625,0,11,0,0
+karte_Mistral-Small-3.1-24B-2503_7.cpp,TIME_LIMIT_EXCEEDED,11,37.31%,1.160,0.00390625,0,11,0,0

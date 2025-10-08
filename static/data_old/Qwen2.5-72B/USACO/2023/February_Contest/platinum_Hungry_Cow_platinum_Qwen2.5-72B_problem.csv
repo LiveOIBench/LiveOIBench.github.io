@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Hungry_Cow_Qwen2.5-72B_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,6.670,7.2265625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Hungry_Cow_Qwen2.5-72B_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,6.660,3.99609375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Hungry_Cow_Qwen2.5-72B_2.cpp,RUNTIME_ERROR,0,0.00%,0.160,6.1953125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Hungry_Cow_Qwen2.5-72B_3.cpp,RUNTIME_ERROR,0,0.00%,0.150,7.484375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Hungry_Cow_Qwen2.5-72B_4.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.130,2.84375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Hungry_Cow_Qwen2.5-72B_5.cpp,RUNTIME_ERROR,17,4.55%,0.310,7.484375,0,0,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,0
+platinum_Hungry_Cow_Qwen2.5-72B_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,6.660,1.5546875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Hungry_Cow_Qwen2.5-72B_7.cpp,RUNTIME_ERROR,0,0.00%,0.300,6.96875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

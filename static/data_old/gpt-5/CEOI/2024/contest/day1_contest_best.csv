@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+covid,gpt-5,RUNTIME_ERROR,10,85.19%,0.530,3.3984375
+battle,gpt-5,ACCEPTED,100,100.00%,0.170,31.34765625
+editor,gpt-5,RUNTIME_ERROR,14,43.08%,0.180,20.37109375

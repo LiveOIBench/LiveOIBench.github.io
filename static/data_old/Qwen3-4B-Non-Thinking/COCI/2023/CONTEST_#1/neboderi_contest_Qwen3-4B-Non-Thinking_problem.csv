@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+neboderi_Qwen3-4B-Non-Thinking_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.770,562.30078125,0,0,0,0,0
+neboderi_Qwen3-4B-Non-Thinking_1.cpp,TIME_LIMIT_EXCEEDED,33,38.89%,2.860,132.0078125,11,22,0,0,0
+neboderi_Qwen3-4B-Non-Thinking_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+neboderi_Qwen3-4B-Non-Thinking_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+neboderi_Qwen3-4B-Non-Thinking_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.840,132.1484375,0,0,0,0,0
+neboderi_Qwen3-4B-Non-Thinking_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.760,132.1484375,0,0,0,0,0
+neboderi_Qwen3-4B-Non-Thinking_6.cpp,TIME_LIMIT_EXCEEDED,11,18.52%,2.830,135.45703125,11,0,0,0,0
+neboderi_Qwen3-4B-Non-Thinking_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.800,125.57421875,0,0,0,0,0

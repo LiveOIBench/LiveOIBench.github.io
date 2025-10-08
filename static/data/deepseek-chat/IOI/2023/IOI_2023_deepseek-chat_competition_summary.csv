@@ -1,0 +1,8 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+soccer,RUNTIME_ERROR,0,5.93%,0.000,0,,0,0,0,0,0,0,0,0,0,0
+closing,RUNTIME_ERROR,8,6.72%,0.110,33.42578125,,0,8,0,0,0,0,0,0,0,0
+longesttrip,RUNTIME_ERROR,15,29.52%,0.330,4.046875,,0,5,10,0,0.0,0,0,0,0,0
+robot,RUNTIME_ERROR,0,0.67%,0.050,8.74609375,,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0
+overtaking,TIME_LIMIT_EXCEEDED,39,70.35%,2.770,8.5234375,,0,9,10,20,0,0,0,0,0,0
+beechtree,TIME_LIMIT_EXCEEDED,0,22.86%,1.670,17.83984375,,0,0,0,0,0,0,0,0,0,0
+TOTAL,,62,22.67%,,,0.00%,,,,,,,,,,

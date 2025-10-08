@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+estimathon,gemini-2.5-pro,ACCEPTED,50,100.00%,0.000,0
+dirigent,gemini-2.5-pro,ACCEPTED,70,100.00%,0.130,3.6171875
+baltazar,gemini-2.5-pro,ACCEPTED,110,100.00%,0.290,71.32421875
+bomboni,gemini-2.5-pro,ACCEPTED,110,100.00%,0.170,4.90234375
+skrivaca,gemini-2.5-pro,RUNTIME_ERROR,0,19.15%,0.490,30.69140625

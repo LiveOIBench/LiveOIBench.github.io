@@ -1,0 +1,7 @@
+problem,model,status,score,%test passed,time,memory
+cheese,Qwen3-4B-Non-Thinking,RUNTIME_ERROR,0,5.13%,0.680,5.16796875
+oldorhei,Qwen3-4B-Non-Thinking,TIME_LIMIT_EXCEEDED,24,53.49%,3.340,2.58984375
+manypairs,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+cfduels,Qwen3-4B-Non-Thinking,TIME_LIMIT_EXCEEDED,0,16.67%,2.270,2.6953125
+hora,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+sweets,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0

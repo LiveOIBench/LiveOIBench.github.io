@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Hungry_Cow,Llama-3.1-8B-Instruct,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.110,1.69921875
+platinum_Problem_Setting,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Watching_Cowflix,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

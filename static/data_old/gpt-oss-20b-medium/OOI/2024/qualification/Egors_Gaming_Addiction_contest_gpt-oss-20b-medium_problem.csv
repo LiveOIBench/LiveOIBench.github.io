@@ -1,0 +1,4 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+Egors_Gaming_Addiction_gpt-oss-20b-medium_0.cpp,TIME_LIMIT_EXCEEDED,27,53.72%,2.420,33.51171875,0.0,8.0,7.0,0,12.0,0,0,0,0
+Egors_Gaming_Addiction_gpt-oss-20b-medium_5.cpp,TIME_LIMIT_EXCEEDED,0,0.88%,2.410,13.67578125,0,0,0,0,0,0,0,0,0
+Egors_Gaming_Addiction_gpt-oss-20b-medium_7.cpp,TIME_LIMIT_EXCEEDED,15,65.60%,2.420,14.70703125,0.0,8.0,7.0,0,0,0,0,0,0

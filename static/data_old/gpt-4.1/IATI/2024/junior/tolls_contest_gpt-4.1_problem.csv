@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+tolls_gpt-4.1_0.cpp,ACCEPTED,100,100.00%,0.210,13.58203125,0,5,5,10,20,10,20,30
+tolls_gpt-4.1_1.cpp,RUNTIME_ERROR,0,1.83%,0.130,2.58203125,0,0,0,0,0,0,0,0
+tolls_gpt-4.1_2.cpp,ACCEPTED,100,100.00%,0.240,16.83984375,0,5,5,10,20,10,20,30
+tolls_gpt-4.1_3.cpp,ACCEPTED,100,100.00%,0.210,12.2578125,0,5,5,10,20,10,20,30
+tolls_gpt-4.1_4.cpp,ACCEPTED,100,100.00%,0.230,14.56640625,0,5,5,10,20,10,20,30
+tolls_gpt-4.1_5.cpp,ACCEPTED,100,100.00%,0.220,10.671875,0,5,5,10,20,10,20,30
+tolls_gpt-4.1_6.cpp,ACCEPTED,100,100.00%,0.230,13.953125,0,5,5,10,20,10,20,30
+tolls_gpt-4.1_7.cpp,ACCEPTED,100,100.00%,0.210,14.18359375,0,5,5,10,20,10,20,30

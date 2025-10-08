@@ -1,0 +1,5 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+diplomacy,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0
+garbage,ACCEPTED,100,100.00%,0.110,12.421875,,10,12,15,22,23,18
+xoracle,TIME_LIMIT_EXCEEDED,0,0.00%,0.020,1.48828125,,0,0,0,0,0,0
+TOTAL,,100,33.33%,,,33.33%,,,,,,

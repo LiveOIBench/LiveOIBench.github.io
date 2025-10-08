@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+an2dl_Qwen3-4B-Non-Thinking_0.cpp,TIME_LIMIT_EXCEEDED,29,83.33%,4.840,67.04296875,12,17,0,0
+an2dl_Qwen3-4B-Non-Thinking_1.cpp,TIME_LIMIT_EXCEEDED,29,83.33%,4.830,67.02734375,12,17,0,0
+an2dl_Qwen3-4B-Non-Thinking_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+an2dl_Qwen3-4B-Non-Thinking_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+an2dl_Qwen3-4B-Non-Thinking_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+an2dl_Qwen3-4B-Non-Thinking_5.cpp,TIME_LIMIT_EXCEEDED,29,83.33%,4.820,66.83203125,12,17,0,0
+an2dl_Qwen3-4B-Non-Thinking_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+an2dl_Qwen3-4B-Non-Thinking_7.cpp,TIME_LIMIT_EXCEEDED,29,83.33%,4.840,66.98828125,12,17,0,0

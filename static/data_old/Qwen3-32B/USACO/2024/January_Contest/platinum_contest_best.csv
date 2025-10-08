@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Island_Vacation,Qwen3-32B,RUNTIME_ERROR,33,13.04%,0.050,2.38671875
+platinum_Merging_Cells,Qwen3-32B,TIME_LIMIT_EXCEEDED,100,36.36%,2.220,560.546875
+platinum_Mooball_Teams_III,Qwen3-32B,RUNTIME_ERROR,0,4.17%,0.080,7.484375

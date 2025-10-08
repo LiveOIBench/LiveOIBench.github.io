@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+Repainting_the_Table_gpt-oss-120b-low_0.cpp,RUNTIME_ERROR,0,0.00%,0.040,0,0,0,0,0,0
+Repainting_the_Table_gpt-oss-120b-low_1.cpp,TIME_LIMIT_EXCEEDED,72,86.84%,1.800,40.42578125,0.0,17.0,21.0,34.0,0
+Repainting_the_Table_gpt-oss-120b-low_2.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0
+Repainting_the_Table_gpt-oss-120b-low_3.cpp,RUNTIME_ERROR,0,0.00%,0.040,0.00390625,0,0,0,0,0
+Repainting_the_Table_gpt-oss-120b-low_4.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+Repainting_the_Table_gpt-oss-120b-low_5.cpp,TIME_LIMIT_EXCEEDED,72,86.84%,1.820,32.9453125,0.0,17.0,21.0,34.0,0
+Repainting_the_Table_gpt-oss-120b-low_6.cpp,RUNTIME_ERROR,0,0.00%,0.040,0,0,0,0,0,0
+Repainting_the_Table_gpt-oss-120b-low_7.cpp,RUNTIME_ERROR,0,0.00%,1.300,231.203125,0,0,0,0,0

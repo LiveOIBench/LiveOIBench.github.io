@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+robot,gpt-5,RUNTIME_ERROR,0,1.32%,0.050,8.6953125
+overtaking,gpt-5,ACCEPTED,100,100.00%,0.370,66.08984375
+beechtree,gpt-5,RUNTIME_ERROR,9,34.44%,0.080,19.97265625

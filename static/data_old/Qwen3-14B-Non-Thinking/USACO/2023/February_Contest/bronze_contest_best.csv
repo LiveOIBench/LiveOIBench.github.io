@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Hungry_Cow,Qwen3-14B-Non-Thinking,ACCEPTED,333,100.00%,0.120,2.875
+bronze_Stamp_Grid,Qwen3-14B-Non-Thinking,WRONG_ANSWER,0,7.14%,0.110,0.00390625
+bronze_Watching_Mooloo,Qwen3-14B-Non-Thinking,RUNTIME_ERROR,33,8.33%,0.110,2.015625

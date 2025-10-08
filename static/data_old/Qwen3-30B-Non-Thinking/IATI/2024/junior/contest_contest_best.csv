@@ -1,0 +1,7 @@
+problem,model,status,score,%test passed,time,memory
+aquarelle,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,0,11.24%,0.120,6.84375
+parentheses,Qwen3-30B-Non-Thinking,TIME_LIMIT_EXCEEDED,40,91.83%,0.420,4.9453125
+tolls,Qwen3-30B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+twins,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,0,0.00%,0.000,0
+walk,Qwen3-30B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+xy,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,0,0.00%,0.130,2.07421875

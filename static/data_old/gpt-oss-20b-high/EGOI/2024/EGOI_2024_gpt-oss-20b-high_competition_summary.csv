@@ -1,0 +1,7 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+bouquet,ACCEPTED,100,100.00%,0.060,15.22265625,,0,8,16,28,18,30,0
+gardendecorations,RUNTIME_ERROR,0,0.00%,0.030,0,,0,0,0,0,0,0,0
+makethemmeet,UNKNOWN,0,0.00%,0.000,0,,0,0,0,0,0,0,0
+lightbulbs,RUNTIME_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0
+bikeparking,ACCEPTED,100,100.00%,0.070,11.61328125,,0,16,9,19,24,32,0
+TOTAL,,200,40.00%,,,40.00%,,,,,,,

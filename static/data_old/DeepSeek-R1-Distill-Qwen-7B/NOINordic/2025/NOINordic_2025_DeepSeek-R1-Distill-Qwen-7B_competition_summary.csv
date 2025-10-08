@@ -1,0 +1,5 @@
+problem,status,score,%test passed,time,memory,pass_rate
+diplomacy,COMPILATION_ERROR,0,0.00%,0.000,0,
+garbage,COMPILATION_ERROR,0,0.00%,0.000,0,
+xoracle,COMPILATION_ERROR,0,0.00%,0.000,0,
+TOTAL,,0,0.00%,,,0.00%

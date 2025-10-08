@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+bikesvscars,gpt-oss-120b-low,RUNTIME_ERROR,0,0.00%,0.020,0.00390625
+ppp,gpt-oss-120b-low,RUNTIME_ERROR,0,2.86%,0.060,12.38671875
+findthebox,gpt-oss-120b-low,RUNTIME_ERROR,0,0.00%,0.030,0
+inflation,gpt-oss-120b-low,ACCEPTED,100,100.00%,0.100,16.25

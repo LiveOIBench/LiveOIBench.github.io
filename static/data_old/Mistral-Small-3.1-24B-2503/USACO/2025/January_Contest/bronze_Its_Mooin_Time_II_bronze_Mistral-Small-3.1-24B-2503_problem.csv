@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Its_Mooin_Time_II_Mistral-Small-3.1-24B-2503_0.cpp,WRONG_ANSWER,0,0.00%,0.400,26.6953125,0,0,0,0,0,0,0,0,0,0,0
+bronze_Its_Mooin_Time_II_Mistral-Small-3.1-24B-2503_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Its_Mooin_Time_II_Mistral-Small-3.1-24B-2503_2.cpp,TIME_LIMIT_EXCEEDED,100,36.36%,2.240,13.82421875,0,33.33333333333333,0,33.33333333333333,33.33333333333333,0,0,0,0,0,0
+bronze_Its_Mooin_Time_II_Mistral-Small-3.1-24B-2503_3.cpp,WRONG_ANSWER,0,0.00%,0.430,14.94921875,0,0,0,0,0,0,0,0,0,0,0
+bronze_Its_Mooin_Time_II_Mistral-Small-3.1-24B-2503_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Its_Mooin_Time_II_Mistral-Small-3.1-24B-2503_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Its_Mooin_Time_II_Mistral-Small-3.1-24B-2503_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Its_Mooin_Time_II_Mistral-Small-3.1-24B-2503_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.280,13.171875,0,0,0,0,0,0,0,0,0,0,0

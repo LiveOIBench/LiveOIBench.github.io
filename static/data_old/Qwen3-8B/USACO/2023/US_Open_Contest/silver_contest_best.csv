@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Milk_Sum,Qwen3-8B,TIME_LIMIT_EXCEEDED,33,18.18%,4.830,9.4375
+silver_Field_Day,Qwen3-8B,WRONG_ANSWER,246,75.00%,0.110,11.65625
+silver_Pareidolia,Qwen3-8B,WRONG_ANSWER,0,16.67%,0.030,1.5546875

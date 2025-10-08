@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+Strong_Connectivity_Strikes_Back_deepseek-chat_0.cpp,RUNTIME_ERROR,86,86.14%,0.040,2.0625,0.0,11.0,9.0,12.0,13.0,20.0,21.0,0
+Strong_Connectivity_Strikes_Back_deepseek-chat_1.cpp,RUNTIME_ERROR,86,86.14%,0.040,1.91796875,0.0,11.0,9.0,12.0,13.0,20.0,21.0,0
+Strong_Connectivity_Strikes_Back_deepseek-chat_2.cpp,RUNTIME_ERROR,25,33.88%,0.040,1.91796875,0.0,0,0,12.0,13.0,0,0,0
+Strong_Connectivity_Strikes_Back_deepseek-chat_3.cpp,ACCEPTED,100,100.00%,0.040,1.91796875,0.0,11.0,9.0,12.0,13.0,20.0,21.0,14.0
+Strong_Connectivity_Strikes_Back_deepseek-chat_4.cpp,ACCEPTED,100,100.00%,0.040,2.1796875,0.0,11.0,9.0,12.0,13.0,20.0,21.0,14.0
+Strong_Connectivity_Strikes_Back_deepseek-chat_5.cpp,ACCEPTED,100,100.00%,0.040,2.32421875,0.0,11.0,9.0,12.0,13.0,20.0,21.0,14.0
+Strong_Connectivity_Strikes_Back_deepseek-chat_6.cpp,RUNTIME_ERROR,66,57.26%,0.040,1.921875,0,0,0,12.0,13.0,20.0,21.0,0
+Strong_Connectivity_Strikes_Back_deepseek-chat_7.cpp,RUNTIME_ERROR,86,86.14%,0.040,2.1796875,0.0,11.0,9.0,12.0,13.0,20.0,21.0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Roundabout_Rounding,gpt-4.1,WRONG_ANSWER,83,23.08%,0.160,2.07421875
+bronze_Farmer_Johns_Cheese_Block,gpt-4.1,ACCEPTED,333,100.00%,0.230,124.61328125
+bronze_Its_Mooin_Time,gpt-4.1,ACCEPTED,333,100.00%,0.220,0.00390625

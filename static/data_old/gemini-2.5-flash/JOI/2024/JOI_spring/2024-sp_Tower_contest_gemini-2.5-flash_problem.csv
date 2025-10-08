@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4
+2024-sp_Tower_gemini-2.5-flash_0.cpp,RUNTIME_ERROR,0,0.00%,0.260,37.92578125,0,0,0,0
+2024-sp_Tower_gemini-2.5-flash_1.cpp,RUNTIME_ERROR,0,0.00%,0.370,33.171875,0,0,0,0
+2024-sp_Tower_gemini-2.5-flash_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.230,595.24609375,0,0,0,0
+2024-sp_Tower_gemini-2.5-flash_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.220,1090.03125,0,0,0,0
+2024-sp_Tower_gemini-2.5-flash_4.cpp,RUNTIME_ERROR,0,0.00%,0.170,19.984375,0,0,0,0
+2024-sp_Tower_gemini-2.5-flash_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+2024-sp_Tower_gemini-2.5-flash_6.cpp,RUNTIME_ERROR,0,0.00%,0.310,75.28125,0,0,0,0
+2024-sp_Tower_gemini-2.5-flash_7.cpp,RUNTIME_ERROR,0,0.00%,0.260,23.71875,0,0,0,0

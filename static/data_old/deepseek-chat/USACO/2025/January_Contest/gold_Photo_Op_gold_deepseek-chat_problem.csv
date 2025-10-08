@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Photo_Op_deepseek-chat_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,25.98828125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Photo_Op_deepseek-chat_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.260,12.640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Photo_Op_deepseek-chat_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.240,10.55859375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Photo_Op_deepseek-chat_3.cpp,RUNTIME_ERROR,0,0.00%,0.240,34.296875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Photo_Op_deepseek-chat_4.cpp,RUNTIME_ERROR,0,0.00%,0.160,18.3125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Photo_Op_deepseek-chat_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.220,7.4296875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Photo_Op_deepseek-chat_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,12.05078125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Photo_Op_deepseek-chat_7.cpp,RUNTIME_ERROR,0,0.00%,0.110,10.58203125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

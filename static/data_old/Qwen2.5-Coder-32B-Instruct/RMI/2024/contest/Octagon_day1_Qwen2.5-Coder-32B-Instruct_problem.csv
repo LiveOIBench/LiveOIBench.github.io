@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+Octagon_Qwen2.5-Coder-32B-Instruct_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+Octagon_Qwen2.5-Coder-32B-Instruct_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+Octagon_Qwen2.5-Coder-32B-Instruct_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+Octagon_Qwen2.5-Coder-32B-Instruct_3.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.170,280.51171875,0,0,0,0,0,0
+Octagon_Qwen2.5-Coder-32B-Instruct_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+Octagon_Qwen2.5-Coder-32B-Instruct_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.230,266.07421875,0,0,0,0,0,0
+Octagon_Qwen2.5-Coder-32B-Instruct_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+Octagon_Qwen2.5-Coder-32B-Instruct_7.cpp,RUNTIME_ERROR,0,0.00%,0.120,0,0,0,0,0,0,0

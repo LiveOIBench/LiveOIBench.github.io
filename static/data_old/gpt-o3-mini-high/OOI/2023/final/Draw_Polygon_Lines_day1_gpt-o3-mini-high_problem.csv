@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_21,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Draw_Polygon_Lines_gpt-o3-mini-high_0.cpp,TIME_LIMIT_EXCEEDED,53,82.19%,2.210,3.10546875,0,0,4.0,3.0,3.0,3.0,3.0,2.0,6.0,3.0,3.0,3.0,0,3.0,2.0,0,0,0,0,7.0,4.0,4.0
+Draw_Polygon_Lines_gpt-o3-mini-high_1.cpp,RUNTIME_ERROR,53,82.19%,0.280,2.58984375,0,0,4.0,3.0,3.0,3.0,3.0,2.0,6.0,3.0,3.0,3.0,0,3.0,2.0,0,0,0,0,7.0,4.0,4.0
+Draw_Polygon_Lines_gpt-o3-mini-high_2.cpp,RUNTIME_ERROR,53,82.19%,0.280,3.6171875,0,0,4.0,3.0,3.0,3.0,3.0,2.0,6.0,3.0,3.0,3.0,0,3.0,2.0,0,0,0,0,7.0,4.0,4.0
+Draw_Polygon_Lines_gpt-o3-mini-high_3.cpp,RUNTIME_ERROR,53,82.19%,0.280,2.58984375,0,0,4.0,3.0,3.0,3.0,3.0,2.0,6.0,3.0,3.0,3.0,0,3.0,2.0,0,0,0,0,7.0,4.0,4.0
+Draw_Polygon_Lines_gpt-o3-mini-high_4.cpp,RUNTIME_ERROR,53,82.19%,0.290,2.58984375,0,0,4.0,3.0,3.0,3.0,3.0,2.0,6.0,3.0,3.0,3.0,0,3.0,2.0,0,0,0,0,7.0,4.0,4.0
+Draw_Polygon_Lines_gpt-o3-mini-high_5.cpp,RUNTIME_ERROR,53,82.19%,0.270,2.84765625,0,0,4.0,3.0,3.0,3.0,3.0,2.0,6.0,3.0,3.0,3.0,0,3.0,2.0,0,0,0,0,7.0,4.0,4.0
+Draw_Polygon_Lines_gpt-o3-mini-high_6.cpp,RUNTIME_ERROR,53,82.19%,0.300,2.33203125,0,0,4.0,3.0,3.0,3.0,3.0,2.0,6.0,3.0,3.0,3.0,0,3.0,2.0,0,0,0,0,7.0,4.0,4.0
+Draw_Polygon_Lines_gpt-o3-mini-high_7.cpp,RUNTIME_ERROR,53,82.19%,0.280,2.84765625,0,0,4.0,3.0,3.0,3.0,3.0,2.0,6.0,3.0,3.0,3.0,0,3.0,2.0,0,0,0,0,7.0,4.0,4.0

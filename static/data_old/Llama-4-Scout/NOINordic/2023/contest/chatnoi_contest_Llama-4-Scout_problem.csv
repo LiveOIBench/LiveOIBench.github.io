@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+chatnoi_Llama-4-Scout_0.cpp,ACCEPTED,100,100.00%,1.150,302.109375,5,7,17,18,24,16,13
+chatnoi_Llama-4-Scout_1.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0
+chatnoi_Llama-4-Scout_2.cpp,RUNTIME_ERROR,0,0.00%,0.030,43.2578125,0,0,0,0,0,0,0
+chatnoi_Llama-4-Scout_3.cpp,ACCEPTED,100,100.00%,1.160,302.109375,5,7,17,18,24,16,13
+chatnoi_Llama-4-Scout_4.cpp,RUNTIME_ERROR,0,0.00%,0.030,16.5546875,0,0,0,0,0,0,0
+chatnoi_Llama-4-Scout_5.cpp,RUNTIME_ERROR,0,43.06%,0.030,16.75390625,0,0,0,0,0,0,0
+chatnoi_Llama-4-Scout_6.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0
+chatnoi_Llama-4-Scout_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.030,1.703125,0,0,0,0,0,0,0

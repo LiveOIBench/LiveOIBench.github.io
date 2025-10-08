@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+2024-sp_Table_Tennis_Qwen3-32B-Non-Thinking_0.cpp,RUNTIME_ERROR,0,10.26%,0.080,0.00390625,0,0,0,0,0,0
+2024-sp_Table_Tennis_Qwen3-32B-Non-Thinking_1.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0
+2024-sp_Table_Tennis_Qwen3-32B-Non-Thinking_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.140,0.00390625,0,0,0,0,0,0
+2024-sp_Table_Tennis_Qwen3-32B-Non-Thinking_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.110,0.00390625,0,0,0,0,0,0
+2024-sp_Table_Tennis_Qwen3-32B-Non-Thinking_4.cpp,TIME_LIMIT_EXCEEDED,0,0.46%,1.190,102.2890625,0,0,0,0,0,0
+2024-sp_Table_Tennis_Qwen3-32B-Non-Thinking_5.cpp,RUNTIME_ERROR,0,0.00%,0.060,0.00390625,0,0,0,0,0,0
+2024-sp_Table_Tennis_Qwen3-32B-Non-Thinking_6.cpp,RUNTIME_ERROR,0,0.92%,0.100,57.546875,0,0,0,0,0,0
+2024-sp_Table_Tennis_Qwen3-32B-Non-Thinking_7.cpp,TIME_LIMIT_EXCEEDED,0,0.46%,1.120,13.41796875,0,0,0,0,0,0

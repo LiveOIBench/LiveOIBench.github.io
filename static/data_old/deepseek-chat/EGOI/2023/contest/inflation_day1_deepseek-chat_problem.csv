@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+inflation_deepseek-chat_0.cpp,ACCEPTED,100,100.00%,0.150,17.31640625,0,14,28,19,23,16
+inflation_deepseek-chat_1.cpp,RUNTIME_ERROR,84,82.56%,0.180,16.2265625,0,14,28,19,23,0
+inflation_deepseek-chat_2.cpp,ACCEPTED,100,100.00%,0.280,17.27734375,0,14,28,19,23,16
+inflation_deepseek-chat_3.cpp,ACCEPTED,100,100.00%,0.180,15.0234375,0,14,28,19,23,16
+inflation_deepseek-chat_4.cpp,ACCEPTED,100,100.00%,0.150,15.0234375,0,14,28,19,23,16
+inflation_deepseek-chat_5.cpp,ACCEPTED,100,100.00%,0.160,17.3125,0,14,28,19,23,16
+inflation_deepseek-chat_6.cpp,ACCEPTED,100,100.00%,0.150,15.02734375,0,14,28,19,23,16
+inflation_deepseek-chat_7.cpp,ACCEPTED,100,100.00%,0.170,17.31640625,0,14,28,19,23,16

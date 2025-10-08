@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+osobna,QwQ-32B,ACCEPTED,50,100.00%,0.000,0
+skokovi,QwQ-32B,ACCEPTED,70,100.00%,0.140,12.125
+hijerarhija,QwQ-32B,ACCEPTED,90,100.00%,0.350,20.16015625
+uciteljica,QwQ-32B,RUNTIME_ERROR,0,3.28%,0.000,0
+zbunjenost,QwQ-32B,RUNTIME_ERROR,15,33.87%,0.000,0

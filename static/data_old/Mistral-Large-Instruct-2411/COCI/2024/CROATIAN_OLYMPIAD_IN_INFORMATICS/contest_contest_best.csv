@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+cern,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,0,0.00%,4.410,22.41796875
+koreografija,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0
+ministarstvo,Mistral-Large-Instruct-2411,RUNTIME_ERROR,0,1.75%,0.140,9.03125
+sirologija,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0

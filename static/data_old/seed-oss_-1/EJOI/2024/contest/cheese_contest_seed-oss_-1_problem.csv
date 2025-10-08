@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+cheese_seed-oss_0.cpp,RUNTIME_ERROR,8,28.21%,0.170,7.03125,0,0,8,0,0,0,0
+cheese_seed-oss_1.cpp,RUNTIME_ERROR,8,30.77%,0.140,7.02734375,0,0,8,0,0,0,0
+cheese_seed-oss_2.cpp,RUNTIME_ERROR,8,20.51%,0.200,6.97265625,0,0,8,0,0,0,0
+cheese_seed-oss_3.cpp,RUNTIME_ERROR,8,30.77%,0.190,6.97265625,0,0,8,0,0,0,0
+cheese_seed-oss_4.cpp,RUNTIME_ERROR,11,33.33%,0.180,12.12109375,0,0,0,11,0,0,0
+cheese_seed-oss_5.cpp,RUNTIME_ERROR,0,5.13%,0.150,6.97265625,0,0,0,0,0,0,0
+cheese_seed-oss_6.cpp,RUNTIME_ERROR,0,10.26%,0.140,9.03125,0,0,0,0,0,0,0
+cheese_seed-oss_7.cpp,RUNTIME_ERROR,8,30.77%,0.160,7.03125,0,0,8,0,0,0,0

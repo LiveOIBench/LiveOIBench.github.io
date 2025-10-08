@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Reflection,Qwen2.5-Coder-14B-Instruct,TIME_LIMIT_EXCEEDED,0,6.25%,2.450,5.1640625
+bronze_Making_Mexes,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Printing_Sequences,Qwen2.5-Coder-14B-Instruct,WRONG_ANSWER,30,15.38%,0.100,0.00390625

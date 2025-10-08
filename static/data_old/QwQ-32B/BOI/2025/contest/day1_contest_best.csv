@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+boi,QwQ-32B,RUNTIME_ERROR,0,16.67%,0.140,14.703125
+tou,QwQ-32B,RUNTIME_ERROR,0,5.17%,0.660,100.609375
+tow,QwQ-32B,RUNTIME_ERROR,0,16.67%,0.040,1.53515625

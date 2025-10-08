@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+fire,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+tiles,Codestral-22B-v0.1,TIME_LIMIT_EXCEEDED,0,1.33%,1.110,2.84765625
+wall,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0

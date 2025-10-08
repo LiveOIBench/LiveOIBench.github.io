@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+j1,Qwen2.5-Coder-14B-Instruct,ACCEPTED,15,100.00%,0.000,0
+j2,Qwen2.5-Coder-14B-Instruct,ACCEPTED,15,100.00%,0.000,0
+j3,Qwen2.5-Coder-14B-Instruct,ACCEPTED,15,100.00%,0.000,0
+s1j4,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,6,50.00%,0.040,0
+j5,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,6,72.22%,0.000,0

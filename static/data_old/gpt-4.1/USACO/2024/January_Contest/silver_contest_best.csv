@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cowmpetency,gpt-4.1,WRONG_ANSWER,0,8.33%,0.280,13.33984375
+silver_Potion_Farming,gpt-4.1,WRONG_ANSWER,167,53.33%,0.150,23.08203125
+silver_Cowlendar,gpt-4.1,TIME_LIMIT_EXCEEDED,167,57.14%,2.210,5.79296875

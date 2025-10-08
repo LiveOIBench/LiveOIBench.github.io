@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+cern,Qwen3-8B,TIME_LIMIT_EXCEEDED,0,3.57%,4.420,12.8984375
+koreografija,Qwen3-8B,COMPILATION_ERROR,0,0.00%,0.000,0
+ministarstvo,Qwen3-8B,RUNTIME_ERROR,0,1.75%,0.150,9.02734375
+sirologija,Qwen3-8B,RUNTIME_ERROR,0,0.00%,0.130,9.8046875

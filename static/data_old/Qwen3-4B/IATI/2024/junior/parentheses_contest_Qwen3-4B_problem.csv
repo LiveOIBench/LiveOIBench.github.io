@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+parentheses_Qwen3-4B_0.cpp,RUNTIME_ERROR,0,3.88%,0.020,4.9453125,0,0,0,0,0,0,0
+parentheses_Qwen3-4B_1.cpp,RUNTIME_ERROR,0,3.88%,0.020,3.36328125,0,0,0,0,0,0,0
+parentheses_Qwen3-4B_2.cpp,RUNTIME_ERROR,0,3.88%,0.200,3.265625,0,0,0,0,0,0,0
+parentheses_Qwen3-4B_3.cpp,RUNTIME_ERROR,0,3.88%,0.020,4.9453125,0,0,0,0,0,0,0
+parentheses_Qwen3-4B_4.cpp,TIME_LIMIT_EXCEEDED,0,2.34%,0.370,1.82421875,0,0,0,0,0,0,0
+parentheses_Qwen3-4B_5.cpp,RUNTIME_ERROR,0,3.88%,0.020,4.90625,0,0,0,0,0,0,0
+parentheses_Qwen3-4B_6.cpp,RUNTIME_ERROR,0,3.88%,0.230,4.9453125,0,0,0,0,0,0,0
+parentheses_Qwen3-4B_7.cpp,TIME_LIMIT_EXCEEDED,0,3.10%,0.360,1.984375,0,0,0,0,0,0,0

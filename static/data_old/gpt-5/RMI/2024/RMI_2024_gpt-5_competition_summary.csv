@@ -1,0 +1,8 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Choose_Interval,ACCEPTED,100,100.00%,1.220,13.88671875,,0,7,24,21,34,14,0
+Skittlez,ACCEPTED,100,100.00%,0.530,84.93359375,,0,7,21,44,28,0,0
+Octagon,TIME_LIMIT_EXCEEDED,55,86.59%,2.410,6.45703125,,0,9,17,29,0,0,0
+Jump_Civilization,TIME_LIMIT_EXCEEDED,6,36.07%,1.200,4.90625,,0,6,0,0,0,0,0
+Ramen,TIME_LIMIT_EXCEEDED,0,0.00%,0.020,1.5390625,,0,0,0,0,0,0,0
+Signals,ACCEPTED,100,100.00%,0.170,22.37890625,,0,5,2,8,32,24,29
+TOTAL,,361,70.44%,,,50.00%,,,,,,,

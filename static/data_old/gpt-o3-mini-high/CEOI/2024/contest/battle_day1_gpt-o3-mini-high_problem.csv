@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+battle_gpt-o3-mini-high_0.cpp,RUNTIME_ERROR,36,55.97%,0.930,235.171875,0,6,0,0,0,0,30,0
+battle_gpt-o3-mini-high_1.cpp,ACCEPTED,100,100.00%,1.170,117.703125,0,6,12,8,11,9,30,24
+battle_gpt-o3-mini-high_2.cpp,RUNTIME_ERROR,6,52.99%,0.180,81.0625,0,6,0,0,0,0,0,0
+battle_gpt-o3-mini-high_3.cpp,RUNTIME_ERROR,6,41.27%,0.120,53.8125,0,6,0,0,0,0,0,0
+battle_gpt-o3-mini-high_4.cpp,RUNTIME_ERROR,36,61.64%,0.440,86.42578125,0,6,0,0,0,0,30,0
+battle_gpt-o3-mini-high_5.cpp,RUNTIME_ERROR,6,41.27%,0.120,35.26953125,0,6,0,0,0,0,0,0
+battle_gpt-o3-mini-high_6.cpp,RUNTIME_ERROR,30,32.67%,0.310,80.6875,0,0,0,0,0,0,30,0
+battle_gpt-o3-mini-high_7.cpp,RUNTIME_ERROR,6,41.27%,0.330,27.8046875,0,6,0,0,0,0,0,0

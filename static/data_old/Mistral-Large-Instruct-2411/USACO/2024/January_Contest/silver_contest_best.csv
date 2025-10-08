@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cowmpetency,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Potion_Farming,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Cowlendar,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,28,21.43%,2.230,0.00390625

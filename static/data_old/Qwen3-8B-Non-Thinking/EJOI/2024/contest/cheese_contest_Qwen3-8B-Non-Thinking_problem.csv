@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+cheese_Qwen3-8B-Non-Thinking_0.cpp,RUNTIME_ERROR,0,5.13%,0.710,6.96875,0,0,0,0,0,0,0
+cheese_Qwen3-8B-Non-Thinking_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+cheese_Qwen3-8B-Non-Thinking_2.cpp,RUNTIME_ERROR,0,0.00%,0.640,5.1640625,0,0,0,0,0,0,0
+cheese_Qwen3-8B-Non-Thinking_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+cheese_Qwen3-8B-Non-Thinking_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+cheese_Qwen3-8B-Non-Thinking_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.350,5.16015625,0,0,0,0,0,0,0
+cheese_Qwen3-8B-Non-Thinking_6.cpp,RUNTIME_ERROR,0,0.00%,0.680,9.02734375,0,0,0,0,0,0,0
+cheese_Qwen3-8B-Non-Thinking_7.cpp,RUNTIME_ERROR,0,0.00%,1.120,80.1015625,0,0,0,0,0,0,0

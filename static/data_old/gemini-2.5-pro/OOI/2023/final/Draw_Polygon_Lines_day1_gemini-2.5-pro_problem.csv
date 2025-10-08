@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_21,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Draw_Polygon_Lines_gemini-2.5-pro_0.cpp,TIME_LIMIT_EXCEEDED,36,55.60%,2.220,5.421875,0,0,4.0,3.0,3.0,3.0,3.0,2.0,0,3.0,0,0,0,0,0,0,0,0,0,7.0,4.0,4.0
+Draw_Polygon_Lines_gemini-2.5-pro_1.cpp,TIME_LIMIT_EXCEEDED,18,14.74%,2.310,6.1875,0,0,4.0,3.0,0,0,0,0,0,3.0,0,0,0,0,0,0,0,0,0,0,4.0,4.0
+Draw_Polygon_Lines_gemini-2.5-pro_2.cpp,TIME_LIMIT_EXCEEDED,36,55.60%,2.210,562.03515625,0,0,4.0,3.0,3.0,3.0,3.0,2.0,0,3.0,0,0,0,0,0,0,0,0,0,7.0,4.0,4.0
+Draw_Polygon_Lines_gemini-2.5-pro_3.cpp,TIME_LIMIT_EXCEEDED,0,0.53%,2.280,8.265625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Draw_Polygon_Lines_gemini-2.5-pro_4.cpp,TIME_LIMIT_EXCEEDED,18,14.74%,2.300,12.1171875,0,0,4.0,3.0,0,0,0,0,0,3.0,0,0,0,0,0,0,0,0,0,0,4.0,4.0
+Draw_Polygon_Lines_gemini-2.5-pro_5.cpp,MEMORY_LIMIT_EXCEEDED,36,55.60%,1.080,562.3046875,0,0,4.0,3.0,3.0,3.0,3.0,2.0,0,3.0,0,0,0,0,0,0,0,0,0,7.0,4.0,4.0
+Draw_Polygon_Lines_gemini-2.5-pro_6.cpp,TIME_LIMIT_EXCEEDED,25,21.32%,2.390,9.23828125,0,0,4.0,3.0,0,0,0,0,0,3.0,0,0,0,0,0,0,0,0,0,7.0,4.0,4.0
+Draw_Polygon_Lines_gemini-2.5-pro_7.cpp,TIME_LIMIT_EXCEEDED,36,55.60%,2.250,7.65234375,0,0,4.0,3.0,3.0,3.0,3.0,2.0,0,3.0,0,0,0,0,0,0,0,0,0,7.0,4.0,4.0

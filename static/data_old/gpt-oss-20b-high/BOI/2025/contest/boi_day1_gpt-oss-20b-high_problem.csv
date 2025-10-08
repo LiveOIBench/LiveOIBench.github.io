@@ -1,0 +1,4 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+boi_gpt-oss-20b-high_0.cpp,RUNTIME_ERROR,0,11.90%,0.000,1.5546875,0,0,0,0,0,0,0
+boi_gpt-oss-20b-high_2.cpp,TIME_LIMIT_EXCEEDED,0,8.33%,1.220,1.87890625,0,0,0,0,0,0,0
+boi_gpt-oss-20b-high_7.cpp,RUNTIME_ERROR,0,11.90%,0.010,1.5546875,0,0,0,0,0,0,0

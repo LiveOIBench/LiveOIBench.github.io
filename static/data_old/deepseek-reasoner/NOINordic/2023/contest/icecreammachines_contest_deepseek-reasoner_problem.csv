@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+icecreammachines_deepseek-reasoner_0.cpp,ACCEPTED,100,100.00%,0.100,24.9140625,7,12,22,11,14,13,21
+icecreammachines_deepseek-reasoner_1.cpp,ACCEPTED,100,100.00%,0.100,15.78515625,7,12,22,11,14,13,21
+icecreammachines_deepseek-reasoner_2.cpp,ACCEPTED,100,100.00%,0.130,24.1484375,7,12,22,11,14,13,21
+icecreammachines_deepseek-reasoner_3.cpp,ACCEPTED,100,100.00%,0.070,9.7421875,7,12,22,11,14,13,21
+icecreammachines_deepseek-reasoner_4.cpp,RUNTIME_ERROR,7,46.23%,0.040,0.00390625,7,0,0,0,0,0,0
+icecreammachines_deepseek-reasoner_5.cpp,ACCEPTED,100,100.00%,0.150,38.20703125,7,12,22,11,14,13,21
+icecreammachines_deepseek-reasoner_6.cpp,ACCEPTED,100,100.00%,0.080,15.78125,7,12,22,11,14,13,21
+icecreammachines_deepseek-reasoner_7.cpp,ACCEPTED,100,100.00%,0.120,19.6484375,7,12,22,11,14,13,21

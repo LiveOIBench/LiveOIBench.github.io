@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+s1_Codestral-22B-v0.1_0.cpp,RUNTIME_ERROR,1,18.00%,0.590,33.390625,0,1,0,0,0
+s1_Codestral-22B-v0.1_1.cpp,ACCEPTED,15,100.00%,0.320,5.16796875,2,1,2,5,5
+s1_Codestral-22B-v0.1_2.cpp,ACCEPTED,15,100.00%,0.310,5.16796875,2,1,2,5,5
+s1_Codestral-22B-v0.1_3.cpp,RUNTIME_ERROR,10,66.00%,0.390,9.15625,2,1,2,5,0
+s1_Codestral-22B-v0.1_4.cpp,RUNTIME_ERROR,0,4.00%,0.430,9.15234375,0,0,0,0,0
+s1_Codestral-22B-v0.1_5.cpp,RUNTIME_ERROR,0,2.00%,0.350,12.90234375,0,0,0,0,0
+s1_Codestral-22B-v0.1_6.cpp,ACCEPTED,15,100.00%,0.530,37.203125,2,1,2,5,5
+s1_Codestral-22B-v0.1_7.cpp,ACCEPTED,15,100.00%,0.320,5.16796875,2,1,2,5,5

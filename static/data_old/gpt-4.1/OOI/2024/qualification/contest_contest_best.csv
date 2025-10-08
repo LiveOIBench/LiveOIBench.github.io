@@ -1,0 +1,10 @@
+problem,model,status,score,%test passed,time,memory
+Colorful_Diameter,gpt-4.1,TIME_LIMIT_EXCEEDED,29,73.48%,7.740,21.40234375
+Road_Lighting,gpt-4.1,TIME_LIMIT_EXCEEDED,24,63.16%,2.210,25.8515625
+Repainting_the_Table,gpt-4.1,RUNTIME_ERROR,0,12.75%,0.100,0
+Distinctive_Features,gpt-4.1,TIME_LIMIT_EXCEEDED,30,55.64%,3.330,35.83984375
+Classic_Tree_Problem,gpt-4.1,RUNTIME_ERROR,0,0.00%,0.090,0.00390625
+Alien_Homophones,gpt-4.1,ACCEPTED,100,100.00%,0.350,178.04296875
+Stone_Enthusiast,gpt-4.1,RUNTIME_ERROR,0,6.67%,0.130,2.55859375
+Egors_Gaming_Addiction,gpt-4.1,RUNTIME_ERROR,0,0.88%,0.120,4.38671875
+Ultrafast_train,gpt-4.1,TIME_LIMIT_EXCEEDED,17,67.38%,1.110,17.31640625

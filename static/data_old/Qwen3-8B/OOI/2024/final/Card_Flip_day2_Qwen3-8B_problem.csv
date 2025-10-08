@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Card_Flip_Qwen3-8B_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.220,91.9609375,0,0,0,0,0,0,0,0,0,0
+Card_Flip_Qwen3-8B_1.cpp,RUNTIME_ERROR,0,11.76%,0.470,55.28515625,0,0,0,0,0,0,0,0,0,0
+Card_Flip_Qwen3-8B_2.cpp,RUNTIME_ERROR,0,11.76%,0.640,115.625,0,0,0,0,0,0,0,0,0,0
+Card_Flip_Qwen3-8B_3.cpp,RUNTIME_ERROR,0,11.76%,0.600,94.23046875,0,0,0,0,0,0,0,0,0,0
+Card_Flip_Qwen3-8B_4.cpp,RUNTIME_ERROR,0,11.76%,1.160,79.80859375,0,0,0,0,0,0,0,0,0,0
+Card_Flip_Qwen3-8B_5.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0
+Card_Flip_Qwen3-8B_6.cpp,RUNTIME_ERROR,0,18.18%,1.140,83.58984375,0.0,0,0,0,0,0,0,0,0,0
+Card_Flip_Qwen3-8B_7.cpp,RUNTIME_ERROR,0,22.81%,0.560,52.859375,0.0,0,0,0,0,0,0,0,0,0

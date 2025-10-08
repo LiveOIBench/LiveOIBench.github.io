@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+boi,Qwen3-30B,RUNTIME_ERROR,12,15.48%,0.330,16.765625
+tou,Qwen3-30B,TIME_LIMIT_EXCEEDED,0,24.57%,2.220,100.11328125
+tow,Qwen3-30B,TIME_LIMIT_EXCEEDED,0,0.00%,0.390,1.5390625

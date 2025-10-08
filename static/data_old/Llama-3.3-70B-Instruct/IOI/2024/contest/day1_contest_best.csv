@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+message,Llama-3.3-70B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+nile,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,17,20.69%,2.220,4.9140625
+tree,Llama-3.3-70B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

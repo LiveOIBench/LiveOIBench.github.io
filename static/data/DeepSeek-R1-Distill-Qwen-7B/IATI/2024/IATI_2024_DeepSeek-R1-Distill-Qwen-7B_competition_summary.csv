@@ -1,0 +1,4 @@
+problem,status,score,%test passed,time,memory,pass_rate
+twins,UNKNOWN,0,0.00%,0.000,0,
+walk,COMPILATION_ERROR,0,0.00%,0.000,0,
+TOTAL,,0,0.00%,,,0.00%

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+sequence,gpt-oss-120b-high,RUNTIME_ERROR,12,30.53%,0.270,41.76953125
+abc,gpt-oss-120b-high,RUNTIME_ERROR,4,16.00%,0.130,12.15234375
+cyberland,gpt-oss-120b-high,RUNTIME_ERROR,15,20.73%,0.360,21.26171875

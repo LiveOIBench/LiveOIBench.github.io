@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+covid,Qwen3-32B-Non-Thinking,TIME_LIMIT_EXCEEDED,10,66.67%,5.930,1.5390625
+battle,Qwen3-32B-Non-Thinking,MEMORY_LIMIT_EXCEEDED,0,14.58%,1.470,1125.61328125
+editor,Qwen3-32B-Non-Thinking,TIME_LIMIT_EXCEEDED,14,35.38%,4.410,1125.71484375

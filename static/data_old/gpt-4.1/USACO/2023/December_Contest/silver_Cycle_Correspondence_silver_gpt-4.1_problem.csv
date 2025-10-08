@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Cycle_Correspondence_gpt-4.1_0.cpp,TIME_LIMIT_EXCEEDED,28,13.33%,2.480,32.7734375,0,0,0,0,0,27.777777777777775,0,0,0,0,0,0,0
+silver_Cycle_Correspondence_gpt-4.1_1.cpp,TIME_LIMIT_EXCEEDED,28,13.33%,2.340,83.53515625,0,0,0,0,0,27.777777777777775,0,0,0,0,0,0,0
+silver_Cycle_Correspondence_gpt-4.1_2.cpp,TIME_LIMIT_EXCEEDED,28,13.33%,2.270,31.7421875,0,0,0,0,0,27.777777777777775,0,0,0,0,0,0,0
+silver_Cycle_Correspondence_gpt-4.1_3.cpp,RUNTIME_ERROR,0,6.67%,0.230,32.7734375,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Cycle_Correspondence_gpt-4.1_4.cpp,TIME_LIMIT_EXCEEDED,0,6.67%,2.260,34.0625,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Cycle_Correspondence_gpt-4.1_5.cpp,WRONG_ANSWER,56,26.67%,0.440,78.66796875,0,27.777777777777775,0,0,27.777777777777775,0,0,0,0,0,0,0,0
+silver_Cycle_Correspondence_gpt-4.1_6.cpp,TIME_LIMIT_EXCEEDED,139,53.33%,2.550,44.16015625,0,27.777777777777775,0,0,0,27.777777777777775,27.777777777777775,27.777777777777775,27.777777777777775,0,0,0,0
+silver_Cycle_Correspondence_gpt-4.1_7.cpp,TIME_LIMIT_EXCEEDED,56,20.00%,2.470,73.94921875,0,27.777777777777775,0,0,0,27.777777777777775,0,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+pingvin_DeepSeek-Coder-V2-Lite-Instruct_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+pingvin_DeepSeek-Coder-V2-Lite-Instruct_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+pingvin_DeepSeek-Coder-V2-Lite-Instruct_2.cpp,RUNTIME_ERROR,16,31.25%,0.080,6.1875,0,16,0,0
+pingvin_DeepSeek-Coder-V2-Lite-Instruct_3.cpp,RUNTIME_ERROR,16,31.25%,0.080,5.671875,0,16,0,0
+pingvin_DeepSeek-Coder-V2-Lite-Instruct_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+pingvin_DeepSeek-Coder-V2-Lite-Instruct_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+pingvin_DeepSeek-Coder-V2-Lite-Instruct_6.cpp,ACCEPTED,70,100.00%,0.090,6.19140625,7,16,22,25
+pingvin_DeepSeek-Coder-V2-Lite-Instruct_7.cpp,ACCEPTED,70,100.00%,0.090,6.44921875,7,16,22,25

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Reflection,Llama-4-Scout,TIME_LIMIT_EXCEEDED,111,37.50%,2.420,5.1640625
+bronze_Making_Mexes,Llama-4-Scout,WRONG_ANSWER,0,0.00%,0.040,3.62109375
+bronze_Printing_Sequences,Llama-4-Scout,WRONG_ANSWER,30,15.38%,0.020,0.00390625

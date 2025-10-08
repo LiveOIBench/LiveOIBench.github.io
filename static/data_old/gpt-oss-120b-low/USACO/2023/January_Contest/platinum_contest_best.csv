@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Tractor_Paths,gpt-oss-120b-low,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Mana_Collection,gpt-oss-120b-low,TIME_LIMIT_EXCEEDED,0,8.33%,5.990,131.5
+platinum_Subtree_Activation,gpt-oss-120b-low,WRONG_ANSWER,0,4.76%,0.050,0.00390625

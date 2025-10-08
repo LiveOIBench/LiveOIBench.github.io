@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4
+train_Qwen3-14B-Non-Thinking_0.cpp,RUNTIME_ERROR,0,0.00%,0.210,9.9140625,0,0,0,0
+train_Qwen3-14B-Non-Thinking_1.cpp,MEMORY_LIMIT_EXCEEDED,5,17.86%,0.550,1042.5078125,0,5,0,0
+train_Qwen3-14B-Non-Thinking_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+train_Qwen3-14B-Non-Thinking_3.cpp,RUNTIME_ERROR,5,23.21%,0.720,14.05078125,0,5,0,0
+train_Qwen3-14B-Non-Thinking_4.cpp,MEMORY_LIMIT_EXCEEDED,0,1.79%,0.510,1124.6953125,0,0,0,0
+train_Qwen3-14B-Non-Thinking_5.cpp,RUNTIME_ERROR,5,17.86%,0.220,27.03515625,0,5,0,0
+train_Qwen3-14B-Non-Thinking_6.cpp,TIME_LIMIT_EXCEEDED,5,17.86%,1.110,128.91015625,0,5,0,0
+train_Qwen3-14B-Non-Thinking_7.cpp,RUNTIME_ERROR,0,1.79%,0.220,16.03125,0,0,0,0

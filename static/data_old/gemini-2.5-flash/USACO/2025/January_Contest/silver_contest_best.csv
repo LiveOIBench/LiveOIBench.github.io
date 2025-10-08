@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cow_Checkups,gemini-2.5-flash,ACCEPTED,333,100.00%,0.280,55.1796875
+silver_Farmer_Johns_Favorite_Operation,gemini-2.5-flash,ACCEPTED,333,100.00%,0.120,7.41015625
+silver_Table_Recovery,gemini-2.5-flash,WRONG_ANSWER,0,13.33%,0.220,20.1171875

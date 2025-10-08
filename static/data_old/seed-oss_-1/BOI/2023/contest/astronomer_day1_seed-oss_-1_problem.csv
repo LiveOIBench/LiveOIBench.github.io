@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+astronomer_seed-oss_0.cpp,RUNTIME_ERROR,8,23.72%,0.000,0.00390625,0,8,0,0,0,0,0,0
+astronomer_seed-oss_1.cpp,RUNTIME_ERROR,0,4.83%,0.230,0.00390625,0,0,0,0,0,0,0,0
+astronomer_seed-oss_2.cpp,TIME_LIMIT_EXCEEDED,0,19.61%,5.980,3.39453125,0,0,0,0,0,0,0,0
+astronomer_seed-oss_3.cpp,RUNTIME_ERROR,32,86.62%,0.020,0.00390625,0,8,9,0,0,0,15,0
+astronomer_seed-oss_4.cpp,TIME_LIMIT_EXCEEDED,0,31.36%,5.980,0.00390625,0,0,0,0,0,0,0,0
+astronomer_seed-oss_5.cpp,RUNTIME_ERROR,8,28.66%,2.120,6.92578125,0,8,0,0,0,0,0,0
+astronomer_seed-oss_6.cpp,RUNTIME_ERROR,8,23.72%,0.000,0.00390625,0,8,0,0,0,0,0,0
+astronomer_seed-oss_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Majority_Opinion,Codestral-22B-v0.1,WRONG_ANSWER,24,6.67%,0.120,2.07421875
+bronze_Cannonball,Codestral-22B-v0.1,TIME_LIMIT_EXCEEDED,37,10.00%,2.260,2.015625
+bronze_Balancing_Bacteria,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Card_Flip_deepseek-chat_0.cpp,TIME_LIMIT_EXCEEDED,0,10.58%,1.110,86.95703125,0.0,0,0,0,0,0,0,0,0,0
+Card_Flip_deepseek-chat_1.cpp,TIME_LIMIT_EXCEEDED,0,10.58%,1.120,102.65234375,0.0,0,0,0,0,0,0,0,0,0
+Card_Flip_deepseek-chat_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.120,112.53125,0,0,0,0,0,0,0,0,0,0
+Card_Flip_deepseek-chat_3.cpp,TIME_LIMIT_EXCEEDED,0,10.58%,1.120,79.8046875,0.0,0,0,0,0,0,0,0,0,0
+Card_Flip_deepseek-chat_4.cpp,TIME_LIMIT_EXCEEDED,0,10.58%,1.120,83.62109375,0.0,0,0,0,0,0,0,0,0,0
+Card_Flip_deepseek-chat_5.cpp,RUNTIME_ERROR,0,6.86%,0.510,35.34765625,0,0,0,0,0,0,0,0,0,0
+Card_Flip_deepseek-chat_6.cpp,RUNTIME_ERROR,0,10.78%,0.470,32.25390625,0,0,0,0,0,0,0,0,0,0
+Card_Flip_deepseek-chat_7.cpp,TIME_LIMIT_EXCEEDED,0,10.58%,1.120,117.74609375,0.0,0,0,0,0,0,0,0,0,0

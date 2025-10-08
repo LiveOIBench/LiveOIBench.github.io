@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+covid,Qwen3-32B,RUNTIME_ERROR,10,66.67%,0.130,1.52734375
+battle,Qwen3-32B,RUNTIME_ERROR,6,52.99%,0.400,60.4140625
+editor,Qwen3-32B,RUNTIME_ERROR,5,23.81%,0.090,8.00390625

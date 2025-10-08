@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+autobus_gpt-oss-20b-medium_0.cpp,RUNTIME_ERROR,0,16.33%,0.020,0,0,0,0
+autobus_gpt-oss-20b-medium_1.cpp,WRONG_ANSWER,0,93.88%,0.020,0,0,0,0
+autobus_gpt-oss-20b-medium_2.cpp,RUNTIME_ERROR,0,16.33%,0.020,0.00390625,0,0,0
+autobus_gpt-oss-20b-medium_3.cpp,RUNTIME_ERROR,0,16.33%,0.020,0,0,0,0
+autobus_gpt-oss-20b-medium_4.cpp,WRONG_ANSWER,0,93.88%,0.020,1.546875,0,0,0
+autobus_gpt-oss-20b-medium_5.cpp,RUNTIME_ERROR,0,16.33%,0.000,0,0,0,0
+autobus_gpt-oss-20b-medium_6.cpp,RUNTIME_ERROR,0,16.33%,0.000,0,0,0,0
+autobus_gpt-oss-20b-medium_7.cpp,ACCEPTED,50,100.00%,0.020,0.00390625,9,19,22

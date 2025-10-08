@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+circlepassing,gpt-oss-120b-low,RUNTIME_ERROR,14,50.94%,0.030,0.00390625
+makethemmeet,gpt-oss-120b-low,UNKNOWN,0,0.00%,0.000,0
+lightbulbs,gpt-oss-120b-low,RUNTIME_ERROR,0,0.00%,0.000,0
+bikeparking,gpt-oss-120b-low,RUNTIME_ERROR,16,45.10%,0.000,0

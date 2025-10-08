@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Equal_Sum_Subarrays,Qwen3-32B,ACCEPTED,333,100.00%,0.220,3.390625
+gold_Fertilizing_Pastures,Qwen3-32B,WRONG_ANSWER,133,45.45%,0.100,18.87109375
+gold_Piling_Papers,Qwen3-32B,MEMORY_LIMIT_EXCEEDED,0,7.69%,0.370,280.87890625

@@ -1,0 +1,7 @@
+problem,model,status,score,%test passed,time,memory
+cheese,gpt-4.1,RUNTIME_ERROR,11,25.64%,0.310,9.03125
+oldorhei,gpt-4.1,ACCEPTED,100,100.00%,0.420,86.48046875
+manypairs,gpt-4.1,RUNTIME_ERROR,0,0.00%,0.270,279.59375
+cfduels,gpt-4.1,RUNTIME_ERROR,46,68.97%,0.240,5.3671875
+hora,gpt-4.1,RUNTIME_ERROR,5,9.30%,0.090,1.5390625
+sweets,gpt-4.1,TIME_LIMIT_EXCEEDED,27,37.10%,3.360,89.7421875

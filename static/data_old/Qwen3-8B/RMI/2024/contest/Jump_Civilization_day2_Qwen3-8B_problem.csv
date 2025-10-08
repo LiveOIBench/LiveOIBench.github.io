@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+Jump_Civilization_Qwen3-8B_0.cpp,TIME_LIMIT_EXCEEDED,6,26.32%,1.220,3.6171875,0,6,0,0,0,0
+Jump_Civilization_Qwen3-8B_1.cpp,RUNTIME_ERROR,0,0.00%,0.080,27.14453125,0,0,0,0,0,0
+Jump_Civilization_Qwen3-8B_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+Jump_Civilization_Qwen3-8B_4.cpp,RUNTIME_ERROR,0,0.00%,0.030,3.62109375,0,0,0,0,0,0
+Jump_Civilization_Qwen3-8B_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.220,183.98046875,0,0,0,0,0,0
+Jump_Civilization_Qwen3-8B_6.cpp,RUNTIME_ERROR,11,15.69%,0.070,26.55078125,0,0,0,11,0,0
+Jump_Civilization_Qwen3-8B_7.cpp,RUNTIME_ERROR,0,0.00%,0.050,3.62109375,0,0,0,0,0,0

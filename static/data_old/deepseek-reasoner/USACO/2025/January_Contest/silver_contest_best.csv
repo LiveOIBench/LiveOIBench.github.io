@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cow_Checkups,deepseek-reasoner,ACCEPTED,333,100.00%,0.290,47.4453125
+silver_Farmer_Johns_Favorite_Operation,deepseek-reasoner,ACCEPTED,333,100.00%,0.120,4.39453125
+silver_Table_Recovery,deepseek-reasoner,MEMORY_LIMIT_EXCEEDED,0,13.33%,0.200,9.39453125

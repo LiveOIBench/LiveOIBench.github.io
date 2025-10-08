@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+an2dl_gpt-oss-20b-medium_0.cpp,ACCEPTED,110,100.00%,1.270,99.00390625,12,17,25,56
+an2dl_gpt-oss-20b-medium_1.cpp,ACCEPTED,110,100.00%,1.280,99.0078125,12,17,25,56
+an2dl_gpt-oss-20b-medium_2.cpp,ACCEPTED,110,100.00%,1.330,99.0078125,12,17,25,56
+an2dl_gpt-oss-20b-medium_3.cpp,ACCEPTED,110,100.00%,1.230,99.0078125,12,17,25,56
+an2dl_gpt-oss-20b-medium_4.cpp,ACCEPTED,110,100.00%,1.210,98.75,12,17,25,56
+an2dl_gpt-oss-20b-medium_5.cpp,ACCEPTED,110,100.00%,1.260,99.0078125,12,17,25,56
+an2dl_gpt-oss-20b-medium_6.cpp,ACCEPTED,110,100.00%,1.260,99.00390625,12,17,25,56
+an2dl_gpt-oss-20b-medium_7.cpp,ACCEPTED,110,100.00%,1.280,99.0078125,12,17,25,56

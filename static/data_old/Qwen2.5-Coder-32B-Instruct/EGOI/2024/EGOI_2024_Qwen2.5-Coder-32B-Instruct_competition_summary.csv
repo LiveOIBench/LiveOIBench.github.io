@@ -1,0 +1,10 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+bouquet,RUNTIME_ERROR,0,46.05%,0.100,3.5625,,0,0,0,0,0,0
+infiniterace,RUNTIME_ERROR,0,9.59%,0.000,0,,0,0,0,0,0,0
+teamcoding,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0
+gardendecorations,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0
+circlepassing,TIME_LIMIT_EXCEEDED,20,48.48%,2.210,1125.53125,,0,0,20,0,0,0
+makethemmeet,RUNTIME_ERROR,0,11.00%,0.010,0,,0,0.0,0.0,0.0,0.0,0.0
+lightbulbs,RUNTIME_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0
+bikeparking,TIME_LIMIT_EXCEEDED,16,50.32%,1.170,5.94140625,,0,16,0,0,0,0
+TOTAL,,36,20.68%,,,0.00%,,,,,,

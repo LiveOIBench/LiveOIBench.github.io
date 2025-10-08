@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Package_Pickup_gpt-oss-120b-low_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.810,197.9140625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Package_Pickup_gpt-oss-120b-low_1.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.140,306.21484375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Package_Pickup_gpt-oss-120b-low_2.cpp,RUNTIME_ERROR,0,0.00%,0.060,2.328125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Package_Pickup_gpt-oss-120b-low_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Package_Pickup_gpt-oss-120b-low_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Package_Pickup_gpt-oss-120b-low_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Package_Pickup_gpt-oss-120b-low_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.810,130.46484375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Package_Pickup_gpt-oss-120b-low_7.cpp,RUNTIME_ERROR,0,0.00%,0.050,3.35546875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

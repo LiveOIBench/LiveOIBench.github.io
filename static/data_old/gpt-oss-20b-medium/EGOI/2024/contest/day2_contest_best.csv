@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+circlepassing,gpt-oss-20b-medium,ACCEPTED,100,100.00%,0.070,5.1640625
+makethemmeet,gpt-oss-20b-medium,RUNTIME_ERROR,11,16.00%,0.090,9.54296875
+lightbulbs,gpt-oss-20b-medium,ACCEPTED,100,100.00%,0.020,0
+bikeparking,gpt-oss-20b-medium,RUNTIME_ERROR,25,61.49%,0.050,5.94140625

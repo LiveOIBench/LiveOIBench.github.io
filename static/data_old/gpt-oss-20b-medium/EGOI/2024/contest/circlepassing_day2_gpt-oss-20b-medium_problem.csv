@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+circlepassing_gpt-oss-20b-medium_0.cpp,RUNTIME_ERROR,14,30.00%,0.000,0.00390625,0,14,0,0,0,0
+circlepassing_gpt-oss-20b-medium_1.cpp,RUNTIME_ERROR,14,32.22%,0.020,0.00390625,0,14,0,0,0,0
+circlepassing_gpt-oss-20b-medium_2.cpp,RUNTIME_ERROR,14,52.78%,0.030,0.00390625,0,14,0,0,0,0
+circlepassing_gpt-oss-20b-medium_3.cpp,ACCEPTED,100,100.00%,0.070,5.1640625,0,14,20,22,17,27
+circlepassing_gpt-oss-20b-medium_4.cpp,RUNTIME_ERROR,14,30.00%,0.020,0.00390625,0,14,0,0,0,0
+circlepassing_gpt-oss-20b-medium_5.cpp,RUNTIME_ERROR,0,3.90%,0.020,0.00390625,0,0,0,0,0,0
+circlepassing_gpt-oss-20b-medium_6.cpp,RUNTIME_ERROR,14,32.22%,0.020,0.00390625,0,14,0,0,0,0
+circlepassing_gpt-oss-20b-medium_7.cpp,RUNTIME_ERROR,14,31.11%,0.020,0.00390625,0,14,0,0,0,0

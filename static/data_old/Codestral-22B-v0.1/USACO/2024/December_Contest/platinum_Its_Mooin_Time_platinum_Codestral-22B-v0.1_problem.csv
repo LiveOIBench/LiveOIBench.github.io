@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Its_Mooin_Time_Codestral-22B-v0.1_0.cpp,RUNTIME_ERROR,0,0.00%,0.170,10.890625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_Codestral-22B-v0.1_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.380,3.14453125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_Codestral-22B-v0.1_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.370,4.71875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_Codestral-22B-v0.1_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.370,13.15625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_Codestral-22B-v0.1_4.cpp,RUNTIME_ERROR,0,0.00%,0.140,10.94140625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_Codestral-22B-v0.1_5.cpp,RUNTIME_ERROR,0,0.00%,0.150,44.08203125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_Codestral-22B-v0.1_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.300,272.5234375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_Codestral-22B-v0.1_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.350,6.49609375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

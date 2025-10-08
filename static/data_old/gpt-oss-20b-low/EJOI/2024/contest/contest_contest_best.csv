@@ -1,0 +1,7 @@
+problem,model,status,score,%test passed,time,memory
+cheese,gpt-oss-20b-low,RUNTIME_ERROR,8,30.77%,0.200,6.96875
+oldorhei,gpt-oss-20b-low,ACCEPTED,100,100.00%,0.190,81.79296875
+manypairs,gpt-oss-20b-low,RUNTIME_ERROR,0,0.00%,0.160,33.83984375
+cfduels,gpt-oss-20b-low,RUNTIME_ERROR,0,0.00%,0.000,0
+hora,gpt-oss-20b-low,TIME_LIMIT_EXCEEDED,0,0.00%,0.020,1.5390625
+sweets,gpt-oss-20b-low,ACCEPTED,100,100.00%,0.750,134.38671875

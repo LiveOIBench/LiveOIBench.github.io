@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+sprinklers_deepseek-chat_0.cpp,RUNTIME_ERROR,0,2.20%,0.030,2.33203125,0,0,0,0,0,0
+sprinklers_deepseek-chat_1.cpp,RUNTIME_ERROR,6,21.74%,0.040,2.4453125,0,0,6,0,0,0
+sprinklers_deepseek-chat_2.cpp,RUNTIME_ERROR,9,47.01%,0.050,3.10546875,0,3,6,0,0,0
+sprinklers_deepseek-chat_3.cpp,RUNTIME_ERROR,0,2.20%,0.020,2.33203125,0,0,0,0,0,0
+sprinklers_deepseek-chat_4.cpp,RUNTIME_ERROR,6,20.65%,0.040,3.23828125,0,0,6,0,0,0
+sprinklers_deepseek-chat_5.cpp,RUNTIME_ERROR,6,21.74%,0.040,2.84765625,0,0,6,0,0,0
+sprinklers_deepseek-chat_6.cpp,RUNTIME_ERROR,6,21.74%,0.040,3.2109375,0,0,6,0,0,0
+sprinklers_deepseek-chat_7.cpp,RUNTIME_ERROR,6,21.74%,0.040,3.10546875,0,0,6,0,0,0

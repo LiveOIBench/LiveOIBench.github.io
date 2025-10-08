@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+jobs,gpt-o3-mini-high,RUNTIME_ERROR,11,10.07%,0.140,27.05078125
+portal,gpt-o3-mini-high,RUNTIME_ERROR,11,33.51%,0.020,2.84765625
+trains,gpt-o3-mini-high,ACCEPTED,100,100.00%,0.180,124.76171875

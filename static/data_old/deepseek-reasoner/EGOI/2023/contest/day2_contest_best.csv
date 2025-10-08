@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+candy,deepseek-reasoner,ACCEPTED,100,100.00%,0.050,5.16796875
+sopsug,deepseek-reasoner,UNKNOWN,0,0.00%,0.000,0
+guessinggame,deepseek-reasoner,RUNTIME_ERROR,0,0.00%,0.000,0
+carnival,deepseek-reasoner,ACCEPTED,100,100.00%,0.100,3.44921875

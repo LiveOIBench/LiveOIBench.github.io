@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Heroes,deepseek-reasoner,RUNTIME_ERROR,0,42.11%,0.040,0
+Pinball,deepseek-reasoner,TIME_LIMIT_EXCEEDED,40,67.50%,3.310,12.87890625
+AA_Tree,deepseek-reasoner,RUNTIME_ERROR,0,0.00%,0.000,0

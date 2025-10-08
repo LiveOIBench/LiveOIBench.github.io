@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Cowreography,gpt-4.1,RUNTIME_ERROR,33,13.04%,0.120,11.98828125
+gold_Grass_Segments,gpt-4.1,WRONG_ANSWER,118,45.00%,0.330,30.26171875
+gold_Smaller_Averages,gpt-4.1,TIME_LIMIT_EXCEEDED,146,55.00%,2.380,2.33203125

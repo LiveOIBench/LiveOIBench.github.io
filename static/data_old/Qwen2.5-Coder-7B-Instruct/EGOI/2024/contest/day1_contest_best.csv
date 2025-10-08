@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+bouquet,Qwen2.5-Coder-7B-Instruct,RUNTIME_ERROR,0,21.76%,0.150,3.36328125
+infiniterace,Qwen2.5-Coder-7B-Instruct,RUNTIME_ERROR,0,13.33%,0.100,0.00390625
+teamcoding,Qwen2.5-Coder-7B-Instruct,RUNTIME_ERROR,0,10.64%,0.080,3.10546875
+gardendecorations,Qwen2.5-Coder-7B-Instruct,RUNTIME_ERROR,0,0.00%,0.000,0

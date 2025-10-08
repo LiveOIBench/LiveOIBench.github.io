@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+vrsta_Qwen3-4B-Non-Thinking_0.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.310,257.48828125,0,0,0,0
+vrsta_Qwen3-4B-Non-Thinking_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+vrsta_Qwen3-4B-Non-Thinking_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+vrsta_Qwen3-4B-Non-Thinking_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.130,2.29296875,0,0,0,0
+vrsta_Qwen3-4B-Non-Thinking_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.130,2.328125,0,0,0,0
+vrsta_Qwen3-4B-Non-Thinking_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.140,2.328125,0,0,0,0
+vrsta_Qwen3-4B-Non-Thinking_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.290,257.484375,0,0,0,0
+vrsta_Qwen3-4B-Non-Thinking_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.150,2.328125,0,0,0,0

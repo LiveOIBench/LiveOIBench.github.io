@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cowmpetency,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,0,0.00%,0.140,2.265625
+silver_Potion_Farming,Qwen3-30B-Non-Thinking,WRONG_ANSWER,0,6.67%,0.140,16.32421875
+silver_Cowlendar,Qwen3-30B-Non-Thinking,WRONG_ANSWER,194,64.29%,0.260,1.71484375

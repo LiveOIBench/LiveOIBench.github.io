@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+teleporters_deepseek-reasoner_0.cpp,TIME_LIMIT_EXCEEDED,5,16.42%,1.130,7.20703125,0,0,0,0,5,0,0,0,0,0,0
+teleporters_deepseek-reasoner_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+teleporters_deepseek-reasoner_2.cpp,TIME_LIMIT_EXCEEDED,5,16.42%,1.140,5.9765625,0,0,0,0,5,0,0,0,0,0,0
+teleporters_deepseek-reasoner_3.cpp,TIME_LIMIT_EXCEEDED,5,16.42%,1.130,6.96875,0,0,0,0,5,0,0,0,0,0,0
+teleporters_deepseek-reasoner_4.cpp,RUNTIME_ERROR,20,32.84%,0.090,3.875,0,0,0,0,5,9,6,0,0,0,0
+teleporters_deepseek-reasoner_5.cpp,TIME_LIMIT_EXCEEDED,5,16.42%,1.130,4.67578125,0,0,0,0,5,0,0,0,0,0,0
+teleporters_deepseek-reasoner_6.cpp,TIME_LIMIT_EXCEEDED,5,16.42%,1.140,6.3671875,0,0,0,0,5,0,0,0,0,0,0
+teleporters_deepseek-reasoner_7.cpp,TIME_LIMIT_EXCEEDED,5,16.42%,1.160,6.625,0,0,0,0,5,0,0,0,0,0,0

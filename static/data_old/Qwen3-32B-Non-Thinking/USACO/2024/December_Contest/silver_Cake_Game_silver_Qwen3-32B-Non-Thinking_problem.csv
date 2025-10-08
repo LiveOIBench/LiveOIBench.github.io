@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Cake_Game_Qwen3-32B-Non-Thinking_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.260,7.5390625,0,0,0,0,0,0,0,0,0,0,0
+silver_Cake_Game_Qwen3-32B-Non-Thinking_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Cake_Game_Qwen3-32B-Non-Thinking_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.250,6.203125,0,0,0,0,0,0,0,0,0,0,0
+silver_Cake_Game_Qwen3-32B-Non-Thinking_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Cake_Game_Qwen3-32B-Non-Thinking_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.230,280.51171875,0,0,0,0,0,0,0,0,0,0,0
+silver_Cake_Game_Qwen3-32B-Non-Thinking_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.220,119.62890625,0,0,0,0,0,0,0,0,0,0,0
+silver_Cake_Game_Qwen3-32B-Non-Thinking_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.270,266.8984375,0,0,0,0,0,0,0,0,0,0,0
+silver_Cake_Game_Qwen3-32B-Non-Thinking_7.cpp,MEMORY_LIMIT_EXCEEDED,0,9.09%,1.300,280.5703125,0,0,0,0,0,0,0,0,0,0,0

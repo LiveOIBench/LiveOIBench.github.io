@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+chairgame_Qwen3-4B_0.cpp,RUNTIME_ERROR,4,34.78%,0.020,0.00390625,0,0,4,0,0,0,0,0
+chairgame_Qwen3-4B_1.cpp,TIME_LIMIT_EXCEEDED,4,34.78%,1.220,0.00390625,0,0,4,0,0,0,0,0
+chairgame_Qwen3-4B_2.cpp,RUNTIME_ERROR,4,34.78%,0.030,0.00390625,0,0,4,0,0,0,0,0
+chairgame_Qwen3-4B_3.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+chairgame_Qwen3-4B_4.cpp,RUNTIME_ERROR,0,0.00%,0.020,1.5234375,0,0,0,0,0,0,0,0
+chairgame_Qwen3-4B_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.050,1.52734375,0,0,0,0,0,0,0,0
+chairgame_Qwen3-4B_6.cpp,RUNTIME_ERROR,9,36.96%,0.070,0.00390625,0,5,4,0,0,0,0,0

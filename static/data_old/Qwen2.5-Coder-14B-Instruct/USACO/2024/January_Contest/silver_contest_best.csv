@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cowmpetency,Qwen2.5-Coder-14B-Instruct,TIME_LIMIT_EXCEEDED,0,8.33%,2.250,2.8046875
+silver_Potion_Farming,Qwen2.5-Coder-14B-Instruct,WRONG_ANSWER,24,13.33%,0.170,7.27734375
+silver_Cowlendar,Qwen2.5-Coder-14B-Instruct,TIME_LIMIT_EXCEEDED,56,28.57%,2.220,0.00390625

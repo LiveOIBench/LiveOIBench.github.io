@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+More_Gifts,gemini-2.5-flash,ACCEPTED,100,100.00%,0.650,52.85546875
+Big_Persimmon,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,56,73.47%,2.230,830.9921875
+Evidence_Board,gemini-2.5-flash,MEMORY_LIMIT_EXCEEDED,7,51.12%,1.230,289.765625
+Draw_Polygon_Lines,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,36,55.60%,2.210,5.421875

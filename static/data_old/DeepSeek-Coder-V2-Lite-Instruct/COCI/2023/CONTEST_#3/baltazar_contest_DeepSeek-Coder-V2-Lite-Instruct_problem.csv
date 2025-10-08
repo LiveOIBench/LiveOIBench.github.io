@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+baltazar_DeepSeek-Coder-V2-Lite-Instruct_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+baltazar_DeepSeek-Coder-V2-Lite-Instruct_1.cpp,RUNTIME_ERROR,0,0.00%,0.260,1.5546875,0,0,0
+baltazar_DeepSeek-Coder-V2-Lite-Instruct_2.cpp,RUNTIME_ERROR,0,0.00%,0.340,1.515625,0,0,0
+baltazar_DeepSeek-Coder-V2-Lite-Instruct_3.cpp,RUNTIME_ERROR,0,0.00%,0.120,1.515625,0,0,0
+baltazar_DeepSeek-Coder-V2-Lite-Instruct_4.cpp,RUNTIME_ERROR,0,0.00%,0.060,1.5546875,0,0,0
+baltazar_DeepSeek-Coder-V2-Lite-Instruct_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.000,0.00390625,0,0,0
+baltazar_DeepSeek-Coder-V2-Lite-Instruct_6.cpp,RUNTIME_ERROR,0,0.00%,0.140,1.5546875,0,0,0
+baltazar_DeepSeek-Coder-V2-Lite-Instruct_7.cpp,RUNTIME_ERROR,0,0.00%,0.230,1.5859375,0,0,0

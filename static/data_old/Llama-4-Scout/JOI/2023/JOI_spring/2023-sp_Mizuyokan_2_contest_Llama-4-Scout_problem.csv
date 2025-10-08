@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+2023-sp_Mizuyokan_2_Llama-4-Scout_0.cpp,RUNTIME_ERROR,0,0.00%,0.050,2.328125,0,0,0,0,0,0
+2023-sp_Mizuyokan_2_Llama-4-Scout_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.600,3.1015625,0,0,0,0,0,0
+2023-sp_Mizuyokan_2_Llama-4-Scout_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.610,3.10546875,0,0,0,0,0,0
+2023-sp_Mizuyokan_2_Llama-4-Scout_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.610,3.15234375,0,0,0,0,0,0
+2023-sp_Mizuyokan_2_Llama-4-Scout_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.620,3.1015625,0,0,0,0,0,0
+2023-sp_Mizuyokan_2_Llama-4-Scout_5.cpp,RUNTIME_ERROR,0,0.00%,0.100,3.87890625,0,0,0,0,0,0
+2023-sp_Mizuyokan_2_Llama-4-Scout_6.cpp,RUNTIME_ERROR,0,0.00%,0.130,3.10546875,0,0,0,0,0,0
+2023-sp_Mizuyokan_2_Llama-4-Scout_7.cpp,RUNTIME_ERROR,0,0.00%,0.110,3.87109375,0,0,0,0,0,0

@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+tramvaji,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+ekspert,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,0.00%,0.000,0
+lampice,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+prijateljice,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,9.33%,0.000,0
+kruhologija,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

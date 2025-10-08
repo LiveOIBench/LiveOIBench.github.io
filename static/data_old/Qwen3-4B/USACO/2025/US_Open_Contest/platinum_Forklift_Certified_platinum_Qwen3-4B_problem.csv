@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Forklift_Certified_Qwen3-4B_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.420,5.73828125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Forklift_Certified_Qwen3-4B_1.cpp,RUNTIME_ERROR,0,0.00%,0.530,5.796875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Forklift_Certified_Qwen3-4B_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.410,5.7109375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Forklift_Certified_Qwen3-4B_3.cpp,RUNTIME_ERROR,0,0.00%,0.200,5.6796875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Forklift_Certified_Qwen3-4B_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.420,7.23828125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Forklift_Certified_Qwen3-4B_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.260,297.79296875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Forklift_Certified_Qwen3-4B_6.cpp,RUNTIME_ERROR,0,0.00%,0.400,3.91015625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

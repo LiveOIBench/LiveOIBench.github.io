@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+sah,Qwen3-30B,ACCEPTED,50,100.00%,0.090,0.00390625
+benzinska,Qwen3-30B,ACCEPTED,70,100.00%,0.180,5.1484375
+xor,Qwen3-30B,UNKNOWN,0,0.00%,0.000,0
+cipele,Qwen3-30B,RUNTIME_ERROR,27,12.90%,0.160,17.11328125
+tura,Qwen3-30B,RUNTIME_ERROR,0,0.72%,0.100,6.96875

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Cowreography_gpt-4.1_0.cpp,RUNTIME_ERROR,33,13.04%,0.120,12.09375,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,0
+gold_Cowreography_gpt-4.1_1.cpp,RUNTIME_ERROR,33,13.04%,0.120,12.09375,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,0
+gold_Cowreography_gpt-4.1_2.cpp,RUNTIME_ERROR,33,13.04%,0.130,10.79296875,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,0
+gold_Cowreography_gpt-4.1_3.cpp,RUNTIME_ERROR,33,13.04%,0.130,11.921875,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,0
+gold_Cowreography_gpt-4.1_4.cpp,RUNTIME_ERROR,33,13.04%,0.130,10.4453125,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,0
+gold_Cowreography_gpt-4.1_5.cpp,RUNTIME_ERROR,33,13.04%,0.120,11.98828125,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,0
+gold_Cowreography_gpt-4.1_6.cpp,RUNTIME_ERROR,33,13.04%,0.130,11.98828125,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,0
+gold_Cowreography_gpt-4.1_7.cpp,RUNTIME_ERROR,33,13.04%,0.130,10.859375,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,0

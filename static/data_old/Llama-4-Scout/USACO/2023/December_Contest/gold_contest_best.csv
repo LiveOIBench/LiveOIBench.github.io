@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Flight_Routes,Llama-4-Scout,WRONG_ANSWER,17,13.64%,0.060,5.16796875
+gold_Minimum_Longest_Trip,Llama-4-Scout,RUNTIME_ERROR,0,5.00%,0.120,15.0234375
+gold_Haybale_Distribution,Llama-4-Scout,TIME_LIMIT_EXCEEDED,22,12.50%,2.420,2.07421875

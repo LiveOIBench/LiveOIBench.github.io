@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+Jump_Civilization_Llama-4-Scout_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+Jump_Civilization_Llama-4-Scout_1.cpp,RUNTIME_ERROR,0,0.00%,0.030,4.6484375,0,0,0,0,0,0
+Jump_Civilization_Llama-4-Scout_2.cpp,RUNTIME_ERROR,0,0.00%,0.030,4.6484375,0,0,0,0,0,0
+Jump_Civilization_Llama-4-Scout_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.230,4.65234375,0,0,0,0,0,0
+Jump_Civilization_Llama-4-Scout_4.cpp,RUNTIME_ERROR,0,0.00%,0.040,3.6640625,0,0,0,0,0,0
+Jump_Civilization_Llama-4-Scout_5.cpp,RUNTIME_ERROR,0,0.00%,0.040,3.55859375,0,0,0,0,0,0
+Jump_Civilization_Llama-4-Scout_6.cpp,RUNTIME_ERROR,0,0.00%,0.130,3.6171875,0,0,0,0,0,0
+Jump_Civilization_Llama-4-Scout_7.cpp,RUNTIME_ERROR,0,0.00%,0.090,34.5546875,0,0,0,0,0,0

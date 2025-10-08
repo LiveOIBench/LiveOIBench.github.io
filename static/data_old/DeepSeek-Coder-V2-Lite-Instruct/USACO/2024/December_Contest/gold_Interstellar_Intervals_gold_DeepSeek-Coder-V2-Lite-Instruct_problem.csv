@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Interstellar_Intervals_DeepSeek-Coder-V2-Lite-Instruct_0.cpp,RUNTIME_ERROR,0,0.00%,0.140,32.22265625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Interstellar_Intervals_DeepSeek-Coder-V2-Lite-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.310,28.61328125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Interstellar_Intervals_DeepSeek-Coder-V2-Lite-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.280,3.86328125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Interstellar_Intervals_DeepSeek-Coder-V2-Lite-Instruct_3.cpp,RUNTIME_ERROR,0,0.00%,0.120,5.66796875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Interstellar_Intervals_DeepSeek-Coder-V2-Lite-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.330,27.6796875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Interstellar_Intervals_DeepSeek-Coder-V2-Lite-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.440,3.86328125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Interstellar_Intervals_DeepSeek-Coder-V2-Lite-Instruct_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.210,280.765625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Interstellar_Intervals_DeepSeek-Coder-V2-Lite-Instruct_7.cpp,RUNTIME_ERROR,0,0.00%,0.170,75.88671875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

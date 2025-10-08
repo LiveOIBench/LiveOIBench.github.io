@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1
+estimathon_deepseek-chat_0.cpp,RUNTIME_ERROR,11,53.33%,0.000,0,11,0
+estimathon_deepseek-chat_1.cpp,ACCEPTED,50,100.00%,0.000,0,11,39
+estimathon_deepseek-chat_2.cpp,RUNTIME_ERROR,11,53.33%,0.030,0,11,0
+estimathon_deepseek-chat_3.cpp,RUNTIME_ERROR,11,53.33%,0.030,0,11,0
+estimathon_deepseek-chat_3.cpp,RUNTIME_ERROR,11,53.33%,0.030,0,11,0
+estimathon_deepseek-chat_4.cpp,RUNTIME_ERROR,11,53.33%,0.000,0,11,0
+estimathon_deepseek-chat_5.cpp,RUNTIME_ERROR,0,20.00%,0.000,0,0,0
+estimathon_deepseek-chat_6.cpp,RUNTIME_ERROR,11,53.33%,0.000,0,11,0

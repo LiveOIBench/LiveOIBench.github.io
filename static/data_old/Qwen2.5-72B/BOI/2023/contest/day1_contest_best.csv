@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+astronomer,Qwen2.5-72B,COMPILATION_ERROR,0,0.00%,0.000,0
+staringcontest,Qwen2.5-72B,RUNTIME_ERROR,9,48.72%,0.030,3.171875
+tycho,Qwen2.5-72B,RUNTIME_ERROR,0,7.08%,0.000,0

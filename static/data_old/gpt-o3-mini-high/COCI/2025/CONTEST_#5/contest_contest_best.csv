@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+wow,gpt-o3-mini-high,ACCEPTED,50,100.00%,0.000,0
+zid,gpt-o3-mini-high,ACCEPTED,70,100.00%,0.170,1.5546875
+tornjevi,gpt-o3-mini-high,ACCEPTED,90,100.00%,0.470,12.90234375
+crtez,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,0,8.51%,2.210,2.37890625
+stablo,gpt-o3-mini-high,ACCEPTED,120,100.00%,0.780,95.65625

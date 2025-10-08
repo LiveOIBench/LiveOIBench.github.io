@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Identity_Theft,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Splitting_Haybales,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Activating_Robots,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0

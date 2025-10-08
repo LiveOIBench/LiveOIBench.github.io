@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cow_Checkups,Qwen3-14B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Farmer_Johns_Favorite_Operation,Qwen3-14B-Non-Thinking,TIME_LIMIT_EXCEEDED,44,18.75%,2.330,4.39453125
+silver_Table_Recovery,Qwen3-14B-Non-Thinking,RUNTIME_ERROR,0,6.67%,0.370,8.9140625

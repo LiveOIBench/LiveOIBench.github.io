@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_DFS_Order,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Shock_Wave,DeepSeek-Coder-V2-Lite-Instruct,WRONG_ANSWER,0,0.00%,0.210,2.07421875
+platinum_Watering_the_Plants,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

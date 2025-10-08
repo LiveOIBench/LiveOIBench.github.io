@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Astral_Superposition,Mistral-Large-Instruct-2411,WRONG_ANSWER,33,16.67%,0.250,3.1015625
+bronze_Its_Mooin_Time_II,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,0,9.09%,2.280,65.84375
+bronze_Cow_Checkups,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,100,46.15%,2.250,1.55859375

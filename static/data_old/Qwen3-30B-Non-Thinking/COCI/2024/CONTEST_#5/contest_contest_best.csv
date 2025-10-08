@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+zlagalica,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,0,0.00%,0.000,0
+bitovi,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,0,0.00%,0.060,2.32421875
+piratski,Qwen3-30B-Non-Thinking,WRONG_ANSWER,0,0.00%,0.060,0
+rolete,Qwen3-30B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+trokut,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,0,0.00%,0.060,0.00390625

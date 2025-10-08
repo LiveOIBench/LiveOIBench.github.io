@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Evidence_Board_Qwen3-4B_0.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.910,427.78125,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_Qwen3-4B_1.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.880,431.8671875,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_Qwen3-4B_2.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,1.050,570.2265625,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_Qwen3-4B_3.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.920,447.05859375,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_Qwen3-4B_4.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_Qwen3-4B_5.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_Qwen3-4B_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.670,319.1640625,0,0,0,0,0,0,0,0,0,0

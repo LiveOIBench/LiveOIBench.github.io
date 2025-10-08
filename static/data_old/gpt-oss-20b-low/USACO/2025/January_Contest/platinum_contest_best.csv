@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_DFS_Order,gpt-oss-20b-low,RUNTIME_ERROR,0,0.00%,0.030,3.62109375
+platinum_Shock_Wave,gpt-oss-20b-low,TIME_LIMIT_EXCEEDED,0,0.00%,2.430,3.52734375
+platinum_Watering_the_Plants,gpt-oss-20b-low,RUNTIME_ERROR,0,0.00%,0.100,9.03515625

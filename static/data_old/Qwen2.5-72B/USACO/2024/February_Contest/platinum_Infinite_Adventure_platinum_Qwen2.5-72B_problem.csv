@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Infinite_Adventure_Qwen2.5-72B_0.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.310,558.1171875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Infinite_Adventure_Qwen2.5-72B_1.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.310,555.0234375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Infinite_Adventure_Qwen2.5-72B_2.cpp,RUNTIME_ERROR,0,0.00%,0.140,9.8046875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Infinite_Adventure_Qwen2.5-72B_3.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.300,510.42578125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Infinite_Adventure_Qwen2.5-72B_4.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.130,31.46484375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Infinite_Adventure_Qwen2.5-72B_5.cpp,RUNTIME_ERROR,42,11.11%,0.160,31.72265625,0,0,20.833333333333332,0,0,0,0,0,0,0,0,0,0,0,0,0,20.833333333333332
+platinum_Infinite_Adventure_Qwen2.5-72B_6.cpp,RUNTIME_ERROR,0,0.00%,0.160,9.84765625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Infinite_Adventure_Qwen2.5-72B_7.cpp,RUNTIME_ERROR,0,0.00%,0.120,10.58203125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

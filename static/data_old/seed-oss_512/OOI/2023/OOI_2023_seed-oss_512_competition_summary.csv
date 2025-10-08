@@ -1,0 +1,19 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_21,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+More_Gifts,RUNTIME_ERROR,0,5.61%,0.030,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Big_Persimmon,RUNTIME_ERROR,0,8.62%,0.030,2.33203125,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Evidence_Board,UNKNOWN,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Draw_Polygon_Lines,MEMORY_LIMIT_EXCEEDED,8,5.26%,0.060,3.2734375,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.0,4.0
+Burenka_and_Pether,UNKNOWN,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Almost_Certainly,RUNTIME_ERROR,0,1.55%,0.050,7.48828125,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Three_Arrays,RUNTIME_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Parallel_Universes,RUNTIME_ERROR,0,0.72%,0.030,0.00390625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Paired_roads,UNKNOWN,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Legs_warm-up_exercise,UNKNOWN,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hard_problem,ACCEPTED,100,100.00%,0.080,5.16796875,,0.0,13.0,0,0,0,0,0,0,0,0,0,0,10.0,0,0,14.0,19.0,9.0,1.0,9.0,25.0,0
+Yet_another_queries,UNKNOWN,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lunch,RUNTIME_ERROR,0,16.84%,0.030,0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tournament,MEMORY_LIMIT_EXCEEDED,80,97.15%,0.040,1.6796875,,0.0,14.0,0,0,0,0,0,0,0,0,0,0,8.0,0,0,0,12.0,9.0,10.0,9.0,8.0,10.0
+You_need_to_train_more,RUNTIME_ERROR,0,13.19%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colorful_graph,RUNTIME_ERROR,0,22.75%,0.050,2.390625,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Space_accident,RUNTIME_ERROR,10,26.47%,0.040,0.00390625,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10.0,0,0,0,0,0,0
+TOTAL,,198,17.54%,,,5.88%,,,,,,,,,,,,,,,,,,,,,,

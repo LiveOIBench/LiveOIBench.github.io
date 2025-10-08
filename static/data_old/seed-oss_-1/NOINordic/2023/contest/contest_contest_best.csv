@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+icecreammachines,seed-oss_-1,ACCEPTED,100,100.00%,0.040,4.1328125
+chatnoi,seed-oss_-1,TIME_LIMIT_EXCEEDED,17,51.33%,4.830,416.48046875
+islandalliances,seed-oss_-1,ACCEPTED,100,100.00%,0.240,21.6640625

@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+candy,Mistral-Large-Instruct-2411,RUNTIME_ERROR,0,28.95%,0.000,0
+sopsug,Mistral-Large-Instruct-2411,UNKNOWN,0,0.00%,0.000,0
+guessinggame,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0
+carnival,Mistral-Large-Instruct-2411,RUNTIME_ERROR,11,30.23%,0.110,0.00390625

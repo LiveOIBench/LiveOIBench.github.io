@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Majority_Opinion,deepseek-reasoner,ACCEPTED,333,100.00%,0.050,2.5859375
+bronze_Cannonball,deepseek-reasoner,ACCEPTED,333,100.00%,0.050,6.92578125
+bronze_Balancing_Bacteria,deepseek-reasoner,ACCEPTED,333,100.00%,0.060,2.7890625

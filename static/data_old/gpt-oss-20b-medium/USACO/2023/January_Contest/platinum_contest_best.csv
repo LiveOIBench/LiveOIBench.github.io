@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Tractor_Paths,gpt-oss-20b-medium,WRONG_ANSWER,0,6.25%,0.190,19.953125
+platinum_Mana_Collection,gpt-oss-20b-medium,WRONG_ANSWER,0,4.17%,0.060,0.00390625
+platinum_Subtree_Activation,gpt-oss-20b-medium,WRONG_ANSWER,0,4.76%,0.020,0.00390625

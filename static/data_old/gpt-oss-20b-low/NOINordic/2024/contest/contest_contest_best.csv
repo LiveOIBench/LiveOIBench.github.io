@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+chairgame,gpt-oss-20b-low,RUNTIME_ERROR,0,0.00%,0.020,0.00390625
+thinice,gpt-oss-20b-low,RUNTIME_ERROR,0,7.55%,0.030,3.09765625
+animeshops,gpt-oss-20b-low,ACCEPTED,100,100.00%,0.050,9.546875

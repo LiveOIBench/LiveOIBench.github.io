@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Moo_Decomposition,deepseek-reasoner,TIME_LIMIT_EXCEEDED,175,60.00%,2.240,9.078125
+gold_Election_Queries,deepseek-reasoner,WRONG_ANSWER,0,6.67%,0.080,3.875
+gold_OohMoo_Milk,deepseek-reasoner,RUNTIME_ERROR,0,5.00%,0.050,2.84375

@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+d1p3_Qwen3-30B-Non-Thinking_1.cpp,RUNTIME_ERROR,0,4.81%,0.110,20.375,0,0,0,0,0,0,0,0
+d1p3_Qwen3-30B-Non-Thinking_2.cpp,RUNTIME_ERROR,0,4.81%,0.080,16.765625,0,0,0,0,0,0,0,0
+d1p3_Qwen3-30B-Non-Thinking_3.cpp,RUNTIME_ERROR,0,0.96%,0.130,37.6484375,0,0,0,0,0,0,0,0
+d1p3_Qwen3-30B-Non-Thinking_4.cpp,RUNTIME_ERROR,0,0.96%,0.080,12.8984375,0,0,0,0,0,0,0,0
+d1p3_Qwen3-30B-Non-Thinking_5.cpp,RUNTIME_ERROR,0,0.96%,0.200,18.42578125,0,0,0,0,0,0,0,0
+d1p3_Qwen3-30B-Non-Thinking_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+d1p3_Qwen3-30B-Non-Thinking_7.cpp,RUNTIME_ERROR,0,4.81%,1.050,371.27734375,0,0,0,0,0,0,0,0

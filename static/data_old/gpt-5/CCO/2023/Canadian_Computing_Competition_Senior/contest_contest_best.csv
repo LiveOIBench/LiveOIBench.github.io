@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+s1j4,gpt-5,ACCEPTED,15,100.00%,0.030,2.84375
+s2,gpt-5,ACCEPTED,15,100.00%,0.020,1.55859375
+s3,gpt-5,RUNTIME_ERROR,0,13.10%,0.030,2.0703125
+s4,gpt-5,ACCEPTED,15,100.00%,0.240,2.17578125
+s5,gpt-5,ACCEPTED,15,100.00%,0.080,13.46875

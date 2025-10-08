@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+eurokod,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,0.00%,0.000,0
+vrsar,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,0.00%,0.100,5.1640625
+milano,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,9.52%,0.150,7.6640625
+restorani,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+cesta,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

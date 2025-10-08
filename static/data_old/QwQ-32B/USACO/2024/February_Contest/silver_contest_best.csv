@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Target_Practice_II,QwQ-32B,WRONG_ANSWER,24,6.67%,0.130,6.04296875
+silver_Test_Tubes,QwQ-32B,RUNTIME_ERROR,17,4.76%,0.110,1.76171875
+silver_Moorbles,QwQ-32B,COMPILATION_ERROR,0,0.00%,0.000,0

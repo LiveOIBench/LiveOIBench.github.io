@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bovine_Acrobatics,QwQ-32B,ACCEPTED,333,100.00%,1.310,7.7421875
+silver_Cycle_Correspondence,QwQ-32B,ACCEPTED,333,100.00%,0.220,47.94921875
+silver_Target_Practice,QwQ-32B,WRONG_ANSWER,56,33.33%,1.400,2.5859375

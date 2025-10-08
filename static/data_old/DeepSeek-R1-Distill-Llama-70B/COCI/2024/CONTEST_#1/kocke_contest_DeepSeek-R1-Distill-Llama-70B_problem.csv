@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+kocke_DeepSeek-R1-Distill-Llama-70B_0.cpp,RUNTIME_ERROR,0,0.00%,0.170,192.59375,0,0,0,0
+kocke_DeepSeek-R1-Distill-Llama-70B_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+kocke_DeepSeek-R1-Distill-Llama-70B_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+kocke_DeepSeek-R1-Distill-Llama-70B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+kocke_DeepSeek-R1-Distill-Llama-70B_4.cpp,RUNTIME_ERROR,0,0.00%,0.070,0,0,0,0,0
+kocke_DeepSeek-R1-Distill-Llama-70B_5.cpp,MEMORY_LIMIT_EXCEEDED,0,13.33%,0.260,562.29296875,0,0,0,0
+kocke_DeepSeek-R1-Distill-Llama-70B_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+kocke_DeepSeek-R1-Distill-Llama-70B_7.cpp,MEMORY_LIMIT_EXCEEDED,0,13.33%,0.240,562.29296875,0,0,0,0

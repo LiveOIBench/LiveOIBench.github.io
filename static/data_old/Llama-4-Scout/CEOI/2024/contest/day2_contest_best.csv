@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+toy,Llama-4-Scout,RUNTIME_ERROR,0,6.49%,0.010,1.5546875
+stations,Llama-4-Scout,RUNTIME_ERROR,0,4.55%,0.020,5.48828125
+sprinklers,Llama-4-Scout,RUNTIME_ERROR,0,1.11%,0.020,1.81640625

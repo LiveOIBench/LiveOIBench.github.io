@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Hoof_Paper_Scissors_Minus_One,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_More_Cow_Photos,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Its_Mooin_Time_III,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0

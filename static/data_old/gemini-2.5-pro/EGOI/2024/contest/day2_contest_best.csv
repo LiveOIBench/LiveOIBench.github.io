@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+circlepassing,gemini-2.5-pro,ACCEPTED,100,100.00%,0.830,69.96875
+makethemmeet,gemini-2.5-pro,RUNTIME_ERROR,10,22.02%,0.020,0.00390625
+lightbulbs,gemini-2.5-pro,RUNTIME_ERROR,0,0.00%,0.000,0
+bikeparking,gemini-2.5-pro,RUNTIME_ERROR,25,61.49%,0.100,16.50390625

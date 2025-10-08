@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Palindrome_Game,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Milk_Exchange,Mistral-Small-3.1-24B-2503,WRONG_ANSWER,103,37.50%,0.160,3.25390625
+bronze_Maximizing_Productivity,Mistral-Small-3.1-24B-2503,TIME_LIMIT_EXCEEDED,62,23.53%,2.250,2.84765625

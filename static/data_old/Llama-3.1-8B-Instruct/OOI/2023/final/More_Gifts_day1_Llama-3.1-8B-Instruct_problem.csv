@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+More_Gifts_Llama-3.1-8B-Instruct_0.cpp,RUNTIME_ERROR,0,0.00%,0.080,3.62109375,0,0,0,0,0,0,0
+More_Gifts_Llama-3.1-8B-Instruct_1.cpp,RUNTIME_ERROR,0,0.00%,0.080,0,0,0,0,0,0,0,0
+More_Gifts_Llama-3.1-8B-Instruct_2.cpp,RUNTIME_ERROR,0,0.00%,0.090,2.53125,0,0,0,0,0,0,0
+More_Gifts_Llama-3.1-8B-Instruct_3.cpp,RUNTIME_ERROR,0,0.00%,0.080,0,0,0,0,0,0,0,0
+More_Gifts_Llama-3.1-8B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.110,1.5546875,0,0,0,0,0,0,0
+More_Gifts_Llama-3.1-8B-Instruct_5.cpp,RUNTIME_ERROR,0,0.00%,0.090,2.53125,0,0,0,0,0,0,0
+More_Gifts_Llama-3.1-8B-Instruct_6.cpp,RUNTIME_ERROR,0,5.61%,0.090,8.19921875,0,0,0,0,0,0,0
+More_Gifts_Llama-3.1-8B-Instruct_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.080,1.6953125,0,0,0,0,0,0,0

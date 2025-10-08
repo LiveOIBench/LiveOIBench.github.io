@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cow_Checkups,Qwen3-8B,ACCEPTED,333,100.00%,0.200,53.6328125
+silver_Farmer_Johns_Favorite_Operation,Qwen3-8B,ACCEPTED,333,100.00%,0.130,5.1640625
+silver_Table_Recovery,Qwen3-8B,WRONG_ANSWER,0,20.00%,0.190,9.1171875

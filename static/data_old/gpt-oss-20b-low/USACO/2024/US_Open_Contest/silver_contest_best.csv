@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bessies_Interview,gpt-oss-20b-low,WRONG_ANSWER,33,9.52%,0.060,4.66015625
+silver_Painting_Fence_Posts,gpt-oss-20b-low,RUNTIME_ERROR,0,6.67%,0.330,68.5
+silver_The_Winning_Gene,gpt-oss-20b-low,WRONG_ANSWER,44,12.50%,0.100,1.60546875

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+cyberland_Qwen3-14B-Non-Thinking_0.cpp,MEMORY_LIMIT_EXCEEDED,15,19.51%,0.850,2429.3671875,0,0,8,0,0,7,0,0,0
+cyberland_Qwen3-14B-Non-Thinking_1.cpp,MEMORY_LIMIT_EXCEEDED,20,24.39%,0.850,2433.3671875,0,5,8,0,0,7,0,0,0
+cyberland_Qwen3-14B-Non-Thinking_2.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.890,2428.8515625,0,0,0,0,0,0,0,0,0
+cyberland_Qwen3-14B-Non-Thinking_3.cpp,MEMORY_LIMIT_EXCEEDED,15,19.51%,0.770,2451.28515625,0,0,8,0,0,7,0,0,0
+cyberland_Qwen3-14B-Non-Thinking_4.cpp,MEMORY_LIMIT_EXCEEDED,20,24.39%,0.790,2448.96484375,0,5,8,0,0,7,0,0,0
+cyberland_Qwen3-14B-Non-Thinking_5.cpp,MEMORY_LIMIT_EXCEEDED,15,19.51%,0.810,2450.25390625,0,0,8,0,0,7,0,0,0
+cyberland_Qwen3-14B-Non-Thinking_6.cpp,MEMORY_LIMIT_EXCEEDED,15,20.73%,0.840,2421.64453125,0,0,8,0,0,7,0,0,0
+cyberland_Qwen3-14B-Non-Thinking_7.cpp,MEMORY_LIMIT_EXCEEDED,15,19.51%,0.790,2452.83203125,0,0,8,0,0,7,0,0,0

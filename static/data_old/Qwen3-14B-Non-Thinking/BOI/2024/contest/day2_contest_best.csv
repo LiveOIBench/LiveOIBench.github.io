@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+fire,Qwen3-14B-Non-Thinking,RUNTIME_ERROR,0,5.33%,0.040,2.84765625
+tiles,Qwen3-14B-Non-Thinking,RUNTIME_ERROR,0,1.99%,0.060,2.84765625
+wall,Qwen3-14B-Non-Thinking,RUNTIME_ERROR,0,0.00%,0.000,0

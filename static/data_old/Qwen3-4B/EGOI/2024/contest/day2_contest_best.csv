@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+circlepassing,Qwen3-4B,TIME_LIMIT_EXCEEDED,20,48.48%,2.410,594.6171875
+makethemmeet,Qwen3-4B,RUNTIME_ERROR,0,10.00%,0.020,0
+lightbulbs,Qwen3-4B,RUNTIME_ERROR,0,0.00%,0.000,0
+bikeparking,Qwen3-4B,RUNTIME_ERROR,0,14.04%,0.050,5.94140625

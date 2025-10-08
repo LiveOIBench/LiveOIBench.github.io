@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Custodial_Cleanup_gemini-2.5-flash_0.cpp,WRONG_ANSWER,0,11.11%,0.090,6.10546875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Custodial_Cleanup_gemini-2.5-flash_1.cpp,WRONG_ANSWER,0,5.56%,0.150,11.68359375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Custodial_Cleanup_gemini-2.5-flash_2.cpp,RUNTIME_ERROR,0,0.00%,0.070,10.57421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Custodial_Cleanup_gemini-2.5-flash_3.cpp,RUNTIME_ERROR,0,0.00%,0.080,4.64453125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Custodial_Cleanup_gemini-2.5-flash_4.cpp,WRONG_ANSWER,0,5.56%,0.090,6.20703125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Custodial_Cleanup_gemini-2.5-flash_5.cpp,WRONG_ANSWER,0,11.11%,0.080,4.7578125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Custodial_Cleanup_gemini-2.5-flash_6.cpp,WRONG_ANSWER,0,5.56%,0.090,6.9609375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Custodial_Cleanup_gemini-2.5-flash_7.cpp,WRONG_ANSWER,0,5.56%,0.120,8.625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

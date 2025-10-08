@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Triples_of_Cows_Qwen3-14B_0.cpp,RUNTIME_ERROR,0,0.00%,0.190,15.3359375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Triples_of_Cows_Qwen3-14B_1.cpp,TIME_LIMIT_EXCEEDED,0,5.00%,2.300,280.6640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Triples_of_Cows_Qwen3-14B_2.cpp,TIME_LIMIT_EXCEEDED,0,5.00%,2.300,15.30078125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Triples_of_Cows_Qwen3-14B_3.cpp,RUNTIME_ERROR,0,5.00%,0.350,15.73046875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Triples_of_Cows_Qwen3-14B_4.cpp,RUNTIME_ERROR,0,0.00%,0.180,15.30859375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Triples_of_Cows_Qwen3-14B_5.cpp,RUNTIME_ERROR,0,5.00%,0.210,15.08203125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Triples_of_Cows_Qwen3-14B_6.cpp,RUNTIME_ERROR,0,5.00%,0.200,13.80859375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Triples_of_Cows_Qwen3-14B_7.cpp,RUNTIME_ERROR,0,0.00%,0.200,15.3046875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

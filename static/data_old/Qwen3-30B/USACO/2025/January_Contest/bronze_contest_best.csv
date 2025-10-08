@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Astral_Superposition,Qwen3-30B,WRONG_ANSWER,33,25.00%,0.450,37.453125
+bronze_Its_Mooin_Time_II,Qwen3-30B,WRONG_ANSWER,0,9.09%,0.340,33.16015625
+bronze_Cow_Checkups,Qwen3-30B,ACCEPTED,333,100.00%,0.290,1.55859375

@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+circlepassing,Qwen3-32B,RUNTIME_ERROR,56,85.91%,0.210,4.12890625
+makethemmeet,Qwen3-32B,RUNTIME_ERROR,0,8.16%,0.010,0.00390625
+lightbulbs,Qwen3-32B,COMPILATION_ERROR,0,0.00%,0.000,0
+bikeparking,Qwen3-32B,RUNTIME_ERROR,25,61.49%,0.060,10.32421875

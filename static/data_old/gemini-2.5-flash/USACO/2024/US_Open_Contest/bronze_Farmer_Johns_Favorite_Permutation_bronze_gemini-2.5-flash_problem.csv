@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Farmer_Johns_Favorite_Permutation_gemini-2.5-flash_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.230,17.37890625,0,0,0,0,0,0,0,0,0,0,0
+bronze_Farmer_Johns_Favorite_Permutation_gemini-2.5-flash_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Farmer_Johns_Favorite_Permutation_gemini-2.5-flash_2.cpp,WRONG_ANSWER,0,0.00%,0.180,6.31640625,0,0,0,0,0,0,0,0,0,0,0
+bronze_Farmer_Johns_Favorite_Permutation_gemini-2.5-flash_4.cpp,ACCEPTED,333,100.00%,0.770,18.3125,0,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333
+bronze_Farmer_Johns_Favorite_Permutation_gemini-2.5-flash_5.cpp,WRONG_ANSWER,0,0.00%,0.110,4.09375,0,0,0,0,0,0,0,0,0,0,0
+bronze_Farmer_Johns_Favorite_Permutation_gemini-2.5-flash_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Farmer_Johns_Favorite_Permutation_gemini-2.5-flash_7.cpp,TIME_LIMIT_EXCEEDED,33,18.18%,2.240,17.3125,0,33.33333333333333,0,0,0,0,0,0,0,0,0

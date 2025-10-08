@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Bessies_Function,gpt-o3-mini-high,ACCEPTED,333,100.00%,0.100,39.94921875
+gold_The_Best_Subsequence,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,98,40.00%,2.220,18.49609375
+gold_Friendship_Editing,gpt-o3-mini-high,ACCEPTED,333,100.00%,0.320,6.05078125

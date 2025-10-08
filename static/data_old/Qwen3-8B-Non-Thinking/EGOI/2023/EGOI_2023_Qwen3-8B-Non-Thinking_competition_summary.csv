@@ -1,0 +1,10 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+bikesvscars,UNKNOWN,0,0.00%,0.000,0,,0,0,0,0,0,0,0
+ppp,MEMORY_LIMIT_EXCEEDED,0,1.43%,0.970,862.12109375,,0,0,0,0,0,0,0
+findthebox,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0
+inflation,RUNTIME_ERROR,19,34.55%,0.480,62.33984375,,0,0,0,19,0,0,0
+candy,RUNTIME_ERROR,0,21.62%,0.000,0,,0,0,0,0,0,0,0
+sopsug,UNKNOWN,0,0.00%,0.000,0,,0,0,0,0,0,0,0
+guessinggame,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0
+carnival,RUNTIME_ERROR,0,10.53%,0.080,0.00390625,,0,0,0,0,0,0,0
+TOTAL,,19,8.52%,,,0.00%,,,,,,,

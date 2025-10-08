@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+bikesvscars,Llama-4-Scout,UNKNOWN,0,0.00%,0.000,0
+ppp,Llama-4-Scout,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.420,1221.359375
+findthebox,Llama-4-Scout,RUNTIME_ERROR,0,0.00%,0.010,1.48828125
+inflation,Llama-4-Scout,RUNTIME_ERROR,19,23.64%,0.090,15.3359375

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bovine_Acrobatics,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,44,11.76%,0.190,3.375
+silver_Cycle_Correspondence,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,0.00%,0.390,31.65625
+silver_Target_Practice,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,83,20.00%,2.260,1.8125

@@ -1,0 +1,7 @@
+problem,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+teleporters,1,1,1,1,1,1,1,1,1,1,1
+tree_search,-1,1,-1,1,1,1,-1,-1,-1,-1,-1
+opening_offices,1,0,0,1,0,0,0,0,0,0,0
+square_grid_puzzle,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+team_building,1,0,-1,0,0,0,0,0,0,0,-1
+tree_infection,1,0,-1,0,1,0,0,0,-1,-1,-1

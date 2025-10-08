@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+square_grid_puzzle,gpt-5,RUNTIME_ERROR,0,0.00%,0.000,0
+team_building,gpt-5,ACCEPTED,100,100.00%,0.260,21.921875
+tree_infection,gpt-5,ACCEPTED,100,100.00%,0.390,108.67578125

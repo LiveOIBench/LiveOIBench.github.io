@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Forklift_Certified,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,0.00%,0.320,4.19921875
+platinum_Lazy_Sort,Qwen2.5-Coder-32B-Instruct,MEMORY_LIMIT_EXCEEDED,0,6.67%,0.220,266.0703125
+platinum_Package_Pickup,Qwen2.5-Coder-32B-Instruct,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.310,130.46875

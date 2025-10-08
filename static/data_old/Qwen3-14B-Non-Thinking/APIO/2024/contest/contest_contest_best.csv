@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+show,Qwen3-14B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+september,Qwen3-14B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+train,Qwen3-14B-Non-Thinking,RUNTIME_ERROR,5,23.21%,0.720,14.05078125

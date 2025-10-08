@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bovine_Acrobatics,Qwen3-4B,MEMORY_LIMIT_EXCEEDED,200,64.71%,1.200,306.03125
+silver_Cycle_Correspondence,Qwen3-4B,WRONG_ANSWER,56,33.33%,0.140,16.5078125
+silver_Target_Practice,Qwen3-4B,TIME_LIMIT_EXCEEDED,56,20.00%,2.420,11.625

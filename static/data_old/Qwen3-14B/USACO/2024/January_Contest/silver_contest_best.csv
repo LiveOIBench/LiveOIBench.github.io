@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cowmpetency,Qwen3-14B,WRONG_ANSWER,0,8.33%,0.150,5.6484375
+silver_Potion_Farming,Qwen3-14B,TIME_LIMIT_EXCEEDED,190,60.00%,2.260,13.68359375
+silver_Cowlendar,Qwen3-14B,WRONG_ANSWER,194,64.29%,0.250,1.5546875

@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+desniklik,gpt-5,ACCEPTED,50,100.00%,0.000,0
+cokolade,gpt-5,ACCEPTED,70,100.00%,0.070,2.84765625
+berilij,gpt-5,RUNTIME_ERROR,45,79.55%,0.180,19.23828125
+iksevi,gpt-5,ACCEPTED,110,100.00%,0.220,44.97265625
+neboderi,gpt-5,ACCEPTED,110,100.00%,0.170,13.61328125

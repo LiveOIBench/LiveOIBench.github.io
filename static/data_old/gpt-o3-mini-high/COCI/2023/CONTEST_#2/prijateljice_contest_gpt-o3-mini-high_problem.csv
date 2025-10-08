@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+prijateljice_gpt-o3-mini-high_0.cpp,ACCEPTED,110,100.00%,0.070,21.4765625,20,30,60
+prijateljice_gpt-o3-mini-high_1.cpp,ACCEPTED,110,100.00%,0.060,70.12890625,20,30,60
+prijateljice_gpt-o3-mini-high_2.cpp,ACCEPTED,110,100.00%,0.090,19.8515625,20,30,60
+prijateljice_gpt-o3-mini-high_3.cpp,ACCEPTED,110,100.00%,0.140,22.1328125,20,30,60
+prijateljice_gpt-o3-mini-high_4.cpp,RUNTIME_ERROR,0,29.33%,0.000,0,0,0,0
+prijateljice_gpt-o3-mini-high_5.cpp,ACCEPTED,110,100.00%,0.040,13.87109375,20,30,60
+prijateljice_gpt-o3-mini-high_6.cpp,ACCEPTED,110,100.00%,0.050,7.484375,20,30,60
+prijateljice_gpt-o3-mini-high_7.cpp,ACCEPTED,110,100.00%,0.120,75.0625,20,30,60

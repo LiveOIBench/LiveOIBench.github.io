@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+soccer,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,0,6.19%,3.860,6.71875
+closing,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,75,95.12%,1.110,2220.28515625
+longesttrip,gemini-2.5-pro,RUNTIME_ERROR,40,52.41%,0.710,4.0625

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Min_Max_Subarrays,Qwen3-32B-Non-Thinking,TIME_LIMIT_EXCEEDED,0,7.69%,3.340,5.16796875
+platinum_Transforming_Pairs,Qwen3-32B-Non-Thinking,MEMORY_LIMIT_EXCEEDED,0,5.26%,1.590,280.765625
+platinum_True_or_False_Test,Qwen3-32B-Non-Thinking,WRONG_ANSWER,0,5.00%,0.100,9.01953125

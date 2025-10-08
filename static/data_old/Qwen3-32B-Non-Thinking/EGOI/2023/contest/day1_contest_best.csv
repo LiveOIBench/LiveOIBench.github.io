@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+bikesvscars,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,1.28%,0.030,0.00390625
+ppp,Qwen3-32B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+findthebox,Qwen3-32B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+inflation,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,33,52.46%,0.270,14.44140625

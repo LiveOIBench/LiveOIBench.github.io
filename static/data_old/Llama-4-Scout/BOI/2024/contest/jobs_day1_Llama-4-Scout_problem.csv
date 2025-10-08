@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+jobs_Llama-4-Scout_0.cpp,RUNTIME_ERROR,0,0.00%,0.070,21.73046875,0,0,0,0,0
+jobs_Llama-4-Scout_1.cpp,RUNTIME_ERROR,0,0.00%,0.070,22.9453125,0,0,0,0,0
+jobs_Llama-4-Scout_2.cpp,RUNTIME_ERROR,0,0.00%,0.040,21.79296875,0,0,0,0,0
+jobs_Llama-4-Scout_2.cpp,RUNTIME_ERROR,0,0.00%,0.040,21.79296875,0,0,0,0,0
+jobs_Llama-4-Scout_3.cpp,RUNTIME_ERROR,0,0.00%,0.070,24.203125,0,0,0,0,0
+jobs_Llama-4-Scout_4.cpp,RUNTIME_ERROR,0,0.00%,0.040,27.39453125,0,0,0,0,0
+jobs_Llama-4-Scout_5.cpp,RUNTIME_ERROR,0,0.00%,0.060,20.64453125,0,0,0,0,0
+jobs_Llama-4-Scout_6.cpp,RUNTIME_ERROR,0,0.00%,0.130,22.046875,0,0,0,0,0

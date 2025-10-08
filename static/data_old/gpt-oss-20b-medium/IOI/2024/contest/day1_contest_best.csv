@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+message,gpt-oss-20b-medium,RUNTIME_ERROR,10,44.44%,2.200,4.52734375
+nile,gpt-oss-20b-medium,TIME_LIMIT_EXCEEDED,67,83.76%,2.410,10.16015625
+tree,gpt-oss-20b-medium,TIME_LIMIT_EXCEEDED,10,25.88%,2.420,22.57421875

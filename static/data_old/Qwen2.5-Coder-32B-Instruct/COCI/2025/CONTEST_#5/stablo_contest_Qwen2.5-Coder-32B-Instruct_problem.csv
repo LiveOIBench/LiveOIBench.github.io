@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+stablo_Qwen2.5-Coder-32B-Instruct_0.cpp,RUNTIME_ERROR,0,0.00%,0.500,203.7734375,0,0,0,0
+stablo_Qwen2.5-Coder-32B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.210,188.27734375,0,0,0,0
+stablo_Qwen2.5-Coder-32B-Instruct_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+stablo_Qwen2.5-Coder-32B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.210,237.97265625,0,0,0,0
+stablo_Qwen2.5-Coder-32B-Instruct_4.cpp,RUNTIME_ERROR,0,0.00%,3.730,165.8828125,0,0,0,0
+stablo_Qwen2.5-Coder-32B-Instruct_5.cpp,RUNTIME_ERROR,0,0.00%,0.380,55.953125,0,0,0,0
+stablo_Qwen2.5-Coder-32B-Instruct_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+stablo_Qwen2.5-Coder-32B-Instruct_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,1.820,442.3515625,0,0,0,0

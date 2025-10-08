@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+s1,gemini-2.5-flash,ACCEPTED,15,100.00%,0.100,5.109375
+s2,gemini-2.5-flash,ACCEPTED,15,100.00%,0.020,0.00390625
+s3,gemini-2.5-flash,RUNTIME_ERROR,2,15.71%,0.050,3.61328125
+s4,gemini-2.5-flash,RUNTIME_ERROR,0,2.00%,0.040,5.1640625
+s5,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,0,18.58%,1.160,12.28515625

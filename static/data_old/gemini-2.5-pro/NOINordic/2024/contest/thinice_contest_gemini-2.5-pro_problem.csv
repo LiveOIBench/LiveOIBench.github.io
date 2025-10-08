@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+thinice_gemini-2.5-pro_0.cpp,TIME_LIMIT_EXCEEDED,17,39.71%,1.170,169.1953125,17,0,0,0,0,0
+thinice_gemini-2.5-pro_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+thinice_gemini-2.5-pro_2.cpp,TIME_LIMIT_EXCEEDED,17,39.71%,1.270,610.19140625,17,0,0,0,0,0
+thinice_gemini-2.5-pro_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.200,7.30078125,0,0,0,0,0,0
+thinice_gemini-2.5-pro_4.cpp,TIME_LIMIT_EXCEEDED,17,39.71%,1.250,467.24609375,17,0,0,0,0,0
+thinice_gemini-2.5-pro_5.cpp,TIME_LIMIT_EXCEEDED,17,42.03%,1.270,261.49609375,17,0,0,0,0,0
+thinice_gemini-2.5-pro_6.cpp,TIME_LIMIT_EXCEEDED,17,39.71%,1.340,241.14453125,17,0,0,0,0,0
+thinice_gemini-2.5-pro_7.cpp,RUNTIME_ERROR,0,22.03%,0.160,6.1953125,0,0,0,0,0,0

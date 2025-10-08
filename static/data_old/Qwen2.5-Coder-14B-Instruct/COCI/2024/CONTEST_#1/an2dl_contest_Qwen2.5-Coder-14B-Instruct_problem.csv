@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+an2dl_Qwen2.5-Coder-14B-Instruct_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+an2dl_Qwen2.5-Coder-14B-Instruct_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+an2dl_Qwen2.5-Coder-14B-Instruct_2.cpp,RUNTIME_ERROR,0,0.00%,1.020,111.90234375,0,0,0,0
+an2dl_Qwen2.5-Coder-14B-Instruct_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+an2dl_Qwen2.5-Coder-14B-Instruct_4.cpp,RUNTIME_ERROR,12,20.83%,0.890,48.22265625,12,0,0,0
+an2dl_Qwen2.5-Coder-14B-Instruct_5.cpp,RUNTIME_ERROR,12,20.83%,0.400,50.6015625,12,0,0,0
+an2dl_Qwen2.5-Coder-14B-Instruct_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+an2dl_Qwen2.5-Coder-14B-Instruct_7.cpp,RUNTIME_ERROR,0,0.00%,0.640,48.21484375,0,0,0,0

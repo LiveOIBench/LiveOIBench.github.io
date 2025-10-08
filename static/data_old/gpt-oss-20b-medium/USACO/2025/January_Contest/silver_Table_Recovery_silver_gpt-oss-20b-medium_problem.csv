@@ -1,0 +1,4 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Table_Recovery_gpt-oss-20b-medium_3.cpp,RUNTIME_ERROR,0,6.67%,0.100,5.16796875,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_gpt-oss-20b-medium_6.cpp,RUNTIME_ERROR,0,6.67%,0.060,5.1640625,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_gpt-oss-20b-medium_7.cpp,WRONG_ANSWER,0,13.33%,0.140,22.2890625,0,0,0,0,0,0,0,0,0,0,0,0,0

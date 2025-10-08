@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Choose_Interval,gemini-2.5-pro,RUNTIME_ERROR,0,10.91%,0.040,0
+Skittlez,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,28,75.86%,2.410,81.6875
+Octagon,gemini-2.5-pro,RUNTIME_ERROR,9,26.19%,0.000,0

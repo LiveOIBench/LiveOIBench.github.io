@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+neboderi_Qwen3-30B_0.cpp,ACCEPTED,110,100.00%,0.760,9.03125,11,22,27,18,32
+neboderi_Qwen3-30B_1.cpp,ACCEPTED,110,100.00%,0.840,9.03125,11,22,27,18,32
+neboderi_Qwen3-30B_2.cpp,ACCEPTED,110,100.00%,0.730,9.03125,11,22,27,18,32
+neboderi_Qwen3-30B_3.cpp,ACCEPTED,110,100.00%,0.760,9.03125,11,22,27,18,32
+neboderi_Qwen3-30B_4.cpp,ACCEPTED,110,100.00%,0.860,9.03125,11,22,27,18,32
+neboderi_Qwen3-30B_5.cpp,TIME_LIMIT_EXCEEDED,11,20.37%,2.810,7.203125,11,0,0,0,0
+neboderi_Qwen3-30B_6.cpp,RUNTIME_ERROR,38,40.74%,0.700,5.1640625,11,0,27,0,0
+neboderi_Qwen3-30B_7.cpp,RUNTIME_ERROR,38,40.74%,0.700,5.1640625,11,0,27,0,0

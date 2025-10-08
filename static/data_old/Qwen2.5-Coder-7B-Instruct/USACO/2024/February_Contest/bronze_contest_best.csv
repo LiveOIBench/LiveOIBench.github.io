@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Palindrome_Game,Qwen2.5-Coder-7B-Instruct,WRONG_ANSWER,56,15.38%,0.110,0.00390625
+bronze_Milk_Exchange,Qwen2.5-Coder-7B-Instruct,TIME_LIMIT_EXCEEDED,77,31.25%,2.230,4.58984375
+bronze_Maximizing_Productivity,Qwen2.5-Coder-7B-Instruct,TIME_LIMIT_EXCEEDED,62,23.53%,2.290,2.84765625

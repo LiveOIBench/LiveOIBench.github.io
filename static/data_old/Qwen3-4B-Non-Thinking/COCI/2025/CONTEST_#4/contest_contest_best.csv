@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+sah,Qwen3-4B-Non-Thinking,RUNTIME_ERROR,13,29.41%,0.080,0.00390625
+benzinska,Qwen3-4B-Non-Thinking,RUNTIME_ERROR,0,28.00%,0.100,4.66015625
+xor,Qwen3-4B-Non-Thinking,UNKNOWN,0,0.00%,0.000,0
+cipele,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+tura,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0

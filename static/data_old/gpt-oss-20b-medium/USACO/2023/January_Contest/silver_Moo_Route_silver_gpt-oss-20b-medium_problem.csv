@@ -1,0 +1,4 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Moo_Route_gpt-oss-20b-medium_1.cpp,WRONG_ANSWER,19,10.00%,0.030,2.84765625,0,18.51851851851852,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Moo_Route_gpt-oss-20b-medium_4.cpp,RUNTIME_ERROR,56,15.00%,0.020,1.55859375,0,18.51851851851852,0,0,0,0,0,0,0,0,0,0,18.51851851851852,0,0,0,0,0,18.51851851851852
+silver_Moo_Route_gpt-oss-20b-medium_7.cpp,WRONG_ANSWER,56,25.00%,0.040,25.85546875,0,18.51851851851852,0,0,0,0,0,0,0,0,0,0,18.51851851851852,0,0,0,0,0,18.51851851851852

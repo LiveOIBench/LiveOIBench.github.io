@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+d1p3_DeepSeek-Coder-V2-Lite-Instruct_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+d1p3_DeepSeek-Coder-V2-Lite-Instruct_1.cpp,RUNTIME_ERROR,0,4.81%,0.170,3.36328125,0,0,0,0,0,0,0,0
+d1p3_DeepSeek-Coder-V2-Lite-Instruct_2.cpp,RUNTIME_ERROR,0,2.88%,0.150,5.16796875,0,0,0,0,0,0,0,0
+d1p3_DeepSeek-Coder-V2-Lite-Instruct_2.cpp,RUNTIME_ERROR,0,2.88%,0.150,5.16796875,0,0,0,0,0,0,0,0
+d1p3_DeepSeek-Coder-V2-Lite-Instruct_2.cpp,RUNTIME_ERROR,0,2.88%,0.150,5.16796875,0,0,0,0,0,0,0,0
+d1p3_DeepSeek-Coder-V2-Lite-Instruct_3.cpp,RUNTIME_ERROR,0,1.92%,0.170,6.97265625,0,0,0,0,0,0,0,0
+d1p3_DeepSeek-Coder-V2-Lite-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,0,1.92%,2.280,5.16796875,0,0,0,0,0,0,0,0
+d1p3_DeepSeek-Coder-V2-Lite-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,0,0.96%,2.240,3.36328125,0,0,0,0,0,0,0,0

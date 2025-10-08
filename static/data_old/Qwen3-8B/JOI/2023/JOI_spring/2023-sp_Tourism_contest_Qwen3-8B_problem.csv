@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+2023-sp_Tourism_Qwen3-8B_0.cpp,TIME_LIMIT_EXCEEDED,5,54.73%,4.810,25.65625,5,0,0,0,0,0
+2023-sp_Tourism_Qwen3-8B_1.cpp,RUNTIME_ERROR,0,0.00%,2.090,4.6875,0,0,0,0,0,0
+2023-sp_Tourism_Qwen3-8B_2.cpp,RUNTIME_ERROR,0,0.00%,3.820,4.68359375,0,0,0,0,0,0
+2023-sp_Tourism_Qwen3-8B_4.cpp,TIME_LIMIT_EXCEEDED,5,57.71%,4.820,26.30078125,5,0,0,0,0,0
+2023-sp_Tourism_Qwen3-8B_5.cpp,TIME_LIMIT_EXCEEDED,5,54.73%,4.810,25.5234375,5,0,0,0,0,0
+2023-sp_Tourism_Qwen3-8B_6.cpp,RUNTIME_ERROR,0,0.00%,1.580,13.6640625,0,0,0,0,0,0
+2023-sp_Tourism_Qwen3-8B_7.cpp,TIME_LIMIT_EXCEEDED,10,69.33%,4.820,9.28515625,5,5,0,0,0,0

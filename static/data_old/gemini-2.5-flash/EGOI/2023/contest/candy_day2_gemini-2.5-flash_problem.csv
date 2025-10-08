@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+candy_gemini-2.5-flash_0.cpp,RUNTIME_ERROR,0,11.76%,0.060,2.0703125,0,0,0,0,0,0
+candy_gemini-2.5-flash_1.cpp,RUNTIME_ERROR,0,15.24%,0.090,0,0,0,0,0,0,0
+candy_gemini-2.5-flash_2.cpp,RUNTIME_ERROR,25,75.93%,0.030,4.390625,0,6,19,0,0,0
+candy_gemini-2.5-flash_3.cpp,RUNTIME_ERROR,0,11.76%,0.000,0,0,0,0,0,0,0
+candy_gemini-2.5-flash_4.cpp,TIME_LIMIT_EXCEEDED,71,91.28%,3.320,1025.06640625,0,6,19,16,30,0
+candy_gemini-2.5-flash_5.cpp,ACCEPTED,100,100.00%,0.050,5.1640625,0,6,19,16,30,29
+candy_gemini-2.5-flash_6.cpp,ACCEPTED,100,100.00%,0.040,4.90625,0,6,19,16,30,29
+candy_gemini-2.5-flash_7.cpp,ACCEPTED,100,100.00%,0.080,100.8125,0,6,19,16,30,29

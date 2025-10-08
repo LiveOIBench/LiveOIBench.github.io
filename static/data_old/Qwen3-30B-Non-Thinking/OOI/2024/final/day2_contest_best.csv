@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Card_Flip,Qwen3-30B-Non-Thinking,TIME_LIMIT_EXCEEDED,0,25.21%,1.110,104.67578125
+Order_Statistics,Qwen3-30B-Non-Thinking,TIME_LIMIT_EXCEEDED,0,1.22%,4.410,8.01953125
+Best_Runner,Qwen3-30B-Non-Thinking,TIME_LIMIT_EXCEEDED,0,0.93%,1.110,6.97265625
+Strong_Connectivity_Strikes_Back,Qwen3-30B-Non-Thinking,ACCEPTED,100,100.00%,0.100,1.80859375

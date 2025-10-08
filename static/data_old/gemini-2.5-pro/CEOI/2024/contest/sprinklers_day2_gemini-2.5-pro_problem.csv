@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+sprinklers_gemini-2.5-pro_0.cpp,RUNTIME_ERROR,9,47.01%,0.380,10.0625,0,3,6,0,0,0
+sprinklers_gemini-2.5-pro_1.cpp,RUNTIME_ERROR,0,7.69%,0.320,11.34765625,0,0,0,0,0,0
+sprinklers_gemini-2.5-pro_2.cpp,RUNTIME_ERROR,9,47.01%,0.380,5.03515625,0,3,6,0,0,0
+sprinklers_gemini-2.5-pro_3.cpp,RUNTIME_ERROR,9,47.01%,0.070,2.84375,0,3,6,0,0,0
+sprinklers_gemini-2.5-pro_4.cpp,RUNTIME_ERROR,9,47.01%,0.370,3.875,0,3,6,0,0,0
+sprinklers_gemini-2.5-pro_5.cpp,RUNTIME_ERROR,3,24.00%,0.120,3.67578125,0,3,0,0,0,0
+sprinklers_gemini-2.5-pro_6.cpp,RUNTIME_ERROR,3,24.00%,0.470,13.66796875,0,3,0,0,0,0
+sprinklers_gemini-2.5-pro_7.cpp,RUNTIME_ERROR,9,47.01%,0.470,3.6171875,0,3,6,0,0,0

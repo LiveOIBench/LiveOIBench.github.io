@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+toy,Qwen3-4B,RUNTIME_ERROR,0,52.60%,0.010,1.546875
+stations,Qwen3-4B,MEMORY_LIMIT_EXCEEDED,0,6.82%,2.470,2456.89453125
+sprinklers,Qwen3-4B,RUNTIME_ERROR,0,19.19%,0.050,2.0703125

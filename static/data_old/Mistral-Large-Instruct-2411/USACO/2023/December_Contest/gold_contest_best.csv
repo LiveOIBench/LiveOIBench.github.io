@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Flight_Routes,Mistral-Large-Instruct-2411,RUNTIME_ERROR,0,0.00%,0.110,3.62109375
+gold_Minimum_Longest_Trip,Mistral-Large-Instruct-2411,RUNTIME_ERROR,0,5.00%,0.270,17.80078125
+gold_Haybale_Distribution,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,111,37.50%,2.360,3.6171875

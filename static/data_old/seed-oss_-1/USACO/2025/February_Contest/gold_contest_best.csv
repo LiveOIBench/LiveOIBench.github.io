@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Bessies_Function,seed-oss_-1,ACCEPTED,333,100.00%,0.080,27.59375
+gold_The_Best_Subsequence,seed-oss_-1,TIME_LIMIT_EXCEEDED,59,30.00%,2.420,17.98828125
+gold_Friendship_Editing,seed-oss_-1,ACCEPTED,333,100.00%,0.060,2.84375

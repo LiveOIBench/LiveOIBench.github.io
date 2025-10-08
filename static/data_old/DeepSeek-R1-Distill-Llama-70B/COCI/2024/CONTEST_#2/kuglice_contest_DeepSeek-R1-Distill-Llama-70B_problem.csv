@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+kuglice_DeepSeek-R1-Distill-Llama-70B_0.cpp,RUNTIME_ERROR,0,4.05%,0.090,9.54296875,0,0,0,0,0
+kuglice_DeepSeek-R1-Distill-Llama-70B_1.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+kuglice_DeepSeek-R1-Distill-Llama-70B_2.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+kuglice_DeepSeek-R1-Distill-Llama-70B_3.cpp,RUNTIME_ERROR,0,10.81%,0.070,0,0,0,0,0,0
+kuglice_DeepSeek-R1-Distill-Llama-70B_4.cpp,RUNTIME_ERROR,0,8.11%,0.000,0,0,0,0,0,0
+kuglice_DeepSeek-R1-Distill-Llama-70B_5.cpp,RUNTIME_ERROR,0,0.00%,0.060,4.1328125,0,0,0,0,0
+kuglice_DeepSeek-R1-Distill-Llama-70B_6.cpp,RUNTIME_ERROR,0,10.81%,0.000,0,0,0,0,0,0
+kuglice_DeepSeek-R1-Distill-Llama-70B_7.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0

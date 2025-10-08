@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Identity_Theft,gpt-5,WRONG_ANSWER,67,36.00%,0.190,47.0703125
+platinum_Splitting_Haybales,gpt-5,TIME_LIMIT_EXCEEDED,17,13.64%,2.470,2.7890625
+platinum_Activating_Robots,gpt-5,WRONG_ANSWER,133,50.00%,0.240,13.671875

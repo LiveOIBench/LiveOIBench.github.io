@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Min_Max_Subarrays_deepseek-reasoner_0.cpp,RUNTIME_ERROR,0,7.69%,0.100,20.37890625,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_deepseek-reasoner_1.cpp,RUNTIME_ERROR,0,0.00%,0.140,21.6640625,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_deepseek-reasoner_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_deepseek-reasoner_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_deepseek-reasoner_4.cpp,WRONG_ANSWER,0,15.38%,0.140,17.84765625,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_deepseek-reasoner_5.cpp,TIME_LIMIT_EXCEEDED,0,15.38%,3.320,5.109375,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_deepseek-reasoner_6.cpp,WRONG_ANSWER,0,15.38%,0.160,21.52734375,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_deepseek-reasoner_7.cpp,TIME_LIMIT_EXCEEDED,0,15.38%,3.360,241.578125,0,0,0,0,0,0,0,0,0,0,0

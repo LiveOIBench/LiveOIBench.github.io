@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Bessies_Function,Llama-3.1-8B-Instruct,RUNTIME_ERROR,35,9.52%,0.150,15.25390625
+gold_The_Best_Subsequence,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Friendship_Editing,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

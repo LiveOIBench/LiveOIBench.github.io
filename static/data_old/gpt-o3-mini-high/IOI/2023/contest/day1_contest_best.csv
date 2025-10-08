@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+soccer,gpt-o3-mini-high,RUNTIME_ERROR,0,1.77%,0.000,0
+closing,gpt-o3-mini-high,RUNTIME_ERROR,17,33.14%,0.160,51.4140625
+longesttrip,gpt-o3-mini-high,RUNTIME_ERROR,15,22.29%,0.780,4.0625

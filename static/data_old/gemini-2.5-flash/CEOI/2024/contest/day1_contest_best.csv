@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+covid,gemini-2.5-flash,RUNTIME_ERROR,10,66.67%,0.070,1.53515625
+battle,gemini-2.5-flash,ACCEPTED,100,100.00%,2.440,84.1015625
+editor,gemini-2.5-flash,MEMORY_LIMIT_EXCEEDED,56,90.16%,4.140,1038.84375

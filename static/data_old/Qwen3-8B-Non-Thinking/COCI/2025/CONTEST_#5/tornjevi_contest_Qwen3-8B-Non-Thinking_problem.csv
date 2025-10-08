@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+tornjevi_Qwen3-8B-Non-Thinking_0.cpp,MEMORY_LIMIT_EXCEEDED,7,18.52%,0.350,532.90625,7,0,0,0,0
+tornjevi_Qwen3-8B-Non-Thinking_1.cpp,TIME_LIMIT_EXCEEDED,7,18.52%,2.220,16.57421875,7,0,0,0,0
+tornjevi_Qwen3-8B-Non-Thinking_2.cpp,TIME_LIMIT_EXCEEDED,7,18.52%,2.240,9.1015625,7,0,0,0,0
+tornjevi_Qwen3-8B-Non-Thinking_3.cpp,TIME_LIMIT_EXCEEDED,7,18.52%,2.260,9.0390625,7,0,0,0,0
+tornjevi_Qwen3-8B-Non-Thinking_4.cpp,TIME_LIMIT_EXCEEDED,61,79.63%,2.220,16.57421875,7,11,17,0,26
+tornjevi_Qwen3-8B-Non-Thinking_5.cpp,TIME_LIMIT_EXCEEDED,7,18.52%,2.270,9.0390625,7,0,0,0,0
+tornjevi_Qwen3-8B-Non-Thinking_6.cpp,TIME_LIMIT_EXCEEDED,7,18.52%,2.240,9.0390625,7,0,0,0,0
+tornjevi_Qwen3-8B-Non-Thinking_7.cpp,TIME_LIMIT_EXCEEDED,7,18.52%,2.290,9.09765625,7,0,0,0,0

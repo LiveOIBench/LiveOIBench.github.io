@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Bessla_Motors,gpt-oss-20b-low,WRONG_ANSWER,278,86.67%,0.340,27.79296875
+gold_Milk_Exchange,gpt-oss-20b-low,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Quantum_Moochanics,gpt-oss-20b-low,RUNTIME_ERROR,0,0.00%,0.070,3.87890625

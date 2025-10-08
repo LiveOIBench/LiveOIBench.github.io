@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Transforming_Pairs_Llama-3.3-70B-Instruct_0.cpp,WRONG_ANSWER,0,0.00%,0.180,0.00390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Transforming_Pairs_Llama-3.3-70B-Instruct_1.cpp,WRONG_ANSWER,0,0.00%,0.270,0.00390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Transforming_Pairs_Llama-3.3-70B-Instruct_2.cpp,RUNTIME_ERROR,0,0.00%,0.160,0.00390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Transforming_Pairs_Llama-3.3-70B-Instruct_3.cpp,WRONG_ANSWER,0,0.00%,0.180,0.00390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Transforming_Pairs_Llama-3.3-70B-Instruct_4.cpp,WRONG_ANSWER,0,0.00%,0.180,0.00390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Transforming_Pairs_Llama-3.3-70B-Instruct_5.cpp,WRONG_ANSWER,0,0.00%,0.190,0.00390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Transforming_Pairs_Llama-3.3-70B-Instruct_6.cpp,RUNTIME_ERROR,0,0.00%,0.170,0.00390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Transforming_Pairs_Llama-3.3-70B-Instruct_7.cpp,WRONG_ANSWER,0,0.00%,0.390,0.00390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Table_Recovery_gemini-2.5-pro_0.cpp,RUNTIME_ERROR,0,13.33%,0.720,9.28515625,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_gemini-2.5-pro_1.cpp,RUNTIME_ERROR,0,13.33%,0.170,9.28125,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_gemini-2.5-pro_2.cpp,RUNTIME_ERROR,0,6.67%,0.230,9.5859375,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_gemini-2.5-pro_3.cpp,TIME_LIMIT_EXCEEDED,0,13.33%,2.340,5.41796875,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_gemini-2.5-pro_4.cpp,RUNTIME_ERROR,56,33.33%,0.260,5.53125,0,27.777777777777775,0,0,0,27.777777777777775,0,0,0,0,0,0,0
+silver_Table_Recovery_gemini-2.5-pro_5.cpp,RUNTIME_ERROR,0,6.67%,0.240,5.5234375,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_gemini-2.5-pro_6.cpp,TIME_LIMIT_EXCEEDED,56,26.67%,2.430,9.2890625,0,27.777777777777775,0,0,0,27.777777777777775,0,0,0,0,0,0,0
+silver_Table_Recovery_gemini-2.5-pro_7.cpp,TIME_LIMIT_EXCEEDED,0,13.33%,2.320,9.28515625,0,0,0,0,0,0,0,0,0,0,0,0,0

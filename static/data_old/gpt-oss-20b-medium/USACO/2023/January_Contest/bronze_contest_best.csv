@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Leaders,gpt-oss-20b-medium,ACCEPTED,333,100.00%,0.020,1.5546875
+bronze_Air_Cownditioning_II,gpt-oss-20b-medium,ACCEPTED,333,100.00%,0.020,0
+bronze_Moo_Operations,gpt-oss-20b-medium,ACCEPTED,333,100.00%,0.000,0

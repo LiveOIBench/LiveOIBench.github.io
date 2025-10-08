@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+toy,gpt-o3-mini-high,ACCEPTED,100,100.00%,0.240,4.3828125
+stations,gpt-o3-mini-high,RUNTIME_ERROR,18,52.54%,2.200,6.453125
+sprinklers,gpt-o3-mini-high,RUNTIME_ERROR,9,47.46%,0.150,8.74609375

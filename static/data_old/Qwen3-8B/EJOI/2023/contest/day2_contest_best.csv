@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+square_grid_puzzle,Qwen3-8B,RUNTIME_ERROR,0,5.00%,0.020,0
+team_building,Qwen3-8B,TIME_LIMIT_EXCEEDED,45,42.86%,1.210,1.90625
+tree_infection,Qwen3-8B,TIME_LIMIT_EXCEEDED,0,1.85%,1.210,29.30859375

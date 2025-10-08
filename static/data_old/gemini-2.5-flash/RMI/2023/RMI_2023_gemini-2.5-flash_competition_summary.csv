@@ -1,0 +1,8 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+Heroes,RUNTIME_ERROR,0,25.53%,0.000,0,,0,0,0,0,0,0,0,0
+Pinball,TIME_LIMIT_EXCEEDED,9,18.75%,3.310,280.76171875,,0,0,0,0,0,0,9,0
+AA_Tree,TIME_LIMIT_EXCEEDED,53,88.24%,0.140,2.328125,,0,19,34,0,0,0,0,0
+Circles,ACCEPTED,100,100.00%,0.710,287.11328125,,0,4,9,14,15,21,37,0
+To_be_xor_not_to_be,RUNTIME_ERROR,6,27.91%,0.040,0,,0,0.0,6,0.0,0.0,0.0,0.0,0
+Statues,TIME_LIMIT_EXCEEDED,46,80.33%,1.110,19.828125,,0,7,10,12,0,17,0,0
+TOTAL,,214,56.79%,,,16.67%,,,,,,,,

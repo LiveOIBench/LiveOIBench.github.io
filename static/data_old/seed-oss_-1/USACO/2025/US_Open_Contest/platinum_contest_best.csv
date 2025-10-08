@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Forklift_Certified,seed-oss_-1,RUNTIME_ERROR,95,25.00%,0.190,4.24609375
+platinum_Lazy_Sort,seed-oss_-1,WRONG_ANSWER,0,6.67%,0.030,0
+platinum_Package_Pickup,seed-oss_-1,MEMORY_LIMIT_EXCEEDED,0,10.00%,0.150,130.46484375

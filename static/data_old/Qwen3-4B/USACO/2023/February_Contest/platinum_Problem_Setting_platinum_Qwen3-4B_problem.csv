@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Problem_Setting_Qwen3-4B_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.420,15.83984375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Problem_Setting_Qwen3-4B_1.cpp,RUNTIME_ERROR,0,0.00%,0.050,6.44921875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Problem_Setting_Qwen3-4B_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.420,16.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Problem_Setting_Qwen3-4B_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.420,9.00390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Problem_Setting_Qwen3-4B_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.430,5.53515625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Problem_Setting_Qwen3-4B_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Problem_Setting_Qwen3-4B_6.cpp,WRONG_ANSWER,0,4.55%,0.020,1.703125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Problem_Setting_Qwen3-4B_7.cpp,RUNTIME_ERROR,0,0.00%,0.240,110.015625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

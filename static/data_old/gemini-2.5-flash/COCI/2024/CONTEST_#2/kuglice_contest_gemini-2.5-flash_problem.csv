@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+kuglice_gemini-2.5-flash_0.cpp,TIME_LIMIT_EXCEEDED,68,89.19%,0.590,35.84375,17,10,26,15,0
+kuglice_gemini-2.5-flash_1.cpp,ACCEPTED,110,100.00%,0.050,35.84765625,17,10,26,15,42
+kuglice_gemini-2.5-flash_2.cpp,ACCEPTED,110,100.00%,0.080,70.13671875,17,10,26,15,42
+kuglice_gemini-2.5-flash_3.cpp,RUNTIME_ERROR,0,1.35%,0.050,0,0,0,0,0,0
+kuglice_gemini-2.5-flash_4.cpp,ACCEPTED,110,100.00%,0.080,45.4453125,17,10,26,15,42
+kuglice_gemini-2.5-flash_5.cpp,ACCEPTED,110,100.00%,0.050,35.84375,17,10,26,15,42
+kuglice_gemini-2.5-flash_6.cpp,ACCEPTED,110,100.00%,0.060,44.55859375,17,10,26,15,42
+kuglice_gemini-2.5-flash_7.cpp,ACCEPTED,110,100.00%,0.060,41.4609375,17,10,26,15,42

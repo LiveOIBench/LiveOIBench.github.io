@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+Colorful_graph_Qwen2.5-Coder-14B-Instruct_0.cpp,RUNTIME_ERROR,0,9.09%,0.120,3.359375,0,0,0,0,0,0,0,0,0
+Colorful_graph_Qwen2.5-Coder-14B-Instruct_1.cpp,RUNTIME_ERROR,0,5.00%,0.100,0.00390625,0,0,0,0,0,0,0,0,0
+Colorful_graph_Qwen2.5-Coder-14B-Instruct_2.cpp,RUNTIME_ERROR,0,9.59%,0.090,2.06640625,0.0,0,0,0,0,0,0,0,0
+Colorful_graph_Qwen2.5-Coder-14B-Instruct_3.cpp,ACCEPTED,100,100.00%,0.130,4.1328125,0.0,10.0,9.0,15.0,16.0,14.0,13.0,12.0,11.0
+Colorful_graph_Qwen2.5-Coder-14B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,14.38%,1.770,3.01171875,0.0,0,0,0,0,0,0,0,0
+Colorful_graph_Qwen2.5-Coder-14B-Instruct_5.cpp,RUNTIME_ERROR,0,5.00%,0.100,2.0703125,0,0,0,0,0,0,0,0,0
+Colorful_graph_Qwen2.5-Coder-14B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,0,14.38%,1.660,3.7734375,0.0,0,0,0,0,0,0,0,0
+Colorful_graph_Qwen2.5-Coder-14B-Instruct_7.cpp,ACCEPTED,100,100.00%,0.140,6.8671875,0.0,10.0,9.0,15.0,16.0,14.0,13.0,12.0,11.0

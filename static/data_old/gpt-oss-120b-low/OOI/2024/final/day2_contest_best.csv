@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Card_Flip,gpt-oss-120b-low,RUNTIME_ERROR,10,22.43%,0.120,6.71484375
+Order_Statistics,gpt-oss-120b-low,RUNTIME_ERROR,18,50.00%,0.740,14.00390625
+Best_Runner,gpt-oss-120b-low,ACCEPTED,100,100.00%,0.090,6.97265625
+Strong_Connectivity_Strikes_Back,gpt-oss-120b-low,ACCEPTED,100,100.00%,0.040,1.8125

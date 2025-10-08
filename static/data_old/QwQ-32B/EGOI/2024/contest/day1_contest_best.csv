@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+bouquet,QwQ-32B,RUNTIME_ERROR,24,50.43%,0.110,3.6171875
+infiniterace,QwQ-32B,RUNTIME_ERROR,0,13.33%,0.090,0.00390625
+teamcoding,QwQ-32B,TIME_LIMIT_EXCEEDED,0,40.34%,4.450,46.921875
+gardendecorations,QwQ-32B,MEMORY_LIMIT_EXCEEDED,0,11.54%,0.710,513.671875

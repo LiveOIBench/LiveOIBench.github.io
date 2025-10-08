@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+zbunjenost_gpt-5_0.cpp,ACCEPTED,120,100.00%,0.200,30.82421875,13,18,34,15,40
+zbunjenost_gpt-5_1.cpp,ACCEPTED,120,100.00%,0.310,75.39453125,13,18,34,15,40
+zbunjenost_gpt-5_2.cpp,ACCEPTED,120,100.00%,0.250,69.20703125,13,18,34,15,40
+zbunjenost_gpt-5_3.cpp,ACCEPTED,120,100.00%,0.290,79.98046875,13,18,34,15,40
+zbunjenost_gpt-5_4.cpp,ACCEPTED,120,100.00%,0.230,61.640625,13,18,34,15,40
+zbunjenost_gpt-5_5.cpp,ACCEPTED,120,100.00%,0.390,95.03515625,13,18,34,15,40
+zbunjenost_gpt-5_6.cpp,RUNTIME_ERROR,0,1.61%,0.250,39.18359375,0,0,0,0,0
+zbunjenost_gpt-5_7.cpp,RUNTIME_ERROR,92,67.74%,0.230,69.2109375,0,18,34,0,40

@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+More_Gifts,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,0,5.61%,0.080,0
+Big_Persimmon,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,12,17.74%,0.680,123.75390625
+Evidence_Board,Qwen3-30B-Non-Thinking,UNKNOWN,0,0.00%,0.000,0
+Draw_Polygon_Lines,Qwen3-30B-Non-Thinking,TIME_LIMIT_EXCEEDED,36,55.60%,2.240,4.37890625

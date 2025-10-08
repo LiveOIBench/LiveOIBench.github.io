@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+sequence,gpt-oss-20b-low,RUNTIME_ERROR,0,16.85%,0.080,31.19140625
+abc,gpt-oss-20b-low,RUNTIME_ERROR,4,16.00%,0.110,12.28125
+cyberland,gpt-oss-20b-low,RUNTIME_ERROR,20,23.17%,0.350,22.69140625

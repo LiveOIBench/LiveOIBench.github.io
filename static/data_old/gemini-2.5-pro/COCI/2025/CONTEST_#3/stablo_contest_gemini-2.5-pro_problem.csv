@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+stablo_gemini-2.5-pro_0.cpp,RUNTIME_ERROR,0,14.71%,0.640,117.89453125,0,0,0,0
+stablo_gemini-2.5-pro_1.cpp,RUNTIME_ERROR,0,14.71%,0.590,110.16015625,0,0,0,0
+stablo_gemini-2.5-pro_2.cpp,ACCEPTED,120,100.00%,0.710,119.69140625,21,37,22,40
+stablo_gemini-2.5-pro_3.cpp,ACCEPTED,120,100.00%,0.650,117.89453125,21,37,22,40
+stablo_gemini-2.5-pro_4.cpp,ACCEPTED,120,100.00%,0.730,117.89453125,21,37,22,40
+stablo_gemini-2.5-pro_5.cpp,ACCEPTED,120,100.00%,0.630,117.89453125,21,37,22,40
+stablo_gemini-2.5-pro_6.cpp,ACCEPTED,120,100.00%,0.670,125.37109375,21,37,22,40
+stablo_gemini-2.5-pro_7.cpp,ACCEPTED,120,100.00%,0.720,117.89453125,21,37,22,40

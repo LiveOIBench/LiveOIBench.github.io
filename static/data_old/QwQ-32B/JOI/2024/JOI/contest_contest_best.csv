@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+2024-ho-t1_Room_Temperature,QwQ-32B,ACCEPTED,100,100.00%,0.350,28.17578125
+2024-ho-t2_Construction_Project_2,QwQ-32B,ACCEPTED,100,100.00%,0.390,45.04296875
+2024-ho-t3_Marathon_Race_2,QwQ-32B,RUNTIME_ERROR,7,58.82%,0.000,0
+2024-ho-t4_Gift_Exchange,QwQ-32B,COMPILATION_ERROR,0,0.00%,0.000,0
+2024-ho-t5_Road_Service_2,QwQ-32B,COMPILATION_ERROR,0,0.00%,0.000,0

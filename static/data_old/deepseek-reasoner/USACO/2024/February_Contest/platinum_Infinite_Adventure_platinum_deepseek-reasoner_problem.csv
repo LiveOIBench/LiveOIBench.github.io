@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Infinite_Adventure_deepseek-reasoner_0.cpp,RUNTIME_ERROR,83,22.22%,0.350,108.80859375,0,0,20.833333333333332,0,0,0,0,0,0,0,0,0,0,0,20.833333333333332,20.833333333333332,20.833333333333332
+platinum_Infinite_Adventure_deepseek-reasoner_1.cpp,TIME_LIMIT_EXCEEDED,21,11.11%,2.300,4.35546875,0,20.833333333333332,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Infinite_Adventure_deepseek-reasoner_2.cpp,RUNTIME_ERROR,83,22.22%,0.360,90.5,0,0,20.833333333333332,0,0,0,0,0,0,0,0,0,0,0,20.833333333333332,20.833333333333332,20.833333333333332
+platinum_Infinite_Adventure_deepseek-reasoner_3.cpp,RUNTIME_ERROR,0,0.00%,0.130,107.01953125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Infinite_Adventure_deepseek-reasoner_4.cpp,RUNTIME_ERROR,83,22.22%,0.390,147.0234375,0,0,20.833333333333332,0,0,0,0,0,0,0,0,0,0,0,20.833333333333332,20.833333333333332,20.833333333333332
+platinum_Infinite_Adventure_deepseek-reasoner_5.cpp,RUNTIME_ERROR,83,22.22%,0.350,108.8046875,0,0,20.833333333333332,0,0,0,0,0,0,0,0,0,0,0,20.833333333333332,20.833333333333332,20.833333333333332
+platinum_Infinite_Adventure_deepseek-reasoner_6.cpp,RUNTIME_ERROR,0,0.00%,0.160,107.01953125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Infinite_Adventure_deepseek-reasoner_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.060,32.3984375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

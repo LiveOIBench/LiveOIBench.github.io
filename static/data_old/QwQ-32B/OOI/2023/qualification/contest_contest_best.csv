@@ -1,0 +1,10 @@
+problem,model,status,score,%test passed,time,memory
+Paired_roads,QwQ-32B,RUNTIME_ERROR,0,12.00%,0.140,16.50390625
+Legs_warm-up_exercise,QwQ-32B,RUNTIME_ERROR,0,0.00%,0.000,0
+Hard_problem,QwQ-32B,ACCEPTED,100,100.00%,0.200,2.07421875
+Yet_another_queries,QwQ-32B,RUNTIME_ERROR,0,7.69%,0.900,73.58203125
+Lunch,QwQ-32B,RUNTIME_ERROR,16,26.80%,0.020,0
+Tournament,QwQ-32B,RUNTIME_ERROR,80,97.15%,0.100,2.2109375
+You_need_to_train_more,QwQ-32B,ACCEPTED,100,100.00%,0.110,3.39453125
+Colorful_graph,QwQ-32B,ACCEPTED,100,100.00%,0.140,7.828125
+Space_accident,QwQ-32B,ACCEPTED,100,100.00%,0.110,2.07421875

@@ -1,0 +1,10 @@
+problem,model,status,score,%test passed,time,memory
+Paired_roads,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,0,5.04%,4.410,161.62890625
+Legs_warm-up_exercise,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,18,52.37%,6.630,22.28515625
+Hard_problem,gemini-2.5-flash,ACCEPTED,100,100.00%,0.120,2.84765625
+Yet_another_queries,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,67,79.87%,1.660,23.46875
+Lunch,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,29,69.44%,2.420,4.49609375
+Tournament,gemini-2.5-flash,RUNTIME_ERROR,80,97.15%,0.000,0
+You_need_to_train_more,gemini-2.5-flash,ACCEPTED,100,100.00%,0.060,3.640625
+Colorful_graph,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,64,91.00%,1.660,174.75
+Space_accident,gemini-2.5-flash,ACCEPTED,100,100.00%,0.050,2.07421875

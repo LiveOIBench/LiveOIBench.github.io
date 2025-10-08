@@ -1,0 +1,13 @@
+problem,model,status,score,%test passed,time,memory
+2023-sp_Two_Currencies,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Festivals_in_JOI_Kingdom_2,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Passport,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,9.43%,0.000,0
+2023-sp_Belt_Conveyor,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Council,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Mizuyokan_2,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,0.00%,0.140,4.70703125
+2023-sp_Chorus,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,6.67%,0.000,0
+2023-sp_Cookies,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,8.89%,0.000,0
+2023-sp_Tourism,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Super_Dango_Maker,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Security_Guard,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Bitaro’s_travel,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

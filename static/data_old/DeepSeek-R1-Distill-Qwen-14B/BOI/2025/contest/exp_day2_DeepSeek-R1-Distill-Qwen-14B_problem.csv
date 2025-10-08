@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+exp_DeepSeek-R1-Distill-Qwen-14B_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+exp_DeepSeek-R1-Distill-Qwen-14B_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+exp_DeepSeek-R1-Distill-Qwen-14B_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+exp_DeepSeek-R1-Distill-Qwen-14B_3.cpp,RUNTIME_ERROR,0,0.00%,0.460,6.96484375,0,0,0,0,0,0
+exp_DeepSeek-R1-Distill-Qwen-14B_4.cpp,RUNTIME_ERROR,0,0.00%,0.070,6.97265625,0,0,0,0,0,0
+exp_DeepSeek-R1-Distill-Qwen-14B_5.cpp,RUNTIME_ERROR,0,0.00%,0.220,9.3984375,0,0,0,0,0,0
+exp_DeepSeek-R1-Distill-Qwen-14B_6.cpp,TIME_LIMIT_EXCEEDED,0,1.34%,1.120,3.62109375,0,0,0,0,0,0
+exp_DeepSeek-R1-Distill-Qwen-14B_7.cpp,TIME_LIMIT_EXCEEDED,0,1.34%,1.150,5.5703125,0,0,0,0,0,0

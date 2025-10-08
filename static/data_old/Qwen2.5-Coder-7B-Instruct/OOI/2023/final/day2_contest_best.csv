@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Burenka_and_Pether,Qwen2.5-Coder-7B-Instruct,UNKNOWN,0,0.00%,0.000,0
+Almost_Certainly,Qwen2.5-Coder-7B-Instruct,UNKNOWN,0,0.00%,0.000,0
+Three_Arrays,Qwen2.5-Coder-7B-Instruct,RUNTIME_ERROR,0,0.00%,0.000,0
+Parallel_Universes,Qwen2.5-Coder-7B-Instruct,UNKNOWN,0,0.00%,0.000,0

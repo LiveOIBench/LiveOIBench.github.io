@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cow_Checkups,DeepSeek-R1-Distill-Llama-70B,MEMORY_LIMIT_EXCEEDED,67,30.43%,0.670,280.76171875
+silver_Farmer_Johns_Favorite_Operation,DeepSeek-R1-Distill-Llama-70B,WRONG_ANSWER,44,18.75%,0.360,3.91015625
+silver_Table_Recovery,DeepSeek-R1-Distill-Llama-70B,MEMORY_LIMIT_EXCEEDED,0,6.67%,0.260,5.1640625

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4
+2023-sp_Belt_Conveyor_Qwen3-32B-Non-Thinking_0.cpp,TIME_LIMIT_EXCEEDED,0,3.23%,0.500,1520.15625,0,0,0,0
+2023-sp_Belt_Conveyor_Qwen3-32B-Non-Thinking_1.cpp,RUNTIME_ERROR,0,0.00%,0.620,46.34765625,0,0,0,0
+2023-sp_Belt_Conveyor_Qwen3-32B-Non-Thinking_2.cpp,RUNTIME_ERROR,0,0.00%,0.060,15.92578125,0,0,0,0
+2023-sp_Belt_Conveyor_Qwen3-32B-Non-Thinking_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.600,252.53515625,0,0,0,0
+2023-sp_Belt_Conveyor_Qwen3-32B-Non-Thinking_4.cpp,RUNTIME_ERROR,1,12.90%,1.070,17.1953125,1,0,0,0
+2023-sp_Belt_Conveyor_Qwen3-32B-Non-Thinking_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.070,10.48828125,0,0,0,0
+2023-sp_Belt_Conveyor_Qwen3-32B-Non-Thinking_6.cpp,RUNTIME_ERROR,0,0.00%,0.060,0,0,0,0,0
+2023-sp_Belt_Conveyor_Qwen3-32B-Non-Thinking_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.060,23.92578125,0,0,0,0

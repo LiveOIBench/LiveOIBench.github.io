@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Logical_Moos,Qwen3-4B,WRONG_ANSWER,0,3.85%,0.080,9.37109375
+bronze_Walking_Along_a_Fence,Qwen3-4B,ACCEPTED,333,100.00%,0.190,7.73828125
+bronze_Farmer_Johns_Favorite_Permutation,Qwen3-4B,WRONG_ANSWER,0,9.09%,0.180,1.84375

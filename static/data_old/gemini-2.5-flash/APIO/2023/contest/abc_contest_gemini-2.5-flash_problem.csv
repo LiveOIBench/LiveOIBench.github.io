@@ -1,0 +1,7 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+abc_gemini-2.5-flash_0.cpp,RUNTIME_ERROR,12,39.29%,0.270,237.21484375,4,4,4,0,0,0,0,0,0
+abc_gemini-2.5-flash_3.cpp,RUNTIME_ERROR,0,0.00%,0.020,5.20703125,0,0,0,0,0,0,0,0,0
+abc_gemini-2.5-flash_4.cpp,RUNTIME_ERROR,36,63.89%,0.280,236.6953125,4,4,4,24,0,0,0,0,0
+abc_gemini-2.5-flash_5.cpp,RUNTIME_ERROR,12,39.29%,0.250,234.50390625,4,4,4,0,0,0,0,0,0
+abc_gemini-2.5-flash_6.cpp,RUNTIME_ERROR,0,0.00%,0.020,5.26953125,0,0,0,0,0,0,0,0,0
+abc_gemini-2.5-flash_7.cpp,RUNTIME_ERROR,12,39.29%,1.750,1722.921875,4,4,4,0,0,0,0,0,0

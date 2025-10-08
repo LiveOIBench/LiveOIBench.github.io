@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+Pinball_Llama-4-Scout_0.cpp,RUNTIME_ERROR,0,0.00%,0.130,20.72265625,0,0,0,0,0,0,0,0
+Pinball_Llama-4-Scout_1.cpp,RUNTIME_ERROR,0,0.00%,0.110,11.05078125,0,0,0,0,0,0,0,0
+Pinball_Llama-4-Scout_2.cpp,RUNTIME_ERROR,0,0.00%,0.100,16.71875,0,0,0,0,0,0,0,0
+Pinball_Llama-4-Scout_3.cpp,RUNTIME_ERROR,0,0.00%,0.100,11.05078125,0,0,0,0,0,0,0,0
+Pinball_Llama-4-Scout_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.610,306.66015625,0,0,0,0,0,0,0,0
+Pinball_Llama-4-Scout_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+Pinball_Llama-4-Scout_6.cpp,RUNTIME_ERROR,0,0.00%,0.110,10.91015625,0,0,0,0,0,0,0,0
+Pinball_Llama-4-Scout_7.cpp,RUNTIME_ERROR,0,0.00%,0.120,16.71875,0,0,0,0,0,0,0,0

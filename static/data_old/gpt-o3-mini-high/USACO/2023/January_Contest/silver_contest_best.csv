@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Find_and_Replace,gpt-o3-mini-high,WRONG_ANSWER,0,6.67%,0.000,0
+silver_Following_Directions,gpt-o3-mini-high,ACCEPTED,333,100.00%,0.080,20.8828125
+silver_Moo_Route,gpt-o3-mini-high,WRONG_ANSWER,56,25.00%,0.040,6.9140625

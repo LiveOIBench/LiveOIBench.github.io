@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+More_Gifts,Qwen3-32B,TIME_LIMIT_EXCEEDED,63,92.16%,1.110,42.2265625
+Big_Persimmon,Qwen3-32B,TIME_LIMIT_EXCEEDED,56,73.47%,2.210,618.7421875
+Evidence_Board,Qwen3-32B,RUNTIME_ERROR,7,10.79%,0.330,34.27734375
+Draw_Polygon_Lines,Qwen3-32B,RUNTIME_ERROR,53,82.19%,0.280,5.4375

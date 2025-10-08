@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+dirigent_Qwen3-4B-Non-Thinking_0.cpp,RUNTIME_ERROR,0,0.00%,0.150,251.43359375,0,0,0
+dirigent_Qwen3-4B-Non-Thinking_1.cpp,RUNTIME_ERROR,0,0.00%,0.150,251.37890625,0,0,0
+dirigent_Qwen3-4B-Non-Thinking_2.cpp,RUNTIME_ERROR,0,0.00%,0.140,251.4375,0,0,0
+dirigent_Qwen3-4B-Non-Thinking_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+dirigent_Qwen3-4B-Non-Thinking_4.cpp,RUNTIME_ERROR,0,0.00%,0.090,1.6171875,0,0,0
+dirigent_Qwen3-4B-Non-Thinking_5.cpp,RUNTIME_ERROR,0,0.00%,0.140,251.37890625,0,0,0
+dirigent_Qwen3-4B-Non-Thinking_6.cpp,TIME_LIMIT_EXCEEDED,35,60.71%,1.110,1.6171875,15,20,0
+dirigent_Qwen3-4B-Non-Thinking_7.cpp,RUNTIME_ERROR,0,0.00%,0.090,1.55859375,0,0,0

@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+five,gpt-4.1,COMPILATION_ERROR,0,0.00%,0.000,0
+game,gpt-4.1,TIME_LIMIT_EXCEEDED,0,10.81%,1.800,6.67578125
+lexgcd,gpt-4.1,TIME_LIMIT_EXCEEDED,0,4.92%,1.810,3.24609375
+ones,gpt-4.1,WRONG_ANSWER,20,0.00%,0.170,1.953125
+travel,gpt-4.1,RUNTIME_ERROR,0,4.76%,1.030,443.88671875

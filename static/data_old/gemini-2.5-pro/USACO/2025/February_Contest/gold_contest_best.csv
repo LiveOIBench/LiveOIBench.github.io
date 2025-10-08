@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Bessies_Function,gemini-2.5-pro,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_The_Best_Subsequence,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,20,20.00%,2.280,22.01953125
+gold_Friendship_Editing,gemini-2.5-pro,WRONG_ANSWER,200,66.67%,0.180,0.00390625

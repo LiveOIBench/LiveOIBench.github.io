@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+cern,Qwen2.5-Coder-32B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+koreografija,Qwen2.5-Coder-32B-Instruct,UNKNOWN,0,0.00%,0.000,0
+ministarstvo,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,1.75%,0.090,5.1640625
+sirologija,Qwen2.5-Coder-32B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

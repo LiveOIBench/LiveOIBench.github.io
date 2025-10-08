@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+opening_offices_deepseek-chat_0.cpp,MEMORY_LIMIT_EXCEEDED,0,6.56%,0.870,2197.484375,0,0,0,0,0,0,0,0,0,0,0
+opening_offices_deepseek-chat_1.cpp,TIME_LIMIT_EXCEEDED,0,4.92%,1.140,102.35546875,0,0,0,0,0,0,0,0,0,0,0
+opening_offices_deepseek-chat_2.cpp,TIME_LIMIT_EXCEEDED,14,21.31%,1.110,205.4765625,0,0,0,0,0,0,0,0,14,0,0
+opening_offices_deepseek-chat_3.cpp,TIME_LIMIT_EXCEEDED,0,4.92%,1.130,18.0,0,0,0,0,0,0,0,0,0,0,0
+opening_offices_deepseek-chat_4.cpp,TIME_LIMIT_EXCEEDED,18,32.79%,1.160,42.26171875,0,4,0,0,0,0,0,0,14,0,0
+opening_offices_deepseek-chat_5.cpp,RUNTIME_ERROR,0,9.84%,0.050,20.37109375,0,0,0,0,0,0,0,0,0,0,0
+opening_offices_deepseek-chat_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+opening_offices_deepseek-chat_7.cpp,TIME_LIMIT_EXCEEDED,0,4.92%,1.120,59.58984375,0,0,0,0,0,0,0,0,0,0,0

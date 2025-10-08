@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+ppp_Codestral-22B-v0.1_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.320,3.62109375,0,0,0,0,0,0,0
+ppp_Codestral-22B-v0.1_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+ppp_Codestral-22B-v0.1_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.390,18.0546875,0,0,0,0,0,0,0
+ppp_Codestral-22B-v0.1_3.cpp,RUNTIME_ERROR,0,0.00%,0.110,10.64453125,0,0,0,0,0,0,0
+ppp_Codestral-22B-v0.1_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.320,5.98828125,0,0,0,0,0,0,0
+ppp_Codestral-22B-v0.1_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+ppp_Codestral-22B-v0.1_6.cpp,RUNTIME_ERROR,0,0.00%,0.120,5.22265625,0,0,0,0,0,0,0
+ppp_Codestral-22B-v0.1_7.cpp,RUNTIME_ERROR,0,0.00%,0.140,10.890625,0,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_All_Pairs_Similarity,gpt-4.1,TIME_LIMIT_EXCEEDED,48,20.00%,2.250,84.40625
+platinum_Its_Mooin_Time,gpt-4.1,MEMORY_LIMIT_EXCEEDED,48,33.33%,0.240,266.58984375
+platinum_Maximize_Minimum_Difference,gpt-4.1,TIME_LIMIT_EXCEEDED,0,15.00%,4.470,1.55078125

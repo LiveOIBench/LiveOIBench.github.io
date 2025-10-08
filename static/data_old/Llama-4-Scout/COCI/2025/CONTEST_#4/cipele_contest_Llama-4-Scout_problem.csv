@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+cipele_Llama-4-Scout_0.cpp,RUNTIME_ERROR,0,0.00%,0.020,2.6484375,0,0,0,0,0
+cipele_Llama-4-Scout_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+cipele_Llama-4-Scout_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+cipele_Llama-4-Scout_3.cpp,RUNTIME_ERROR,0,0.00%,0.050,3.12890625,0,0,0,0,0
+cipele_Llama-4-Scout_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+cipele_Llama-4-Scout_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.410,5.36328125,0,0,0,0,0
+cipele_Llama-4-Scout_6.cpp,RUNTIME_ERROR,0,0.00%,0.050,3.1328125,0,0,0,0,0
+cipele_Llama-4-Scout_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.020,3.10546875,0,0,0,0,0

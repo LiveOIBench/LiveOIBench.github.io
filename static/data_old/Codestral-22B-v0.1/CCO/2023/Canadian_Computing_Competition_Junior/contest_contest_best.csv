@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+j1,Codestral-22B-v0.1,ACCEPTED,15,100.00%,0.000,0
+j2,Codestral-22B-v0.1,ACCEPTED,15,100.00%,0.000,0
+j3,Codestral-22B-v0.1,ACCEPTED,15,100.00%,0.000,0
+s1j4,Codestral-22B-v0.1,RUNTIME_ERROR,6,47.50%,0.040,0
+j5,Codestral-22B-v0.1,RUNTIME_ERROR,2,27.78%,0.040,0

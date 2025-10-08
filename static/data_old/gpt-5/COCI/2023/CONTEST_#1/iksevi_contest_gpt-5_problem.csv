@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+iksevi_gpt-5_0.cpp,RUNTIME_ERROR,15,33.33%,0.290,44.03515625,15,0,0
+iksevi_gpt-5_1.cpp,ACCEPTED,110,100.00%,0.250,45.96875,15,55,40
+iksevi_gpt-5_2.cpp,ACCEPTED,110,100.00%,0.220,44.97265625,15,55,40
+iksevi_gpt-5_3.cpp,ACCEPTED,110,100.00%,0.360,42.2421875,15,55,40
+iksevi_gpt-5_4.cpp,ACCEPTED,110,100.00%,0.400,41.9765625,15,55,40
+iksevi_gpt-5_5.cpp,ACCEPTED,110,100.00%,0.470,41.9765625,15,55,40
+iksevi_gpt-5_6.cpp,ACCEPTED,110,100.00%,0.340,43.26171875,15,55,40
+iksevi_gpt-5_7.cpp,ACCEPTED,110,100.00%,0.280,44.03515625,15,55,40

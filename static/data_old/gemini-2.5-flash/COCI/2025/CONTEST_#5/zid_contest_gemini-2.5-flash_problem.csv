@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+zid_gemini-2.5-flash_0.cpp,TIME_LIMIT_EXCEEDED,38,97.22%,1.110,5.47265625,17,21,0
+zid_gemini-2.5-flash_1.cpp,TIME_LIMIT_EXCEEDED,38,66.67%,1.110,5.41796875,17,21,0
+zid_gemini-2.5-flash_2.cpp,RUNTIME_ERROR,0,2.78%,0.280,2.5859375,0,0,0
+zid_gemini-2.5-flash_3.cpp,ACCEPTED,70,100.00%,0.280,2.5859375,17,21,32
+zid_gemini-2.5-flash_4.cpp,ACCEPTED,70,100.00%,0.300,2.5859375,17,21,32
+zid_gemini-2.5-flash_5.cpp,RUNTIME_ERROR,0,0.00%,0.850,4.69921875,0,0,0
+zid_gemini-2.5-flash_6.cpp,ACCEPTED,70,100.00%,0.280,2.5859375,17,21,32
+zid_gemini-2.5-flash_7.cpp,RUNTIME_ERROR,0,0.00%,0.020,1.546875,0,0,0

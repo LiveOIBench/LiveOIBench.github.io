@@ -1,0 +1,13 @@
+problem,model,status,score,%test passed,time,memory
+2023-sp_Two_Currencies,gemini-2.5-flash,ACCEPTED,100,100.00%,0.510,112.921875
+2023-sp_Festivals_in_JOI_Kingdom_2,gemini-2.5-flash,RUNTIME_ERROR,0,40.00%,0.040,0
+2023-sp_Passport,gemini-2.5-flash,RUNTIME_ERROR,6,47.14%,0.080,26.953125
+2023-sp_Belt_Conveyor,gemini-2.5-flash,RUNTIME_ERROR,1,12.90%,0.370,11.7109375
+2023-sp_Council,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,41,90.46%,3.600,4.12890625
+2023-sp_Mizuyokan_2,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,6,51.72%,3.330,44.34375
+2023-sp_Chorus,gemini-2.5-flash,RUNTIME_ERROR,0,0.00%,0.000,0
+2023-sp_Cookies,gemini-2.5-flash,RUNTIME_ERROR,13,71.59%,0.180,84.20703125
+2023-sp_Tourism,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,35,88.28%,4.430,26.71484375
+2023-sp_Super_Dango_Maker,gemini-2.5-flash,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Security_Guard,gemini-2.5-flash,RUNTIME_ERROR,0,5.95%,0.070,5.9375
+2023-sp_Bitaro’s_travel,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,15,77.88%,2.210,13.66796875

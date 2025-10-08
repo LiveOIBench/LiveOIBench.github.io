@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+crtez_Qwen2.5-72B_0.cpp,RUNTIME_ERROR,0,0.00%,0.190,2.84765625,0,0,0
+crtez_Qwen2.5-72B_1.cpp,RUNTIME_ERROR,0,0.00%,0.160,2.07421875,0,0,0
+crtez_Qwen2.5-72B_2.cpp,RUNTIME_ERROR,0,0.00%,0.090,2.07421875,0,0,0
+crtez_Qwen2.5-72B_3.cpp,RUNTIME_ERROR,0,0.00%,0.100,3.62109375,0,0,0
+crtez_Qwen2.5-72B_4.cpp,RUNTIME_ERROR,0,0.00%,0.190,2.07421875,0,0,0
+crtez_Qwen2.5-72B_5.cpp,RUNTIME_ERROR,0,0.00%,0.190,2.07421875,0,0,0
+crtez_Qwen2.5-72B_6.cpp,RUNTIME_ERROR,0,0.00%,0.200,2.84765625,0,0,0
+crtez_Qwen2.5-72B_7.cpp,RUNTIME_ERROR,0,0.00%,0.180,2.84765625,0,0,0

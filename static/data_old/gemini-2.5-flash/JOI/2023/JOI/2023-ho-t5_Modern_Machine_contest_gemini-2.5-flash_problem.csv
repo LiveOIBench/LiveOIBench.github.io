@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+2023-ho-t5_Modern_Machine_gemini-2.5-flash_0.cpp,TIME_LIMIT_EXCEEDED,0,25.61%,2.780,1.81640625,0,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_gemini-2.5-flash_1.cpp,TIME_LIMIT_EXCEEDED,3,45.36%,2.760,1.81640625,3,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_gemini-2.5-flash_2.cpp,TIME_LIMIT_EXCEEDED,3,45.36%,2.760,1.81640625,3,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_gemini-2.5-flash_3.cpp,TIME_LIMIT_EXCEEDED,3,45.36%,2.770,1.81640625,3,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_gemini-2.5-flash_4.cpp,TIME_LIMIT_EXCEEDED,3,45.36%,2.760,2.84765625,3,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_gemini-2.5-flash_5.cpp,TIME_LIMIT_EXCEEDED,3,45.36%,2.770,1.81640625,3,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_gemini-2.5-flash_6.cpp,RUNTIME_ERROR,0,7.25%,0.420,4.1328125,0,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_gemini-2.5-flash_7.cpp,TIME_LIMIT_EXCEEDED,3,45.36%,2.780,1.81640625,3,0,0,0,0,0,0

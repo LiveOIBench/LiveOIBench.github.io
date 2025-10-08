@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Election_Queries_Qwen2.5-Coder-7B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.400,3.62109375,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Election_Queries_Qwen2.5-Coder-7B-Instruct_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Election_Queries_Qwen2.5-Coder-7B-Instruct_2.cpp,RUNTIME_ERROR,0,0.00%,0.250,5.33203125,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Election_Queries_Qwen2.5-Coder-7B-Instruct_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Election_Queries_Qwen2.5-Coder-7B-Instruct_4.cpp,RUNTIME_ERROR,0,0.00%,1.080,11.34765625,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Election_Queries_Qwen2.5-Coder-7B-Instruct_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Election_Queries_Qwen2.5-Coder-7B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.400,3.6171875,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Election_Queries_Qwen2.5-Coder-7B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.450,18.2578125,0,0,0,0,0,0,0,0,0,0,0,0,0,0

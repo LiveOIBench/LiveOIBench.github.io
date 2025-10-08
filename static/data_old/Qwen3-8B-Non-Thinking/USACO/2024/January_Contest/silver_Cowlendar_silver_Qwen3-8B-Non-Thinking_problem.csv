@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Cowlendar_Qwen3-8B-Non-Thinking_0.cpp,TIME_LIMIT_EXCEEDED,0,14.29%,2.280,146.71484375,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Cowlendar_Qwen3-8B-Non-Thinking_1.cpp,RUNTIME_ERROR,0,0.00%,0.130,2.5859375,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Cowlendar_Qwen3-8B-Non-Thinking_2.cpp,TIME_LIMIT_EXCEEDED,139,35.71%,2.210,14.18359375,0,0,0,27.777777777777775,27.777777777777775,0,0,27.777777777777775,27.777777777777775,0,27.777777777777775,0,0
+silver_Cowlendar_Qwen3-8B-Non-Thinking_3.cpp,TIME_LIMIT_EXCEEDED,28,21.43%,2.260,2.32421875,0,0,0,0,0,27.777777777777775,0,0,0,0,0,0,0
+silver_Cowlendar_Qwen3-8B-Non-Thinking_4.cpp,TIME_LIMIT_EXCEEDED,0,7.14%,2.270,28.62109375,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Cowlendar_Qwen3-8B-Non-Thinking_5.cpp,MEMORY_LIMIT_EXCEEDED,0,14.29%,0.210,129.67578125,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Cowlendar_Qwen3-8B-Non-Thinking_6.cpp,TIME_LIMIT_EXCEEDED,0,14.29%,2.310,2.3125,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Cowlendar_Qwen3-8B-Non-Thinking_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.280,27.8515625,0,0,0,0,0,0,0,0,0,0,0,0,0

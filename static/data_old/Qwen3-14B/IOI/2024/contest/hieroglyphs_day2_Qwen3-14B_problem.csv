@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+hieroglyphs_Qwen3-14B_0.cpp,RUNTIME_ERROR,3,6.99%,0.090,24.1328125,0,3,0,0,0,0,0
+hieroglyphs_Qwen3-14B_1.cpp,MEMORY_LIMIT_EXCEEDED,0,4.42%,0.910,2252.26171875,0,0,0,0,0,0,0
+hieroglyphs_Qwen3-14B_2.cpp,MEMORY_LIMIT_EXCEEDED,0,6.99%,0.870,2252.26171875,0,0,0,0,0,0,0
+hieroglyphs_Qwen3-14B_3.cpp,RUNTIME_ERROR,0,4.02%,0.120,10.5234375,0,0,0,0,0,0,0
+hieroglyphs_Qwen3-14B_4.cpp,RUNTIME_ERROR,3,6.99%,0.050,5.6015625,0,3,0,0,0,0,0
+hieroglyphs_Qwen3-14B_5.cpp,MEMORY_LIMIT_EXCEEDED,0,4.42%,0.860,2238.07421875,0,0,0,0,0,0,0
+hieroglyphs_Qwen3-14B_6.cpp,RUNTIME_ERROR,0,4.42%,0.050,35.37890625,0,0,0,0,0,0,0
+hieroglyphs_Qwen3-14B_7.cpp,RUNTIME_ERROR,0,3.96%,0.040,35.83984375,0,0,0,0,0,0,0

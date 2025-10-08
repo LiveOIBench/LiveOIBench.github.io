@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+2025-ho-t1_Grid_Coloring_gpt-o3-mini-high_0.cpp,TIME_LIMIT_EXCEEDED,0,15.46%,2.270,27.25390625,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_gpt-o3-mini-high_1.cpp,ACCEPTED,100,100.00%,0.330,26.64453125,15,10,20,25,30
+2025-ho-t1_Grid_Coloring_gpt-o3-mini-high_2.cpp,ACCEPTED,100,100.00%,0.460,59.12890625,15,10,20,25,30
+2025-ho-t1_Grid_Coloring_gpt-o3-mini-high_3.cpp,ACCEPTED,100,100.00%,0.260,25.7890625,15,10,20,25,30
+2025-ho-t1_Grid_Coloring_gpt-o3-mini-high_4.cpp,ACCEPTED,100,100.00%,0.280,26.09375,15,10,20,25,30
+2025-ho-t1_Grid_Coloring_gpt-o3-mini-high_5.cpp,ACCEPTED,100,100.00%,0.260,30.40625,15,10,20,25,30
+2025-ho-t1_Grid_Coloring_gpt-o3-mini-high_6.cpp,RUNTIME_ERROR,0,30.56%,0.370,64.09375,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_gpt-o3-mini-high_7.cpp,ACCEPTED,100,100.00%,0.310,25.7890625,15,10,20,25,30

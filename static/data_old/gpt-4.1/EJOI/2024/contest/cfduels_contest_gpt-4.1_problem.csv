@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+cfduels_gpt-4.1_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+cfduels_gpt-4.1_1.cpp,RUNTIME_ERROR,0,22.22%,0.100,2.94921875,0,0,0,0,0,0,0
+cfduels_gpt-4.1_2.cpp,RUNTIME_ERROR,0,20.99%,0.090,2.3203125,0,0,0,0,0,0,0
+cfduels_gpt-4.1_3.cpp,RUNTIME_ERROR,0,1.32%,0.000,0,0,0,0,0,0,0,0
+cfduels_gpt-4.1_4.cpp,RUNTIME_ERROR,42,73.79%,0.320,7.77734375,0,12,16,14,0,0,0
+cfduels_gpt-4.1_5.cpp,RUNTIME_ERROR,46,68.97%,0.280,7.6015625,0,12,16,0,18,0,0
+cfduels_gpt-4.1_6.cpp,RUNTIME_ERROR,28,57.84%,0.100,7.2265625,0,12,16,0,0,0,0
+cfduels_gpt-4.1_7.cpp,RUNTIME_ERROR,46,68.97%,0.240,5.3671875,0,12,16,0,18,0,0

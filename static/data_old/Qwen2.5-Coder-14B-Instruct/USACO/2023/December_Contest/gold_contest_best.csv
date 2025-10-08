@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Flight_Routes,Qwen2.5-Coder-14B-Instruct,TIME_LIMIT_EXCEEDED,17,9.09%,2.410,12.109375
+gold_Minimum_Longest_Trip,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,42,15.00%,0.270,20.89453125
+gold_Haybale_Distribution,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

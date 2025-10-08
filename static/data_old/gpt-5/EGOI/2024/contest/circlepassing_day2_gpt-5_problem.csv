@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+circlepassing_gpt-5_0.cpp,ACCEPTED,100,100.00%,0.070,24.24609375,0,14,20,22,17,27
+circlepassing_gpt-5_1.cpp,ACCEPTED,100,100.00%,0.140,28.109375,0,14,20,22,17,27
+circlepassing_gpt-5_2.cpp,RUNTIME_ERROR,0,5.13%,0.070,1.5,0,0,0,0,0,0
+circlepassing_gpt-5_3.cpp,ACCEPTED,100,100.00%,0.130,28.109375,0,14,20,22,17,27
+circlepassing_gpt-5_4.cpp,RUNTIME_ERROR,14,33.70%,0.070,0.00390625,0,14,0,0,0,0
+circlepassing_gpt-5_5.cpp,RUNTIME_ERROR,14,35.87%,0.070,0.00390625,0,14,0,0,0,0
+circlepassing_gpt-5_6.cpp,ACCEPTED,100,100.00%,0.100,3.359375,0,14,20,22,17,27
+circlepassing_gpt-5_7.cpp,RUNTIME_ERROR,14,38.30%,0.070,0.00390625,0,14,0,0,0,0

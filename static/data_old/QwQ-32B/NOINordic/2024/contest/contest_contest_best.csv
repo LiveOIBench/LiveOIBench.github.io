@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+chairgame,QwQ-32B,RUNTIME_ERROR,9,36.96%,0.130,0.00390625
+thinice,QwQ-32B,RUNTIME_ERROR,0,22.03%,0.150,3.87109375
+animeshops,QwQ-32B,TIME_LIMIT_EXCEEDED,0,35.00%,1.110,8.65234375

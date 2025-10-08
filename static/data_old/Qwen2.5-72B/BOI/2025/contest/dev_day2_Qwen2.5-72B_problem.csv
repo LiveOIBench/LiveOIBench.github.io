@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+dev_Qwen2.5-72B_0.cpp,RUNTIME_ERROR,0,1.10%,0.040,0.00390625,0,0,0,0,0,0,0
+dev_Qwen2.5-72B_1.cpp,RUNTIME_ERROR,0,1.10%,0.180,1.55859375,0,0,0,0,0,0,0
+dev_Qwen2.5-72B_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+dev_Qwen2.5-72B_3.cpp,RUNTIME_ERROR,0,1.10%,0.030,0.00390625,0,0,0,0,0,0,0
+dev_Qwen2.5-72B_4.cpp,RUNTIME_ERROR,0,1.10%,0.030,0.00390625,0,0,0,0,0,0,0
+dev_Qwen2.5-72B_5.cpp,RUNTIME_ERROR,0,1.10%,0.030,0.00390625,0,0,0,0,0,0,0
+dev_Qwen2.5-72B_6.cpp,RUNTIME_ERROR,0,1.10%,0.030,0.00390625,0,0,0,0,0,0,0
+dev_Qwen2.5-72B_7.cpp,RUNTIME_ERROR,0,1.10%,0.320,1.55859375,0,0,0,0,0,0,0

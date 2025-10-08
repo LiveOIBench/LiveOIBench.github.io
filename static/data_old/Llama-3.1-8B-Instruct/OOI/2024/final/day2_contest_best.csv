@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Card_Flip,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,17.59%,0.410,16.5078125
+Order_Statistics,Llama-3.1-8B-Instruct,UNKNOWN,0,0.00%,0.000,0
+Best_Runner,Llama-3.1-8B-Instruct,RUNTIME_ERROR,11,4.67%,0.130,3.62109375
+Strong_Connectivity_Strikes_Back,Llama-3.1-8B-Instruct,RUNTIME_ERROR,66,57.26%,0.100,1.55078125

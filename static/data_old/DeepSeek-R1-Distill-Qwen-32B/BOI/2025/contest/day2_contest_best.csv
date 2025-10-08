@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+dev,DeepSeek-R1-Distill-Qwen-32B,RUNTIME_ERROR,0,1.10%,0.030,0.00390625
+exp,DeepSeek-R1-Distill-Qwen-32B,RUNTIME_ERROR,0,2.01%,0.450,26.640625
+gcd,DeepSeek-R1-Distill-Qwen-32B,RUNTIME_ERROR,0,3.28%,0.000,0

@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+fire_gemini-2.5-flash_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+fire_gemini-2.5-flash_1.cpp,TIME_LIMIT_EXCEEDED,0,28.74%,1.140,10.69921875,0,0,0,0,0,0
+fire_gemini-2.5-flash_2.cpp,RUNTIME_ERROR,0,69.72%,0.080,15.1796875,0,0,0,0,0,0
+fire_gemini-2.5-flash_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+fire_gemini-2.5-flash_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+fire_gemini-2.5-flash_6.cpp,TIME_LIMIT_EXCEEDED,0,28.74%,1.110,7.67578125,0,0,0,0,0,0
+fire_gemini-2.5-flash_7.cpp,RUNTIME_ERROR,0,44.64%,0.070,7.67578125,0,0,0,0,0,0

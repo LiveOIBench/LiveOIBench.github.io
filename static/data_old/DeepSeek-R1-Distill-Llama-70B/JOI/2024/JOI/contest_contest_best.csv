@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+2024-ho-t1_Room_Temperature,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,100,100.00%,0.200,2.78125
+2024-ho-t2_Construction_Project_2,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,8,31.48%,0.260,22.96875
+2024-ho-t3_Marathon_Race_2,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,7,58.82%,0.000,0
+2024-ho-t4_Gift_Exchange,DeepSeek-R1-Distill-Llama-70B,COMPILATION_ERROR,0,0.00%,0.000,0
+2024-ho-t5_Road_Service_2,DeepSeek-R1-Distill-Llama-70B,COMPILATION_ERROR,0,0.00%,0.000,0

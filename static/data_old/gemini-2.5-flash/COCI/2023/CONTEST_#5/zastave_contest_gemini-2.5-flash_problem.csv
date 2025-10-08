@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+zastave_gemini-2.5-flash_0.cpp,ACCEPTED,110,100.00%,0.110,2.84765625,41,22,47
+zastave_gemini-2.5-flash_1.cpp,ACCEPTED,110,100.00%,0.110,1.81640625,41,22,47
+zastave_gemini-2.5-flash_2.cpp,ACCEPTED,110,100.00%,0.180,1.81640625,41,22,47
+zastave_gemini-2.5-flash_3.cpp,RUNTIME_ERROR,0,23.81%,0.090,2.84765625,0,0,0
+zastave_gemini-2.5-flash_4.cpp,ACCEPTED,110,100.00%,0.160,1.81640625,41,22,47
+zastave_gemini-2.5-flash_5.cpp,ACCEPTED,110,100.00%,0.110,2.07421875,41,22,47
+zastave_gemini-2.5-flash_6.cpp,ACCEPTED,110,100.00%,0.180,2.84765625,41,22,47
+zastave_gemini-2.5-flash_7.cpp,ACCEPTED,110,100.00%,0.190,2.90625,41,22,47

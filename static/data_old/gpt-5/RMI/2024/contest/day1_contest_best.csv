@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Choose_Interval,gpt-5,ACCEPTED,100,100.00%,1.220,13.88671875
+Skittlez,gpt-5,ACCEPTED,100,100.00%,0.530,84.93359375
+Octagon,gpt-5,TIME_LIMIT_EXCEEDED,55,86.59%,2.410,6.45703125

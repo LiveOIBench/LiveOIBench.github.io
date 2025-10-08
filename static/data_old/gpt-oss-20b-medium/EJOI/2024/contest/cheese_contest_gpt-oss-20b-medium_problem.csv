@@ -1,0 +1,6 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+cheese_gpt-oss-20b-medium_0.cpp,RUNTIME_ERROR,19,46.15%,0.230,9.03515625,0,0,8,11,0,0,0
+cheese_gpt-oss-20b-medium_1.cpp,RUNTIME_ERROR,8,30.77%,0.170,6.96875,0,0,8,0,0,0,0
+cheese_gpt-oss-20b-medium_3.cpp,RUNTIME_ERROR,8,20.51%,0.360,102.7265625,0,0,8,0,0,0,0
+cheese_gpt-oss-20b-medium_4.cpp,RUNTIME_ERROR,0,12.82%,0.140,9.03125,0,0,0,0,0,0,0
+cheese_gpt-oss-20b-medium_6.cpp,RUNTIME_ERROR,11,23.08%,0.390,67.8203125,0,0,0,11,0,0,0

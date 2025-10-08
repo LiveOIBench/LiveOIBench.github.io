@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+More_Gifts_gemini-2.5-pro_0.cpp,ACCEPTED,100,100.00%,0.460,315.30859375,0.0,14.0,12.0,16.0,21.0,18.0,19.0
+More_Gifts_gemini-2.5-pro_1.cpp,RUNTIME_ERROR,26,59.77%,0.170,3.6171875,0.0,14.0,12.0,0,0,0,0
+More_Gifts_gemini-2.5-pro_2.cpp,RUNTIME_ERROR,26,59.77%,0.150,3.359375,0.0,14.0,12.0,0,0,0,0
+More_Gifts_gemini-2.5-pro_3.cpp,TIME_LIMIT_EXCEEDED,63,92.16%,1.150,21.66796875,0.0,14.0,12.0,16.0,21.0,0,0
+More_Gifts_gemini-2.5-pro_4.cpp,ACCEPTED,100,100.00%,0.740,304.73828125,0.0,14.0,12.0,16.0,21.0,18.0,19.0
+More_Gifts_gemini-2.5-pro_5.cpp,RUNTIME_ERROR,26,59.77%,0.210,14.6015625,0.0,14.0,12.0,0,0,0,0
+More_Gifts_gemini-2.5-pro_6.cpp,ACCEPTED,100,100.00%,0.670,313.9375,0.0,14.0,12.0,16.0,21.0,18.0,19.0
+More_Gifts_gemini-2.5-pro_7.cpp,RUNTIME_ERROR,0,9.35%,0.090,2.32421875,0,0,0,0,0,0,0

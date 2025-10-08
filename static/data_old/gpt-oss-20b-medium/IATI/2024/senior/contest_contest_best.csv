@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+five,gpt-oss-20b-medium,TIME_LIMIT_EXCEEDED,62,75.00%,0.850,20.4296875
+game,gpt-oss-20b-medium,UNKNOWN,0,0.00%,0.000,0
+lexgcd,gpt-oss-20b-medium,TIME_LIMIT_EXCEEDED,6,11.38%,1.800,14.40625
+ones,gpt-oss-20b-medium,WRONG_ANSWER,25,0.00%,0.120,1.94921875
+travel,gpt-oss-20b-medium,TIME_LIMIT_EXCEEDED,20,29.41%,1.210,33.78515625

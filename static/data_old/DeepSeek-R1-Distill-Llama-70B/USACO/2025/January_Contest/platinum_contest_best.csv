@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_DFS_Order,DeepSeek-R1-Distill-Llama-70B,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Shock_Wave,DeepSeek-R1-Distill-Llama-70B,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Watering_the_Plants,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,0,10.53%,2.350,7.43359375

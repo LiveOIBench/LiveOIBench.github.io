@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Card_Flip,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,16.82%,0.420,14.92578125
+Order_Statistics,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,4,47.45%,4.420,4.68359375
+Best_Runner,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,35,25.89%,0.280,27.6640625
+Strong_Connectivity_Strikes_Back,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,100,100.00%,0.100,1.5546875

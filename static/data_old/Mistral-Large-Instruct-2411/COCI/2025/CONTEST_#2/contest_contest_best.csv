@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+paradoks,Mistral-Large-Instruct-2411,RUNTIME_ERROR,0,7.69%,0.000,0
+igre,Mistral-Large-Instruct-2411,RUNTIME_ERROR,6,12.24%,0.070,0.00390625
+razlicitost,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,25,37.21%,2.330,4.39453125
+blistavost,Mistral-Large-Instruct-2411,RUNTIME_ERROR,0,3.28%,0.070,1.5546875
+trokuti,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Island_Vacation,QwQ-32B,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Merging_Cells,QwQ-32B,RUNTIME_ERROR,0,9.09%,0.110,2.0703125
+platinum_Mooball_Teams_III,QwQ-32B,RUNTIME_ERROR,0,4.17%,0.170,9.8046875

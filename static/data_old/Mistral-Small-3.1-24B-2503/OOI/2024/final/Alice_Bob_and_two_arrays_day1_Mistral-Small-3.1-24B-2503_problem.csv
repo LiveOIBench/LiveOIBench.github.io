@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Alice_Bob_and_two_arrays_Mistral-Small-3.1-24B-2503_0.cpp,TIME_LIMIT_EXCEEDED,25,51.70%,2.850,10.58203125,0.0,13.0,0,0,12.0,0,0,0,0,0,0,0
+Alice_Bob_and_two_arrays_Mistral-Small-3.1-24B-2503_1.cpp,ACCEPTED,100,100.00%,2.720,0.00390625,0.0,13.0,10.0,7.0,12.0,11.0,8.0,10.0,7.0,6.0,7.0,9.0
+Alice_Bob_and_two_arrays_Mistral-Small-3.1-24B-2503_2.cpp,ACCEPTED,100,100.00%,2.240,9.03515625,0.0,13.0,10.0,7.0,12.0,11.0,8.0,10.0,7.0,6.0,7.0,9.0
+Alice_Bob_and_two_arrays_Mistral-Small-3.1-24B-2503_3.cpp,ACCEPTED,100,100.00%,1.990,0.00390625,0.0,13.0,10.0,7.0,12.0,11.0,8.0,10.0,7.0,6.0,7.0,9.0
+Alice_Bob_and_two_arrays_Mistral-Small-3.1-24B-2503_4.cpp,TIME_LIMIT_EXCEEDED,93,96.95%,2.800,9.03515625,0.0,13.0,10.0,0,12.0,11.0,8.0,10.0,7.0,6.0,7.0,9.0
+Alice_Bob_and_two_arrays_Mistral-Small-3.1-24B-2503_5.cpp,TIME_LIMIT_EXCEEDED,93,97.80%,2.760,0.00390625,0.0,13.0,10.0,0,12.0,11.0,8.0,10.0,7.0,6.0,7.0,9.0
+Alice_Bob_and_two_arrays_Mistral-Small-3.1-24B-2503_6.cpp,TIME_LIMIT_EXCEEDED,52,78.53%,2.770,1.55078125,0.0,13.0,0,0,0,0,0,10.0,7.0,6.0,7.0,9.0
+Alice_Bob_and_two_arrays_Mistral-Small-3.1-24B-2503_7.cpp,TIME_LIMIT_EXCEEDED,93,96.79%,2.760,0.00390625,0.0,13.0,10.0,0,12.0,11.0,8.0,10.0,7.0,6.0,7.0,9.0

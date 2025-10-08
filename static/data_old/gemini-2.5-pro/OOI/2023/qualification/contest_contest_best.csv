@@ -1,0 +1,10 @@
+problem,model,status,score,%test passed,time,memory
+Paired_roads,gemini-2.5-pro,RUNTIME_ERROR,0,12.00%,0.140,38.984375
+Legs_warm-up_exercise,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,10,36.86%,6.710,18.93359375
+Hard_problem,gemini-2.5-pro,ACCEPTED,100,100.00%,0.170,2.90625
+Yet_another_queries,gemini-2.5-pro,ACCEPTED,100,100.00%,1.340,73.54296875
+Lunch,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,29,69.44%,2.410,17.01953125
+Tournament,gemini-2.5-pro,MEMORY_LIMIT_EXCEEDED,80,97.15%,0.040,0.00390625
+You_need_to_train_more,gemini-2.5-pro,ACCEPTED,100,100.00%,0.050,4.39453125
+Colorful_graph,gemini-2.5-pro,MEMORY_LIMIT_EXCEEDED,64,89.01%,1.360,217.703125
+Space_accident,gemini-2.5-pro,ACCEPTED,100,100.00%,0.060,2.1328125

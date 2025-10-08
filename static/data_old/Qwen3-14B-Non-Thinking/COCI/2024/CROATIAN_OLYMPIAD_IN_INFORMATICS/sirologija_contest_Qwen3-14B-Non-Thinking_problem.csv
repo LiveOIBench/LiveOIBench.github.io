@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+sirologija_Qwen3-14B-Non-Thinking_0.cpp,RUNTIME_ERROR,0,0.00%,0.070,32.4921875,0,0,0,0,0,0
+sirologija_Qwen3-14B-Non-Thinking_1.cpp,RUNTIME_ERROR,0,0.00%,0.100,7.9453125,0,0,0,0,0,0
+sirologija_Qwen3-14B-Non-Thinking_2.cpp,RUNTIME_ERROR,0,0.00%,0.070,9.546875,0,0,0,0,0,0
+sirologija_Qwen3-14B-Non-Thinking_3.cpp,RUNTIME_ERROR,0,0.00%,0.120,46.21484375,0,0,0,0,0,0
+sirologija_Qwen3-14B-Non-Thinking_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.140,35.90625,0,0,0,0,0,0
+sirologija_Qwen3-14B-Non-Thinking_5.cpp,RUNTIME_ERROR,0,0.00%,0.150,35.38671875,0,0,0,0,0,0
+sirologija_Qwen3-14B-Non-Thinking_6.cpp,RUNTIME_ERROR,0,0.00%,0.070,5.1640625,0,0,0,0,0,0
+sirologija_Qwen3-14B-Non-Thinking_7.cpp,RUNTIME_ERROR,0,0.00%,0.120,34.76953125,0,0,0,0,0,0

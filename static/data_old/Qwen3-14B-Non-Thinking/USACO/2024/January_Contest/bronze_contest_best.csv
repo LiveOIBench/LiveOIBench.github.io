@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Majority_Opinion,Qwen3-14B-Non-Thinking,WRONG_ANSWER,24,6.67%,0.120,3.45703125
+bronze_Cannonball,Qwen3-14B-Non-Thinking,WRONG_ANSWER,259,80.00%,0.140,11.09375
+bronze_Balancing_Bacteria,Qwen3-14B-Non-Thinking,WRONG_ANSWER,0,6.67%,0.130,2.7890625

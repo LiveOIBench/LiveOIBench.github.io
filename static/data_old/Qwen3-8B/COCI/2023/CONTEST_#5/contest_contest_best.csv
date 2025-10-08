@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+kalendar,Qwen3-8B,ACCEPTED,50,100.00%,0.000,0
+diskurs,Qwen3-8B,TIME_LIMIT_EXCEEDED,20,22.00%,2.410,1.81640625
+logaritam,Qwen3-8B,COMPILATION_ERROR,0,0.00%,0.000,0
+slasticarnica,Qwen3-8B,RUNTIME_ERROR,0,2.50%,0.040,1.5625
+zastave,Qwen3-8B,RUNTIME_ERROR,63,66.67%,0.020,2.07421875

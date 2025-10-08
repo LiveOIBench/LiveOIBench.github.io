@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+zid_Llama-3.1-8B-Instruct_0.cpp,RUNTIME_ERROR,0,0.00%,0.070,3.2421875,0,0,0
+zid_Llama-3.1-8B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.190,4.1328125,0,0,0
+zid_Llama-3.1-8B-Instruct_2.cpp,RUNTIME_ERROR,0,0.00%,0.070,2.58203125,0,0,0
+zid_Llama-3.1-8B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.120,2.90234375,0,0,0
+zid_Llama-3.1-8B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.110,1.80859375,0,0,0
+zid_Llama-3.1-8B-Instruct_5.cpp,RUNTIME_ERROR,0,0.00%,0.070,1.55078125,0,0,0
+zid_Llama-3.1-8B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.110,1.55859375,0,0,0
+zid_Llama-3.1-8B-Instruct_7.cpp,RUNTIME_ERROR,0,0.00%,0.060,1.55078125,0,0,0

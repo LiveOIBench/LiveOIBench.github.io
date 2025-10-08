@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Pareidolia,QwQ-32B,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Good_Bitstrings,QwQ-32B,TIME_LIMIT_EXCEEDED,33,14.29%,2.310,0.00390625
+platinum_Triples_of_Cows,QwQ-32B,WRONG_ANSWER,0,10.00%,0.200,24.8671875

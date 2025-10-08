@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Island_Vacation,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Merging_Cells,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Mooball_Teams_III,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,4.17%,0.210,2.84375

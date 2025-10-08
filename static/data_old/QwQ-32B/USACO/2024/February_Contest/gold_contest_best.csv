@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Bessla_Motors,QwQ-32B,TIME_LIMIT_EXCEEDED,139,53.33%,3.370,8.66015625
+gold_Milk_Exchange,QwQ-32B,RUNTIME_ERROR,50,17.39%,0.230,17.21875
+gold_Quantum_Moochanics,QwQ-32B,TIME_LIMIT_EXCEEDED,0,8.33%,2.340,3.87890625

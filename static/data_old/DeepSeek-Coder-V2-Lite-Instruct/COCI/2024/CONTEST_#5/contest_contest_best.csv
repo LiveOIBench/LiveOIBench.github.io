@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+zlagalica,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,0.00%,0.000,0
+bitovi,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,0.00%,0.060,2.0703125
+piratski,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,37.27734375
+rolete,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,2.07421875
+trokut,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,0.00%,0.060,0.00390625

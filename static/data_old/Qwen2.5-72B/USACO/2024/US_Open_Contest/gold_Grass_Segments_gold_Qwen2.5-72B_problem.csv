@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Grass_Segments_Qwen2.5-72B_0.cpp,TIME_LIMIT_EXCEEDED,0,5.00%,2.400,17.4296875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Grass_Segments_Qwen2.5-72B_1.cpp,TIME_LIMIT_EXCEEDED,0,5.00%,2.410,10.47265625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Grass_Segments_Qwen2.5-72B_2.cpp,TIME_LIMIT_EXCEEDED,0,5.00%,2.390,12.015625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Grass_Segments_Qwen2.5-72B_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.500,31.7265625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Grass_Segments_Qwen2.5-72B_4.cpp,TIME_LIMIT_EXCEEDED,0,5.00%,2.350,11.76171875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Grass_Segments_Qwen2.5-72B_5.cpp,TIME_LIMIT_EXCEEDED,0,15.00%,2.350,11.30859375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Grass_Segments_Qwen2.5-72B_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.410,162.5078125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Grass_Segments_Qwen2.5-72B_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.390,22.953125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

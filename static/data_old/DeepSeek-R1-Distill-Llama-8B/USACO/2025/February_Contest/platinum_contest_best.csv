@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Min_Max_Subarrays,DeepSeek-R1-Distill-Llama-8B,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Transforming_Pairs,DeepSeek-R1-Distill-Llama-8B,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_True_or_False_Test,DeepSeek-R1-Distill-Llama-8B,WRONG_ANSWER,0,5.00%,0.380,9.03125

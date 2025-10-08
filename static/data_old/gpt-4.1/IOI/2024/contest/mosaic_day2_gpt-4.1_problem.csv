@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+mosaic_gpt-4.1_0.cpp,RUNTIME_ERROR,7,27.16%,0.130,16.7734375,0,0,0,7,0,0,0,0,0
+mosaic_gpt-4.1_1.cpp,TIME_LIMIT_EXCEEDED,19,65.29%,1.110,32.60546875,0,5,7,7,0,0,0,0,0
+mosaic_gpt-4.1_2.cpp,TIME_LIMIT_EXCEEDED,7,27.16%,1.120,16.546875,0,0,0,7,0,0,0,0,0
+mosaic_gpt-4.1_3.cpp,TIME_LIMIT_EXCEEDED,12,63.06%,1.130,295.20703125,0,5,7,0,0,0,0,0,0
+mosaic_gpt-4.1_4.cpp,RUNTIME_ERROR,7,20.78%,0.130,9.5546875,0,0,0,7,0,0,0,0,0
+mosaic_gpt-4.1_5.cpp,RUNTIME_ERROR,19,65.29%,0.110,10.06640625,0,5,7,7,0,0,0,0,0
+mosaic_gpt-4.1_6.cpp,RUNTIME_ERROR,29,73.85%,0.320,294.953125,0,5,7,7,10,0,0,0,0
+mosaic_gpt-4.1_7.cpp,TIME_LIMIT_EXCEEDED,0,19.23%,1.110,17.546875,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+kalendar,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,0.00%,0.000,0
+diskurs,Llama-3.1-8B-Instruct,TIME_LIMIT_EXCEEDED,20,22.00%,2.210,2.07421875
+logaritam,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,0.00%,0.000,0
+slasticarnica,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+zastave,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

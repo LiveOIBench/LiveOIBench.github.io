@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+s1,deepseek-chat,ACCEPTED,15,100.00%,0.230,5.16796875
+s2,deepseek-chat,ACCEPTED,15,100.00%,0.020,2.5859375
+s3,deepseek-chat,COMPILATION_ERROR,0,0.00%,0.000,0
+s4,deepseek-chat,RUNTIME_ERROR,0,0.00%,0.080,14.95703125
+s5,deepseek-chat,RUNTIME_ERROR,0,12.39%,0.030,2.84765625

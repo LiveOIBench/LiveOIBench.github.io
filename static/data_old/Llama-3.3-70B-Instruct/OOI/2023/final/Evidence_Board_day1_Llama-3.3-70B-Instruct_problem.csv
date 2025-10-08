@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Evidence_Board_Llama-3.3-70B-Instruct_0.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_Llama-3.3-70B-Instruct_1.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.490,380.96484375,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_Llama-3.3-70B-Instruct_2.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.810,475.79296875,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_Llama-3.3-70B-Instruct_3.cpp,RUNTIME_ERROR,0,0.00%,0.180,44.61328125,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_Llama-3.3-70B-Instruct_4.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.440,390.15625,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_Llama-3.3-70B-Instruct_5.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_Llama-3.3-70B-Instruct_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.460,380.94140625,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_Llama-3.3-70B-Instruct_7.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Card_Flip_Mistral-Large-Instruct-2411_0.cpp,TIME_LIMIT_EXCEEDED,0,5.94%,1.130,20.10546875,0,0,0,0,0,0,0,0,0,0
+Card_Flip_Mistral-Large-Instruct-2411_1.cpp,RUNTIME_ERROR,0,8.82%,0.280,18.6953125,0,0,0,0,0,0,0,0,0,0
+Card_Flip_Mistral-Large-Instruct-2411_2.cpp,RUNTIME_ERROR,0,5.10%,0.270,12.90234375,0,0,0,0,0,0,0,0,0,0
+Card_Flip_Mistral-Large-Instruct-2411_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.140,81.4765625,0,0,0,0,0,0,0,0,0,0
+Card_Flip_Mistral-Large-Instruct-2411_4.cpp,RUNTIME_ERROR,0,5.94%,0.420,27.8515625,0,0,0,0,0,0,0,0,0,0
+Card_Flip_Mistral-Large-Instruct-2411_5.cpp,RUNTIME_ERROR,0,13.46%,0.500,11.12109375,0,0,0,0,0,0,0,0,0,0
+Card_Flip_Mistral-Large-Instruct-2411_6.cpp,RUNTIME_ERROR,0,1.03%,0.410,12.90234375,0,0,0,0,0,0,0,0,0,0
+Card_Flip_Mistral-Large-Instruct-2411_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.130,12.86328125,0,0,0,0,0,0,0,0,0,0

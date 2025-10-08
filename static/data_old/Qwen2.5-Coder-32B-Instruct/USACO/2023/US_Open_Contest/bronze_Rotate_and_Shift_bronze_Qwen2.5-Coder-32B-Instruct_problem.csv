@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Rotate_and_Shift_Qwen2.5-Coder-32B-Instruct_0.cpp,WRONG_ANSWER,0,7.69%,0.140,2.58984375,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Rotate_and_Shift_Qwen2.5-Coder-32B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,0,7.69%,4.410,2.5859375,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Rotate_and_Shift_Qwen2.5-Coder-32B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,83,30.77%,4.530,3.25390625,0,0,0,0,0,27.777777777777775,0,0,27.777777777777775,27.777777777777775,0,0,0
+bronze_Rotate_and_Shift_Qwen2.5-Coder-32B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,28,7.69%,4.480,2.58984375,0,0,0,0,0,0,0,0,27.777777777777775,0,0,0,0
+bronze_Rotate_and_Shift_Qwen2.5-Coder-32B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,139,46.15%,4.530,2.0703125,0,27.777777777777775,0,0,0,0,27.777777777777775,27.777777777777775,27.777777777777775,27.777777777777775,0,0,0
+bronze_Rotate_and_Shift_Qwen2.5-Coder-32B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,28,7.69%,4.480,2.5859375,0,0,0,0,0,0,0,0,27.777777777777775,0,0,0,0
+bronze_Rotate_and_Shift_Qwen2.5-Coder-32B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,28,7.69%,4.460,2.58984375,0,0,0,0,0,0,0,0,27.777777777777775,0,0,0,0
+bronze_Rotate_and_Shift_Qwen2.5-Coder-32B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,28,7.69%,4.460,2.58984375,0,0,0,0,0,0,0,0,27.777777777777775,0,0,0,0

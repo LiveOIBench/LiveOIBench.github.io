@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Jump_Civilization,Qwen2.5-Coder-7B-Instruct,RUNTIME_ERROR,0,0.00%,0.170,3.61328125
+Ramen,Qwen2.5-Coder-7B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+Signals,Qwen2.5-Coder-7B-Instruct,UNKNOWN,0,0.00%,0.000,0

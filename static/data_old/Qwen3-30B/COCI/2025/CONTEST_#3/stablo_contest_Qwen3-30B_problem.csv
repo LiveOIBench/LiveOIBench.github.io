@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+stablo_Qwen3-30B_0.cpp,RUNTIME_ERROR,0,14.71%,0.640,47.44140625,0,0,0,0
+stablo_Qwen3-30B_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+stablo_Qwen3-30B_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+stablo_Qwen3-30B_3.cpp,RUNTIME_ERROR,0,10.29%,0.140,47.4453125,0,0,0,0
+stablo_Qwen3-30B_4.cpp,RUNTIME_ERROR,0,10.29%,0.520,49.25,0,0,0,0
+stablo_Qwen3-30B_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+stablo_Qwen3-30B_6.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0
+stablo_Qwen3-30B_7.cpp,RUNTIME_ERROR,0,14.71%,0.730,53.1171875,0,0,0,0

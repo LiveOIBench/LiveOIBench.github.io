@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+hieroglyphs,Qwen2.5-Coder-14B-Instruct,MEMORY_LIMIT_EXCEEDED,0,4.42%,0.860,2252.265625
+sphinx,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,3,12.50%,0.330,4.16796875
+mosaic,Qwen2.5-Coder-14B-Instruct,MEMORY_LIMIT_EXCEEDED,22,64.86%,1.070,2244.015625

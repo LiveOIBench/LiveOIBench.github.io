@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+chairgame,gemini-2.5-flash,RUNTIME_ERROR,37,69.23%,0.170,2.1796875
+thinice,gemini-2.5-flash,RUNTIME_ERROR,0,22.03%,0.430,96.703125
+animeshops,gemini-2.5-flash,ACCEPTED,100,100.00%,0.130,10.125

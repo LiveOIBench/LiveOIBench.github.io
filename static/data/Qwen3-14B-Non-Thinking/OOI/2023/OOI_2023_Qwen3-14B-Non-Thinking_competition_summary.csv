@@ -1,0 +1,19 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_21,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+More_Gifts,RUNTIME_ERROR,0,5.61%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Big_Persimmon,RUNTIME_ERROR,0,8.62%,0.080,1.80859375,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Evidence_Board,UNKNOWN,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Draw_Polygon_Lines,RUNTIME_ERROR,53,82.19%,0.490,3.9765625,,0,0,4.0,3.0,3.0,3.0,3.0,2.0,6.0,3.0,3.0,3.0,0,3.0,2.0,0,0,0,0,7.0,4.0,4.0
+Burenka_and_Pether,UNKNOWN,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Almost_Certainly,UNKNOWN,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Three_Arrays,RUNTIME_ERROR,0,6.57%,0.000,0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Parallel_Universes,RUNTIME_ERROR,0,0.72%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Paired_roads,TIME_LIMIT_EXCEEDED,0,5.04%,4.410,65.546875,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Legs_warm-up_exercise,UNKNOWN,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hard_problem,ACCEPTED,100,100.00%,0.170,9.03125,,0.0,13.0,0,0,0,0,0,0,0,0,0,0,10.0,0,0,14.0,19.0,9.0,1.0,9.0,25.0,0
+Yet_another_queries,UNKNOWN,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lunch,RUNTIME_ERROR,0,10.23%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tournament,ACCEPTED,100,100.00%,0.000,0,,0.0,14.0,9.0,0,0,0,0,0,0,0,0,0,8.0,0,0,11.0,12.0,9.0,10.0,9.0,8.0,10.0
+You_need_to_train_more,TIME_LIMIT_EXCEEDED,18,63.36%,1.140,273.2890625,,0.0,18.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Colorful_graph,TIME_LIMIT_EXCEEDED,0,14.38%,1.660,8.09375,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Space_accident,TIME_LIMIT_EXCEEDED,10,35.33%,1.110,2.07421875,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10.0,0,0,0,0,0,0
+TOTAL,,281,25.41%,,,11.76%,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+pingvin_Qwen3-32B-Non-Thinking_0.cpp,ACCEPTED,70,100.00%,0.070,3.359375,7,16,22,25
+pingvin_Qwen3-32B-Non-Thinking_1.cpp,RUNTIME_ERROR,63,90.62%,0.100,6.96875,0,16,22,25
+pingvin_Qwen3-32B-Non-Thinking_2.cpp,RUNTIME_ERROR,63,90.62%,0.070,7.73828125,0,16,22,25
+pingvin_Qwen3-32B-Non-Thinking_3.cpp,ACCEPTED,70,100.00%,0.080,6.44921875,7,16,22,25
+pingvin_Qwen3-32B-Non-Thinking_4.cpp,ACCEPTED,70,100.00%,0.070,7.734375,7,16,22,25
+pingvin_Qwen3-32B-Non-Thinking_5.cpp,RUNTIME_ERROR,63,90.62%,0.080,7.484375,0,16,22,25
+pingvin_Qwen3-32B-Non-Thinking_6.cpp,ACCEPTED,70,100.00%,0.090,3.6171875,7,16,22,25
+pingvin_Qwen3-32B-Non-Thinking_7.cpp,ACCEPTED,70,100.00%,0.060,3.35546875,7,16,22,25

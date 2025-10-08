@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+minequake_gpt-o3-mini-high_0.cpp,RUNTIME_ERROR,18,22.37%,0.060,17.0234375,0,18,0,0,0,0
+minequake_gpt-o3-mini-high_1.cpp,RUNTIME_ERROR,0,3.73%,0.000,0,0,0,0,0,0,0
+minequake_gpt-o3-mini-high_2.cpp,RUNTIME_ERROR,18,41.18%,0.080,22.29296875,0,18,0,0,0,0
+minequake_gpt-o3-mini-high_3.cpp,RUNTIME_ERROR,18,28.03%,0.030,21.72265625,0,18,0,0,0,0
+minequake_gpt-o3-mini-high_4.cpp,RUNTIME_ERROR,18,24.68%,0.060,25.26953125,0,18,0,0,0,0
+minequake_gpt-o3-mini-high_5.cpp,RUNTIME_ERROR,18,29.11%,0.050,22.29296875,0,18,0,0,0,0
+minequake_gpt-o3-mini-high_6.cpp,RUNTIME_ERROR,37,88.46%,0.070,21.4921875,0,18,19,0,0,0
+minequake_gpt-o3-mini-high_7.cpp,RUNTIME_ERROR,18,28.03%,0.050,22.4375,0,18,0,0,0,0

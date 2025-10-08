@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_All_Pairs_Similarity,Qwen3-30B-Non-Thinking,TIME_LIMIT_EXCEEDED,48,20.00%,2.350,31.20703125
+platinum_Its_Mooin_Time,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,24,16.67%,0.160,14.76171875
+platinum_Maximize_Minimum_Difference,Qwen3-30B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0

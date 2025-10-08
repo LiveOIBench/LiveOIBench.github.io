@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_The_Winning_Gene_Qwen2.5-Coder-7B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,22,6.25%,2.300,1.90625,0,22.22222222222222,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_The_Winning_Gene_Qwen2.5-Coder-7B-Instruct_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_The_Winning_Gene_Qwen2.5-Coder-7B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.260,1.6875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_The_Winning_Gene_Qwen2.5-Coder-7B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.270,0.00390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_The_Winning_Gene_Qwen2.5-Coder-7B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.220,562.4453125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_The_Winning_Gene_Qwen2.5-Coder-7B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.270,1.55078125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_The_Winning_Gene_Qwen2.5-Coder-7B-Instruct_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_The_Winning_Gene_Qwen2.5-Coder-7B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.230,2.69140625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

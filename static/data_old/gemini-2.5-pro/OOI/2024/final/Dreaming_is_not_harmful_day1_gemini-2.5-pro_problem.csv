@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Dreaming_is_not_harmful_gemini-2.5-pro_0.cpp,RUNTIME_ERROR,10,12.73%,0.200,78.2890625,0,10.0,0,0,0,0,0,0,0,0
+Dreaming_is_not_harmful_gemini-2.5-pro_1.cpp,RUNTIME_ERROR,0,13.16%,0.000,0,0.0,0,0,0,0,0,0,0,0,0
+Dreaming_is_not_harmful_gemini-2.5-pro_2.cpp,RUNTIME_ERROR,0,13.16%,0.100,15.2109375,0.0,0,0,0,0,0,0,0,0,0
+Dreaming_is_not_harmful_gemini-2.5-pro_3.cpp,TIME_LIMIT_EXCEEDED,0,5.61%,2.210,64.25390625,0,0,0,0,0,0,0,0,0,0
+Dreaming_is_not_harmful_gemini-2.5-pro_4.cpp,TIME_LIMIT_EXCEEDED,8,56.29%,2.220,64.3359375,0.0,0,0,8.0,0,0,0,0,0,0
+Dreaming_is_not_harmful_gemini-2.5-pro_5.cpp,RUNTIME_ERROR,10,12.73%,0.590,94.13671875,0,10.0,0,0,0,0,0,0,0,0
+Dreaming_is_not_harmful_gemini-2.5-pro_6.cpp,TIME_LIMIT_EXCEEDED,0,15.52%,2.220,67.67578125,0.0,0,0,0,0,0,0,0,0,0
+Dreaming_is_not_harmful_gemini-2.5-pro_7.cpp,TIME_LIMIT_EXCEEDED,32,73.05%,2.240,38.16796875,0.0,0,0,8.0,13.0,11.0,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Find_and_Replace,Qwen3-30B,WRONG_ANSWER,0,6.67%,0.000,0
+silver_Following_Directions,Qwen3-30B,TIME_LIMIT_EXCEEDED,143,46.67%,8.820,26.56640625
+silver_Moo_Route,Qwen3-30B,RUNTIME_ERROR,56,15.00%,0.120,2.74609375

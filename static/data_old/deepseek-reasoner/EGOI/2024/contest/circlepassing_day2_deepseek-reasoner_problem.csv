@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+circlepassing_deepseek-reasoner_0.cpp,RUNTIME_ERROR,14,31.11%,0.040,0.00390625,0,14,0,0,0,0
+circlepassing_deepseek-reasoner_1.cpp,RUNTIME_ERROR,14,31.11%,0.040,0.00390625,0,14,0,0,0,0
+circlepassing_deepseek-reasoner_2.cpp,RUNTIME_ERROR,14,31.11%,0.040,0.00390625,0,14,0,0,0,0
+circlepassing_deepseek-reasoner_3.cpp,RUNTIME_ERROR,14,32.22%,0.040,0.00390625,0,14,0,0,0,0
+circlepassing_deepseek-reasoner_4.cpp,RUNTIME_ERROR,14,42.86%,0.040,0.00390625,0,14,0,0,0,0
+circlepassing_deepseek-reasoner_5.cpp,RUNTIME_ERROR,14,42.86%,0.040,0.00390625,0,14,0,0,0,0
+circlepassing_deepseek-reasoner_6.cpp,RUNTIME_ERROR,14,50.94%,0.040,0.00390625,0,14,0,0,0,0
+circlepassing_deepseek-reasoner_7.cpp,ACCEPTED,100,100.00%,0.090,3.359375,0,14,20,22,17,27

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+restorani_deepseek-chat_0.cpp,RUNTIME_ERROR,0,0.68%,0.100,18.3125,0,0,0,0
+restorani_deepseek-chat_1.cpp,RUNTIME_ERROR,0,0.68%,0.100,18.3125,0,0,0,0
+restorani_deepseek-chat_2.cpp,TIME_LIMIT_EXCEEDED,0,0.68%,2.240,545.2109375,0,0,0,0
+restorani_deepseek-chat_3.cpp,RUNTIME_ERROR,0,0.68%,0.260,63.0234375,0,0,0,0
+restorani_deepseek-chat_4.cpp,RUNTIME_ERROR,0,1.37%,0.080,18.3125,0,0,0,0
+restorani_deepseek-chat_5.cpp,RUNTIME_ERROR,0,0.68%,0.240,63.41015625,0,0,0,0
+restorani_deepseek-chat_6.cpp,TIME_LIMIT_EXCEEDED,0,0.68%,2.220,56.984375,0,0,0,0
+restorani_deepseek-chat_7.cpp,RUNTIME_ERROR,0,0.68%,0.180,58.0625,0,0,0,0

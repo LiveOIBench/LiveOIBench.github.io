@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+tree_infection_gpt-5_0.cpp,ACCEPTED,100,100.00%,0.390,108.67578125,0,20,14,15,10,16,25
+tree_infection_gpt-5_1.cpp,ACCEPTED,100,100.00%,0.420,117.56640625,0,20,14,15,10,16,25
+tree_infection_gpt-5_2.cpp,RUNTIME_ERROR,29,31.48%,0.240,77.8671875,0,0,14,15,0,0,0
+tree_infection_gpt-5_3.cpp,ACCEPTED,100,100.00%,0.400,128.1328125,0,20,14,15,10,16,25
+tree_infection_gpt-5_4.cpp,RUNTIME_ERROR,14,22.22%,0.150,54.73828125,0,0,14,0,0,0,0
+tree_infection_gpt-5_5.cpp,ACCEPTED,100,100.00%,0.770,159.84765625,0,20,14,15,10,16,25
+tree_infection_gpt-5_6.cpp,ACCEPTED,100,100.00%,0.430,109.45703125,0,20,14,15,10,16,25
+tree_infection_gpt-5_7.cpp,RUNTIME_ERROR,0,7.41%,0.530,189.9765625,0,0,0,0,0,0,0

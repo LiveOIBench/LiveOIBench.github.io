@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Hungry_Cow,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Problem_Setting,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Watching_Cowflix,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0

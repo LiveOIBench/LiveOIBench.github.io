@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+wow,Qwen3-8B,RUNTIME_ERROR,0,5.56%,0.000,0
+zid,Qwen3-8B,ACCEPTED,70,100.00%,0.170,2.5859375
+tornjevi,Qwen3-8B,ACCEPTED,90,100.00%,1.240,12.8984375
+crtez,Qwen3-8B,TIME_LIMIT_EXCEEDED,0,12.77%,2.420,613.703125
+stablo,Qwen3-8B,TIME_LIMIT_EXCEEDED,15,27.72%,4.210,161.8203125

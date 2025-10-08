@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+knjige_Qwen3-32B_0.cpp,ACCEPTED,70,100.00%,0.050,4.39453125,7,27,36
+knjige_Qwen3-32B_1.cpp,ACCEPTED,70,100.00%,0.090,2.84765625,7,27,36
+knjige_Qwen3-32B_2.cpp,RUNTIME_ERROR,0,0.00%,0.090,2.84765625,0,0,0
+knjige_Qwen3-32B_3.cpp,ACCEPTED,70,100.00%,0.050,4.39453125,7,27,36
+knjige_Qwen3-32B_4.cpp,ACCEPTED,70,100.00%,0.100,4.39453125,7,27,36
+knjige_Qwen3-32B_5.cpp,ACCEPTED,70,100.00%,0.050,4.39453125,7,27,36
+knjige_Qwen3-32B_6.cpp,ACCEPTED,70,100.00%,0.100,2.84765625,7,27,36
+knjige_Qwen3-32B_7.cpp,ACCEPTED,70,100.00%,0.050,4.39453125,7,27,36

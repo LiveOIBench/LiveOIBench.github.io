@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Heroes,QwQ-32B,COMPILATION_ERROR,0,0.00%,0.000,0
+Pinball,QwQ-32B,TIME_LIMIT_EXCEEDED,0,3.12%,3.650,9.03125
+AA_Tree,QwQ-32B,COMPILATION_ERROR,0,0.00%,0.000,0

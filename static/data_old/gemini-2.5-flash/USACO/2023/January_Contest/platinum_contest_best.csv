@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Tractor_Paths,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,44,18.75%,4.420,14.453125
+platinum_Mana_Collection,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,0,8.33%,5.520,75.34765625
+platinum_Subtree_Activation,gemini-2.5-flash,WRONG_ANSWER,33,14.29%,0.060,10.72265625

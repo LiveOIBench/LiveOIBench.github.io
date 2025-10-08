@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+zrinka,seed-oss_-1,ACCEPTED,70,100.00%,0.130,1.55859375
+bojanje,seed-oss_-1,ACCEPTED,110,100.00%,0.020,0.00390625
+mreza,seed-oss_-1,ACCEPTED,110,100.00%,0.830,68.09765625
+vrsta,seed-oss_-1,ACCEPTED,110,100.00%,0.130,7.484375

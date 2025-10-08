@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Find_and_Replace,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Following_Directions,DeepSeek-Coder-V2-Lite-Instruct,WRONG_ANSWER,0,0.00%,1.390,20.890625
+silver_Moo_Route,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,0.00%,0.110,2.58984375

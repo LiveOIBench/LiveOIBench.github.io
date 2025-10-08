@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+travel_Qwen2.5-72B_0.cpp,RUNTIME_ERROR,0,0.00%,0.220,35.64453125,0,0,0,0,0,0,0
+travel_Qwen2.5-72B_1.cpp,RUNTIME_ERROR,0,0.00%,0.230,39.45703125,0,0,0,0,0,0,0
+travel_Qwen2.5-72B_2.cpp,RUNTIME_ERROR,0,0.00%,0.220,37.53125,0,0,0,0,0,0,0
+travel_Qwen2.5-72B_3.cpp,RUNTIME_ERROR,0,0.00%,0.230,37.84375,0,0,0,0,0,0,0
+travel_Qwen2.5-72B_4.cpp,RUNTIME_ERROR,0,0.00%,0.730,31.9765625,0,0,0,0,0,0,0
+travel_Qwen2.5-72B_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.430,582.8984375,0,0,0,0,0,0,0
+travel_Qwen2.5-72B_6.cpp,RUNTIME_ERROR,0,0.00%,0.230,38.74609375,0,0,0,0,0,0,0
+travel_Qwen2.5-72B_7.cpp,RUNTIME_ERROR,0,0.00%,0.220,35.78125,0,0,0,0,0,0,0

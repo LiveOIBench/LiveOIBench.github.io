@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Identity_Theft,gemini-2.5-pro,RUNTIME_ERROR,17,8.00%,0.130,3.7421875
+platinum_Splitting_Haybales,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,17,13.64%,2.270,4.453125
+platinum_Activating_Robots,gemini-2.5-pro,MEMORY_LIMIT_EXCEEDED,133,50.00%,0.160,275.86328125

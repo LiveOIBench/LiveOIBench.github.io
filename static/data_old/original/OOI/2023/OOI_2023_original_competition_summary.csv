@@ -1,0 +1,3 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+Paired_roads,ACCEPTED,100,100.00%,3.870,291.32421875,,0.0,13.0,17.0,12.0,19.0,11.0,15.0,13.0
+TOTAL,,100,100.00%,,,100.00%,,,,,,,,

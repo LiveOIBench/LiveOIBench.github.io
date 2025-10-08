@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+lexgcd_gemini-2.5-pro_0.cpp,TIME_LIMIT_EXCEEDED,10,19.83%,1.860,57.6015625,6,0,0,4,0,0,0
+lexgcd_gemini-2.5-pro_1.cpp,TIME_LIMIT_EXCEEDED,6,6.61%,1.860,34.40234375,6,0,0,0,0,0,0
+lexgcd_gemini-2.5-pro_2.cpp,TIME_LIMIT_EXCEEDED,6,6.61%,1.930,26.36328125,6,0,0,0,0,0,0
+lexgcd_gemini-2.5-pro_3.cpp,RUNTIME_ERROR,0,0.83%,1.360,71.87109375,0,0,0,0,0,0,0
+lexgcd_gemini-2.5-pro_4.cpp,TIME_LIMIT_EXCEEDED,6,11.38%,1.810,15.4140625,6,0,0,0,0,0,0
+lexgcd_gemini-2.5-pro_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.810,7.99609375,0,0,0,0,0,0,0
+lexgcd_gemini-2.5-pro_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+lexgcd_gemini-2.5-pro_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.860,5.6328125,0,0,0,0,0,0,0

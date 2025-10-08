@@ -1,0 +1,4 @@
+solution,status,score,%test passed,time,memory,subtask_0_1,subtask_1_1,subtask_2_1,subtask_2_2,subtask_2_3,subtask_3_1,subtask_3_2,subtask_3_3,subtask_4_1,subtask_4_2,subtask_4_3
+balance_gpt-oss-20b-low_4.cpp,RUNTIME_ERROR,0,2.22%,0.040,22.53125,0,0,0,0,0,0,0,0,0,0,0
+balance_gpt-oss-20b-low_5.cpp,RUNTIME_ERROR,0,0.00%,0.020,11.609375,0,0,0,0,0,0,0,0,0,0,0
+balance_gpt-oss-20b-low_7.cpp,RUNTIME_ERROR,0,2.22%,0.010,6.71484375,0,0,0,0,0,0,0,0,0,0,0

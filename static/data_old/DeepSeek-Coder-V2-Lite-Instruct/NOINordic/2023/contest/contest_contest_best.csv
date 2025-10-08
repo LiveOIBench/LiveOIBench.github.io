@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+icecreammachines,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,0.00%,0.000,0
+chatnoi,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,5.41%,0.130,0
+islandalliances,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,37,38.71%,5.570,2.84375

@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+pahuljice,Codestral-22B-v0.1,ACCEPTED,50,100.00%,0.000,0
+pingvin,Codestral-22B-v0.1,RUNTIME_ERROR,63,90.62%,0.110,9.1640625
+dizalo,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+kuglice,Codestral-22B-v0.1,MEMORY_LIMIT_EXCEEDED,0,4.05%,0.060,0.00390625
+zatopljenje,Codestral-22B-v0.1,TIME_LIMIT_EXCEEDED,10,40.00%,2.210,5.15625

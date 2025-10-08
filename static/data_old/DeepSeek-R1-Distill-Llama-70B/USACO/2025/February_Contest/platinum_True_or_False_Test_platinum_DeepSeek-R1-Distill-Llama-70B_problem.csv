@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_True_or_False_Test_DeepSeek-R1-Distill-Llama-70B_0.cpp,WRONG_ANSWER,0,5.00%,0.370,5.16796875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_True_or_False_Test_DeepSeek-R1-Distill-Llama-70B_1.cpp,WRONG_ANSWER,0,5.00%,0.410,5.9375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_True_or_False_Test_DeepSeek-R1-Distill-Llama-70B_2.cpp,WRONG_ANSWER,0,0.00%,0.370,4.390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_True_or_False_Test_DeepSeek-R1-Distill-Llama-70B_3.cpp,WRONG_ANSWER,0,5.00%,0.380,5.9375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_True_or_False_Test_DeepSeek-R1-Distill-Llama-70B_4.cpp,WRONG_ANSWER,0,5.00%,0.190,39.04296875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_True_or_False_Test_DeepSeek-R1-Distill-Llama-70B_5.cpp,WRONG_ANSWER,0,5.00%,0.380,5.9375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_True_or_False_Test_DeepSeek-R1-Distill-Llama-70B_6.cpp,WRONG_ANSWER,0,0.00%,0.170,4.41796875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_True_or_False_Test_DeepSeek-R1-Distill-Llama-70B_7.cpp,WRONG_ANSWER,0,5.00%,0.400,7.484375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+longesttrip_gemini-2.5-flash_0.cpp,RUNTIME_ERROR,5,12.05%,0.590,3.9609375,0,5,0,0,0.0
+longesttrip_gemini-2.5-flash_1.cpp,RUNTIME_ERROR,5,12.05%,0.390,3.9453125,0,5,0,0,0.0
+longesttrip_gemini-2.5-flash_2.cpp,RUNTIME_ERROR,5,7.83%,2.010,4.04296875,0,5,0,0,0.0
+longesttrip_gemini-2.5-flash_3.cpp,RUNTIME_ERROR,5,12.05%,0.130,4.0,0,5,0,0,0.0
+longesttrip_gemini-2.5-flash_4.cpp,RUNTIME_ERROR,5,11.45%,0.520,4.02734375,0,5,0,0,0
+longesttrip_gemini-2.5-flash_5.cpp,RUNTIME_ERROR,15,20.48%,0.430,4.0234375,0,5,10,0,0
+longesttrip_gemini-2.5-flash_6.cpp,RUNTIME_ERROR,5,17.47%,0.530,4.07421875,0,5,0,0,0
+longesttrip_gemini-2.5-flash_7.cpp,RUNTIME_ERROR,5,17.47%,0.560,4.05859375,0,5,0,0,0

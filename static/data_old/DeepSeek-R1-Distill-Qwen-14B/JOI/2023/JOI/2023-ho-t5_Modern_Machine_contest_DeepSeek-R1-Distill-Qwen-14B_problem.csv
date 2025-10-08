@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+2023-ho-t5_Modern_Machine_DeepSeek-R1-Distill-Qwen-14B_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_DeepSeek-R1-Distill-Qwen-14B_1.cpp,RUNTIME_ERROR,0,0.00%,0.270,2.8046875,0,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_DeepSeek-R1-Distill-Qwen-14B_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_DeepSeek-R1-Distill-Qwen-14B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_DeepSeek-R1-Distill-Qwen-14B_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_DeepSeek-R1-Distill-Qwen-14B_5.cpp,TIME_LIMIT_EXCEEDED,0,14.86%,2.790,3.0625,0,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_DeepSeek-R1-Distill-Qwen-14B_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_DeepSeek-R1-Distill-Qwen-14B_7.cpp,TIME_LIMIT_EXCEEDED,0,7.25%,2.940,2.80078125,0,0,0,0,0,0,0

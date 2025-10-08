@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Circles_Qwen3-32B_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+Circles_Qwen3-32B_1.cpp,TIME_LIMIT_EXCEEDED,4,33.33%,1.660,97.4609375,0,4,0,0,0,0,0
+Circles_Qwen3-32B_2.cpp,TIME_LIMIT_EXCEEDED,18,47.37%,1.680,73.9765625,0,4,0,14,0,0,0
+Circles_Qwen3-32B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+Circles_Qwen3-32B_4.cpp,RUNTIME_ERROR,4,33.33%,0.240,10.06640625,0,4,0,0,0,0,0
+Circles_Qwen3-32B_5.cpp,RUNTIME_ERROR,9,19.35%,0.600,147.734375,0,0,9,0,0,0,0
+Circles_Qwen3-32B_6.cpp,RUNTIME_ERROR,13,50.00%,0.520,145.7421875,0,4,9,0,0,0,0
+Circles_Qwen3-32B_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0

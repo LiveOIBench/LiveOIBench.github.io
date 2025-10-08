@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cow_Checkups,Llama-3.1-8B-Instruct,TIME_LIMIT_EXCEEDED,0,4.35%,2.280,28.171875
+silver_Farmer_Johns_Favorite_Operation,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Table_Recovery,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,6.67%,0.270,9.03125

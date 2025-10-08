@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Bessla_Motors,Qwen3-4B,TIME_LIMIT_EXCEEDED,111,46.67%,3.610,6.578125
+gold_Milk_Exchange,Qwen3-4B,TIME_LIMIT_EXCEEDED,17,17.39%,2.420,7.55078125
+gold_Quantum_Moochanics,Qwen3-4B,WRONG_ANSWER,0,8.33%,0.120,3.265625

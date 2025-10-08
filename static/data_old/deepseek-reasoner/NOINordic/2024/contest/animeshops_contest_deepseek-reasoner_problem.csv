@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3
+animeshops_deepseek-reasoner_0.cpp,RUNTIME_ERROR,0,0.00%,0.060,7.484375,0,0,0
+animeshops_deepseek-reasoner_1.cpp,RUNTIME_ERROR,0,22.22%,0.080,12.2734375,0,0,0
+animeshops_deepseek-reasoner_2.cpp,RUNTIME_ERROR,0,22.22%,0.070,8.2578125,0,0,0
+animeshops_deepseek-reasoner_3.cpp,RUNTIME_ERROR,0,22.22%,0.070,9.03125,0,0,0
+animeshops_deepseek-reasoner_4.cpp,TIME_LIMIT_EXCEEDED,0,16.67%,1.150,12.203125,0,0,0
+animeshops_deepseek-reasoner_5.cpp,RUNTIME_ERROR,0,22.22%,0.070,13.2421875,0,0,0
+animeshops_deepseek-reasoner_6.cpp,RUNTIME_ERROR,0,22.22%,0.080,12.97265625,0,0,0
+animeshops_deepseek-reasoner_7.cpp,RUNTIME_ERROR,0,22.22%,0.070,13.49609375,0,0,0

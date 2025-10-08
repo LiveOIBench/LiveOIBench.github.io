@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Forklift_Certified,gpt-oss-120b-low,RUNTIME_ERROR,95,25.00%,0.320,18.6875
+platinum_Lazy_Sort,gpt-oss-120b-low,RUNTIME_ERROR,0,0.00%,0.000,0
+platinum_Package_Pickup,gpt-oss-120b-low,COMPILATION_ERROR,0,0.00%,0.000,0

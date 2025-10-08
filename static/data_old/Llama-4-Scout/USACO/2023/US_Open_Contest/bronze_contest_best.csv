@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_FEB,Llama-4-Scout,MEMORY_LIMIT_EXCEEDED,118,45.00%,0.120,305.98828125
+bronze_Moo_Language,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Rotate_and_Shift,Llama-4-Scout,TIME_LIMIT_EXCEEDED,167,53.85%,4.810,3.22265625

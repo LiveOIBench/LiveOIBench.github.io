@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+chatnoi_gpt-4.1_0.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0
+chatnoi_gpt-4.1_1.cpp,RUNTIME_ERROR,29,73.52%,1.200,227.76953125,5,7,17,0,0,0,0
+chatnoi_gpt-4.1_2.cpp,RUNTIME_ERROR,12,59.32%,1.390,307.15625,5,7,0,0,0,0,0
+chatnoi_gpt-4.1_3.cpp,MEMORY_LIMIT_EXCEEDED,17,28.74%,1.720,1112.515625,0,0,17,0,0,0,0
+chatnoi_gpt-4.1_4.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0
+chatnoi_gpt-4.1_5.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0
+chatnoi_gpt-4.1_6.cpp,TIME_LIMIT_EXCEEDED,5,54.18%,4.410,93.88671875,5,0,0,0,0,0,0
+chatnoi_gpt-4.1_7.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0

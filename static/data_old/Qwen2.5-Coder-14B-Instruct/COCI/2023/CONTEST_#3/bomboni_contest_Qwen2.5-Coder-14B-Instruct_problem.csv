@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+bomboni_Qwen2.5-Coder-14B-Instruct_0.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.070,2.671875,0,0,0,0
+bomboni_Qwen2.5-Coder-14B-Instruct_1.cpp,MEMORY_LIMIT_EXCEEDED,0,4.00%,0.310,456.59375,0,0,0,0
+bomboni_Qwen2.5-Coder-14B-Instruct_2.cpp,MEMORY_LIMIT_EXCEEDED,63,60.00%,0.310,441.89453125,13,17,33,0
+bomboni_Qwen2.5-Coder-14B-Instruct_3.cpp,MEMORY_LIMIT_EXCEEDED,0,4.00%,0.300,357.3359375,0,0,0,0
+bomboni_Qwen2.5-Coder-14B-Instruct_4.cpp,MEMORY_LIMIT_EXCEEDED,0,4.00%,0.330,357.8515625,0,0,0,0
+bomboni_Qwen2.5-Coder-14B-Instruct_5.cpp,MEMORY_LIMIT_EXCEEDED,63,60.00%,0.300,507.59375,13,17,33,0
+bomboni_Qwen2.5-Coder-14B-Instruct_6.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0
+bomboni_Qwen2.5-Coder-14B-Instruct_7.cpp,RUNTIME_ERROR,0,0.00%,0.280,493.78515625,0,0,0,0

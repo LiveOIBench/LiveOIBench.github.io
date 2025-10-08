@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_FEB,Qwen3-30B,TIME_LIMIT_EXCEEDED,118,45.00%,2.250,8.3125
+bronze_Moo_Language,Qwen3-30B,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.110,1.69921875
+bronze_Rotate_and_Shift,Qwen3-30B,TIME_LIMIT_EXCEEDED,167,53.85%,4.470,2.5

@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+2024-ho-t1_Room_Temperature,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,3.92%,0.000,0
+2024-ho-t2_Construction_Project_2,Mistral-Small-3.1-24B-2503,TIME_LIMIT_EXCEEDED,8,14.14%,2.450,49.25
+2024-ho-t3_Marathon_Race_2,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,15.56%,0.000,0
+2024-ho-t4_Gift_Exchange,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0
+2024-ho-t5_Road_Service_2,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0

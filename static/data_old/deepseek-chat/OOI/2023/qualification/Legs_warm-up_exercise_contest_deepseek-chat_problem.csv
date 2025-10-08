@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Legs_warm-up_exercise_deepseek-chat_0.cpp,RUNTIME_ERROR,0,2.05%,0.050,22.8984375,0.0,0,0,0,0,0,0,0,0,0,0
+Legs_warm-up_exercise_deepseek-chat_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,6.620,20.88671875,0,0,0,0,0,0,0,0,0,0,0
+Legs_warm-up_exercise_deepseek-chat_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,6.620,21.7421875,0,0,0,0,0,0,0,0,0,0,0
+Legs_warm-up_exercise_deepseek-chat_3.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+Legs_warm-up_exercise_deepseek-chat_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,6.630,23.03515625,0,0,0,0,0,0,0,0,0,0,0
+Legs_warm-up_exercise_deepseek-chat_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.250,562.5390625,0,0,0,0,0,0,0,0,0,0,0
+Legs_warm-up_exercise_deepseek-chat_6.cpp,RUNTIME_ERROR,0,2.05%,0.060,29.9140625,0.0,0,0,0,0,0,0,0,0,0,0
+Legs_warm-up_exercise_deepseek-chat_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,6.620,18.05078125,0,0,0,0,0,0,0,0,0,0,0

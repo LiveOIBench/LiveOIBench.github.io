@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+cesta_gpt-5_0.cpp,ACCEPTED,110,100.00%,0.570,106.421875,10,30,30,40
+cesta_gpt-5_1.cpp,ACCEPTED,110,100.00%,0.790,150.15234375,10,30,30,40
+cesta_gpt-5_2.cpp,ACCEPTED,110,100.00%,0.560,123.55078125,10,30,30,40
+cesta_gpt-5_3.cpp,ACCEPTED,110,100.00%,0.620,64.40234375,10,30,30,40
+cesta_gpt-5_4.cpp,ACCEPTED,110,100.00%,0.580,73.68359375,10,30,30,40
+cesta_gpt-5_5.cpp,ACCEPTED,110,100.00%,0.610,109.34375,10,30,30,40
+cesta_gpt-5_6.cpp,RUNTIME_ERROR,0,1.83%,0.070,14.421875,0,0,0,0
+cesta_gpt-5_7.cpp,ACCEPTED,110,100.00%,0.720,106.421875,10,30,30,40

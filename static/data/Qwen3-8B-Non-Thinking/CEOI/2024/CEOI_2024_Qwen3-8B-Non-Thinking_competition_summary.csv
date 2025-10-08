@@ -1,0 +1,8 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+covid,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0
+battle,TIME_LIMIT_EXCEEDED,6,47.76%,3.310,304.97265625,,0,6,0,0,0,0,0,0
+editor,TIME_LIMIT_EXCEEDED,14,35.38%,4.410,960.53515625,,0,0,14,0,0,0,0,0
+toy,TIME_LIMIT_EXCEEDED,0,20.31%,1.490,85.078125,,0,0,0,0,0,0,0,0
+stations,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0
+sprinklers,RUNTIME_ERROR,0,5.43%,0.040,2.33203125,,0,0,0,0,0,0,0,0
+TOTAL,,20,18.15%,,,0.00%,,,,,,,,

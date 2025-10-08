@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+Strong_Connectivity_Strikes_Back_gpt-4.1_0.cpp,RUNTIME_ERROR,66,57.26%,0.100,1.55078125,0,0,0,12.0,13.0,20.0,21.0,0
+Strong_Connectivity_Strikes_Back_gpt-4.1_1.cpp,TIME_LIMIT_EXCEEDED,25,35.00%,1.200,62.96484375,0,0,0,12.0,13.0,0,0,0
+Strong_Connectivity_Strikes_Back_gpt-4.1_2.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+Strong_Connectivity_Strikes_Back_gpt-4.1_3.cpp,RUNTIME_ERROR,66,57.26%,0.280,25.3828125,0,0,0,12.0,13.0,20.0,21.0,0
+Strong_Connectivity_Strikes_Back_gpt-4.1_4.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+Strong_Connectivity_Strikes_Back_gpt-4.1_5.cpp,ACCEPTED,100,100.00%,0.100,1.921875,0.0,11.0,9.0,12.0,13.0,20.0,21.0,14.0
+Strong_Connectivity_Strikes_Back_gpt-4.1_6.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+Strong_Connectivity_Strikes_Back_gpt-4.1_7.cpp,RUNTIME_ERROR,66,57.26%,0.100,2.17578125,0,0,0,12.0,13.0,20.0,21.0,0

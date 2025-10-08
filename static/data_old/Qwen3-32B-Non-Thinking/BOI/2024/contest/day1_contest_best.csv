@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+jobs,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,0.72%,0.080,23.80078125
+portal,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,1,10.53%,0.020,2.07421875
+trains,Qwen3-32B-Non-Thinking,TIME_LIMIT_EXCEEDED,21,78.26%,1.110,2.84765625

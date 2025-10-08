@@ -1,0 +1,22 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+2024-open-t1_Examination_2,MEMORY_LIMIT_EXCEEDED,0,4.49%,0.710,10.0,,0,0,0,0,0,0,0,0
+2024-open-t2_Heat_Stroke,RUNTIME_ERROR,0,20.85%,0.000,0,,0,0,0,0,0,0,0,0
+2024-open-t3_Library_3,RUNTIME_ERROR,0,6.67%,0.120,1.484375,,0,0,0,0,0,0,0,0
+2024-sp_Fish_3,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0
+2024-sp_Ski_2,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0
+2024-sp_Spy_3,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0
+2024-sp_Board_Game,MEMORY_LIMIT_EXCEEDED,0,2.56%,0.440,1125.09765625,,0,0,0,0,0,0,0,0
+2024-sp_Tricolor_Lights,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0
+2024-sp_Growing_Vegetables_is_Fun_5,TIME_LIMIT_EXCEEDED,4,50.39%,5.980,8.22265625,,4,0,0,0,0,0,0,0
+2024-sp_Card_Collection,RUNTIME_ERROR,0,6.06%,0.010,0,,0,0,0,0,0,0,0,0
+2024-sp_JOI_Tour,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0
+2024-sp_Tower,MEMORY_LIMIT_EXCEEDED,5,52.63%,1.260,1125.4453125,,5,0,0,0,0,0,0,0
+2024-sp_Escape_Route_2,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0
+2024-sp_Island_Hopping,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0
+2024-sp_Table_Tennis,RUNTIME_ERROR,0,11.06%,0.170,25.2734375,,0,0,0,0,0,0,0,0
+2024-ho-t1_Room_Temperature,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0
+2024-ho-t2_Construction_Project_2,TIME_LIMIT_EXCEEDED,8,15.15%,2.460,1.81640625,,8,0,0,0,0,0,0,0
+2024-ho-t3_Marathon_Race_2,RUNTIME_ERROR,0,15.56%,0.000,0,,0,0,0,0,0,0,0,0
+2024-ho-t4_Gift_Exchange,RUNTIME_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0
+2024-ho-t5_Road_Service_2,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0
+TOTAL,,17,9.27%,,,0.00%,,,,,,,,

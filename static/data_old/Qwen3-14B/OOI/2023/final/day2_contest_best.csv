@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Burenka_and_Pether,Qwen3-14B,UNKNOWN,0,0.00%,0.000,0
+Almost_Certainly,Qwen3-14B,RUNTIME_ERROR,13,15.94%,0.130,5.94140625
+Three_Arrays,Qwen3-14B,RUNTIME_ERROR,0,32.95%,0.050,0
+Parallel_Universes,Qwen3-14B,RUNTIME_ERROR,23,15.94%,0.360,1.8046875

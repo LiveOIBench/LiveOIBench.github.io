@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Space_accident_gpt-oss-20b-medium_0.cpp,RUNTIME_ERROR,25,27.27%,0.030,2.07421875,0,0,0,10.0,15.0,0,0
+Space_accident_gpt-oss-20b-medium_1.cpp,RUNTIME_ERROR,10,25.00%,0.020,2.07421875,0,0,0,10.0,0,0,0
+Space_accident_gpt-oss-20b-medium_2.cpp,RUNTIME_ERROR,49,74.23%,0.030,2.07421875,0.0,15.0,0,10.0,0,24.0,0
+Space_accident_gpt-oss-20b-medium_3.cpp,RUNTIME_ERROR,10,27.94%,0.020,2.07421875,0,0,0,10.0,0,0,0
+Space_accident_gpt-oss-20b-medium_4.cpp,RUNTIME_ERROR,25,27.27%,0.020,2.07421875,0,0,0,10.0,15.0,0,0
+Space_accident_gpt-oss-20b-medium_5.cpp,ACCEPTED,100,100.00%,0.040,2.0703125,0.0,15.0,16.0,10.0,15.0,24.0,20.0
+Space_accident_gpt-oss-20b-medium_6.cpp,RUNTIME_ERROR,31,45.33%,0.020,2.07421875,0.0,0,16.0,0,15.0,0,0
+Space_accident_gpt-oss-20b-medium_7.cpp,RUNTIME_ERROR,10,15.91%,0.020,2.07421875,0,0,0,10.0,0,0,0

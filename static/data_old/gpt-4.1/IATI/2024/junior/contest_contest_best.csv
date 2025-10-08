@@ -1,0 +1,7 @@
+problem,model,status,score,%test passed,time,memory
+aquarelle,gpt-4.1,TIME_LIMIT_EXCEEDED,11,68.24%,0.430,3.83203125
+parentheses,gpt-4.1,ACCEPTED,100,100.00%,0.220,8.046875
+tolls,gpt-4.1,ACCEPTED,100,100.00%,0.210,12.2578125
+twins,gpt-4.1,MEMORY_LIMIT_EXCEEDED,40,35.88%,0.130,2.53515625
+walk,gpt-4.1,RUNTIME_ERROR,0,0.00%,0.000,0
+xy,gpt-4.1,RUNTIME_ERROR,0,0.00%,0.140,3.10546875

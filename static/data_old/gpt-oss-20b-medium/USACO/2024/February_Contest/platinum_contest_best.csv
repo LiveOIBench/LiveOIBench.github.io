@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Lazy_Cow,gpt-oss-20b-medium,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Minimum_Sum_of_Maximums,gpt-oss-20b-medium,WRONG_ANSWER,50,29.17%,0.020,0.00390625
+platinum_Infinite_Adventure,gpt-oss-20b-medium,TIME_LIMIT_EXCEEDED,146,50.00%,2.420,544.25

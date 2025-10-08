@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+paradoks,gpt-oss-20b-medium,ACCEPTED,50,100.00%,0.020,0
+igre,gpt-oss-20b-medium,ACCEPTED,70,100.00%,0.060,1.55859375
+razlicitost,gpt-oss-20b-medium,ACCEPTED,90,100.00%,1.340,112.90234375
+blistavost,gpt-oss-20b-medium,ACCEPTED,120,100.00%,0.080,2.15625
+trokuti,gpt-oss-20b-medium,MEMORY_LIMIT_EXCEEDED,13,25.96%,0.030,1.8125

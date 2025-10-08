@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Jump_Civilization,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0
+Ramen,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0
+Signals,Llama-4-Scout,ACCEPTED,100,100.00%,0.370,173.00390625

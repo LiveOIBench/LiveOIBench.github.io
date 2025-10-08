@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+teleporters,Qwen3-4B-Non-Thinking,TIME_LIMIT_EXCEEDED,5,14.93%,1.150,6.3359375
+tree_search,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+opening_offices,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0

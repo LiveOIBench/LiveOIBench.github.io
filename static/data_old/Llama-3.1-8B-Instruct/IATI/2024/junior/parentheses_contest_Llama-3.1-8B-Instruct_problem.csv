@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+parentheses_Llama-3.1-8B-Instruct_0.cpp,RUNTIME_ERROR,0,1.56%,0.140,12.42578125,0,0,0,0,0,0,0
+parentheses_Llama-3.1-8B-Instruct_1.cpp,RUNTIME_ERROR,0,0.00%,0.130,6.0,0,0,0,0,0,0,0
+parentheses_Llama-3.1-8B-Instruct_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+parentheses_Llama-3.1-8B-Instruct_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+parentheses_Llama-3.1-8B-Instruct_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+parentheses_Llama-3.1-8B-Instruct_5.cpp,RUNTIME_ERROR,0,1.56%,0.140,3.40625,0,0,0,0,0,0,0
+parentheses_Llama-3.1-8B-Instruct_6.cpp,RUNTIME_ERROR,5,73.37%,0.170,21.703125,0,5,0,0,0,0,0
+parentheses_Llama-3.1-8B-Instruct_7.cpp,RUNTIME_ERROR,0,0.00%,0.150,4.17578125,0,0,0,0,0,0,0

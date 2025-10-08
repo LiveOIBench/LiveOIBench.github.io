@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+chairgame,Llama-3.3-70B-Instruct,RUNTIME_ERROR,4,34.78%,0.300,0.00390625
+thinice,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,22.03%,0.280,225.03125
+animeshops,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,16.67%,1.050,7.7421875

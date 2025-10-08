@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+mreza_Qwen3-30B_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+mreza_Qwen3-30B_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+mreza_Qwen3-30B_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+mreza_Qwen3-30B_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,5.510,18.66796875,0,0,0
+mreza_Qwen3-30B_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,5.520,19.94921875,0,0,0
+mreza_Qwen3-30B_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+mreza_Qwen3-30B_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+mreza_Qwen3-30B_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,5.510,20.02734375,0,0,0

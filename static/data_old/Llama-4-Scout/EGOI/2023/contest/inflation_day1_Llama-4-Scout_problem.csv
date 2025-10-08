@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+inflation_Llama-4-Scout_0.cpp,RUNTIME_ERROR,19,23.64%,0.100,15.3359375,0,0,0,19,0,0
+inflation_Llama-4-Scout_1.cpp,RUNTIME_ERROR,19,23.64%,0.240,15.3125,0,0,0,19,0,0
+inflation_Llama-4-Scout_1.cpp,RUNTIME_ERROR,19,23.64%,0.240,15.3125,0,0,0,19,0,0
+inflation_Llama-4-Scout_1.cpp,RUNTIME_ERROR,19,23.64%,0.240,15.3125,0,0,0,19,0,0
+inflation_Llama-4-Scout_3.cpp,RUNTIME_ERROR,0,0.00%,0.090,15.078125,0,0,0,0,0,0
+inflation_Llama-4-Scout_4.cpp,RUNTIME_ERROR,19,23.64%,0.230,15.3125,0,0,0,19,0,0
+inflation_Llama-4-Scout_5.cpp,RUNTIME_ERROR,19,23.64%,0.090,15.3359375,0,0,0,19,0,0
+inflation_Llama-4-Scout_7.cpp,RUNTIME_ERROR,19,11.54%,0.090,15.3359375,0,0,0,19,0,0

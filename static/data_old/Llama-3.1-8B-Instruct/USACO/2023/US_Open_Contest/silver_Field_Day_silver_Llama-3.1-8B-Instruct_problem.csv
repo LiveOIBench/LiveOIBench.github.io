@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Field_Day_Llama-3.1-8B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,0,5.00%,2.380,18.828125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Field_Day_Llama-3.1-8B-Instruct_1.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.210,279.9921875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Field_Day_Llama-3.1-8B-Instruct_2.cpp,MEMORY_LIMIT_EXCEEDED,0,5.00%,0.230,279.9921875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Field_Day_Llama-3.1-8B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,0,5.00%,2.280,28.421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Field_Day_Llama-3.1-8B-Instruct_4.cpp,WRONG_ANSWER,0,0.00%,0.240,28.16796875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Field_Day_Llama-3.1-8B-Instruct_5.cpp,WRONG_ANSWER,0,0.00%,0.130,16.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Field_Day_Llama-3.1-8B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.360,9.2890625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Field_Day_Llama-3.1-8B-Instruct_7.cpp,RUNTIME_ERROR,0,0.00%,0.120,43.54296875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

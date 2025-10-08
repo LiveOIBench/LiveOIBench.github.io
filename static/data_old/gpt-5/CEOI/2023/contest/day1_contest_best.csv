@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+grading-server,gpt-5,RUNTIME_ERROR,10,11.84%,0.100,0.00390625
+light,gpt-5,RUNTIME_ERROR,5,9.49%,0.320,1.53515625
+balance,gpt-5,ACCEPTED,100,100.00%,0.480,67.7734375

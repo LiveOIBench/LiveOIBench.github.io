@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+sequence,Qwen3-14B,RUNTIME_ERROR,0,17.98%,0.110,46.7890625
+abc,Qwen3-14B,RUNTIME_ERROR,0,0.00%,0.020,5.4453125
+cyberland,Qwen3-14B,RUNTIME_ERROR,20,23.17%,0.330,21.91796875

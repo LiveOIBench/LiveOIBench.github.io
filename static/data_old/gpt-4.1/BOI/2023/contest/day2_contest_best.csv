@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+minequake,gpt-4.1,RUNTIME_ERROR,0,2.22%,0.020,0
+mineraldeposits,gpt-4.1,TIME_LIMIT_EXCEEDED,0,37.27%,3.010,900.7265625
+sequence,gpt-4.1,RUNTIME_ERROR,0,8.00%,0.000,0

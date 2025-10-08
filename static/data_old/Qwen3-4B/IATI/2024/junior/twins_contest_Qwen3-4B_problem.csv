@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+twins_Qwen3-4B_0.cpp,RUNTIME_ERROR,0,0.00%,0.020,1.6796875,0,0,0
+twins_Qwen3-4B_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.610,1.87109375,0,0,0
+twins_Qwen3-4B_2.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0
+twins_Qwen3-4B_3.cpp,RUNTIME_ERROR,40,35.88%,0.020,2.34765625,40,0,0
+twins_Qwen3-4B_4.cpp,RUNTIME_ERROR,0,0.00%,0.020,0.00390625,0,0,0
+twins_Qwen3-4B_5.cpp,RUNTIME_ERROR,0,0.00%,0.020,2.0703125,0,0,0
+twins_Qwen3-4B_6.cpp,RUNTIME_ERROR,0,0.59%,0.170,3.17578125,0,0,0
+twins_Qwen3-4B_7.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+message,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,10,44.44%,4.040,4.42578125
+nile,Qwen2.5-Coder-32B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+tree,Qwen2.5-Coder-32B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

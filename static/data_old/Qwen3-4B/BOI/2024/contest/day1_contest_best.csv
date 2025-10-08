@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+jobs,Qwen3-4B,COMPILATION_ERROR,0,0.00%,0.000,0
+portal,Qwen3-4B,RUNTIME_ERROR,1,10.53%,0.050,5.6796875
+trains,Qwen3-4B,TIME_LIMIT_EXCEEDED,21,79.35%,1.210,2.58984375

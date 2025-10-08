@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0_1,subtask_1_1,subtask_2_1,subtask_2_2,subtask_2_3,subtask_3_1,subtask_3_2,subtask_3_3,subtask_4_1,subtask_4_2,subtask_4_3
+balance_gemini-2.5-flash_0.cpp,RUNTIME_ERROR,0,0.00%,0.050,14.1875,0,0,0,0,0,0,0,0,0,0,0
+balance_gemini-2.5-flash_1.cpp,TIME_LIMIT_EXCEEDED,15,29.17%,2.220,53.38671875,0,0,0,0,0,15,0,0,0,0,0
+balance_gemini-2.5-flash_2.cpp,RUNTIME_ERROR,0,0.00%,0.100,30.4921875,0,0,0,0,0,0,0,0,0,0,0
+balance_gemini-2.5-flash_3.cpp,RUNTIME_ERROR,0,0.00%,0.060,13.6640625,0,0,0,0,0,0,0,0,0,0,0
+balance_gemini-2.5-flash_4.cpp,RUNTIME_ERROR,0,2.22%,0.060,20.11328125,0,0,0,0,0,0,0,0,0,0,0
+balance_gemini-2.5-flash_5.cpp,RUNTIME_ERROR,0,2.22%,0.070,20.890625,0,0,0,0,0,0,0,0,0,0,0
+balance_gemini-2.5-flash_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,71.34375,0,0,0,0,0,0,0,0,0,0,0
+balance_gemini-2.5-flash_7.cpp,RUNTIME_ERROR,0,2.22%,0.050,16.25,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4
+2024-sp_Tower_Qwen3-8B_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+2024-sp_Tower_Qwen3-8B_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.400,489.32421875,0,0,0,0
+2024-sp_Tower_Qwen3-8B_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.410,856.3203125,0,0,0,0
+2024-sp_Tower_Qwen3-8B_3.cpp,RUNTIME_ERROR,0,0.00%,0.210,1.5546875,0,0,0,0
+2024-sp_Tower_Qwen3-8B_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.410,667.421875,0,0,0,0
+2024-sp_Tower_Qwen3-8B_5.cpp,RUNTIME_ERROR,0,0.00%,0.400,124.796875,0,0,0,0
+2024-sp_Tower_Qwen3-8B_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+2024-sp_Tower_Qwen3-8B_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.410,672.33984375,0,0,0,0

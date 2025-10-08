@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+Egors_Gaming_Addiction_Qwen3-14B_0.cpp,TIME_LIMIT_EXCEEDED,15,64.19%,2.210,34.55078125,0.0,8.0,7.0,0,0,0,0,0,0
+Egors_Gaming_Addiction_Qwen3-14B_1.cpp,TIME_LIMIT_EXCEEDED,15,66.06%,2.220,34.80859375,0.0,8.0,7.0,0,0,0,0,0,0
+Egors_Gaming_Addiction_Qwen3-14B_2.cpp,TIME_LIMIT_EXCEEDED,0,13.39%,2.310,10.23828125,0.0,0,0,0,0,0,0,0,0
+Egors_Gaming_Addiction_Qwen3-14B_3.cpp,TIME_LIMIT_EXCEEDED,15,51.60%,2.260,8.15625,0.0,8.0,7.0,0,0,0,0,0,0
+Egors_Gaming_Addiction_Qwen3-14B_4.cpp,TIME_LIMIT_EXCEEDED,15,51.60%,2.290,33.0078125,0.0,8.0,7.0,0,0,0,0,0,0
+Egors_Gaming_Addiction_Qwen3-14B_5.cpp,TIME_LIMIT_EXCEEDED,15,60.19%,2.220,15.12890625,0.0,8.0,7.0,0,0,0,0,0,0
+Egors_Gaming_Addiction_Qwen3-14B_6.cpp,TIME_LIMIT_EXCEEDED,15,64.19%,2.220,13.93359375,0.0,8.0,7.0,0,0,0,0,0,0
+Egors_Gaming_Addiction_Qwen3-14B_7.cpp,TIME_LIMIT_EXCEEDED,15,51.60%,2.300,33.01953125,0.0,8.0,7.0,0,0,0,0,0,0

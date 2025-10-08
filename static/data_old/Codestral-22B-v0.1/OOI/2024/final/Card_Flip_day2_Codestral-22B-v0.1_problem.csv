@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Card_Flip_Codestral-22B-v0.1_0.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0
+Card_Flip_Codestral-22B-v0.1_1.cpp,RUNTIME_ERROR,0,10.68%,0.630,20.6484375,0,0,0,0,0,0,0,0,0,0
+Card_Flip_Codestral-22B-v0.1_2.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0
+Card_Flip_Codestral-22B-v0.1_3.cpp,TIME_LIMIT_EXCEEDED,0,5.94%,1.130,26.046875,0,0,0,0,0,0,0,0,0,0
+Card_Flip_Codestral-22B-v0.1_4.cpp,RUNTIME_ERROR,0,9.62%,0.760,33.87890625,0.0,0,0,0,0,0,0,0,0,0
+Card_Flip_Codestral-22B-v0.1_5.cpp,RUNTIME_ERROR,0,0.00%,0.400,27.13671875,0,0,0,0,0,0,0,0,0,0
+Card_Flip_Codestral-22B-v0.1_6.cpp,RUNTIME_ERROR,0,8.91%,0.400,10.8359375,0,0,0,0,0,0,0,0,0,0
+Card_Flip_Codestral-22B-v0.1_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.770,32.25390625,0,0,0,0,0,0,0,0,0,0

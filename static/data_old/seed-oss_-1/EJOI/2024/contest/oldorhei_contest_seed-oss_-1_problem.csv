@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+oldorhei_seed-oss_0.cpp,ACCEPTED,100,100.00%,0.390,77.3515625,0,7,16,17,31,29
+oldorhei_seed-oss_1.cpp,ACCEPTED,100,100.00%,0.210,99.78125,0,7,16,17,31,29
+oldorhei_seed-oss_2.cpp,ACCEPTED,100,100.00%,0.250,80.50390625,0,7,16,17,31,29
+oldorhei_seed-oss_3.cpp,ACCEPTED,100,100.00%,0.230,80.50390625,0,7,16,17,31,29
+oldorhei_seed-oss_4.cpp,ACCEPTED,100,100.00%,0.400,97.203125,0,7,16,17,31,29
+oldorhei_seed-oss_5.cpp,ACCEPTED,100,100.00%,0.390,101.5859375,0,7,16,17,31,29
+oldorhei_seed-oss_6.cpp,ACCEPTED,100,100.00%,0.230,99.06640625,0,7,16,17,31,29
+oldorhei_seed-oss_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0

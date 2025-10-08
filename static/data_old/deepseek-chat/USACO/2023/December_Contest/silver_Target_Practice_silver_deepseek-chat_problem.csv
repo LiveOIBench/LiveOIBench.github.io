@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Target_Practice_deepseek-chat_0.cpp,TIME_LIMIT_EXCEEDED,56,26.67%,2.220,16.625,0,27.777777777777775,0,0,0,27.777777777777775,0,0,0,0,0,0,0
+silver_Target_Practice_deepseek-chat_1.cpp,WRONG_ANSWER,28,20.00%,0.050,7.984375,0,27.777777777777775,0,0,0,0,0,0,0,0,0,0,0
+silver_Target_Practice_deepseek-chat_2.cpp,MEMORY_LIMIT_EXCEEDED,28,20.00%,0.300,280.7578125,0,27.777777777777775,0,0,0,0,0,0,0,0,0,0,0
+silver_Target_Practice_deepseek-chat_3.cpp,WRONG_ANSWER,28,26.67%,0.070,11.34765625,0,27.777777777777775,0,0,0,0,0,0,0,0,0,0,0
+silver_Target_Practice_deepseek-chat_4.cpp,TIME_LIMIT_EXCEEDED,28,20.00%,2.230,11.04296875,0,27.777777777777775,0,0,0,0,0,0,0,0,0,0,0
+silver_Target_Practice_deepseek-chat_5.cpp,WRONG_ANSWER,167,53.33%,0.060,10.4140625,0,27.777777777777775,0,0,0,27.777777777777775,27.777777777777775,27.777777777777775,27.777777777777775,0,0,0,27.777777777777775
+silver_Target_Practice_deepseek-chat_6.cpp,TIME_LIMIT_EXCEEDED,28,26.67%,2.230,10.52734375,0,27.777777777777775,0,0,0,0,0,0,0,0,0,0,0
+silver_Target_Practice_deepseek-chat_7.cpp,WRONG_ANSWER,28,20.00%,0.060,11.171875,0,27.777777777777775,0,0,0,0,0,0,0,0,0,0,0

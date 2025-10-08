@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+slasticarnica_deepseek-reasoner_0.cpp,RUNTIME_ERROR,0,0.00%,0.030,1.62109375,0,0,0
+slasticarnica_deepseek-reasoner_1.cpp,RUNTIME_ERROR,0,2.50%,0.160,127.94140625,0,0,0
+slasticarnica_deepseek-reasoner_2.cpp,RUNTIME_ERROR,0,0.00%,0.030,0.00390625,0,0,0
+slasticarnica_deepseek-reasoner_3.cpp,RUNTIME_ERROR,0,2.50%,0.090,96.94921875,0,0,0
+slasticarnica_deepseek-reasoner_4.cpp,RUNTIME_ERROR,0,0.00%,0.040,1.5546875,0,0,0
+slasticarnica_deepseek-reasoner_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.410,562.29296875,0,0,0
+slasticarnica_deepseek-reasoner_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.500,562.15234375,0,0,0
+slasticarnica_deepseek-reasoner_7.cpp,RUNTIME_ERROR,0,0.00%,0.030,0.00390625,0,0,0

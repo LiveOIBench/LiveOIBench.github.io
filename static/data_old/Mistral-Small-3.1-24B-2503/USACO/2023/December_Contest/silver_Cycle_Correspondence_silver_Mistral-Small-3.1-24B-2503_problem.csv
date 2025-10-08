@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Cycle_Correspondence_Mistral-Small-3.1-24B-2503_0.cpp,RUNTIME_ERROR,0,0.00%,0.310,32.94140625,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Cycle_Correspondence_Mistral-Small-3.1-24B-2503_1.cpp,RUNTIME_ERROR,0,0.00%,0.240,31.6796875,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Cycle_Correspondence_Mistral-Small-3.1-24B-2503_2.cpp,RUNTIME_ERROR,0,0.00%,0.230,14.890625,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Cycle_Correspondence_Mistral-Small-3.1-24B-2503_3.cpp,RUNTIME_ERROR,28,6.67%,0.330,31.65234375,0,0,0,0,0,27.777777777777775,0,0,0,0,0,0,0
+silver_Cycle_Correspondence_Mistral-Small-3.1-24B-2503_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.330,8.38671875,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Cycle_Correspondence_Mistral-Small-3.1-24B-2503_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.320,8.77734375,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Cycle_Correspondence_Mistral-Small-3.1-24B-2503_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.440,34.40234375,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Cycle_Correspondence_Mistral-Small-3.1-24B-2503_7.cpp,RUNTIME_ERROR,0,0.00%,0.260,35.02734375,0,0,0,0,0,0,0,0,0,0,0,0,0

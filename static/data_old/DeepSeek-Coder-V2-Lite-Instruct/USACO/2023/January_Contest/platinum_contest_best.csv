@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Tractor_Paths,DeepSeek-Coder-V2-Lite-Instruct,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.110,4.17578125
+platinum_Mana_Collection,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Subtree_Activation,DeepSeek-Coder-V2-Lite-Instruct,WRONG_ANSWER,17,4.76%,0.160,12.6484375

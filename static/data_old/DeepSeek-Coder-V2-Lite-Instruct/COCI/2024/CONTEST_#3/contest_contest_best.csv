@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+eurokod,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,17,33.33%,0.000,0
+vrsar,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,0,0.00%,1.110,6.97265625
+milano,DeepSeek-Coder-V2-Lite-Instruct,ACCEPTED,110,100.00%,0.160,4.6328125
+restorani,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,0.68%,0.150,22.9765625
+cesta,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

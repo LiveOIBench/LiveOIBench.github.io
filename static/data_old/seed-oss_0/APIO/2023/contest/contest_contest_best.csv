@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+sequence,seed-oss_0,RUNTIME_ERROR,0,8.24%,0.110,23.7109375
+abc,seed-oss_0,COMPILATION_ERROR,0,0.00%,0.000,0
+cyberland,seed-oss_0,RUNTIME_ERROR,63,53.66%,0.940,35.921875

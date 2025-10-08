@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+editor_Llama-3.1-8B-Instruct_0.cpp,RUNTIME_ERROR,0,1.61%,0.630,8.0,0,0,0,0,0,0
+editor_Llama-3.1-8B-Instruct_1.cpp,RUNTIME_ERROR,0,3.23%,0.100,4.65234375,0,0,0,0,0,0
+editor_Llama-3.1-8B-Instruct_2.cpp,RUNTIME_ERROR,0,11.29%,0.070,4.65234375,0,0,0,0,0,0
+editor_Llama-3.1-8B-Instruct_3.cpp,RUNTIME_ERROR,0,8.06%,0.260,4.65234375,0,0,0,0,0,0
+editor_Llama-3.1-8B-Instruct_4.cpp,RUNTIME_ERROR,0,12.90%,0.240,4.65234375,0,0,0,0,0,0
+editor_Llama-3.1-8B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,0,1.61%,4.410,4.7109375,0,0,0,0,0,0
+editor_Llama-3.1-8B-Instruct_6.cpp,RUNTIME_ERROR,0,11.29%,0.220,4.65234375,0,0,0,0,0,0
+editor_Llama-3.1-8B-Instruct_7.cpp,RUNTIME_ERROR,0,9.68%,0.110,5.94140625,0,0,0,0,0,0

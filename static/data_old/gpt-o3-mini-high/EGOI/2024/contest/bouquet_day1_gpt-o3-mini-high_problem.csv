@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+bouquet_gpt-o3-mini-high_0.cpp,ACCEPTED,100,100.00%,0.100,20.37890625,0,8,16,28,18,30
+bouquet_gpt-o3-mini-high_1.cpp,ACCEPTED,100,100.00%,0.080,15.22265625,0,8,16,28,18,30
+bouquet_gpt-o3-mini-high_2.cpp,ACCEPTED,100,100.00%,0.090,19.60546875,0,8,16,28,18,30
+bouquet_gpt-o3-mini-high_3.cpp,ACCEPTED,100,100.00%,0.070,5.9375,0,8,16,28,18,30
+bouquet_gpt-o3-mini-high_4.cpp,ACCEPTED,100,100.00%,0.080,5.94140625,0,8,16,28,18,30
+bouquet_gpt-o3-mini-high_5.cpp,ACCEPTED,100,100.00%,0.080,6.70703125,0,8,16,28,18,30
+bouquet_gpt-o3-mini-high_6.cpp,ACCEPTED,100,100.00%,0.080,5.9375,0,8,16,28,18,30
+bouquet_gpt-o3-mini-high_7.cpp,ACCEPTED,100,100.00%,0.080,5.9375,0,8,16,28,18,30

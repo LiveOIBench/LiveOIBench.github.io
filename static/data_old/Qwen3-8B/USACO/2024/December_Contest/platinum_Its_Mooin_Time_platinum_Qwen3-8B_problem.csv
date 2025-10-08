@@ -1,0 +1,7 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Its_Mooin_Time_Qwen3-8B_1.cpp,TIME_LIMIT_EXCEEDED,0,11.11%,3.610,8.85546875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_Qwen3-8B_2.cpp,TIME_LIMIT_EXCEEDED,24,16.67%,3.620,13.203125,0,0,0,0,0,0,0,23.809523809523807,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_Qwen3-8B_3.cpp,TIME_LIMIT_EXCEEDED,0,11.11%,3.620,8.62890625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_Qwen3-8B_4.cpp,RUNTIME_ERROR,24,16.67%,0.320,6.96875,0,0,0,0,0,0,0,23.809523809523807,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_Qwen3-8B_6.cpp,TIME_LIMIT_EXCEEDED,0,5.56%,3.620,8.6328125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_Qwen3-8B_7.cpp,TIME_LIMIT_EXCEEDED,24,16.67%,3.620,10.79296875,0,0,0,0,0,0,0,23.809523809523807,0,0,0,0,0,0,0

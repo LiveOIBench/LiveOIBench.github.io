@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+zbunjenost_Llama-3.3-70B-Instruct_0.cpp,MEMORY_LIMIT_EXCEEDED,13,33.87%,1.330,559.73046875,13,0,0,0,0
+zbunjenost_Llama-3.3-70B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,5.510,257.6796875,0,0,0,0,0
+zbunjenost_Llama-3.3-70B-Instruct_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+zbunjenost_Llama-3.3-70B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,5.640,38.6484375,0,0,0,0,0
+zbunjenost_Llama-3.3-70B-Instruct_4.cpp,RUNTIME_ERROR,0,0.00%,0.200,264.296875,0,0,0,0,0
+zbunjenost_Llama-3.3-70B-Instruct_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.350,561.4921875,0,0,0,0,0
+zbunjenost_Llama-3.3-70B-Instruct_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+zbunjenost_Llama-3.3-70B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,5.530,99.80859375,0,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_21,subtask_22,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Watching_Cowflix_gemini-2.5-flash_0.cpp,RUNTIME_ERROR,0,0.00%,0.770,140.8125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watching_Cowflix_gemini-2.5-flash_1.cpp,RUNTIME_ERROR,0,0.00%,0.240,103.41796875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watching_Cowflix_gemini-2.5-flash_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watching_Cowflix_gemini-2.5-flash_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.320,280.9296875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watching_Cowflix_gemini-2.5-flash_4.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,1.470,281.07421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watching_Cowflix_gemini-2.5-flash_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watching_Cowflix_gemini-2.5-flash_6.cpp,MEMORY_LIMIT_EXCEEDED,136,45.83%,0.630,280.87890625,0,15.15151515151515,0,0,15.15151515151515,15.15151515151515,0,0,0,15.15151515151515,0,0,15.15151515151515,0,0,15.15151515151515,15.15151515151515,0,0,0,15.15151515151515,0,15.15151515151515
+platinum_Watching_Cowflix_gemini-2.5-flash_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

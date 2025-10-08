@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+hieroglyphs,Llama-3.1-8B-Instruct,TIME_LIMIT_EXCEEDED,0,0.45%,1.110,4.04296875
+sphinx,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+mosaic,Llama-3.1-8B-Instruct,TIME_LIMIT_EXCEEDED,12,57.66%,1.110,2243.5

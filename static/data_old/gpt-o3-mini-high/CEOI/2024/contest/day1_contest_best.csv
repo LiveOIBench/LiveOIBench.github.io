@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+covid,gpt-o3-mini-high,RUNTIME_ERROR,10,66.67%,0.050,1.52734375
+battle,gpt-o3-mini-high,ACCEPTED,100,100.00%,1.170,117.703125
+editor,gpt-o3-mini-high,MEMORY_LIMIT_EXCEEDED,56,90.16%,1.230,1125.35546875

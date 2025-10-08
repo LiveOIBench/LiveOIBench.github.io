@@ -1,0 +1,10 @@
+problem,model,status,score,%test passed,time,memory
+Colorful_Diameter,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,0,4.10%,7.710,5.3984375
+Road_Lighting,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,0,13.68%,2.220,6.7109375
+Repainting_the_Table,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,72,88.42%,1.660,41.96875
+Distinctive_Features,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,30,53.36%,3.310,43.58203125
+Classic_Tree_Problem,DeepSeek-R1-Distill-Llama-70B,UNKNOWN,0,0.00%,0.000,0
+Alien_Homophones,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,38,89.37%,2.210,27.56640625
+Stone_Enthusiast,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,100,100.00%,0.580,2.828125
+Egors_Gaming_Addiction,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,15,60.19%,2.210,13.9296875
+Ultrafast_train,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,42,85.96%,0.150,7.9453125

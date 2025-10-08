@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+zrinka_deepseek-reasoner_0.cpp,RUNTIME_ERROR,15,20.00%,0.000,0,15,0,0,0
+zrinka_deepseek-reasoner_1.cpp,RUNTIME_ERROR,15,20.00%,0.030,1.8125,15,0,0,0
+zrinka_deepseek-reasoner_2.cpp,RUNTIME_ERROR,15,20.00%,0.030,0,15,0,0,0
+zrinka_deepseek-reasoner_3.cpp,RUNTIME_ERROR,15,20.00%,0.030,1.8125,15,0,0,0
+zrinka_deepseek-reasoner_4.cpp,RUNTIME_ERROR,35,40.00%,0.000,0,15,20,0,0
+zrinka_deepseek-reasoner_5.cpp,RUNTIME_ERROR,15,20.00%,0.030,0,15,0,0,0
+zrinka_deepseek-reasoner_6.cpp,RUNTIME_ERROR,35,40.00%,0.030,0.00390625,15,20,0,0
+zrinka_deepseek-reasoner_7.cpp,RUNTIME_ERROR,35,40.00%,0.030,0.00390625,15,20,0,0

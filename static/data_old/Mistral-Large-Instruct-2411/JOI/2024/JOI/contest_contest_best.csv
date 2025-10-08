@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+2024-ho-t1_Room_Temperature,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0
+2024-ho-t2_Construction_Project_2,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,8,15.15%,2.460,1.81640625
+2024-ho-t3_Marathon_Race_2,Mistral-Large-Instruct-2411,RUNTIME_ERROR,0,15.56%,0.000,0
+2024-ho-t4_Gift_Exchange,Mistral-Large-Instruct-2411,RUNTIME_ERROR,0,0.00%,0.000,0
+2024-ho-t5_Road_Service_2,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Milk_Sum,DeepSeek-R1-Distill-Llama-70B,WRONG_ANSWER,100,36.36%,0.300,5.25
+silver_Field_Day,DeepSeek-R1-Distill-Llama-70B,WRONG_ANSWER,246,75.00%,0.130,11.65625
+silver_Pareidolia,DeepSeek-R1-Distill-Llama-70B,COMPILATION_ERROR,0,0.00%,0.000,0

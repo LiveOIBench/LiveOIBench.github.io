@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+sudoku,gemini-2.5-flash,ACCEPTED,50,100.00%,0.000,0
+labirint,gemini-2.5-flash,ACCEPTED,70,100.00%,0.050,0.00390625
+an2dl,gemini-2.5-flash,ACCEPTED,110,100.00%,1.050,122.2109375
+kocke,gemini-2.5-flash,RUNTIME_ERROR,0,13.33%,0.050,6.97265625
+mostovi,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,30,56.78%,3.330,13.0390625

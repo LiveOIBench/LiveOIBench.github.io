@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+estimathon,gemini-2.5-flash,ACCEPTED,50,100.00%,0.000,0
+dirigent,gemini-2.5-flash,ACCEPTED,70,100.00%,0.140,3.62109375
+baltazar,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,15,62.50%,4.810,64.0
+bomboni,gemini-2.5-flash,ACCEPTED,110,100.00%,0.210,18.56640625
+skrivaca,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,0,2.13%,2.220,218.88671875

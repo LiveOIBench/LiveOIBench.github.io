@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_DFS_Order,gemini-2.5-flash,RUNTIME_ERROR,0,4.35%,0.050,8.0
+platinum_Shock_Wave,gemini-2.5-flash,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Watering_the_Plants,gemini-2.5-flash,RUNTIME_ERROR,0,0.00%,0.100,9.03125

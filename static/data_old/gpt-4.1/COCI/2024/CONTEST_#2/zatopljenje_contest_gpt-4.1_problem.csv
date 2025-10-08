@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+zatopljenje_gpt-4.1_0.cpp,RUNTIME_ERROR,20,25.00%,0.180,25.19921875,0,20,0,0
+zatopljenje_gpt-4.1_1.cpp,TIME_LIMIT_EXCEEDED,0,5.00%,2.270,27.90234375,0,0,0,0
+zatopljenje_gpt-4.1_2.cpp,RUNTIME_ERROR,0,0.00%,0.070,1.55078125,0,0,0,0
+zatopljenje_gpt-4.1_3.cpp,ACCEPTED,110,100.00%,0.410,55.71875,10,20,20,60
+zatopljenje_gpt-4.1_4.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0
+zatopljenje_gpt-4.1_5.cpp,RUNTIME_ERROR,10,32.50%,0.140,7.171875,10,0,0,0
+zatopljenje_gpt-4.1_6.cpp,RUNTIME_ERROR,0,0.00%,0.060,0,0,0,0,0
+zatopljenje_gpt-4.1_7.cpp,ACCEPTED,110,100.00%,0.200,15.19921875,10,20,20,60

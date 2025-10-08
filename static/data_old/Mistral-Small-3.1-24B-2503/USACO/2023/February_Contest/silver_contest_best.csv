@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bakery,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Cow-libi,Mistral-Small-3.1-24B-2503,WRONG_ANSWER,0,9.09%,0.260,3.62109375
+silver_Moo_Route_II,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0

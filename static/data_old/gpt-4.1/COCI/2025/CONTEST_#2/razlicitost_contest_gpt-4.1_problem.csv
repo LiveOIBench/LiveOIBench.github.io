@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+razlicitost_gpt-4.1_0.cpp,TIME_LIMIT_EXCEEDED,25,37.21%,2.210,4.39453125,25,0,0,0
+razlicitost_gpt-4.1_1.cpp,MEMORY_LIMIT_EXCEEDED,47,74.42%,0.130,4.390625,25,13,9,0
+razlicitost_gpt-4.1_2.cpp,TIME_LIMIT_EXCEEDED,38,53.49%,2.270,5.421875,25,13,0,0
+razlicitost_gpt-4.1_3.cpp,MEMORY_LIMIT_EXCEEDED,22,37.21%,0.120,4.91015625,0,13,9,0
+razlicitost_gpt-4.1_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.240,5.6796875,0,0,0,0
+razlicitost_gpt-4.1_5.cpp,MEMORY_LIMIT_EXCEEDED,22,37.21%,0.140,22.6953125,0,13,9,0
+razlicitost_gpt-4.1_6.cpp,TIME_LIMIT_EXCEEDED,22,37.21%,2.260,4.39453125,0,13,9,0
+razlicitost_gpt-4.1_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.250,24.2421875,0,0,0,0

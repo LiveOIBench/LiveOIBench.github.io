@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+Skittlez_Qwen3-8B-Non-Thinking_0.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0
+Skittlez_Qwen3-8B-Non-Thinking_1.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0
+Skittlez_Qwen3-8B-Non-Thinking_2.cpp,TIME_LIMIT_EXCEEDED,7,37.21%,2.420,306.2890625,0,7,0,0,0
+Skittlez_Qwen3-8B-Non-Thinking_3.cpp,TIME_LIMIT_EXCEEDED,7,37.21%,2.410,306.28515625,0,7,0,0,0
+Skittlez_Qwen3-8B-Non-Thinking_4.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0
+Skittlez_Qwen3-8B-Non-Thinking_5.cpp,TIME_LIMIT_EXCEEDED,7,37.21%,2.420,306.60546875,0,7,0,0,0
+Skittlez_Qwen3-8B-Non-Thinking_6.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0
+Skittlez_Qwen3-8B-Non-Thinking_7.cpp,RUNTIME_ERROR,0,2.78%,0.040,62.28125,0,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cake_Game,deepseek-reasoner,ACCEPTED,333,100.00%,0.130,7.15234375
+silver_Deforestation,deepseek-reasoner,ACCEPTED,333,100.00%,0.190,4.3359375
+silver_2D_Conveyor_Belt,deepseek-reasoner,RUNTIME_ERROR,0,7.69%,0.120,12.19921875

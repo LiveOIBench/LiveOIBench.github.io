@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Maximize_Minimum_Difference_Qwen2.5-Coder-14B-Instruct_0.cpp,RUNTIME_ERROR,0,0.00%,0.180,16.82421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Maximize_Minimum_Difference_Qwen2.5-Coder-14B-Instruct_1.cpp,RUNTIME_ERROR,0,0.00%,0.170,16.8203125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Maximize_Minimum_Difference_Qwen2.5-Coder-14B-Instruct_2.cpp,RUNTIME_ERROR,0,0.00%,0.120,6.71484375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Maximize_Minimum_Difference_Qwen2.5-Coder-14B-Instruct_3.cpp,RUNTIME_ERROR,0,0.00%,0.110,0.00390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Maximize_Minimum_Difference_Qwen2.5-Coder-14B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.450,16.76953125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Maximize_Minimum_Difference_Qwen2.5-Coder-14B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.460,32.03515625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Maximize_Minimum_Difference_Qwen2.5-Coder-14B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.430,280.765625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Maximize_Minimum_Difference_Qwen2.5-Coder-14B-Instruct_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

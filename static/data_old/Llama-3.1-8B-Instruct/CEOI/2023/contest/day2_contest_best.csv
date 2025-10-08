@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+trade,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+incursion,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+avoid,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

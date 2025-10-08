@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+2025-ho-t1_Grid_Coloring,Qwen3-30B-Non-Thinking,TIME_LIMIT_EXCEEDED,0,15.46%,2.330,21.1484375
+2025-ho-t2_Bitaro_the_Brave_2,Qwen3-30B-Non-Thinking,TIME_LIMIT_EXCEEDED,31,62.77%,1.280,16.51171875
+2025-ho-t4_Just_Long_Neckties_2,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,0,1.92%,0.000,0
+2025-ho-t5_Post_Office,Qwen3-30B-Non-Thinking,TIME_LIMIT_EXCEEDED,0,4.69%,2.210,2.84375

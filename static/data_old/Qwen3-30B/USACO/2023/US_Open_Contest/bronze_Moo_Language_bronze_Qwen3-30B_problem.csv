@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Moo_Language_Qwen3-30B_0.cpp,WRONG_ANSWER,0,0.00%,0.220,1.75390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Moo_Language_Qwen3-30B_1.cpp,WRONG_ANSWER,0,0.00%,0.180,1.72265625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Moo_Language_Qwen3-30B_2.cpp,WRONG_ANSWER,0,0.00%,0.120,1.6015625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Moo_Language_Qwen3-30B_3.cpp,WRONG_ANSWER,0,0.00%,0.150,1.82421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Moo_Language_Qwen3-30B_4.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.110,1.69921875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Moo_Language_Qwen3-30B_5.cpp,WRONG_ANSWER,0,0.00%,0.120,1.578125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Moo_Language_Qwen3-30B_6.cpp,WRONG_ANSWER,0,0.00%,0.130,1.6953125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Moo_Language_Qwen3-30B_7.cpp,WRONG_ANSWER,0,0.00%,0.180,1.86328125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

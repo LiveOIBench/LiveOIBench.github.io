@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+eurokod,seed-oss_-1,ACCEPTED,50,100.00%,0.000,0
+vrsar,seed-oss_-1,ACCEPTED,70,100.00%,0.080,5.1640625
+milano,seed-oss_-1,ACCEPTED,110,100.00%,0.050,4.39453125
+restorani,seed-oss_-1,MEMORY_LIMIT_EXCEEDED,0,0.68%,0.090,48.9921875
+cesta,seed-oss_-1,RUNTIME_ERROR,0,0.92%,0.020,2.58984375

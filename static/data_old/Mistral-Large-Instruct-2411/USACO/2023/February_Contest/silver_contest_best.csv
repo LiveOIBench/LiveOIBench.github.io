@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bakery,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,0,9.09%,2.210,0.00390625
+silver_Cow-libi,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,0,9.09%,4.490,5.94140625
+silver_Moo_Route_II,Mistral-Large-Instruct-2411,RUNTIME_ERROR,130,35.00%,0.490,11.8671875

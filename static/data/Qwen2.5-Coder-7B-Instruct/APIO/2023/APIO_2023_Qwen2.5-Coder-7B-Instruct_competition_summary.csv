@@ -1,0 +1,5 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+sequence,TIME_LIMIT_EXCEEDED,11,44.92%,1.800,5.9453125,,0,11,0,0,0,0,0,0,0
+abc,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0
+cyberland,TIME_LIMIT_EXCEEDED,0,1.22%,3.010,479.04296875,,0,0,0,0,0,0,0,0,0
+TOTAL,,11,15.38%,,,0.00%,,,,,,,,,

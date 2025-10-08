@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+icecreammachines,Qwen3-4B,RUNTIME_ERROR,7,46.23%,0.020,0.00390625
+chatnoi,Qwen3-4B,RUNTIME_ERROR,0,42.33%,0.020,0
+islandalliances,Qwen3-4B,TIME_LIMIT_EXCEEDED,35,55.26%,5.980,20.1953125

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Forklift_Certified,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Lazy_Sort,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Package_Pickup,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0

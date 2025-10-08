@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bovine_Acrobatics,gpt-4.1,TIME_LIMIT_EXCEEDED,156,52.94%,2.280,11.65234375
+silver_Cycle_Correspondence,gpt-4.1,TIME_LIMIT_EXCEEDED,139,53.33%,2.550,44.16015625
+silver_Target_Practice,gpt-4.1,TIME_LIMIT_EXCEEDED,83,40.00%,2.280,10.13671875

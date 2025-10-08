@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+2024-open-t1_Examination_2,gpt-oss-20b-low,TIME_LIMIT_EXCEEDED,20,40.20%,2.410,25.87890625
+2024-open-t2_Heat_Stroke,gpt-oss-20b-low,RUNTIME_ERROR,0,20.85%,0.020,0.00390625
+2024-open-t3_Library_3,gpt-oss-20b-low,COMPILATION_ERROR,0,0.00%,0.000,0

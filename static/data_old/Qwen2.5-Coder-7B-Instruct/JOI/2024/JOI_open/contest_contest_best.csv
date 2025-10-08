@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+2024-open-t1_Examination_2,Qwen2.5-Coder-7B-Instruct,TIME_LIMIT_EXCEEDED,0,3.41%,2.250,27.42578125
+2024-open-t2_Heat_Stroke,Qwen2.5-Coder-7B-Instruct,RUNTIME_ERROR,0,20.85%,0.130,0
+2024-open-t3_Library_3,Qwen2.5-Coder-7B-Instruct,RUNTIME_ERROR,0,6.67%,0.130,1.5390625

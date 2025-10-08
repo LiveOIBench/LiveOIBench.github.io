@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Space_accident_Qwen3-30B-Non-Thinking_0.cpp,RUNTIME_ERROR,10,18.94%,0.100,3.140625,0,0,0,10.0,0,0,0
+Space_accident_Qwen3-30B-Non-Thinking_1.cpp,RUNTIME_ERROR,0,5.30%,0.000,0,0,0,0,0,0,0,0
+Space_accident_Qwen3-30B-Non-Thinking_2.cpp,RUNTIME_ERROR,0,7.58%,0.000,0,0,0,0,0,0,0,0
+Space_accident_Qwen3-30B-Non-Thinking_3.cpp,RUNTIME_ERROR,0,5.30%,0.100,0,0,0,0,0,0,0,0
+Space_accident_Qwen3-30B-Non-Thinking_4.cpp,RUNTIME_ERROR,0,5.30%,0.000,0,0,0,0,0,0,0,0
+Space_accident_Qwen3-30B-Non-Thinking_5.cpp,RUNTIME_ERROR,0,4.55%,0.100,1.55859375,0,0,0,0,0,0,0
+Space_accident_Qwen3-30B-Non-Thinking_6.cpp,RUNTIME_ERROR,0,6.06%,0.100,1.5,0,0,0,0,0,0,0
+Space_accident_Qwen3-30B-Non-Thinking_7.cpp,RUNTIME_ERROR,0,5.30%,0.000,0,0,0,0,0,0,0,0

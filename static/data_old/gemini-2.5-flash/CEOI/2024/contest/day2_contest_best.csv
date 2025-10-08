@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+toy,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,44,85.97%,1.490,600.3046875
+stations,gemini-2.5-flash,RUNTIME_ERROR,0,13.04%,0.160,57.75
+sprinklers,gemini-2.5-flash,RUNTIME_ERROR,9,47.46%,0.170,10.078125

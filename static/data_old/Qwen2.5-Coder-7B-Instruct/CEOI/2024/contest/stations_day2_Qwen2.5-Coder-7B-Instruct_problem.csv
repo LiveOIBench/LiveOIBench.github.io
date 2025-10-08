@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+stations_Qwen2.5-Coder-7B-Instruct_0.cpp,RUNTIME_ERROR,0,0.00%,0.120,5.67578125,0,0,0,0,0,0,0
+stations_Qwen2.5-Coder-7B-Instruct_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+stations_Qwen2.5-Coder-7B-Instruct_2.cpp,RUNTIME_ERROR,0,4.55%,0.120,5.9375,0,0,0,0,0,0,0
+stations_Qwen2.5-Coder-7B-Instruct_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+stations_Qwen2.5-Coder-7B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,4.55%,3.900,1897.05859375,0,0,0,0,0,0,0
+stations_Qwen2.5-Coder-7B-Instruct_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+stations_Qwen2.5-Coder-7B-Instruct_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+stations_Qwen2.5-Coder-7B-Instruct_7.cpp,RUNTIME_ERROR,0,4.55%,0.060,5.1640625,0,0,0,0,0,0,0

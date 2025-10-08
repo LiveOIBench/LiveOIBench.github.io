@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+sah,gpt-oss-20b-low,ACCEPTED,50,100.00%,0.030,1.8125
+benzinska,gpt-oss-20b-low,ACCEPTED,70,100.00%,0.060,8.48046875
+xor,gpt-oss-20b-low,UNKNOWN,0,0.00%,0.000,0
+cipele,gpt-oss-20b-low,COMPILATION_ERROR,0,0.00%,0.000,0
+tura,gpt-oss-20b-low,RUNTIME_ERROR,0,0.00%,0.020,1.8125

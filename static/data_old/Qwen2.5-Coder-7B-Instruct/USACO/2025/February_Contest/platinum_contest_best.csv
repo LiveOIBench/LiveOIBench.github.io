@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Min_Max_Subarrays,Qwen2.5-Coder-7B-Instruct,TIME_LIMIT_EXCEEDED,0,7.69%,3.420,12.90234375
+platinum_Transforming_Pairs,Qwen2.5-Coder-7B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_True_or_False_Test,Qwen2.5-Coder-7B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Distinctive_Features_gemini-2.5-flash_0.cpp,TIME_LIMIT_EXCEEDED,42,63.24%,3.340,70.48046875,0.0,10.0,7.0,13.0,0,0,0,12.0,0,0
+Distinctive_Features_gemini-2.5-flash_1.cpp,RUNTIME_ERROR,19,13.10%,0.820,107.21484375,0,0,0,0,19.0,0,0,0,0,0
+Distinctive_Features_gemini-2.5-flash_2.cpp,ACCEPTED,100,100.00%,0.530,92.2578125,0.0,10.0,7.0,13.0,19.0,7.0,10.0,12.0,7.0,15.0
+Distinctive_Features_gemini-2.5-flash_3.cpp,TIME_LIMIT_EXCEEDED,42,62.87%,3.340,91.53515625,0.0,10.0,7.0,13.0,0,0,0,12.0,0,0
+Distinctive_Features_gemini-2.5-flash_4.cpp,TIME_LIMIT_EXCEEDED,42,62.87%,3.330,71.1640625,0.0,10.0,7.0,13.0,0,0,0,12.0,0,0
+Distinctive_Features_gemini-2.5-flash_5.cpp,TIME_LIMIT_EXCEEDED,42,63.24%,3.330,72.1875,0.0,10.0,7.0,13.0,0,0,0,12.0,0,0
+Distinctive_Features_gemini-2.5-flash_6.cpp,ACCEPTED,100,100.00%,0.730,110.03125,0.0,10.0,7.0,13.0,19.0,7.0,10.0,12.0,7.0,15.0
+Distinctive_Features_gemini-2.5-flash_7.cpp,ACCEPTED,100,100.00%,0.500,70.5234375,0.0,10.0,7.0,13.0,19.0,7.0,10.0,12.0,7.0,15.0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Its_Mooin_Time_II_Qwen3-8B_0.cpp,WRONG_ANSWER,0,9.09%,0.140,25.28515625,0,0,0,0,0,0,0,0,0,0,0
+bronze_Its_Mooin_Time_II_Qwen3-8B_1.cpp,WRONG_ANSWER,0,9.09%,0.320,33.25390625,0,0,0,0,0,0,0,0,0,0,0
+bronze_Its_Mooin_Time_II_Qwen3-8B_2.cpp,WRONG_ANSWER,0,9.09%,0.190,13.14453125,0,0,0,0,0,0,0,0,0,0,0
+bronze_Its_Mooin_Time_II_Qwen3-8B_3.cpp,MEMORY_LIMIT_EXCEEDED,0,9.09%,0.640,306.54296875,0,0,0,0,0,0,0,0,0,0,0
+bronze_Its_Mooin_Time_II_Qwen3-8B_4.cpp,WRONG_ANSWER,0,9.09%,0.280,29.53125,0,0,0,0,0,0,0,0,0,0,0
+bronze_Its_Mooin_Time_II_Qwen3-8B_5.cpp,WRONG_ANSWER,0,9.09%,0.190,16.76953125,0,0,0,0,0,0,0,0,0,0,0
+bronze_Its_Mooin_Time_II_Qwen3-8B_6.cpp,WRONG_ANSWER,0,9.09%,0.230,13.1484375,0,0,0,0,0,0,0,0,0,0,0
+bronze_Its_Mooin_Time_II_Qwen3-8B_7.cpp,WRONG_ANSWER,0,9.09%,0.310,25.2109375,0,0,0,0,0,0,0,0,0,0,0

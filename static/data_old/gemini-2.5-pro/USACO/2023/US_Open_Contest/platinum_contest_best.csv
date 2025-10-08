@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Pareidolia,gemini-2.5-pro,MEMORY_LIMIT_EXCEEDED,150,47.62%,2.610,562.28125
+platinum_Good_Bitstrings,gemini-2.5-pro,WRONG_ANSWER,0,4.76%,0.040,0
+platinum_Triples_of_Cows,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,39,25.00%,2.260,280.98828125

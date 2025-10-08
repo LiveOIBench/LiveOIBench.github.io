@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+message,gemini-2.5-flash,RUNTIME_ERROR,0,6.67%,0.790,3.91796875
+nile,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,67,83.76%,2.210,9.5546875
+tree,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,10,25.88%,2.210,16.05859375

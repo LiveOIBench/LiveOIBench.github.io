@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Mooball_Teams_III_Llama-3.1-8B-Instruct_0.cpp,RUNTIME_ERROR,0,0.00%,0.260,24.2421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Mooball_Teams_III_Llama-3.1-8B-Instruct_1.cpp,RUNTIME_ERROR,0,0.00%,0.170,5.9375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Mooball_Teams_III_Llama-3.1-8B-Instruct_2.cpp,RUNTIME_ERROR,0,0.00%,0.170,15.99609375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Mooball_Teams_III_Llama-3.1-8B-Instruct_3.cpp,RUNTIME_ERROR,0,0.00%,0.200,23.47265625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Mooball_Teams_III_Llama-3.1-8B-Instruct_4.cpp,RUNTIME_ERROR,0,0.00%,0.240,15.06640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Mooball_Teams_III_Llama-3.1-8B-Instruct_5.cpp,RUNTIME_ERROR,0,0.00%,0.190,25.84765625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Mooball_Teams_III_Llama-3.1-8B-Instruct_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.240,201.5078125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Mooball_Teams_III_Llama-3.1-8B-Instruct_7.cpp,RUNTIME_ERROR,0,0.00%,0.170,22.6953125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

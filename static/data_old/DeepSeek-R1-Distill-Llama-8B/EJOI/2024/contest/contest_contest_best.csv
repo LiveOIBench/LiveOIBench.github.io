@@ -1,0 +1,7 @@
+problem,model,status,score,%test passed,time,memory
+cheese,DeepSeek-R1-Distill-Llama-8B,COMPILATION_ERROR,0,0.00%,0.000,0
+oldorhei,DeepSeek-R1-Distill-Llama-8B,TIME_LIMIT_EXCEEDED,24,53.49%,3.400,2.58984375
+manypairs,DeepSeek-R1-Distill-Llama-8B,COMPILATION_ERROR,0,0.00%,0.000,0
+cfduels,DeepSeek-R1-Distill-Llama-8B,COMPILATION_ERROR,0,0.00%,0.000,0
+hora,DeepSeek-R1-Distill-Llama-8B,COMPILATION_ERROR,0,0.00%,0.000,0
+sweets,DeepSeek-R1-Distill-Llama-8B,COMPILATION_ERROR,0,0.00%,0.000,0

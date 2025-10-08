@@ -1,0 +1,10 @@
+problem,model,status,score,%test passed,time,memory
+Colorful_Diameter,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,18,53.49%,7.710,5.16796875
+Road_Lighting,Llama-3.3-70B-Instruct,UNKNOWN,0,0.00%,0.000,0
+Repainting_the_Table,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,17,50.34%,1.660,25.21875
+Distinctive_Features,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,17,35.65%,3.330,36.859375
+Classic_Tree_Problem,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,0.00%,0.000,0
+Alien_Homophones,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,38,85.42%,2.260,22.98046875
+Stone_Enthusiast,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,0,1.71%,2.210,1.734375
+Egors_Gaming_Addiction,Llama-3.3-70B-Instruct,UNKNOWN,0,0.00%,0.000,0
+Ultrafast_train,Llama-3.3-70B-Instruct,ACCEPTED,100,100.00%,0.130,15.4296875

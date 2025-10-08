@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+stablo_deepseek-reasoner_0.cpp,RUNTIME_ERROR,0,14.71%,0.330,49.24609375,0,0,0,0
+stablo_deepseek-reasoner_1.cpp,RUNTIME_ERROR,0,14.71%,0.510,119.640625,0,0,0,0
+stablo_deepseek-reasoner_2.cpp,RUNTIME_ERROR,0,14.71%,0.280,47.1875,0,0,0,0
+stablo_deepseek-reasoner_3.cpp,RUNTIME_ERROR,0,0.00%,0.020,12.8984375,0,0,0,0
+stablo_deepseek-reasoner_4.cpp,RUNTIME_ERROR,0,14.71%,0.280,81.5390625,0,0,0,0
+stablo_deepseek-reasoner_5.cpp,RUNTIME_ERROR,0,0.00%,0.020,12.90234375,0,0,0,0
+stablo_deepseek-reasoner_6.cpp,RUNTIME_ERROR,0,14.71%,0.300,45.6171875,0,0,0,0
+stablo_deepseek-reasoner_7.cpp,RUNTIME_ERROR,0,0.00%,0.020,12.83984375,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4
+2023-ho-t2_Advertisement_2_gpt-5_0.cpp,RUNTIME_ERROR,10,46.77%,0.100,16.5078125,10,0,0,0
+2023-ho-t2_Advertisement_2_gpt-5_1.cpp,ACCEPTED,100,100.00%,0.280,42.2890625,10,23,36,31
+2023-ho-t2_Advertisement_2_gpt-5_2.cpp,ACCEPTED,100,100.00%,0.220,9.03125,10,23,36,31
+2023-ho-t2_Advertisement_2_gpt-5_3.cpp,ACCEPTED,100,100.00%,0.210,9.03125,10,23,36,31
+2023-ho-t2_Advertisement_2_gpt-5_4.cpp,ACCEPTED,100,100.00%,0.200,9.03125,10,23,36,31
+2023-ho-t2_Advertisement_2_gpt-5_5.cpp,ACCEPTED,100,100.00%,0.220,9.03125,10,23,36,31
+2023-ho-t2_Advertisement_2_gpt-5_6.cpp,ACCEPTED,100,100.00%,0.210,9.03125,10,23,36,31
+2023-ho-t2_Advertisement_2_gpt-5_7.cpp,ACCEPTED,100,100.00%,0.200,9.03125,10,23,36,31

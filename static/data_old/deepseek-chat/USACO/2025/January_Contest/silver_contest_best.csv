@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cow_Checkups,deepseek-chat,TIME_LIMIT_EXCEEDED,100,39.13%,2.250,26.30859375
+silver_Farmer_Johns_Favorite_Operation,deepseek-chat,WRONG_ANSWER,0,0.00%,0.100,4.39453125
+silver_Table_Recovery,deepseek-chat,RUNTIME_ERROR,0,6.67%,0.180,9.02734375

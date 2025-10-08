@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+cern,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,17,14.29%,4.440,10.61328125
+koreografija,DeepSeek-R1-Distill-Llama-70B,UNKNOWN,0,0.00%,0.000,0
+ministarstvo,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,1.75%,0.140,5.1640625
+sirologija,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,0.57%,0.140,4.36328125

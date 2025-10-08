@@ -1,0 +1,5 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+diplomacy,TIME_LIMIT_EXCEEDED,0,1.08%,4.810,23.22265625,,0,0,0,0,0,0,0
+garbage,TIME_LIMIT_EXCEEDED,0,15.07%,5.980,5.6796875,,0,0,0,0,0,0,0
+xoracle,ACCEPTED,100,100.00%,0.350,3.56640625,,8,5,9,11,24,43,0
+TOTAL,,100,38.71%,,,33.33%,,,,,,,

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+sphinx_deepseek-reasoner_0.cpp,RUNTIME_ERROR,0,8.33%,0.050,3.86328125,0,0.0,0.0,0.0,0.0,0.0
+sphinx_deepseek-reasoner_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+sphinx_deepseek-reasoner_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+sphinx_deepseek-reasoner_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+sphinx_deepseek-reasoner_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+sphinx_deepseek-reasoner_5.cpp,RUNTIME_ERROR,0,0.00%,0.050,3.88671875,0,0.0,0.0,0.0,0.0,0.0
+sphinx_deepseek-reasoner_6.cpp,RUNTIME_ERROR,10,49.52%,0.370,4.2578125,0,3,7,0.0,0.0,0.0
+sphinx_deepseek-reasoner_7.cpp,RUNTIME_ERROR,0,6.38%,0.050,3.78125,0,0,0.0,0,0,0.0

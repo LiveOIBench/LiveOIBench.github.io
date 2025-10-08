@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Tractor_Paths_gpt-4.1_0.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.290,554.171875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_gpt-4.1_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.410,5.83984375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_gpt-4.1_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.500,35.37109375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_gpt-4.1_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.530,53.265625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_gpt-4.1_4.cpp,WRONG_ANSWER,0,0.00%,0.170,64.79296875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_gpt-4.1_5.cpp,WRONG_ANSWER,0,0.00%,0.250,17.4453125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_gpt-4.1_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_gpt-4.1_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.430,19.0703125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

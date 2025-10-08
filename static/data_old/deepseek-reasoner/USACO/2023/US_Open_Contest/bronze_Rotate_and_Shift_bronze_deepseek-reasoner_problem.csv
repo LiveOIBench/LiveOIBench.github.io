@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Rotate_and_Shift_deepseek-reasoner_0.cpp,TIME_LIMIT_EXCEEDED,167,53.85%,4.440,2.87890625,0,27.777777777777775,0,0,0,27.777777777777775,27.777777777777775,27.777777777777775,27.777777777777775,27.777777777777775,0,0,0
+bronze_Rotate_and_Shift_deepseek-reasoner_1.cpp,WRONG_ANSWER,0,0.00%,3.450,2.58984375,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Rotate_and_Shift_deepseek-reasoner_2.cpp,TIME_LIMIT_EXCEEDED,167,53.85%,4.440,2.88671875,0,27.777777777777775,0,0,0,27.777777777777775,27.777777777777775,27.777777777777775,27.777777777777775,27.777777777777775,0,0,0
+bronze_Rotate_and_Shift_deepseek-reasoner_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Rotate_and_Shift_deepseek-reasoner_4.cpp,TIME_LIMIT_EXCEEDED,167,53.85%,4.420,4.00390625,0,27.777777777777775,0,0,0,27.777777777777775,27.777777777777775,27.777777777777775,27.777777777777775,27.777777777777775,0,0,0
+bronze_Rotate_and_Shift_deepseek-reasoner_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.430,2.58984375,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Rotate_and_Shift_deepseek-reasoner_6.cpp,WRONG_ANSWER,0,0.00%,0.050,1.81640625,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Rotate_and_Shift_deepseek-reasoner_7.cpp,WRONG_ANSWER,0,7.69%,0.040,1.81640625,0,0,0,0,0,0,0,0,0,0,0,0,0

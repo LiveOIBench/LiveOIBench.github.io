@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Best_Runner_gpt-o3-mini-high_0.cpp,RUNTIME_ERROR,44,43.41%,0.070,6.97265625,0.0,23.0,10.0,0,0,11.0,0
+Best_Runner_gpt-o3-mini-high_1.cpp,TIME_LIMIT_EXCEEDED,69,49.61%,1.160,9.80078125,0.0,23.0,0,16.0,19.0,11.0,0
+Best_Runner_gpt-o3-mini-high_2.cpp,RUNTIME_ERROR,11,4.67%,0.190,190.32421875,0,0,0,0,0,11.0,0
+Best_Runner_gpt-o3-mini-high_3.cpp,ACCEPTED,100,100.00%,0.100,6.97265625,0.0,23.0,10.0,16.0,19.0,11.0,21.0
+Best_Runner_gpt-o3-mini-high_4.cpp,ACCEPTED,100,100.00%,0.090,6.97265625,0.0,23.0,10.0,16.0,19.0,11.0,21.0
+Best_Runner_gpt-o3-mini-high_5.cpp,ACCEPTED,100,100.00%,0.110,6.97265625,0.0,23.0,10.0,16.0,19.0,11.0,21.0
+Best_Runner_gpt-o3-mini-high_6.cpp,ACCEPTED,100,100.00%,0.100,6.97265625,0.0,23.0,10.0,16.0,19.0,11.0,21.0
+Best_Runner_gpt-o3-mini-high_7.cpp,ACCEPTED,100,100.00%,0.090,6.97265625,0.0,23.0,10.0,16.0,19.0,11.0,21.0

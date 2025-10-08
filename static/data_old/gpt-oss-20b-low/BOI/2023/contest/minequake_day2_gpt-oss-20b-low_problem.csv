@@ -1,0 +1,6 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+minequake_gpt-oss-20b-low_1.cpp,RUNTIME_ERROR,0,2.22%,0.000,0,0,0,0,0,0,0
+minequake_gpt-oss-20b-low_3.cpp,RUNTIME_ERROR,0,2.96%,0.000,3.359375,0,0,0,0,0,0
+minequake_gpt-oss-20b-low_4.cpp,RUNTIME_ERROR,0,2.22%,0.000,0,0,0,0,0,0,0
+minequake_gpt-oss-20b-low_5.cpp,RUNTIME_ERROR,0,2.22%,0.000,0,0,0,0,0,0,0
+minequake_gpt-oss-20b-low_6.cpp,RUNTIME_ERROR,0,2.22%,0.000,0,0,0,0,0,0,0

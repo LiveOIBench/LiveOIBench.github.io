@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+hieroglyphs_deepseek-chat_0.cpp,TIME_LIMIT_EXCEEDED,0,0.89%,1.110,2.9453125,0,0,0,0,0,0,0
+hieroglyphs_deepseek-chat_1.cpp,TIME_LIMIT_EXCEEDED,0,3.54%,1.110,1027.69140625,0,0,0,0,0,0,0
+hieroglyphs_deepseek-chat_2.cpp,RUNTIME_ERROR,3,9.09%,0.050,24.82421875,0,3,0,0,0,0,0
+hieroglyphs_deepseek-chat_3.cpp,TIME_LIMIT_EXCEEDED,3,6.55%,1.120,12.484375,0,3,0,0,0,0,0
+hieroglyphs_deepseek-chat_4.cpp,RUNTIME_ERROR,0,3.52%,0.070,129.43359375,0,0,0,0,0,0,0
+hieroglyphs_deepseek-chat_5.cpp,RUNTIME_ERROR,0,0.00%,0.010,1.55859375,0,0,0,0,0,0,0
+hieroglyphs_deepseek-chat_6.cpp,TIME_LIMIT_EXCEEDED,3,6.11%,1.110,14.79296875,0,3,0,0,0,0,0
+hieroglyphs_deepseek-chat_7.cpp,RUNTIME_ERROR,3,6.11%,0.080,34.23828125,0,3,0,0,0,0,0

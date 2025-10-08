@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Roundabout_Rounding,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Farmer_Johns_Cheese_Block,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,0.00%,0.000,0
+bronze_Its_Mooin_Time,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,33,7.69%,0.110,0.00390625

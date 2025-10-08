@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+iksevi_deepseek-reasoner_0.cpp,RUNTIME_ERROR,0,0.00%,0.200,0.00390625,0,0,0
+iksevi_deepseek-reasoner_1.cpp,RUNTIME_ERROR,0,0.00%,0.200,0.00390625,0,0,0
+iksevi_deepseek-reasoner_2.cpp,RUNTIME_ERROR,0,0.00%,0.210,0.00390625,0,0,0
+iksevi_deepseek-reasoner_3.cpp,RUNTIME_ERROR,0,0.00%,0.240,0.00390625,0,0,0
+iksevi_deepseek-reasoner_4.cpp,TIME_LIMIT_EXCEEDED,70,77.78%,3.310,0.00390625,15,55,0
+iksevi_deepseek-reasoner_5.cpp,ACCEPTED,110,100.00%,0.540,39.3984375,15,55,40
+iksevi_deepseek-reasoner_6.cpp,RUNTIME_ERROR,0,0.00%,0.240,0.00390625,0,0,0
+iksevi_deepseek-reasoner_7.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0

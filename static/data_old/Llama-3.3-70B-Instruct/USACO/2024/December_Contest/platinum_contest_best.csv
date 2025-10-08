@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_All_Pairs_Similarity,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,0,6.67%,2.240,3.36328125
+platinum_Its_Mooin_Time,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,0,5.56%,3.560,4.1796875
+platinum_Maximize_Minimum_Difference,Llama-3.3-70B-Instruct,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.110,0.00390625

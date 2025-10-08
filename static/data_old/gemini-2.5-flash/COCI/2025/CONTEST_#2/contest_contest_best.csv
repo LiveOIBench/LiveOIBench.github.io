@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+paradoks,gemini-2.5-flash,ACCEPTED,50,100.00%,0.000,0
+igre,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,42,63.27%,2.210,94.8828125
+razlicitost,gemini-2.5-flash,RUNTIME_ERROR,47,74.42%,0.450,253.4296875
+blistavost,gemini-2.5-flash,ACCEPTED,120,100.00%,0.040,3.87109375
+trokuti,gemini-2.5-flash,RUNTIME_ERROR,13,25.96%,0.040,3.875

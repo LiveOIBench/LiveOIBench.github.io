@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+hieroglyphs,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,4.02%,0.390,10.78515625
+sphinx,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,3.26%,0.050,3.83984375
+mosaic,Mistral-Small-3.1-24B-2503,MEMORY_LIMIT_EXCEEDED,22,64.86%,1.070,2238.85546875

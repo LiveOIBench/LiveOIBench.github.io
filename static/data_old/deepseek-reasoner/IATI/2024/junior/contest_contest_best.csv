@@ -1,0 +1,7 @@
+problem,model,status,score,%test passed,time,memory
+aquarelle,deepseek-reasoner,RUNTIME_ERROR,0,42.15%,0.000,0
+parentheses,deepseek-reasoner,ACCEPTED,100,100.00%,0.210,32.0234375
+tolls,deepseek-reasoner,ACCEPTED,100,100.00%,0.190,6.2265625
+twins,deepseek-reasoner,RUNTIME_ERROR,40,35.88%,0.130,3.16796875
+walk,deepseek-reasoner,RUNTIME_ERROR,0,0.00%,0.120,3.5625
+xy,deepseek-reasoner,RUNTIME_ERROR,0,2.86%,0.140,3.26953125

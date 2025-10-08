@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+eurokod,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0
+vrsar,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0
+milano,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,9.52%,0.120,6.17578125
+restorani,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,0.68%,0.230,21.1484375
+cesta,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0

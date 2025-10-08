@@ -1,0 +1,10 @@
+problem,model,status,score,%test passed,time,memory
+Colorful_Diameter,Mistral-Small-3.1-24B-2503,TIME_LIMIT_EXCEEDED,18,53.49%,7.710,10.90625
+Road_Lighting,Mistral-Small-3.1-24B-2503,UNKNOWN,0,0.00%,0.000,0
+Repainting_the_Table,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,28.21%,0.100,0
+Distinctive_Features,Mistral-Small-3.1-24B-2503,TIME_LIMIT_EXCEEDED,17,35.65%,3.420,69.359375
+Classic_Tree_Problem,Mistral-Small-3.1-24B-2503,UNKNOWN,0,0.00%,0.000,0
+Alien_Homophones,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,55.53%,0.210,1.59375
+Stone_Enthusiast,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,1.71%,0.280,7.19921875
+Egors_Gaming_Addiction,Mistral-Small-3.1-24B-2503,UNKNOWN,0,0.00%,0.000,0
+Ultrafast_train,Mistral-Small-3.1-24B-2503,ACCEPTED,100,100.00%,0.140,10.52734375

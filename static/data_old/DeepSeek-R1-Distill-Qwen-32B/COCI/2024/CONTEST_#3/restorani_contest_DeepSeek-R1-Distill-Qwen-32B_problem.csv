@@ -1,0 +1,5 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+restorani_DeepSeek-R1-Distill-Qwen-32B_0.cpp,RUNTIME_ERROR,0,0.68%,0.300,61.953125,0,0,0,0
+restorani_DeepSeek-R1-Distill-Qwen-32B_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+restorani_DeepSeek-R1-Distill-Qwen-32B_2.cpp,RUNTIME_ERROR,0,0.68%,0.280,44.7890625,0,0,0,0
+restorani_DeepSeek-R1-Distill-Qwen-32B_5.cpp,TIME_LIMIT_EXCEEDED,0,0.68%,2.240,60.8046875,0,0,0,0

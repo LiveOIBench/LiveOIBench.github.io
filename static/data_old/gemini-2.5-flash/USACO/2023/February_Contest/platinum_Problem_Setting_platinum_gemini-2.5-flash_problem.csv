@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Problem_Setting_gemini-2.5-flash_0.cpp,WRONG_ANSWER,33,13.64%,0.120,18.84375,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,0
+platinum_Problem_Setting_gemini-2.5-flash_1.cpp,RUNTIME_ERROR,0,0.00%,0.120,23.7109375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Problem_Setting_gemini-2.5-flash_2.cpp,WRONG_ANSWER,33,13.64%,0.140,26.9921875,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,0
+platinum_Problem_Setting_gemini-2.5-flash_3.cpp,WRONG_ANSWER,33,13.64%,0.110,22.8671875,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,0
+platinum_Problem_Setting_gemini-2.5-flash_4.cpp,WRONG_ANSWER,33,13.64%,0.110,33.125,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,0
+platinum_Problem_Setting_gemini-2.5-flash_5.cpp,WRONG_ANSWER,33,13.64%,0.070,32.3515625,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,0
+platinum_Problem_Setting_gemini-2.5-flash_6.cpp,WRONG_ANSWER,33,13.64%,0.060,23.55859375,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,0
+platinum_Problem_Setting_gemini-2.5-flash_7.cpp,WRONG_ANSWER,33,13.64%,0.130,26.66015625,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,0

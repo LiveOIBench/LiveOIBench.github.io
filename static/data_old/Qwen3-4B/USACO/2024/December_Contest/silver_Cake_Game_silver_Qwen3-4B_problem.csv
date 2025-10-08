@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Cake_Game_Qwen3-4B_0.cpp,WRONG_ANSWER,0,0.00%,0.250,6.1015625,0,0,0,0,0,0,0,0,0,0,0
+silver_Cake_Game_Qwen3-4B_1.cpp,WRONG_ANSWER,33,18.18%,0.230,3.78125,0,33.33333333333333,0,0,0,0,0,0,0,0,0
+silver_Cake_Game_Qwen3-4B_2.cpp,WRONG_ANSWER,33,18.18%,0.230,6.1015625,0,33.33333333333333,0,0,0,0,0,0,0,0,0
+silver_Cake_Game_Qwen3-4B_3.cpp,WRONG_ANSWER,33,18.18%,0.240,6.1015625,0,33.33333333333333,0,0,0,0,0,0,0,0,0
+silver_Cake_Game_Qwen3-4B_4.cpp,TIME_LIMIT_EXCEEDED,0,9.09%,2.420,5.2265625,0,0,0,0,0,0,0,0,0,0,0
+silver_Cake_Game_Qwen3-4B_5.cpp,WRONG_ANSWER,33,18.18%,0.250,6.1015625,0,33.33333333333333,0,0,0,0,0,0,0,0,0
+silver_Cake_Game_Qwen3-4B_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.410,3.78515625,0,0,0,0,0,0,0,0,0,0,0
+silver_Cake_Game_Qwen3-4B_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.260,290.58984375,0,0,0,0,0,0,0,0,0,0,0

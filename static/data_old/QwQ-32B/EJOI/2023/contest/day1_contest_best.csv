@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+teleporters,QwQ-32B,TIME_LIMIT_EXCEEDED,5,16.42%,1.150,7.22265625
+tree_search,QwQ-32B,RUNTIME_ERROR,35,50.00%,0.160,9.87109375
+opening_offices,QwQ-32B,TIME_LIMIT_EXCEEDED,18,19.67%,1.270,220.22265625

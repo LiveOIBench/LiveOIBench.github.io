@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+astronomer,gpt-oss-120b-low,TIME_LIMIT_EXCEEDED,36,80.00%,5.980,0.00390625
+staringcontest,gpt-oss-120b-low,RUNTIME_ERROR,0,2.56%,0.010,1.484375
+tycho,gpt-oss-120b-low,RUNTIME_ERROR,0,63.24%,0.010,0

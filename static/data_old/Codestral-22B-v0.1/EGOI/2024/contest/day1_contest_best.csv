@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+bouquet,Codestral-22B-v0.1,RUNTIME_ERROR,0,3.51%,0.090,3.6171875
+infiniterace,Codestral-22B-v0.1,RUNTIME_ERROR,0,5.63%,0.000,0
+teamcoding,Codestral-22B-v0.1,RUNTIME_ERROR,0,5.56%,0.000,0
+gardendecorations,Codestral-22B-v0.1,RUNTIME_ERROR,0,0.00%,0.000,0

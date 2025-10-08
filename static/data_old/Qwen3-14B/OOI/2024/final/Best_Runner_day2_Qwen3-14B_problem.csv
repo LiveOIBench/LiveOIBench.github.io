@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Best_Runner_Qwen3-14B_0.cpp,RUNTIME_ERROR,50,44.44%,0.140,8.3671875,0.0,23.0,0,16.0,0,11.0,0
+Best_Runner_Qwen3-14B_1.cpp,RUNTIME_ERROR,50,44.44%,0.150,8.2265625,0.0,23.0,0,16.0,0,11.0,0
+Best_Runner_Qwen3-14B_2.cpp,RUNTIME_ERROR,34,39.68%,0.150,6.97265625,0.0,23.0,0,0,0,11.0,0
+Best_Runner_Qwen3-14B_3.cpp,RUNTIME_ERROR,11,4.67%,0.140,4.91015625,0,0,0,0,0,11.0,0
+Best_Runner_Qwen3-14B_4.cpp,RUNTIME_ERROR,34,37.10%,0.140,4.91015625,0.0,23.0,0,0,0,11.0,0
+Best_Runner_Qwen3-14B_5.cpp,RUNTIME_ERROR,50,44.44%,0.140,8.22265625,0.0,23.0,0,16.0,0,11.0,0
+Best_Runner_Qwen3-14B_6.cpp,RUNTIME_ERROR,34,39.68%,0.140,6.97265625,0.0,23.0,0,0,0,11.0,0
+Best_Runner_Qwen3-14B_7.cpp,RUNTIME_ERROR,34,37.10%,0.150,4.91015625,0.0,23.0,0,0,0,11.0,0

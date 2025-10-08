@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Job_Completion_Qwen3-4B-Non-Thinking_0.cpp,WRONG_ANSWER,22,12.50%,0.210,7.7890625,0,22.22222222222222,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Job_Completion_Qwen3-4B-Non-Thinking_1.cpp,WRONG_ANSWER,0,6.25%,0.240,11.62109375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Job_Completion_Qwen3-4B-Non-Thinking_2.cpp,WRONG_ANSWER,22,12.50%,0.400,4.55859375,0,22.22222222222222,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Job_Completion_Qwen3-4B-Non-Thinking_3.cpp,WRONG_ANSWER,0,0.00%,0.390,7.90234375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Job_Completion_Qwen3-4B-Non-Thinking_4.cpp,WRONG_ANSWER,0,0.00%,0.240,4.81640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Job_Completion_Qwen3-4B-Non-Thinking_5.cpp,WRONG_ANSWER,22,12.50%,0.220,7.92578125,0,22.22222222222222,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Job_Completion_Qwen3-4B-Non-Thinking_6.cpp,WRONG_ANSWER,0,0.00%,0.210,4.58203125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Job_Completion_Qwen3-4B-Non-Thinking_7.cpp,WRONG_ANSWER,0,0.00%,0.210,4.58203125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

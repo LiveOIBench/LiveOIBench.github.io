@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+Skittlez_gemini-2.5-pro_0.cpp,TIME_LIMIT_EXCEEDED,28,56.00%,2.410,78.86328125,0,7,21,0,0
+Skittlez_gemini-2.5-pro_1.cpp,TIME_LIMIT_EXCEEDED,28,64.15%,2.410,53.72265625,0,7,21,0,0
+Skittlez_gemini-2.5-pro_2.cpp,TIME_LIMIT_EXCEEDED,28,64.15%,2.410,49.89453125,0,7,21,0,0
+Skittlez_gemini-2.5-pro_3.cpp,MEMORY_LIMIT_EXCEEDED,28,56.00%,0.370,295.14453125,0,7,21,0,0
+Skittlez_gemini-2.5-pro_4.cpp,RUNTIME_ERROR,28,56.00%,0.560,250.19140625,0,7,21,0,0
+Skittlez_gemini-2.5-pro_5.cpp,TIME_LIMIT_EXCEEDED,28,64.15%,2.410,42.74609375,0,7,21,0,0
+Skittlez_gemini-2.5-pro_6.cpp,TIME_LIMIT_EXCEEDED,28,64.15%,2.420,53.76953125,0,7,21,0,0
+Skittlez_gemini-2.5-pro_7.cpp,TIME_LIMIT_EXCEEDED,28,75.86%,2.410,81.6875,0,7,21,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+xoracle_gemini-2.5-pro_0.cpp,ACCEPTED,100,100.00%,0.410,3.8125,8,5,9,11,24,43
+xoracle_gemini-2.5-pro_1.cpp,ACCEPTED,100,100.00%,0.580,3.53125,8,5,9,11,24,43
+xoracle_gemini-2.5-pro_2.cpp,ACCEPTED,100,100.00%,0.580,3.53125,8,5,9,11,24,43
+xoracle_gemini-2.5-pro_3.cpp,ACCEPTED,100,100.00%,0.570,3.53125,8,5,9,11,24,43
+xoracle_gemini-2.5-pro_4.cpp,ACCEPTED,100,100.00%,0.580,3.79296875,8,5,9,11,24,43
+xoracle_gemini-2.5-pro_5.cpp,ACCEPTED,100,100.00%,0.470,3.53125,8,5,9,11,24,43
+xoracle_gemini-2.5-pro_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+xoracle_gemini-2.5-pro_7.cpp,ACCEPTED,100,100.00%,0.540,29.28515625,8,5,9,11,24,43

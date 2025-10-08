@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Alice_Bob_and_two_arrays_Qwen2.5-Coder-14B-Instruct_0.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alice_Bob_and_two_arrays_Qwen2.5-Coder-14B-Instruct_1.cpp,ACCEPTED,100,100.00%,1.200,11.09765625,0.0,13.0,10.0,7.0,12.0,11.0,8.0,10.0,7.0,6.0,7.0,9.0
+Alice_Bob_and_two_arrays_Qwen2.5-Coder-14B-Instruct_2.cpp,RUNTIME_ERROR,10,23.92%,0.140,1.5546875,0.0,0,0,0,0,0,0,10.0,0,0,0,0
+Alice_Bob_and_two_arrays_Qwen2.5-Coder-14B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,0,8.04%,2.800,11.1015625,0.0,0,0,0,0,0,0,0,0,0,0,0
+Alice_Bob_and_two_arrays_Qwen2.5-Coder-14B-Instruct_4.cpp,ACCEPTED,100,100.00%,1.620,3.875,0.0,13.0,10.0,7.0,12.0,11.0,8.0,10.0,7.0,6.0,7.0,9.0
+Alice_Bob_and_two_arrays_Qwen2.5-Coder-14B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,93,96.79%,2.770,165.5,0.0,13.0,10.0,0,12.0,11.0,8.0,10.0,7.0,6.0,7.0,9.0
+Alice_Bob_and_two_arrays_Qwen2.5-Coder-14B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,75,87.50%,2.830,11.16015625,0.0,13.0,0,0,12.0,11.0,0,10.0,7.0,6.0,7.0,9.0
+Alice_Bob_and_two_arrays_Qwen2.5-Coder-14B-Instruct_7.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+travel_Llama-3.1-8B-Instruct_0.cpp,RUNTIME_ERROR,0,0.00%,0.210,37.90625,0,0,0,0,0,0,0
+travel_Llama-3.1-8B-Instruct_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+travel_Llama-3.1-8B-Instruct_2.cpp,RUNTIME_ERROR,0,0.00%,0.210,37.60546875,0,0,0,0,0,0,0
+travel_Llama-3.1-8B-Instruct_3.cpp,RUNTIME_ERROR,0,0.00%,0.190,30.421875,0,0,0,0,0,0,0
+travel_Llama-3.1-8B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.240,70.1015625,0,0,0,0,0,0,0
+travel_Llama-3.1-8B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.230,39.484375,0,0,0,0,0,0,0
+travel_Llama-3.1-8B-Instruct_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+travel_Llama-3.1-8B-Instruct_7.cpp,RUNTIME_ERROR,0,0.00%,0.210,37.64453125,0,0,0,0,0,0,0

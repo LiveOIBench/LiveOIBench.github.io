@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Choose_Interval,QwQ-32B,RUNTIME_ERROR,0,10.91%,0.100,0
+Skittlez,QwQ-32B,UNKNOWN,0,0.00%,0.000,0
+Octagon,QwQ-32B,RUNTIME_ERROR,0,24.44%,0.000,0

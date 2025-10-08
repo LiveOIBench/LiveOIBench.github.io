@@ -1,0 +1,10 @@
+problem,model,status,score,%test passed,time,memory
+Colorful_Diameter,Qwen3-30B,TIME_LIMIT_EXCEEDED,18,54.38%,7.710,5.1640625
+Road_Lighting,Qwen3-30B,TIME_LIMIT_EXCEEDED,24,63.16%,2.210,8.390625
+Repainting_the_Table,Qwen3-30B,TIME_LIMIT_EXCEEDED,72,86.84%,1.660,54.06640625
+Distinctive_Features,Qwen3-30B,TIME_LIMIT_EXCEEDED,30,53.36%,3.340,43.578125
+Classic_Tree_Problem,Qwen3-30B,RUNTIME_ERROR,0,0.00%,0.000,0
+Alien_Homophones,Qwen3-30B,TIME_LIMIT_EXCEEDED,38,86.19%,2.210,53.55859375
+Stone_Enthusiast,Qwen3-30B,ACCEPTED,100,100.00%,0.460,2.84765625
+Egors_Gaming_Addiction,Qwen3-30B,TIME_LIMIT_EXCEEDED,15,64.19%,2.210,14.375
+Ultrafast_train,Qwen3-30B,ACCEPTED,100,100.00%,0.140,10.37890625

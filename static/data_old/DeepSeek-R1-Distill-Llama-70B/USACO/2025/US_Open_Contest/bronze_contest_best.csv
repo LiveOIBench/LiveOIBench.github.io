@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Hoof_Paper_Scissors_Minus_One,DeepSeek-R1-Distill-Llama-70B,WRONG_ANSWER,0,8.33%,0.200,2.5859375
+bronze_More_Cow_Photos,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,333,100.00%,0.170,2.640625
+bronze_Its_Mooin_Time_III,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,67,18.18%,2.270,2.38671875

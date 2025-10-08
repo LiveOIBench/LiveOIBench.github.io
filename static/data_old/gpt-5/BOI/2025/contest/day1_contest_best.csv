@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+boi,gpt-5,RUNTIME_ERROR,33,50.00%,0.050,17.8046875
+tou,gpt-5,ACCEPTED,100,100.00%,0.640,107.98828125
+tow,gpt-5,TIME_LIMIT_EXCEEDED,22,66.67%,2.420,1.48828125

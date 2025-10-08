@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+opening_offices_gemini-2.5-pro_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+opening_offices_gemini-2.5-pro_1.cpp,RUNTIME_ERROR,41,59.02%,0.500,127.5703125,0,4,0,5,9,0,9,0,14,0,0
+opening_offices_gemini-2.5-pro_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+opening_offices_gemini-2.5-pro_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.130,838.1796875,0,0,0,0,0,0,0,0,0,0,0
+opening_offices_gemini-2.5-pro_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+opening_offices_gemini-2.5-pro_5.cpp,TIME_LIMIT_EXCEEDED,18,39.34%,1.150,73.99609375,0,4,0,5,9,0,0,0,0,0,0
+opening_offices_gemini-2.5-pro_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.130,239.58984375,0,0,0,0,0,0,0,0,0,0,0
+opening_offices_gemini-2.5-pro_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.150,127.8359375,0,0,0,0,0,0,0,0,0,0,0

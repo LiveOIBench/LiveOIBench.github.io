@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+nile_Qwen3-14B-Non-Thinking_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+nile_Qwen3-14B-Non-Thinking_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,12.65625,0,0,0,0,0,0,0,0
+nile_Qwen3-14B-Non-Thinking_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+nile_Qwen3-14B-Non-Thinking_4.cpp,TIME_LIMIT_EXCEEDED,0,3.70%,2.210,10.73046875,0,0,0,0,0,0,0,0
+nile_Qwen3-14B-Non-Thinking_5.cpp,RUNTIME_ERROR,0,0.00%,0.060,5.37109375,0,0,0,0,0,0,0,0
+nile_Qwen3-14B-Non-Thinking_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.220,1026.73046875,0,0,0,0,0,0,0,0
+nile_Qwen3-14B-Non-Thinking_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0

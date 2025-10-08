@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Island_Vacation,Llama-3.3-70B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Merging_Cells,Llama-3.3-70B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Mooball_Teams_III,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,0,4.17%,2.260,2.90625

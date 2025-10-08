@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Tractor_Paths,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,44,18.75%,4.460,9.55859375
+platinum_Mana_Collection,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,0,4.17%,5.610,301.9453125
+platinum_Subtree_Activation,DeepSeek-R1-Distill-Llama-70B,WRONG_ANSWER,0,4.76%,0.000,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+trade,QwQ-32B,COMPILATION_ERROR,0,0.00%,0.000,0
+incursion,QwQ-32B,COMPILATION_ERROR,0,0.00%,0.000,0
+avoid,QwQ-32B,RUNTIME_ERROR,10,7.41%,0.030,1.5390625

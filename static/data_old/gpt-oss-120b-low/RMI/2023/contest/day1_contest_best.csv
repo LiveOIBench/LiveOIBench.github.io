@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Heroes,gpt-oss-120b-low,RUNTIME_ERROR,0,42.11%,0.050,0
+Pinball,gpt-oss-120b-low,TIME_LIMIT_EXCEEDED,13,34.21%,3.630,20.01953125
+AA_Tree,gpt-oss-120b-low,COMPILATION_ERROR,0,0.00%,0.000,0

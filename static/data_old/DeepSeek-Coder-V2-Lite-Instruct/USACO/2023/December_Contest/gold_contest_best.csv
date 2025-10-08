@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Flight_Routes,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,17,4.55%,0.110,0
+gold_Minimum_Longest_Trip,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Haybale_Distribution,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,22,12.50%,2.330,3.62109375

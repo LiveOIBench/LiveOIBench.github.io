@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+iksevi_gpt-o3-mini-high_0.cpp,ACCEPTED,110,100.00%,0.460,39.3984375,15,55,40
+iksevi_gpt-o3-mini-high_1.cpp,RUNTIME_ERROR,0,0.00%,0.580,0.00390625,0,0,0
+iksevi_gpt-o3-mini-high_2.cpp,RUNTIME_ERROR,0,0.00%,0.450,0.00390625,0,0,0
+iksevi_gpt-o3-mini-high_3.cpp,ACCEPTED,110,100.00%,0.580,39.3984375,15,55,40
+iksevi_gpt-o3-mini-high_4.cpp,RUNTIME_ERROR,15,33.33%,0.860,39.3984375,15,0,0
+iksevi_gpt-o3-mini-high_5.cpp,ACCEPTED,110,100.00%,0.590,39.3984375,15,55,40
+iksevi_gpt-o3-mini-high_6.cpp,ACCEPTED,110,100.00%,2.270,39.39453125,15,55,40
+iksevi_gpt-o3-mini-high_7.cpp,ACCEPTED,110,100.00%,0.480,39.45703125,15,55,40

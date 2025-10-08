@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+2025-ho-t3_Mi_Teleférico_Qwen3-4B_0.cpp,RUNTIME_ERROR,0,0.00%,0.110,5.1640625,0,0,0,0,0,0,0
+2025-ho-t3_Mi_Teleférico_Qwen3-4B_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+2025-ho-t3_Mi_Teleférico_Qwen3-4B_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.410,769.60546875,0,0,0,0,0,0,0
+2025-ho-t3_Mi_Teleférico_Qwen3-4B_3.cpp,RUNTIME_ERROR,0,0.00%,0.210,14.67578125,0,0,0,0,0,0,0
+2025-ho-t3_Mi_Teleférico_Qwen3-4B_4.cpp,TIME_LIMIT_EXCEEDED,7,22.42%,2.410,24.94921875,7,0,0,0,0,0,0
+2025-ho-t3_Mi_Teleférico_Qwen3-4B_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+2025-ho-t3_Mi_Teleférico_Qwen3-4B_6.cpp,RUNTIME_ERROR,0,0.00%,0.210,11.08984375,0,0,0,0,0,0,0
+2025-ho-t3_Mi_Teleférico_Qwen3-4B_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.420,30.171875,0,0,0,0,0,0,0

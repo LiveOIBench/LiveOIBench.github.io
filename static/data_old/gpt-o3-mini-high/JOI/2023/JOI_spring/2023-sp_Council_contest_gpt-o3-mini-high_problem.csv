@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+2023-sp_Council_gpt-o3-mini-high_0.cpp,ACCEPTED,100,100.00%,2.330,26.78125,8,8,6,19,15,22,22
+2023-sp_Council_gpt-o3-mini-high_1.cpp,TIME_LIMIT_EXCEEDED,41,87.60%,3.620,8.515625,8,8,6,19,0,0,0
+2023-sp_Council_gpt-o3-mini-high_2.cpp,TIME_LIMIT_EXCEEDED,56,92.72%,3.600,45.37890625,8,8,6,19,15,0,0
+2023-sp_Council_gpt-o3-mini-high_3.cpp,TIME_LIMIT_EXCEEDED,41,87.60%,3.610,28.8828125,8,8,6,19,0,0,0
+2023-sp_Council_gpt-o3-mini-high_4.cpp,RUNTIME_ERROR,0,13.91%,0.070,19.60546875,0,0,0,0,0,0,0
+2023-sp_Council_gpt-o3-mini-high_5.cpp,TIME_LIMIT_EXCEEDED,41,87.60%,3.610,30.31640625,8,8,6,19,0,0,0
+2023-sp_Council_gpt-o3-mini-high_6.cpp,TIME_LIMIT_EXCEEDED,41,87.60%,3.610,30.34765625,8,8,6,19,0,0,0
+2023-sp_Council_gpt-o3-mini-high_7.cpp,TIME_LIMIT_EXCEEDED,78,96.90%,3.600,47.4453125,8,8,6,19,15,22,0

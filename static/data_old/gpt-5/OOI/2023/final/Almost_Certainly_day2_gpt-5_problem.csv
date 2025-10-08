@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Almost_Certainly_gpt-5_0.cpp,ACCEPTED,100,100.00%,0.100,16.5078125,0.0,16.0,13.0,24.0,13.0,14.0,20.0
+Almost_Certainly_gpt-5_1.cpp,ACCEPTED,100,100.00%,0.160,16.5078125,0.0,16.0,13.0,24.0,13.0,14.0,20.0
+Almost_Certainly_gpt-5_2.cpp,ACCEPTED,100,100.00%,0.250,90.171875,0.0,16.0,13.0,24.0,13.0,14.0,20.0
+Almost_Certainly_gpt-5_3.cpp,ACCEPTED,100,100.00%,0.150,16.25,0.0,16.0,13.0,24.0,13.0,14.0,20.0
+Almost_Certainly_gpt-5_4.cpp,ACCEPTED,100,100.00%,0.250,25.7890625,0.0,16.0,13.0,24.0,13.0,14.0,20.0
+Almost_Certainly_gpt-5_5.cpp,ACCEPTED,100,100.00%,0.250,25.7890625,0.0,16.0,13.0,24.0,13.0,14.0,20.0
+Almost_Certainly_gpt-5_6.cpp,ACCEPTED,100,100.00%,0.300,25.7890625,0.0,16.0,13.0,24.0,13.0,14.0,20.0
+Almost_Certainly_gpt-5_7.cpp,TIME_LIMIT_EXCEEDED,53,84.12%,1.200,9.2890625,0.0,16.0,13.0,24.0,0,0,0

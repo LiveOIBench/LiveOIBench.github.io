@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Milk_Sum,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Field_Day,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,0,5.00%,2.310,9.03125
+silver_Pareidolia,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,0.00%,0.120,2.85546875

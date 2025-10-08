@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+five,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,5,16.36%,0.470,20.48046875
+game,Qwen3-32B-Non-Thinking,UNKNOWN,0,0.00%,0.000,0
+lexgcd,Qwen3-32B-Non-Thinking,MEMORY_LIMIT_EXCEEDED,0,3.31%,0.310,613.38671875
+ones,Qwen3-32B-Non-Thinking,WRONG_ANSWER,25,0.00%,0.190,1.953125
+travel,Qwen3-32B-Non-Thinking,TIME_LIMIT_EXCEEDED,20,29.41%,1.250,31.9765625

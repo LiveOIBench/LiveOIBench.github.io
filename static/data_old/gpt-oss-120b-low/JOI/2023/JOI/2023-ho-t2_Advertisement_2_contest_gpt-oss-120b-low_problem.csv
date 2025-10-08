@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4
+2023-ho-t2_Advertisement_2_gpt-oss-120b-low_0.cpp,ACCEPTED,100,100.00%,0.160,9.03125,10,23,36,31
+2023-ho-t2_Advertisement_2_gpt-oss-120b-low_1.cpp,ACCEPTED,100,100.00%,0.170,9.03125,10,23,36,31
+2023-ho-t2_Advertisement_2_gpt-oss-120b-low_2.cpp,RUNTIME_ERROR,10,39.66%,0.130,12.90234375,10,0,0,0
+2023-ho-t2_Advertisement_2_gpt-oss-120b-low_3.cpp,ACCEPTED,100,100.00%,0.160,9.03125,10,23,36,31
+2023-ho-t2_Advertisement_2_gpt-oss-120b-low_4.cpp,RUNTIME_ERROR,10,39.66%,0.150,9.03125,10,0,0,0
+2023-ho-t2_Advertisement_2_gpt-oss-120b-low_5.cpp,ACCEPTED,100,100.00%,0.150,9.03515625,10,23,36,31
+2023-ho-t2_Advertisement_2_gpt-oss-120b-low_6.cpp,ACCEPTED,100,100.00%,0.150,9.03125,10,23,36,31
+2023-ho-t2_Advertisement_2_gpt-oss-120b-low_7.cpp,ACCEPTED,100,100.00%,0.160,9.03515625,10,23,36,31

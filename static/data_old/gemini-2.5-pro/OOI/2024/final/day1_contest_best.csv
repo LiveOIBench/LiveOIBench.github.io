@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Dreaming_is_not_harmful,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,32,73.05%,2.240,38.16796875
+Cute_Subsequences,gemini-2.5-pro,RUNTIME_ERROR,57,62.16%,0.110,20.765625
+The_arithmetic_exercise,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,58,78.47%,2.240,6.19921875
+Alice_Bob_and_two_arrays,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,62,77.58%,2.770,236.015625

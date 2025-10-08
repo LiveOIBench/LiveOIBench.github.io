@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+neboderi_gemini-2.5-pro_0.cpp,ACCEPTED,110,100.00%,0.260,12.90234375,11,22,27,18,32
+neboderi_gemini-2.5-pro_1.cpp,ACCEPTED,110,100.00%,1.110,100.5625,11,22,27,18,32
+neboderi_gemini-2.5-pro_2.cpp,TIME_LIMIT_EXCEEDED,78,79.63%,2.760,54.34765625,11,22,27,18,0
+neboderi_gemini-2.5-pro_3.cpp,ACCEPTED,110,100.00%,1.210,92.8828125,11,22,27,18,32
+neboderi_gemini-2.5-pro_4.cpp,TIME_LIMIT_EXCEEDED,78,79.63%,2.760,68.18359375,11,22,27,18,0
+neboderi_gemini-2.5-pro_5.cpp,TIME_LIMIT_EXCEEDED,78,79.63%,2.760,52.609375,11,22,27,18,0
+neboderi_gemini-2.5-pro_6.cpp,TIME_LIMIT_EXCEEDED,78,79.63%,2.760,368.58203125,11,22,27,18,0
+neboderi_gemini-2.5-pro_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.240,540.26171875,0,0,0,0,0

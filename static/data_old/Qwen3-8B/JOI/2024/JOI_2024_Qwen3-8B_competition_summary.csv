@@ -1,0 +1,22 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+2024-open-t1_Examination_2,TIME_LIMIT_EXCEEDED,20,40.20%,2.450,27.2734375,,0,20,0,0,0,0,0,0
+2024-open-t2_Heat_Stroke,RUNTIME_ERROR,6,36.57%,0.030,0.00390625,,6,0,0,0,0,0,0,0
+2024-open-t3_Library_3,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0
+2024-sp_Fish_3,RUNTIME_ERROR,0,9.21%,0.280,5.94140625,,0,0,0,0,0,0,0,0
+2024-sp_Ski_2,RUNTIME_ERROR,0,0.00%,0.020,0.00390625,,0,0,0,0,0,0,0,0
+2024-sp_Spy_3,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0
+2024-sp_Board_Game,RUNTIME_ERROR,3,8.07%,0.070,4.640625,,3,0,0,0,0,0,0,0
+2024-sp_Tricolor_Lights,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0
+2024-sp_Growing_Vegetables_is_Fun_5,RUNTIME_ERROR,0,27.62%,0.350,10.5390625,,0,0,0,0,0,0,0,0
+2024-sp_Card_Collection,RUNTIME_ERROR,0,16.67%,0.030,0,,0,0,0,0,0,0,0,0
+2024-sp_JOI_Tour,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0
+2024-sp_Tower,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0
+2024-sp_Escape_Route_2,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0
+2024-sp_Island_Hopping,RUNTIME_ERROR,2,4.31%,0.030,1.546875,,2,0,0,0,0,0,0,0
+2024-sp_Table_Tennis,ACCEPTED,100,100.00%,0.100,25.53515625,,5,4,23,30,15,23,0,0
+2024-ho-t1_Room_Temperature,RUNTIME_ERROR,0,3.92%,0.000,0,,0,0,0,0,0,0,0,0
+2024-ho-t2_Construction_Project_2,RUNTIME_ERROR,8,97.83%,0.280,36.51953125,,8,0,0,0,0,0,0,0
+2024-ho-t3_Marathon_Race_2,RUNTIME_ERROR,0,21.88%,0.020,0,,0,0,0,0,0,0,0,0
+2024-ho-t4_Gift_Exchange,RUNTIME_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0,0
+2024-ho-t5_Road_Service_2,RUNTIME_ERROR,0,6.40%,0.530,131.03515625,,0,0,0,0,0,0,0,0
+TOTAL,,139,18.63%,,,5.00%,,,,,,,,

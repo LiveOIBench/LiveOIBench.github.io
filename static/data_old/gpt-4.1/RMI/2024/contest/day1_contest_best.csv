@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Choose_Interval,gpt-4.1,RUNTIME_ERROR,0,10.91%,0.090,0
+Skittlez,gpt-4.1,MEMORY_LIMIT_EXCEEDED,28,56.00%,0.500,305.66015625
+Octagon,gpt-4.1,TIME_LIMIT_EXCEEDED,0,43.14%,2.340,0.00390625

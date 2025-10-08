@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+sah,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,32,63.24%,0.100,0.00390625
+benzinska,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,6.00%,0.140,2.84765625
+xor,DeepSeek-Coder-V2-Lite-Instruct,UNKNOWN,0,0.00%,0.000,0
+cipele,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,0.00%,0.230,6.7109375
+tura,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,0.72%,0.070,3.359375

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+tree_infection_Llama-4-Scout_0.cpp,RUNTIME_ERROR,0,0.00%,0.170,41.06640625,0,0,0,0,0,0,0
+tree_infection_Llama-4-Scout_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+tree_infection_Llama-4-Scout_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.230,229.34375,0,0,0,0,0,0,0
+tree_infection_Llama-4-Scout_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.210,9.08984375,0,0,0,0,0,0,0
+tree_infection_Llama-4-Scout_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.210,16.94140625,0,0,0,0,0,0,0
+tree_infection_Llama-4-Scout_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.210,82.4921875,0,0,0,0,0,0,0
+tree_infection_Llama-4-Scout_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+tree_infection_Llama-4-Scout_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.240,1097.9765625,0,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Legs_warm-up_exercise_Qwen2.5-72B_0.cpp,RUNTIME_ERROR,0,0.00%,0.110,32.38671875,0,0,0,0,0,0,0,0,0,0,0
+Legs_warm-up_exercise_Qwen2.5-72B_1.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.390,276.80859375,0,0,0,0,0,0,0,0,0,0,0
+Legs_warm-up_exercise_Qwen2.5-72B_2.cpp,RUNTIME_ERROR,0,0.00%,0.210,16.05859375,0,0,0,0,0,0,0,0,0,0,0
+Legs_warm-up_exercise_Qwen2.5-72B_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,6.610,2.64453125,0,0,0,0,0,0,0,0,0,0,0
+Legs_warm-up_exercise_Qwen2.5-72B_4.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+Legs_warm-up_exercise_Qwen2.5-72B_5.cpp,RUNTIME_ERROR,0,0.00%,0.100,11.66796875,0,0,0,0,0,0,0,0,0,0,0
+Legs_warm-up_exercise_Qwen2.5-72B_6.cpp,RUNTIME_ERROR,0,0.00%,0.180,260.7109375,0,0,0,0,0,0,0,0,0,0,0
+Legs_warm-up_exercise_Qwen2.5-72B_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,6.610,260.39453125,0,0,0,0,0,0,0,0,0,0,0

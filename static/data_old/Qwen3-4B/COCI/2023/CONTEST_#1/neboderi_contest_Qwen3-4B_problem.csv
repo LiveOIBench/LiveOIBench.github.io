@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+neboderi_Qwen3-4B_0.cpp,RUNTIME_ERROR,38,38.89%,0.500,5.1640625,11,0,27,0,0
+neboderi_Qwen3-4B_1.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,2.790,476.5390625,0,0,0,0,0
+neboderi_Qwen3-4B_2.cpp,RUNTIME_ERROR,38,38.89%,0.680,5.1640625,11,0,27,0,0
+neboderi_Qwen3-4B_3.cpp,RUNTIME_ERROR,38,38.89%,0.500,5.1640625,11,0,27,0,0
+neboderi_Qwen3-4B_4.cpp,RUNTIME_ERROR,38,38.89%,0.540,5.16015625,11,0,27,0,0
+neboderi_Qwen3-4B_5.cpp,RUNTIME_ERROR,38,38.89%,0.480,5.1640625,11,0,27,0,0
+neboderi_Qwen3-4B_6.cpp,RUNTIME_ERROR,38,38.89%,0.650,5.1640625,11,0,27,0,0
+neboderi_Qwen3-4B_7.cpp,TIME_LIMIT_EXCEEDED,38,38.89%,2.980,5.421875,11,0,27,0,0

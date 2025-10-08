@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+travel_Llama-3.3-70B-Instruct_0.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.770,601.6484375,0,0,0,0,0,0,0
+travel_Llama-3.3-70B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,0,1.20%,1.210,335.1640625,0,0,0,0,0,0,0
+travel_Llama-3.3-70B-Instruct_2.cpp,RUNTIME_ERROR,0,0.00%,0.180,31.265625,0,0,0,0,0,0,0
+travel_Llama-3.3-70B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.320,365.90625,0,0,0,0,0,0,0
+travel_Llama-3.3-70B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.210,37.93359375,0,0,0,0,0,0,0
+travel_Llama-3.3-70B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.230,366.01171875,0,0,0,0,0,0,0
+travel_Llama-3.3-70B-Instruct_6.cpp,RUNTIME_ERROR,0,0.00%,0.400,365.74609375,0,0,0,0,0,0,0
+travel_Llama-3.3-70B-Instruct_7.cpp,MEMORY_LIMIT_EXCEEDED,0,1.20%,0.340,611.5390625,0,0,0,0,0,0,0

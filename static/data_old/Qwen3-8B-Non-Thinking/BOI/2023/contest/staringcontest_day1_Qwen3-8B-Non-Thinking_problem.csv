@@ -1,0 +1,5 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3
+staringcontest_Qwen3-8B-Non-Thinking_0.cpp,RUNTIME_ERROR,0,2.56%,0.020,1.53515625,0,0,0
+staringcontest_Qwen3-8B-Non-Thinking_1.cpp,RUNTIME_ERROR,0,0.85%,0.030,7.50390625,0,0,0
+staringcontest_Qwen3-8B-Non-Thinking_2.cpp,RUNTIME_ERROR,0,2.56%,0.030,11.3203125,0,0,0
+staringcontest_Qwen3-8B-Non-Thinking_7.cpp,RUNTIME_ERROR,0,3.42%,0.030,1.48046875,0,0,0

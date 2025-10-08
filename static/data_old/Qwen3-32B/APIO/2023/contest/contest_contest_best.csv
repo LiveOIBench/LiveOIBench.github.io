@@ -1,0 +1,3 @@
+problem,model,status,score,%test passed,time,memory
+sequence,Qwen3-32B,TIME_LIMIT_EXCEEDED,0,24.21%,1.800,58.0234375
+cyberland,Qwen3-32B,TIME_LIMIT_EXCEEDED,97,87.80%,2.990,70.01953125

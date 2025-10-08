@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+Strong_Connectivity_Strikes_Back_gpt-o3-mini-high_0.cpp,RUNTIME_ERROR,66,57.26%,0.040,1.5546875,0,0,0,12.0,13.0,20.0,21.0,0
+Strong_Connectivity_Strikes_Back_gpt-o3-mini-high_1.cpp,ACCEPTED,100,100.00%,0.040,2.06640625,0.0,11.0,9.0,12.0,13.0,20.0,21.0,14.0
+Strong_Connectivity_Strikes_Back_gpt-o3-mini-high_2.cpp,ACCEPTED,100,100.00%,0.040,1.5546875,0.0,11.0,9.0,12.0,13.0,20.0,21.0,14.0
+Strong_Connectivity_Strikes_Back_gpt-o3-mini-high_3.cpp,RUNTIME_ERROR,66,57.26%,0.130,1.921875,0,0,0,12.0,13.0,20.0,21.0,0
+Strong_Connectivity_Strikes_Back_gpt-o3-mini-high_4.cpp,RUNTIME_ERROR,66,57.26%,0.360,1.9921875,0,0,0,12.0,13.0,20.0,21.0,0
+Strong_Connectivity_Strikes_Back_gpt-o3-mini-high_5.cpp,RUNTIME_ERROR,66,57.26%,0.170,201.4609375,0,0,0,12.0,13.0,20.0,21.0,0
+Strong_Connectivity_Strikes_Back_gpt-o3-mini-high_6.cpp,RUNTIME_ERROR,53,60.77%,0.040,0.00390625,0.0,0,0,12.0,0,20.0,21.0,0
+Strong_Connectivity_Strikes_Back_gpt-o3-mini-high_7.cpp,RUNTIME_ERROR,66,57.26%,0.040,0.00390625,0,0,0,12.0,13.0,20.0,21.0,0

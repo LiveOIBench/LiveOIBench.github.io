@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+soccer,gpt-5,RUNTIME_ERROR,6,11.50%,0.350,62.3359375
+closing,gpt-5,RUNTIME_ERROR,43,60.09%,0.110,40.37109375
+longesttrip,gpt-5,RUNTIME_ERROR,25,45.78%,2.010,4.04296875

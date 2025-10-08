@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0_1,subtask_0_2,subtask_0_3,subtask_1_1,subtask_2_1,subtask_3_1,subtask_4_1,subtask_5_1,subtask_6_1,subtask_7_1
+grading-server_Mistral-Large-Instruct-2411_0.cpp,TIME_LIMIT_EXCEEDED,0,1.33%,4.430,26.36328125,0,0,0,0,0,0,0,0,0,0
+grading-server_Mistral-Large-Instruct-2411_1.cpp,RUNTIME_ERROR,0,1.33%,0.090,0.00390625,0,0,0,0,0,0,0,0,0,0
+grading-server_Mistral-Large-Instruct-2411_2.cpp,TIME_LIMIT_EXCEEDED,0,1.33%,4.420,9.22265625,0,0,0,0,0,0,0,0,0,0
+grading-server_Mistral-Large-Instruct-2411_3.cpp,RUNTIME_ERROR,0,2.67%,0.100,9.22265625,0,0,0,0,0,0,0,0,0,0
+grading-server_Mistral-Large-Instruct-2411_4.cpp,RUNTIME_ERROR,0,1.33%,0.140,9.1953125,0,0,0,0,0,0,0,0,0,0
+grading-server_Mistral-Large-Instruct-2411_5.cpp,TIME_LIMIT_EXCEEDED,0,1.33%,4.420,9.03515625,0,0,0,0,0,0,0,0,0,0
+grading-server_Mistral-Large-Instruct-2411_6.cpp,TIME_LIMIT_EXCEEDED,0,2.67%,4.410,0.00390625,0,0,0,0,0,0,0,0,0,0
+grading-server_Mistral-Large-Instruct-2411_7.cpp,RUNTIME_ERROR,0,2.67%,0.360,13.01171875,0,0,0,0,0,0,0,0,0,0

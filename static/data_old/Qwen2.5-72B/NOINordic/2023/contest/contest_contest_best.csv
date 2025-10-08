@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+icecreammachines,Qwen2.5-72B,RUNTIME_ERROR,7,46.23%,0.000,0
+chatnoi,Qwen2.5-72B,RUNTIME_ERROR,0,43.06%,0.130,0
+islandalliances,Qwen2.5-72B,ACCEPTED,100,100.00%,1.180,10.578125

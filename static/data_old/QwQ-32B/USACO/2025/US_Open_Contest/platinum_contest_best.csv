@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Forklift_Certified,QwQ-32B,RUNTIME_ERROR,95,25.00%,0.360,13.08203125
+platinum_Lazy_Sort,QwQ-32B,WRONG_ANSWER,0,6.67%,0.000,0
+platinum_Package_Pickup,QwQ-32B,COMPILATION_ERROR,0,0.00%,0.000,0
