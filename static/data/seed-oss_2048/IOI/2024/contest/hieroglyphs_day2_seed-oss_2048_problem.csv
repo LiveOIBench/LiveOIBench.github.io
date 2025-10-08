@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+hieroglyphs_seed-oss_0.cpp,TIME_LIMIT_EXCEEDED,0,2.23%,1.200,1872.24609375,0,0,0,0,0,0,0
+hieroglyphs_seed-oss_1.cpp,RUNTIME_ERROR,0,0.00%,0.020,2.12109375,0,0,0,0,0,0,0
+hieroglyphs_seed-oss_2.cpp,TIME_LIMIT_EXCEEDED,0,0.89%,1.210,10.55859375,0,0,0,0,0,0,0
+hieroglyphs_seed-oss_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.220,8.09765625,0,0,0,0,0,0,0
+hieroglyphs_seed-oss_4.cpp,RUNTIME_ERROR,3,9.17%,0.060,20.5078125,0,3,0,0,0,0,0
+hieroglyphs_seed-oss_5.cpp,RUNTIME_ERROR,0,0.89%,0.010,1.5546875,0,0,0,0,0,0,0
+hieroglyphs_seed-oss_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+hieroglyphs_seed-oss_7.cpp,RUNTIME_ERROR,0,0.89%,0.030,3.8828125,0,0,0,0,0,0,0

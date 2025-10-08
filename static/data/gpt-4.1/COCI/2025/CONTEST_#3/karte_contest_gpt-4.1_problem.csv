@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+karte_gpt-4.1_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+karte_gpt-4.1_1.cpp,TIME_LIMIT_EXCEEDED,11,37.31%,1.200,0.00390625,0,11,0,0
+karte_gpt-4.1_2.cpp,TIME_LIMIT_EXCEEDED,11,37.31%,1.130,0.00390625,0,11,0,0
+karte_gpt-4.1_3.cpp,TIME_LIMIT_EXCEEDED,11,37.31%,1.190,0.00390625,0,11,0,0
+karte_gpt-4.1_4.cpp,TIME_LIMIT_EXCEEDED,11,37.31%,1.170,25.2734375,0,11,0,0
+karte_gpt-4.1_5.cpp,ACCEPTED,70,100.00%,0.240,0.00390625,18,11,24,17
+karte_gpt-4.1_6.cpp,TIME_LIMIT_EXCEEDED,29,58.21%,1.210,9.2890625,18,11,0,0
+karte_gpt-4.1_7.cpp,ACCEPTED,70,100.00%,1.030,0.00390625,18,11,24,17

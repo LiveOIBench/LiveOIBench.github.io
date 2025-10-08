@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+d2p2_gemini-2.5-flash_0.cpp,RUNTIME_ERROR,2,10.16%,0.130,32.1171875,2,0,0,0,0,0
+d2p2_gemini-2.5-flash_1.cpp,TIME_LIMIT_EXCEEDED,2,9.38%,2.220,492.09375,2,0,0,0,0,0
+d2p2_gemini-2.5-flash_2.cpp,TIME_LIMIT_EXCEEDED,0,1.56%,2.210,587.40234375,0,0,0,0,0,0
+d2p2_gemini-2.5-flash_3.cpp,RUNTIME_ERROR,0,1.56%,0.090,14.703125,0,0,0,0,0,0
+d2p2_gemini-2.5-flash_4.cpp,TIME_LIMIT_EXCEEDED,0,1.56%,2.210,602.87890625,0,0,0,0,0,0
+d2p2_gemini-2.5-flash_5.cpp,RUNTIME_ERROR,0,1.56%,0.080,15.0546875,0,0,0,0,0,0
+d2p2_gemini-2.5-flash_6.cpp,TIME_LIMIT_EXCEEDED,2,10.16%,2.220,48.13671875,2,0,0,0,0,0
+d2p2_gemini-2.5-flash_7.cpp,TIME_LIMIT_EXCEEDED,2,10.16%,2.210,205.7890625,2,0,0,0,0,0

@@ -1,0 +1,8 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+cipele_gpt-oss-120b-high_0.cpp,ACCEPTED,120,100.00%,100.00%,0.400,25.2734375,17,27,37,24,15
+cipele_gpt-oss-120b-high_1.cpp,RUNTIME_ERROR,37,30.83%,16.13%,0.160,23.40625,0,0,37,0,0
+cipele_gpt-oss-120b-high_2.cpp,ACCEPTED,120,100.00%,100.00%,0.170,23.66015625,17,27,37,24,15
+cipele_gpt-oss-120b-high_3.cpp,RUNTIME_ERROR,64,53.33%,29.03%,0.110,20.015625,0,27,37,0,0
+cipele_gpt-oss-120b-high_4.cpp,ACCEPTED,120,100.00%,100.00%,0.180,23.46484375,17,27,37,24,15
+cipele_gpt-oss-120b-high_5.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.430,114.1484375,0,0,0,0,0
+cipele_gpt-oss-120b-high_6.cpp,ACCEPTED,120,100.00%,100.00%,0.160,27.28125,17,27,37,24,15

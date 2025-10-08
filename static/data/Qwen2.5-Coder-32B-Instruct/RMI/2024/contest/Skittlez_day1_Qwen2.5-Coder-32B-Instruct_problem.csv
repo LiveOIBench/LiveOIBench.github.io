@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+Skittlez_Qwen2.5-Coder-32B-Instruct_0.cpp,RUNTIME_ERROR,0,2.78%,0.010,1.5546875,0,0,0,0,0
+Skittlez_Qwen2.5-Coder-32B-Instruct_1.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0
+Skittlez_Qwen2.5-Coder-32B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,7,37.21%,2.410,306.2890625,0,7,0,0,0
+Skittlez_Qwen2.5-Coder-32B-Instruct_3.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0
+Skittlez_Qwen2.5-Coder-32B-Instruct_4.cpp,RUNTIME_ERROR,0,2.78%,0.010,1.55078125,0,0,0,0,0
+Skittlez_Qwen2.5-Coder-32B-Instruct_5.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0
+Skittlez_Qwen2.5-Coder-32B-Instruct_6.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0
+Skittlez_Qwen2.5-Coder-32B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,7,37.21%,2.410,306.28515625,0,7,0,0,0

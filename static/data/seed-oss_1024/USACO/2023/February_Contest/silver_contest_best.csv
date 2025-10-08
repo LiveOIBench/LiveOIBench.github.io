@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bakery,seed-oss_1024,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Cow-libi,seed-oss_1024,ACCEPTED,333,100.00%,0.090,4.390625
+silver_Moo_Route_II,seed-oss_1024,RUNTIME_ERROR,130,35.00%,0.130,14.37109375

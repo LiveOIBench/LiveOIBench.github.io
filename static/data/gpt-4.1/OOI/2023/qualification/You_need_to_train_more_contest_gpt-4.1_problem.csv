@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+You_need_to_train_more_gpt-4.1_0.cpp,RUNTIME_ERROR,74,80.77%,0.440,4.390625,0.0,18.0,19.0,16.0,21.0,0
+You_need_to_train_more_gpt-4.1_1.cpp,TIME_LIMIT_EXCEEDED,55,74.24%,1.120,10.13671875,0.0,18.0,0,16.0,21.0,0
+You_need_to_train_more_gpt-4.1_2.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+You_need_to_train_more_gpt-4.1_3.cpp,TIME_LIMIT_EXCEEDED,55,73.28%,1.110,9.375,0.0,18.0,0,16.0,21.0,0
+You_need_to_train_more_gpt-4.1_4.cpp,TIME_LIMIT_EXCEEDED,55,68.25%,1.170,9.7890625,0.0,18.0,0,16.0,21.0,0
+You_need_to_train_more_gpt-4.1_5.cpp,TIME_LIMIT_EXCEEDED,55,73.28%,1.200,8.7734375,0.0,18.0,0,16.0,21.0,0
+You_need_to_train_more_gpt-4.1_6.cpp,TIME_LIMIT_EXCEEDED,18,57.94%,1.170,11.31640625,0.0,18.0,0,0,0,0
+You_need_to_train_more_gpt-4.1_7.cpp,TIME_LIMIT_EXCEEDED,74,80.77%,1.150,6.28125,0.0,18.0,19.0,16.0,21.0,0

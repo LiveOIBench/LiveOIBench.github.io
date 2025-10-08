@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Card_Flip_gpt-oss-120b-low_0.cpp,RUNTIME_ERROR,0,10.58%,0.230,27.58984375,0.0,0,0,0,0,0,0,0,0,0
+Card_Flip_gpt-oss-120b-low_1.cpp,RUNTIME_ERROR,0,22.81%,0.110,6.97265625,0.0,0,0,0,0,0,0,0,0,0
+Card_Flip_gpt-oss-120b-low_2.cpp,RUNTIME_ERROR,10,22.43%,0.120,6.71484375,0.0,0,0,0,10.0,0,0,0,0,0
+Card_Flip_gpt-oss-120b-low_3.cpp,RUNTIME_ERROR,0,14.29%,0.110,0.00390625,0.0,0,0,0,0,0,0,0,0,0
+Card_Flip_gpt-oss-120b-low_4.cpp,RUNTIME_ERROR,0,22.81%,0.120,3.3046875,0.0,0,0,0,0,0,0,0,0,0
+Card_Flip_gpt-oss-120b-low_5.cpp,RUNTIME_ERROR,0,17.92%,0.130,0.00390625,0.0,0,0,0,0,0,0,0,0,0
+Card_Flip_gpt-oss-120b-low_6.cpp,RUNTIME_ERROR,0,4.12%,0.110,6.97265625,0,0,0,0,0,0,0,0,0,0
+Card_Flip_gpt-oss-120b-low_7.cpp,RUNTIME_ERROR,0,22.81%,0.120,6.97265625,0.0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Circles_seed-oss_0.cpp,RUNTIME_ERROR,0,3.23%,0.520,114.47265625,0,0,0,0,0,0,0
+Circles_seed-oss_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+Circles_seed-oss_2.cpp,RUNTIME_ERROR,0,0.00%,0.120,38.421875,0,0,0,0,0,0,0
+Circles_seed-oss_3.cpp,TIME_LIMIT_EXCEEDED,0,3.23%,1.800,183.828125,0,0,0,0,0,0,0
+Circles_seed-oss_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+Circles_seed-oss_5.cpp,RUNTIME_ERROR,0,0.00%,0.310,137.375,0,0,0,0,0,0,0
+Circles_seed-oss_6.cpp,RUNTIME_ERROR,0,0.00%,0.120,115.09765625,0,0,0,0,0,0,0
+Circles_seed-oss_7.cpp,RUNTIME_ERROR,0,3.23%,0.370,208.05859375,0,0,0,0,0,0,0

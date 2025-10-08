@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Heroes,deepseek-chat,RUNTIME_ERROR,0,14.29%,0.000,0
+Pinball,deepseek-chat,MEMORY_LIMIT_EXCEEDED,9,18.75%,0.460,129.54296875
+AA_Tree,deepseek-chat,RUNTIME_ERROR,0,0.00%,0.000,0

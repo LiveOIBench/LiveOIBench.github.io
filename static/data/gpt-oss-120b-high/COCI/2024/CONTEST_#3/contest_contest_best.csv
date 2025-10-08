@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+eurokod,gpt-oss-120b-high,ACCEPTED,50,100.00%,0.000,0
+vrsar,gpt-oss-120b-high,ACCEPTED,70,100.00%,0.070,6.7109375
+milano,gpt-oss-120b-high,ACCEPTED,110,100.00%,0.050,3.62109375
+restorani,gpt-oss-120b-high,RUNTIME_ERROR,0,1.37%,0.130,47.5078125
+cesta,gpt-oss-120b-high,ACCEPTED,110,100.00%,0.310,85.34375

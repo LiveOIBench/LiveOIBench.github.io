@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Astral_Superposition,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Its_Mooin_Time_II,Llama-4-Scout,TIME_LIMIT_EXCEEDED,100,36.36%,2.410,162.125
+bronze_Cow_Checkups,Llama-4-Scout,TIME_LIMIT_EXCEEDED,100,46.15%,2.420,1.55859375

@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+Hard_problem_Qwen3-32B_0.cpp,ACCEPTED,100,100.00%,0.110,2.84765625,0.0,13.0,10.0,14.0,19.0,9.0,1.0,9.0,25.0
+Hard_problem_Qwen3-32B_1.cpp,ACCEPTED,100,100.00%,0.110,2.84765625,0.0,13.0,10.0,14.0,19.0,9.0,1.0,9.0,25.0
+Hard_problem_Qwen3-32B_2.cpp,ACCEPTED,100,100.00%,0.120,5.16796875,0.0,13.0,10.0,14.0,19.0,9.0,1.0,9.0,25.0
+Hard_problem_Qwen3-32B_3.cpp,ACCEPTED,100,100.00%,0.090,2.84765625,0.0,13.0,10.0,14.0,19.0,9.0,1.0,9.0,25.0
+Hard_problem_Qwen3-32B_4.cpp,ACCEPTED,100,100.00%,0.280,2.84765625,0.0,13.0,10.0,14.0,19.0,9.0,1.0,9.0,25.0
+Hard_problem_Qwen3-32B_6.cpp,ACCEPTED,100,100.00%,0.200,18.03125,0.0,13.0,10.0,14.0,19.0,9.0,1.0,9.0,25.0
+Hard_problem_Qwen3-32B_7.cpp,ACCEPTED,100,100.00%,0.170,3.62109375,0.0,13.0,10.0,14.0,19.0,9.0,1.0,9.0,25.0

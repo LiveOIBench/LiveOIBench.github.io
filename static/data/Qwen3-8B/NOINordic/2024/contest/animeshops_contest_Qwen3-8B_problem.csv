@@ -1,0 +1,6 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3
+animeshops_Qwen3-8B_0.cpp,TIME_LIMIT_EXCEEDED,0,16.67%,1.210,7.7421875,0,0,0
+animeshops_Qwen3-8B_1.cpp,RUNTIME_ERROR,0,16.67%,0.080,7.33203125,0,0,0
+animeshops_Qwen3-8B_2.cpp,RUNTIME_ERROR,0,22.22%,0.930,7.984375,0,0,0
+animeshops_Qwen3-8B_3.cpp,TIME_LIMIT_EXCEEDED,0,26.32%,1.210,8.22265625,0,0,0
+animeshops_Qwen3-8B_7.cpp,TIME_LIMIT_EXCEEDED,23,60.00%,1.210,9.56640625,23,0,0

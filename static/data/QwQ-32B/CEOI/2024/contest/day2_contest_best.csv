@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+toy,QwQ-32B,RUNTIME_ERROR,0,52.60%,0.040,1.55078125
+stations,QwQ-32B,TIME_LIMIT_EXCEEDED,0,6.82%,3.860,5.9140625
+sprinklers,QwQ-32B,RUNTIME_ERROR,9,47.01%,0.050,2.07421875

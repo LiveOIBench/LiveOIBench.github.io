@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+cheese_gpt-oss-120b-high_0.cpp,RUNTIME_ERROR,8,28.21%,1.150,47.28515625,0,0,8,0,0,0,0
+cheese_gpt-oss-120b-high_1.cpp,RUNTIME_ERROR,8,28.21%,0.210,10.8359375,0,0,8,0,0,0,0
+cheese_gpt-oss-120b-high_2.cpp,RUNTIME_ERROR,0,7.69%,0.760,24.34765625,0,0,0,0,0,0,0
+cheese_gpt-oss-120b-high_4.cpp,RUNTIME_ERROR,8,25.64%,0.190,31.92578125,0,0,8,0,0,0,0
+cheese_gpt-oss-120b-high_5.cpp,RUNTIME_ERROR,19,51.28%,0.220,10.8359375,0,0,8,11,0,0,0
+cheese_gpt-oss-120b-high_6.cpp,RUNTIME_ERROR,19,53.85%,0.640,70.1328125,0,0,8,11,0,0,0
+cheese_gpt-oss-120b-high_7.cpp,RUNTIME_ERROR,19,51.28%,0.230,10.8359375,0,0,8,11,0,0,0

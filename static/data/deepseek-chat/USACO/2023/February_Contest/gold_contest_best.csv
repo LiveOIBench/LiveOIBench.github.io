@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Equal_Sum_Subarrays,deepseek-chat,TIME_LIMIT_EXCEEDED,119,43.75%,3.320,7.2265625
+gold_Fertilizing_Pastures,deepseek-chat,WRONG_ANSWER,133,40.91%,0.140,18.56640625
+gold_Piling_Papers,deepseek-chat,MEMORY_LIMIT_EXCEEDED,0,7.69%,1.780,280.76171875

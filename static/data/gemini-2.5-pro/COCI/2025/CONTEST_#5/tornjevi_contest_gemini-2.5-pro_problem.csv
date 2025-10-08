@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+tornjevi_gemini-2.5-pro_0.cpp,ACCEPTED,90,100.00%,0.380,39.515625,7,11,17,29,26
+tornjevi_gemini-2.5-pro_1.cpp,TIME_LIMIT_EXCEEDED,7,18.52%,2.240,81.55078125,7,0,0,0,0
+tornjevi_gemini-2.5-pro_2.cpp,ACCEPTED,90,100.00%,0.400,13.21484375,7,11,17,29,26
+tornjevi_gemini-2.5-pro_3.cpp,ACCEPTED,90,100.00%,0.830,539.3515625,7,11,17,29,26
+tornjevi_gemini-2.5-pro_4.cpp,ACCEPTED,90,100.00%,0.420,25.01953125,7,11,17,29,26
+tornjevi_gemini-2.5-pro_5.cpp,ACCEPTED,90,100.00%,0.410,13.21484375,7,11,17,29,26
+tornjevi_gemini-2.5-pro_6.cpp,ACCEPTED,90,100.00%,0.400,20.4375,7,11,17,29,26
+tornjevi_gemini-2.5-pro_7.cpp,ACCEPTED,90,100.00%,0.450,31.9765625,7,11,17,29,26

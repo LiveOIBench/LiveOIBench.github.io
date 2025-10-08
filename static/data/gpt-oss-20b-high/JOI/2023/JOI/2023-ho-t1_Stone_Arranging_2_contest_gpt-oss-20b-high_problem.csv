@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3
+2023-ho-t1_Stone_Arranging_2_gpt-oss-20b-high_0.cpp,ACCEPTED,100,100.00%,0.060,16.76171875,25,35,40
+2023-ho-t1_Stone_Arranging_2_gpt-oss-20b-high_1.cpp,ACCEPTED,100,100.00%,0.100,16.765625,25,35,40
+2023-ho-t1_Stone_Arranging_2_gpt-oss-20b-high_2.cpp,ACCEPTED,100,100.00%,0.070,23.46875,25,35,40
+2023-ho-t1_Stone_Arranging_2_gpt-oss-20b-high_3.cpp,ACCEPTED,100,100.00%,0.130,24.23828125,25,35,40
+2023-ho-t1_Stone_Arranging_2_gpt-oss-20b-high_5.cpp,ACCEPTED,100,100.00%,0.140,44.86328125,25,35,40
+2023-ho-t1_Stone_Arranging_2_gpt-oss-20b-high_6.cpp,RUNTIME_ERROR,0,32.10%,0.000,0,0,0,0
+2023-ho-t1_Stone_Arranging_2_gpt-oss-20b-high_7.cpp,ACCEPTED,100,100.00%,0.090,14.4453125,25,35,40

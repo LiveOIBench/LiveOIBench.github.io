@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+sequence,seed-oss_4096,TIME_LIMIT_EXCEEDED,0,8.24%,1.800,12.27734375
+abc,seed-oss_4096,COMPILATION_ERROR,0,0.00%,0.000,0
+cyberland,seed-oss_4096,RUNTIME_ERROR,97,82.93%,1.630,59.30078125

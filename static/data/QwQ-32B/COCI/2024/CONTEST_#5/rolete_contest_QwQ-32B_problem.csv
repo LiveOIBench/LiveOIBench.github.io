@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+rolete_QwQ-32B_0.cpp,RUNTIME_ERROR,0,0.00%,0.320,3.6171875,0,0,0,0
+rolete_QwQ-32B_1.cpp,RUNTIME_ERROR,0,0.00%,0.140,2.84375,0,0,0,0
+rolete_QwQ-32B_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+rolete_QwQ-32B_3.cpp,RUNTIME_ERROR,0,0.00%,0.110,2.84375,0,0,0,0
+rolete_QwQ-32B_4.cpp,RUNTIME_ERROR,0,10.20%,0.090,2.84375,0,0,0,0
+rolete_QwQ-32B_5.cpp,RUNTIME_ERROR,26,22.45%,0.800,2.64453125,0,26,0,0
+rolete_QwQ-32B_6.cpp,RUNTIME_ERROR,26,22.45%,0.350,3.6171875,0,26,0,0
+rolete_QwQ-32B_7.cpp,RUNTIME_ERROR,0,0.00%,0.300,2.58203125,0,0,0,0

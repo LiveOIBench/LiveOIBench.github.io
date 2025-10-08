@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+Road_Lighting_deepseek-chat_0.cpp,TIME_LIMIT_EXCEEDED,24,58.02%,2.210,25.86328125,0.0,14.0,0,10.0,0,0,0,0
+Road_Lighting_deepseek-chat_1.cpp,TIME_LIMIT_EXCEEDED,24,63.16%,2.210,27.24609375,0.0,14.0,0,10.0,0,0,0,0
+Road_Lighting_deepseek-chat_2.cpp,TIME_LIMIT_EXCEEDED,24,54.26%,2.210,24.89453125,0.0,14.0,0,10.0,0,0,0,0
+Road_Lighting_deepseek-chat_3.cpp,RUNTIME_ERROR,0,0.00%,0.040,1.5546875,0,0,0,0,0,0,0,0
+Road_Lighting_deepseek-chat_4.cpp,RUNTIME_ERROR,0,0.00%,0.170,8.578125,0,0,0,0,0,0,0,0
+Road_Lighting_deepseek-chat_5.cpp,TIME_LIMIT_EXCEEDED,24,63.16%,2.220,29.40234375,0.0,14.0,0,10.0,0,0,0,0
+Road_Lighting_deepseek-chat_6.cpp,TIME_LIMIT_EXCEEDED,0,11.58%,2.210,9.2890625,0.0,0,0,0,0,0,0,0
+Road_Lighting_deepseek-chat_7.cpp,TIME_LIMIT_EXCEEDED,24,63.16%,2.230,17.69921875,0.0,14.0,0,10.0,0,0,0,0

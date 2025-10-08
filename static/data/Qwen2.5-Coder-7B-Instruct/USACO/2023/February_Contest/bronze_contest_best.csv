@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Hungry_Cow,Qwen2.5-Coder-7B-Instruct,WRONG_ANSWER,133,53.85%,1.660,2.07421875
+bronze_Stamp_Grid,Qwen2.5-Coder-7B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Watching_Mooloo,Qwen2.5-Coder-7B-Instruct,RUNTIME_ERROR,333,83.33%,0.150,2.07421875

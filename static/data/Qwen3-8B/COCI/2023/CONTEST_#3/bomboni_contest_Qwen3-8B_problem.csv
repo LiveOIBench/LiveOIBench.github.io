@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+bomboni_Qwen3-8B_0.cpp,RUNTIME_ERROR,0,0.00%,0.070,13.72265625,0,0,0,0
+bomboni_Qwen3-8B_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+bomboni_Qwen3-8B_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+bomboni_Qwen3-8B_3.cpp,ACCEPTED,110,100.00%,0.510,483.91796875,13,17,33,47
+bomboni_Qwen3-8B_4.cpp,TIME_LIMIT_EXCEEDED,63,76.00%,2.410,128.046875,13,17,33,0
+bomboni_Qwen3-8B_5.cpp,RUNTIME_ERROR,0,0.00%,0.120,42.53515625,0,0,0,0
+bomboni_Qwen3-8B_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+bomboni_Qwen3-8B_7.cpp,ACCEPTED,110,100.00%,0.540,483.91796875,13,17,33,47

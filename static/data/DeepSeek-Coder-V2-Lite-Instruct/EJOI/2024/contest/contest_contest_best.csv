@@ -1,0 +1,7 @@
+problem,model,status,score,%test passed,time,memory
+cheese,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,0,5.13%,2.380,11.0
+oldorhei,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,7,44.19%,3.350,7.74609375
+manypairs,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+cfduels,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,19.75%,0.880,1.81640625
+hora,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,0,2.33%,1.510,3.75
+sweets,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+s1,seed-oss_-1,ACCEPTED,15,100.00%,0.080,3.3046875
+s2,seed-oss_-1,ACCEPTED,15,100.00%,0.010,0.00390625
+s4,seed-oss_-1,COMPILATION_ERROR,0,0.00%,0.000,0
+s5,seed-oss_-1,RUNTIME_ERROR,0,12.39%,0.030,4.390625

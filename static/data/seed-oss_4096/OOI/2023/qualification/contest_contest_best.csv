@@ -1,0 +1,10 @@
+problem,model,status,score,%test passed,time,memory
+Paired_roads,seed-oss_4096,RUNTIME_ERROR,0,0.00%,0.070,18.265625
+Legs_warm-up_exercise,seed-oss_4096,UNKNOWN,0,0.00%,0.000,0
+Hard_problem,seed-oss_4096,ACCEPTED,100,100.00%,0.080,2.84765625
+Yet_another_queries,seed-oss_4096,TIME_LIMIT_EXCEEDED,0,7.69%,1.810,78.50390625
+Lunch,seed-oss_4096,RUNTIME_ERROR,16,26.80%,0.000,0
+Tournament,seed-oss_4096,MEMORY_LIMIT_EXCEEDED,80,97.15%,0.340,257.48046875
+You_need_to_train_more,seed-oss_4096,RUNTIME_ERROR,0,13.19%,0.000,0
+Colorful_graph,seed-oss_4096,ACCEPTED,100,100.00%,0.130,9.22265625
+Space_accident,seed-oss_4096,RUNTIME_ERROR,10,37.33%,0.050,2.015625

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Flight_Routes,deepseek-reasoner,ACCEPTED,333,100.00%,0.080,5.6796875
+gold_Minimum_Longest_Trip,deepseek-reasoner,TIME_LIMIT_EXCEEDED,83,40.00%,2.240,18.90625
+gold_Haybale_Distribution,deepseek-reasoner,ACCEPTED,333,100.00%,0.110,3.62109375

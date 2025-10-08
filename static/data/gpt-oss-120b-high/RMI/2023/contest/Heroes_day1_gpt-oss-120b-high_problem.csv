@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Heroes_gpt-oss-120b-high_0.cpp,RUNTIME_ERROR,0,42.11%,0.000,0,0,0,0,0,0,0
+Heroes_gpt-oss-120b-high_1.cpp,RUNTIME_ERROR,0,42.11%,0.000,0,0,0,0,0,0,0
+Heroes_gpt-oss-120b-high_2.cpp,ACCEPTED,100,100.00%,0.050,0,7,11,15,17,19,31
+Heroes_gpt-oss-120b-high_3.cpp,RUNTIME_ERROR,0,42.11%,0.000,0,0,0,0,0,0,0
+Heroes_gpt-oss-120b-high_4.cpp,RUNTIME_ERROR,0,25.53%,0.000,0,0,0,0,0,0,0
+Heroes_gpt-oss-120b-high_5.cpp,ACCEPTED,100,100.00%,0.050,0.00390625,7,11,15,17,19,31
+Heroes_gpt-oss-120b-high_6.cpp,ACCEPTED,100,100.00%,0.050,0.00390625,7,11,15,17,19,31
+Heroes_gpt-oss-120b-high_7.cpp,ACCEPTED,100,100.00%,0.050,0.00390625,7,11,15,17,19,31

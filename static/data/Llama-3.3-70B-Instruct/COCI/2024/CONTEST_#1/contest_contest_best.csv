@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+sudoku,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,45.71%,0.000,0
+labirint,Llama-3.3-70B-Instruct,RUNTIME_ERROR,24,37.50%,0.670,2.3046875
+an2dl,Llama-3.3-70B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+kocke,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,0.00%,0.000,0
+mostovi,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,30,56.78%,3.500,10.328125

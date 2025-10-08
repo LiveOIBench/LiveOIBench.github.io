@@ -1,0 +1,10 @@
+problem,model,status,score,%test passed,time,memory
+Colorful_Diameter,seed-oss_8192,TIME_LIMIT_EXCEEDED,29,64.61%,8.410,5.16796875
+Road_Lighting,seed-oss_8192,UNKNOWN,0,0.00%,0.000,0
+Repainting_the_Table,seed-oss_8192,TIME_LIMIT_EXCEEDED,72,90.00%,1.800,266.37890625
+Distinctive_Features,seed-oss_8192,ACCEPTED,100,100.00%,0.700,275.08984375
+Classic_Tree_Problem,seed-oss_8192,RUNTIME_ERROR,0,0.00%,0.000,0
+Alien_Homophones,seed-oss_8192,TIME_LIMIT_EXCEEDED,55,92.16%,2.420,62.98046875
+Stone_Enthusiast,seed-oss_8192,ACCEPTED,100,100.00%,0.360,2.82421875
+Egors_Gaming_Addiction,seed-oss_8192,TIME_LIMIT_EXCEEDED,15,65.12%,2.410,48.48828125
+Ultrafast_train,seed-oss_8192,ACCEPTED,100,100.00%,0.040,9.61328125

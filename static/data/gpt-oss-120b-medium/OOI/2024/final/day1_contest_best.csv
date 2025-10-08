@@ -1,0 +1,5 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+Dreaming_is_not_harmful,gpt-oss-120b-medium,RUNTIME_ERROR,10,10.00%,12.73%,0.110,28.99609375
+Cute_Subsequences,gpt-oss-120b-medium,ACCEPTED,100,100.00%,100.00%,0.090,8.203125
+The_arithmetic_exercise,gpt-oss-120b-medium,RUNTIME_ERROR,4,4.00%,15.05%,0.050,3.671875
+Alice_Bob_and_two_arrays,gpt-oss-120b-medium,ACCEPTED,100,100.00%,100.00%,0.290,16.24609375

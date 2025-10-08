@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+Paired_roads_Qwen3-8B_0.cpp,RUNTIME_ERROR,0,5.04%,0.070,22.95703125,0,0,0,0,0,0,0,0
+Paired_roads_Qwen3-8B_1.cpp,RUNTIME_ERROR,0,12.60%,0.110,38.1015625,0.0,0,0,0,0,0,0,0
+Paired_roads_Qwen3-8B_2.cpp,RUNTIME_ERROR,0,5.04%,0.070,23.98046875,0,0,0,0,0,0,0,0
+Paired_roads_Qwen3-8B_3.cpp,RUNTIME_ERROR,0,12.60%,0.090,29.8203125,0.0,0,0,0,0,0,0,0
+Paired_roads_Qwen3-8B_4.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+Paired_roads_Qwen3-8B_5.cpp,RUNTIME_ERROR,0,0.00%,0.080,17.46484375,0,0,0,0,0,0,0,0
+Paired_roads_Qwen3-8B_6.cpp,RUNTIME_ERROR,0,5.04%,0.070,20.9375,0,0,0,0,0,0,0,0
+Paired_roads_Qwen3-8B_7.cpp,RUNTIME_ERROR,0,5.04%,0.070,25.83984375,0,0,0,0,0,0,0,0

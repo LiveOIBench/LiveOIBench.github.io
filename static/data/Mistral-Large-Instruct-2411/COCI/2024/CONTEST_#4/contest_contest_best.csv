@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+bingo,Mistral-Large-Instruct-2411,ACCEPTED,50,100.00%,0.000,0
+knjige,Mistral-Large-Instruct-2411,RUNTIME_ERROR,7,25.00%,0.120,2.84765625
+lepeze,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0
+putovanje,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,45,46.76%,2.210,4.375
+roboti,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,0,13.64%,2.210,556.45703125

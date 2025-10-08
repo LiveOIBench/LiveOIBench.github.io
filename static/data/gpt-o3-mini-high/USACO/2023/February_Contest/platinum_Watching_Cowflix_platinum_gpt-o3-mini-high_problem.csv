@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_21,subtask_22,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Watching_Cowflix_gpt-o3-mini-high_0.cpp,WRONG_ANSWER,61,25.00%,0.110,45.83984375,0,0,0,0,0,0,0,0,0,15.15151515151515,0,0,0,0,0,0,0,15.15151515151515,15.15151515151515,15.15151515151515,0,0,0
+platinum_Watching_Cowflix_gpt-o3-mini-high_1.cpp,WRONG_ANSWER,61,25.00%,0.130,24.078125,0,0,0,0,0,0,0,0,0,15.15151515151515,0,0,0,0,0,0,0,15.15151515151515,15.15151515151515,15.15151515151515,0,0,0
+platinum_Watching_Cowflix_gpt-o3-mini-high_2.cpp,WRONG_ANSWER,0,8.33%,0.090,13.35546875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watching_Cowflix_gpt-o3-mini-high_3.cpp,TIME_LIMIT_EXCEEDED,0,8.33%,3.340,54.47265625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watching_Cowflix_gpt-o3-mini-high_4.cpp,WRONG_ANSWER,0,8.33%,0.110,13.35546875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watching_Cowflix_gpt-o3-mini-high_5.cpp,WRONG_ANSWER,45,16.67%,0.120,42.55078125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15.15151515151515,15.15151515151515,15.15151515151515,0,0,0
+platinum_Watching_Cowflix_gpt-o3-mini-high_6.cpp,WRONG_ANSWER,61,25.00%,0.120,24.8515625,0,0,0,0,0,0,0,0,0,15.15151515151515,0,0,0,0,0,0,0,15.15151515151515,15.15151515151515,15.15151515151515,0,0,0
+platinum_Watching_Cowflix_gpt-o3-mini-high_7.cpp,WRONG_ANSWER,0,8.33%,0.100,27.5078125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

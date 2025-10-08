@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Custodial_Cleanup,seed-oss_2048,TIME_LIMIT_EXCEEDED,21,11.11%,2.440,5.67578125
+gold_Pareidolia,seed-oss_2048,RUNTIME_ERROR,0,5.88%,0.070,28.29296875
+gold_Tree_Merging,seed-oss_2048,COMPILATION_ERROR,0,0.00%,0.000,0

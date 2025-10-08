@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+hieroglyphs_gpt-5_0.cpp,TIME_LIMIT_EXCEEDED,3,9.17%,1.210,18.0234375,0,3,0,0,0,0,0
+hieroglyphs_gpt-5_1.cpp,RUNTIME_ERROR,0,3.96%,0.050,37.44140625,0,0,0,0,0,0,0
+hieroglyphs_gpt-5_2.cpp,TIME_LIMIT_EXCEEDED,0,3.96%,1.220,15.3828125,0,0,0,0,0,0,0
+hieroglyphs_gpt-5_3.cpp,TIME_LIMIT_EXCEEDED,3,12.97%,1.210,1565.984375,0,3,0,0,0,0,0
+hieroglyphs_gpt-5_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+hieroglyphs_gpt-5_5.cpp,TIME_LIMIT_EXCEEDED,0,3.95%,1.210,2439.07421875,0,0,0,0,0,0,0
+hieroglyphs_gpt-5_6.cpp,TIME_LIMIT_EXCEEDED,0,3.96%,1.210,1572.65625,0,0,0,0,0,0,0
+hieroglyphs_gpt-5_7.cpp,RUNTIME_ERROR,0,9.40%,0.080,18.9375,0,0,0,0,0,0,0

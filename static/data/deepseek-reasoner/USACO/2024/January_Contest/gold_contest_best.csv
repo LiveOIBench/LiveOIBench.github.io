@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Walking_in_Manhattan,deepseek-reasoner,TIME_LIMIT_EXCEEDED,140,45.00%,2.230,2.375
+gold_Cowmpetency,deepseek-reasoner,WRONG_ANSWER,0,5.00%,0.000,0
+gold_Nap_Sort,deepseek-reasoner,WRONG_ANSWER,0,9.09%,0.050,2.84765625

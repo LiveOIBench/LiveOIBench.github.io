@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Find_and_Replace_seed-oss_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Find_and_Replace_seed-oss_1.cpp,TIME_LIMIT_EXCEEDED,143,46.67%,2.420,73.99609375,0,23.809523809523807,0,0,0,0,0,23.809523809523807,23.809523809523807,23.809523809523807,23.809523809523807,23.809523809523807,0,0,0
+gold_Find_and_Replace_seed-oss_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Find_and_Replace_seed-oss_3.cpp,TIME_LIMIT_EXCEEDED,48,20.00%,2.420,55.953125,0,0,0,0,0,0,0,0,0,0,23.809523809523807,23.809523809523807,0,0,0
+gold_Find_and_Replace_seed-oss_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.420,302.15625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Find_and_Replace_seed-oss_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.410,7.48828125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Find_and_Replace_seed-oss_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,2.360,121.41796875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Find_and_Replace_seed-oss_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.410,98.23046875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

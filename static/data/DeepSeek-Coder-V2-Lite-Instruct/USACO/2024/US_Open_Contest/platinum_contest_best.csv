@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Identity_Theft,DeepSeek-Coder-V2-Lite-Instruct,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.480,562.2734375
+platinum_Splitting_Haybales,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,0.00%,0.550,16.76171875
+platinum_Activating_Robots,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+2024-ho-t1_Room_Temperature,Qwen2.5-Coder-7B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+2024-ho-t2_Construction_Project_2,Qwen2.5-Coder-7B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+2024-ho-t3_Marathon_Race_2,Qwen2.5-Coder-7B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+2024-ho-t4_Gift_Exchange,Qwen2.5-Coder-7B-Instruct,RUNTIME_ERROR,0,0.00%,0.000,0
+2024-ho-t5_Road_Service_2,Qwen2.5-Coder-7B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

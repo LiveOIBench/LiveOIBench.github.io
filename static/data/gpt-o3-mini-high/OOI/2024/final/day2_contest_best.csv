@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Card_Flip,gpt-o3-mini-high,RUNTIME_ERROR,15,49.61%,0.180,21.40625
+Order_Statistics,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,4,47.69%,4.420,9.2421875
+Best_Runner,gpt-o3-mini-high,ACCEPTED,100,100.00%,0.090,6.97265625
+Strong_Connectivity_Strikes_Back,gpt-o3-mini-high,ACCEPTED,100,100.00%,0.040,1.5546875

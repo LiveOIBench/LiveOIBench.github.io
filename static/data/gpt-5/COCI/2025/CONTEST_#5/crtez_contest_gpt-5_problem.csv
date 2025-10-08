@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+crtez_gpt-5_0.cpp,TIME_LIMIT_EXCEEDED,20,42.55%,2.410,2.51953125,20,0,0
+crtez_gpt-5_1.cpp,RUNTIME_ERROR,0,8.51%,0.220,54.25,0,0,0
+crtez_gpt-5_2.cpp,TIME_LIMIT_EXCEEDED,20,42.55%,2.410,2.4375,20,0,0
+crtez_gpt-5_3.cpp,ACCEPTED,120,100.00%,0.180,22.6875,20,55,45
+crtez_gpt-5_4.cpp,TIME_LIMIT_EXCEEDED,20,42.55%,2.430,2.53125,20,0,0
+crtez_gpt-5_5.cpp,ACCEPTED,120,100.00%,0.220,18.9296875,20,55,45
+crtez_gpt-5_6.cpp,TIME_LIMIT_EXCEEDED,20,42.55%,2.430,2.47265625,20,0,0
+crtez_gpt-5_7.cpp,ACCEPTED,120,100.00%,0.200,17.390625,20,55,45

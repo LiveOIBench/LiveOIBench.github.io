@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+message,seed-oss_2048,COMPILATION_ERROR,0,0.00%,0.000,0
+nile,seed-oss_2048,COMPILATION_ERROR,0,0.00%,0.000,0
+tree,seed-oss_2048,COMPILATION_ERROR,0,0.00%,0.000,0

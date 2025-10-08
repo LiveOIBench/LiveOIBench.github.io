@@ -1,0 +1,4 @@
+solution,status,score,%test passed,time,memory
+jobs_DeepSeek-R1-Distill-Qwen-32B_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0
+jobs_DeepSeek-R1-Distill-Qwen-32B_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0
+jobs_DeepSeek-R1-Distill-Qwen-32B_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0

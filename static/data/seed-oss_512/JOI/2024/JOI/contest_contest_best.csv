@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+2024-ho-t1_Room_Temperature,seed-oss_512,RUNTIME_ERROR,0,0.00%,0.000,0
+2024-ho-t2_Construction_Project_2,seed-oss_512,RUNTIME_ERROR,0,0.00%,0.000,0
+2024-ho-t3_Marathon_Race_2,seed-oss_512,COMPILATION_ERROR,0,0.00%,0.000,0
+2024-ho-t4_Gift_Exchange,seed-oss_512,COMPILATION_ERROR,0,0.00%,0.000,0
+2024-ho-t5_Road_Service_2,seed-oss_512,COMPILATION_ERROR,0,0.00%,0.000,0

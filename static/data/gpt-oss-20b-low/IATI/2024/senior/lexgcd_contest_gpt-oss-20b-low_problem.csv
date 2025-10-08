@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+lexgcd_gpt-oss-20b-low_0.cpp,RUNTIME_ERROR,0,7.38%,0.030,2.07421875,0,0,0,0,0,0,0
+lexgcd_gpt-oss-20b-low_0.cpp,RUNTIME_ERROR,0,7.38%,0.030,2.07421875,0,0,0,0,0,0,0
+lexgcd_gpt-oss-20b-low_2.cpp,RUNTIME_ERROR,0,7.38%,0.030,2.07421875,0,0,0,0,0,0,0
+lexgcd_gpt-oss-20b-low_3.cpp,RUNTIME_ERROR,0,7.38%,0.030,2.07421875,0,0,0,0,0,0,0
+lexgcd_gpt-oss-20b-low_5.cpp,RUNTIME_ERROR,0,7.38%,0.030,2.07421875,0,0,0,0,0,0,0
+lexgcd_gpt-oss-20b-low_6.cpp,RUNTIME_ERROR,0,7.38%,0.030,2.07421875,0,0,0,0,0,0,0
+lexgcd_gpt-oss-20b-low_7.cpp,TIME_LIMIT_EXCEEDED,0,4.92%,1.810,4.2890625,0,0,0,0,0,0,0

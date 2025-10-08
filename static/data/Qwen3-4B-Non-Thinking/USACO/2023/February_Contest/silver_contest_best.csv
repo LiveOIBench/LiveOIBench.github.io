@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bakery,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Cow-libi,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Moo_Route_II,Qwen3-4B-Non-Thinking,WRONG_ANSWER,0,5.00%,0.360,20.6328125

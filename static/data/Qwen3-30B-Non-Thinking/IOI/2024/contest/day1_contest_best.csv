@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+message,Qwen3-30B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+nile,Qwen3-30B-Non-Thinking,TIME_LIMIT_EXCEEDED,17,20.69%,2.210,8.43359375
+tree,Qwen3-30B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0

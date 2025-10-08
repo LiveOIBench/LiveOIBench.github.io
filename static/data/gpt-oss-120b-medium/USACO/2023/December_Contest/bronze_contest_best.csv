@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+bronze_Candy_Cane_Feast,gpt-oss-120b-medium,ACCEPTED,333,102.46%,100.00%,0.080,4.39453125
+bronze_Cowntact_Tracing_2,gpt-oss-120b-medium,ACCEPTED,333,100.91%,100.00%,0.050,1.5546875
+bronze_Farmer_John_Actually_Farms,gpt-oss-120b-medium,ACCEPTED,333,100.91%,100.00%,0.080,4.44140625

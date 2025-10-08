@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+osobna,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+skokovi,Codestral-22B-v0.1,TIME_LIMIT_EXCEEDED,25,27.08%,5.560,2.07421875
+hijerarhija,Codestral-22B-v0.1,TIME_LIMIT_EXCEEDED,0,25.00%,3.500,42.60546875
+uciteljica,Codestral-22B-v0.1,RUNTIME_ERROR,0,1.64%,0.000,0
+zbunjenost,Codestral-22B-v0.1,RUNTIME_ERROR,0,1.61%,0.110,13.73046875

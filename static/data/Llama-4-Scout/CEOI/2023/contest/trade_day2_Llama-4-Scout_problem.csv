@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0_1,subtask_0_2,subtask_1_1,subtask_1_2,subtask_2_1,subtask_2_2,subtask_3_1,subtask_3_2,subtask_4_1,subtask_4_2,subtask_5_1,subtask_5_2
+trade_Llama-4-Scout_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0
+trade_Llama-4-Scout_1.cpp,RUNTIME_ERROR,0,0.00%,0.020,5.16796875,0,0,0,0,0,0,0,0,0,0,0,0
+trade_Llama-4-Scout_2.cpp,RUNTIME_ERROR,0,0.00%,0.030,7.2265625,0,0,0,0,0,0,0,0,0,0,0,0
+trade_Llama-4-Scout_3.cpp,RUNTIME_ERROR,0,0.00%,0.020,6.1953125,0,0,0,0,0,0,0,0,0,0,0,0
+trade_Llama-4-Scout_4.cpp,RUNTIME_ERROR,0,0.00%,0.030,7.21484375,0,0,0,0,0,0,0,0,0,0,0,0
+trade_Llama-4-Scout_5.cpp,RUNTIME_ERROR,0,0.00%,0.020,6.5078125,0,0,0,0,0,0,0,0,0,0,0,0
+trade_Llama-4-Scout_6.cpp,RUNTIME_ERROR,0,0.00%,0.020,6.1953125,0,0,0,0,0,0,0,0,0,0,0,0
+trade_Llama-4-Scout_7.cpp,RUNTIME_ERROR,0,0.00%,0.010,7.22265625,0,0,0,0,0,0,0,0,0,0,0,0

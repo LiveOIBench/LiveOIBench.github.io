@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+zid_Llama-3.3-70B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,17,33.33%,1.190,1.55859375,17,0,0
+zid_Llama-3.3-70B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,17,33.33%,1.260,2.328125,17,0,0
+zid_Llama-3.3-70B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,17,33.33%,1.130,1.55859375,17,0,0
+zid_Llama-3.3-70B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,17,33.33%,1.180,1.8125,17,0,0
+zid_Llama-3.3-70B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,17,33.33%,1.170,1.8125,17,0,0
+zid_Llama-3.3-70B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,17,33.33%,1.140,1.80859375,17,0,0
+zid_Llama-3.3-70B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,17,33.33%,1.350,1.55859375,17,0,0
+zid_Llama-3.3-70B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,17,33.33%,1.180,1.8125,17,0,0

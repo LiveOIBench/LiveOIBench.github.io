@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Jump_Civilization,gpt-o3-mini-high,RUNTIME_ERROR,11,19.61%,0.070,24.76171875
+Ramen,gpt-o3-mini-high,COMPILATION_ERROR,0,0.00%,0.000,0
+Signals,gpt-o3-mini-high,RUNTIME_ERROR,15,63.27%,0.360,173.0

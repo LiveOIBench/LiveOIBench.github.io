@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Island_Vacation_gpt-oss-120b-high_0.cpp,RUNTIME_ERROR,0,0.00%,0.070,6.04296875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Island_Vacation_gpt-oss-120b-high_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Island_Vacation_gpt-oss-120b-high_2.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.960,306.6484375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Island_Vacation_gpt-oss-120b-high_3.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,1.830,306.70703125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Island_Vacation_gpt-oss-120b-high_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Island_Vacation_gpt-oss-120b-high_5.cpp,RUNTIME_ERROR,0,0.00%,0.750,5.98828125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Island_Vacation_gpt-oss-120b-high_6.cpp,RUNTIME_ERROR,0,0.00%,0.070,14.8046875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Island_Vacation_gpt-oss-120b-high_7.cpp,TIME_LIMIT_EXCEEDED,33,17.39%,2.420,252.66015625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16.666666666666664,16.666666666666664,0,0,0,0,0

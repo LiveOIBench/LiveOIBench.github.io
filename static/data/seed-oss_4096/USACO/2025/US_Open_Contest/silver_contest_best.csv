@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Sequence_Construction,seed-oss_4096,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.050,0.00390625
+silver_Compatible_Pairs,seed-oss_4096,WRONG_ANSWER,67,33.33%,0.140,20.53125
+silver_Ski_Slope,seed-oss_4096,COMPILATION_ERROR,0,0.00%,0.000,0

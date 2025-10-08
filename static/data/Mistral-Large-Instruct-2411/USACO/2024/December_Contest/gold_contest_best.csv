@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Cowdependence,Mistral-Large-Instruct-2411,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.750,275.3515625
+gold_Interstellar_Intervals,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Job_Completion,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0

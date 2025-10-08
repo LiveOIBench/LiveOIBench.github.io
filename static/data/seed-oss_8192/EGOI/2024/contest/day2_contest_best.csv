@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+circlepassing,seed-oss_8192,RUNTIME_ERROR,14,42.00%,0.020,0.00390625
+makethemmeet,seed-oss_8192,RUNTIME_ERROR,10,18.69%,0.020,1.5546875
+lightbulbs,seed-oss_8192,RUNTIME_ERROR,0,0.00%,0.000,0
+bikeparking,seed-oss_8192,RUNTIME_ERROR,0,7.21%,0.020,0

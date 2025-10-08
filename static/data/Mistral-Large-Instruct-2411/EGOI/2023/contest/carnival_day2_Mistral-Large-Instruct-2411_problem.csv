@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+carnival_Mistral-Large-Instruct-2411_0.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0
+carnival_Mistral-Large-Instruct-2411_1.cpp,RUNTIME_ERROR,0,0.00%,0.080,0,0,0,0,0,0
+carnival_Mistral-Large-Instruct-2411_2.cpp,RUNTIME_ERROR,0,10.53%,0.080,0,0,0,0,0,0
+carnival_Mistral-Large-Instruct-2411_3.cpp,RUNTIME_ERROR,11,30.23%,0.110,0.00390625,0,11,0,0,0
+carnival_Mistral-Large-Instruct-2411_4.cpp,TIME_LIMIT_EXCEEDED,0,13.16%,1.150,0.00390625,0,0,0,0,0
+carnival_Mistral-Large-Instruct-2411_5.cpp,RUNTIME_ERROR,11,30.23%,0.120,3.10546875,0,11,0,0,0
+carnival_Mistral-Large-Instruct-2411_6.cpp,RUNTIME_ERROR,0,0.00%,0.080,0,0,0,0,0,0
+carnival_Mistral-Large-Instruct-2411_7.cpp,RUNTIME_ERROR,11,30.23%,0.150,22.953125,0,11,0,0,0

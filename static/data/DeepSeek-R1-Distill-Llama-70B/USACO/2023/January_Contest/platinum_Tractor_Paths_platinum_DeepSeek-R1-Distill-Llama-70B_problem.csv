@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Tractor_Paths_DeepSeek-R1-Distill-Llama-70B_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.510,5.796875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_DeepSeek-R1-Distill-Llama-70B_1.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.380,262.83984375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_DeepSeek-R1-Distill-Llama-70B_2.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.120,5.32421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_DeepSeek-R1-Distill-Llama-70B_3.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.530,262.8984375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_DeepSeek-R1-Distill-Llama-70B_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.480,9.0859375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_DeepSeek-R1-Distill-Llama-70B_5.cpp,TIME_LIMIT_EXCEEDED,44,18.75%,4.460,9.55859375,0,22.22222222222222,0,0,0,0,0,0,22.22222222222222,0,0,0,0,0,0,0
+platinum_Tractor_Paths_DeepSeek-R1-Distill-Llama-70B_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_DeepSeek-R1-Distill-Llama-70B_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.480,8.125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

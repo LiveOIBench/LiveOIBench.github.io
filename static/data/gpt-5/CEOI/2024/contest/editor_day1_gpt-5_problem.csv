@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+editor_gpt-5_0.cpp,RUNTIME_ERROR,5,62.11%,1.050,94.86328125,0,5,0,0,0,0
+editor_gpt-5_1.cpp,RUNTIME_ERROR,0,11.11%,0.100,8.00390625,0,0,0,0,0,0
+editor_gpt-5_2.cpp,RUNTIME_ERROR,14,43.08%,0.180,20.37109375,0,0,14,0,0,0
+editor_gpt-5_3.cpp,RUNTIME_ERROR,5,26.98%,0.120,85.26953125,0,5,0,0,0,0
+editor_gpt-5_4.cpp,RUNTIME_ERROR,5,63.16%,0.730,79.75,0,5,0,0,0,0
+editor_gpt-5_5.cpp,RUNTIME_ERROR,5,33.33%,0.140,61.625,0,5,0,0,0,0
+editor_gpt-5_6.cpp,RUNTIME_ERROR,0,12.90%,0.070,8.00390625,0,0,0,0,0,0
+editor_gpt-5_7.cpp,RUNTIME_ERROR,0,22.22%,0.160,156.67578125,0,0,0,0,0,0

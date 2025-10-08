@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Colorful_Diameter_Qwen3-30B_0.cpp,RUNTIME_ERROR,0,6.69%,0.310,13.92578125,0,0,0,0,0,0,0,0,0,0
+Colorful_Diameter_Qwen3-30B_1.cpp,TIME_LIMIT_EXCEEDED,0,8.09%,7.710,12.640625,0.0,0,0,0,0,0,0,0,0,0
+Colorful_Diameter_Qwen3-30B_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,7.710,3.359375,0,0,0,0,0,0,0,0,0,0
+Colorful_Diameter_Qwen3-30B_3.cpp,TIME_LIMIT_EXCEEDED,18,54.38%,7.710,5.1640625,0.0,10.0,8.0,0,0,0,0,0,0,0
+Colorful_Diameter_Qwen3-30B_4.cpp,TIME_LIMIT_EXCEEDED,0,9.29%,7.710,44.12109375,0.0,0,0,0,0,0,0,0,0,0
+Colorful_Diameter_Qwen3-30B_5.cpp,TIME_LIMIT_EXCEEDED,0,4.10%,7.720,229.45703125,0.0,0,0,0,0,0,0,0,0,0
+Colorful_Diameter_Qwen3-30B_6.cpp,TIME_LIMIT_EXCEEDED,0,30.81%,7.760,343.39453125,0.0,0,0,0,0,0,0,0,0,0
+Colorful_Diameter_Qwen3-30B_7.cpp,TIME_LIMIT_EXCEEDED,0,4.10%,7.710,150.19140625,0.0,0,0,0,0,0,0,0,0,0

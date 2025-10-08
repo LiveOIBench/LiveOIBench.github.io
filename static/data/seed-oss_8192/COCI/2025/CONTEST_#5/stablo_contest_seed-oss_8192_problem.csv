@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+stablo_seed-oss_0.cpp,ACCEPTED,120,100.00%,0.950,161.80859375,15,15,45,45
+stablo_seed-oss_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.210,294.26953125,0,0,0,0
+stablo_seed-oss_2.cpp,RUNTIME_ERROR,0,0.00%,2.450,235.640625,0,0,0,0
+stablo_seed-oss_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.220,184.6015625,0,0,0,0
+stablo_seed-oss_4.cpp,TIME_LIMIT_EXCEEDED,0,9.90%,4.220,181.609375,0,0,0,0
+stablo_seed-oss_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+stablo_seed-oss_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+stablo_seed-oss_7.cpp,RUNTIME_ERROR,0,0.00%,1.430,218.84375,0,0,0,0

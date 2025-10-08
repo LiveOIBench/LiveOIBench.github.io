@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+bouquet,gemini-2.5-pro,ACCEPTED,100,100.00%,0.110,8.75
+infiniterace,gemini-2.5-pro,RUNTIME_ERROR,29,58.65%,0.090,2.84765625
+teamcoding,gemini-2.5-pro,ACCEPTED,100,100.00%,0.630,36.3125
+gardendecorations,gemini-2.5-pro,RUNTIME_ERROR,0,0.00%,0.000,0

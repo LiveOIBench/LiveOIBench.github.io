@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_21,subtask_22,subtask_23,subtask_24,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Logical_Moos_Llama-3.1-8B-Instruct_0.cpp,RUNTIME_ERROR,0,0.00%,0.140,37.3828125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Logical_Moos_Llama-3.1-8B-Instruct_1.cpp,RUNTIME_ERROR,0,0.00%,0.150,29.66015625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Logical_Moos_Llama-3.1-8B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.360,1.55078125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Logical_Moos_Llama-3.1-8B-Instruct_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Logical_Moos_Llama-3.1-8B-Instruct_4.cpp,RUNTIME_ERROR,0,0.00%,0.160,20.765625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Logical_Moos_Llama-3.1-8B-Instruct_5.cpp,RUNTIME_ERROR,0,0.00%,0.130,8.90625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Logical_Moos_Llama-3.1-8B-Instruct_6.cpp,RUNTIME_ERROR,0,0.00%,0.780,47.19140625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Logical_Moos_Llama-3.1-8B-Instruct_7.cpp,RUNTIME_ERROR,0,0.00%,0.140,37.90625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

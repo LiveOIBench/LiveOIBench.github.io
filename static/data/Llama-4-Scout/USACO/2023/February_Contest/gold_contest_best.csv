@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Equal_Sum_Subarrays,Llama-4-Scout,WRONG_ANSWER,0,6.25%,0.100,9.03125
+gold_Fertilizing_Pastures,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Piling_Papers,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0

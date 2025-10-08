@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+s2_deepseek-chat_0.cpp,ACCEPTED,15,100.00%,0.100,96.94921875,5,5,5
+s2_deepseek-chat_1.cpp,ACCEPTED,15,100.00%,0.090,96.94921875,5,5,5
+s2_deepseek-chat_2.cpp,ACCEPTED,15,100.00%,0.100,96.94921875,5,5,5
+s2_deepseek-chat_3.cpp,TIME_LIMIT_EXCEEDED,5,38.71%,1.160,0.00390625,5,0,0
+s2_deepseek-chat_4.cpp,ACCEPTED,15,100.00%,0.100,96.94921875,5,5,5
+s2_deepseek-chat_5.cpp,ACCEPTED,15,100.00%,0.100,96.94921875,5,5,5
+s2_deepseek-chat_6.cpp,TIME_LIMIT_EXCEEDED,5,38.71%,1.110,0.00390625,5,0,0
+s2_deepseek-chat_7.cpp,ACCEPTED,15,100.00%,0.120,96.94921875,5,5,5

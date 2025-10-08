@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cow_Checkups,seed-oss_0,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Farmer_Johns_Favorite_Operation,seed-oss_0,WRONG_ANSWER,0,0.00%,0.100,2.89453125
+silver_Table_Recovery,seed-oss_0,RUNTIME_ERROR,0,6.67%,0.140,31.9765625

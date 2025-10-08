@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+fire,gemini-2.5-pro,ACCEPTED,100,100.00%,0.200,131.19921875
+tiles,gemini-2.5-pro,RUNTIME_ERROR,24,39.05%,0.060,4.39453125
+wall,gemini-2.5-pro,ACCEPTED,100,100.00%,1.790,169.2421875

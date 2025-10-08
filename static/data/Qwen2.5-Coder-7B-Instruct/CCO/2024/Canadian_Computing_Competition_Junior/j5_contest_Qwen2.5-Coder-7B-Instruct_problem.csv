@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+j5_Qwen2.5-Coder-7B-Instruct_0.cpp,ACCEPTED,15,100.00%,0.060,1.5546875,1,4,5,5
+j5_Qwen2.5-Coder-7B-Instruct_1.cpp,RUNTIME_ERROR,1,66.67%,0.060,1.5546875,1,0,0,0
+j5_Qwen2.5-Coder-7B-Instruct_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+j5_Qwen2.5-Coder-7B-Instruct_3.cpp,ACCEPTED,15,100.00%,0.060,1.55078125,1,4,5,5
+j5_Qwen2.5-Coder-7B-Instruct_4.cpp,RUNTIME_ERROR,1,36.36%,0.050,1.5546875,1,0,0,0
+j5_Qwen2.5-Coder-7B-Instruct_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+j5_Qwen2.5-Coder-7B-Instruct_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+j5_Qwen2.5-Coder-7B-Instruct_7.cpp,RUNTIME_ERROR,0,3.03%,0.060,1.5546875,0,0,0,0

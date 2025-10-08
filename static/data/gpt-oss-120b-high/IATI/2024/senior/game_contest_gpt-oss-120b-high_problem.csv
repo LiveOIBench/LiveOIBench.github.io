@@ -1,0 +1,6 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+game_gpt-oss-120b-high_0.cpp,TIME_LIMIT_EXCEEDED,0,10.81%,1.800,61.890625,0,0,0,0,0
+game_gpt-oss-120b-high_2.cpp,RUNTIME_ERROR,0,2.70%,0.180,11.10546875,0,0,0,0,0
+game_gpt-oss-120b-high_3.cpp,RUNTIME_ERROR,0,2.70%,0.200,16.0625,0,0,0,0,0
+game_gpt-oss-120b-high_5.cpp,RUNTIME_ERROR,0,0.00%,0.110,67.625,0,0,0,0,0
+game_gpt-oss-120b-high_7.cpp,RUNTIME_ERROR,0,10.81%,0.090,5.87109375,0,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+message,gpt-4.1,COMPILATION_ERROR,0,0.00%,0.000,0
+nile,gpt-4.1,RUNTIME_ERROR,0,3.70%,0.030,4.65234375
+tree,gpt-4.1,TIME_LIMIT_EXCEEDED,10,25.88%,2.210,31.5546875

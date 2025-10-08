@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Reflection,deepseek-reasoner,ACCEPTED,333,100.00%,0.070,9.546875
+bronze_Making_Mexes,deepseek-reasoner,ACCEPTED,333,100.00%,0.050,3.62109375
+bronze_Printing_Sequences,deepseek-reasoner,ACCEPTED,333,100.00%,1.070,1.5625

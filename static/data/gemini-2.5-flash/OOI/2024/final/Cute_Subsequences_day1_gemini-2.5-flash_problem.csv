@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Cute_Subsequences_gemini-2.5-flash_0.cpp,RUNTIME_ERROR,0,4.40%,0.030,0,0.0,0,0,0,0,0,0
+Cute_Subsequences_gemini-2.5-flash_1.cpp,RUNTIME_ERROR,0,28.16%,0.070,9.03515625,0.0,0,0,0,0,0,0
+Cute_Subsequences_gemini-2.5-flash_2.cpp,RUNTIME_ERROR,0,28.16%,0.070,9.03515625,0.0,0,0,0,0,0,0
+Cute_Subsequences_gemini-2.5-flash_3.cpp,TIME_LIMIT_EXCEEDED,0,17.53%,1.140,24.34375,0.0,0,0,0,0,0,0
+Cute_Subsequences_gemini-2.5-flash_4.cpp,ACCEPTED,100,100.00%,0.110,20.67578125,0.0,14.0,19.0,17.0,21.0,15.0,14.0
+Cute_Subsequences_gemini-2.5-flash_5.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+Cute_Subsequences_gemini-2.5-flash_6.cpp,RUNTIME_ERROR,0,28.16%,0.080,5.16796875,0.0,0,0,0,0,0,0

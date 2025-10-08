@@ -1,0 +1,7 @@
+problem,model,status,score,%test passed,time,memory
+aquarelle,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,11.24%,0.120,35.53125
+parentheses,Llama-3.1-8B-Instruct,RUNTIME_ERROR,5,73.37%,0.170,21.703125
+tolls,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+twins,Llama-3.1-8B-Instruct,UNKNOWN,0,0.00%,0.000,0
+walk,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,0.00%,0.120,0.00390625
+xy,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,0.00%,0.140,0.00390625

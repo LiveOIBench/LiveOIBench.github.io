@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bessies_Interview,Qwen2.5-Coder-14B-Instruct,WRONG_ANSWER,33,9.52%,0.160,4.6640625
+silver_Painting_Fence_Posts,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_The_Winning_Gene,Qwen2.5-Coder-14B-Instruct,TIME_LIMIT_EXCEEDED,67,25.00%,2.240,1.55078125

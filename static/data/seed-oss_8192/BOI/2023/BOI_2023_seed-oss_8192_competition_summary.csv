@@ -1,0 +1,8 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+astronomer,RUNTIME_ERROR,0,23.17%,0.320,1.5859375,,0,0,0,0,0,0,0,0
+staringcontest,RUNTIME_ERROR,0,4.27%,0.010,1.55078125,,0,0,0,0,0,0,0,0
+tycho,TIME_LIMIT_EXCEEDED,32,87.94%,2.410,63.890625,,0,0,5,7,0,20,0,0
+minequake,ACCEPTED,100,100.00%,0.040,10.0625,,0,18,19,20,21,22,0,0
+mineraldeposits,RUNTIME_ERROR,0,0.00%,0.000,1.484375,,0,0,0,0,0,0,0,0
+sequence,RUNTIME_ERROR,0,13.46%,0.000,0,,0,0,0,0,0,0,0,0
+TOTAL,,132,38.14%,,,16.67%,,,,,,,,

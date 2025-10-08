@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Deforestation_Llama-3.3-70B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,33,18.18%,2.320,3.0546875,0,33.33333333333333,0,0,0,0,0,0,0,0,0
+silver_Deforestation_Llama-3.3-70B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.280,6.96875,0,0,0,0,0,0,0,0,0,0,0
+silver_Deforestation_Llama-3.3-70B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.270,6.453125,0,0,0,0,0,0,0,0,0,0,0
+silver_Deforestation_Llama-3.3-70B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,33,18.18%,2.270,4.13671875,0,33.33333333333333,0,0,0,0,0,0,0,0,0
+silver_Deforestation_Llama-3.3-70B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.290,2.84375,0,0,0,0,0,0,0,0,0,0,0
+silver_Deforestation_Llama-3.3-70B-Instruct_5.cpp,WRONG_ANSWER,0,0.00%,0.190,3.21875,0,0,0,0,0,0,0,0,0,0,0
+silver_Deforestation_Llama-3.3-70B-Instruct_6.cpp,WRONG_ANSWER,0,0.00%,0.200,2.64453125,0,0,0,0,0,0,0,0,0,0,0
+silver_Deforestation_Llama-3.3-70B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,33,18.18%,2.250,4.13671875,0,33.33333333333333,0,0,0,0,0,0,0,0,0

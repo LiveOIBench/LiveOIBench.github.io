@@ -1,0 +1,7 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+j4_gpt-oss-20b-high_0.cpp,ACCEPTED,15,100.00%,0.020,1.49609375,3,3,5,4
+j4_gpt-oss-20b-high_1.cpp,ACCEPTED,15,100.00%,0.030,2.49609375,3,3,5,4
+j4_gpt-oss-20b-high_2.cpp,ACCEPTED,15,100.00%,0.030,2.3125,3,3,5,4
+j4_gpt-oss-20b-high_4.cpp,ACCEPTED,15,100.00%,0.030,2.265625,3,3,5,4
+j4_gpt-oss-20b-high_5.cpp,ACCEPTED,15,100.00%,0.020,1.49609375,3,3,5,4
+j4_gpt-oss-20b-high_6.cpp,ACCEPTED,15,100.00%,0.030,2.3125,3,3,5,4

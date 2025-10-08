@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+piratski_gemini-2.5-flash_0.cpp,ACCEPTED,110,100.00%,0.400,1.55859375,20,40,50
+piratski_gemini-2.5-flash_1.cpp,ACCEPTED,110,100.00%,0.060,1.55859375,20,40,50
+piratski_gemini-2.5-flash_2.cpp,WRONG_ANSWER,0,0.00%,0.030,0,0,0,0
+piratski_gemini-2.5-flash_3.cpp,ACCEPTED,110,100.00%,0.050,1.55859375,20,40,50
+piratski_gemini-2.5-flash_4.cpp,ACCEPTED,110,100.00%,0.060,1.55859375,20,40,50
+piratski_gemini-2.5-flash_5.cpp,WRONG_ANSWER,0,0.00%,0.000,0,0,0,0
+piratski_gemini-2.5-flash_6.cpp,ACCEPTED,110,100.00%,0.070,1.55859375,20,40,50
+piratski_gemini-2.5-flash_7.cpp,ACCEPTED,110,100.00%,0.070,1.55859375,20,40,50

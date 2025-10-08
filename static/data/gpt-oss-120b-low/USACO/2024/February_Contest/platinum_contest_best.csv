@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Lazy_Cow,gpt-oss-120b-low,WRONG_ANSWER,20,15.00%,0.090,0.00390625
+platinum_Minimum_Sum_of_Maximums,gpt-oss-120b-low,RUNTIME_ERROR,50,20.83%,0.000,0
+platinum_Infinite_Adventure,gpt-oss-120b-low,RUNTIME_ERROR,83,22.22%,0.090,26.828125

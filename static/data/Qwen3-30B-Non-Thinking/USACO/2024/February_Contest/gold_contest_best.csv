@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Bessla_Motors,Qwen3-30B-Non-Thinking,TIME_LIMIT_EXCEEDED,83,40.00%,3.310,9.35546875
+gold_Milk_Exchange,Qwen3-30B-Non-Thinking,TIME_LIMIT_EXCEEDED,33,21.74%,2.280,12.90234375
+gold_Quantum_Moochanics,Qwen3-30B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_All_Pairs_Similarity_seed-oss_0.cpp,TIME_LIMIT_EXCEEDED,48,20.00%,2.420,191.3359375,0,23.809523809523807,0,0,0,0,0,23.809523809523807,0,0,0,0,0,0,0
+platinum_All_Pairs_Similarity_seed-oss_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.410,21.421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_All_Pairs_Similarity_seed-oss_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.420,21.09765625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_All_Pairs_Similarity_seed-oss_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.440,29.3984375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_All_Pairs_Similarity_seed-oss_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.420,21.41015625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_All_Pairs_Similarity_seed-oss_5.cpp,WRONG_ANSWER,0,6.67%,1.250,367.3203125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_All_Pairs_Similarity_seed-oss_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.410,25.2734375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_All_Pairs_Similarity_seed-oss_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.410,345.3203125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

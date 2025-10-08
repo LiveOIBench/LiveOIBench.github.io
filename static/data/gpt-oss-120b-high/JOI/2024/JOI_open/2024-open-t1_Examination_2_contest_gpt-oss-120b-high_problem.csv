@@ -1,0 +1,7 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+2024-open-t1_Examination_2_gpt-oss-120b-high_0.cpp,TIME_LIMIT_EXCEEDED,20,33.33%,2.410,54.5390625,0,20,0,0,0,0,0
+2024-open-t1_Examination_2_gpt-oss-120b-high_1.cpp,MEMORY_LIMIT_EXCEEDED,0,12.90%,0.460,746.625,0,0,0,0,0,0,0
+2024-open-t1_Examination_2_gpt-oss-120b-high_2.cpp,ACCEPTED,100,100.00%,0.630,931.33203125,5,20,10,6,12,20,27
+2024-open-t1_Examination_2_gpt-oss-120b-high_3.cpp,MEMORY_LIMIT_EXCEEDED,20,56.36%,0.620,1227.51171875,0,20,0,0,0,0,0
+2024-open-t1_Examination_2_gpt-oss-120b-high_4.cpp,MEMORY_LIMIT_EXCEEDED,20,56.36%,0.830,1227.1171875,0,20,0,0,0,0,0
+2024-open-t1_Examination_2_gpt-oss-120b-high_7.cpp,RUNTIME_ERROR,0,13.48%,0.120,33.5078125,0,0,0,0,0,0,0

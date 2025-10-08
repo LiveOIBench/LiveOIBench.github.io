@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+mineraldeposits_gpt-4.1_0.cpp,RUNTIME_ERROR,0,0.00%,0.020,1.5390625,0,0,0,0,0,0,0,0
+mineraldeposits_gpt-4.1_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.020,1.53515625,0,0,0,0,0,0,0,0
+mineraldeposits_gpt-4.1_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+mineraldeposits_gpt-4.1_3.cpp,RUNTIME_ERROR,0,0.00%,0.020,1.484375,0,0,0,0,0,0,0,0
+mineraldeposits_gpt-4.1_4.cpp,RUNTIME_ERROR,0,0.00%,0.020,1.484375,0,0,0,0,0,0,0,0
+mineraldeposits_gpt-4.1_5.cpp,RUNTIME_ERROR,0,7.32%,0.020,1.5390625,0,0,0,0,0,0,0,0
+mineraldeposits_gpt-4.1_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+mineraldeposits_gpt-4.1_7.cpp,TIME_LIMIT_EXCEEDED,0,37.27%,3.010,900.7265625,0,0,0,0,0,0,0,0

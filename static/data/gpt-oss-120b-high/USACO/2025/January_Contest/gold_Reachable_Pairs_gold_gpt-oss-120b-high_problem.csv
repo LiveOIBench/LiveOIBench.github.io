@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Reachable_Pairs_gpt-oss-120b-high_0.cpp,WRONG_ANSWER,50,21.74%,0.610,145.8515625,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,16.666666666666664,16.666666666666664,0,0,0,0
+gold_Reachable_Pairs_gpt-oss-120b-high_1.cpp,WRONG_ANSWER,50,26.09%,0.740,123.45703125,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,16.666666666666664,16.666666666666664,0,0,0,0
+gold_Reachable_Pairs_gpt-oss-120b-high_2.cpp,WRONG_ANSWER,50,26.09%,0.640,126.83203125,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,16.666666666666664,16.666666666666664,0,0,0,0
+gold_Reachable_Pairs_gpt-oss-120b-high_3.cpp,WRONG_ANSWER,50,26.09%,0.170,21.83984375,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,16.666666666666664,16.666666666666664,0,0,0,0
+gold_Reachable_Pairs_gpt-oss-120b-high_4.cpp,WRONG_ANSWER,50,26.09%,0.170,24.9921875,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,16.666666666666664,16.666666666666664,0,0,0,0
+gold_Reachable_Pairs_gpt-oss-120b-high_5.cpp,WRONG_ANSWER,50,26.09%,0.140,17.2578125,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,16.666666666666664,16.666666666666664,0,0,0,0
+gold_Reachable_Pairs_gpt-oss-120b-high_6.cpp,WRONG_ANSWER,0,8.70%,0.640,130.1015625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Reachable_Pairs_gpt-oss-120b-high_7.cpp,WRONG_ANSWER,50,26.09%,0.410,101.87109375,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,16.666666666666664,16.666666666666664,0,0,0,0

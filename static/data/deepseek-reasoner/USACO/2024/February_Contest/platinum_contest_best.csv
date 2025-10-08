@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Lazy_Cow,deepseek-reasoner,RUNTIME_ERROR,0,5.00%,0.140,7.484375
+platinum_Minimum_Sum_of_Maximums,deepseek-reasoner,RUNTIME_ERROR,17,12.50%,0.080,0.00390625
+platinum_Infinite_Adventure,deepseek-reasoner,RUNTIME_ERROR,83,22.22%,0.350,108.8046875

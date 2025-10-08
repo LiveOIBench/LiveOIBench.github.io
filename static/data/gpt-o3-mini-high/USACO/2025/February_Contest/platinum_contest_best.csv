@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Min_Max_Subarrays,gpt-o3-mini-high,WRONG_ANSWER,0,23.08%,0.170,24.46875
+platinum_Transforming_Pairs,gpt-o3-mini-high,WRONG_ANSWER,0,5.26%,0.120,0.00390625
+platinum_True_or_False_Test,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,53,20.00%,3.380,78.3828125

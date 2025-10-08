@@ -1,0 +1,4 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+mangooste_ok.cpp,MEMORY_LIMIT_EXCEEDED,80,99.05%,0.250,0,0.0,14.0,0,8.0,0,12.0,9.0,10.0,9.0,8.0,10.0
+solve.cpp,MEMORY_LIMIT_EXCEEDED,80,99.05%,0.250,0,0.0,14.0,0,8.0,0,12.0,9.0,10.0,9.0,8.0,10.0
+tikhon_ultra_stupid_but_with_tree.cpp,RUNTIME_ERROR,80,99.05%,0.250,0,0.0,14.0,0,8.0,0,12.0,9.0,10.0,9.0,8.0,10.0

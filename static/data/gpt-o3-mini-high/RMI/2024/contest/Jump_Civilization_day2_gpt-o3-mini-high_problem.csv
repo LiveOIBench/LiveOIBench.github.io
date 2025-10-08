@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+Jump_Civilization_gpt-o3-mini-high_0.cpp,RUNTIME_ERROR,0,2.04%,0.100,34.55859375,0,0,0,0,0,0
+Jump_Civilization_gpt-o3-mini-high_1.cpp,RUNTIME_ERROR,0,4.08%,0.120,3.6171875,0,0,0,0,0,0
+Jump_Civilization_gpt-o3-mini-high_2.cpp,RUNTIME_ERROR,0,9.80%,0.060,5.6796875,0,0,0,0,0,0
+Jump_Civilization_gpt-o3-mini-high_3.cpp,TIME_LIMIT_EXCEEDED,0,2.04%,1.120,283.64453125,0,0,0,0,0,0
+Jump_Civilization_gpt-o3-mini-high_4.cpp,RUNTIME_ERROR,0,4.08%,0.090,7.7421875,0,0,0,0,0,0
+Jump_Civilization_gpt-o3-mini-high_5.cpp,TIME_LIMIT_EXCEEDED,0,8.16%,1.180,3.90234375,0,0,0,0,0,0
+Jump_Civilization_gpt-o3-mini-high_6.cpp,RUNTIME_ERROR,0,2.04%,0.070,4.65234375,0,0,0,0,0,0
+Jump_Civilization_gpt-o3-mini-high_7.cpp,RUNTIME_ERROR,11,19.61%,0.070,24.76171875,0,0,0,11,0,0

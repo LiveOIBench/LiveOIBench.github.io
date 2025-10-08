@@ -1,0 +1,5 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+trokut_gpt-oss-20b-high_2.cpp,RUNTIME_ERROR,13,12.50%,0.020,0.00390625,13,0,0,0
+trokut_gpt-oss-20b-high_3.cpp,RUNTIME_ERROR,0,0.00%,0.030,0.00390625,0,0,0,0
+trokut_gpt-oss-20b-high_4.cpp,RUNTIME_ERROR,0,0.00%,0.030,0.00390625,0,0,0,0
+trokut_gpt-oss-20b-high_5.cpp,RUNTIME_ERROR,0,0.00%,0.020,0.00390625,0,0,0,0

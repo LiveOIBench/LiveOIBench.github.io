@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+mostovi_seed-oss_0.cpp,RUNTIME_ERROR,0,0.00%,0.050,19.33984375,0,0,0,0,0
+mostovi_seed-oss_1.cpp,RUNTIME_ERROR,0,0.00%,0.060,39.16015625,0,0,0,0,0
+mostovi_seed-oss_2.cpp,RUNTIME_ERROR,0,0.00%,0.060,16.72265625,0,0,0,0,0
+mostovi_seed-oss_3.cpp,RUNTIME_ERROR,0,0.00%,0.060,10.578125,0,0,0,0,0
+mostovi_seed-oss_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.650,41.99609375,0,0,0,0,0
+mostovi_seed-oss_5.cpp,RUNTIME_ERROR,0,0.00%,0.050,16.2421875,0,0,0,0,0
+mostovi_seed-oss_6.cpp,RUNTIME_ERROR,0,0.00%,0.100,176.8671875,0,0,0,0,0
+mostovi_seed-oss_7.cpp,RUNTIME_ERROR,0,0.00%,0.060,17.01953125,0,0,0,0,0

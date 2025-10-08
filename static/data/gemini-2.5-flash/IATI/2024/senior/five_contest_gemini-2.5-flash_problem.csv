@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+five_gemini-2.5-flash_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.900,20.17578125,0,0,0,0,0,0
+five_gemini-2.5-flash_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.860,32.23046875,0,0,0,0,0,0
+five_gemini-2.5-flash_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+five_gemini-2.5-flash_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.860,184.96484375,0,0,0,0,0,0
+five_gemini-2.5-flash_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.910,93.58984375,0,0,0,0,0,0
+five_gemini-2.5-flash_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+five_gemini-2.5-flash_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.880,93.58984375,0,0,0,0,0,0
+five_gemini-2.5-flash_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.850,93.58984375,0,0,0,0,0,0

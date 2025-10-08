@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+estimathon,QwQ-32B,ACCEPTED,50,100.00%,0.000,0
+dirigent,QwQ-32B,ACCEPTED,70,100.00%,0.150,3.6171875
+baltazar,QwQ-32B,TIME_LIMIT_EXCEEDED,15,62.50%,4.820,48.42578125
+bomboni,QwQ-32B,ACCEPTED,110,100.00%,0.220,3.3515625
+skrivaca,QwQ-32B,RUNTIME_ERROR,0,0.00%,0.120,15.48046875

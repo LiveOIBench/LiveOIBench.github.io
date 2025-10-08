@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bovine_Acrobatics,seed-oss_8192,TIME_LIMIT_EXCEEDED,133,35.29%,2.440,8.28125
+silver_Cycle_Correspondence,seed-oss_8192,ACCEPTED,333,100.00%,0.050,7.23046875
+silver_Target_Practice,seed-oss_8192,WRONG_ANSWER,56,26.67%,0.030,5.07421875

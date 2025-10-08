@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cow_Checkups,Codestral-22B-v0.1,TIME_LIMIT_EXCEEDED,17,17.39%,2.260,7.0859375
+silver_Farmer_Johns_Favorite_Operation,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Table_Recovery,Codestral-22B-v0.1,RUNTIME_ERROR,0,6.67%,0.240,9.09765625

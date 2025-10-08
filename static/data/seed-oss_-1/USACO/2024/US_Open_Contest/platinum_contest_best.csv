@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Identity_Theft,seed-oss_-1,RUNTIME_ERROR,50,24.00%,0.100,64.41796875
+platinum_Splitting_Haybales,seed-oss_-1,TIME_LIMIT_EXCEEDED,17,13.64%,2.410,3.86328125
+platinum_Activating_Robots,seed-oss_-1,RUNTIME_ERROR,200,58.33%,0.040,0.00390625

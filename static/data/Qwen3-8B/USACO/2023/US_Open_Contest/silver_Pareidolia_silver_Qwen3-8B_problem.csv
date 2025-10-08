@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Pareidolia_Qwen3-8B_0.cpp,RUNTIME_ERROR,0,0.00%,0.020,1.5546875,0,0,0,0,0,0,0,0,0,0,0
+silver_Pareidolia_Qwen3-8B_1.cpp,RUNTIME_ERROR,0,0.00%,0.040,1.828125,0,0,0,0,0,0,0,0,0,0,0
+silver_Pareidolia_Qwen3-8B_2.cpp,WRONG_ANSWER,0,8.33%,0.020,1.5546875,0,0,0,0,0,0,0,0,0,0,0
+silver_Pareidolia_Qwen3-8B_3.cpp,WRONG_ANSWER,0,8.33%,0.020,1.5546875,0,0,0,0,0,0,0,0,0,0,0
+silver_Pareidolia_Qwen3-8B_4.cpp,WRONG_ANSWER,0,16.67%,0.030,1.5546875,0,0,0,0,0,0,0,0,0,0,0
+silver_Pareidolia_Qwen3-8B_5.cpp,RUNTIME_ERROR,0,0.00%,0.020,1.5546875,0,0,0,0,0,0,0,0,0,0,0
+silver_Pareidolia_Qwen3-8B_6.cpp,WRONG_ANSWER,0,8.33%,0.020,1.5546875,0,0,0,0,0,0,0,0,0,0,0
+silver_Pareidolia_Qwen3-8B_7.cpp,RUNTIME_ERROR,0,0.00%,0.020,1.5546875,0,0,0,0,0,0,0,0,0,0,0

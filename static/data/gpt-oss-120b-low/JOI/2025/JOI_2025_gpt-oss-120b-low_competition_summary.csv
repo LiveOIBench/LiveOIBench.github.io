@@ -1,0 +1,7 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+2025-ho-t1_Grid_Coloring,RUNTIME_ERROR,0,3.41%,0.080,14.62109375,,0,0,0,0,0,0,0
+2025-ho-t2_Bitaro_the_Brave_2,ACCEPTED,100,100.00%,0.130,28.11328125,,10,21,19,22,28,0,0
+2025-ho-t3_Mi_Teleférico,RUNTIME_ERROR,30,33.13%,0.320,11.609375,,7,0,0,23,0,0,0
+2025-ho-t4_Just_Long_Neckties_2,TIME_LIMIT_EXCEEDED,28,73.96%,3.610,62.92578125,,10,6,12,0,0,0,0
+2025-ho-t5_Post_Office,TIME_LIMIT_EXCEEDED,3,18.71%,2.410,36.3671875,,3,0,0,0,0,0,0
+TOTAL,,161,45.84%,,,20.00%,,,,,,,

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+diplomacy,seed-oss_16384,TIME_LIMIT_EXCEEDED,0,1.08%,4.810,23.22265625
+garbage,seed-oss_16384,TIME_LIMIT_EXCEEDED,0,15.07%,5.980,5.6796875
+xoracle,seed-oss_16384,ACCEPTED,100,100.00%,0.350,3.56640625

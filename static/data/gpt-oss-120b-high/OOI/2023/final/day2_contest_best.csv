@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Burenka_and_Pether,gpt-oss-120b-high,TIME_LIMIT_EXCEEDED,20,44.20%,3.610,285.875
+Almost_Certainly,gpt-oss-120b-high,ACCEPTED,100,100.00%,0.180,27.3359375
+Three_Arrays,gpt-oss-120b-high,ACCEPTED,100,100.00%,0.050,5.16015625
+Parallel_Universes,gpt-oss-120b-high,RUNTIME_ERROR,19,17.99%,0.160,51.9375

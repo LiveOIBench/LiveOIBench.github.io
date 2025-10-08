@@ -1,0 +1,5 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Fertilizing_Pastures_Qwen3-4B-Non-Thinking_0.cpp,RUNTIME_ERROR,0,0.00%,0.170,15.79296875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Fertilizing_Pastures_Qwen3-4B-Non-Thinking_2.cpp,RUNTIME_ERROR,0,0.00%,0.190,15.28515625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Fertilizing_Pastures_Qwen3-4B-Non-Thinking_4.cpp,RUNTIME_ERROR,0,0.00%,0.190,20.16015625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Fertilizing_Pastures_Qwen3-4B-Non-Thinking_6.cpp,RUNTIME_ERROR,0,0.00%,0.190,17.8046875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

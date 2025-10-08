@@ -1,0 +1,4 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+makethemmeet_gpt-oss-120b-high_3.cpp,RUNTIME_ERROR,0,11.00%,0.030,0,0,0.0,0.0,0.0,0.0,0.0
+makethemmeet_gpt-oss-120b-high_5.cpp,RUNTIME_ERROR,11,16.00%,0.070,0.00390625,0,0.0,0.0,11,0.0,0.0
+makethemmeet_gpt-oss-120b-high_7.cpp,RUNTIME_ERROR,11,16.00%,0.060,0.00390625,0,0.0,0.0,11,0.0,0.0

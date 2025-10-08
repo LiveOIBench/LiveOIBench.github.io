@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+twins_gpt-oss-20b-high_0.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0
+twins_gpt-oss-20b-high_1.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0
+twins_gpt-oss-20b-high_2.cpp,RUNTIME_ERROR,0,0.00%,0.030,1.80078125,0,0,0
+twins_gpt-oss-20b-high_3.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0
+twins_gpt-oss-20b-high_4.cpp,RUNTIME_ERROR,0,0.00%,0.030,1.671875,0,0,0
+twins_gpt-oss-20b-high_5.cpp,RUNTIME_ERROR,0,0.00%,0.030,1.7265625,0,0,0
+twins_gpt-oss-20b-high_6.cpp,RUNTIME_ERROR,0,0.00%,0.030,1.703125,0,0,0
+twins_gpt-oss-20b-high_7.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+teamcoding_gemini-2.5-flash_0.cpp,RUNTIME_ERROR,0,10.64%,0.030,4.78125,0,0,0,0,0,0
+teamcoding_gemini-2.5-flash_1.cpp,RUNTIME_ERROR,0,10.64%,0.040,21.9140625,0,0,0,0,0,0
+teamcoding_gemini-2.5-flash_2.cpp,MEMORY_LIMIT_EXCEEDED,0,33.33%,1.130,1125.61328125,0,0,0,0,0,0
+teamcoding_gemini-2.5-flash_3.cpp,TIME_LIMIT_EXCEEDED,0,33.33%,4.410,50.3984375,0,0,0,0,0,0
+teamcoding_gemini-2.5-flash_4.cpp,MEMORY_LIMIT_EXCEEDED,0,33.33%,0.410,1116.078125,0,0,0,0,0,0
+teamcoding_gemini-2.5-flash_5.cpp,RUNTIME_ERROR,0,10.64%,0.030,12.32421875,0,0,0,0,0,0
+teamcoding_gemini-2.5-flash_6.cpp,RUNTIME_ERROR,0,10.64%,0.040,5.875,0,0,0,0,0,0
+teamcoding_gemini-2.5-flash_7.cpp,RUNTIME_ERROR,0,10.64%,0.030,0,0,0,0,0,0,0

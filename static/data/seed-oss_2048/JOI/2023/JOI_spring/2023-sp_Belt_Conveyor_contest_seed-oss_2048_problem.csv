@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4
+2023-sp_Belt_Conveyor_seed-oss_0.cpp,RUNTIME_ERROR,0,0.00%,0.630,6.5625,0,0,0,0
+2023-sp_Belt_Conveyor_seed-oss_1.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0
+2023-sp_Belt_Conveyor_seed-oss_2.cpp,RUNTIME_ERROR,0,6.45%,0.080,11.54296875,0,0,0,0
+2023-sp_Belt_Conveyor_seed-oss_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+2023-sp_Belt_Conveyor_seed-oss_4.cpp,RUNTIME_ERROR,1,12.90%,0.620,11.890625,1,0,0,0
+2023-sp_Belt_Conveyor_seed-oss_5.cpp,RUNTIME_ERROR,0,0.00%,0.620,5.6875,0,0,0,0
+2023-sp_Belt_Conveyor_seed-oss_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+2023-sp_Belt_Conveyor_seed-oss_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.100,6.859375,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Alien_Homophones_gpt-o3-mini-high_0.cpp,TIME_LIMIT_EXCEEDED,8,75.89%,2.210,2.96875,0.0,8.0,0,0,0,0,0,0,0,0,0
+Alien_Homophones_gpt-o3-mini-high_1.cpp,ACCEPTED,100,100.00%,0.740,386.5625,0.0,8.0,11.0,7.0,9.0,15.0,8.0,6.0,7.0,10.0,19.0
+Alien_Homophones_gpt-o3-mini-high_2.cpp,TIME_LIMIT_EXCEEDED,62,90.97%,2.230,113.40625,0.0,8.0,0,7.0,9.0,15.0,0,6.0,7.0,10.0,0
+Alien_Homophones_gpt-o3-mini-high_3.cpp,ACCEPTED,100,100.00%,0.870,311.953125,0.0,8.0,11.0,7.0,9.0,15.0,8.0,6.0,7.0,10.0,19.0
+Alien_Homophones_gpt-o3-mini-high_4.cpp,ACCEPTED,100,100.00%,0.670,285.14453125,0.0,8.0,11.0,7.0,9.0,15.0,8.0,6.0,7.0,10.0,19.0
+Alien_Homophones_gpt-o3-mini-high_5.cpp,TIME_LIMIT_EXCEEDED,62,91.10%,2.220,84.8671875,0.0,8.0,0,7.0,9.0,15.0,0,6.0,7.0,10.0,0
+Alien_Homophones_gpt-o3-mini-high_6.cpp,TIME_LIMIT_EXCEEDED,8,74.80%,2.270,2.90234375,0.0,8.0,0,0,0,0,0,0,0,0,0
+Alien_Homophones_gpt-o3-mini-high_7.cpp,TIME_LIMIT_EXCEEDED,70,94.36%,2.220,85.5625,0.0,8.0,0,7.0,9.0,15.0,8.0,6.0,7.0,10.0,0

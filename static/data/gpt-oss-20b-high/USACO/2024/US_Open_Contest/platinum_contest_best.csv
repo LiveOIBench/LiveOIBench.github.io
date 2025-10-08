@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Identity_Theft,gpt-oss-20b-high,RUNTIME_ERROR,0,0.00%,0.050,1.5546875
+platinum_Splitting_Haybales,gpt-oss-20b-high,TIME_LIMIT_EXCEEDED,17,13.64%,2.440,2.7890625
+platinum_Activating_Robots,gpt-oss-20b-high,WRONG_ANSWER,33,25.00%,0.060,2.07421875

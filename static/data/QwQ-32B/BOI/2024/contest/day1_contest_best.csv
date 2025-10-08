@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+jobs,QwQ-32B,RUNTIME_ERROR,11,10.14%,0.110,24.2421875
+portal,QwQ-32B,RUNTIME_ERROR,11,32.11%,0.030,2.88671875
+trains,QwQ-32B,TIME_LIMIT_EXCEEDED,21,78.26%,1.130,2.58984375

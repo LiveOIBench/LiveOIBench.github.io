@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Hungry_Cow,gpt-5,ACCEPTED,333,100.00%,0.510,15.47265625
+platinum_Problem_Setting,gpt-5,ACCEPTED,333,100.00%,0.260,19.5234375
+platinum_Watching_Cowflix,gpt-5,ACCEPTED,333,100.00%,0.460,54.34765625

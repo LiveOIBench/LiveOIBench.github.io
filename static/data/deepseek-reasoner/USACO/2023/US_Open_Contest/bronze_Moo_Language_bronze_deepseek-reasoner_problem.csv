@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Moo_Language_deepseek-reasoner_0.cpp,WRONG_ANSWER,0,0.00%,0.080,1.78125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Moo_Language_deepseek-reasoner_1.cpp,RUNTIME_ERROR,0,0.00%,0.060,1.8046875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Moo_Language_deepseek-reasoner_2.cpp,RUNTIME_ERROR,0,0.00%,0.100,1.6640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Moo_Language_deepseek-reasoner_3.cpp,RUNTIME_ERROR,0,0.00%,0.040,1.6640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Moo_Language_deepseek-reasoner_4.cpp,WRONG_ANSWER,0,0.00%,0.060,1.80078125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Moo_Language_deepseek-reasoner_5.cpp,WRONG_ANSWER,0,0.00%,0.130,1.82421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Moo_Language_deepseek-reasoner_6.cpp,WRONG_ANSWER,0,0.00%,0.060,5.47265625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Moo_Language_deepseek-reasoner_7.cpp,RUNTIME_ERROR,0,0.00%,0.060,1.8515625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

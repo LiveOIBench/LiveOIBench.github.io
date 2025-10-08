@@ -1,0 +1,7 @@
+problem,model,status,score,%test passed,time,memory
+aquarelle,seed-oss_2048,RUNTIME_ERROR,0,11.24%,0.110,85.8359375
+parentheses,seed-oss_2048,RUNTIME_ERROR,0,2.34%,0.060,10.32421875
+tolls,seed-oss_2048,ACCEPTED,100,100.00%,0.100,11.375
+twins,seed-oss_2048,RUNTIME_ERROR,40,35.88%,0.030,2.57421875
+walk,seed-oss_2048,COMPILATION_ERROR,0,0.00%,0.000,0
+xy,seed-oss_2048,COMPILATION_ERROR,0,0.00%,0.000,0

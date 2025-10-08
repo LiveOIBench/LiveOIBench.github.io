@@ -1,0 +1,10 @@
+problem,model,status,score,%test passed,time,memory
+Paired_roads,gpt-5,RUNTIME_ERROR,0,29.93%,0.190,23.54296875
+Legs_warm-up_exercise,gpt-5,TIME_LIMIT_EXCEEDED,18,52.37%,7.210,19.953125
+Hard_problem,gpt-5,ACCEPTED,100,100.00%,0.140,31.19921875
+Yet_another_queries,gpt-5,ACCEPTED,100,100.00%,0.940,36.46484375
+Lunch,gpt-5,ACCEPTED,100,100.00%,0.430,2.43359375
+Tournament,gpt-5,MEMORY_LIMIT_EXCEEDED,80,97.15%,0.010,1.69921875
+You_need_to_train_more,gpt-5,ACCEPTED,100,100.00%,0.050,8.2578125
+Colorful_graph,gpt-5,ACCEPTED,100,100.00%,0.110,3.359375
+Space_accident,gpt-5,ACCEPTED,100,100.00%,0.100,2.07421875

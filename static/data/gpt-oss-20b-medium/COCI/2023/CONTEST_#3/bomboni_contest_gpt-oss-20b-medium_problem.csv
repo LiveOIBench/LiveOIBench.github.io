@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+bomboni_gpt-oss-20b-medium_0.cpp,RUNTIME_ERROR,0,18.00%,0.070,6.1953125,0,0,0,0
+bomboni_gpt-oss-20b-medium_1.cpp,ACCEPTED,110,100.00%,0.190,9.2890625,13,17,33,47
+bomboni_gpt-oss-20b-medium_2.cpp,RUNTIME_ERROR,33,22.00%,0.070,16.76171875,0,0,33,0
+bomboni_gpt-oss-20b-medium_3.cpp,ACCEPTED,110,100.00%,0.210,231.265625,13,17,33,47
+bomboni_gpt-oss-20b-medium_4.cpp,ACCEPTED,110,100.00%,0.170,3.35546875,13,17,33,47
+bomboni_gpt-oss-20b-medium_5.cpp,RUNTIME_ERROR,30,40.00%,0.040,2.328125,13,17,0,0
+bomboni_gpt-oss-20b-medium_6.cpp,ACCEPTED,110,100.00%,0.200,3.359375,13,17,33,47
+bomboni_gpt-oss-20b-medium_7.cpp,ACCEPTED,110,100.00%,0.240,3.359375,13,17,33,47

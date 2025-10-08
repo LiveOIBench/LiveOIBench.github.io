@@ -1,0 +1,8 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+rolete_gpt-oss-120b-high_0.cpp,ACCEPTED,110,100.00%,100.00%,0.270,3.6171875,16,26,32,36
+rolete_gpt-oss-120b-high_1.cpp,RUNTIME_ERROR,26,23.64%,22.45%,0.060,4.390625,0,26,0,0
+rolete_gpt-oss-120b-high_2.cpp,RUNTIME_ERROR,26,23.64%,22.45%,0.040,7.23046875,0,26,0,0
+rolete_gpt-oss-120b-high_3.cpp,RUNTIME_ERROR,26,23.64%,22.45%,0.070,3.6171875,0,26,0,0
+rolete_gpt-oss-120b-high_4.cpp,RUNTIME_ERROR,26,23.64%,22.45%,0.060,3.6171875,0,26,0,0
+rolete_gpt-oss-120b-high_6.cpp,RUNTIME_ERROR,26,23.64%,22.45%,0.070,4.390625,0,26,0,0
+rolete_gpt-oss-120b-high_7.cpp,RUNTIME_ERROR,26,23.64%,22.45%,0.050,4.390625,0,26,0,0

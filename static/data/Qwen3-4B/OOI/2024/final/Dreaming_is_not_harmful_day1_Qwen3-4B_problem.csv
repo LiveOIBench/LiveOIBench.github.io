@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Dreaming_is_not_harmful_Qwen3-4B_0.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.210,129.546875,0,0,0,0,0,0,0,0,0,0
+Dreaming_is_not_harmful_Qwen3-4B_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.410,0.00390625,0,0,0,0,0,0,0,0,0,0
+Dreaming_is_not_harmful_Qwen3-4B_3.cpp,RUNTIME_ERROR,0,0.00%,0.020,3.81640625,0,0,0,0,0,0,0,0,0,0
+Dreaming_is_not_harmful_Qwen3-4B_4.cpp,RUNTIME_ERROR,0,3.77%,0.020,0,0,0,0,0,0,0,0,0,0,0
+Dreaming_is_not_harmful_Qwen3-4B_5.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0
+Dreaming_is_not_harmful_Qwen3-4B_6.cpp,RUNTIME_ERROR,0,0.00%,0.020,5.1015625,0,0,0,0,0,0,0,0,0,0
+Dreaming_is_not_harmful_Qwen3-4B_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.420,8.20703125,0,0,0,0,0,0,0,0,0,0

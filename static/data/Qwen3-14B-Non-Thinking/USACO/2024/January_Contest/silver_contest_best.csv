@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cowmpetency,Qwen3-14B-Non-Thinking,WRONG_ANSWER,0,8.33%,0.160,5.6640625
+silver_Potion_Farming,Qwen3-14B-Non-Thinking,TIME_LIMIT_EXCEEDED,24,6.67%,2.320,23.9375
+silver_Cowlendar,Qwen3-14B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0

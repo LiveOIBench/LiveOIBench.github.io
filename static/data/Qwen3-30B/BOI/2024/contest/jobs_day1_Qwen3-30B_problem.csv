@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+jobs_Qwen3-30B_0.cpp,RUNTIME_ERROR,0,0.72%,0.180,18.54296875,0,0,0,0,0
+jobs_Qwen3-30B_1.cpp,RUNTIME_ERROR,0,0.00%,0.160,35.328125,0,0,0,0,0
+jobs_Qwen3-30B_2.cpp,RUNTIME_ERROR,0,0.00%,0.150,5.94140625,0,0,0,0,0
+jobs_Qwen3-30B_3.cpp,RUNTIME_ERROR,0,0.72%,0.200,19.93359375,0,0,0,0,0
+jobs_Qwen3-30B_4.cpp,RUNTIME_ERROR,0,0.00%,0.060,5.94140625,0,0,0,0,0
+jobs_Qwen3-30B_5.cpp,RUNTIME_ERROR,0,0.00%,0.250,269.48046875,0,0,0,0,0
+jobs_Qwen3-30B_6.cpp,RUNTIME_ERROR,0,0.00%,0.170,8.00390625,0,0,0,0,0
+jobs_Qwen3-30B_7.cpp,RUNTIME_ERROR,0,0.00%,0.220,24.2421875,0,0,0,0,0

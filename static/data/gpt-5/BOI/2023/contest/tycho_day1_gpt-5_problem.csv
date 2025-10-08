@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+tycho_gpt-5_0.cpp,RUNTIME_ERROR,0,70.91%,0.010,0,0,0,0,0,0,0,0,0
+tycho_gpt-5_1.cpp,RUNTIME_ERROR,0,70.91%,0.020,0,0,0,0,0,0,0,0,0
+tycho_gpt-5_2.cpp,TIME_LIMIT_EXCEEDED,32,87.94%,2.410,48.73828125,0,0,5,7,0,20,0,0
+tycho_gpt-5_3.cpp,TIME_LIMIT_EXCEEDED,32,87.94%,2.420,53.5078125,0,0,5,7,0,20,0,0
+tycho_gpt-5_4.cpp,RUNTIME_ERROR,8,81.35%,0.030,2.06640625,0,8,0,0,0,0,0,0
+tycho_gpt-5_5.cpp,RUNTIME_ERROR,8,80.07%,0.130,99.0859375,0,8,0,0,0,0,0,0
+tycho_gpt-5_6.cpp,TIME_LIMIT_EXCEEDED,32,87.94%,2.420,33.5234375,0,0,5,7,0,20,0,0
+tycho_gpt-5_7.cpp,RUNTIME_ERROR,0,70.91%,0.020,0,0,0,0,0,0,0,0,0

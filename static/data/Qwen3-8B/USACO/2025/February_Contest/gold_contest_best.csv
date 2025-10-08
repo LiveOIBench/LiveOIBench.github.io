@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Bessies_Function,Qwen3-8B,RUNTIME_ERROR,35,9.52%,0.100,2.84765625
+gold_The_Best_Subsequence,Qwen3-8B,TIME_LIMIT_EXCEEDED,59,30.00%,2.430,131.078125
+gold_Friendship_Editing,Qwen3-8B,WRONG_ANSWER,0,16.67%,0.000,0

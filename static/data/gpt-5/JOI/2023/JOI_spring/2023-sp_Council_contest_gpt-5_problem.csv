@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+2023-sp_Council_gpt-5_0.cpp,ACCEPTED,100,100.00%,0.430,32.4921875,8,8,6,19,15,22,22
+2023-sp_Council_gpt-5_1.cpp,RUNTIME_ERROR,0,29.77%,0.220,16.25,0,0,0,0,0,0,0
+2023-sp_Council_gpt-5_2.cpp,ACCEPTED,100,100.00%,2.020,13.4140625,8,8,6,19,15,22,22
+2023-sp_Council_gpt-5_3.cpp,RUNTIME_ERROR,0,29.77%,0.220,13.9296875,0,0,0,0,0,0,0
+2023-sp_Council_gpt-5_4.cpp,RUNTIME_ERROR,0,53.02%,0.610,13.35546875,0,0,0,0,0,0,0
+2023-sp_Council_gpt-5_5.cpp,ACCEPTED,100,100.00%,0.500,190.46875,8,8,6,19,15,22,22
+2023-sp_Council_gpt-5_6.cpp,ACCEPTED,100,100.00%,1.670,14.38671875,8,8,6,19,15,22,22
+2023-sp_Council_gpt-5_7.cpp,ACCEPTED,100,100.00%,1.660,28.87890625,8,8,6,19,15,22,22

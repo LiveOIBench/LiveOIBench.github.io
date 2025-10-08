@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Flight_Routes,Qwen2.5-72B,WRONG_ANSWER,0,4.55%,0.110,0
+gold_Minimum_Longest_Trip,Qwen2.5-72B,RUNTIME_ERROR,104,30.00%,0.260,19.4140625
+gold_Haybale_Distribution,Qwen2.5-72B,TIME_LIMIT_EXCEEDED,22,12.50%,2.280,2.07421875

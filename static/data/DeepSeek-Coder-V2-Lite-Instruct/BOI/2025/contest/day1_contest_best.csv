@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+boi,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,0.00%,0.000,0
+tou,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,5.17%,0.400,48.21875
+tow,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

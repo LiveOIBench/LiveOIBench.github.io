@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Cowreography_Qwen3-8B-Non-Thinking_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.350,12.6953125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Cowreography_Qwen3-8B-Non-Thinking_1.cpp,TIME_LIMIT_EXCEEDED,0,4.35%,2.270,12.109375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Cowreography_Qwen3-8B-Non-Thinking_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.370,12.6953125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Cowreography_Qwen3-8B-Non-Thinking_3.cpp,TIME_LIMIT_EXCEEDED,0,4.35%,2.280,12.11328125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Cowreography_Qwen3-8B-Non-Thinking_4.cpp,RUNTIME_ERROR,0,4.35%,0.120,12.3515625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Cowreography_Qwen3-8B-Non-Thinking_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.440,12.69921875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Cowreography_Qwen3-8B-Non-Thinking_6.cpp,RUNTIME_ERROR,0,0.00%,0.120,10.89453125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Cowreography_Qwen3-8B-Non-Thinking_7.cpp,TIME_LIMIT_EXCEEDED,0,4.35%,2.290,12.6953125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

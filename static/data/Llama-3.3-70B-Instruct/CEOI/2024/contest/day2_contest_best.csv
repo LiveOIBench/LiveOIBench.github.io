@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+toy,Llama-3.3-70B-Instruct,MEMORY_LIMIT_EXCEEDED,0,19.16%,1.160,1125.61328125
+stations,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,0,6.82%,3.870,7.80078125
+sprinklers,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,20,38.61%,2.220,1.81640625

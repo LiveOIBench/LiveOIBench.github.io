@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Distinctive_Features_gpt-oss-120b-medium_0.cpp,ACCEPTED,100,100.00%,100.00%,0.450,89.72265625,0.0,10.0,7.0,13.0,19.0,7.0,10.0,12.0,7.0,15.0
+Distinctive_Features_gpt-oss-120b-medium_1.cpp,ACCEPTED,100,100.00%,100.00%,0.470,89.72265625,0.0,10.0,7.0,13.0,19.0,7.0,10.0,12.0,7.0,15.0
+Distinctive_Features_gpt-oss-120b-medium_2.cpp,ACCEPTED,100,100.00%,100.00%,0.500,89.72265625,0.0,10.0,7.0,13.0,19.0,7.0,10.0,12.0,7.0,15.0
+Distinctive_Features_gpt-oss-120b-medium_3.cpp,ACCEPTED,100,100.00%,100.00%,0.410,73.73828125,0.0,10.0,7.0,13.0,19.0,7.0,10.0,12.0,7.0,15.0
+Distinctive_Features_gpt-oss-120b-medium_4.cpp,ACCEPTED,100,100.00%,100.00%,0.440,91.52734375,0.0,10.0,7.0,13.0,19.0,7.0,10.0,12.0,7.0,15.0
+Distinctive_Features_gpt-oss-120b-medium_5.cpp,RUNTIME_ERROR,19,19.00%,15.70%,0.560,91.52734375,0.0,0,0,0,19.0,0,0,0,0,0
+Distinctive_Features_gpt-oss-120b-medium_6.cpp,ACCEPTED,100,100.00%,100.00%,0.460,93.58984375,0.0,10.0,7.0,13.0,19.0,7.0,10.0,12.0,7.0,15.0
+Distinctive_Features_gpt-oss-120b-medium_7.cpp,ACCEPTED,100,100.00%,100.00%,0.430,89.72265625,0.0,10.0,7.0,13.0,19.0,7.0,10.0,12.0,7.0,15.0

@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Min_Max_Subarrays_gpt-oss-120b-high_0.cpp,WRONG_ANSWER,0,23.08%,0.160,25.2734375,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_gpt-oss-120b-high_1.cpp,WRONG_ANSWER,0,23.08%,0.510,89.89453125,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_gpt-oss-120b-high_2.cpp,WRONG_ANSWER,0,23.08%,0.110,20.6328125,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_gpt-oss-120b-high_3.cpp,WRONG_ANSWER,0,23.08%,0.130,22.6953125,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_gpt-oss-120b-high_4.cpp,WRONG_ANSWER,0,23.08%,0.130,13.9296875,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_gpt-oss-120b-high_6.cpp,RUNTIME_ERROR,0,0.00%,0.110,20.53125,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_gpt-oss-120b-high_7.cpp,WRONG_ANSWER,0,23.08%,0.140,28.109375,0,0,0,0,0,0,0,0,0,0,0

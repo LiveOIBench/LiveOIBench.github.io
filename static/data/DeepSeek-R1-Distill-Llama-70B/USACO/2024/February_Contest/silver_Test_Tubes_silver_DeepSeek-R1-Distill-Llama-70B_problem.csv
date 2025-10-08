@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Test_Tubes_DeepSeek-R1-Distill-Llama-70B_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Test_Tubes_DeepSeek-R1-Distill-Llama-70B_1.cpp,WRONG_ANSWER,17,4.76%,1.520,1.59375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0
+silver_Test_Tubes_DeepSeek-R1-Distill-Llama-70B_2.cpp,WRONG_ANSWER,17,4.76%,1.660,5.27734375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0
+silver_Test_Tubes_DeepSeek-R1-Distill-Llama-70B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Test_Tubes_DeepSeek-R1-Distill-Llama-70B_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Test_Tubes_DeepSeek-R1-Distill-Llama-70B_5.cpp,WRONG_ANSWER,0,0.00%,0.140,1.59375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Test_Tubes_DeepSeek-R1-Distill-Llama-70B_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Test_Tubes_DeepSeek-R1-Distill-Llama-70B_7.cpp,WRONG_ANSWER,17,4.76%,0.140,1.59375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0

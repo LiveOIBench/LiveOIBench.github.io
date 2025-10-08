@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Following_Directions_seed-oss_0.cpp,WRONG_ANSWER,0,6.67%,0.060,38.16015625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Following_Directions_seed-oss_1.cpp,WRONG_ANSWER,0,6.67%,4.500,12.63671875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Following_Directions_seed-oss_2.cpp,WRONG_ANSWER,0,0.00%,0.080,38.16015625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Following_Directions_seed-oss_3.cpp,WRONG_ANSWER,0,0.00%,0.070,29.65625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Following_Directions_seed-oss_4.cpp,WRONG_ANSWER,0,6.67%,0.070,38.67578125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Following_Directions_seed-oss_5.cpp,WRONG_ANSWER,0,0.00%,0.260,146.96484375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Following_Directions_seed-oss_6.cpp,WRONG_ANSWER,0,0.00%,0.060,46.92578125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Following_Directions_seed-oss_7.cpp,ACCEPTED,333,100.00%,3.960,12.37890625,0,23.809523809523807,23.809523809523807,23.809523809523807,23.809523809523807,23.809523809523807,23.809523809523807,23.809523809523807,23.809523809523807,23.809523809523807,23.809523809523807,23.809523809523807,23.809523809523807,23.809523809523807,23.809523809523807

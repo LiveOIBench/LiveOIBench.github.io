@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Forklift_Certified,gpt-oss-120b-high,ACCEPTED,333,100.00%,1.450,11.17578125
+platinum_Lazy_Sort,gpt-oss-120b-high,ACCEPTED,333,100.00%,0.350,77.609375
+platinum_Package_Pickup,gpt-oss-120b-high,MEMORY_LIMIT_EXCEEDED,56,15.00%,1.430,129.54296875

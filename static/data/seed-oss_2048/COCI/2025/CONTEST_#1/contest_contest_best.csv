@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+osobna,seed-oss_2048,ACCEPTED,50,100.00%,0.000,0
+skokovi,seed-oss_2048,ACCEPTED,70,100.00%,0.110,12.8984375
+hijerarhija,seed-oss_2048,TIME_LIMIT_EXCEEDED,22,41.67%,3.610,23.46484375
+uciteljica,seed-oss_2048,RUNTIME_ERROR,0,1.64%,0.000,0
+zbunjenost,seed-oss_2048,RUNTIME_ERROR,0,1.61%,0.030,0.00390625

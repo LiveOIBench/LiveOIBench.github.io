@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_FEB,Mistral-Small-3.1-24B-2503,MEMORY_LIMIT_EXCEEDED,98,40.00%,0.210,280.91015625
+bronze_Moo_Language,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Rotate_and_Shift,Mistral-Small-3.1-24B-2503,TIME_LIMIT_EXCEEDED,167,53.85%,4.410,2.07421875

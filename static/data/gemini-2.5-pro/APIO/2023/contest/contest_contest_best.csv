@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+sequence,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,40,65.94%,1.800,61.8828125
+abc,gemini-2.5-pro,RUNTIME_ERROR,66,80.49%,0.210,231.90625
+cyberland,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,97,87.80%,2.980,71.3828125

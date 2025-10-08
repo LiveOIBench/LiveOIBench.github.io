@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Find_and_Replace,seed-oss_512,WRONG_ANSWER,71,20.00%,0.040,0
+silver_Following_Directions,seed-oss_512,TIME_LIMIT_EXCEEDED,48,13.33%,9.610,29.91015625
+silver_Moo_Route,seed-oss_512,MEMORY_LIMIT_EXCEEDED,19,5.00%,0.050,2.3671875

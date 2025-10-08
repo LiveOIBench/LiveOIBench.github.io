@@ -1,0 +1,3 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4
+train_gpt-oss-20b-medium_2.cpp,RUNTIME_ERROR,5,17.86%,0.090,17.49609375,0,5,0,0
+train_gpt-oss-20b-medium_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0

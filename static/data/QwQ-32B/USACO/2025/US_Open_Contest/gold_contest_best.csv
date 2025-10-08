@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Moo_Decomposition,QwQ-32B,WRONG_ANSWER,254,80.00%,0.120,2.3671875
+gold_Election_Queries,QwQ-32B,WRONG_ANSWER,0,6.67%,0.200,4.90234375
+gold_OohMoo_Milk,QwQ-32B,RUNTIME_ERROR,0,5.00%,0.130,2.84375

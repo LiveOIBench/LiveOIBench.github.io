@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+robot,seed-oss_4096,COMPILATION_ERROR,0,0.00%,0.000,0
+overtaking,seed-oss_4096,COMPILATION_ERROR,0,0.00%,0.000,0
+beechtree,seed-oss_4096,RUNTIME_ERROR,0,4.22%,0.040,9.30078125

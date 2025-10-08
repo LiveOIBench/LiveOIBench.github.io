@@ -1,0 +1,13 @@
+problem,model,status,score,%test passed,time,memory
+2024-sp_Fish_3,gpt-oss-20b-medium,TIME_LIMIT_EXCEEDED,9,37.93%,2.410,5.94140625
+2024-sp_Ski_2,gpt-oss-20b-medium,RUNTIME_ERROR,0,0.00%,0.000,0
+2024-sp_Spy_3,gpt-oss-20b-medium,COMPILATION_ERROR,0,0.00%,0.000,0
+2024-sp_Board_Game,gpt-oss-20b-medium,RUNTIME_ERROR,10,24.02%,0.040,5.67578125
+2024-sp_Tricolor_Lights,gpt-oss-20b-medium,UNKNOWN,0,0.00%,0.000,0
+2024-sp_Growing_Vegetables_is_Fun_5,gpt-oss-20b-medium,RUNTIME_ERROR,0,0.00%,0.020,0
+2024-sp_Card_Collection,gpt-oss-20b-medium,RUNTIME_ERROR,0,16.67%,0.000,0
+2024-sp_JOI_Tour,gpt-oss-20b-medium,COMPILATION_ERROR,0,0.00%,0.000,0
+2024-sp_Tower,gpt-oss-20b-medium,RUNTIME_ERROR,0,0.00%,0.030,3.1015625
+2024-sp_Escape_Route_2,gpt-oss-20b-medium,RUNTIME_ERROR,54,70.53%,0.920,199.51953125
+2024-sp_Island_Hopping,gpt-oss-20b-medium,COMPILATION_ERROR,0,0.00%,0.000,0
+2024-sp_Table_Tennis,gpt-oss-20b-medium,RUNTIME_ERROR,5,44.35%,0.030,13.41796875

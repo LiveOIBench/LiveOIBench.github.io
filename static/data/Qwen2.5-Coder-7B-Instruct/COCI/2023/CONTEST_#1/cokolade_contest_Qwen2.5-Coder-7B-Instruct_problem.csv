@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+cokolade_Qwen2.5-Coder-7B-Instruct_0.cpp,RUNTIME_ERROR,0,0.00%,0.090,2.07421875,0,0,0
+cokolade_Qwen2.5-Coder-7B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.150,13.16015625,0,0,0
+cokolade_Qwen2.5-Coder-7B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.140,3.9296875,0,0,0
+cokolade_Qwen2.5-Coder-7B-Instruct_3.cpp,RUNTIME_ERROR,0,0.00%,0.250,1.81640625,0,0,0
+cokolade_Qwen2.5-Coder-7B-Instruct_4.cpp,RUNTIME_ERROR,0,0.00%,0.060,3.62109375,0,0,0
+cokolade_Qwen2.5-Coder-7B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.140,1.81640625,0,0,0
+cokolade_Qwen2.5-Coder-7B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.120,1.81640625,0,0,0
+cokolade_Qwen2.5-Coder-7B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.120,2.84765625,0,0,0

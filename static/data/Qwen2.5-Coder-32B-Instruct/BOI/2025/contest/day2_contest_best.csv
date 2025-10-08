@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+dev,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,2.21%,0.030,1.55859375
+exp,Qwen2.5-Coder-32B-Instruct,TIME_LIMIT_EXCEEDED,14,22.15%,1.110,273.80859375
+gcd,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,3.28%,0.000,0

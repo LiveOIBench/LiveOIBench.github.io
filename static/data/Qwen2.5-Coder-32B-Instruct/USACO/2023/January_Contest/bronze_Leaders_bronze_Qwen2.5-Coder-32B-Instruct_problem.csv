@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Leaders_Qwen2.5-Coder-32B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,0,5.88%,2.400,2.0703125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Leaders_Qwen2.5-Coder-32B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.280,2.0703125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Leaders_Qwen2.5-Coder-32B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.320,1.8125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Leaders_Qwen2.5-Coder-32B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.310,2.0703125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Leaders_Qwen2.5-Coder-32B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.350,2.0703125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Leaders_Qwen2.5-Coder-32B-Instruct_5.cpp,RUNTIME_ERROR,22,5.88%,0.110,2.0703125,0,0,0,0,0,0,0,22.22222222222222,0,0,0,0,0,0,0,0
+bronze_Leaders_Qwen2.5-Coder-32B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,22,5.88%,2.250,1.8125,0,22.22222222222222,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Leaders_Qwen2.5-Coder-32B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,22,5.88%,2.290,2.0703125,0,22.22222222222222,0,0,0,0,0,0,0,0,0,0,0,0,0,0

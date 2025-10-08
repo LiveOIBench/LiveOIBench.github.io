@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bakery,Qwen2.5-Coder-32B-Instruct,TIME_LIMIT_EXCEEDED,100,36.36%,2.220,0.00390625
+silver_Cow-libi,Qwen2.5-Coder-32B-Instruct,WRONG_ANSWER,0,9.09%,1.140,3.62109375
+silver_Moo_Route_II,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,130,35.00%,0.210,9.03515625

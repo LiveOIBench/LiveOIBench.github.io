@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Median_Heap,gpt-5,ACCEPTED,333,100.00%,0.300,25.52734375
+gold_Reachable_Pairs,gpt-5,ACCEPTED,333,100.00%,0.190,20.3515625
+gold_Photo_Op,gpt-5,TIME_LIMIT_EXCEEDED,200,66.67%,2.440,56.7890625

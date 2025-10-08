@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Table_Recovery_gpt-4.1_0.cpp,MEMORY_LIMIT_EXCEEDED,0,6.67%,0.270,24.7578125,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_gpt-4.1_1.cpp,RUNTIME_ERROR,0,6.67%,0.230,9.02734375,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_gpt-4.1_2.cpp,RUNTIME_ERROR,0,6.67%,0.250,24.49609375,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_gpt-4.1_3.cpp,WRONG_ANSWER,0,13.33%,0.370,9.28515625,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_gpt-4.1_4.cpp,RUNTIME_ERROR,0,6.67%,0.230,24.5,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_gpt-4.1_5.cpp,RUNTIME_ERROR,0,6.67%,0.340,20.8046875,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_gpt-4.1_6.cpp,RUNTIME_ERROR,0,6.67%,0.250,20.625,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_gpt-4.1_7.cpp,RUNTIME_ERROR,0,6.67%,0.260,12.92578125,0,0,0,0,0,0,0,0,0,0,0,0,0

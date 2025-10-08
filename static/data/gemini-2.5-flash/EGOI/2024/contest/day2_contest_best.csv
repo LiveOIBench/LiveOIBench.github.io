@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+circlepassing,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,56,77.70%,2.210,138.83203125
+makethemmeet,gemini-2.5-flash,RUNTIME_ERROR,10,18.69%,0.010,1.6640625
+lightbulbs,gemini-2.5-flash,COMPILATION_ERROR,0,0.00%,0.000,0
+bikeparking,gemini-2.5-flash,RUNTIME_ERROR,25,61.49%,0.130,16.25

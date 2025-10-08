@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+vrsta_gpt-4.1_0.cpp,ACCEPTED,110,100.00%,0.230,17.01171875,19,26,29,36
+vrsta_gpt-4.1_1.cpp,ACCEPTED,110,100.00%,0.200,13.1953125,19,26,29,36
+vrsta_gpt-4.1_2.cpp,ACCEPTED,110,100.00%,0.250,14.4609375,19,26,29,36
+vrsta_gpt-4.1_3.cpp,ACCEPTED,110,100.00%,0.210,15.7734375,19,26,29,36
+vrsta_gpt-4.1_4.cpp,ACCEPTED,110,100.00%,0.260,22.16796875,19,26,29,36
+vrsta_gpt-4.1_5.cpp,ACCEPTED,110,100.00%,0.330,25.015625,19,26,29,36
+vrsta_gpt-4.1_6.cpp,ACCEPTED,110,100.00%,0.170,5.1875,19,26,29,36
+vrsta_gpt-4.1_7.cpp,ACCEPTED,110,100.00%,0.300,22.3515625,19,26,29,36

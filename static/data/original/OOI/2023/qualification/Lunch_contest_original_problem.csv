@@ -1,0 +1,4 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+OK_stefan.cpp,ACCEPTED,100,100.00%,0.620,89.4609375,0.0,16.0,13.0,15.0,17.0,21.0,18.0
+mangooste_ok.cpp,ACCEPTED,100,100.00%,0.690,2.4296875,0.0,16.0,13.0,15.0,17.0,21.0,18.0
+mangooste_validation_ok.cpp,ACCEPTED,100,100.00%,0.720,2.58203125,0.0,16.0,13.0,15.0,17.0,21.0,18.0

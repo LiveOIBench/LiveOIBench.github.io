@@ -1,0 +1,4 @@
+problem,status,score,relative_score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_2
+j2,ACCEPTED,15,100.00%,100.00%,0.000,0,,15,0,0
+j3,ACCEPTED,15,100.00%,100.00%,0.010,0,,6,6,3
+TOTAL,,30,,100.00%,,,100.00%,,,

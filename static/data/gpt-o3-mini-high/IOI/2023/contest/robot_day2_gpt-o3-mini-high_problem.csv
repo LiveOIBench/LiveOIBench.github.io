@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+robot_gpt-o3-mini-high_0.cpp,RUNTIME_ERROR,6,7.24%,0.050,8.828125,0,6,0.0,0.0,0.0,0.0
+robot_gpt-o3-mini-high_1.cpp,RUNTIME_ERROR,0,0.67%,0.050,8.6796875,0,0.0,0.0,0.0,0.0,0.0
+robot_gpt-o3-mini-high_2.cpp,RUNTIME_ERROR,6,7.24%,0.050,8.796875,0,6,0.0,0.0,0.0,0.0
+robot_gpt-o3-mini-high_3.cpp,RUNTIME_ERROR,0,0.67%,0.050,8.71875,0,0.0,0.0,0.0,0.0,0.0
+robot_gpt-o3-mini-high_4.cpp,RUNTIME_ERROR,6,7.24%,0.050,8.7265625,0,6,0.0,0.0,0.0,0.0
+robot_gpt-o3-mini-high_5.cpp,RUNTIME_ERROR,0,0.67%,0.050,8.7109375,0,0.0,0.0,0.0,0.0,0.0
+robot_gpt-o3-mini-high_6.cpp,RUNTIME_ERROR,0,0.67%,0.050,8.79296875,0,0.0,0.0,0.0,0.0,0.0
+robot_gpt-o3-mini-high_7.cpp,RUNTIME_ERROR,0,0.67%,0.050,8.59375,0,0.0,0.0,0.0,0.0,0.0

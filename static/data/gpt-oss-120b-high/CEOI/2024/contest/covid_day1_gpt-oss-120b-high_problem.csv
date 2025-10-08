@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+covid_gpt-oss-120b-high_0.cpp,RUNTIME_ERROR,10,10.00%,66.67%,0.040,1.54296875,0,10,0
+covid_gpt-oss-120b-high_1.cpp,RUNTIME_ERROR,10,10.00%,66.67%,0.050,1.54296875,0,10,0
+covid_gpt-oss-120b-high_2.cpp,RUNTIME_ERROR,10,10.00%,66.67%,0.040,1.54296875,0,10,0
+covid_gpt-oss-120b-high_3.cpp,RUNTIME_ERROR,10,10.00%,66.67%,0.210,1.54296875,0,10,0
+covid_gpt-oss-120b-high_4.cpp,RUNTIME_ERROR,10,10.00%,66.67%,0.040,1.5390625,0,10,0
+covid_gpt-oss-120b-high_5.cpp,RUNTIME_ERROR,10,10.00%,66.67%,0.100,1.546875,0,10,0
+covid_gpt-oss-120b-high_6.cpp,RUNTIME_ERROR,10,10.00%,66.67%,0.050,1.54296875,0,10,0
+covid_gpt-oss-120b-high_7.cpp,RUNTIME_ERROR,10,10.00%,74.07%,0.160,1.54296875,0,10,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Jump_Civilization,Mistral-Small-3.1-24B-2503,TIME_LIMIT_EXCEEDED,6,34.43%,1.170,18.05078125
+Ramen,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0
+Signals,Mistral-Small-3.1-24B-2503,ACCEPTED,100,100.00%,0.000,0

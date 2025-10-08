@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Its_Mooin_Time_Qwen2.5-72B_0.cpp,RUNTIME_ERROR,0,0.00%,0.400,21.421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_Qwen2.5-72B_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.380,23.48046875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_Qwen2.5-72B_2.cpp,RUNTIME_ERROR,0,0.00%,0.410,24.25390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_Qwen2.5-72B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_Qwen2.5-72B_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.380,9.5546875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_Qwen2.5-72B_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.370,24.25390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_Qwen2.5-72B_6.cpp,MEMORY_LIMIT_EXCEEDED,0,5.56%,0.270,272.52734375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_Qwen2.5-72B_7.cpp,MEMORY_LIMIT_EXCEEDED,0,5.56%,0.260,273.41796875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

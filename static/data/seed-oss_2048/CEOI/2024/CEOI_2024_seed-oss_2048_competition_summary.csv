@@ -1,0 +1,8 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+covid,RUNTIME_ERROR,10,66.67%,0.050,1.66796875,,0,10,0,0,0,0,0,0
+battle,MEMORY_LIMIT_EXCEEDED,6,53.42%,1.030,814.03515625,,0,6,0,0,0,0,0,0
+editor,RUNTIME_ERROR,5,17.74%,0.100,14.70703125,,0,5,0,0,0,0,0,0
+toy,MEMORY_LIMIT_EXCEEDED,35,70.44%,1.120,1228.05859375,,0,14,21,0,0,0,0,0
+stations,RUNTIME_ERROR,0,4.55%,0.050,11.8671875,,0,0,0,0,0,0,0,0
+sprinklers,RUNTIME_ERROR,3,27.00%,0.080,3.3671875,,0,3,0,0,0,0,0,0
+TOTAL,,59,39.97%,,,0.00%,,,,,,,,

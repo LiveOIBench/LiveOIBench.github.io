@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bakery,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Cow-libi,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Moo_Route_II,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

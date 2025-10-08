@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Find_and_Replace,seed-oss_4096,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Lights_Off,seed-oss_4096,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Moo_Route,seed-oss_4096,COMPILATION_ERROR,0,0.00%,0.000,0

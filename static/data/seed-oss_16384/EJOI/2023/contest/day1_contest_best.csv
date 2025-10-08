@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+teleporters,seed-oss_16384,TIME_LIMIT_EXCEEDED,23,40.30%,1.210,28.26953125
+tree_search,seed-oss_16384,COMPILATION_ERROR,0,0.00%,0.000,0
+opening_offices,seed-oss_16384,TIME_LIMIT_EXCEEDED,9,19.67%,1.210,2402.15234375

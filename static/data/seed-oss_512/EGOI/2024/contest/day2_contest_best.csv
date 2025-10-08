@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+circlepassing,seed-oss_512,TIME_LIMIT_EXCEEDED,0,5.26%,2.400,594.61328125
+makethemmeet,seed-oss_512,RUNTIME_ERROR,0,7.14%,0.030,0.00390625
+lightbulbs,seed-oss_512,COMPILATION_ERROR,0,0.00%,0.000,0
+bikeparking,seed-oss_512,RUNTIME_ERROR,0,7.21%,0.000,0

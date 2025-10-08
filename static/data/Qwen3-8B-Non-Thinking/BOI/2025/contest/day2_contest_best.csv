@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+dev,Qwen3-8B-Non-Thinking,RUNTIME_ERROR,0,1.10%,0.030,0.00390625
+exp,Qwen3-8B-Non-Thinking,RUNTIME_ERROR,0,1.34%,0.530,29.91796875
+gcd,Qwen3-8B-Non-Thinking,RUNTIME_ERROR,0,1.64%,0.050,13.16015625

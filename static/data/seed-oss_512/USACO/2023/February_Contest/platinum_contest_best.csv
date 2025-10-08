@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Hungry_Cow,seed-oss_512,TIME_LIMIT_EXCEEDED,17,13.64%,7.210,8.26953125
+platinum_Problem_Setting,seed-oss_512,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Watching_Cowflix,seed-oss_512,COMPILATION_ERROR,0,0.00%,0.000,0

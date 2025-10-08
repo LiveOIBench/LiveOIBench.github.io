@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+paradoks,Qwen3-8B-Non-Thinking,RUNTIME_ERROR,0,5.13%,0.000,0
+igre,Qwen3-8B-Non-Thinking,TIME_LIMIT_EXCEEDED,19,48.98%,2.290,192.33984375
+razlicitost,Qwen3-8B-Non-Thinking,TIME_LIMIT_EXCEEDED,22,37.21%,2.250,6.97265625
+blistavost,Qwen3-8B-Non-Thinking,RUNTIME_ERROR,0,8.20%,0.080,1.5546875
+trokuti,Qwen3-8B-Non-Thinking,RUNTIME_ERROR,13,25.96%,0.100,13.92578125

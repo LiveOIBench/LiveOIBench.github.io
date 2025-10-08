@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+zid_Llama-4-Scout_0.cpp,TIME_LIMIT_EXCEEDED,17,33.33%,1.210,1.5546875,17,0,0
+zid_Llama-4-Scout_1.cpp,TIME_LIMIT_EXCEEDED,17,33.33%,1.210,1.90625,17,0,0
+zid_Llama-4-Scout_2.cpp,TIME_LIMIT_EXCEEDED,17,33.33%,1.210,1.90625,17,0,0
+zid_Llama-4-Scout_3.cpp,TIME_LIMIT_EXCEEDED,17,33.33%,1.210,1.55859375,17,0,0
+zid_Llama-4-Scout_4.cpp,TIME_LIMIT_EXCEEDED,17,33.33%,1.210,1.55859375,17,0,0
+zid_Llama-4-Scout_5.cpp,TIME_LIMIT_EXCEEDED,38,66.67%,1.210,3.09765625,17,21,0
+zid_Llama-4-Scout_6.cpp,TIME_LIMIT_EXCEEDED,17,33.33%,1.220,1.55859375,17,0,0
+zid_Llama-4-Scout_7.cpp,TIME_LIMIT_EXCEEDED,17,33.33%,1.220,1.90625,17,0,0

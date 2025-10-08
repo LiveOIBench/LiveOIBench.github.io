@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+2025-ho-t2_Bitaro_the_Brave_2_seed-oss_0.cpp,ACCEPTED,100,100.00%,0.090,24.24609375,10,21,19,22,28
+2025-ho-t2_Bitaro_the_Brave_2_seed-oss_1.cpp,ACCEPTED,100,100.00%,0.120,23.71484375,10,21,19,22,28
+2025-ho-t2_Bitaro_the_Brave_2_seed-oss_2.cpp,RUNTIME_ERROR,0,71.65%,0.080,26.82421875,0,0,0,0,0
+2025-ho-t2_Bitaro_the_Brave_2_seed-oss_3.cpp,ACCEPTED,100,100.00%,0.100,24.24609375,10,21,19,22,28
+2025-ho-t2_Bitaro_the_Brave_2_seed-oss_4.cpp,ACCEPTED,100,100.00%,0.100,31.98046875,10,21,19,22,28
+2025-ho-t2_Bitaro_the_Brave_2_seed-oss_5.cpp,ACCEPTED,100,100.00%,0.100,20.37890625,10,21,19,22,28
+2025-ho-t2_Bitaro_the_Brave_2_seed-oss_6.cpp,RUNTIME_ERROR,0,95.06%,0.090,24.24609375,0,0,0,0,0
+2025-ho-t2_Bitaro_the_Brave_2_seed-oss_7.cpp,ACCEPTED,100,100.00%,0.100,28.11328125,10,21,19,22,28

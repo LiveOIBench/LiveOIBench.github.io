@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Alien_Homophones_DeepSeek-R1-Distill-Llama-70B_0.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+Alien_Homophones_DeepSeek-R1-Distill-Llama-70B_1.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+Alien_Homophones_DeepSeek-R1-Distill-Llama-70B_2.cpp,TIME_LIMIT_EXCEEDED,38,89.37%,2.210,27.56640625,0.0,8.0,0,7.0,0,0,0,6.0,7.0,10.0,0
+Alien_Homophones_DeepSeek-R1-Distill-Llama-70B_3.cpp,TIME_LIMIT_EXCEEDED,0,16.46%,2.270,7.0078125,0,0,0,0,0,0,0,0,0,0,0
+Alien_Homophones_DeepSeek-R1-Distill-Llama-70B_4.cpp,TIME_LIMIT_EXCEEDED,38,86.19%,2.280,26.40234375,0.0,8.0,0,7.0,0,0,0,6.0,7.0,10.0,0
+Alien_Homophones_DeepSeek-R1-Distill-Llama-70B_5.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+Alien_Homophones_DeepSeek-R1-Distill-Llama-70B_6.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+Alien_Homophones_DeepSeek-R1-Distill-Llama-70B_7.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0

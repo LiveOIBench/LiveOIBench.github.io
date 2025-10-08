@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Table_Recovery_Qwen3-14B_0.cpp,RUNTIME_ERROR,0,6.67%,0.380,9.03125,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_Qwen3-14B_1.cpp,RUNTIME_ERROR,0,6.67%,0.190,5.16796875,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_Qwen3-14B_2.cpp,RUNTIME_ERROR,0,6.67%,0.190,0.00390625,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_Qwen3-14B_3.cpp,RUNTIME_ERROR,0,6.67%,0.330,5.046875,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_Qwen3-14B_4.cpp,RUNTIME_ERROR,0,0.00%,0.400,16.76171875,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_Qwen3-14B_5.cpp,RUNTIME_ERROR,0,6.67%,0.390,9.02734375,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_Qwen3-14B_6.cpp,RUNTIME_ERROR,0,6.67%,0.380,5.1640625,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_Qwen3-14B_7.cpp,RUNTIME_ERROR,0,6.67%,0.790,12.89453125,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+2024-open-t1_Examination_2,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,20,61.47%,2.210,58.17578125
+2024-open-t2_Heat_Stroke,gemini-2.5-pro,RUNTIME_ERROR,6,36.57%,0.130,1.55859375
+2024-open-t3_Library_3,gemini-2.5-pro,RUNTIME_ERROR,21,78.95%,0.350,1.54296875

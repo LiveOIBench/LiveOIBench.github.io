@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Cowreography,gpt-oss-120b-medium,WRONG_ANSWER,100,31.25%,39.13%,0.050,3.49609375
+gold_Grass_Segments,gpt-oss-120b-medium,ACCEPTED,333,103.10%,100.00%,0.230,30.9375
+gold_Smaller_Averages,gpt-oss-120b-medium,TIME_LIMIT_EXCEEDED,271,84.69%,85.00%,2.410,2.328125

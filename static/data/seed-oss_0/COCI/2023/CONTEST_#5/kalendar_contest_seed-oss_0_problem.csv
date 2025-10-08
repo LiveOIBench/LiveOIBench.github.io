@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+kalendar_seed-oss_0.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0
+kalendar_seed-oss_1.cpp,ACCEPTED,50,100.00%,0.020,0,7,19,24
+kalendar_seed-oss_2.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0
+kalendar_seed-oss_3.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.020,0.00390625,0,0,0
+kalendar_seed-oss_4.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0
+kalendar_seed-oss_5.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0
+kalendar_seed-oss_6.cpp,ACCEPTED,50,100.00%,0.020,0,7,19,24
+kalendar_seed-oss_7.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0

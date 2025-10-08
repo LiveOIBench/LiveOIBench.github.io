@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+sequence,gpt-5,RUNTIME_ERROR,28,63.04%,1.060,32.28515625
+abc,gpt-5,RUNTIME_ERROR,4,16.00%,0.110,12.0625
+cyberland,gpt-5,ACCEPTED,100,100.00%,0.980,12.26171875

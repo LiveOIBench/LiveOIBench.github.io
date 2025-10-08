@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+bikesvscars_Qwen3-8B_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,5.990,2.0703125,0,0,0,0,0,0,0
+bikesvscars_Qwen3-8B_1.cpp,RUNTIME_ERROR,0,0.00%,0.020,1.546875,0,0,0,0,0,0,0
+bikesvscars_Qwen3-8B_2.cpp,RUNTIME_ERROR,0,0.00%,0.020,1.5546875,0,0,0,0,0,0,0
+bikesvscars_Qwen3-8B_3.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0
+bikesvscars_Qwen3-8B_4.cpp,RUNTIME_ERROR,0,0.00%,0.020,1.54296875,0,0,0,0,0,0,0
+bikesvscars_Qwen3-8B_5.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0
+bikesvscars_Qwen3-8B_6.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0
+bikesvscars_Qwen3-8B_7.cpp,RUNTIME_ERROR,0,0.00%,0.020,1.55078125,0,0,0,0,0,0,0

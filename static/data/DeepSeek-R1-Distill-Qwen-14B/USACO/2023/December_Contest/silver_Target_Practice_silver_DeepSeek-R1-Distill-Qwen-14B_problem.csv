@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Target_Practice_DeepSeek-R1-Distill-Qwen-14B_0.cpp,TIME_LIMIT_EXCEEDED,28,6.67%,2.350,10.75390625,0,27.777777777777775,0,0,0,0,0,0,0,0,0,0,0
+silver_Target_Practice_DeepSeek-R1-Distill-Qwen-14B_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Target_Practice_DeepSeek-R1-Distill-Qwen-14B_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Target_Practice_DeepSeek-R1-Distill-Qwen-14B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Target_Practice_DeepSeek-R1-Distill-Qwen-14B_4.cpp,TIME_LIMIT_EXCEEDED,28,6.67%,2.280,6.6015625,0,27.777777777777775,0,0,0,0,0,0,0,0,0,0,0
+silver_Target_Practice_DeepSeek-R1-Distill-Qwen-14B_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Target_Practice_DeepSeek-R1-Distill-Qwen-14B_6.cpp,MEMORY_LIMIT_EXCEEDED,83,40.00%,0.340,214.41015625,0,27.777777777777775,0,0,0,27.777777777777775,27.777777777777775,0,0,0,0,0,0
+silver_Target_Practice_DeepSeek-R1-Distill-Qwen-14B_7.cpp,TIME_LIMIT_EXCEEDED,28,13.33%,2.270,7.75,0,27.777777777777775,0,0,0,0,0,0,0,0,0,0,0

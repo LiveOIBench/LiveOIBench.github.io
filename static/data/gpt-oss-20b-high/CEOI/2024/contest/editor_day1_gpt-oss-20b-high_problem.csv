@@ -1,0 +1,5 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+editor_gpt-oss-20b-high_0.cpp,RUNTIME_ERROR,5,62.11%,0.760,237.54296875,0,5,0,0,0,0
+editor_gpt-oss-20b-high_1.cpp,MEMORY_LIMIT_EXCEEDED,0,20.63%,0.740,667.2265625,0,0,0,0,0,0
+editor_gpt-oss-20b-high_4.cpp,MEMORY_LIMIT_EXCEEDED,5,55.56%,1.380,395.328125,0,5,0,0,0,0
+editor_gpt-oss-20b-high_6.cpp,RUNTIME_ERROR,0,11.11%,1.300,750.94921875,0,0,0,0,0,0

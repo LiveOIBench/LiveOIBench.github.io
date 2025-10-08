@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+mosaic_Qwen2.5-Coder-32B-Instruct_0.cpp,MEMORY_LIMIT_EXCEEDED,22,64.86%,0.920,2227.76953125,0,5,7,0,10,0,0,0,0
+mosaic_Qwen2.5-Coder-32B-Instruct_1.cpp,MEMORY_LIMIT_EXCEEDED,22,64.86%,0.980,2243.7578125,0,5,7,0,10,0,0,0,0
+mosaic_Qwen2.5-Coder-32B-Instruct_2.cpp,MEMORY_LIMIT_EXCEEDED,22,64.86%,1.020,2241.953125,0,5,7,0,10,0,0,0,0
+mosaic_Qwen2.5-Coder-32B-Instruct_3.cpp,MEMORY_LIMIT_EXCEEDED,0,28.57%,0.930,2227.2578125,0,0,0,0,0,0,0,0,0
+mosaic_Qwen2.5-Coder-32B-Instruct_4.cpp,MEMORY_LIMIT_EXCEEDED,22,64.86%,0.980,2225.1953125,0,5,7,0,10,0,0,0,0
+mosaic_Qwen2.5-Coder-32B-Instruct_5.cpp,MEMORY_LIMIT_EXCEEDED,22,64.86%,1.000,2229.578125,0,5,7,0,10,0,0,0,0
+mosaic_Qwen2.5-Coder-32B-Instruct_6.cpp,MEMORY_LIMIT_EXCEEDED,22,64.86%,1.000,2225.96484375,0,5,7,0,10,0,0,0,0
+mosaic_Qwen2.5-Coder-32B-Instruct_7.cpp,MEMORY_LIMIT_EXCEEDED,22,64.86%,0.930,2171.5703125,0,5,7,0,10,0,0,0,0

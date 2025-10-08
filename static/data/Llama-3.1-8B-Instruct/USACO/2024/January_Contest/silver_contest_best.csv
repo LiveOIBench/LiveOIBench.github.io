@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cowmpetency,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Potion_Farming,Llama-3.1-8B-Instruct,TIME_LIMIT_EXCEEDED,24,6.67%,2.350,11.17578125
+silver_Cowlendar,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,0.00%,0.110,1.5546875

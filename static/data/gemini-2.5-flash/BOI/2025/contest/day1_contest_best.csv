@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+boi,gemini-2.5-flash,RUNTIME_ERROR,12,20.00%,0.110,14.70703125
+tou,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,32,49.57%,2.220,172.9921875
+tow,gemini-2.5-flash,RUNTIME_ERROR,6,33.33%,0.210,1.5234375

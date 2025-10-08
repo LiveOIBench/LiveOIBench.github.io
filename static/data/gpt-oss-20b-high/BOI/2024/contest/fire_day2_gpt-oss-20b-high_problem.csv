@@ -1,0 +1,5 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+fire_gpt-oss-20b-high_1.cpp,ACCEPTED,100,100.00%,0.070,23.66796875,14,17,9,13,21,26
+fire_gpt-oss-20b-high_3.cpp,ACCEPTED,100,100.00%,0.230,48.734375,14,17,9,13,21,26
+fire_gpt-oss-20b-high_4.cpp,ACCEPTED,100,100.00%,0.130,51.1171875,14,17,9,13,21,26
+fire_gpt-oss-20b-high_6.cpp,ACCEPTED,100,100.00%,0.240,112.25390625,14,17,9,13,21,26

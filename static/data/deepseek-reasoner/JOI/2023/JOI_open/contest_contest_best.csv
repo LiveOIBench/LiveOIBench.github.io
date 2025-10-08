@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+2023-open-t1_Ancient_Machine_2,deepseek-reasoner,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-open-t2_Cell_Automaton,deepseek-reasoner,RUNTIME_ERROR,0,0.00%,0.040,2.07421875
+2023-open-t3_Garden,deepseek-reasoner,RUNTIME_ERROR,15,41.35%,0.140,5.41796875

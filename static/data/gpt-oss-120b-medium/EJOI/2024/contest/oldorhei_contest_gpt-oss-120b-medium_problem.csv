@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+oldorhei_gpt-oss-120b-medium_0.cpp,ACCEPTED,100,100.00%,100.00%,0.190,86.43359375,0,7,16,17,31,29
+oldorhei_gpt-oss-120b-medium_1.cpp,ACCEPTED,100,100.00%,100.00%,0.460,91.890625,0,7,16,17,31,29
+oldorhei_gpt-oss-120b-medium_2.cpp,ACCEPTED,100,100.00%,100.00%,0.220,80.50390625,0,7,16,17,31,29
+oldorhei_gpt-oss-120b-medium_3.cpp,ACCEPTED,100,100.00%,100.00%,0.120,15.27734375,0,7,16,17,31,29
+oldorhei_gpt-oss-120b-medium_4.cpp,ACCEPTED,100,100.00%,100.00%,0.130,19.859375,0,7,16,17,31,29
+oldorhei_gpt-oss-120b-medium_5.cpp,ACCEPTED,100,100.00%,100.00%,0.310,64.4609375,0,7,16,17,31,29
+oldorhei_gpt-oss-120b-medium_6.cpp,ACCEPTED,100,100.00%,100.00%,0.130,26.296875,0,7,16,17,31,29
+oldorhei_gpt-oss-120b-medium_7.cpp,ACCEPTED,100,100.00%,100.00%,0.260,80.50390625,0,7,16,17,31,29

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+2023-ho-t3_Maze_deepseek-chat_0.cpp,TIME_LIMIT_EXCEEDED,27,78.68%,2.210,9.02734375,8,19,0,0,0,0,0,0
+2023-ho-t3_Maze_deepseek-chat_1.cpp,TIME_LIMIT_EXCEEDED,27,78.68%,2.270,9.1953125,8,19,0,0,0,0,0,0
+2023-ho-t3_Maze_deepseek-chat_2.cpp,TIME_LIMIT_EXCEEDED,27,78.68%,2.290,9.02734375,8,19,0,0,0,0,0,0
+2023-ho-t3_Maze_deepseek-chat_3.cpp,TIME_LIMIT_EXCEEDED,27,78.68%,2.230,11.60546875,8,19,0,0,0,0,0,0
+2023-ho-t3_Maze_deepseek-chat_4.cpp,RUNTIME_ERROR,8,43.10%,0.210,9.15625,8,0,0,0,0,0,0,0
+2023-ho-t3_Maze_deepseek-chat_5.cpp,RUNTIME_ERROR,8,43.10%,0.190,9.1953125,8,0,0,0,0,0,0,0
+2023-ho-t3_Maze_deepseek-chat_6.cpp,TIME_LIMIT_EXCEEDED,27,78.68%,2.260,9.02734375,8,19,0,0,0,0,0,0
+2023-ho-t3_Maze_deepseek-chat_7.cpp,TIME_LIMIT_EXCEEDED,27,78.68%,2.240,9.796875,8,19,0,0,0,0,0,0

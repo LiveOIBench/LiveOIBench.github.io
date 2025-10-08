@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Merging_Cells_gpt-o3-mini-high_0.cpp,TIME_LIMIT_EXCEEDED,50,18.18%,2.210,554.55859375,0,0,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,16.666666666666664,0,16.666666666666664,0,0,0
+platinum_Merging_Cells_gpt-o3-mini-high_1.cpp,TIME_LIMIT_EXCEEDED,0,9.09%,2.220,562.29296875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Merging_Cells_gpt-o3-mini-high_2.cpp,TIME_LIMIT_EXCEEDED,0,4.55%,2.220,562.42578125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Merging_Cells_gpt-o3-mini-high_3.cpp,WRONG_ANSWER,0,4.55%,0.080,5.9296875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Merging_Cells_gpt-o3-mini-high_4.cpp,RUNTIME_ERROR,0,0.00%,0.130,1.55078125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Merging_Cells_gpt-o3-mini-high_5.cpp,TIME_LIMIT_EXCEEDED,100,36.36%,2.270,260.125,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,16.666666666666664,16.666666666666664,16.666666666666664,16.666666666666664,0,0,0
+platinum_Merging_Cells_gpt-o3-mini-high_6.cpp,TIME_LIMIT_EXCEEDED,100,36.36%,2.220,562.44140625,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,16.666666666666664,16.666666666666664,16.666666666666664,16.666666666666664,0,0,0
+platinum_Merging_Cells_gpt-o3-mini-high_7.cpp,TIME_LIMIT_EXCEEDED,100,36.36%,2.210,562.296875,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,16.666666666666664,16.666666666666664,16.666666666666664,16.666666666666664,0,0,0

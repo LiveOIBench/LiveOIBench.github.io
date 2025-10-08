@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_DFS_Order,Qwen3-32B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Shock_Wave,Qwen3-32B-Non-Thinking,WRONG_ANSWER,0,0.00%,0.060,2.015625
+platinum_Watering_the_Plants,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,0.00%,0.130,18.0546875

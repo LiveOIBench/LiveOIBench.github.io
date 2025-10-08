@@ -1,0 +1,4 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+five_gpt-oss-20b-low_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+five_gpt-oss-20b-low_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.850,23.5,0,0,0,0,0,0
+five_gpt-oss-20b-low_7.cpp,RUNTIME_ERROR,0,0.00%,0.120,9.12890625,0,0,0,0,0,0

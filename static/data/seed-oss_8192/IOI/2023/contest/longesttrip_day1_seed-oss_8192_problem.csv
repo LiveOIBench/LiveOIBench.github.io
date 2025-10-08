@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+longesttrip_seed-oss_0.cpp,RUNTIME_ERROR,40,52.41%,0.230,4.10546875,0,5,10,25,0
+longesttrip_seed-oss_1.cpp,RUNTIME_ERROR,5,12.65%,0.060,4.0546875,0,5,0,0,0.0
+longesttrip_seed-oss_2.cpp,RUNTIME_ERROR,5,6.02%,0.050,4.05859375,0,5,0,0,0.0
+longesttrip_seed-oss_3.cpp,RUNTIME_ERROR,5,10.24%,1.040,4.04296875,0,5,0,0,0
+longesttrip_seed-oss_4.cpp,RUNTIME_ERROR,5,12.65%,0.060,4.0234375,0,5,0,0,0.0
+longesttrip_seed-oss_5.cpp,RUNTIME_ERROR,5,17.47%,0.470,4.10546875,0,5,0,0,0
+longesttrip_seed-oss_6.cpp,RUNTIME_ERROR,5,12.05%,1.780,4.0703125,0,5,0,0,0
+longesttrip_seed-oss_7.cpp,RUNTIME_ERROR,15,22.89%,0.110,4.109375,0,5,10,0,0

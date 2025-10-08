@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+xy_gemini-2.5-pro_0.cpp,RUNTIME_ERROR,0,2.86%,0.140,3.62109375,0,0,0,0,0,0,0,0
+xy_gemini-2.5-pro_1.cpp,RUNTIME_ERROR,0,2.86%,0.150,4.20703125,0,0,0,0,0,0,0,0
+xy_gemini-2.5-pro_2.cpp,RUNTIME_ERROR,0,0.00%,0.160,3.55078125,0,0,0,0,0,0,0,0
+xy_gemini-2.5-pro_3.cpp,RUNTIME_ERROR,0,2.86%,0.150,3.36328125,0,0,0,0,0,0,0,0
+xy_gemini-2.5-pro_4.cpp,RUNTIME_ERROR,0,2.86%,0.140,2.37109375,0,0,0,0,0,0,0,0
+xy_gemini-2.5-pro_5.cpp,RUNTIME_ERROR,0,2.86%,0.150,3.3984375,0,0,0,0,0,0,0,0
+xy_gemini-2.5-pro_6.cpp,RUNTIME_ERROR,0,2.86%,0.130,2.3671875,0,0,0,0,0,0,0,0
+xy_gemini-2.5-pro_7.cpp,RUNTIME_ERROR,0,2.86%,0.140,2.37109375,0,0,0,0,0,0,0,0

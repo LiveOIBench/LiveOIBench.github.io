@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Reflection,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Making_Mexes,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Printing_Sequences,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0

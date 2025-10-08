@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Choose_Interval,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,0.00%,0.000,0
+Skittlez,Mistral-Small-3.1-24B-2503,TIME_LIMIT_EXCEEDED,7,37.21%,2.410,306.2890625
+Octagon,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0

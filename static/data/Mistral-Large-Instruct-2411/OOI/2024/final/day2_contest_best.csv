@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Card_Flip,Mistral-Large-Instruct-2411,RUNTIME_ERROR,0,13.46%,0.500,11.12109375
+Order_Statistics,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,4,47.45%,4.420,12.54296875
+Best_Runner,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,23,27.42%,1.110,3.36328125
+Strong_Connectivity_Strikes_Back,Mistral-Large-Instruct-2411,ACCEPTED,100,100.00%,0.000,0

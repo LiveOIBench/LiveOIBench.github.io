@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+d1p2_seed-oss_0.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0
+d1p2_seed-oss_1.cpp,RUNTIME_ERROR,0,0.00%,0.060,19.08984375,0,0,0,0,0,0,0
+d1p2_seed-oss_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+d1p2_seed-oss_3.cpp,RUNTIME_ERROR,0,0.95%,0.070,8.9765625,0,0,0,0,0,0,0
+d1p2_seed-oss_4.cpp,RUNTIME_ERROR,0,0.00%,0.070,39.45703125,0,0,0,0,0,0,0
+d1p2_seed-oss_5.cpp,RUNTIME_ERROR,0,0.95%,0.150,48.9921875,0,0,0,0,0,0,0
+d1p2_seed-oss_6.cpp,RUNTIME_ERROR,0,0.00%,0.070,9.03515625,0,0,0,0,0,0,0
+d1p2_seed-oss_7.cpp,RUNTIME_ERROR,0,0.00%,0.110,54.66796875,0,0,0,0,0,0,0

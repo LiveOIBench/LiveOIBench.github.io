@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+2024-open-t1_Examination_2,seed-oss_1024,TIME_LIMIT_EXCEEDED,0,6.67%,2.410,15.9453125
+2024-open-t2_Heat_Stroke,seed-oss_1024,RUNTIME_ERROR,0,20.85%,0.050,1.55078125
+2024-open-t3_Library_3,seed-oss_1024,RUNTIME_ERROR,0,6.67%,0.050,0

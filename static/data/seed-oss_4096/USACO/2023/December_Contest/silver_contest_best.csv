@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bovine_Acrobatics,seed-oss_4096,RUNTIME_ERROR,89,23.53%,0.300,5.94140625
+silver_Cycle_Correspondence,seed-oss_4096,MEMORY_LIMIT_EXCEEDED,28,20.00%,0.170,133.484375
+silver_Target_Practice,seed-oss_4096,TIME_LIMIT_EXCEEDED,83,40.00%,2.440,10.76953125

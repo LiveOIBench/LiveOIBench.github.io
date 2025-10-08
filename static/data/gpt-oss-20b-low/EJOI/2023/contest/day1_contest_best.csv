@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+teleporters,gpt-oss-20b-low,RUNTIME_ERROR,15,14.93%,0.110,7.84765625
+tree_search,gpt-oss-20b-low,RUNTIME_ERROR,0,9.62%,0.080,4.65625
+opening_offices,gpt-oss-20b-low,RUNTIME_ERROR,0,6.56%,0.120,58.53125

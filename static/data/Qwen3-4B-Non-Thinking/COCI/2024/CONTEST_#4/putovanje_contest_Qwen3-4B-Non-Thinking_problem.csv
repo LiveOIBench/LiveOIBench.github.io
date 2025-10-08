@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+putovanje_Qwen3-4B-Non-Thinking_0.cpp,RUNTIME_ERROR,0,4.32%,0.150,4.90625,0,0,0,0
+putovanje_Qwen3-4B-Non-Thinking_1.cpp,RUNTIME_ERROR,0,0.00%,0.070,4.125,0,0,0,0
+putovanje_Qwen3-4B-Non-Thinking_2.cpp,RUNTIME_ERROR,0,4.32%,1.070,4.90625,0,0,0,0
+putovanje_Qwen3-4B-Non-Thinking_3.cpp,RUNTIME_ERROR,0,0.00%,1.610,4.796875,0,0,0,0
+putovanje_Qwen3-4B-Non-Thinking_4.cpp,TIME_LIMIT_EXCEEDED,45,46.76%,2.230,4.64453125,10,0,35,0
+putovanje_Qwen3-4B-Non-Thinking_5.cpp,RUNTIME_ERROR,0,0.00%,0.070,4.64453125,0,0,0,0
+putovanje_Qwen3-4B-Non-Thinking_6.cpp,RUNTIME_ERROR,0,4.32%,2.050,5.09375,0,0,0,0
+putovanje_Qwen3-4B-Non-Thinking_7.cpp,TIME_LIMIT_EXCEEDED,45,46.76%,2.290,4.90234375,10,0,35,0

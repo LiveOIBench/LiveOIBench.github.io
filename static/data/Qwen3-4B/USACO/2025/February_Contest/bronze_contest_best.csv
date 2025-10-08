@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Reflection,Qwen3-4B,ACCEPTED,333,100.00%,0.130,20.37109375
+bronze_Making_Mexes,Qwen3-4B,ACCEPTED,333,100.00%,0.220,3.3671875
+bronze_Printing_Sequences,Qwen3-4B,WRONG_ANSWER,152,46.15%,0.100,0.00390625

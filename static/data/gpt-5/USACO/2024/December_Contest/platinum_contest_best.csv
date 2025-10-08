@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_All_Pairs_Similarity,gpt-5,ACCEPTED,333,100.00%,0.690,196.203125
+platinum_Its_Mooin_Time,gpt-5,WRONG_ANSWER,119,44.44%,0.770,26.953125
+platinum_Maximize_Minimum_Difference,gpt-5,RUNTIME_ERROR,21,10.00%,0.110,0.00390625

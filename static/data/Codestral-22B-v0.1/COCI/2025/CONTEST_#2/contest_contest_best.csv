@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+paradoks,Codestral-22B-v0.1,RUNTIME_ERROR,0,5.13%,0.000,0
+igre,Codestral-22B-v0.1,RUNTIME_ERROR,6,12.24%,0.150,96.94921875
+razlicitost,Codestral-22B-v0.1,RUNTIME_ERROR,25,37.21%,0.230,4.453125
+blistavost,Codestral-22B-v0.1,RUNTIME_ERROR,0,3.28%,0.080,0.00390625
+trokuti,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0

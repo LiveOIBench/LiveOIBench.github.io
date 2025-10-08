@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+parentheses_gpt-5_0.cpp,ACCEPTED,100,100.00%,0.110,14.87109375,0,5,10,10,15,15,45
+parentheses_gpt-5_1.cpp,ACCEPTED,100,100.00%,0.140,34.06640625,0,5,10,10,15,15,45
+parentheses_gpt-5_2.cpp,ACCEPTED,100,100.00%,0.160,41.0,0,5,10,10,15,15,45
+parentheses_gpt-5_3.cpp,ACCEPTED,100,100.00%,0.160,67.28125,0,5,10,10,15,15,45
+parentheses_gpt-5_4.cpp,ACCEPTED,100,100.00%,0.140,34.06640625,0,5,10,10,15,15,45
+parentheses_gpt-5_5.cpp,ACCEPTED,100,100.00%,0.150,34.06640625,0,5,10,10,15,15,45
+parentheses_gpt-5_6.cpp,ACCEPTED,100,100.00%,0.130,34.06640625,0,5,10,10,15,15,45
+parentheses_gpt-5_7.cpp,ACCEPTED,100,100.00%,0.140,34.06640625,0,5,10,10,15,15,45

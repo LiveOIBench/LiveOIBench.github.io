@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+minequake,gpt-oss-120b-medium,ACCEPTED,100,100.00%,100.00%,0.070,37.38671875
+mineraldeposits,gpt-oss-120b-medium,RUNTIME_ERROR,9,9.00%,61.49%,0.010,1.5390625
+sequence,gpt-oss-120b-medium,RUNTIME_ERROR,11,11.00%,54.55%,0.010,0

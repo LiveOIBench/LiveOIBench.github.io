@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Lazy_Cow,seed-oss_-1,TIME_LIMIT_EXCEEDED,0,10.00%,2.420,1.55859375
+platinum_Minimum_Sum_of_Maximums,seed-oss_-1,WRONG_ANSWER,50,29.17%,0.020,0.00390625
+platinum_Infinite_Adventure,seed-oss_-1,TIME_LIMIT_EXCEEDED,62,27.78%,2.420,2.84765625

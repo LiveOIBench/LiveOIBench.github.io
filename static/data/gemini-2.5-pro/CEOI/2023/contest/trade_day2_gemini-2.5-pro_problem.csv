@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0_1,subtask_0_2,subtask_1_1,subtask_1_2,subtask_2_1,subtask_2_2,subtask_3_1,subtask_3_2,subtask_4_1,subtask_4_2,subtask_5_1,subtask_5_2
+trade_gemini-2.5-pro_0.cpp,TIME_LIMIT_EXCEEDED,0,22.58%,7.720,7.84375,0,0,0,0,0,0,0,0,0,0,0,0
+trade_gemini-2.5-pro_1.cpp,MEMORY_LIMIT_EXCEEDED,55,92.62%,1.160,2245.5546875,0,0,5,5,5,5,5,5,10,15,0,0
+trade_gemini-2.5-pro_2.cpp,TIME_LIMIT_EXCEEDED,0,22.58%,7.710,20.375,0,0,0,0,0,0,0,0,0,0,0,0
+trade_gemini-2.5-pro_3.cpp,TIME_LIMIT_EXCEEDED,10,64.52%,7.720,7.93359375,0,0,5,5,0,0,0,0,0,0,0,0
+trade_gemini-2.5-pro_4.cpp,TIME_LIMIT_EXCEEDED,0,22.58%,7.710,7.8515625,0,0,0,0,0,0,0,0,0,0,0,0
+trade_gemini-2.5-pro_5.cpp,TIME_LIMIT_EXCEEDED,0,22.58%,7.720,18.56640625,0,0,0,0,0,0,0,0,0,0,0,0
+trade_gemini-2.5-pro_6.cpp,TIME_LIMIT_EXCEEDED,0,17.24%,7.710,8.53515625,0,0,0,0,0,0,0,0,0,0,0,0
+trade_gemini-2.5-pro_7.cpp,RUNTIME_ERROR,0,14.04%,0.040,9.03125,0,0,0,0,0,0,0,0,0,0,0,0

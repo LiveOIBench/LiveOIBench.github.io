@@ -1,0 +1,4 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+restorani_gpt-oss-20b-low_3.cpp,RUNTIME_ERROR,0,0.00%,0.100,46.01171875,0,0,0,0
+restorani_gpt-oss-20b-low_5.cpp,RUNTIME_ERROR,0,0.00%,0.070,2.0703125,0,0,0,0
+restorani_gpt-oss-20b-low_6.cpp,RUNTIME_ERROR,0,0.00%,0.110,67.79296875,0,0,0,0

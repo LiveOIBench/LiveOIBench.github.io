@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Alice_Bob_and_two_arrays_gemini-2.5-flash_0.cpp,RUNTIME_ERROR,0,4.15%,0.120,256.265625,0,0,0,0,0,0,0,0,0,0,0,0
+Alice_Bob_and_two_arrays_gemini-2.5-flash_1.cpp,TIME_LIMIT_EXCEEDED,13,32.52%,2.770,352.546875,0.0,13.0,0,0,0,0,0,0,0,0,0,0
+Alice_Bob_and_two_arrays_gemini-2.5-flash_2.cpp,RUNTIME_ERROR,0,0.00%,0.520,256.265625,0,0,0,0,0,0,0,0,0,0,0,0
+Alice_Bob_and_two_arrays_gemini-2.5-flash_3.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alice_Bob_and_two_arrays_gemini-2.5-flash_4.cpp,RUNTIME_ERROR,0,0.00%,0.130,256.265625,0,0,0,0,0,0,0,0,0,0,0,0
+Alice_Bob_and_two_arrays_gemini-2.5-flash_5.cpp,MEMORY_LIMIT_EXCEEDED,0,8.04%,0.790,324.58984375,0.0,0,0,0,0,0,0,0,0,0,0,0
+Alice_Bob_and_two_arrays_gemini-2.5-flash_6.cpp,TIME_LIMIT_EXCEEDED,13,32.52%,2.760,251.3671875,0.0,13.0,0,0,0,0,0,0,0,0,0,0
+Alice_Bob_and_two_arrays_gemini-2.5-flash_7.cpp,TIME_LIMIT_EXCEEDED,20,48.26%,2.780,336.9609375,0.0,13.0,0,0,0,0,0,0,7.0,0,0,0

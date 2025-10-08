@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Choose_Interval,Llama-3.3-70B-Instruct,MEMORY_LIMIT_EXCEEDED,7,41.89%,0.680,273.2890625
+Skittlez,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,7,37.21%,2.410,302.6796875
+Octagon,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,14.29%,0.140,31.9765625

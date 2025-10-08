@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Logical_Moos,Qwen3-14B,RUNTIME_ERROR,111,30.77%,0.190,7.8828125
+bronze_Walking_Along_a_Fence,Qwen3-14B,ACCEPTED,333,100.00%,0.180,10.83203125
+bronze_Farmer_Johns_Favorite_Permutation,Qwen3-14B,WRONG_ANSWER,0,0.00%,0.180,6.75390625

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Pareidolia,gpt-4.1,TIME_LIMIT_EXCEEDED,17,9.52%,4.410,3.28125
+platinum_Good_Bitstrings,gpt-4.1,WRONG_ANSWER,0,0.00%,0.100,0
+platinum_Triples_of_Cows,gpt-4.1,TIME_LIMIT_EXCEEDED,39,25.00%,2.230,280.1875

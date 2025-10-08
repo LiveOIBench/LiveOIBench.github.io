@@ -1,0 +1,4 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+infiniterace_gpt-oss-20b-medium_2.cpp,RUNTIME_ERROR,29,57.69%,0.030,1.7578125,0,29,0,0,0
+infiniterace_gpt-oss-20b-medium_5.cpp,RUNTIME_ERROR,0,7.25%,0.000,0,0,0,0,0,0
+infiniterace_gpt-oss-20b-medium_6.cpp,ACCEPTED,100,100.00%,0.030,2.33203125,0,29,34,22,15

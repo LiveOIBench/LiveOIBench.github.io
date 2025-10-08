@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+message,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,0.00%,0.010,3.9140625
+nile,Qwen3-32B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+tree,Qwen3-32B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0

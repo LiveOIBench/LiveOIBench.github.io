@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Choose_Interval,Mistral-Large-Instruct-2411,RUNTIME_ERROR,0,0.00%,0.000,0
+Skittlez,Mistral-Large-Instruct-2411,MEMORY_LIMIT_EXCEEDED,7,37.21%,0.110,281.5390625
+Octagon,Mistral-Large-Instruct-2411,RUNTIME_ERROR,0,14.29%,0.000,0

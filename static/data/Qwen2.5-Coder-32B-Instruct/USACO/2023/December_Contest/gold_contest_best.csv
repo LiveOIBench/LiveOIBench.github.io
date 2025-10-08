@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Flight_Routes,Qwen2.5-Coder-32B-Instruct,WRONG_ANSWER,0,4.55%,0.110,3.62109375
+gold_Minimum_Longest_Trip,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,104,30.00%,0.270,20.63671875
+gold_Haybale_Distribution,Qwen2.5-Coder-32B-Instruct,TIME_LIMIT_EXCEEDED,111,37.50%,2.330,2.07421875

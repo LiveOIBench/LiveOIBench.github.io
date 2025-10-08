@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Circles,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,18.18%,0.340,45.640625
+To_be_xor_not_to_be,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,18.18%,0.040,0.00390625
+Statues,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,8.11%,0.000,0

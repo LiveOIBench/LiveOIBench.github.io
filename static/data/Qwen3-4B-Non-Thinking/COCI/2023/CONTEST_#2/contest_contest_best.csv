@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+tramvaji,Qwen3-4B-Non-Thinking,RUNTIME_ERROR,25,65.00%,0.060,0.00390625
+ekspert,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+lampice,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+prijateljice,Qwen3-4B-Non-Thinking,ACCEPTED,110,100.00%,0.120,16.50390625

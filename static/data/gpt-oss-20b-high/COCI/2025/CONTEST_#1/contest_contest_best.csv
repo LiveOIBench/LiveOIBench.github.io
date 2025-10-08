@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+osobna,gpt-oss-20b-high,ACCEPTED,50,100.00%,0.000,0
+skokovi,gpt-oss-20b-high,ACCEPTED,70,100.00%,0.090,12.8984375
+hijerarhija,gpt-oss-20b-high,ACCEPTED,90,100.00%,0.160,14.640625
+uciteljica,gpt-oss-20b-high,RUNTIME_ERROR,50,54.10%,0.360,39.68359375
+zbunjenost,gpt-oss-20b-high,ACCEPTED,120,100.00%,0.130,36.62890625

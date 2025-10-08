@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Farmer_John_Actually_Farms_gpt-4.1_0.cpp,RUNTIME_ERROR,0,0.00%,0.960,31.1875,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Farmer_John_Actually_Farms_gpt-4.1_1.cpp,RUNTIME_ERROR,0,0.00%,0.830,16.90234375,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Farmer_John_Actually_Farms_gpt-4.1_2.cpp,RUNTIME_ERROR,0,0.00%,0.780,8.6953125,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Farmer_John_Actually_Farms_gpt-4.1_3.cpp,RUNTIME_ERROR,0,0.00%,0.770,8.6953125,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Farmer_John_Actually_Farms_gpt-4.1_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.240,7.27734375,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Farmer_John_Actually_Farms_gpt-4.1_5.cpp,RUNTIME_ERROR,0,0.00%,0.600,8.15234375,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Farmer_John_Actually_Farms_gpt-4.1_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.290,10.3046875,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Farmer_John_Actually_Farms_gpt-4.1_7.cpp,RUNTIME_ERROR,0,0.00%,0.150,11.8125,0,0,0,0,0,0,0,0,0,0,0,0

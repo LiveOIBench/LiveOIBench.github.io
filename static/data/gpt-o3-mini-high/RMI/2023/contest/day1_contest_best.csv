@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Heroes,gpt-o3-mini-high,RUNTIME_ERROR,0,42.11%,0.000,0
+Pinball,gpt-o3-mini-high,RUNTIME_ERROR,40,65.00%,0.710,138.6328125
+AA_Tree,gpt-o3-mini-high,RUNTIME_ERROR,0,4.17%,0.040,0

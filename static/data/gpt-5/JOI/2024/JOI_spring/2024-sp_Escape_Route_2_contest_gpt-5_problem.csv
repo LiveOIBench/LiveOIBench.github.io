@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+2024-sp_Escape_Route_2_gpt-5_0.cpp,RUNTIME_ERROR,0,4.59%,0.060,6.44921875,0,0,0,0,0,0
+2024-sp_Escape_Route_2_gpt-5_1.cpp,RUNTIME_ERROR,23,39.71%,0.830,38.671875,6,0,17,0,0,0
+2024-sp_Escape_Route_2_gpt-5_2.cpp,TIME_LIMIT_EXCEEDED,0,4.59%,2.410,8.5078125,0,0,0,0,0,0
+2024-sp_Escape_Route_2_gpt-5_3.cpp,TIME_LIMIT_EXCEEDED,54,75.13%,2.410,38.84765625,6,8,17,23,0,0
+2024-sp_Escape_Route_2_gpt-5_4.cpp,RUNTIME_ERROR,23,39.71%,0.540,50.37890625,6,0,17,0,0,0
+2024-sp_Escape_Route_2_gpt-5_5.cpp,TIME_LIMIT_EXCEEDED,0,4.59%,2.420,4.64453125,0,0,0,0,0,0
+2024-sp_Escape_Route_2_gpt-5_6.cpp,TIME_LIMIT_EXCEEDED,6,40.14%,2.480,61.61328125,6,0,0,0,0,0
+2024-sp_Escape_Route_2_gpt-5_7.cpp,TIME_LIMIT_EXCEEDED,0,4.59%,2.480,4.89453125,0,0,0,0,0,0

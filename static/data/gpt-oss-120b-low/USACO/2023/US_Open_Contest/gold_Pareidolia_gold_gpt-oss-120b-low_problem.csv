@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Pareidolia_gpt-oss-120b-low_0.cpp,RUNTIME_ERROR,0,5.88%,0.050,2.44921875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Pareidolia_gpt-oss-120b-low_1.cpp,RUNTIME_ERROR,0,5.88%,0.070,25.5078125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Pareidolia_gpt-oss-120b-low_2.cpp,RUNTIME_ERROR,0,0.00%,0.060,2.44921875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Pareidolia_gpt-oss-120b-low_3.cpp,RUNTIME_ERROR,0,5.88%,0.060,3.22265625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Pareidolia_gpt-oss-120b-low_4.cpp,RUNTIME_ERROR,0,0.00%,0.060,2.44921875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Pareidolia_gpt-oss-120b-low_5.cpp,RUNTIME_ERROR,0,5.88%,0.060,3.22265625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Pareidolia_gpt-oss-120b-low_6.cpp,RUNTIME_ERROR,0,5.88%,0.060,3.22265625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Pareidolia_gpt-oss-120b-low_7.cpp,ACCEPTED,333,100.00%,0.050,3.22265625,0,23.809523809523807,23.809523809523807,23.809523809523807,23.809523809523807,23.809523809523807,23.809523809523807,23.809523809523807,23.809523809523807,23.809523809523807,23.809523809523807,23.809523809523807,23.809523809523807,23.809523809523807,23.809523809523807

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+labirint_Qwen2.5-72B_0.cpp,RUNTIME_ERROR,0,0.00%,0.060,1.546875,0,0,0,0
+labirint_Qwen2.5-72B_1.cpp,RUNTIME_ERROR,0,0.00%,0.060,2.4375,0,0,0,0
+labirint_Qwen2.5-72B_2.cpp,RUNTIME_ERROR,0,0.00%,0.060,2.06640625,0,0,0,0
+labirint_Qwen2.5-72B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+labirint_Qwen2.5-72B_4.cpp,RUNTIME_ERROR,0,0.00%,0.100,2.0703125,0,0,0,0
+labirint_Qwen2.5-72B_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+labirint_Qwen2.5-72B_6.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0
+labirint_Qwen2.5-72B_7.cpp,RUNTIME_ERROR,0,0.00%,0.060,2.25390625,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bovine_Acrobatics,Qwen2.5-Coder-32B-Instruct,MEMORY_LIMIT_EXCEEDED,200,64.71%,0.260,132.60546875
+silver_Cycle_Correspondence,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,0.00%,0.190,32.64453125
+silver_Target_Practice,Qwen2.5-Coder-32B-Instruct,TIME_LIMIT_EXCEEDED,83,40.00%,2.210,8.25390625

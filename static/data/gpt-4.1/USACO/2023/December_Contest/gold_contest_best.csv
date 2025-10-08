@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Flight_Routes,gpt-4.1,ACCEPTED,333,100.00%,0.140,5.68359375
+gold_Minimum_Longest_Trip,gpt-4.1,WRONG_ANSWER,83,40.00%,0.410,60.5703125
+gold_Haybale_Distribution,gpt-4.1,ACCEPTED,333,100.00%,0.180,3.62109375

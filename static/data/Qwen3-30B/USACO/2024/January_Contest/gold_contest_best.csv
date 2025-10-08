@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Walking_in_Manhattan,Qwen3-30B,TIME_LIMIT_EXCEEDED,140,45.00%,2.260,10.3203125
+gold_Cowmpetency,Qwen3-30B,WRONG_ANSWER,0,5.00%,0.110,1.6484375
+gold_Nap_Sort,Qwen3-30B,WRONG_ANSWER,0,9.09%,0.130,2.84765625

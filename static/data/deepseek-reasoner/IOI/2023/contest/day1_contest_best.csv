@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+soccer,deepseek-reasoner,RUNTIME_ERROR,0,3.54%,0.000,0.00390625
+closing,deepseek-reasoner,RUNTIME_ERROR,8,2.31%,0.140,29.5546875
+longesttrip,deepseek-reasoner,RUNTIME_ERROR,5,18.67%,0.240,4.03125

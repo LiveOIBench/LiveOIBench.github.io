@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+sah_gpt-oss-20b-low_0.cpp,ACCEPTED,50,100.00%,0.030,2.0078125,13,19,18
+sah_gpt-oss-20b-low_1.cpp,ACCEPTED,50,100.00%,0.030,1.8125,13,19,18
+sah_gpt-oss-20b-low_2.cpp,ACCEPTED,50,100.00%,0.030,1.8125,13,19,18
+sah_gpt-oss-20b-low_3.cpp,ACCEPTED,50,100.00%,0.030,1.8828125,13,19,18
+sah_gpt-oss-20b-low_4.cpp,RUNTIME_ERROR,32,63.24%,0.030,0.00390625,13,19,0
+sah_gpt-oss-20b-low_5.cpp,ACCEPTED,50,100.00%,0.060,1.8828125,13,19,18
+sah_gpt-oss-20b-low_6.cpp,RUNTIME_ERROR,13,29.41%,0.040,0.00390625,13,0,0
+sah_gpt-oss-20b-low_7.cpp,ACCEPTED,50,100.00%,0.030,1.8828125,13,19,18

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Card_Flip_gpt-4.1_0.cpp,RUNTIME_ERROR,0,11.76%,0.420,42.234375,0,0,0,0,0,0,0,0,0,0
+Card_Flip_gpt-4.1_1.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0
+Card_Flip_gpt-4.1_2.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0
+Card_Flip_gpt-4.1_3.cpp,RUNTIME_ERROR,0,11.76%,0.200,6.97265625,0,0,0,0,0,0,0,0,0,0
+Card_Flip_gpt-4.1_4.cpp,RUNTIME_ERROR,0,0.00%,0.110,10.05859375,0,0,0,0,0,0,0,0,0,0
+Card_Flip_gpt-4.1_5.cpp,RUNTIME_ERROR,0,12.50%,0.470,97.78515625,0,0,0,0,0,0,0,0,0,0
+Card_Flip_gpt-4.1_6.cpp,RUNTIME_ERROR,0,11.76%,0.490,32.109375,0,0,0,0,0,0,0,0,0,0
+Card_Flip_gpt-4.1_7.cpp,TIME_LIMIT_EXCEEDED,0,6.93%,1.150,116.9140625,0,0,0,0,0,0,0,0,0,0

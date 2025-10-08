@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Cowreography,seed-oss_512,RUNTIME_ERROR,33,13.04%,0.050,12.1171875
+gold_Grass_Segments,seed-oss_512,TIME_LIMIT_EXCEEDED,0,5.00%,2.430,22.52734375
+gold_Smaller_Averages,seed-oss_512,RUNTIME_ERROR,0,5.00%,0.050,0.00390625

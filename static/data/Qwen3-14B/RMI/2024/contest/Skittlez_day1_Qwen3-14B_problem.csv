@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+Skittlez_Qwen3-14B_0.cpp,TIME_LIMIT_EXCEEDED,7,37.21%,2.410,291.84765625,0,7,0,0,0
+Skittlez_Qwen3-14B_1.cpp,RUNTIME_ERROR,0,0.00%,0.010,4.01171875,0,0,0,0,0
+Skittlez_Qwen3-14B_2.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0
+Skittlez_Qwen3-14B_3.cpp,MEMORY_LIMIT_EXCEEDED,7,40.91%,0.310,305.6328125,0,7,0,0,0
+Skittlez_Qwen3-14B_4.cpp,TIME_LIMIT_EXCEEDED,7,37.21%,2.410,306.546875,0,7,0,0,0
+Skittlez_Qwen3-14B_5.cpp,TIME_LIMIT_EXCEEDED,7,37.21%,2.410,135.86328125,0,7,0,0,0
+Skittlez_Qwen3-14B_6.cpp,TIME_LIMIT_EXCEEDED,7,37.21%,2.410,306.2890625,0,7,0,0,0
+Skittlez_Qwen3-14B_7.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+show,seed-oss_0,COMPILATION_ERROR,0,0.00%,0.000,0
+september,seed-oss_0,COMPILATION_ERROR,0,0.00%,0.000,0
+train,seed-oss_0,MEMORY_LIMIT_EXCEEDED,0,1.79%,0.120,32.39453125

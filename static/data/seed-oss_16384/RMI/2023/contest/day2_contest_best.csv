@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Circles,seed-oss_16384,TIME_LIMIT_EXCEEDED,14,29.41%,1.800,75.0390625
+To_be_xor_not_to_be,seed-oss_16384,RUNTIME_ERROR,6,38.30%,0.030,1.5546875
+Statues,seed-oss_16384,MEMORY_LIMIT_EXCEEDED,46,80.33%,0.260,265.22265625

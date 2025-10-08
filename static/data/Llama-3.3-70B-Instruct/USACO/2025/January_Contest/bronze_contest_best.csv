@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Astral_Superposition,Llama-3.3-70B-Instruct,WRONG_ANSWER,33,16.67%,0.150,10.63671875
+bronze_Its_Mooin_Time_II,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,100,36.36%,2.270,23.7265625
+bronze_Cow_Checkups,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,100,46.15%,2.220,1.55859375

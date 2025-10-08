@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+igre_Codestral-22B-v0.1_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.280,96.94921875,0,0,0,0
+igre_Codestral-22B-v0.1_1.cpp,RUNTIME_ERROR,6,12.24%,0.170,0.00390625,6,0,0,0
+igre_Codestral-22B-v0.1_2.cpp,RUNTIME_ERROR,0,0.00%,0.080,168.87890625,0,0,0,0
+igre_Codestral-22B-v0.1_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+igre_Codestral-22B-v0.1_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+igre_Codestral-22B-v0.1_5.cpp,RUNTIME_ERROR,6,12.24%,0.150,96.94921875,6,0,0,0
+igre_Codestral-22B-v0.1_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+igre_Codestral-22B-v0.1_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.390,192.65625,0,0,0,0

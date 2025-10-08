@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+fire,gpt-o3-mini-high,ACCEPTED,100,100.00%,0.160,107.875
+tiles,gpt-o3-mini-high,RUNTIME_ERROR,4,8.61%,0.020,4.390625
+wall,gpt-o3-mini-high,MEMORY_LIMIT_EXCEEDED,56,92.35%,1.640,202.6484375

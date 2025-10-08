@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+blistavost_gpt-5_0.cpp,ACCEPTED,120,100.00%,0.450,2.6875,20,25,55,20
+blistavost_gpt-5_1.cpp,RUNTIME_ERROR,0,11.48%,0.060,1.66015625,0,0,0,0
+blistavost_gpt-5_2.cpp,RUNTIME_ERROR,0,8.20%,0.060,1.80859375,0,0,0,0
+blistavost_gpt-5_3.cpp,ACCEPTED,120,100.00%,0.060,0.00390625,20,25,55,20
+blistavost_gpt-5_4.cpp,RUNTIME_ERROR,0,8.20%,0.060,1.55078125,0,0,0,0
+blistavost_gpt-5_5.cpp,ACCEPTED,120,100.00%,0.060,2.3203125,20,25,55,20
+blistavost_gpt-5_6.cpp,RUNTIME_ERROR,75,52.46%,0.060,1.546875,20,0,55,0
+blistavost_gpt-5_7.cpp,RUNTIME_ERROR,75,52.46%,0.380,383.8828125,20,0,55,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+berilij_seed-oss_0.cpp,RUNTIME_ERROR,0,4.55%,0.160,12.3984375,0,0,0,0
+berilij_seed-oss_1.cpp,RUNTIME_ERROR,0,4.55%,0.240,12.9453125,0,0,0,0
+berilij_seed-oss_2.cpp,RUNTIME_ERROR,0,4.55%,0.130,13.03515625,0,0,0,0
+berilij_seed-oss_3.cpp,RUNTIME_ERROR,0,2.27%,0.130,12.30859375,0,0,0,0
+berilij_seed-oss_4.cpp,RUNTIME_ERROR,0,4.55%,0.140,12.4375,0,0,0,0
+berilij_seed-oss_5.cpp,RUNTIME_ERROR,0,4.55%,0.140,12.94140625,0,0,0,0
+berilij_seed-oss_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+berilij_seed-oss_7.cpp,RUNTIME_ERROR,0,4.55%,0.150,12.3984375,0,0,0,0

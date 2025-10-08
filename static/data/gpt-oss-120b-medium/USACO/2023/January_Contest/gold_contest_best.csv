@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Find_and_Replace,gpt-oss-120b-medium,TIME_LIMIT_EXCEEDED,143,44.41%,46.67%,2.440,60.58984375
+gold_Lights_Off,gpt-oss-120b-medium,ACCEPTED,333,102.78%,100.00%,0.450,44.44921875
+gold_Moo_Route,gpt-oss-120b-medium,ACCEPTED,333,104.06%,100.00%,0.050,10.58203125

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+fire_seed-oss_0.cpp,RUNTIME_ERROR,0,44.64%,0.040,4.640625,0,0,0,0,0,0
+fire_seed-oss_1.cpp,ACCEPTED,100,100.00%,0.430,103.703125,14,17,9,13,21,26
+fire_seed-oss_2.cpp,TIME_LIMIT_EXCEEDED,40,84.44%,1.210,9.03125,14,17,9,0,0,0
+fire_seed-oss_3.cpp,TIME_LIMIT_EXCEEDED,40,92.93%,1.220,4.546875,14,17,9,0,0,0
+fire_seed-oss_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.210,77.76171875,0,0,0,0,0,0
+fire_seed-oss_5.cpp,RUNTIME_ERROR,0,4.05%,0.060,10.73046875,0,0,0,0,0,0
+fire_seed-oss_6.cpp,TIME_LIMIT_EXCEEDED,40,84.44%,1.210,5.94140625,14,17,9,0,0,0
+fire_seed-oss_7.cpp,TIME_LIMIT_EXCEEDED,40,92.93%,1.220,10.703125,14,17,9,0,0,0

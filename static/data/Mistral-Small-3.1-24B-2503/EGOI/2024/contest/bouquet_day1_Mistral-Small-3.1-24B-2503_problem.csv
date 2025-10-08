@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+bouquet_Mistral-Small-3.1-24B-2503_0.cpp,RUNTIME_ERROR,0,1.79%,0.090,2.84765625,0,0,0,0,0,0
+bouquet_Mistral-Small-3.1-24B-2503_1.cpp,RUNTIME_ERROR,0,3.51%,0.100,5.421875,0,0,0,0,0,0
+bouquet_Mistral-Small-3.1-24B-2503_2.cpp,TIME_LIMIT_EXCEEDED,0,1.19%,3.350,3.16015625,0,0,0,0,0,0
+bouquet_Mistral-Small-3.1-24B-2503_3.cpp,TIME_LIMIT_EXCEEDED,0,1.79%,3.340,3.5625,0,0,0,0,0,0
+bouquet_Mistral-Small-3.1-24B-2503_4.cpp,RUNTIME_ERROR,0,1.79%,0.090,2.84375,0,0,0,0,0,0
+bouquet_Mistral-Small-3.1-24B-2503_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+bouquet_Mistral-Small-3.1-24B-2503_6.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+bouquet_Mistral-Small-3.1-24B-2503_7.cpp,TIME_LIMIT_EXCEEDED,0,1.79%,3.360,3.62109375,0,0,0,0,0,0

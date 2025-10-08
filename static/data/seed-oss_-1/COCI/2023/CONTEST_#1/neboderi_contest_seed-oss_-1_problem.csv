@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+neboderi_seed-oss_0.cpp,ACCEPTED,110,100.00%,0.310,0.00390625,11,22,27,18,32
+neboderi_seed-oss_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+neboderi_seed-oss_2.cpp,TIME_LIMIT_EXCEEDED,11,25.93%,2.990,135.875,11,0,0,0,0
+neboderi_seed-oss_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+neboderi_seed-oss_4.cpp,ACCEPTED,110,100.00%,0.640,5.1640625,11,22,27,18,32
+neboderi_seed-oss_5.cpp,ACCEPTED,110,100.00%,0.210,5.16796875,11,22,27,18,32
+neboderi_seed-oss_6.cpp,ACCEPTED,110,100.00%,0.320,5.16796875,11,22,27,18,32
+neboderi_seed-oss_7.cpp,ACCEPTED,110,100.00%,0.240,5.16796875,11,22,27,18,32

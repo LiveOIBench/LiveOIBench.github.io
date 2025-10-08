@@ -1,0 +1,7 @@
+problem,model,status,score,%test passed,time,memory
+cheese,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0
+oldorhei,Llama-4-Scout,TIME_LIMIT_EXCEEDED,7,20.93%,3.610,24.05078125
+manypairs,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0
+cfduels,Llama-4-Scout,RUNTIME_ERROR,0,15.38%,0.020,0
+hora,Llama-4-Scout,RUNTIME_ERROR,0,1.16%,0.340,1.55078125
+sweets,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0

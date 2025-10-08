@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+sequence,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,11,44.92%,1.800,5.26171875
+abc,gemini-2.5-flash,RUNTIME_ERROR,36,63.89%,0.280,236.6953125
+cyberland,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,97,95.12%,2.990,77.14453125

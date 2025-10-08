@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Logical_Moos,Qwen3-8B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Walking_Along_a_Fence,Qwen3-8B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Farmer_Johns_Favorite_Permutation,Qwen3-8B-Non-Thinking,WRONG_ANSWER,0,0.00%,0.160,1.8671875

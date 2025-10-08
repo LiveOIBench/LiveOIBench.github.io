@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+candy,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,25.44%,0.000,0
+sopsug,Qwen2.5-Coder-14B-Instruct,UNKNOWN,0,0.00%,0.000,0
+guessinggame,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,0.00%,0.000,0
+carnival,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,11,30.23%,0.130,3.16015625

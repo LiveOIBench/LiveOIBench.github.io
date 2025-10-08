@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Table_Recovery_gpt-o3-mini-high_0.cpp,WRONG_ANSWER,56,26.67%,0.150,5.67578125,0,27.777777777777775,0,0,0,27.777777777777775,0,0,0,0,0,0,0
+silver_Table_Recovery_gpt-o3-mini-high_1.cpp,WRONG_ANSWER,56,26.67%,0.130,9.28515625,0,27.777777777777775,0,0,0,27.777777777777775,0,0,0,0,0,0,0
+silver_Table_Recovery_gpt-o3-mini-high_2.cpp,WRONG_ANSWER,0,13.33%,0.150,13.15234375,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_gpt-o3-mini-high_3.cpp,TIME_LIMIT_EXCEEDED,83,33.33%,2.250,63.28125,0,27.777777777777775,0,0,0,27.777777777777775,27.777777777777775,0,0,0,0,0,0
+silver_Table_Recovery_gpt-o3-mini-high_4.cpp,WRONG_ANSWER,56,26.67%,0.240,9.65625,0,27.777777777777775,0,0,0,27.777777777777775,0,0,0,0,0,0,0
+silver_Table_Recovery_gpt-o3-mini-high_5.cpp,WRONG_ANSWER,56,26.67%,0.170,5.67578125,0,27.777777777777775,0,0,0,27.777777777777775,0,0,0,0,0,0,0
+silver_Table_Recovery_gpt-o3-mini-high_6.cpp,RUNTIME_ERROR,0,6.67%,0.110,0.00390625,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_gpt-o3-mini-high_7.cpp,WRONG_ANSWER,56,26.67%,0.140,5.41796875,0,27.777777777777775,0,0,0,27.777777777777775,0,0,0,0,0,0,0

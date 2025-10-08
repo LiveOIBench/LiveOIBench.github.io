@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_The_Best_Subsequence_gpt-oss-20b-medium_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.420,23.0234375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_The_Best_Subsequence_gpt-oss-20b-medium_2.cpp,RUNTIME_ERROR,0,0.00%,0.220,16.72265625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_The_Best_Subsequence_gpt-oss-20b-medium_3.cpp,TIME_LIMIT_EXCEEDED,59,30.00%,2.420,33.77734375,0,19.6078431372549,0,0,0,0,0,0,0,0,0,19.6078431372549,19.6078431372549,0,0,0,0,0
+gold_The_Best_Subsequence_gpt-oss-20b-medium_4.cpp,RUNTIME_ERROR,0,0.00%,0.330,56.4609375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_The_Best_Subsequence_gpt-oss-20b-medium_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.420,29.3984375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_The_Best_Subsequence_gpt-oss-20b-medium_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_The_Best_Subsequence_gpt-oss-20b-medium_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

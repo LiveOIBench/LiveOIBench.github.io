@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Choose_Interval,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,86,92.37%,1.660,24.92578125
+Skittlez,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,51,62.22%,2.410,173.69921875
+Octagon,gpt-o3-mini-high,RUNTIME_ERROR,0,48.15%,0.040,0

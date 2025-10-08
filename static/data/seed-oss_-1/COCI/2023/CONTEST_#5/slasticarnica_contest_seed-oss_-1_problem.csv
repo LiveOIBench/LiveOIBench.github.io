@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+slasticarnica_seed-oss_0.cpp,TIME_LIMIT_EXCEEDED,21,25.00%,2.410,7.4140625,21,0,0
+slasticarnica_seed-oss_1.cpp,RUNTIME_ERROR,0,2.50%,0.020,1.87890625,0,0,0
+slasticarnica_seed-oss_2.cpp,TIME_LIMIT_EXCEEDED,21,27.50%,2.430,37.43359375,21,0,0
+slasticarnica_seed-oss_3.cpp,TIME_LIMIT_EXCEEDED,21,27.50%,2.420,48.66796875,21,0,0
+slasticarnica_seed-oss_4.cpp,RUNTIME_ERROR,0,2.50%,0.170,192.33984375,0,0,0
+slasticarnica_seed-oss_5.cpp,ACCEPTED,110,100.00%,1.430,1.81640625,21,31,58
+slasticarnica_seed-oss_6.cpp,TIME_LIMIT_EXCEEDED,21,27.50%,2.410,43.58203125,21,0,0
+slasticarnica_seed-oss_7.cpp,TIME_LIMIT_EXCEEDED,21,27.50%,2.420,50.89453125,21,0,0

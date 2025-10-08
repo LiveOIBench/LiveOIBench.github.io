@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Shock_Wave_Qwen2.5-72B_0.cpp,RUNTIME_ERROR,0,0.00%,0.160,2.84765625,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Shock_Wave_Qwen2.5-72B_1.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.220,108.55078125,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Shock_Wave_Qwen2.5-72B_2.cpp,WRONG_ANSWER,0,0.00%,0.210,2.10546875,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Shock_Wave_Qwen2.5-72B_3.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.230,125.3046875,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Shock_Wave_Qwen2.5-72B_4.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.250,277.41796875,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Shock_Wave_Qwen2.5-72B_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.250,278.44921875,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Shock_Wave_Qwen2.5-72B_6.cpp,WRONG_ANSWER,0,0.00%,0.170,7.48828125,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Shock_Wave_Qwen2.5-72B_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.270,273.29296875,0,0,0,0,0,0,0,0,0,0,0,0,0,0

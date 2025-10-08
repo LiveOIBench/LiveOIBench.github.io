@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+diplomacy,gemini-2.5-pro,ACCEPTED,100,100.00%,0.770,143.50390625
+garbage,gemini-2.5-pro,ACCEPTED,100,100.00%,0.320,34.75
+xoracle,gemini-2.5-pro,ACCEPTED,100,100.00%,0.410,3.8125

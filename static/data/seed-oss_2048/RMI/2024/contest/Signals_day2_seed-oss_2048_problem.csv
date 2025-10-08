@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Signals_seed-oss_0.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0
+Signals_seed-oss_1.cpp,ACCEPTED,100,100.00%,0.210,74.9296875,0,5,2,8,32,24,29
+Signals_seed-oss_2.cpp,RUNTIME_ERROR,2,8.57%,0.270,45.28125,0,0,2,0,0,0,0
+Signals_seed-oss_3.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0
+Signals_seed-oss_4.cpp,RUNTIME_ERROR,2,8.57%,0.190,22.48828125,0,0,2,0,0,0,0
+Signals_seed-oss_5.cpp,TIME_LIMIT_EXCEEDED,69,64.29%,1.450,43.3203125,0,5,0,8,32,24,0
+Signals_seed-oss_6.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0
+Signals_seed-oss_7.cpp,TIME_LIMIT_EXCEEDED,39,70.59%,1.480,35.7734375,0,5,2,8,0,24,0

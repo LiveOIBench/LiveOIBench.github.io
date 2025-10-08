@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Identity_Theft,gpt-o3-mini-high,WRONG_ANSWER,67,36.00%,0.400,191.05859375
+platinum_Splitting_Haybales,gpt-o3-mini-high,MEMORY_LIMIT_EXCEEDED,0,9.09%,0.320,280.73046875
+platinum_Activating_Robots,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,133,50.00%,2.250,2.1328125

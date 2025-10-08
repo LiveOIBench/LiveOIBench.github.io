@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+minequake,Qwen3-14B,RUNTIME_ERROR,0,77.06%,0.100,25.2421875
+mineraldeposits,Qwen3-14B,RUNTIME_ERROR,0,40.35%,0.020,1.484375
+sequence,Qwen3-14B,RUNTIME_ERROR,11,54.55%,0.000,0

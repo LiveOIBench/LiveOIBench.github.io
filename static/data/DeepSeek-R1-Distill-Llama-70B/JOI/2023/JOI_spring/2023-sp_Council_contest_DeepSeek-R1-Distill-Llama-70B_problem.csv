@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+2023-sp_Council_DeepSeek-R1-Distill-Llama-70B_0.cpp,TIME_LIMIT_EXCEEDED,0,13.91%,3.610,18.5703125,0,0,0,0,0,0,0
+2023-sp_Council_DeepSeek-R1-Distill-Llama-70B_1.cpp,RUNTIME_ERROR,0,19.83%,0.530,21.92578125,0,0,0,0,0,0,0
+2023-sp_Council_DeepSeek-R1-Distill-Llama-70B_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.600,19.6015625,0,0,0,0,0,0,0
+2023-sp_Council_DeepSeek-R1-Distill-Llama-70B_3.cpp,TIME_LIMIT_EXCEEDED,41,87.60%,3.600,27.8515625,8,8,6,19,0,0,0
+2023-sp_Council_DeepSeek-R1-Distill-Llama-70B_4.cpp,TIME_LIMIT_EXCEEDED,0,21.95%,3.600,23.2109375,0,0,0,0,0,0,0
+2023-sp_Council_DeepSeek-R1-Distill-Llama-70B_5.cpp,TIME_LIMIT_EXCEEDED,8,79.14%,3.610,27.8515625,8,0,0,0,0,0,0
+2023-sp_Council_DeepSeek-R1-Distill-Llama-70B_6.cpp,TIME_LIMIT_EXCEEDED,16,76.67%,3.600,26.56640625,8,8,0,0,0,0,0
+2023-sp_Council_DeepSeek-R1-Distill-Llama-70B_7.cpp,RUNTIME_ERROR,0,0.00%,0.050,18.57421875,0,0,0,0,0,0,0

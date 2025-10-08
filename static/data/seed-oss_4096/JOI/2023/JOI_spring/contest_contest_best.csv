@@ -1,0 +1,13 @@
+problem,model,status,score,%test passed,time,memory
+2023-sp_Two_Currencies,seed-oss_4096,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Festivals_in_JOI_Kingdom_2,seed-oss_4096,RUNTIME_ERROR,0,24.00%,0.050,0
+2023-sp_Passport,seed-oss_4096,RUNTIME_ERROR,6,43.28%,0.070,2.84765625
+2023-sp_Belt_Conveyor,seed-oss_4096,RUNTIME_ERROR,0,3.23%,0.450,13.0
+2023-sp_Council,seed-oss_4096,TIME_LIMIT_EXCEEDED,16,71.95%,3.610,33.26953125
+2023-sp_Mizuyokan_2,seed-oss_4096,RUNTIME_ERROR,0,0.00%,0.070,5.9375
+2023-sp_Chorus,seed-oss_4096,RUNTIME_ERROR,0,6.67%,0.000,0
+2023-sp_Cookies,seed-oss_4096,ACCEPTED,100,100.00%,0.050,1.80859375
+2023-sp_Tourism,seed-oss_4096,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Super_Dango_Maker,seed-oss_4096,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Security_Guard,seed-oss_4096,RUNTIME_ERROR,0,5.95%,0.070,6.06640625
+2023-sp_Bitaro’s_travel,seed-oss_4096,RUNTIME_ERROR,0,26.47%,0.050,0.00390625

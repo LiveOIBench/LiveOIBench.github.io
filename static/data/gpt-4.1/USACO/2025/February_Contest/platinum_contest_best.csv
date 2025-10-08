@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Min_Max_Subarrays,gpt-4.1,TIME_LIMIT_EXCEEDED,0,23.08%,3.370,5.109375
+platinum_Transforming_Pairs,gpt-4.1,TIME_LIMIT_EXCEEDED,19,10.53%,2.360,0.00390625
+platinum_True_or_False_Test,gpt-4.1,WRONG_ANSWER,0,5.00%,0.160,12.125

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Heroes,seed-oss_16384,RUNTIME_ERROR,7,49.18%,0.030,0
+Pinball,seed-oss_16384,MEMORY_LIMIT_EXCEEDED,40,67.50%,1.460,206.88671875
+AA_Tree,seed-oss_16384,RUNTIME_ERROR,0,12.00%,0.030,2.90234375

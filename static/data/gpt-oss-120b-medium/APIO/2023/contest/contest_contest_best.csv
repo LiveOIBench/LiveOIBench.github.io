@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+sequence,gpt-oss-120b-medium,RUNTIME_ERROR,0,0.00%,16.85%,0.140,31.19140625
+abc,gpt-oss-120b-medium,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0
+cyberland,gpt-oss-120b-medium,RUNTIME_ERROR,15,15.00%,20.73%,0.710,20.88671875

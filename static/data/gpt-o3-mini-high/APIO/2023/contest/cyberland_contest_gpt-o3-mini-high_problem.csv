@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+cyberland_gpt-o3-mini-high_0.cpp,RUNTIME_ERROR,97,82.93%,1.980,59.30078125,0,5,8,13,19,7,16,29,0
+cyberland_gpt-o3-mini-high_1.cpp,RUNTIME_ERROR,20,23.17%,0.690,21.91796875,0,5,8,0,0,7,0,0,0
+cyberland_gpt-o3-mini-high_2.cpp,TIME_LIMIT_EXCEEDED,20,23.17%,3.000,655.35546875,0,5,8,0,0,7,0,0,0
+cyberland_gpt-o3-mini-high_3.cpp,RUNTIME_ERROR,15,20.73%,0.770,21.91796875,0,0,8,0,0,7,0,0,0
+cyberland_gpt-o3-mini-high_4.cpp,RUNTIME_ERROR,15,20.73%,0.740,20.11328125,0,0,8,0,0,7,0,0,0
+cyberland_gpt-o3-mini-high_5.cpp,RUNTIME_ERROR,15,20.73%,0.760,21.91796875,0,0,8,0,0,7,0,0,0
+cyberland_gpt-o3-mini-high_6.cpp,RUNTIME_ERROR,15,20.73%,0.750,21.91796875,0,0,8,0,0,7,0,0,0
+cyberland_gpt-o3-mini-high_7.cpp,TIME_LIMIT_EXCEEDED,20,23.17%,2.990,652.26171875,0,5,8,0,0,7,0,0,0

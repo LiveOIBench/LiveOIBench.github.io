@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Circles,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,0,3.23%,1.810,46.9296875
+To_be_xor_not_to_be,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,4.76%,0.000,0
+Statues,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Its_Mooin_Time_Mistral-Small-3.1-24B-2503_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.380,261.47265625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_Mistral-Small-3.1-24B-2503_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.460,4.14453125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_Mistral-Small-3.1-24B-2503_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.360,7.5234375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_Mistral-Small-3.1-24B-2503_3.cpp,RUNTIME_ERROR,0,0.00%,0.220,6.421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_Mistral-Small-3.1-24B-2503_4.cpp,RUNTIME_ERROR,0,5.56%,0.160,7.4765625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_Mistral-Small-3.1-24B-2503_5.cpp,RUNTIME_ERROR,0,0.00%,0.160,6.96484375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_Mistral-Small-3.1-24B-2503_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.320,133.37109375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_Mistral-Small-3.1-24B-2503_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.380,7.50390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

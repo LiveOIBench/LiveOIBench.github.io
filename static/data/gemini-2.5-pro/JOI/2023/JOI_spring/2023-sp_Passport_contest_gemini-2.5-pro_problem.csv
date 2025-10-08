@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+2023-sp_Passport_gemini-2.5-pro_0.cpp,TIME_LIMIT_EXCEEDED,0,26.67%,2.210,170.765625,0,0,0,0,0
+2023-sp_Passport_gemini-2.5-pro_1.cpp,RUNTIME_ERROR,6,64.77%,0.150,15.21484375,6,0,0,0,0
+2023-sp_Passport_gemini-2.5-pro_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+2023-sp_Passport_gemini-2.5-pro_3.cpp,RUNTIME_ERROR,22,72.92%,0.240,25.78515625,6,16,0,0,0
+2023-sp_Passport_gemini-2.5-pro_4.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+2023-sp_Passport_gemini-2.5-pro_5.cpp,RUNTIME_ERROR,22,72.92%,0.160,14.95703125,6,16,0,0,0
+2023-sp_Passport_gemini-2.5-pro_6.cpp,RUNTIME_ERROR,6,43.28%,0.150,9.09375,6,0,0,0,0
+2023-sp_Passport_gemini-2.5-pro_7.cpp,RUNTIME_ERROR,6,43.28%,0.150,9.02734375,6,0,0,0,0

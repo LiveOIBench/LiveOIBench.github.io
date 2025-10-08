@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Choose_Interval,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,18.64%,0.100,0
+Skittlez,Qwen2.5-Coder-32B-Instruct,TIME_LIMIT_EXCEEDED,7,37.21%,2.410,306.28515625
+Octagon,Qwen2.5-Coder-32B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_2D_Conveyor_Belt_deepseek-reasoner_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+silver_2D_Conveyor_Belt_deepseek-reasoner_1.cpp,RUNTIME_ERROR,0,7.69%,0.120,12.19921875,0,0,0,0,0,0,0,0,0,0,0
+silver_2D_Conveyor_Belt_deepseek-reasoner_2.cpp,RUNTIME_ERROR,0,0.00%,0.110,9.2890625,0,0,0,0,0,0,0,0,0,0,0
+silver_2D_Conveyor_Belt_deepseek-reasoner_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.290,2.5859375,0,0,0,0,0,0,0,0,0,0,0
+silver_2D_Conveyor_Belt_deepseek-reasoner_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.240,35.06640625,0,0,0,0,0,0,0,0,0,0,0
+silver_2D_Conveyor_Belt_deepseek-reasoner_5.cpp,RUNTIME_ERROR,0,0.00%,0.120,6.1953125,0,0,0,0,0,0,0,0,0,0,0
+silver_2D_Conveyor_Belt_deepseek-reasoner_6.cpp,RUNTIME_ERROR,0,0.00%,0.110,3.36328125,0,0,0,0,0,0,0,0,0,0,0
+silver_2D_Conveyor_Belt_deepseek-reasoner_7.cpp,RUNTIME_ERROR,0,0.00%,0.120,3.50390625,0,0,0,0,0,0,0,0,0,0,0

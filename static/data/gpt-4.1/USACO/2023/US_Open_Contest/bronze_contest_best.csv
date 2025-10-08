@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_FEB,gpt-4.1,TIME_LIMIT_EXCEEDED,118,45.00%,2.290,3.79296875
+bronze_Moo_Language,gpt-4.1,WRONG_ANSWER,0,0.00%,0.160,1.80078125
+bronze_Rotate_and_Shift,gpt-4.1,TIME_LIMIT_EXCEEDED,167,53.85%,4.460,4.40234375

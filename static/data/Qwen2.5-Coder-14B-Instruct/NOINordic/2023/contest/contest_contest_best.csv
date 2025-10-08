@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+icecreammachines,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,7,46.23%,0.000,0
+chatnoi,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,4.08%,0.130,16.55859375
+islandalliances,Qwen2.5-Coder-14B-Instruct,TIME_LIMIT_EXCEEDED,52,76.00%,5.720,24.2421875

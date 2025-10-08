@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+lexgcd_seed-oss_0.cpp,RUNTIME_ERROR,0,0.00%,0.030,2.84375,0,0,0,0,0,0,0
+lexgcd_seed-oss_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+lexgcd_seed-oss_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+lexgcd_seed-oss_3.cpp,TIME_LIMIT_EXCEEDED,0,6.56%,1.810,8.79296875,0,0,0,0,0,0,0
+lexgcd_seed-oss_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.800,8.2421875,0,0,0,0,0,0,0
+lexgcd_seed-oss_5.cpp,TIME_LIMIT_EXCEEDED,0,0.83%,1.800,9.54296875,0,0,0,0,0,0,0
+lexgcd_seed-oss_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+lexgcd_seed-oss_7.cpp,MEMORY_LIMIT_EXCEEDED,0,4.92%,0.040,3.6171875,0,0,0,0,0,0,0

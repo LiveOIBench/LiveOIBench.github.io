@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+travel_seed-oss_0.cpp,MEMORY_LIMIT_EXCEEDED,0,2.38%,0.310,605.609375,0,0,0,0,0,0,0
+travel_seed-oss_1.cpp,TIME_LIMIT_EXCEEDED,20,29.41%,1.220,37.6484375,10,10,0,0,0,0,0
+travel_seed-oss_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.220,120.0,0,0,0,0,0,0,0
+travel_seed-oss_3.cpp,RUNTIME_ERROR,0,0.00%,0.290,75.8984375,0,0,0,0,0,0,0
+travel_seed-oss_4.cpp,RUNTIME_ERROR,0,2.38%,0.180,33.78515625,0,0,0,0,0,0,0
+travel_seed-oss_5.cpp,RUNTIME_ERROR,0,2.38%,0.350,367.67578125,0,0,0,0,0,0,0
+travel_seed-oss_6.cpp,TIME_LIMIT_EXCEEDED,20,29.41%,1.210,41.51953125,10,10,0,0,0,0,0
+travel_seed-oss_7.cpp,TIME_LIMIT_EXCEEDED,20,29.41%,1.240,35.58984375,10,10,0,0,0,0,0

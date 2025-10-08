@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Identity_Theft,seed-oss_2048,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Splitting_Haybales,seed-oss_2048,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Activating_Robots,seed-oss_2048,RUNTIME_ERROR,17,4.17%,0.060,3.140625

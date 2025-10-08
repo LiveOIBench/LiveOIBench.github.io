@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+7krokods,seed-oss_1024,RUNTIME_ERROR,0,0.00%,0.000,0
+zrinka,seed-oss_1024,COMPILATION_ERROR,0,0.00%,0.000,0
+bojanje,seed-oss_1024,MEMORY_LIMIT_EXCEEDED,0,6.67%,0.020,0.00390625
+mreza,seed-oss_1024,COMPILATION_ERROR,0,0.00%,0.000,0
+vrsta,seed-oss_1024,ACCEPTED,110,100.00%,0.150,13.4765625

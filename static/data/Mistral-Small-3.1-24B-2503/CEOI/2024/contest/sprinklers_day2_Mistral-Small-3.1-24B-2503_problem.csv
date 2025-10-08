@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+sprinklers_Mistral-Small-3.1-24B-2503_0.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0
+sprinklers_Mistral-Small-3.1-24B-2503_1.cpp,TIME_LIMIT_EXCEEDED,0,3.30%,2.220,1.81640625,0,0,0,0,0,0
+sprinklers_Mistral-Small-3.1-24B-2503_2.cpp,TIME_LIMIT_EXCEEDED,0,2.20%,2.210,1.91015625,0,0,0,0,0,0
+sprinklers_Mistral-Small-3.1-24B-2503_3.cpp,RUNTIME_ERROR,0,0.00%,0.050,1.81640625,0,0,0,0,0,0
+sprinklers_Mistral-Small-3.1-24B-2503_4.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0
+sprinklers_Mistral-Small-3.1-24B-2503_5.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0
+sprinklers_Mistral-Small-3.1-24B-2503_6.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0
+sprinklers_Mistral-Small-3.1-24B-2503_7.cpp,RUNTIME_ERROR,0,0.00%,0.060,4.6484375,0,0,0,0,0,0

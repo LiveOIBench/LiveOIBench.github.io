@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+bingo,deepseek-chat,ACCEPTED,50,100.00%,0.000,0
+knjige,deepseek-chat,ACCEPTED,70,100.00%,0.050,2.84765625
+lepeze,deepseek-chat,RUNTIME_ERROR,0,3.85%,0.000,0
+putovanje,deepseek-chat,RUNTIME_ERROR,0,0.00%,0.040,4.20703125
+roboti,deepseek-chat,TIME_LIMIT_EXCEEDED,13,34.09%,2.210,557.39453125

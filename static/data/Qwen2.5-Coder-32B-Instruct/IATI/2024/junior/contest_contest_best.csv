@@ -1,0 +1,7 @@
+problem,model,status,score,%test passed,time,memory
+aquarelle,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,21.65%,0.120,0
+parentheses,Qwen2.5-Coder-32B-Instruct,TIME_LIMIT_EXCEEDED,40,91.83%,0.380,3.3984375
+tolls,Qwen2.5-Coder-32B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+twins,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,0.00%,0.000,0
+walk,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,0.00%,0.130,1.7578125
+xy,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,0.00%,0.130,2.07421875

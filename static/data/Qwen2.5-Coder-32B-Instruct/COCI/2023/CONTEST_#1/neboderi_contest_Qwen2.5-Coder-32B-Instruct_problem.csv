@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+neboderi_Qwen2.5-Coder-32B-Instruct_0.cpp,RUNTIME_ERROR,0,0.00%,1.980,5.109375,0,0,0,0,0
+neboderi_Qwen2.5-Coder-32B-Instruct_1.cpp,RUNTIME_ERROR,0,0.00%,2.000,5.109375,0,0,0,0,0
+neboderi_Qwen2.5-Coder-32B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.890,20.47265625,0,0,0,0,0
+neboderi_Qwen2.5-Coder-32B-Instruct_3.cpp,RUNTIME_ERROR,0,0.00%,2.480,16.51171875,0,0,0,0,0
+neboderi_Qwen2.5-Coder-32B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,16.67%,2.830,5.109375,0,0,0,0,0
+neboderi_Qwen2.5-Coder-32B-Instruct_5.cpp,RUNTIME_ERROR,0,0.00%,0.700,5.109375,0,0,0,0,0
+neboderi_Qwen2.5-Coder-32B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,33,38.89%,2.860,5.16796875,11,22,0,0,0
+neboderi_Qwen2.5-Coder-32B-Instruct_7.cpp,RUNTIME_ERROR,0,0.00%,1.920,5.109375,0,0,0,0,0

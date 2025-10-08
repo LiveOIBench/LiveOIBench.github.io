@@ -1,0 +1,5 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+Hard_problem_gpt-oss-20b-low_1.cpp,ACCEPTED,100,100.00%,0.080,15.21875,0.0,13.0,10.0,14.0,19.0,9.0,1.0,9.0,25.0
+Hard_problem_gpt-oss-20b-low_3.cpp,ACCEPTED,100,100.00%,0.100,21.2578125,0.0,13.0,10.0,14.0,19.0,9.0,1.0,9.0,25.0
+Hard_problem_gpt-oss-20b-low_4.cpp,ACCEPTED,100,100.00%,0.080,12.125,0.0,13.0,10.0,14.0,19.0,9.0,1.0,9.0,25.0
+Hard_problem_gpt-oss-20b-low_6.cpp,ACCEPTED,100,100.00%,0.090,15.7265625,0.0,13.0,10.0,14.0,19.0,9.0,1.0,9.0,25.0

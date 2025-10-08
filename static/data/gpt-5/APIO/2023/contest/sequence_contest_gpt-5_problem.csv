@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+sequence_gpt-5_0.cpp,RUNTIME_ERROR,0,25.26%,0.230,140.96484375,0,0,0,0,0,0,0,0
+sequence_gpt-5_1.cpp,TIME_LIMIT_EXCEEDED,11,45.76%,1.810,35.58203125,0,11,0,0,0,0,0,0
+sequence_gpt-5_2.cpp,TIME_LIMIT_EXCEEDED,0,2.47%,1.900,35.75,0,0,0,0,0,0,0,0
+sequence_gpt-5_3.cpp,RUNTIME_ERROR,0,25.26%,0.200,33.78125,0,0,0,0,0,0,0,0
+sequence_gpt-5_4.cpp,TIME_LIMIT_EXCEEDED,28,60.58%,1.810,51.30859375,0,11,17,0,0,0,0,0
+sequence_gpt-5_5.cpp,RUNTIME_ERROR,0,25.26%,0.230,43.8359375,0,0,0,0,0,0,0,0
+sequence_gpt-5_6.cpp,RUNTIME_ERROR,28,63.04%,1.060,32.28515625,0,11,17,0,0,0,0,0
+sequence_gpt-5_7.cpp,TIME_LIMIT_EXCEEDED,11,46.61%,1.800,6.96484375,0,11,0,0,0,0,0,0

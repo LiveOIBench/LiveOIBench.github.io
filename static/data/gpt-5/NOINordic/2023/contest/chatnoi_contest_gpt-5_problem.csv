@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+chatnoi_gpt-5_0.cpp,RUNTIME_ERROR,22,65.49%,0.170,77.9765625,5,0,17,0,0,0,0
+chatnoi_gpt-5_1.cpp,TIME_LIMIT_EXCEEDED,64,81.37%,4.860,137.984375,5,0,17,18,24,0,0
+chatnoi_gpt-5_2.cpp,TIME_LIMIT_EXCEEDED,47,82.02%,4.830,202.7578125,5,7,17,18,0,0,0
+chatnoi_gpt-5_3.cpp,ACCEPTED,100,100.00%,0.540,109.08203125,5,7,17,18,24,16,13
+chatnoi_gpt-5_4.cpp,RUNTIME_ERROR,0,28.80%,0.000,0,0,0,0,0,0,0,0
+chatnoi_gpt-5_5.cpp,RUNTIME_ERROR,29,71.25%,0.580,172.27734375,5,7,17,0,0,0,0
+chatnoi_gpt-5_6.cpp,RUNTIME_ERROR,0,1.38%,0.130,0,0,0,0,0,0,0,0
+chatnoi_gpt-5_7.cpp,RUNTIME_ERROR,12,58.30%,0.560,132.0390625,5,7,0,0,0,0,0

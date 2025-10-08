@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+Ultrafast_train_deepseek-reasoner_0.cpp,RUNTIME_ERROR,42,85.96%,0.070,7.9609375,0.0,17.0,13.0,12.0,0,0
+Ultrafast_train_deepseek-reasoner_1.cpp,RUNTIME_ERROR,68,98.88%,0.100,11.17578125,0.0,17.0,13.0,12.0,26.0,0
+Ultrafast_train_deepseek-reasoner_2.cpp,RUNTIME_ERROR,0,5.33%,0.000,0,0,0,0,0,0,0
+Ultrafast_train_deepseek-reasoner_3.cpp,RUNTIME_ERROR,0,5.33%,0.040,0,0,0,0,0,0,0
+Ultrafast_train_deepseek-reasoner_4.cpp,RUNTIME_ERROR,0,13.33%,0.060,18.265625,0,0,0,0,0,0
+Ultrafast_train_deepseek-reasoner_5.cpp,RUNTIME_ERROR,42,85.96%,0.060,11.1328125,0.0,17.0,13.0,12.0,0,0
+Ultrafast_train_deepseek-reasoner_6.cpp,RUNTIME_ERROR,42,85.96%,0.090,9.234375,0.0,17.0,13.0,12.0,0,0
+Ultrafast_train_deepseek-reasoner_7.cpp,RUNTIME_ERROR,42,85.96%,0.070,9.8203125,0.0,17.0,13.0,12.0,0,0

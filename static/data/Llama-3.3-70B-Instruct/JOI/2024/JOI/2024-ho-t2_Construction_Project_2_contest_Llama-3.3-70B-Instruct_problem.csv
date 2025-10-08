@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4
+2024-ho-t2_Construction_Project_2_Llama-3.3-70B-Instruct_0.cpp,RUNTIME_ERROR,8,2.08%,0.000,0,8,0,0,0
+2024-ho-t2_Construction_Project_2_Llama-3.3-70B-Instruct_1.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0
+2024-ho-t2_Construction_Project_2_Llama-3.3-70B-Instruct_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+2024-ho-t2_Construction_Project_2_Llama-3.3-70B-Instruct_4.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0
+2024-ho-t2_Construction_Project_2_Llama-3.3-70B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,8,13.13%,2.230,6.19140625,8,0,0,0
+2024-ho-t2_Construction_Project_2_Llama-3.3-70B-Instruct_6.cpp,RUNTIME_ERROR,8,2.08%,0.000,0,8,0,0,0
+2024-ho-t2_Construction_Project_2_Llama-3.3-70B-Instruct_7.cpp,RUNTIME_ERROR,8,15.00%,0.140,7.80859375,8,0,0,0

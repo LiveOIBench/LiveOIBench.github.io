@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Equal_Sum_Subarrays,gpt-o3-mini-high,ACCEPTED,333,100.00%,0.050,3.359375
+gold_Fertilizing_Pastures,gpt-o3-mini-high,ACCEPTED,333,100.00%,0.110,23.16796875
+gold_Piling_Papers,gpt-o3-mini-high,MEMORY_LIMIT_EXCEEDED,56,23.08%,2.140,280.890625

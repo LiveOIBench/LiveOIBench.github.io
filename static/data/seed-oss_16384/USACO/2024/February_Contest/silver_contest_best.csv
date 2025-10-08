@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Target_Practice_II,seed-oss_16384,WRONG_ANSWER,167,46.67%,0.050,12.60546875
+silver_Test_Tubes,seed-oss_16384,WRONG_ANSWER,50,14.29%,0.270,8.1171875
+silver_Moorbles,seed-oss_16384,ACCEPTED,333,100.00%,0.100,17.515625

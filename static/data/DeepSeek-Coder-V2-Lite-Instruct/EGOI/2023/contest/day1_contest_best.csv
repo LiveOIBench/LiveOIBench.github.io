@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+bikesvscars,DeepSeek-Coder-V2-Lite-Instruct,UNKNOWN,0,0.00%,0.000,0
+ppp,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,1.43%,0.140,5.16796875
+findthebox,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,0.00%,0.070,0.67578125
+inflation,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,28,36.36%,3.350,2.84375

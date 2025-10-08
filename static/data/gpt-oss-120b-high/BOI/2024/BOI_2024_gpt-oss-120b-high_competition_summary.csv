@@ -1,0 +1,8 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+jobs,RUNTIME_ERROR,11,16.31%,0.140,25.890625,,11,0,0,0,0,0,0
+portal,RUNTIME_ERROR,40,55.73%,0.030,5.94140625,,1,10,0,29,0,0,0
+trains,ACCEPTED,100,100.00%,0.150,9.03125,,8,13,16,34,29,0,0
+fire,ACCEPTED,100,100.00%,0.140,48.82421875,,14,17,9,13,21,26,0
+tiles,RUNTIME_ERROR,24,66.34%,0.160,20.59765625,,4,9,11,0,0,0,0
+wall,ACCEPTED,100,100.00%,0.670,70.3203125,,8,17,19,14,12,30,0
+TOTAL,,375,73.06%,,,50.00%,,,,,,,

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+vrsta_deepseek-reasoner_0.cpp,RUNTIME_ERROR,45,40.00%,0.180,10.56640625,19,26,0,0
+vrsta_deepseek-reasoner_1.cpp,ACCEPTED,110,100.00%,0.250,10.63671875,19,26,29,36
+vrsta_deepseek-reasoner_2.cpp,ACCEPTED,110,100.00%,0.350,123.8203125,19,26,29,36
+vrsta_deepseek-reasoner_3.cpp,ACCEPTED,110,100.00%,0.270,13.47265625,19,26,29,36
+vrsta_deepseek-reasoner_4.cpp,TIME_LIMIT_EXCEEDED,26,20.00%,1.130,13.73046875,0,26,0,0
+vrsta_deepseek-reasoner_5.cpp,ACCEPTED,110,100.00%,0.350,124.62890625,19,26,29,36
+vrsta_deepseek-reasoner_6.cpp,ACCEPTED,110,100.00%,0.260,13.7265625,19,26,29,36
+vrsta_deepseek-reasoner_7.cpp,ACCEPTED,110,100.00%,0.250,13.73046875,19,26,29,36

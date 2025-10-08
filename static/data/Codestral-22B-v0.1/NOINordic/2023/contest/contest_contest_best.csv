@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+icecreammachines,Codestral-22B-v0.1,RUNTIME_ERROR,7,46.23%,0.000,0
+chatnoi,Codestral-22B-v0.1,RUNTIME_ERROR,22,72.15%,0.930,55.91796875
+islandalliances,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0

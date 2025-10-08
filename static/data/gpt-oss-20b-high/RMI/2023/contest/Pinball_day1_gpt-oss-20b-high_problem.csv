@@ -1,0 +1,5 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+Pinball_gpt-oss-20b-high_0.cpp,MEMORY_LIMIT_EXCEEDED,40,67.50%,3.080,194.578125,0,13,8,0,10,0,9,0
+Pinball_gpt-oss-20b-high_1.cpp,MEMORY_LIMIT_EXCEEDED,40,65.00%,0.730,136.46484375,0,13,8,0,10,0,9,0
+Pinball_gpt-oss-20b-high_2.cpp,MEMORY_LIMIT_EXCEEDED,40,67.50%,1.330,234.1328125,0,13,8,0,10,0,9,0
+Pinball_gpt-oss-20b-high_7.cpp,TIME_LIMIT_EXCEEDED,51,72.50%,3.610,11.84375,0,13,8,0,10,11,9,0

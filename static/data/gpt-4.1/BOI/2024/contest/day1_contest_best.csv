@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+jobs,gpt-4.1,RUNTIME_ERROR,11,10.14%,0.110,45.83203125
+portal,gpt-4.1,RUNTIME_ERROR,11,32.11%,0.050,6.94921875
+trains,gpt-4.1,TIME_LIMIT_EXCEEDED,37,85.11%,1.140,2.84375

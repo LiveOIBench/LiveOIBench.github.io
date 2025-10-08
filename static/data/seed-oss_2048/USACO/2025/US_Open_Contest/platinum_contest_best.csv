@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Forklift_Certified,seed-oss_2048,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Lazy_Sort,seed-oss_2048,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Package_Pickup,seed-oss_2048,UNKNOWN,0,0.00%,0.000,0

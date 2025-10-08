@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+lampice_seed-oss_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+lampice_seed-oss_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+lampice_seed-oss_2.cpp,TIME_LIMIT_EXCEEDED,0,2.38%,3.630,4.7265625,0,0,0,0
+lampice_seed-oss_3.cpp,RUNTIME_ERROR,0,0.00%,0.030,0.00390625,0,0,0,0
+lampice_seed-oss_4.cpp,MEMORY_LIMIT_EXCEEDED,0,2.38%,0.040,2.640625,0,0,0,0
+lampice_seed-oss_5.cpp,RUNTIME_ERROR,0,0.00%,0.040,1.55859375,0,0,0,0
+lampice_seed-oss_6.cpp,TIME_LIMIT_EXCEEDED,0,2.38%,3.610,2.3671875,0,0,0,0
+lampice_seed-oss_7.cpp,RUNTIME_ERROR,0,2.38%,0.040,0.00390625,0,0,0,0

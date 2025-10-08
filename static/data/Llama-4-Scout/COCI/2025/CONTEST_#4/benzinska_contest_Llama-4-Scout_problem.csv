@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+benzinska_Llama-4-Scout_0.cpp,RUNTIME_ERROR,0,6.00%,0.020,2.5859375,0,0,0
+benzinska_Llama-4-Scout_1.cpp,RUNTIME_ERROR,55,74.00%,0.830,6.1796875,0,30,25
+benzinska_Llama-4-Scout_2.cpp,RUNTIME_ERROR,55,74.00%,0.830,7.2109375,0,30,25
+benzinska_Llama-4-Scout_3.cpp,ACCEPTED,70,100.00%,0.120,6.17578125,15,30,25
+benzinska_Llama-4-Scout_4.cpp,RUNTIME_ERROR,0,6.00%,0.110,4.62890625,0,0,0
+benzinska_Llama-4-Scout_5.cpp,RUNTIME_ERROR,0,6.00%,0.120,4.62890625,0,0,0
+benzinska_Llama-4-Scout_6.cpp,ACCEPTED,70,100.00%,0.850,6.1796875,15,30,25
+benzinska_Llama-4-Scout_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.210,4.62890625,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3
+2024-open-t3_Library_3_Qwen3-30B-Non-Thinking_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.560,1.484375,0,0,0
+2024-open-t3_Library_3_Qwen3-30B-Non-Thinking_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+2024-open-t3_Library_3_Qwen3-30B-Non-Thinking_2.cpp,RUNTIME_ERROR,2,54.69%,0.180,1.5390625,2,0,0
+2024-open-t3_Library_3_Qwen3-30B-Non-Thinking_3.cpp,RUNTIME_ERROR,2,54.69%,0.170,1.54296875,2,0,0
+2024-open-t3_Library_3_Qwen3-30B-Non-Thinking_4.cpp,RUNTIME_ERROR,0,6.67%,0.120,0,0,0,0
+2024-open-t3_Library_3_Qwen3-30B-Non-Thinking_5.cpp,RUNTIME_ERROR,0,0.00%,0.120,1.4609375,0,0,0
+2024-open-t3_Library_3_Qwen3-30B-Non-Thinking_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+2024-open-t3_Library_3_Qwen3-30B-Non-Thinking_7.cpp,RUNTIME_ERROR,0,6.67%,0.120,1.4765625,0,0,0

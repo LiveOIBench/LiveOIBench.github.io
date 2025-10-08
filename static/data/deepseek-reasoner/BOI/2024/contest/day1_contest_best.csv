@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+jobs,deepseek-reasoner,RUNTIME_ERROR,11,9.42%,0.100,24.2421875
+portal,deepseek-reasoner,RUNTIME_ERROR,21,45.55%,0.030,3.140625
+trains,deepseek-reasoner,TIME_LIMIT_EXCEEDED,37,85.11%,1.120,3.62109375

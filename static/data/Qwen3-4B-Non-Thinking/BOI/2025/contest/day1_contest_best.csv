@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+boi,Qwen3-4B-Non-Thinking,RUNTIME_ERROR,0,1.19%,0.020,0.00390625
+tou,Qwen3-4B-Non-Thinking,RUNTIME_ERROR,0,5.17%,1.570,236.68359375
+tow,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0

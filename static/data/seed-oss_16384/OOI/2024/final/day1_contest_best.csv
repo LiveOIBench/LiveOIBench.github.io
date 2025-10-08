@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Dreaming_is_not_harmful,seed-oss_16384,TIME_LIMIT_EXCEEDED,0,16.38%,2.410,66.484375
+Cute_Subsequences,seed-oss_16384,ACCEPTED,100,100.00%,0.060,5.1640625
+The_arithmetic_exercise,seed-oss_16384,RUNTIME_ERROR,4,13.04%,0.020,2.8984375
+Alice_Bob_and_two_arrays,seed-oss_16384,ACCEPTED,100,100.00%,0.170,0.00390625

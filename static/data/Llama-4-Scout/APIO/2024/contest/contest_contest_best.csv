@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+show,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0
+september,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0
+train,Llama-4-Scout,MEMORY_LIMIT_EXCEEDED,5,17.86%,0.420,1224.41015625

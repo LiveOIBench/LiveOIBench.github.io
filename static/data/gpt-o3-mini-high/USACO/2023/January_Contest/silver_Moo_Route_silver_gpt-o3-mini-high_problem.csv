@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Moo_Route_gpt-o3-mini-high_0.cpp,WRONG_ANSWER,56,25.00%,0.070,10.00390625,0,18.51851851851852,0,0,0,0,0,0,0,0,0,0,18.51851851851852,0,0,0,0,0,18.51851851851852
+silver_Moo_Route_gpt-o3-mini-high_1.cpp,WRONG_ANSWER,56,25.00%,0.040,6.9140625,0,18.51851851851852,0,0,0,0,0,0,0,0,0,0,18.51851851851852,0,0,0,0,0,18.51851851851852
+silver_Moo_Route_gpt-o3-mini-high_2.cpp,TIME_LIMIT_EXCEEDED,0,5.00%,2.220,1.81640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Moo_Route_gpt-o3-mini-high_3.cpp,TIME_LIMIT_EXCEEDED,19,15.00%,2.210,2.84765625,0,18.51851851851852,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Moo_Route_gpt-o3-mini-high_4.cpp,WRONG_ANSWER,56,25.00%,0.050,16.70703125,0,18.51851851851852,0,0,0,0,0,0,0,0,0,18.51851851851852,0,0,0,0,0,0,18.51851851851852
+silver_Moo_Route_gpt-o3-mini-high_5.cpp,WRONG_ANSWER,56,25.00%,0.060,15.41796875,0,18.51851851851852,0,0,0,0,0,0,0,0,0,0,18.51851851851852,0,0,0,0,0,18.51851851851852
+silver_Moo_Route_gpt-o3-mini-high_6.cpp,WRONG_ANSWER,56,25.00%,0.050,6.140625,0,18.51851851851852,0,0,0,0,0,0,0,0,0,0,18.51851851851852,0,0,0,0,0,18.51851851851852
+silver_Moo_Route_gpt-o3-mini-high_7.cpp,WRONG_ANSWER,56,25.00%,0.060,10.01171875,0,18.51851851851852,0,0,0,0,0,0,0,0,0,0,18.51851851851852,0,0,0,0,0,18.51851851851852

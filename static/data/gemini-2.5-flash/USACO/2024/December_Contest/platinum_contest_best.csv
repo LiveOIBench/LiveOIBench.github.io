@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_All_Pairs_Similarity,gemini-2.5-flash,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Its_Mooin_Time,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,48,33.33%,3.320,17.83984375
+platinum_Maximize_Minimum_Difference,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,21,20.00%,4.420,280.7578125

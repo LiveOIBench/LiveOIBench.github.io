@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+wow,gpt-oss-120b-high,ACCEPTED,50,100.00%,0.000,0
+zid,gpt-oss-120b-high,ACCEPTED,70,100.00%,0.150,1.5546875
+tornjevi,gpt-oss-120b-high,ACCEPTED,90,100.00%,0.290,12.8984375
+crtez,gpt-oss-120b-high,MEMORY_LIMIT_EXCEEDED,75,72.34%,0.420,321.8671875
+stablo,gpt-oss-120b-high,ACCEPTED,120,100.00%,1.540,135.9140625

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Card_Flip_Qwen3-32B-Non-Thinking_0.cpp,TIME_LIMIT_EXCEEDED,0,5.94%,1.130,127.87890625,0,0,0,0,0,0,0,0,0,0
+Card_Flip_Qwen3-32B-Non-Thinking_1.cpp,TIME_LIMIT_EXCEEDED,0,10.58%,1.120,95.33984375,0.0,0,0,0,0,0,0,0,0,0
+Card_Flip_Qwen3-32B-Non-Thinking_2.cpp,TIME_LIMIT_EXCEEDED,0,8.91%,1.110,64.32421875,0,0,0,0,0,0,0,0,0,0
+Card_Flip_Qwen3-32B-Non-Thinking_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.130,22.59375,0,0,0,0,0,0,0,0,0,0
+Card_Flip_Qwen3-32B-Non-Thinking_4.cpp,RUNTIME_ERROR,0,3.09%,0.110,22.3671875,0,0,0,0,0,0,0,0,0,0
+Card_Flip_Qwen3-32B-Non-Thinking_5.cpp,TIME_LIMIT_EXCEEDED,0,10.58%,1.120,81.546875,0.0,0,0,0,0,0,0,0,0,0
+Card_Flip_Qwen3-32B-Non-Thinking_6.cpp,TIME_LIMIT_EXCEEDED,0,10.58%,1.110,127.17578125,0.0,0,0,0,0,0,0,0,0,0
+Card_Flip_Qwen3-32B-Non-Thinking_7.cpp,TIME_LIMIT_EXCEEDED,0,10.58%,1.110,104.4375,0.0,0,0,0,0,0,0,0,0,0

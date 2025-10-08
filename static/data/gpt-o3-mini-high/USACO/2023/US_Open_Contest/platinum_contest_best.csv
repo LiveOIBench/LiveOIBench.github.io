@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Pareidolia,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,67,23.81%,4.420,13.125
+platinum_Good_Bitstrings,gpt-o3-mini-high,WRONG_ANSWER,33,14.29%,1.460,1.55859375
+platinum_Triples_of_Cows,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,39,25.00%,2.230,280.90625

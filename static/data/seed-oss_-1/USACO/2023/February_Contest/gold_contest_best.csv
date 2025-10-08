@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Equal_Sum_Subarrays,seed-oss_-1,ACCEPTED,333,100.00%,1.370,4.40625
+gold_Fertilizing_Pastures,seed-oss_-1,ACCEPTED,333,100.00%,0.080,29.39453125
+gold_Piling_Papers,seed-oss_-1,MEMORY_LIMIT_EXCEEDED,56,23.08%,1.730,306.2109375

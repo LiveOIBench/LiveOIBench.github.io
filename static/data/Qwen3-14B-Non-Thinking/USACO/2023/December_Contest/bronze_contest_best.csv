@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Candy_Cane_Feast,Qwen3-14B-Non-Thinking,TIME_LIMIT_EXCEEDED,26,7.14%,2.220,5.828125
+bronze_Cowntact_Tracing_2,Qwen3-14B-Non-Thinking,WRONG_ANSWER,100,33.33%,0.110,1.5546875
+bronze_Farmer_John_Actually_Farms,Qwen3-14B-Non-Thinking,RUNTIME_ERROR,0,0.00%,0.790,10.58203125

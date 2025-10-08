@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+hieroglyphs,seed-oss_4096,TIME_LIMIT_EXCEEDED,0,3.96%,1.210,2448.4609375
+sphinx,seed-oss_4096,RUNTIME_ERROR,10,49.52%,0.330,4.421875
+mosaic,seed-oss_4096,RUNTIME_ERROR,7,20.78%,0.100,19.08984375

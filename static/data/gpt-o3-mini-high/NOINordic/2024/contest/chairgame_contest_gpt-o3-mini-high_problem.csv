@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+chairgame_gpt-o3-mini-high_0.cpp,TIME_LIMIT_EXCEEDED,39,79.10%,1.110,0.00390625,8,0,4,7,0,0,20,0
+chairgame_gpt-o3-mini-high_1.cpp,RUNTIME_ERROR,9,36.96%,0.050,0.00390625,0,5,4,0,0,0,0,0
+chairgame_gpt-o3-mini-high_2.cpp,TIME_LIMIT_EXCEEDED,39,79.10%,1.110,0.00390625,8,0,4,7,0,0,20,0
+chairgame_gpt-o3-mini-high_3.cpp,TIME_LIMIT_EXCEEDED,37,69.23%,1.110,0.00390625,8,5,4,0,0,0,20,0
+chairgame_gpt-o3-mini-high_4.cpp,TIME_LIMIT_EXCEEDED,39,79.10%,1.120,0.00390625,8,0,4,7,0,0,20,0
+chairgame_gpt-o3-mini-high_5.cpp,RUNTIME_ERROR,9,36.96%,0.120,0.00390625,0,5,4,0,0,0,0,0
+chairgame_gpt-o3-mini-high_6.cpp,RUNTIME_ERROR,9,36.96%,0.040,0.00390625,0,5,4,0,0,0,0,0
+chairgame_gpt-o3-mini-high_7.cpp,TIME_LIMIT_EXCEEDED,37,69.23%,1.120,0.00390625,8,5,4,0,0,0,20,0

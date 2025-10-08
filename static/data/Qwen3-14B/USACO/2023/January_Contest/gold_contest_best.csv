@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Find_and_Replace,Qwen3-14B,TIME_LIMIT_EXCEEDED,0,6.67%,2.220,273.921875
+gold_Lights_Off,Qwen3-14B,TIME_LIMIT_EXCEEDED,37,20.00%,4.420,216.48828125
+gold_Moo_Route,Qwen3-14B,WRONG_ANSWER,0,4.76%,0.110,2.015625

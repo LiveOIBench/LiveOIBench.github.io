@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+sah,Llama-3.1-8B-Instruct,RUNTIME_ERROR,13,26.47%,0.080,1.875
+benzinska,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,10.00%,0.100,4.39453125
+xor,Llama-3.1-8B-Instruct,UNKNOWN,0,0.00%,0.000,0
+cipele,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,0.00%,0.080,2.07421875
+tura,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,0.72%,0.070,1.75390625

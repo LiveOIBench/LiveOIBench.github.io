@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+tou_gemini-2.5-pro_0.cpp,TIME_LIMIT_EXCEEDED,51,66.38%,2.210,67.2578125,0,9,23,19,0,0
+tou_gemini-2.5-pro_1.cpp,TIME_LIMIT_EXCEEDED,51,70.69%,2.230,68.06640625,0,9,23,19,0,0
+tou_gemini-2.5-pro_2.cpp,TIME_LIMIT_EXCEEDED,51,66.38%,2.210,65.234375,0,9,23,19,0,0
+tou_gemini-2.5-pro_3.cpp,TIME_LIMIT_EXCEEDED,51,70.69%,2.210,71.9375,0,9,23,19,0,0
+tou_gemini-2.5-pro_4.cpp,MEMORY_LIMIT_EXCEEDED,32,50.86%,0.860,1080.91796875,0,9,23,0,0,0
+tou_gemini-2.5-pro_5.cpp,MEMORY_LIMIT_EXCEEDED,32,50.86%,0.830,1074.2578125,0,9,23,0,0,0
+tou_gemini-2.5-pro_6.cpp,MEMORY_LIMIT_EXCEEDED,0,19.40%,0.040,32.24609375,0,0,0,0,0,0
+tou_gemini-2.5-pro_7.cpp,RUNTIME_ERROR,0,18.97%,1.160,176.15625,0,0,0,0,0,0

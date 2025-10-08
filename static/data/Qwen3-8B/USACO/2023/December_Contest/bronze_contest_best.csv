@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Candy_Cane_Feast,Qwen3-8B,ACCEPTED,333,100.00%,0.190,4.39453125
+bronze_Cowntact_Tracing_2,Qwen3-8B,WRONG_ANSWER,100,33.33%,0.020,0.00390625
+bronze_Farmer_John_Actually_Farms,Qwen3-8B,ACCEPTED,333,100.00%,0.060,7.77734375

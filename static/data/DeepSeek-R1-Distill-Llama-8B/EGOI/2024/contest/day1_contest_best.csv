@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+bouquet,DeepSeek-R1-Distill-Llama-8B,COMPILATION_ERROR,0,0.00%,0.000,0
+infiniterace,DeepSeek-R1-Distill-Llama-8B,RUNTIME_ERROR,0,1.45%,0.000,0
+teamcoding,DeepSeek-R1-Distill-Llama-8B,COMPILATION_ERROR,0,0.00%,0.000,0
+gardendecorations,DeepSeek-R1-Distill-Llama-8B,COMPILATION_ERROR,0,0.00%,0.000,0

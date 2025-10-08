@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Island_Vacation,Qwen3-30B,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Merging_Cells,Qwen3-30B,TIME_LIMIT_EXCEEDED,100,36.36%,2.280,561.1875
+platinum_Mooball_Teams_III,Qwen3-30B,RUNTIME_ERROR,0,4.17%,0.160,5.9375

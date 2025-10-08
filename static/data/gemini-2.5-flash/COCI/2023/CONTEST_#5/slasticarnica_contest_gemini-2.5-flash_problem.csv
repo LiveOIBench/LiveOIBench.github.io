@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+slasticarnica_gemini-2.5-flash_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.220,1.8125,0,0,0
+slasticarnica_gemini-2.5-flash_1.cpp,TIME_LIMIT_EXCEEDED,0,42.50%,2.210,3.41015625,0,0,0
+slasticarnica_gemini-2.5-flash_2.cpp,RUNTIME_ERROR,0,0.00%,0.040,3.1015625,0,0,0
+slasticarnica_gemini-2.5-flash_3.cpp,TIME_LIMIT_EXCEEDED,21,27.50%,2.230,1.5546875,21,0,0
+slasticarnica_gemini-2.5-flash_4.cpp,RUNTIME_ERROR,21,65.00%,0.220,1.8125,21,0,0
+slasticarnica_gemini-2.5-flash_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,1.84375,0,0,0
+slasticarnica_gemini-2.5-flash_6.cpp,RUNTIME_ERROR,0,0.00%,0.050,3.1015625,0,0,0
+slasticarnica_gemini-2.5-flash_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.230,195.74609375,0,0,0

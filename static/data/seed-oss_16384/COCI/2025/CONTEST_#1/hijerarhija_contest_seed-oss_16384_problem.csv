@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+hijerarhija_seed-oss_0.cpp,ACCEPTED,90,100.00%,0.390,36.875,7,12,16,15,23,17
+hijerarhija_seed-oss_1.cpp,ACCEPTED,90,100.00%,0.260,21.40625,7,12,16,15,23,17
+hijerarhija_seed-oss_2.cpp,ACCEPTED,90,100.00%,0.330,36.875,7,12,16,15,23,17
+hijerarhija_seed-oss_3.cpp,ACCEPTED,90,100.00%,0.230,22.46484375,7,12,16,15,23,17
+hijerarhija_seed-oss_4.cpp,ACCEPTED,90,100.00%,0.370,48.734375,7,12,16,15,23,17
+hijerarhija_seed-oss_5.cpp,ACCEPTED,90,100.00%,0.300,19.84375,7,12,16,15,23,17
+hijerarhija_seed-oss_6.cpp,ACCEPTED,90,100.00%,0.240,16.171875,7,12,16,15,23,17
+hijerarhija_seed-oss_7.cpp,RUNTIME_ERROR,0,0.00%,0.240,22.46875,0,0,0,0,0,0

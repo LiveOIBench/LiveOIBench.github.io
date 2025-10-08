@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Palindrome_Game,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,83,30.77%,2.650,7.73828125
+bronze_Milk_Exchange,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,128,50.00%,2.310,6.140625
+bronze_Maximizing_Productivity,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,62,23.53%,2.220,2.84765625

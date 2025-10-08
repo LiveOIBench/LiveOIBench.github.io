@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cowmpetency,deepseek-reasoner,WRONG_ANSWER,0,8.33%,0.090,5.05078125
+silver_Potion_Farming,deepseek-reasoner,ACCEPTED,333,100.00%,0.060,9.13671875
+silver_Cowlendar,deepseek-reasoner,RUNTIME_ERROR,222,57.14%,0.260,1.55078125

@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+tree_Mistral-Small-3.1-24B-2503_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+tree_Mistral-Small-3.1-24B-2503_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+tree_Mistral-Small-3.1-24B-2503_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+tree_Mistral-Small-3.1-24B-2503_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+tree_Mistral-Small-3.1-24B-2503_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,38.890625,0,0,0,0,0,0,0,0
+tree_Mistral-Small-3.1-24B-2503_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+tree_Mistral-Small-3.1-24B-2503_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,1.060,2232.23046875,0,0,0,0,0,0,0,0

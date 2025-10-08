@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Hoof_Paper_Scissors_Minus_One,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,0,0.00%,3.340,9.80859375
+bronze_More_Cow_Photos,Mistral-Large-Instruct-2411,WRONG_ANSWER,0,0.00%,0.210,5.30859375
+bronze_Its_Mooin_Time_III,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,67,27.27%,2.210,280.6484375

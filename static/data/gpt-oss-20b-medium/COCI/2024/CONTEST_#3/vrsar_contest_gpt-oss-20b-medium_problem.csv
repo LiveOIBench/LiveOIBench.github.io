@@ -1,0 +1,4 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+vrsar_gpt-oss-20b-medium_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.210,5.1640625,0,0,0,0
+vrsar_gpt-oss-20b-medium_2.cpp,ACCEPTED,70,100.00%,0.170,28.56640625,8,17,19,26
+vrsar_gpt-oss-20b-medium_6.cpp,RUNTIME_ERROR,0,0.00%,0.090,15.47265625,0,0,0,0

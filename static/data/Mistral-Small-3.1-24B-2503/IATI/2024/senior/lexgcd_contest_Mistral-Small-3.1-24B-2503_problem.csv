@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+lexgcd_Mistral-Small-3.1-24B-2503_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+lexgcd_Mistral-Small-3.1-24B-2503_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.840,3.24609375,0,0,0,0,0,0,0
+lexgcd_Mistral-Small-3.1-24B-2503_2.cpp,TIME_LIMIT_EXCEEDED,0,0.83%,1.830,2.84375,0,0,0,0,0,0,0
+lexgcd_Mistral-Small-3.1-24B-2503_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+lexgcd_Mistral-Small-3.1-24B-2503_4.cpp,RUNTIME_ERROR,0,5.74%,0.150,4.6484375,0,0,0,0,0,0,0
+lexgcd_Mistral-Small-3.1-24B-2503_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+lexgcd_Mistral-Small-3.1-24B-2503_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+lexgcd_Mistral-Small-3.1-24B-2503_7.cpp,RUNTIME_ERROR,0,0.83%,0.120,2.26171875,0,0,0,0,0,0,0

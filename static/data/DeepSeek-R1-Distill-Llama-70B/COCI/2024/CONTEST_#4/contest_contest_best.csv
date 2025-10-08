@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+bingo,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,50,100.00%,0.000,0
+knjige,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,27,35.71%,0.100,2.07421875
+lepeze,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,3.85%,0.000,0
+putovanje,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,65,64.03%,2.290,5.1640625
+roboti,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,10,13.64%,1.020,45.10546875

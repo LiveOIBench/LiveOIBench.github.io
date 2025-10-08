@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+Paired_roads_gpt-oss-120b-low_0.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+Paired_roads_gpt-oss-120b-low_1.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+Paired_roads_gpt-oss-120b-low_2.cpp,RUNTIME_ERROR,0,12.00%,0.110,38.39453125,0,0,0,0,0,0,0,0
+Paired_roads_gpt-oss-120b-low_3.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+Paired_roads_gpt-oss-120b-low_4.cpp,RUNTIME_ERROR,0,5.04%,0.070,22.6953125,0,0,0,0,0,0,0,0
+Paired_roads_gpt-oss-120b-low_5.cpp,RUNTIME_ERROR,0,12.60%,0.090,28.12109375,0.0,0,0,0,0,0,0,0
+Paired_roads_gpt-oss-120b-low_6.cpp,RUNTIME_ERROR,0,0.00%,0.060,14.44921875,0,0,0,0,0,0,0,0
+Paired_roads_gpt-oss-120b-low_7.cpp,RUNTIME_ERROR,0,0.00%,0.110,62.51171875,0,0,0,0,0,0,0,0

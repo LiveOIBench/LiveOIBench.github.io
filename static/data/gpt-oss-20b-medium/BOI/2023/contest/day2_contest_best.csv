@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+minequake,gpt-oss-20b-medium,ACCEPTED,100,100.00%,0.040,14.078125
+mineraldeposits,gpt-oss-20b-medium,RUNTIME_ERROR,0,0.00%,0.000,0.64453125
+sequence,gpt-oss-20b-medium,RUNTIME_ERROR,11,54.55%,0.000,0

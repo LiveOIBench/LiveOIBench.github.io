@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Choose_Interval,gpt-oss-20b-low,RUNTIME_ERROR,0,31.34%,0.130,0.00390625
+Skittlez,gpt-oss-20b-low,TIME_LIMIT_EXCEEDED,7,37.21%,2.410,306.2890625
+Octagon,gpt-oss-20b-low,RUNTIME_ERROR,0,48.15%,0.020,0

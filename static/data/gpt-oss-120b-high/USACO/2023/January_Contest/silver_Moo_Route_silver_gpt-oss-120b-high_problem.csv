@@ -1,0 +1,7 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Moo_Route_gpt-oss-120b-high_0.cpp,WRONG_ANSWER,37,20.00%,0.060,14.234375,0,18.51851851851852,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18.51851851851852
+silver_Moo_Route_gpt-oss-120b-high_1.cpp,WRONG_ANSWER,56,25.00%,0.060,14.71484375,0,18.51851851851852,0,0,0,0,0,0,0,0,0,18.51851851851852,0,0,0,0,0,0,18.51851851851852
+silver_Moo_Route_gpt-oss-120b-high_3.cpp,WRONG_ANSWER,56,25.00%,0.070,13.51953125,0,18.51851851851852,0,0,0,0,0,0,0,0,0,0,18.51851851851852,0,0,0,0,0,18.51851851851852
+silver_Moo_Route_gpt-oss-120b-high_5.cpp,MEMORY_LIMIT_EXCEEDED,56,25.00%,0.290,124.53125,0,18.51851851851852,0,0,0,0,0,0,0,0,0,0,18.51851851851852,0,0,0,0,0,18.51851851851852
+silver_Moo_Route_gpt-oss-120b-high_6.cpp,WRONG_ANSWER,56,25.00%,0.070,23.71484375,0,18.51851851851852,0,0,0,0,0,0,0,0,0,0,18.51851851851852,0,0,0,0,0,18.51851851851852
+silver_Moo_Route_gpt-oss-120b-high_7.cpp,WRONG_ANSWER,56,25.00%,0.060,18.953125,0,18.51851851851852,0,0,0,0,0,0,0,0,0,18.51851851851852,0,0,0,0,0,0,18.51851851851852

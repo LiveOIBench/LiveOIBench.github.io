@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cow_Checkups,gpt-oss-20b-medium,ACCEPTED,333,100.00%,0.190,53.6328125
+silver_Farmer_Johns_Favorite_Operation,gpt-oss-20b-medium,ACCEPTED,333,100.00%,0.080,8.4453125
+silver_Table_Recovery,gpt-oss-20b-medium,WRONG_ANSWER,0,13.33%,0.140,22.2890625

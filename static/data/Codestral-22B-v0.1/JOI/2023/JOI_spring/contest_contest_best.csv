@@ -1,0 +1,13 @@
+problem,model,status,score,%test passed,time,memory
+2023-sp_Two_Currencies,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Festivals_in_JOI_Kingdom_2,Codestral-22B-v0.1,RUNTIME_ERROR,0,13.33%,0.000,0
+2023-sp_Passport,Codestral-22B-v0.1,RUNTIME_ERROR,0,22.41%,0.160,5.16796875
+2023-sp_Belt_Conveyor,Codestral-22B-v0.1,TIME_LIMIT_EXCEEDED,0,3.23%,0.540,1120.17578125
+2023-sp_Council,Codestral-22B-v0.1,TIME_LIMIT_EXCEEDED,8,55.93%,3.610,5.94140625
+2023-sp_Mizuyokan_2,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Chorus,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Cookies,Codestral-22B-v0.1,RUNTIME_ERROR,0,8.89%,0.000,0
+2023-sp_Tourism,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Super_Dango_Maker,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Security_Guard,Codestral-22B-v0.1,RUNTIME_ERROR,0,5.95%,0.150,3.6171875
+2023-sp_Bitaro’s_travel,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0

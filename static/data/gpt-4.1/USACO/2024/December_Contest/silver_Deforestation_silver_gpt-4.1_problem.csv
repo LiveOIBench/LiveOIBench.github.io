@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Deforestation_gpt-4.1_0.cpp,WRONG_ANSWER,0,0.00%,0.270,9.98046875,0,0,0,0,0,0,0,0,0,0,0
+silver_Deforestation_gpt-4.1_1.cpp,MEMORY_LIMIT_EXCEEDED,133,45.45%,0.440,280.703125,0,33.33333333333333,0,33.33333333333333,33.33333333333333,33.33333333333333,0,0,0,0,0
+silver_Deforestation_gpt-4.1_2.cpp,ACCEPTED,333,100.00%,0.280,11.29296875,0,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333
+silver_Deforestation_gpt-4.1_3.cpp,WRONG_ANSWER,0,0.00%,0.240,4.0546875,0,0,0,0,0,0,0,0,0,0,0
+silver_Deforestation_gpt-4.1_4.cpp,TIME_LIMIT_EXCEEDED,0,9.09%,2.250,7.0234375,0,0,0,0,0,0,0,0,0,0,0
+silver_Deforestation_gpt-4.1_5.cpp,WRONG_ANSWER,0,0.00%,0.580,5.20703125,0,0,0,0,0,0,0,0,0,0,0
+silver_Deforestation_gpt-4.1_6.cpp,WRONG_ANSWER,0,0.00%,0.230,7.40625,0,0,0,0,0,0,0,0,0,0,0
+silver_Deforestation_gpt-4.1_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.340,9.71484375,0,0,0,0,0,0,0,0,0,0,0

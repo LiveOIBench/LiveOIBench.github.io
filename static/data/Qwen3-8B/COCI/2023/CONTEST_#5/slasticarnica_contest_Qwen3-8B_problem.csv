@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+slasticarnica_Qwen3-8B_0.cpp,RUNTIME_ERROR,0,0.00%,0.200,383.37890625,0,0,0
+slasticarnica_Qwen3-8B_1.cpp,RUNTIME_ERROR,0,2.50%,0.060,1.62109375,0,0,0
+slasticarnica_Qwen3-8B_2.cpp,RUNTIME_ERROR,0,2.50%,0.040,1.5625,0,0,0
+slasticarnica_Qwen3-8B_3.cpp,RUNTIME_ERROR,0,0.00%,0.020,1.62109375,0,0,0
+slasticarnica_Qwen3-8B_4.cpp,RUNTIME_ERROR,0,0.00%,0.020,0.00390625,0,0,0
+slasticarnica_Qwen3-8B_5.cpp,RUNTIME_ERROR,0,0.00%,0.110,192.33984375,0,0,0
+slasticarnica_Qwen3-8B_6.cpp,RUNTIME_ERROR,0,0.00%,0.100,66.58203125,0,0,0
+slasticarnica_Qwen3-8B_7.cpp,RUNTIME_ERROR,0,2.50%,0.080,1.87109375,0,0,0

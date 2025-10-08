@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+sah_Qwen3-30B-Non-Thinking_0.cpp,RUNTIME_ERROR,32,63.24%,0.090,0.00390625,13,19,0
+sah_Qwen3-30B-Non-Thinking_1.cpp,RUNTIME_ERROR,32,63.24%,0.110,3.1015625,13,19,0
+sah_Qwen3-30B-Non-Thinking_2.cpp,RUNTIME_ERROR,32,63.24%,0.090,2.84375,13,19,0
+sah_Qwen3-30B-Non-Thinking_3.cpp,RUNTIME_ERROR,32,63.24%,0.090,2.84375,13,19,0
+sah_Qwen3-30B-Non-Thinking_4.cpp,RUNTIME_ERROR,32,63.24%,0.090,0.00390625,13,19,0
+sah_Qwen3-30B-Non-Thinking_5.cpp,RUNTIME_ERROR,32,63.24%,0.100,0.00390625,13,19,0
+sah_Qwen3-30B-Non-Thinking_6.cpp,RUNTIME_ERROR,32,63.24%,0.090,3.1015625,13,19,0
+sah_Qwen3-30B-Non-Thinking_7.cpp,RUNTIME_ERROR,32,63.24%,0.100,0.00390625,13,19,0

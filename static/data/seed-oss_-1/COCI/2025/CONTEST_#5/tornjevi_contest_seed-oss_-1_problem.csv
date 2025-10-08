@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+tornjevi_seed-oss_0.cpp,TIME_LIMIT_EXCEEDED,61,79.63%,2.410,12.90234375,7,11,17,0,26
+tornjevi_seed-oss_1.cpp,MEMORY_LIMIT_EXCEEDED,64,79.63%,1.050,495.28125,7,11,17,29,0
+tornjevi_seed-oss_2.cpp,TIME_LIMIT_EXCEEDED,35,59.26%,2.410,496.6953125,7,11,17,0,0
+tornjevi_seed-oss_3.cpp,MEMORY_LIMIT_EXCEEDED,64,79.63%,0.840,484.1171875,7,11,17,29,0
+tornjevi_seed-oss_4.cpp,MEMORY_LIMIT_EXCEEDED,64,79.63%,1.080,494.5390625,7,11,17,29,0
+tornjevi_seed-oss_5.cpp,TIME_LIMIT_EXCEEDED,7,18.52%,2.410,86.20703125,7,0,0,0,0
+tornjevi_seed-oss_6.cpp,TIME_LIMIT_EXCEEDED,61,79.63%,2.410,127.61328125,7,11,17,0,26
+tornjevi_seed-oss_7.cpp,TIME_LIMIT_EXCEEDED,64,79.63%,2.420,427.390625,7,11,17,29,0

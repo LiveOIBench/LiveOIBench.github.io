@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+zatopljenje_Qwen3-14B_0.cpp,ACCEPTED,110,100.00%,1.100,92.828125,10,20,20,60
+zatopljenje_Qwen3-14B_1.cpp,ACCEPTED,110,100.00%,1.090,92.8359375,10,20,20,60
+zatopljenje_Qwen3-14B_2.cpp,ACCEPTED,110,100.00%,1.060,92.7109375,10,20,20,60
+zatopljenje_Qwen3-14B_3.cpp,RUNTIME_ERROR,20,25.00%,0.310,93.5546875,0,20,0,0
+zatopljenje_Qwen3-14B_4.cpp,ACCEPTED,110,100.00%,1.170,93.58984375,10,20,20,60
+zatopljenje_Qwen3-14B_5.cpp,ACCEPTED,110,100.00%,1.020,93.59765625,10,20,20,60
+zatopljenje_Qwen3-14B_6.cpp,ACCEPTED,110,100.00%,0.990,86.6328125,10,20,20,60
+zatopljenje_Qwen3-14B_7.cpp,RUNTIME_ERROR,0,0.00%,0.060,1.8125,0,0,0,0

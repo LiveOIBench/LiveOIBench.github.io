@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Election_Queries_Qwen3-30B_0.cpp,WRONG_ANSWER,0,6.67%,0.240,3.6171875,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Election_Queries_Qwen3-30B_1.cpp,WRONG_ANSWER,0,6.67%,0.450,13.6640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Election_Queries_Qwen3-30B_2.cpp,WRONG_ANSWER,0,6.67%,0.310,11.3515625,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Election_Queries_Qwen3-30B_3.cpp,WRONG_ANSWER,0,6.67%,0.240,8.296875,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Election_Queries_Qwen3-30B_5.cpp,WRONG_ANSWER,0,6.67%,0.240,3.875,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Election_Queries_Qwen3-30B_6.cpp,TIME_LIMIT_EXCEEDED,0,6.67%,3.340,2.07421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Election_Queries_Qwen3-30B_7.cpp,TIME_LIMIT_EXCEEDED,0,6.67%,3.330,2.5859375,0,0,0,0,0,0,0,0,0,0,0,0,0,0

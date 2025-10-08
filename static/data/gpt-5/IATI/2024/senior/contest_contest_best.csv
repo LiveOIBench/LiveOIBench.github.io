@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+five,gpt-5,ACCEPTED,100,100.00%,0.780,28.46875
+game,gpt-5,RUNTIME_ERROR,0,10.81%,0.120,11.0234375
+lexgcd,gpt-5,RUNTIME_ERROR,38,39.26%,0.370,36.5859375
+ones,gpt-5,WRONG_ANSWER,53,0.00%,0.150,1.94921875
+travel,gpt-5,TIME_LIMIT_EXCEEDED,20,29.41%,1.200,72.453125

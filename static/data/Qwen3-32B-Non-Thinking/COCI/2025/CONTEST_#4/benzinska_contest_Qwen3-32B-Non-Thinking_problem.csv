@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+benzinska_Qwen3-32B-Non-Thinking_0.cpp,RUNTIME_ERROR,0,6.00%,0.060,4.390625,0,0,0
+benzinska_Qwen3-32B-Non-Thinking_1.cpp,ACCEPTED,70,100.00%,0.080,8.4765625,15,30,25
+benzinska_Qwen3-32B-Non-Thinking_2.cpp,RUNTIME_ERROR,0,6.00%,0.070,7.6953125,0,0,0
+benzinska_Qwen3-32B-Non-Thinking_3.cpp,ACCEPTED,70,100.00%,0.080,8.72265625,15,30,25
+benzinska_Qwen3-32B-Non-Thinking_4.cpp,RUNTIME_ERROR,0,6.00%,0.080,7.69921875,0,0,0
+benzinska_Qwen3-32B-Non-Thinking_5.cpp,RUNTIME_ERROR,0,10.00%,0.070,7.6953125,0,0,0
+benzinska_Qwen3-32B-Non-Thinking_6.cpp,RUNTIME_ERROR,0,64.00%,1.050,10.79296875,0,0,0
+benzinska_Qwen3-32B-Non-Thinking_7.cpp,RUNTIME_ERROR,0,6.00%,0.080,7.484375,0,0,0

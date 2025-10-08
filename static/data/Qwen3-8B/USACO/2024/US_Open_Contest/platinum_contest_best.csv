@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Identity_Theft,Qwen3-8B,RUNTIME_ERROR,0,0.00%,0.150,125.8671875
+platinum_Splitting_Haybales,Qwen3-8B,TIME_LIMIT_EXCEEDED,17,13.64%,2.420,2.84765625
+platinum_Activating_Robots,Qwen3-8B,WRONG_ANSWER,200,62.50%,0.050,2.07421875

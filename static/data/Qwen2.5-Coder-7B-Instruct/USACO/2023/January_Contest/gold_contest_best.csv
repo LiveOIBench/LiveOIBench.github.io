@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Find_and_Replace,Qwen2.5-Coder-7B-Instruct,MEMORY_LIMIT_EXCEEDED,0,6.67%,0.110,1.68359375
+gold_Lights_Off,Qwen2.5-Coder-7B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Moo_Route,Qwen2.5-Coder-7B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

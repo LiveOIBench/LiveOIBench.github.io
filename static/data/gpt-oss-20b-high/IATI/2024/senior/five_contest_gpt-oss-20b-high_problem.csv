@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+five_gpt-oss-20b-high_1.cpp,RUNTIME_ERROR,0,0.00%,0.530,94.9453125,0,0,0,0,0,0
+five_gpt-oss-20b-high_2.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.040,2.06640625,0,0,0,0,0,0
+five_gpt-oss-20b-high_3.cpp,RUNTIME_ERROR,24,42.19%,0.330,49.09375,5,19,0,0,0,0
+five_gpt-oss-20b-high_4.cpp,TIME_LIMIT_EXCEEDED,62,75.00%,0.850,143.6171875,5,19,19,19,0,0
+five_gpt-oss-20b-high_5.cpp,TIME_LIMIT_EXCEEDED,62,75.00%,0.850,151.8984375,5,19,19,19,0,0
+five_gpt-oss-20b-high_6.cpp,TIME_LIMIT_EXCEEDED,62,75.00%,0.850,20.3671875,5,19,19,19,0,0
+five_gpt-oss-20b-high_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.850,40.0703125,0,0,0,0,0,0

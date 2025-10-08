@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Dreaming_is_not_harmful,deepseek-reasoner,RUNTIME_ERROR,0,3.77%,0.030,0
+Cute_Subsequences,deepseek-reasoner,ACCEPTED,100,100.00%,0.080,7.9765625
+The_arithmetic_exercise,deepseek-reasoner,RUNTIME_ERROR,4,13.04%,0.030,3.1015625
+Alice_Bob_and_two_arrays,deepseek-reasoner,ACCEPTED,100,100.00%,0.390,0.00390625

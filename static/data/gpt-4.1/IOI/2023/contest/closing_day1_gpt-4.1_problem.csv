@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+closing_gpt-4.1_0.cpp,RUNTIME_ERROR,8,2.31%,0.110,42.57421875,0,8,0,0,0,0,0,0,0,0
+closing_gpt-4.1_1.cpp,RUNTIME_ERROR,0,4.48%,0.120,32.0703125,0,0,0,0,0,0,0,0,0,0
+closing_gpt-4.1_2.cpp,RUNTIME_ERROR,0,0.00%,0.140,38.6796875,0,0,0,0,0,0,0,0,0,0
+closing_gpt-4.1_3.cpp,RUNTIME_ERROR,0,0.00%,0.160,34.33984375,0,0,0,0,0,0,0,0,0,0
+closing_gpt-4.1_4.cpp,RUNTIME_ERROR,8,2.31%,0.110,39.58984375,0,8,0,0,0,0,0,0,0,0
+closing_gpt-4.1_5.cpp,RUNTIME_ERROR,0,4.48%,0.140,39.4296875,0,0,0,0,0,0,0,0,0,0
+closing_gpt-4.1_6.cpp,RUNTIME_ERROR,0,0.00%,0.440,88.3046875,0,0,0,0,0,0,0,0,0,0
+closing_gpt-4.1_7.cpp,RUNTIME_ERROR,8,2.31%,1.100,33.1953125,0,8,0,0,0,0,0,0,0,0

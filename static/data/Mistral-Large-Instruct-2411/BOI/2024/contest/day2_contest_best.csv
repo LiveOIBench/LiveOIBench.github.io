@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+fire,Mistral-Large-Instruct-2411,RUNTIME_ERROR,0,44.64%,0.110,2.84765625
+tiles,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,0,1.99%,1.110,122.47265625
+wall,Mistral-Large-Instruct-2411,RUNTIME_ERROR,8,37.35%,0.240,0.00390625

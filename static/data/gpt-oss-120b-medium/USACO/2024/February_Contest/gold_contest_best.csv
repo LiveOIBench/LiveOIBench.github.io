@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Bessla_Motors,gpt-oss-120b-medium,ACCEPTED,333,102.78%,100.00%,0.400,24.94921875
+gold_Milk_Exchange,gpt-oss-120b-medium,ACCEPTED,333,104.06%,100.00%,0.130,33.0078125
+gold_Quantum_Moochanics,gpt-oss-120b-medium,ACCEPTED,333,100.91%,100.00%,0.110,9.33984375

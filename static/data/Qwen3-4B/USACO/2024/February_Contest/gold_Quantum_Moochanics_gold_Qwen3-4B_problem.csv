@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Quantum_Moochanics_Qwen3-4B_0.cpp,RUNTIME_ERROR,0,0.00%,0.100,3.265625,0,0,0,0,0,0,0,0,0,0,0
+gold_Quantum_Moochanics_Qwen3-4B_1.cpp,WRONG_ANSWER,0,8.33%,0.120,3.265625,0,0,0,0,0,0,0,0,0,0,0
+gold_Quantum_Moochanics_Qwen3-4B_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.420,4.39453125,0,0,0,0,0,0,0,0,0,0,0
+gold_Quantum_Moochanics_Qwen3-4B_3.cpp,RUNTIME_ERROR,0,0.00%,0.120,3.265625,0,0,0,0,0,0,0,0,0,0,0
+gold_Quantum_Moochanics_Qwen3-4B_4.cpp,RUNTIME_ERROR,0,0.00%,0.180,4.90625,0,0,0,0,0,0,0,0,0,0,0
+gold_Quantum_Moochanics_Qwen3-4B_5.cpp,TIME_LIMIT_EXCEEDED,0,8.33%,2.410,4.390625,0,0,0,0,0,0,0,0,0,0,0
+gold_Quantum_Moochanics_Qwen3-4B_6.cpp,TIME_LIMIT_EXCEEDED,0,8.33%,2.430,3.10546875,0,0,0,0,0,0,0,0,0,0,0
+gold_Quantum_Moochanics_Qwen3-4B_7.cpp,RUNTIME_ERROR,0,0.00%,0.150,3.87890625,0,0,0,0,0,0,0,0,0,0,0

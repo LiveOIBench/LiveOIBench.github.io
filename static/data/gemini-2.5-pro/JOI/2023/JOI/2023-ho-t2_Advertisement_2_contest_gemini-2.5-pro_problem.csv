@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4
+2023-ho-t2_Advertisement_2_gemini-2.5-pro_0.cpp,ACCEPTED,100,100.00%,0.150,9.03515625,10,23,36,31
+2023-ho-t2_Advertisement_2_gemini-2.5-pro_1.cpp,ACCEPTED,100,100.00%,0.240,9.03515625,10,23,36,31
+2023-ho-t2_Advertisement_2_gemini-2.5-pro_2.cpp,MEMORY_LIMIT_EXCEEDED,69,89.36%,0.620,1113.75390625,10,23,36,0
+2023-ho-t2_Advertisement_2_gemini-2.5-pro_3.cpp,TIME_LIMIT_EXCEEDED,0,12.24%,2.310,7.7421875,0,0,0,0
+2023-ho-t2_Advertisement_2_gemini-2.5-pro_4.cpp,ACCEPTED,100,100.00%,0.450,18.75390625,10,23,36,31
+2023-ho-t2_Advertisement_2_gemini-2.5-pro_5.cpp,RUNTIME_ERROR,10,43.33%,0.370,51.82421875,10,0,0,0
+2023-ho-t2_Advertisement_2_gemini-2.5-pro_6.cpp,TIME_LIMIT_EXCEEDED,69,89.36%,2.210,449.8125,10,23,36,0
+2023-ho-t2_Advertisement_2_gemini-2.5-pro_7.cpp,TIME_LIMIT_EXCEEDED,69,96.81%,2.240,47.1796875,10,23,36,0

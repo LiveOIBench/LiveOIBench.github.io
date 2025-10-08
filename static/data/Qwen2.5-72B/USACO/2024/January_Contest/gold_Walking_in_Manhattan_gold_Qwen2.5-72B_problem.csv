@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Walking_in_Manhattan_Qwen2.5-72B_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.270,11.12109375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Walking_in_Manhattan_Qwen2.5-72B_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Walking_in_Manhattan_Qwen2.5-72B_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.290,11.1171875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Walking_in_Manhattan_Qwen2.5-72B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Walking_in_Manhattan_Qwen2.5-72B_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.270,11.8671875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Walking_in_Manhattan_Qwen2.5-72B_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.240,11.09765625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Walking_in_Manhattan_Qwen2.5-72B_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.270,19.6015625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Walking_in_Manhattan_Qwen2.5-72B_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.320,11.09765625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

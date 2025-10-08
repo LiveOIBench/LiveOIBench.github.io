@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Bessies_Function,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_The_Best_Subsequence,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Friendship_Editing,Llama-4-Scout,TIME_LIMIT_EXCEEDED,44,27.78%,2.420,0.00390625

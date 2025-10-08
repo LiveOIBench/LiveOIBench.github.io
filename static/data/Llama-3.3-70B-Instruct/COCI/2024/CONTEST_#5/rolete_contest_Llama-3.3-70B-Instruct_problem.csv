@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+rolete_Llama-3.3-70B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.220,2.48828125,0,0,0,0
+rolete_Llama-3.3-70B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.220,2.58984375,0,0,0,0
+rolete_Llama-3.3-70B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,2.50390625,0,0,0,0
+rolete_Llama-3.3-70B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,2.56640625,0,0,0,0
+rolete_Llama-3.3-70B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,2.58984375,0,0,0,0
+rolete_Llama-3.3-70B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,2.58984375,0,0,0,0
+rolete_Llama-3.3-70B-Instruct_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+rolete_Llama-3.3-70B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.240,2.07421875,0,0,0,0

@@ -1,0 +1,7 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Burenka_and_Pether_gpt-oss-120b-high_0.cpp,TIME_LIMIT_EXCEEDED,0,8.61%,3.610,84.82421875,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burenka_and_Pether_gpt-oss-120b-high_1.cpp,RUNTIME_ERROR,0,1.97%,0.620,89.32421875,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burenka_and_Pether_gpt-oss-120b-high_2.cpp,RUNTIME_ERROR,0,0.79%,0.390,63.27734375,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burenka_and_Pether_gpt-oss-120b-high_3.cpp,RUNTIME_ERROR,0,0.00%,0.260,45.59375,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burenka_and_Pether_gpt-oss-120b-high_4.cpp,TIME_LIMIT_EXCEEDED,20,44.20%,3.610,285.875,0.0,10.0,0,0,0,0,0,10.0,0,0,0,0,0
+Burenka_and_Pether_gpt-oss-120b-high_7.cpp,RUNTIME_ERROR,14,11.24%,0.420,75.91015625,0,0,0,0,0,0,14.0,0,0,0,0,0,0

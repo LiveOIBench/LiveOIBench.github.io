@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Majority_Opinion,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Cannonball,Qwen3-4B-Non-Thinking,WRONG_ANSWER,37,20.00%,0.130,2.0703125
+bronze_Balancing_Bacteria,Qwen3-4B-Non-Thinking,RUNTIME_ERROR,0,0.00%,0.120,4.39453125

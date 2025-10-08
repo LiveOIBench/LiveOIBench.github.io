@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Cowdependence,gpt-oss-20b-medium,TIME_LIMIT_EXCEEDED,35,15.00%,2.420,5.68359375
+gold_Interstellar_Intervals,gpt-oss-20b-medium,RUNTIME_ERROR,0,4.35%,0.040,11.64453125
+gold_Job_Completion,gpt-oss-20b-medium,ACCEPTED,333,100.00%,0.100,6.02734375

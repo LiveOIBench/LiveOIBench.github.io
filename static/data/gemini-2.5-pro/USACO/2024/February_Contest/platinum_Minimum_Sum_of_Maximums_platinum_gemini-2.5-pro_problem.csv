@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Minimum_Sum_of_Maximums_gemini-2.5-pro_0.cpp,RUNTIME_ERROR,0,0.00%,0.040,0.00390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Minimum_Sum_of_Maximums_gemini-2.5-pro_1.cpp,WRONG_ANSWER,50,29.17%,0.110,6.76171875,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,16.666666666666664,0,0,0,0,0,0
+platinum_Minimum_Sum_of_Maximums_gemini-2.5-pro_2.cpp,RUNTIME_ERROR,17,8.33%,0.110,9.6015625,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Minimum_Sum_of_Maximums_gemini-2.5-pro_3.cpp,TIME_LIMIT_EXCEEDED,0,16.67%,2.360,5.73046875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Minimum_Sum_of_Maximums_gemini-2.5-pro_4.cpp,RUNTIME_ERROR,0,0.00%,0.110,0.00390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Minimum_Sum_of_Maximums_gemini-2.5-pro_5.cpp,WRONG_ANSWER,50,29.17%,0.110,1.546875,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,16.666666666666664,0,0,0,0,0,0
+platinum_Minimum_Sum_of_Maximums_gemini-2.5-pro_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Minimum_Sum_of_Maximums_gemini-2.5-pro_7.cpp,WRONG_ANSWER,50,29.17%,0.130,0.00390625,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,16.666666666666664,0,0,0,0,0,0

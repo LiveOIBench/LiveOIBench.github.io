@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cake_Game,Qwen2.5-72B,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.270,280.76953125
+silver_Deforestation,Qwen2.5-72B,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_2D_Conveyor_Belt,Qwen2.5-72B,COMPILATION_ERROR,0,0.00%,0.000,0

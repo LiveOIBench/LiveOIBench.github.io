@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cowmpetency,seed-oss_512,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Potion_Farming,seed-oss_512,WRONG_ANSWER,24,6.67%,1.310,12.703125
+silver_Cowlendar,seed-oss_512,MEMORY_LIMIT_EXCEEDED,167,42.86%,0.280,130.05859375

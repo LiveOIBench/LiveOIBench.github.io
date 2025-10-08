@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0_1,subtask_0_2,subtask_1_1,subtask_1_2,subtask_2_1,subtask_2_2,subtask_3_1,subtask_3_2,subtask_4_1,subtask_4_2,subtask_5_1,subtask_5_2
+trade_Mistral-Large-Instruct-2411_0.cpp,RUNTIME_ERROR,0,0.00%,0.080,7.22265625,0,0,0,0,0,0,0,0,0,0,0,0
+trade_Mistral-Large-Instruct-2411_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0
+trade_Mistral-Large-Instruct-2411_2.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.060,6.97265625,0,0,0,0,0,0,0,0,0,0,0,0
+trade_Mistral-Large-Instruct-2411_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0
+trade_Mistral-Large-Instruct-2411_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0
+trade_Mistral-Large-Instruct-2411_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,7.710,14.70703125,0,0,0,0,0,0,0,0,0,0,0,0
+trade_Mistral-Large-Instruct-2411_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0
+trade_Mistral-Large-Instruct-2411_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0

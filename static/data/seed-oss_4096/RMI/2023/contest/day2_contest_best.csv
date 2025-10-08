@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Circles,seed-oss_4096,RUNTIME_ERROR,0,18.18%,0.480,215.8515625
+To_be_xor_not_to_be,seed-oss_4096,RUNTIME_ERROR,0,4.76%,0.000,0
+Statues,seed-oss_4096,COMPILATION_ERROR,0,0.00%,0.000,0

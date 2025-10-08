@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+battle_gemini-2.5-flash_0.cpp,RUNTIME_ERROR,0,12.50%,1.060,109.93359375,0,0,0,0,0,0,0,0
+battle_gemini-2.5-flash_1.cpp,ACCEPTED,100,100.00%,2.440,84.1015625,0,6,12,8,11,9,30,24
+battle_gemini-2.5-flash_2.cpp,RUNTIME_ERROR,6,41.27%,0.460,78.14453125,0,6,0,0,0,0,0,0
+battle_gemini-2.5-flash_4.cpp,RUNTIME_ERROR,6,41.27%,0.560,89.43359375,0,6,0,0,0,0,0,0
+battle_gemini-2.5-flash_5.cpp,RUNTIME_ERROR,0,12.50%,0.500,79.1796875,0,0,0,0,0,0,0,0
+battle_gemini-2.5-flash_6.cpp,RUNTIME_ERROR,6,41.27%,0.790,118.18359375,0,6,0,0,0,0,0,0
+battle_gemini-2.5-flash_7.cpp,RUNTIME_ERROR,6,41.27%,1.220,115.1328125,0,6,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Forklift_Certified_gemini-2.5-pro_0.cpp,MEMORY_LIMIT_EXCEEDED,95,37.50%,1.200,280.8828125,0,0,0,0,23.809523809523807,23.809523809523807,23.809523809523807,0,0,23.809523809523807,0,0,0,0,0
+platinum_Forklift_Certified_gemini-2.5-pro_1.cpp,TIME_LIMIT_EXCEEDED,95,37.50%,2.460,11.39453125,0,0,0,0,23.809523809523807,23.809523809523807,23.809523809523807,0,0,23.809523809523807,0,0,0,0,0
+platinum_Forklift_Certified_gemini-2.5-pro_2.cpp,TIME_LIMIT_EXCEEDED,24,6.25%,2.280,237.10546875,0,0,0,0,0,0,0,0,0,23.809523809523807,0,0,0,0,0
+platinum_Forklift_Certified_gemini-2.5-pro_3.cpp,TIME_LIMIT_EXCEEDED,24,18.75%,2.240,238.31640625,0,0,0,0,0,0,0,0,0,23.809523809523807,0,0,0,0,0
+platinum_Forklift_Certified_gemini-2.5-pro_4.cpp,MEMORY_LIMIT_EXCEEDED,24,6.25%,0.940,280.875,0,0,0,0,0,0,0,0,0,23.809523809523807,0,0,0,0,0
+platinum_Forklift_Certified_gemini-2.5-pro_5.cpp,TIME_LIMIT_EXCEEDED,24,6.25%,2.310,219.3046875,0,0,0,0,0,0,0,0,0,23.809523809523807,0,0,0,0,0
+platinum_Forklift_Certified_gemini-2.5-pro_6.cpp,MEMORY_LIMIT_EXCEEDED,24,18.75%,1.090,280.65234375,0,0,0,0,0,0,0,0,0,23.809523809523807,0,0,0,0,0
+platinum_Forklift_Certified_gemini-2.5-pro_7.cpp,MEMORY_LIMIT_EXCEEDED,24,18.75%,1.170,280.59375,0,0,0,0,0,0,0,0,0,23.809523809523807,0,0,0,0,0

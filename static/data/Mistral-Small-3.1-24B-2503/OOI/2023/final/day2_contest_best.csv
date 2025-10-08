@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Burenka_and_Pether,Mistral-Small-3.1-24B-2503,UNKNOWN,0,0.00%,0.000,0
+Almost_Certainly,Mistral-Small-3.1-24B-2503,UNKNOWN,0,0.00%,0.000,0
+Three_Arrays,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,0.00%,0.000,0
+Parallel_Universes,Mistral-Small-3.1-24B-2503,UNKNOWN,0,0.00%,0.000,0

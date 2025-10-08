@@ -1,0 +1,5 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+sequence,ACCEPTED,100,100.00%,0.870,49.2890625,,0,11,17,7,12,13,22,18,0
+abc,ACCEPTED,100,100.00%,3.950,1380.29296875,,4,4,4,24,24,6,18,10,6
+cyberland,ACCEPTED,100,100.00%,0.900,33.74609375,,0,5,8,13,19,7,16,29,3
+TOTAL,,300,100.00%,,,100.00%,,,,,,,,,

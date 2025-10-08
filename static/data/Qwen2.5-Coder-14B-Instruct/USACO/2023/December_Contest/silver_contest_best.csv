@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bovine_Acrobatics,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,89,23.53%,0.210,2.84765625
+silver_Cycle_Correspondence,Qwen2.5-Coder-14B-Instruct,MEMORY_LIMIT_EXCEEDED,28,6.67%,0.240,267.3046875
+silver_Target_Practice,Qwen2.5-Coder-14B-Instruct,TIME_LIMIT_EXCEEDED,83,40.00%,2.370,7.8515625

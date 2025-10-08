@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+igre_gpt-5_0.cpp,ACCEPTED,70,100.00%,0.110,1.55859375,6,13,23,28
+igre_gpt-5_1.cpp,ACCEPTED,70,100.00%,0.090,1.55859375,6,13,23,28
+igre_gpt-5_2.cpp,RUNTIME_ERROR,42,63.27%,0.110,1.55859375,6,13,23,0
+igre_gpt-5_3.cpp,ACCEPTED,70,100.00%,0.100,1.55859375,6,13,23,28
+igre_gpt-5_4.cpp,ACCEPTED,70,100.00%,0.090,1.55859375,6,13,23,28
+igre_gpt-5_5.cpp,ACCEPTED,70,100.00%,0.120,1.55859375,6,13,23,28
+igre_gpt-5_6.cpp,ACCEPTED,70,100.00%,0.220,1.5546875,6,13,23,28
+igre_gpt-5_7.cpp,ACCEPTED,70,100.00%,0.140,1.55859375,6,13,23,28

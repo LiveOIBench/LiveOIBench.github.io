@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Identity_Theft,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,0.00%,0.130,33.71875
+platinum_Splitting_Haybales,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,17,13.64%,2.350,2.015625
+platinum_Activating_Robots,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,0.00%,0.120,2.12890625

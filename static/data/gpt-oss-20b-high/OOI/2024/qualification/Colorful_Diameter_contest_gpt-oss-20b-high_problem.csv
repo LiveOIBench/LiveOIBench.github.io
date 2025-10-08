@@ -1,0 +1,4 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Colorful_Diameter_gpt-oss-20b-high_3.cpp,RUNTIME_ERROR,0,10.64%,0.390,12.140625,0.0,0,0,0,0,0,0,0,0,0
+Colorful_Diameter_gpt-oss-20b-high_4.cpp,RUNTIME_ERROR,0,0.00%,0.200,11.4140625,0,0,0,0,0,0,0,0,0,0
+Colorful_Diameter_gpt-oss-20b-high_7.cpp,ACCEPTED,100,100.00%,3.840,44.62890625,0.0,10.0,8.0,11.0,14.0,8.0,11.0,8.0,19.0,11.0

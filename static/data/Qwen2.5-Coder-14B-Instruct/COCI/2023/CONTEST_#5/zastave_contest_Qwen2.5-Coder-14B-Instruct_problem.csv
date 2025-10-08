@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+zastave_Qwen2.5-Coder-14B-Instruct_0.cpp,RUNTIME_ERROR,0,0.00%,0.050,1.8125,0,0,0
+zastave_Qwen2.5-Coder-14B-Instruct_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+zastave_Qwen2.5-Coder-14B-Instruct_2.cpp,RUNTIME_ERROR,0,0.00%,0.070,1.81640625,0,0,0
+zastave_Qwen2.5-Coder-14B-Instruct_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+zastave_Qwen2.5-Coder-14B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.200,2.90625,0,0,0
+zastave_Qwen2.5-Coder-14B-Instruct_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+zastave_Qwen2.5-Coder-14B-Instruct_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+zastave_Qwen2.5-Coder-14B-Instruct_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0

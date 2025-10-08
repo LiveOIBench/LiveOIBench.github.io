@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Bessla_Motors,seed-oss_16384,TIME_LIMIT_EXCEEDED,83,40.00%,3.600,157.578125
+gold_Milk_Exchange,seed-oss_16384,TIME_LIMIT_EXCEEDED,50,26.09%,2.490,12.90234375
+gold_Quantum_Moochanics,seed-oss_16384,WRONG_ANSWER,33,25.00%,0.260,11.265625

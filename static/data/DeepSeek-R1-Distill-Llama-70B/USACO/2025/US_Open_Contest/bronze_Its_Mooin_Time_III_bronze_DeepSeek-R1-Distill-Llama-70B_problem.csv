@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Its_Mooin_Time_III_DeepSeek-R1-Distill-Llama-70B_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.270,2.328125,0,0,0,0,0,0,0,0,0,0,0
+bronze_Its_Mooin_Time_III_DeepSeek-R1-Distill-Llama-70B_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.260,3.07421875,0,0,0,0,0,0,0,0,0,0,0
+bronze_Its_Mooin_Time_III_DeepSeek-R1-Distill-Llama-70B_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Its_Mooin_Time_III_DeepSeek-R1-Distill-Llama-70B_3.cpp,TIME_LIMIT_EXCEEDED,67,18.18%,2.270,2.38671875,0,0,0,0,33.33333333333333,33.33333333333333,0,0,0,0,0
+bronze_Its_Mooin_Time_III_DeepSeek-R1-Distill-Llama-70B_4.cpp,TIME_LIMIT_EXCEEDED,67,18.18%,2.350,3.1015625,0,0,0,0,33.33333333333333,33.33333333333333,0,0,0,0,0
+bronze_Its_Mooin_Time_III_DeepSeek-R1-Distill-Llama-70B_5.cpp,TIME_LIMIT_EXCEEDED,67,18.18%,2.280,2.328125,0,0,0,0,33.33333333333333,33.33333333333333,0,0,0,0,0
+bronze_Its_Mooin_Time_III_DeepSeek-R1-Distill-Llama-70B_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.360,2.59375,0,0,0,0,0,0,0,0,0,0,0
+bronze_Its_Mooin_Time_III_DeepSeek-R1-Distill-Llama-70B_7.cpp,TIME_LIMIT_EXCEEDED,0,9.09%,2.270,2.73046875,0,0,0,0,0,0,0,0,0,0,0

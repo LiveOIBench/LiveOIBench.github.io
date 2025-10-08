@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+blistavost_gpt-4.1_0.cpp,TIME_LIMIT_EXCEEDED,75,67.21%,4.460,4.125,0,0,55,20
+blistavost_gpt-4.1_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+blistavost_gpt-4.1_2.cpp,RUNTIME_ERROR,75,50.82%,0.080,1.55078125,20,0,55,0
+blistavost_gpt-4.1_3.cpp,RUNTIME_ERROR,55,40.98%,0.080,1.546875,0,0,55,0
+blistavost_gpt-4.1_4.cpp,RUNTIME_ERROR,75,50.82%,0.190,47.55078125,20,0,55,0
+blistavost_gpt-4.1_5.cpp,TIME_LIMIT_EXCEEDED,20,45.90%,4.540,1003.92578125,0,0,0,20
+blistavost_gpt-4.1_6.cpp,RUNTIME_ERROR,0,0.00%,0.070,1.66015625,0,0,0,0
+blistavost_gpt-4.1_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Milk_Sum,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,100,36.36%,4.430,5.9765625
+silver_Field_Day,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,0,5.00%,2.240,9.2890625
+silver_Pareidolia,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,0,8.33%,4.420,1.8046875

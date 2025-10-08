@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Min_Max_Subarrays,seed-oss_16384,TIME_LIMIT_EXCEEDED,0,23.08%,3.620,5.109375
+platinum_Transforming_Pairs,seed-oss_16384,WRONG_ANSWER,0,5.26%,0.080,0.00390625
+platinum_True_or_False_Test,seed-oss_16384,TIME_LIMIT_EXCEEDED,105,35.00%,3.620,6.44140625

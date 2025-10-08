@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+tycho_seed-oss_0.cpp,TIME_LIMIT_EXCEEDED,0,73.91%,2.410,25.8828125,0,0,0,0,0,0,0,0
+tycho_seed-oss_1.cpp,RUNTIME_ERROR,0,4.50%,0.000,0.00390625,0,0,0,0,0,0,0,0
+tycho_seed-oss_2.cpp,TIME_LIMIT_EXCEEDED,32,87.94%,2.420,42.06640625,0,0,5,7,0,20,0,0
+tycho_seed-oss_3.cpp,RUNTIME_ERROR,0,4.50%,0.000,0,0,0,0,0,0,0,0,0
+tycho_seed-oss_4.cpp,TIME_LIMIT_EXCEEDED,0,73.91%,2.410,27.40625,0,0,0,0,0,0,0,0
+tycho_seed-oss_5.cpp,RUNTIME_ERROR,0,63.24%,0.000,0.00390625,0,0,0,0,0,0,0,0
+tycho_seed-oss_6.cpp,RUNTIME_ERROR,0,12.07%,0.000,0,0,0,0,0,0,0,0,0
+tycho_seed-oss_7.cpp,TIME_LIMIT_EXCEEDED,32,87.94%,2.420,41.00390625,0,0,5,7,0,20,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Target_Practice_II,seed-oss_8192,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Test_Tubes,seed-oss_8192,TIME_LIMIT_EXCEEDED,50,14.29%,2.760,13.34765625
+silver_Moorbles,seed-oss_8192,ACCEPTED,333,100.00%,0.100,32.5

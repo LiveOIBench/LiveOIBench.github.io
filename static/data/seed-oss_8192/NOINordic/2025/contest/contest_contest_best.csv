@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+diplomacy,seed-oss_8192,COMPILATION_ERROR,0,0.00%,0.000,0
+garbage,seed-oss_8192,TIME_LIMIT_EXCEEDED,0,15.07%,5.980,5.0546875
+xoracle,seed-oss_8192,ACCEPTED,100,100.00%,0.340,3.55859375

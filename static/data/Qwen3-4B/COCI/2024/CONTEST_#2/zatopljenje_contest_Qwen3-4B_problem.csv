@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+zatopljenje_Qwen3-4B_0.cpp,TIME_LIMIT_EXCEEDED,10,42.50%,2.410,2.015625,10,0,0,0
+zatopljenje_Qwen3-4B_2.cpp,TIME_LIMIT_EXCEEDED,0,5.00%,2.410,26.609375,0,0,0,0
+zatopljenje_Qwen3-4B_3.cpp,TIME_LIMIT_EXCEEDED,10,42.50%,2.420,2.015625,10,0,0,0
+zatopljenje_Qwen3-4B_4.cpp,RUNTIME_ERROR,0,0.00%,0.010,1.5546875,0,0,0,0
+zatopljenje_Qwen3-4B_5.cpp,TIME_LIMIT_EXCEEDED,0,5.00%,2.420,1.81640625,0,0,0,0
+zatopljenje_Qwen3-4B_6.cpp,TIME_LIMIT_EXCEEDED,10,42.50%,2.430,2.07421875,10,0,0,0
+zatopljenje_Qwen3-4B_7.cpp,TIME_LIMIT_EXCEEDED,0,5.00%,2.410,1.7578125,0,0,0,0

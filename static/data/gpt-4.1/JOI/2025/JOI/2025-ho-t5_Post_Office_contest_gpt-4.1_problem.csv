@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+2025-ho-t5_Post_Office_gpt-4.1_0.cpp,MEMORY_LIMIT_EXCEEDED,0,3.17%,1.120,895.19921875,0,0,0,0,0,0,0
+2025-ho-t5_Post_Office_gpt-4.1_1.cpp,TIME_LIMIT_EXCEEDED,0,5.47%,2.270,325.16796875,0,0,0,0,0,0,0
+2025-ho-t5_Post_Office_gpt-4.1_2.cpp,TIME_LIMIT_EXCEEDED,0,2.38%,2.330,50.28125,0,0,0,0,0,0,0
+2025-ho-t5_Post_Office_gpt-4.1_3.cpp,TIME_LIMIT_EXCEEDED,0,3.17%,2.210,846.1171875,0,0,0,0,0,0,0
+2025-ho-t5_Post_Office_gpt-4.1_4.cpp,MEMORY_LIMIT_EXCEEDED,0,3.17%,2.090,1124.34375,0,0,0,0,0,0,0
+2025-ho-t5_Post_Office_gpt-4.1_5.cpp,TIME_LIMIT_EXCEEDED,3,16.79%,2.360,50.2734375,3,0,0,0,0,0,0
+2025-ho-t5_Post_Office_gpt-4.1_6.cpp,TIME_LIMIT_EXCEEDED,3,17.99%,2.210,39.71875,3,0,0,0,0,0,0
+2025-ho-t5_Post_Office_gpt-4.1_7.cpp,TIME_LIMIT_EXCEEDED,0,2.38%,2.260,22.734375,0,0,0,0,0,0,0

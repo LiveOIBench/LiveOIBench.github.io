@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+desniklik,Llama-3.3-70B-Instruct,ACCEPTED,50,100.00%,0.000,0
+cokolade,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,0,0.00%,1.110,1.81640625
+berilij,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,2.27%,0.120,10.828125
+iksevi,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,15,11.11%,3.310,9.03515625
+neboderi,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,11,18.52%,2.760,5.39453125

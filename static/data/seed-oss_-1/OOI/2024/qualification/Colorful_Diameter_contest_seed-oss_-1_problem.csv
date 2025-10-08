@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Colorful_Diameter_seed-oss_0.cpp,TIME_LIMIT_EXCEEDED,43,85.18%,8.420,24.90625,0.0,10.0,8.0,11.0,14.0,0,0,0,0,0
+Colorful_Diameter_seed-oss_1.cpp,RUNTIME_ERROR,19,29.86%,0.810,11.87109375,0,0,0,0,0,0,11.0,8.0,0,0
+Colorful_Diameter_seed-oss_2.cpp,RUNTIME_ERROR,19,33.33%,1.800,28.0078125,0.0,0,0,0,0,0,11.0,8.0,0,0
+Colorful_Diameter_seed-oss_3.cpp,RUNTIME_ERROR,19,29.86%,1.280,15.11328125,0,0,0,0,0,0,11.0,8.0,0,0
+Colorful_Diameter_seed-oss_4.cpp,RUNTIME_ERROR,19,39.69%,0.600,14.4453125,0.0,0,0,0,0,0,11.0,8.0,0,0
+Colorful_Diameter_seed-oss_5.cpp,TIME_LIMIT_EXCEEDED,0,7.61%,8.410,17.66015625,0.0,0,0,0,0,0,0,0,0,0
+Colorful_Diameter_seed-oss_6.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0
+Colorful_Diameter_seed-oss_7.cpp,RUNTIME_ERROR,19,57.69%,2.250,36.28125,0.0,0,0,0,0,0,11.0,8.0,0,0

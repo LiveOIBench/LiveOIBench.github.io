@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Custodial_Cleanup,gpt-oss-20b-low,WRONG_ANSWER,0,5.56%,0.060,5.3203125
+gold_Pareidolia,gpt-oss-20b-low,RUNTIME_ERROR,0,5.88%,0.030,2.44921875
+gold_Tree_Merging,gpt-oss-20b-low,COMPILATION_ERROR,0,0.00%,0.000,0

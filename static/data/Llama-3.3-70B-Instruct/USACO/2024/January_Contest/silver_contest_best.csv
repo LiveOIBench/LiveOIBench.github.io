@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cowmpetency,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,0,8.33%,2.270,2.8125
+silver_Potion_Farming,Llama-3.3-70B-Instruct,WRONG_ANSWER,48,13.33%,0.140,9.65234375
+silver_Cowlendar,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,56,28.57%,2.240,1.5546875

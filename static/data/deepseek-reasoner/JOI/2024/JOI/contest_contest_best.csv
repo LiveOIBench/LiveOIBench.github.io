@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+2024-ho-t1_Room_Temperature,deepseek-reasoner,RUNTIME_ERROR,0,3.92%,0.000,0
+2024-ho-t2_Construction_Project_2,deepseek-reasoner,ACCEPTED,100,100.00%,0.440,39.8359375
+2024-ho-t3_Marathon_Race_2,deepseek-reasoner,RUNTIME_ERROR,7,58.82%,0.040,0
+2024-ho-t4_Gift_Exchange,deepseek-reasoner,COMPILATION_ERROR,0,0.00%,0.000,0
+2024-ho-t5_Road_Service_2,deepseek-reasoner,COMPILATION_ERROR,0,0.00%,0.000,0

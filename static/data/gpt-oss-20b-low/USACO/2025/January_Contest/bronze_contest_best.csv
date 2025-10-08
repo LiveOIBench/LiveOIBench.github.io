@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Astral_Superposition,gpt-oss-20b-low,RUNTIME_ERROR,0,0.00%,0.030,2.75390625
+bronze_Its_Mooin_Time_II,gpt-oss-20b-low,ACCEPTED,333,100.00%,0.170,52.45703125
+bronze_Cow_Checkups,gpt-oss-20b-low,ACCEPTED,333,100.00%,0.070,1.55859375

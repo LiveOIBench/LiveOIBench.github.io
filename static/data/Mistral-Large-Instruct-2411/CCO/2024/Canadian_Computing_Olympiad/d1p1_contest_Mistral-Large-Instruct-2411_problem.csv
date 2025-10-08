@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+d1p1_Mistral-Large-Instruct-2411_0.cpp,TIME_LIMIT_EXCEEDED,5,23.21%,4.450,99.5234375,5,0,0,0
+d1p1_Mistral-Large-Instruct-2411_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+d1p1_Mistral-Large-Instruct-2411_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.610,87.1953125,0,0,0,0
+d1p1_Mistral-Large-Instruct-2411_3.cpp,TIME_LIMIT_EXCEEDED,5,23.21%,4.430,91.79296875,5,0,0,0
+d1p1_Mistral-Large-Instruct-2411_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.440,99.51953125,0,0,0,0
+d1p1_Mistral-Large-Instruct-2411_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.490,72.30078125,0,0,0,0
+d1p1_Mistral-Large-Instruct-2411_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+d1p1_Mistral-Large-Instruct-2411_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.450,591.1796875,0,0,0,0

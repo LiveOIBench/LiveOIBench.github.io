@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+grading-server,deepseek-chat,TIME_LIMIT_EXCEEDED,0,2.67%,4.410,0.00390625
+light,deepseek-chat,TIME_LIMIT_EXCEEDED,0,0.74%,0.200,258.4375
+balance,deepseek-chat,RUNTIME_ERROR,0,0.00%,0.030,17.33984375

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Pareidolia_Qwen3-14B_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.460,4.61328125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Pareidolia_Qwen3-14B_1.cpp,WRONG_ANSWER,0,0.00%,1.170,3.328125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Pareidolia_Qwen3-14B_2.cpp,TIME_LIMIT_EXCEEDED,17,4.76%,4.420,29.80859375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0
+platinum_Pareidolia_Qwen3-14B_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.480,18.20703125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Pareidolia_Qwen3-14B_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.460,4.58984375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Pareidolia_Qwen3-14B_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.470,3.296875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Pareidolia_Qwen3-14B_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.460,20.015625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Pareidolia_Qwen3-14B_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.460,18.23046875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

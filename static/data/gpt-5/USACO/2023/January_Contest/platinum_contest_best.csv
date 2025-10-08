@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Tractor_Paths,gpt-5,ACCEPTED,333,100.00%,0.390,89.8984375
+platinum_Mana_Collection,gpt-5,ACCEPTED,333,100.00%,0.500,91.3203125
+platinum_Subtree_Activation,gpt-5,WRONG_ANSWER,100,33.33%,0.110,8.59765625

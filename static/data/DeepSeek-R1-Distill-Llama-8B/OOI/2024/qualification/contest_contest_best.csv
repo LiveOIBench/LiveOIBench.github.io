@@ -1,0 +1,10 @@
+problem,model,status,score,%test passed,time,memory
+Colorful_Diameter,DeepSeek-R1-Distill-Llama-8B,UNKNOWN,0,0.00%,0.000,0
+Road_Lighting,DeepSeek-R1-Distill-Llama-8B,UNKNOWN,0,0.00%,0.000,0
+Repainting_the_Table,DeepSeek-R1-Distill-Llama-8B,RUNTIME_ERROR,0,0.00%,0.000,0
+Distinctive_Features,DeepSeek-R1-Distill-Llama-8B,UNKNOWN,0,0.00%,0.000,0
+Classic_Tree_Problem,DeepSeek-R1-Distill-Llama-8B,UNKNOWN,0,0.00%,0.000,0
+Alien_Homophones,DeepSeek-R1-Distill-Llama-8B,UNKNOWN,0,0.00%,0.000,0
+Stone_Enthusiast,DeepSeek-R1-Distill-Llama-8B,TIME_LIMIT_EXCEEDED,30,44.00%,2.210,2.80078125
+Egors_Gaming_Addiction,DeepSeek-R1-Distill-Llama-8B,UNKNOWN,0,0.00%,0.000,0
+Ultrafast_train,DeepSeek-R1-Distill-Llama-8B,UNKNOWN,0,0.00%,0.000,0

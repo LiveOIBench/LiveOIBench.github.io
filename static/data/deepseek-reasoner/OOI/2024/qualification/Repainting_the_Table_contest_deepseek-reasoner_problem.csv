@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+Repainting_the_Table_deepseek-reasoner_0.cpp,TIME_LIMIT_EXCEEDED,72,86.84%,1.670,43.04296875,0.0,17.0,21.0,34.0,0
+Repainting_the_Table_deepseek-reasoner_1.cpp,TIME_LIMIT_EXCEEDED,17,58.90%,1.660,262.79296875,0.0,17.0,0,0,0
+Repainting_the_Table_deepseek-reasoner_2.cpp,TIME_LIMIT_EXCEEDED,17,83.43%,1.670,29.07421875,0.0,17.0,0,0,0
+Repainting_the_Table_deepseek-reasoner_3.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+Repainting_the_Table_deepseek-reasoner_4.cpp,RUNTIME_ERROR,0,16.19%,0.030,0,0.0,0,0,0,0
+Repainting_the_Table_deepseek-reasoner_5.cpp,RUNTIME_ERROR,0,5.21%,0.000,0,0.0,0,0,0,0
+Repainting_the_Table_deepseek-reasoner_6.cpp,TIME_LIMIT_EXCEEDED,72,86.84%,1.660,42.77734375,0.0,17.0,21.0,34.0,0
+Repainting_the_Table_deepseek-reasoner_7.cpp,TIME_LIMIT_EXCEEDED,17,83.43%,1.660,26.984375,0.0,17.0,0,0,0

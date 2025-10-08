@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0_1,subtask_0_2,subtask_1_1,subtask_1_2,subtask_2_1,subtask_2_2,subtask_3_1,subtask_3_2,subtask_4_1,subtask_4_2,subtask_5_1,subtask_5_2
+trade_gpt-o3-mini-high_0.cpp,RUNTIME_ERROR,0,0.00%,0.030,13.86328125,0,0,0,0,0,0,0,0,0,0,0,0
+trade_gpt-o3-mini-high_1.cpp,RUNTIME_ERROR,0,0.00%,0.030,7.484375,0,0,0,0,0,0,0,0,0,0,0,0
+trade_gpt-o3-mini-high_2.cpp,RUNTIME_ERROR,0,0.00%,0.020,5.1640625,0,0,0,0,0,0,0,0,0,0,0,0
+trade_gpt-o3-mini-high_3.cpp,RUNTIME_ERROR,0,0.00%,0.020,5.1640625,0,0,0,0,0,0,0,0,0,0,0,0
+trade_gpt-o3-mini-high_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,7.710,22.4375,0,0,0,0,0,0,0,0,0,0,0,0
+trade_gpt-o3-mini-high_5.cpp,RUNTIME_ERROR,0,0.00%,0.040,35.5859375,0,0,0,0,0,0,0,0,0,0,0,0
+trade_gpt-o3-mini-high_6.cpp,TIME_LIMIT_EXCEEDED,0,16.95%,7.710,17.0625,0,0,0,0,0,0,0,0,0,0,0,0
+trade_gpt-o3-mini-high_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0

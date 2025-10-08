@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+kalendar,deepseek-reasoner,ACCEPTED,50,100.00%,0.000,0
+diskurs,deepseek-reasoner,TIME_LIMIT_EXCEEDED,45,60.00%,2.220,7.2109375
+logaritam,deepseek-reasoner,ACCEPTED,110,100.00%,0.050,0.00390625
+slasticarnica,deepseek-reasoner,RUNTIME_ERROR,0,2.50%,0.090,96.94921875
+zastave,deepseek-reasoner,ACCEPTED,110,100.00%,0.090,2.07421875

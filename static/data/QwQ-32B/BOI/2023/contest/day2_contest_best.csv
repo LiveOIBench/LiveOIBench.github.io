@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+minequake,QwQ-32B,RUNTIME_ERROR,18,22.37%,0.050,6.96875
+mineraldeposits,QwQ-32B,RUNTIME_ERROR,0,26.53%,0.020,1.48046875
+sequence,QwQ-32B,RUNTIME_ERROR,11,54.55%,0.000,0

@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+crtez_gpt-oss-120b-medium_0.cpp,TIME_LIMIT_EXCEEDED,20,16.67%,42.55%,2.420,3.875,20,0,0
+crtez_gpt-oss-120b-medium_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.410,2.37109375,0,0,0
+crtez_gpt-oss-120b-medium_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.410,2.02734375,0,0,0
+crtez_gpt-oss-120b-medium_3.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0
+crtez_gpt-oss-120b-medium_4.cpp,TIME_LIMIT_EXCEEDED,20,16.67%,42.55%,2.410,3.171875,20,0,0
+crtez_gpt-oss-120b-medium_5.cpp,TIME_LIMIT_EXCEEDED,20,16.67%,42.55%,2.410,2.90234375,20,0,0
+crtez_gpt-oss-120b-medium_6.cpp,TIME_LIMIT_EXCEEDED,20,16.67%,42.55%,2.410,2.48046875,20,0,0
+crtez_gpt-oss-120b-medium_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.26%,2.410,1.96484375,0,0,0

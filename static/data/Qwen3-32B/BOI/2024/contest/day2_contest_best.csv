@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+fire,Qwen3-32B,ACCEPTED,100,100.00%,0.080,10.30078125
+tiles,Qwen3-32B,RUNTIME_ERROR,4,12.50%,0.030,4.8984375
+wall,Qwen3-32B,MEMORY_LIMIT_EXCEEDED,56,92.35%,1.310,280.765625

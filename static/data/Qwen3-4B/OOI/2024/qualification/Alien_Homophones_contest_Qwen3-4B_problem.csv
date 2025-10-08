@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Alien_Homophones_Qwen3-4B_0.cpp,TIME_LIMIT_EXCEEDED,38,86.19%,2.410,2.09375,0.0,8.0,0,7.0,0,0,0,6.0,7.0,10.0,0
+Alien_Homophones_Qwen3-4B_1.cpp,TIME_LIMIT_EXCEEDED,0,1.37%,2.420,1210.1484375,0,0,0,0,0,0,0,0,0,0,0
+Alien_Homophones_Qwen3-4B_2.cpp,TIME_LIMIT_EXCEEDED,38,89.37%,2.420,2.06640625,0.0,8.0,0,7.0,0,0,0,6.0,7.0,10.0,0
+Alien_Homophones_Qwen3-4B_3.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+Alien_Homophones_Qwen3-4B_4.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+Alien_Homophones_Qwen3-4B_5.cpp,TIME_LIMIT_EXCEEDED,38,86.19%,2.420,26.0625,0.0,8.0,0,7.0,0,0,0,6.0,7.0,10.0,0
+Alien_Homophones_Qwen3-4B_6.cpp,RUNTIME_ERROR,0,1.37%,0.020,0.00390625,0,0,0,0,0,0,0,0,0,0,0
+Alien_Homophones_Qwen3-4B_7.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0

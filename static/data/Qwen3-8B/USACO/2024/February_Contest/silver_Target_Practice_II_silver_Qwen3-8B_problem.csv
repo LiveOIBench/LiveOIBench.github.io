@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Target_Practice_II_Qwen3-8B_0.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.180,300.875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Target_Practice_II_Qwen3-8B_1.cpp,WRONG_ANSWER,0,0.00%,0.050,4.30078125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Target_Practice_II_Qwen3-8B_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.980,280.87109375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Target_Practice_II_Qwen3-8B_3.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.210,305.72265625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Target_Practice_II_Qwen3-8B_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Target_Practice_II_Qwen3-8B_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.990,5.8046875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Target_Practice_II_Qwen3-8B_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.980,5.62890625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Target_Practice_II_Qwen3-8B_7.cpp,WRONG_ANSWER,0,0.00%,0.050,4.0078125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

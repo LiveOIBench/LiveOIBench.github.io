@@ -1,0 +1,7 @@
+problem,model,status,score,%test passed,time,memory
+cheese,gemini-2.5-flash,RUNTIME_ERROR,11,28.21%,0.310,12.125
+oldorhei,gemini-2.5-flash,ACCEPTED,100,100.00%,0.220,53.69140625
+manypairs,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,42,65.71%,2.320,34.1171875
+cfduels,gemini-2.5-flash,ACCEPTED,100,100.00%,0.210,5.43359375
+hora,gemini-2.5-flash,COMPILATION_ERROR,0,0.00%,0.000,0
+sweets,gemini-2.5-flash,ACCEPTED,100,100.00%,0.900,124.2578125

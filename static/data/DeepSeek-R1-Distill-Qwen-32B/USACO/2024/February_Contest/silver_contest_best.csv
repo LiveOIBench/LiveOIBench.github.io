@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Target_Practice_II,DeepSeek-R1-Distill-Qwen-32B,WRONG_ANSWER,24,6.67%,0.180,6.11328125
+silver_Test_Tubes,DeepSeek-R1-Distill-Qwen-32B,WRONG_ANSWER,17,4.76%,0.150,1.59375
+silver_Moorbles,DeepSeek-R1-Distill-Qwen-32B,WRONG_ANSWER,67,33.33%,0.280,25.8671875

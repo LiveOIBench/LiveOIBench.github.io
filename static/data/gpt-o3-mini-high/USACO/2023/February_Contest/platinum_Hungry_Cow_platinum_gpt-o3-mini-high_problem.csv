@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Hungry_Cow_gpt-o3-mini-high_0.cpp,WRONG_ANSWER,0,4.55%,0.170,26.953125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Hungry_Cow_gpt-o3-mini-high_1.cpp,WRONG_ANSWER,17,13.64%,0.160,31.52734375,0,0,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,0
+platinum_Hungry_Cow_gpt-o3-mini-high_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,6.630,75.19140625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Hungry_Cow_gpt-o3-mini-high_3.cpp,WRONG_ANSWER,17,13.64%,0.140,29.01953125,0,0,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,0
+platinum_Hungry_Cow_gpt-o3-mini-high_4.cpp,WRONG_ANSWER,0,4.55%,0.100,15.23828125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Hungry_Cow_gpt-o3-mini-high_5.cpp,WRONG_ANSWER,0,4.55%,0.100,10.6015625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Hungry_Cow_gpt-o3-mini-high_6.cpp,WRONG_ANSWER,17,13.64%,0.140,26.6953125,0,0,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,0
+platinum_Hungry_Cow_gpt-o3-mini-high_7.cpp,WRONG_ANSWER,17,13.64%,0.140,42.16015625,0,0,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,0

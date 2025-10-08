@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bessies_Interview,deepseek-chat,WRONG_ANSWER,33,9.52%,0.090,4.91796875
+silver_Painting_Fence_Posts,deepseek-chat,TIME_LIMIT_EXCEEDED,0,6.67%,3.320,18.5
+silver_The_Winning_Gene,deepseek-chat,TIME_LIMIT_EXCEEDED,22,6.25%,2.220,36.015625

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+putovanje_deepseek-reasoner_0.cpp,TIME_LIMIT_EXCEEDED,65,68.35%,2.240,105.94140625,10,20,35,0
+putovanje_deepseek-reasoner_1.cpp,TIME_LIMIT_EXCEEDED,65,74.10%,2.230,5.41796875,10,20,35,0
+putovanje_deepseek-reasoner_2.cpp,TIME_LIMIT_EXCEEDED,65,72.66%,2.220,5.93359375,10,20,35,0
+putovanje_deepseek-reasoner_3.cpp,TIME_LIMIT_EXCEEDED,65,68.35%,2.230,6.17578125,10,20,35,0
+putovanje_deepseek-reasoner_4.cpp,TIME_LIMIT_EXCEEDED,65,72.66%,2.220,6.23046875,10,20,35,0
+putovanje_deepseek-reasoner_5.cpp,TIME_LIMIT_EXCEEDED,65,68.35%,2.220,5.296875,10,20,35,0
+putovanje_deepseek-reasoner_6.cpp,RUNTIME_ERROR,0,7.91%,0.060,4.38671875,0,0,0,0
+putovanje_deepseek-reasoner_7.cpp,TIME_LIMIT_EXCEEDED,65,68.35%,2.260,5.28515625,10,20,35,0

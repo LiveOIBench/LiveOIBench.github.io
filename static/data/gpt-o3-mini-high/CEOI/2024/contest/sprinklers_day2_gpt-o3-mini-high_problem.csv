@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+sprinklers_gpt-o3-mini-high_0.cpp,RUNTIME_ERROR,3,23.00%,0.030,2.94921875,0,3,0,0,0,0
+sprinklers_gpt-o3-mini-high_1.cpp,RUNTIME_ERROR,9,47.01%,0.070,3.234375,0,3,6,0,0,0
+sprinklers_gpt-o3-mini-high_2.cpp,RUNTIME_ERROR,9,47.46%,0.320,9.21484375,0,3,6,0,0,0
+sprinklers_gpt-o3-mini-high_3.cpp,RUNTIME_ERROR,9,47.46%,0.150,8.74609375,0,3,6,0,0,0
+sprinklers_gpt-o3-mini-high_4.cpp,RUNTIME_ERROR,0,16.16%,0.030,2.3515625,0,0,0,0,0,0
+sprinklers_gpt-o3-mini-high_5.cpp,RUNTIME_ERROR,6,25.81%,0.090,3.74609375,0,0,6,0,0,0
+sprinklers_gpt-o3-mini-high_6.cpp,RUNTIME_ERROR,3,19.19%,0.160,2.0703125,0,3,0,0,0,0
+sprinklers_gpt-o3-mini-high_7.cpp,RUNTIME_ERROR,3,19.19%,0.140,3.921875,0,3,0,0,0,0

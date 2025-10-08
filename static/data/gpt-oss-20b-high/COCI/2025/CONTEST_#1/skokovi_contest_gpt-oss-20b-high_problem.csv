@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+skokovi_gpt-oss-20b-high_0.cpp,ACCEPTED,70,100.00%,0.090,12.8984375,20,25,25
+skokovi_gpt-oss-20b-high_1.cpp,ACCEPTED,70,100.00%,0.100,12.8984375,20,25,25
+skokovi_gpt-oss-20b-high_2.cpp,ACCEPTED,70,100.00%,0.090,12.8984375,20,25,25
+skokovi_gpt-oss-20b-high_3.cpp,ACCEPTED,70,100.00%,0.130,6.7109375,20,25,25
+skokovi_gpt-oss-20b-high_4.cpp,ACCEPTED,70,100.00%,0.100,12.8984375,20,25,25
+skokovi_gpt-oss-20b-high_6.cpp,ACCEPTED,70,100.00%,0.110,12.8984375,20,25,25
+skokovi_gpt-oss-20b-high_7.cpp,ACCEPTED,70,100.00%,0.100,12.8984375,20,25,25

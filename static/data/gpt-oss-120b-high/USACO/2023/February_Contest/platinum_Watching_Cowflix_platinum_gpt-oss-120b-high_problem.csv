@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_21,subtask_22,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Watching_Cowflix_gpt-oss-120b-high_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.680,43.15625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watching_Cowflix_gpt-oss-120b-high_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.660,36.40625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watching_Cowflix_gpt-oss-120b-high_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watching_Cowflix_gpt-oss-120b-high_4.cpp,RUNTIME_ERROR,0,0.00%,0.120,34.6484375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watching_Cowflix_gpt-oss-120b-high_5.cpp,RUNTIME_ERROR,0,0.00%,0.100,18.671875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watching_Cowflix_gpt-oss-120b-high_6.cpp,MEMORY_LIMIT_EXCEEDED,227,70.83%,0.430,306.48046875,0,15.15151515151515,15.15151515151515,15.15151515151515,15.15151515151515,15.15151515151515,15.15151515151515,15.15151515151515,15.15151515151515,15.15151515151515,0,0,15.15151515151515,0,0,15.15151515151515,15.15151515151515,0,0,0,15.15151515151515,15.15151515151515,15.15151515151515
+platinum_Watching_Cowflix_gpt-oss-120b-high_7.cpp,RUNTIME_ERROR,0,0.00%,0.140,53.92578125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

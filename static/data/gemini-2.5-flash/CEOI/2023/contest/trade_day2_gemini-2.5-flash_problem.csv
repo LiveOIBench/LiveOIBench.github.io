@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0_1,subtask_0_2,subtask_1_1,subtask_1_2,subtask_2_1,subtask_2_2,subtask_3_1,subtask_3_2,subtask_4_1,subtask_4_2,subtask_5_1,subtask_5_2
+trade_gemini-2.5-flash_0.cpp,TIME_LIMIT_EXCEEDED,0,22.58%,7.710,9.5,0,0,0,0,0,0,0,0,0,0,0,0
+trade_gemini-2.5-flash_1.cpp,TIME_LIMIT_EXCEEDED,10,64.52%,7.720,21.40234375,0,0,5,5,0,0,0,0,0,0,0,0
+trade_gemini-2.5-flash_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0
+trade_gemini-2.5-flash_3.cpp,TIME_LIMIT_EXCEEDED,0,22.58%,7.710,9.234375,0,0,0,0,0,0,0,0,0,0,0,0
+trade_gemini-2.5-flash_4.cpp,TIME_LIMIT_EXCEEDED,0,22.58%,7.710,8.84765625,0,0,0,0,0,0,0,0,0,0,0,0
+trade_gemini-2.5-flash_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,7.710,7.5859375,0,0,0,0,0,0,0,0,0,0,0,0
+trade_gemini-2.5-flash_6.cpp,TIME_LIMIT_EXCEEDED,10,64.52%,7.710,30.671875,0,0,5,5,0,0,0,0,0,0,0,0
+trade_gemini-2.5-flash_7.cpp,TIME_LIMIT_EXCEEDED,0,22.58%,7.710,8.625,0,0,0,0,0,0,0,0,0,0,0,0

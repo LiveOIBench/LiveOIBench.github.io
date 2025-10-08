@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+september_Qwen3-8B_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.230,34.0390625,0,0,0,0,0,0,0,0,0,0
+september_Qwen3-8B_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.200,115.8359375,0,0,0,0,0,0,0,0,0,0
+september_Qwen3-8B_2.cpp,TIME_LIMIT_EXCEEDED,14,12.50%,1.210,1203.80078125,0,0,14,0,0,0,0,0,0,0
+september_Qwen3-8B_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.220,34.8203125,0,0,0,0,0,0,0,0,0,0
+september_Qwen3-8B_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0
+september_Qwen3-8B_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.210,23.8828125,0,0,0,0,0,0,0,0,0,0
+september_Qwen3-8B_6.cpp,RUNTIME_ERROR,0,0.00%,0.340,10.98046875,0,0,0,0,0,0,0,0,0,0
+september_Qwen3-8B_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.210,488.0390625,0,0,0,0,0,0,0,0,0,0

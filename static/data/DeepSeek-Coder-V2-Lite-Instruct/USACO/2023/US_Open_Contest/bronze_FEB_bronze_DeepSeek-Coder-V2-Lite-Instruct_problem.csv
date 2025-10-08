@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_FEB_DeepSeek-Coder-V2-Lite-Instruct_0.cpp,RUNTIME_ERROR,20,5.00%,0.110,1.70703125,0,0,0,0,19.6078431372549,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_FEB_DeepSeek-Coder-V2-Lite-Instruct_1.cpp,RUNTIME_ERROR,39,15.00%,0.110,1.9609375,0,0,0,0,19.6078431372549,0,0,0,0,0,0,0,0,19.6078431372549,0,0,0,0
+bronze_FEB_DeepSeek-Coder-V2-Lite-Instruct_2.cpp,RUNTIME_ERROR,20,5.00%,0.110,1.70703125,0,0,0,0,19.6078431372549,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_FEB_DeepSeek-Coder-V2-Lite-Instruct_3.cpp,RUNTIME_ERROR,20,5.00%,0.110,1.70703125,0,0,0,0,0,0,0,0,0,0,0,0,0,19.6078431372549,0,0,0,0
+bronze_FEB_DeepSeek-Coder-V2-Lite-Instruct_4.cpp,RUNTIME_ERROR,59,20.00%,0.110,1.95703125,0,0,0,0,19.6078431372549,0,0,0,0,0,0,0,19.6078431372549,19.6078431372549,0,0,0,0
+bronze_FEB_DeepSeek-Coder-V2-Lite-Instruct_5.cpp,RUNTIME_ERROR,20,10.00%,0.110,1.9609375,0,0,0,0,19.6078431372549,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_FEB_DeepSeek-Coder-V2-Lite-Instruct_6.cpp,WRONG_ANSWER,20,15.00%,0.110,1.95703125,0,0,0,0,19.6078431372549,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_FEB_DeepSeek-Coder-V2-Lite-Instruct_7.cpp,RUNTIME_ERROR,20,10.00%,0.110,1.9609375,0,0,0,0,19.6078431372549,0,0,0,0,0,0,0,0,0,0,0,0,0

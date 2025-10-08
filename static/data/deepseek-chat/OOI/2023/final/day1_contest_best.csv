@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+More_Gifts,deepseek-chat,RUNTIME_ERROR,12,35.48%,0.080,2.5859375
+Big_Persimmon,deepseek-chat,RUNTIME_ERROR,22,42.11%,0.080,32.0390625
+Evidence_Board,deepseek-chat,UNKNOWN,0,0.00%,0.000,0
+Draw_Polygon_Lines,deepseek-chat,MEMORY_LIMIT_EXCEEDED,36,55.60%,0.570,561.38671875

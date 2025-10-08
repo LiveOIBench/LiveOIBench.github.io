@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+bronze_Reflection,gpt-oss-120b-medium,ACCEPTED,333,100.91%,100.00%,0.100,9.546875
+bronze_Making_Mexes,gpt-oss-120b-medium,ACCEPTED,333,100.91%,100.00%,0.070,2.015625
+bronze_Printing_Sequences,gpt-oss-120b-medium,ACCEPTED,333,100.91%,100.00%,0.050,1.6171875

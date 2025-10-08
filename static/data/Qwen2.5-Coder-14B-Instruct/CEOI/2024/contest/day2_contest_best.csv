@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+toy,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,0.89%,0.040,1.6640625
+stations,Qwen2.5-Coder-14B-Instruct,TIME_LIMIT_EXCEEDED,0,6.82%,3.880,9.8671875
+sprinklers,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,6,25.81%,0.060,2.33203125

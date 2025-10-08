@@ -1,0 +1,6 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+s1,gpt-oss-120b-medium,ACCEPTED,15,100.00%,100.00%,0.100,5.109375
+s2,gpt-oss-120b-medium,ACCEPTED,15,100.00%,100.00%,0.020,0.00390625
+s3,gpt-oss-120b-medium,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0
+s4,gpt-oss-120b-medium,RUNTIME_ERROR,0,0.00%,2.00%,0.030,0.00390625
+s5,gpt-oss-120b-medium,TIME_LIMIT_EXCEEDED,0,0.00%,18.58%,1.210,10.57421875

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Minimum_Longest_Trip_Qwen3-32B-Non-Thinking_0.cpp,RUNTIME_ERROR,0,0.00%,0.190,21.9609375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Minimum_Longest_Trip_Qwen3-32B-Non-Thinking_1.cpp,RUNTIME_ERROR,0,0.00%,0.200,20.1171875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Minimum_Longest_Trip_Qwen3-32B-Non-Thinking_2.cpp,RUNTIME_ERROR,104,30.00%,0.210,23.1484375,0,20.833333333333332,0,0,20.833333333333332,20.833333333333332,20.833333333333332,0,0,20.833333333333332,0,0,0,0,0,0,0
+gold_Minimum_Longest_Trip_Qwen3-32B-Non-Thinking_3.cpp,RUNTIME_ERROR,0,0.00%,0.170,21.1640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Minimum_Longest_Trip_Qwen3-32B-Non-Thinking_4.cpp,RUNTIME_ERROR,0,0.00%,0.230,29.22265625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Minimum_Longest_Trip_Qwen3-32B-Non-Thinking_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.040,8.76953125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Minimum_Longest_Trip_Qwen3-32B-Non-Thinking_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Minimum_Longest_Trip_Qwen3-32B-Non-Thinking_7.cpp,MEMORY_LIMIT_EXCEEDED,42,30.00%,0.230,194.796875,0,0,0,0,0,0,0,0,0,0,0,0,20.833333333333332,20.833333333333332,0,0,0

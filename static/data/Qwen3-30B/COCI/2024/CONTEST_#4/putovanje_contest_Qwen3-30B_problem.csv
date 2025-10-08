@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+putovanje_Qwen3-30B_0.cpp,TIME_LIMIT_EXCEEDED,65,68.35%,2.210,5.2890625,10,20,35,0
+putovanje_Qwen3-30B_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+putovanje_Qwen3-30B_2.cpp,TIME_LIMIT_EXCEEDED,65,68.35%,2.240,5.26171875,10,20,35,0
+putovanje_Qwen3-30B_3.cpp,TIME_LIMIT_EXCEEDED,65,68.35%,2.210,5.28515625,10,20,35,0
+putovanje_Qwen3-30B_4.cpp,TIME_LIMIT_EXCEEDED,65,68.35%,2.260,5.26171875,10,20,35,0
+putovanje_Qwen3-30B_5.cpp,TIME_LIMIT_EXCEEDED,65,68.35%,2.220,5.2890625,10,20,35,0
+putovanje_Qwen3-30B_6.cpp,ACCEPTED,110,100.00%,2.060,5.18359375,10,20,35,45
+putovanje_Qwen3-30B_7.cpp,TIME_LIMIT_EXCEEDED,65,74.10%,2.210,5.5546875,10,20,35,0

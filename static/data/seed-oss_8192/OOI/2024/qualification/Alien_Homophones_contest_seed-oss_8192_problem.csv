@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Alien_Homophones_seed-oss_0.cpp,TIME_LIMIT_EXCEEDED,47,89.88%,2.410,1228.00390625,0.0,8.0,0,7.0,9.0,0,0,6.0,7.0,10.0,0
+Alien_Homophones_seed-oss_1.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+Alien_Homophones_seed-oss_2.cpp,TIME_LIMIT_EXCEEDED,55,92.16%,2.420,62.98046875,0.0,8.0,0,7.0,9.0,0,8.0,6.0,7.0,10.0,0
+Alien_Homophones_seed-oss_3.cpp,TIME_LIMIT_EXCEEDED,38,87.64%,2.410,99.48046875,0.0,8.0,0,7.0,0,0,0,6.0,7.0,10.0,0
+Alien_Homophones_seed-oss_4.cpp,RUNTIME_ERROR,0,0.00%,0.020,9.39453125,0,0,0,0,0,0,0,0,0,0,0
+Alien_Homophones_seed-oss_5.cpp,TIME_LIMIT_EXCEEDED,15,78.67%,2.420,7.4765625,0.0,8.0,0,7.0,0,0,0,0,0,0,0
+Alien_Homophones_seed-oss_6.cpp,TIME_LIMIT_EXCEEDED,7,65.33%,2.420,15.234375,0.0,0,0,7.0,0,0,0,0,0,0,0
+Alien_Homophones_seed-oss_7.cpp,TIME_LIMIT_EXCEEDED,24,82.84%,2.410,18.7734375,0.0,8.0,0,7.0,9.0,0,0,0,0,0,0

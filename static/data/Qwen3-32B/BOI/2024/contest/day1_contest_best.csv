@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+jobs,Qwen3-32B,RUNTIME_ERROR,0,0.72%,0.070,18.0625
+portal,Qwen3-32B,RUNTIME_ERROR,11,33.51%,0.020,2.84765625
+trains,Qwen3-32B,TIME_LIMIT_EXCEEDED,37,85.11%,1.120,4.39453125

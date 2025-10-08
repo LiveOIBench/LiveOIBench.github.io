@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+candy,QwQ-32B,ACCEPTED,100,100.00%,0.120,7.48828125
+sopsug,QwQ-32B,UNKNOWN,0,0.00%,0.000,0
+guessinggame,QwQ-32B,RUNTIME_ERROR,0,0.00%,0.000,0
+carnival,QwQ-32B,ACCEPTED,100,100.00%,0.100,3.359375

@@ -1,0 +1,7 @@
+problem,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+jobs,1,0,0,0,0,-1,-1
+portal,1,1,0,0,0,0,-1
+trains,1,1,1,1,1,-1,-1
+fire,1,1,1,1,1,1,-1
+tiles,1,0,0,0,0,0,0
+wall,1,1,1,0,1,0,-1

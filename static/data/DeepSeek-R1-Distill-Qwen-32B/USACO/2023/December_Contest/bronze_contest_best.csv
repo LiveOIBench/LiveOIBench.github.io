@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Candy_Cane_Feast,DeepSeek-R1-Distill-Qwen-32B,ACCEPTED,333,100.00%,0.370,4.39453125
+bronze_Cowntact_Tracing_2,DeepSeek-R1-Distill-Qwen-32B,WRONG_ANSWER,133,41.67%,0.110,1.82421875
+bronze_Farmer_John_Actually_Farms,DeepSeek-R1-Distill-Qwen-32B,ACCEPTED,333,100.00%,0.250,8.46875

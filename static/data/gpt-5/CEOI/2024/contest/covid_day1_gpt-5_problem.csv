@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+covid_gpt-5_0.cpp,RUNTIME_ERROR,10,74.07%,0.150,1.546875,0,10,0
+covid_gpt-5_1.cpp,RUNTIME_ERROR,10,70.37%,0.120,1.54296875,0,10,0
+covid_gpt-5_2.cpp,RUNTIME_ERROR,10,66.67%,0.090,1.54296875,0,10,0
+covid_gpt-5_3.cpp,RUNTIME_ERROR,10,70.37%,0.120,1.54296875,0,10,0
+covid_gpt-5_4.cpp,RUNTIME_ERROR,10,77.78%,0.310,3.61328125,0,10,0
+covid_gpt-5_5.cpp,RUNTIME_ERROR,10,85.19%,0.530,3.3984375,0,10,0
+covid_gpt-5_6.cpp,RUNTIME_ERROR,10,66.67%,0.120,1.546875,0,10,0
+covid_gpt-5_7.cpp,RUNTIME_ERROR,10,74.07%,0.160,1.54296875,0,10,0

@@ -1,0 +1,13 @@
+problem,model,status,score,%test passed,time,memory
+2023-sp_Two_Currencies,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Festivals_in_JOI_Kingdom_2,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,13.33%,0.000,0
+2023-sp_Passport,Mistral-Small-3.1-24B-2503,TIME_LIMIT_EXCEEDED,0,30.65%,2.210,4.390625
+2023-sp_Belt_Conveyor,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,3.23%,0.670,12.453125
+2023-sp_Council,Mistral-Small-3.1-24B-2503,TIME_LIMIT_EXCEEDED,0,5.61%,3.610,35.47265625
+2023-sp_Mizuyokan_2,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Chorus,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,6.67%,0.000,0
+2023-sp_Cookies,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,4.62%,0.000,0
+2023-sp_Tourism,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Super_Dango_Maker,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Security_Guard,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Bitaro’s_travel,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,5.17%,0.120,1.5546875

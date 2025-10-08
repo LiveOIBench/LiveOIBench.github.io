@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+mosaic_seed-oss_0.cpp,MEMORY_LIMIT_EXCEEDED,22,64.86%,0.880,2451.296875,0,5,7,0,10,0,0,0,0
+mosaic_seed-oss_1.cpp,MEMORY_LIMIT_EXCEEDED,22,64.86%,0.950,2448.7421875,0,5,7,0,10,0,0,0,0
+mosaic_seed-oss_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0
+mosaic_seed-oss_3.cpp,RUNTIME_ERROR,7,20.78%,0.090,21.41015625,0,0,0,7,0,0,0,0,0
+mosaic_seed-oss_4.cpp,MEMORY_LIMIT_EXCEEDED,22,64.86%,0.850,2444.9140625,0,5,7,0,10,0,0,0,0
+mosaic_seed-oss_5.cpp,RUNTIME_ERROR,0,9.72%,0.070,14.453125,0,0,0,0,0,0,0,0,0
+mosaic_seed-oss_6.cpp,RUNTIME_ERROR,0,0.00%,0.080,7.0234375,0,0,0,0,0,0,0,0,0
+mosaic_seed-oss_7.cpp,RUNTIME_ERROR,0,0.00%,0.070,16.0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+fire,Llama-4-Scout,RUNTIME_ERROR,0,0.00%,0.020,3.671875
+tiles,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0
+wall,Llama-4-Scout,RUNTIME_ERROR,0,13.25%,0.000,0

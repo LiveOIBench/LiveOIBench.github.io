@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+tura_Qwen3-8B_0.cpp,RUNTIME_ERROR,0,0.00%,0.020,3.46484375,0,0,0
+tura_Qwen3-8B_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+tura_Qwen3-8B_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.610,4.51171875,0,0,0
+tura_Qwen3-8B_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+tura_Qwen3-8B_5.cpp,RUNTIME_ERROR,0,0.00%,0.020,0.00390625,0,0,0
+tura_Qwen3-8B_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+tura_Qwen3-8B_7.cpp,RUNTIME_ERROR,0,0.00%,0.020,0.00390625,0,0,0

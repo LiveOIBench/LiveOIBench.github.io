@@ -1,0 +1,6 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+blistavost_gpt-oss-20b-high_1.cpp,ACCEPTED,120,100.00%,0.450,2.89453125,20,25,55,20
+blistavost_gpt-oss-20b-high_2.cpp,ACCEPTED,120,100.00%,0.070,2.06640625,20,25,55,20
+blistavost_gpt-oss-20b-high_3.cpp,ACCEPTED,120,100.00%,0.190,2.6328125,20,25,55,20
+blistavost_gpt-oss-20b-high_4.cpp,ACCEPTED,120,100.00%,0.650,2.3515625,20,25,55,20
+blistavost_gpt-oss-20b-high_6.cpp,ACCEPTED,120,100.00%,0.740,2.7578125,20,25,55,20

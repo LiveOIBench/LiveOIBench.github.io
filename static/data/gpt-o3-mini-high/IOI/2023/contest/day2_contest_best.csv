@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+robot,gpt-o3-mini-high,RUNTIME_ERROR,6,7.24%,0.050,8.7265625
+overtaking,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,65,86.26%,2.770,18.3671875
+beechtree,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,9,27.06%,1.660,62.35546875

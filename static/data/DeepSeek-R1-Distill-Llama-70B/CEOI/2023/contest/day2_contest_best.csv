@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+trade,DeepSeek-R1-Distill-Llama-70B,COMPILATION_ERROR,0,0.00%,0.000,0
+incursion,DeepSeek-R1-Distill-Llama-70B,COMPILATION_ERROR,0,0.00%,0.000,0
+avoid,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,0.74%,0.040,1.48046875

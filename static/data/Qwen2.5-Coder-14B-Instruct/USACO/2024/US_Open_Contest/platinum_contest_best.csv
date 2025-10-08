@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Identity_Theft,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,0.00%,0.140,53.359375
+platinum_Splitting_Haybales,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,0.00%,0.190,4.39453125
+platinum_Activating_Robots,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

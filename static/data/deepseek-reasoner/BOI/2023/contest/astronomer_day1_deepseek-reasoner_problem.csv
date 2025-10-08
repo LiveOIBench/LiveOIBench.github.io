@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+astronomer_deepseek-reasoner_0.cpp,RUNTIME_ERROR,8,28.66%,2.140,0.00390625,0,8,0,0,0,0,0,0
+astronomer_deepseek-reasoner_1.cpp,RUNTIME_ERROR,8,28.66%,1.870,5.16796875,0,8,0,0,0,0,0,0
+astronomer_deepseek-reasoner_2.cpp,TIME_LIMIT_EXCEEDED,0,25.62%,5.520,7.1953125,0,0,0,0,0,0,0,0
+astronomer_deepseek-reasoner_3.cpp,RUNTIME_ERROR,8,28.66%,0.130,0.00390625,0,8,0,0,0,0,0,0
+astronomer_deepseek-reasoner_4.cpp,RUNTIME_ERROR,8,26.25%,0.160,0.00390625,0,8,0,0,0,0,0,0
+astronomer_deepseek-reasoner_5.cpp,RUNTIME_ERROR,0,2.74%,0.010,0.00390625,0,0,0,0,0,0,0,0
+astronomer_deepseek-reasoner_6.cpp,RUNTIME_ERROR,8,28.66%,1.810,0.00390625,0,8,0,0,0,0,0,0
+astronomer_deepseek-reasoner_7.cpp,RUNTIME_ERROR,8,28.66%,1.850,0.00390625,0,8,0,0,0,0,0,0

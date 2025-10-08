@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bovine_Acrobatics,seed-oss_0,RUNTIME_ERROR,89,23.53%,0.080,4.90625
+silver_Cycle_Correspondence,seed-oss_0,RUNTIME_ERROR,28,6.67%,0.170,32.421875
+silver_Target_Practice,seed-oss_0,WRONG_ANSWER,28,20.00%,0.220,41.421875

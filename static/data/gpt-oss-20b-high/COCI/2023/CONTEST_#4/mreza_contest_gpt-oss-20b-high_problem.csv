@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+mreza_gpt-oss-20b-high_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+mreza_gpt-oss-20b-high_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+mreza_gpt-oss-20b-high_3.cpp,ACCEPTED,110,100.00%,1.140,43.5703125,21,29,60
+mreza_gpt-oss-20b-high_4.cpp,ACCEPTED,110,100.00%,0.520,44.6015625,21,29,60
+mreza_gpt-oss-20b-high_5.cpp,ACCEPTED,110,100.00%,1.040,32.7890625,21,29,60
+mreza_gpt-oss-20b-high_6.cpp,ACCEPTED,110,100.00%,0.480,57.4921875,21,29,60
+mreza_gpt-oss-20b-high_7.cpp,ACCEPTED,110,100.00%,0.500,58.51953125,21,29,60

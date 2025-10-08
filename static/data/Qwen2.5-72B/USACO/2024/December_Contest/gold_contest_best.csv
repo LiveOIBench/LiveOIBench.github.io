@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Cowdependence,Qwen2.5-72B,TIME_LIMIT_EXCEEDED,35,15.00%,2.240,4.91015625
+gold_Interstellar_Intervals,Qwen2.5-72B,RUNTIME_ERROR,0,0.00%,0.120,6.59375
+gold_Job_Completion,Qwen2.5-72B,WRONG_ANSWER,0,0.00%,0.230,4.578125

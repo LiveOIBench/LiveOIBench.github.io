@@ -1,0 +1,6 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+7krokods,gpt-oss-120b-medium,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0
+zrinka,gpt-oss-120b-medium,ACCEPTED,70,100.00%,100.00%,0.090,1.55859375
+bojanje,gpt-oss-120b-medium,ACCEPTED,110,100.00%,100.00%,0.020,0.00390625
+mreza,gpt-oss-120b-medium,ACCEPTED,110,100.00%,100.00%,0.760,46.765625
+vrsta,gpt-oss-120b-medium,ACCEPTED,110,100.00%,100.00%,0.110,7.484375

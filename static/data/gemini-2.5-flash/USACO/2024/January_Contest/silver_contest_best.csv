@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cowmpetency,gemini-2.5-flash,WRONG_ANSWER,0,8.33%,0.110,8.34375
+silver_Potion_Farming,gemini-2.5-flash,ACCEPTED,333,100.00%,0.080,13.73046875
+silver_Cowlendar,gemini-2.5-flash,ACCEPTED,333,100.00%,0.050,3.359375

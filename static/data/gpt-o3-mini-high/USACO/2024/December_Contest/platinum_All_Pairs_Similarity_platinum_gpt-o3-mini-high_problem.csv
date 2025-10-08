@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_All_Pairs_Similarity_gpt-o3-mini-high_0.cpp,TIME_LIMIT_EXCEEDED,48,20.00%,2.220,40.62890625,0,23.809523809523807,0,0,0,0,0,23.809523809523807,0,0,0,0,0,0,0
+platinum_All_Pairs_Similarity_gpt-o3-mini-high_1.cpp,TIME_LIMIT_EXCEEDED,0,6.67%,2.230,108.08984375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_All_Pairs_Similarity_gpt-o3-mini-high_2.cpp,TIME_LIMIT_EXCEEDED,48,20.00%,2.240,38.09765625,0,23.809523809523807,0,0,0,0,0,23.809523809523807,0,0,0,0,0,0,0
+platinum_All_Pairs_Similarity_gpt-o3-mini-high_3.cpp,WRONG_ANSWER,0,0.00%,1.290,335.3515625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_All_Pairs_Similarity_gpt-o3-mini-high_4.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.750,550.1796875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_All_Pairs_Similarity_gpt-o3-mini-high_5.cpp,TIME_LIMIT_EXCEEDED,48,20.00%,2.280,42.546875,0,23.809523809523807,0,0,0,0,0,23.809523809523807,0,0,0,0,0,0,0
+platinum_All_Pairs_Similarity_gpt-o3-mini-high_6.cpp,TIME_LIMIT_EXCEEDED,48,20.00%,2.220,30.9453125,0,23.809523809523807,0,0,0,0,0,23.809523809523807,0,0,0,0,0,0,0
+platinum_All_Pairs_Similarity_gpt-o3-mini-high_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.230,19.3203125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

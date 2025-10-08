@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+2025-ho-t1_Grid_Coloring_deepseek-reasoner_0.cpp,RUNTIME_ERROR,0,3.41%,0.590,121.96875,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_deepseek-reasoner_1.cpp,TIME_LIMIT_EXCEEDED,0,15.46%,2.210,19.1875,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_deepseek-reasoner_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.220,24.13671875,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_deepseek-reasoner_3.cpp,TIME_LIMIT_EXCEEDED,0,15.46%,2.220,25.5390625,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_deepseek-reasoner_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_deepseek-reasoner_5.cpp,RUNTIME_ERROR,0,18.37%,0.210,21.484375,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_deepseek-reasoner_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.130,27.84765625,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_deepseek-reasoner_7.cpp,RUNTIME_ERROR,0,30.56%,0.160,20.734375,0,0,0,0,0

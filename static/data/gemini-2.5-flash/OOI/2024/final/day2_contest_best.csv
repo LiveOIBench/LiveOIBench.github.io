@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Card_Flip,gemini-2.5-flash,RUNTIME_ERROR,0,24.55%,0.230,18.828125
+Order_Statistics,gemini-2.5-flash,UNKNOWN,0,0.00%,0.000,0
+Best_Runner,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,39,32.26%,1.120,9.421875
+Strong_Connectivity_Strikes_Back,gemini-2.5-flash,ACCEPTED,100,100.00%,0.040,1.91796875

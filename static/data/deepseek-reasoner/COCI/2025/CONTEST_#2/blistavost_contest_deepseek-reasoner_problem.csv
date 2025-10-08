@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+blistavost_deepseek-reasoner_0.cpp,RUNTIME_ERROR,55,40.98%,0.660,1.87109375,0,0,55,0
+blistavost_deepseek-reasoner_1.cpp,RUNTIME_ERROR,0,0.00%,0.030,1.55078125,0,0,0,0
+blistavost_deepseek-reasoner_2.cpp,RUNTIME_ERROR,0,13.11%,0.030,1.6953125,0,0,0,0
+blistavost_deepseek-reasoner_3.cpp,RUNTIME_ERROR,0,9.84%,0.030,1.546875,0,0,0,0
+blistavost_deepseek-reasoner_4.cpp,RUNTIME_ERROR,55,52.46%,0.040,1.91015625,0,0,55,0
+blistavost_deepseek-reasoner_5.cpp,RUNTIME_ERROR,0,8.20%,0.030,2.14453125,0,0,0,0
+blistavost_deepseek-reasoner_6.cpp,RUNTIME_ERROR,55,52.46%,0.040,1.91015625,0,0,55,0
+blistavost_deepseek-reasoner_7.cpp,RUNTIME_ERROR,0,1.64%,0.030,1.546875,0,0,0,0

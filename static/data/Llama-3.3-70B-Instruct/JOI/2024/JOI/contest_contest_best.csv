@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+2024-ho-t1_Room_Temperature,Llama-3.3-70B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+2024-ho-t2_Construction_Project_2,Llama-3.3-70B-Instruct,RUNTIME_ERROR,8,15.00%,0.140,7.80859375
+2024-ho-t3_Marathon_Race_2,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,0.00%,0.000,0
+2024-ho-t4_Gift_Exchange,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,7.94%,0.110,0
+2024-ho-t5_Road_Service_2,Llama-3.3-70B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+mostovi_Qwen3-8B_0.cpp,TIME_LIMIT_EXCEEDED,0,0.37%,3.610,8.0,0,0,0,0,0
+mostovi_Qwen3-8B_1.cpp,TIME_LIMIT_EXCEEDED,30,56.78%,3.610,8.00390625,13,17,0,0,0
+mostovi_Qwen3-8B_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.600,10.578125,0,0,0,0,0
+mostovi_Qwen3-8B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+mostovi_Qwen3-8B_4.cpp,TIME_LIMIT_EXCEEDED,30,56.78%,3.610,7.97265625,13,17,0,0,0
+mostovi_Qwen3-8B_5.cpp,TIME_LIMIT_EXCEEDED,30,56.78%,3.600,8.0,13,17,0,0,0
+mostovi_Qwen3-8B_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+mostovi_Qwen3-8B_7.cpp,RUNTIME_ERROR,0,0.00%,0.050,6.96875,0,0,0,0,0

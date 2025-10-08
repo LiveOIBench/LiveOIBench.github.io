@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+covid,gpt-oss-20b-high,RUNTIME_ERROR,10,66.67%,0.030,1.54296875
+battle,gpt-oss-20b-high,RUNTIME_ERROR,36,62.33%,0.120,13.00390625
+editor,gpt-oss-20b-high,RUNTIME_ERROR,5,62.11%,0.760,237.54296875

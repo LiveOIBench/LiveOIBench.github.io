@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Moo_Decomposition,Mistral-Large-Instruct-2411,MEMORY_LIMIT_EXCEEDED,0,4.00%,0.230,257.24609375
+gold_Election_Queries,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,0,6.67%,3.320,2.2890625
+gold_OohMoo_Milk,Mistral-Large-Instruct-2411,RUNTIME_ERROR,39,10.00%,0.120,2.07421875

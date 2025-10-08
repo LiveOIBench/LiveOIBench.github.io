@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+2023-ho-t5_Modern_Machine_Qwen2.5-Coder-14B-Instruct_0.cpp,RUNTIME_ERROR,0,7.25%,0.260,2.5859375,0,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_Qwen2.5-Coder-14B-Instruct_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_Qwen2.5-Coder-14B-Instruct_2.cpp,RUNTIME_ERROR,0,7.25%,0.140,3.1015625,0,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_Qwen2.5-Coder-14B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.760,2.5859375,0,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_Qwen2.5-Coder-14B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,14.86%,2.810,1.75390625,0,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_Qwen2.5-Coder-14B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,3,45.36%,2.790,2.5859375,3,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_Qwen2.5-Coder-14B-Instruct_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_Qwen2.5-Coder-14B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,3,45.36%,2.820,1.8125,3,0,0,0,0,0,0

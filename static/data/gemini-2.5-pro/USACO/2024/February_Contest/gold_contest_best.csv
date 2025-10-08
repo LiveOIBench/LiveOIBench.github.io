@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Bessla_Motors,gemini-2.5-pro,ACCEPTED,333,100.00%,0.430,25.9765625
+gold_Milk_Exchange,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,83,34.78%,2.360,14.70703125
+gold_Quantum_Moochanics,gemini-2.5-pro,ACCEPTED,333,100.00%,0.200,8.90234375

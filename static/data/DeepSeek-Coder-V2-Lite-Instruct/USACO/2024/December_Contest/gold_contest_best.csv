@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Cowdependence,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,35,15.00%,2.340,4.0546875
+gold_Interstellar_Intervals,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,0.00%,0.120,5.66796875
+gold_Job_Completion,DeepSeek-Coder-V2-Lite-Instruct,WRONG_ANSWER,0,6.25%,0.360,4.5625

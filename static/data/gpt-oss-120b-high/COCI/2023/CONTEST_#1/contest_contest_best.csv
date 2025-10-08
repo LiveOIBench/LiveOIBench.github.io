@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+desniklik,gpt-oss-120b-high,ACCEPTED,50,100.00%,0.000,0
+cokolade,gpt-oss-120b-high,ACCEPTED,70,100.00%,0.080,2.84765625
+berilij,gpt-oss-120b-high,RUNTIME_ERROR,0,20.45%,0.140,12.4453125
+iksevi,gpt-oss-120b-high,ACCEPTED,110,100.00%,0.340,43.015625
+neboderi,gpt-oss-120b-high,ACCEPTED,110,100.00%,0.160,12.90234375

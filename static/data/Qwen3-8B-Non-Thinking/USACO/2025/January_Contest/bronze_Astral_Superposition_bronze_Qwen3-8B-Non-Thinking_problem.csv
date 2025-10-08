@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Astral_Superposition_Qwen3-8B-Non-Thinking_0.cpp,TIME_LIMIT_EXCEEDED,0,8.33%,4.600,6.44921875,0,0,0,0,0,0,0,0,0,0,0
+bronze_Astral_Superposition_Qwen3-8B-Non-Thinking_1.cpp,RUNTIME_ERROR,0,0.00%,1.630,45.96484375,0,0,0,0,0,0,0,0,0,0,0
+bronze_Astral_Superposition_Qwen3-8B-Non-Thinking_2.cpp,RUNTIME_ERROR,0,0.00%,1.440,45.953125,0,0,0,0,0,0,0,0,0,0,0
+bronze_Astral_Superposition_Qwen3-8B-Non-Thinking_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Astral_Superposition_Qwen3-8B-Non-Thinking_4.cpp,RUNTIME_ERROR,0,0.00%,2.080,66.32421875,0,0,0,0,0,0,0,0,0,0,0
+bronze_Astral_Superposition_Qwen3-8B-Non-Thinking_5.cpp,WRONG_ANSWER,33,16.67%,0.800,24.3515625,0,33.33333333333333,0,0,0,0,0,0,0,0,0
+bronze_Astral_Superposition_Qwen3-8B-Non-Thinking_6.cpp,RUNTIME_ERROR,0,0.00%,0.180,2.92578125,0,0,0,0,0,0,0,0,0,0,0
+bronze_Astral_Superposition_Qwen3-8B-Non-Thinking_7.cpp,RUNTIME_ERROR,0,0.00%,0.160,2.5859375,0,0,0,0,0,0,0,0,0,0,0

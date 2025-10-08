@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+More_Gifts,Qwen2.5-72B,RUNTIME_ERROR,0,5.61%,0.080,0
+Big_Persimmon,Qwen2.5-72B,RUNTIME_ERROR,12,17.74%,0.080,0
+Evidence_Board,Qwen2.5-72B,UNKNOWN,0,0.00%,0.000,0
+Draw_Polygon_Lines,Qwen2.5-72B,MEMORY_LIMIT_EXCEEDED,18,14.74%,0.910,562.17578125

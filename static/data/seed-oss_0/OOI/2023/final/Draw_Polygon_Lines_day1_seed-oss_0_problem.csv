@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_21,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Draw_Polygon_Lines_seed-oss_0.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Draw_Polygon_Lines_seed-oss_1.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Draw_Polygon_Lines_seed-oss_2.cpp,MEMORY_LIMIT_EXCEEDED,4,2.63%,0.780,613.28125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.0,0
+Draw_Polygon_Lines_seed-oss_3.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Draw_Polygon_Lines_seed-oss_4.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Draw_Polygon_Lines_seed-oss_5.cpp,RUNTIME_ERROR,20,46.47%,0.420,8.76953125,0,0,0,0,0,0,0,0,6.0,3.0,3.0,3.0,0,3.0,2.0,0,0,0,0,0,0,0
+Draw_Polygon_Lines_seed-oss_6.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Draw_Polygon_Lines_seed-oss_7.cpp,TIME_LIMIT_EXCEEDED,34,51.45%,2.410,3.609375,0,0,4.0,3.0,3.0,3.0,3.0,0,0,3.0,0,0,0,0,0,0,0,0,0,7.0,4.0,4.0

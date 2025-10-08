@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Smaller_Averages_deepseek-chat_0.cpp,RUNTIME_ERROR,0,5.00%,0.130,2.33203125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Smaller_Averages_deepseek-chat_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,2.33203125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Smaller_Averages_deepseek-chat_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,2.33203125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Smaller_Averages_deepseek-chat_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.220,2.33203125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Smaller_Averages_deepseek-chat_4.cpp,TIME_LIMIT_EXCEEDED,104,45.00%,2.230,280.765625,0,20.833333333333332,0,0,0,0,0,0,0,20.833333333333332,20.833333333333332,20.833333333333332,20.833333333333332,0,0,0,0
+gold_Smaller_Averages_deepseek-chat_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.220,2.33203125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Smaller_Averages_deepseek-chat_6.cpp,TIME_LIMIT_EXCEEDED,104,45.00%,2.240,280.765625,0,20.833333333333332,0,0,0,0,0,0,0,20.833333333333332,20.833333333333332,20.833333333333332,20.833333333333332,0,0,0,0
+gold_Smaller_Averages_deepseek-chat_7.cpp,TIME_LIMIT_EXCEEDED,104,45.00%,2.230,2.33203125,0,20.833333333333332,0,0,0,0,0,0,0,20.833333333333332,20.833333333333332,20.833333333333332,20.833333333333332,0,0,0,0

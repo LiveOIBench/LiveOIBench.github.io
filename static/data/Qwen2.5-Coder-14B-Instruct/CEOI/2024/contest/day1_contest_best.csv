@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+covid,Qwen2.5-Coder-14B-Instruct,TIME_LIMIT_EXCEEDED,10,66.67%,7.020,1.5390625
+battle,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,12.50%,0.330,33.6953125
+editor,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,12.90%,0.270,8.00390625

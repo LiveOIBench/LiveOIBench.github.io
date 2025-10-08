@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+astronomer,gpt-oss-120b-medium,RUNTIME_ERROR,8,8.00%,28.66%,1.740,5.1640625
+staringcontest,gpt-oss-120b-medium,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,0.010,1.484375
+tycho,gpt-oss-120b-medium,TIME_LIMIT_EXCEEDED,0,0.00%,68.87%,2.410,32.75

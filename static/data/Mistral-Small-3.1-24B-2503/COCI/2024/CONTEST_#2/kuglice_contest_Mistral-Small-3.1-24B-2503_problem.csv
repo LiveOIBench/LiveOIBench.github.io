@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+kuglice_Mistral-Small-3.1-24B-2503_0.cpp,RUNTIME_ERROR,0,1.35%,0.000,0,0,0,0,0,0
+kuglice_Mistral-Small-3.1-24B-2503_1.cpp,RUNTIME_ERROR,0,5.41%,0.000,0,0,0,0,0,0
+kuglice_Mistral-Small-3.1-24B-2503_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+kuglice_Mistral-Small-3.1-24B-2503_3.cpp,RUNTIME_ERROR,0,4.05%,0.000,0,0,0,0,0,0
+kuglice_Mistral-Small-3.1-24B-2503_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+kuglice_Mistral-Small-3.1-24B-2503_5.cpp,RUNTIME_ERROR,0,1.35%,0.000,0,0,0,0,0,0
+kuglice_Mistral-Small-3.1-24B-2503_6.cpp,RUNTIME_ERROR,0,5.41%,0.000,0,0,0,0,0,0
+kuglice_Mistral-Small-3.1-24B-2503_7.cpp,TIME_LIMIT_EXCEEDED,0,1.35%,0.690,0.00390625,0,0,0,0,0

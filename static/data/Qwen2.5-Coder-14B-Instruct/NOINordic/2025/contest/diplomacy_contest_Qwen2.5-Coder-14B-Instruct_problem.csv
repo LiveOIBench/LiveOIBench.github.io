@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+diplomacy_Qwen2.5-Coder-14B-Instruct_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+diplomacy_Qwen2.5-Coder-14B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.490,5.046875,0,0,0,0,0,0,0
+diplomacy_Qwen2.5-Coder-14B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.430,2.06640625,0,0,0,0,0,0,0
+diplomacy_Qwen2.5-Coder-14B-Instruct_3.cpp,RUNTIME_ERROR,0,0.00%,0.320,8.3046875,0,0,0,0,0,0,0
+diplomacy_Qwen2.5-Coder-14B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.420,4.63671875,0,0,0,0,0,0,0
+diplomacy_Qwen2.5-Coder-14B-Instruct_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+diplomacy_Qwen2.5-Coder-14B-Instruct_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+diplomacy_Qwen2.5-Coder-14B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.440,7.83984375,0,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+fire,deepseek-reasoner,TIME_LIMIT_EXCEEDED,40,84.44%,1.120,17.3046875
+tiles,deepseek-reasoner,RUNTIME_ERROR,4,17.83%,0.040,4.34765625
+wall,deepseek-reasoner,COMPILATION_ERROR,0,0.00%,0.000,0

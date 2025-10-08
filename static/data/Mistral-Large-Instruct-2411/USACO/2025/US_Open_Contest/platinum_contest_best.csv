@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Forklift_Certified,Mistral-Large-Instruct-2411,RUNTIME_ERROR,0,0.00%,0.310,8.73046875
+platinum_Lazy_Sort,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Package_Pickup,Mistral-Large-Instruct-2411,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.240,130.44140625

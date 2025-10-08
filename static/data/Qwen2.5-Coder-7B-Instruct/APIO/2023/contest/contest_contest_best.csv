@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+sequence,Qwen2.5-Coder-7B-Instruct,TIME_LIMIT_EXCEEDED,11,44.92%,1.800,5.9453125
+abc,Qwen2.5-Coder-7B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+cyberland,Qwen2.5-Coder-7B-Instruct,TIME_LIMIT_EXCEEDED,0,1.22%,3.010,479.04296875

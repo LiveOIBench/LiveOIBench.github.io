@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_All_Pairs_Similarity,deepseek-reasoner,TIME_LIMIT_EXCEEDED,48,20.00%,2.220,41.78515625
+platinum_Its_Mooin_Time,deepseek-reasoner,TIME_LIMIT_EXCEEDED,48,33.33%,3.320,13.0078125
+platinum_Maximize_Minimum_Difference,deepseek-reasoner,RUNTIME_ERROR,0,5.00%,0.040,1.6640625

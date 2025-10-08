@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Bessla_Motors_seed-oss_0.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessla_Motors_seed-oss_1.cpp,WRONG_ANSWER,0,20.00%,0.310,23.28125,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessla_Motors_seed-oss_2.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessla_Motors_seed-oss_3.cpp,WRONG_ANSWER,0,20.00%,0.270,18.7734375,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessla_Motors_seed-oss_4.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessla_Motors_seed-oss_5.cpp,RUNTIME_ERROR,0,0.00%,0.240,17.74609375,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessla_Motors_seed-oss_6.cpp,WRONG_ANSWER,0,20.00%,0.300,21.5390625,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessla_Motors_seed-oss_7.cpp,WRONG_ANSWER,0,13.33%,0.080,9.0859375,0,0,0,0,0,0,0,0,0,0,0,0,0

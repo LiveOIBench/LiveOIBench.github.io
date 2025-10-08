@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+pahuljice,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,0,3.70%,0.000,0
+pingvin,Qwen3-30B-Non-Thinking,ACCEPTED,70,100.00%,0.070,3.09765625
+dizalo,Qwen3-30B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+kuglice,Qwen3-30B-Non-Thinking,MEMORY_LIMIT_EXCEEDED,0,8.11%,0.380,562.296875
+zatopljenje,Qwen3-30B-Non-Thinking,MEMORY_LIMIT_EXCEEDED,10,35.00%,0.980,562.23828125

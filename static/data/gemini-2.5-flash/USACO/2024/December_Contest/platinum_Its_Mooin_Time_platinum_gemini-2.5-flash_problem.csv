@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Its_Mooin_Time_gemini-2.5-flash_0.cpp,TIME_LIMIT_EXCEEDED,24,16.67%,3.320,15.515625,0,0,0,0,0,0,0,23.809523809523807,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_gemini-2.5-flash_1.cpp,TIME_LIMIT_EXCEEDED,48,33.33%,3.340,14.2265625,0,23.809523809523807,0,0,0,0,0,23.809523809523807,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_gemini-2.5-flash_2.cpp,TIME_LIMIT_EXCEEDED,0,5.56%,3.330,14.2265625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_gemini-2.5-flash_3.cpp,TIME_LIMIT_EXCEEDED,48,33.33%,3.320,17.83984375,0,23.809523809523807,0,0,0,0,0,23.809523809523807,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_gemini-2.5-flash_4.cpp,TIME_LIMIT_EXCEEDED,48,33.33%,3.340,15.515625,0,23.809523809523807,0,0,0,0,0,23.809523809523807,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_gemini-2.5-flash_5.cpp,TIME_LIMIT_EXCEEDED,24,16.67%,3.340,251.42578125,0,0,0,0,0,0,0,23.809523809523807,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_gemini-2.5-flash_6.cpp,TIME_LIMIT_EXCEEDED,48,33.33%,3.330,15.515625,0,23.809523809523807,0,0,0,0,0,23.809523809523807,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_gemini-2.5-flash_7.cpp,TIME_LIMIT_EXCEEDED,24,27.78%,3.330,17.84375,0,23.809523809523807,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,10 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+Paired_roads,gpt-oss-120b-medium,RUNTIME_ERROR,0,0.00%,13.60%,0.110,38.0546875
+Legs_warm-up_exercise,gpt-oss-120b-medium,TIME_LIMIT_EXCEEDED,18,18.00%,52.37%,7.200,14.08203125
+Hard_problem,gpt-oss-120b-medium,ACCEPTED,100,100.00%,100.00%,0.080,2.7890625
+Yet_another_queries,gpt-oss-120b-medium,ACCEPTED,100,100.00%,100.00%,1.140,77.45703125
+Lunch,gpt-oss-120b-medium,RUNTIME_ERROR,16,16.00%,46.15%,0.030,0
+Tournament,gpt-oss-120b-medium,ACCEPTED,100,100.00%,100.00%,0.000,0
+You_need_to_train_more,gpt-oss-120b-medium,ACCEPTED,100,100.00%,100.00%,0.060,3.39453125
+Colorful_graph,gpt-oss-120b-medium,ACCEPTED,100,100.00%,100.00%,0.070,3.359375
+Space_accident,gpt-oss-120b-medium,RUNTIME_ERROR,49,49.00%,74.23%,0.050,2.07421875

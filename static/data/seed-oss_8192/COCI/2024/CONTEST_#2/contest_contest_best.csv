@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+pahuljice,seed-oss_8192,ACCEPTED,50,100.00%,0.000,0
+pingvin,seed-oss_8192,ACCEPTED,70,100.00%,0.040,3.53125
+dizalo,seed-oss_8192,RUNTIME_ERROR,0,0.00%,0.020,2.58984375
+kuglice,seed-oss_8192,ACCEPTED,110,100.00%,0.040,28.4296875
+zatopljenje,seed-oss_8192,ACCEPTED,110,100.00%,0.670,124.53125

@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+opening_offices_seed-oss_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+opening_offices_seed-oss_1.cpp,RUNTIME_ERROR,0,0.00%,0.150,67.29296875,0,0,0,0,0,0,0,0,0,0,0
+opening_offices_seed-oss_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+opening_offices_seed-oss_3.cpp,RUNTIME_ERROR,0,3.28%,0.240,138.96484375,0,0,0,0,0,0,0,0,0,0,0
+opening_offices_seed-oss_5.cpp,RUNTIME_ERROR,0,0.00%,0.120,62.39453125,0,0,0,0,0,0,0,0,0,0,0
+opening_offices_seed-oss_6.cpp,RUNTIME_ERROR,0,4.92%,0.110,54.40625,0,0,0,0,0,0,0,0,0,0,0
+opening_offices_seed-oss_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.800,2390.546875,0,0,0,0,0,0,0,0,0,0,0

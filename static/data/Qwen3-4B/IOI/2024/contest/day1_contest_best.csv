@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+message,Qwen3-4B,RUNTIME_ERROR,0,6.67%,0.120,3.9921875
+nile,Qwen3-4B,TIME_LIMIT_EXCEEDED,23,43.48%,2.410,7.9921875
+tree,Qwen3-4B,TIME_LIMIT_EXCEEDED,0,2.67%,2.410,24.44921875

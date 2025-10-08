@@ -1,0 +1,4 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+2024-ho-t4_Gift_Exchange_gpt-oss-20b-high_1.cpp,RUNTIME_ERROR,0,36.14%,0.000,0,0,0,0,0,0,0,0,0
+2024-ho-t4_Gift_Exchange_gpt-oss-20b-high_2.cpp,TIME_LIMIT_EXCEEDED,50,79.30%,2.990,4.82421875,4,5,10,31,0,0,0,0
+2024-ho-t4_Gift_Exchange_gpt-oss-20b-high_3.cpp,TIME_LIMIT_EXCEEDED,50,79.30%,2.980,5.4609375,4,5,10,31,0,0,0,0

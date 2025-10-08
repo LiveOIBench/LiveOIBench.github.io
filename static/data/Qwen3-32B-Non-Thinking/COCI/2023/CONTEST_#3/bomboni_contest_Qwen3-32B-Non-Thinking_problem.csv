@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+bomboni_Qwen3-32B-Non-Thinking_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+bomboni_Qwen3-32B-Non-Thinking_1.cpp,RUNTIME_ERROR,0,0.00%,0.120,30.94140625,0,0,0,0
+bomboni_Qwen3-32B-Non-Thinking_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+bomboni_Qwen3-32B-Non-Thinking_3.cpp,RUNTIME_ERROR,0,0.00%,0.180,15.73046875,0,0,0,0
+bomboni_Qwen3-32B-Non-Thinking_4.cpp,MEMORY_LIMIT_EXCEEDED,0,2.00%,1.580,562.3046875,0,0,0,0
+bomboni_Qwen3-32B-Non-Thinking_5.cpp,ACCEPTED,110,100.00%,0.520,192.953125,13,17,33,47
+bomboni_Qwen3-32B-Non-Thinking_6.cpp,RUNTIME_ERROR,0,0.00%,0.080,27.8515625,0,0,0,0
+bomboni_Qwen3-32B-Non-Thinking_7.cpp,MEMORY_LIMIT_EXCEEDED,63,60.00%,0.300,543.734375,13,17,33,0

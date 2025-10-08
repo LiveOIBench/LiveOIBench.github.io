@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+berilij_Llama-3.3-70B-Instruct_0.cpp,RUNTIME_ERROR,0,2.27%,0.150,11.91796875,0,0,0,0
+berilij_Llama-3.3-70B-Instruct_1.cpp,RUNTIME_ERROR,0,2.27%,0.230,9.03125,0,0,0,0
+berilij_Llama-3.3-70B-Instruct_2.cpp,RUNTIME_ERROR,0,0.00%,0.150,11.08984375,0,0,0,0
+berilij_Llama-3.3-70B-Instruct_3.cpp,RUNTIME_ERROR,0,2.27%,0.150,8.2578125,0,0,0,0
+berilij_Llama-3.3-70B-Instruct_4.cpp,RUNTIME_ERROR,0,2.27%,0.150,9.20703125,0,0,0,0
+berilij_Llama-3.3-70B-Instruct_5.cpp,RUNTIME_ERROR,0,0.00%,0.150,9.30859375,0,0,0,0
+berilij_Llama-3.3-70B-Instruct_6.cpp,RUNTIME_ERROR,0,2.27%,0.140,10.0625,0,0,0,0
+berilij_Llama-3.3-70B-Instruct_7.cpp,RUNTIME_ERROR,0,2.27%,0.120,10.828125,0,0,0,0

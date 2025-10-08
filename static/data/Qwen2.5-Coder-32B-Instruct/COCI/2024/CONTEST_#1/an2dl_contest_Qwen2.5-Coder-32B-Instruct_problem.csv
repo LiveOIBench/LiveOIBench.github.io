@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+an2dl_Qwen2.5-Coder-32B-Instruct_0.cpp,RUNTIME_ERROR,12,20.83%,0.400,48.22265625,12,0,0,0
+an2dl_Qwen2.5-Coder-32B-Instruct_1.cpp,ACCEPTED,110,100.00%,1.100,99.0078125,12,17,25,56
+an2dl_Qwen2.5-Coder-32B-Instruct_2.cpp,RUNTIME_ERROR,12,20.83%,0.380,48.22265625,12,0,0,0
+an2dl_Qwen2.5-Coder-32B-Instruct_3.cpp,RUNTIME_ERROR,12,20.83%,0.400,48.22265625,12,0,0,0
+an2dl_Qwen2.5-Coder-32B-Instruct_4.cpp,ACCEPTED,110,100.00%,1.140,99.0078125,12,17,25,56
+an2dl_Qwen2.5-Coder-32B-Instruct_5.cpp,ACCEPTED,110,100.00%,1.150,99.0078125,12,17,25,56
+an2dl_Qwen2.5-Coder-32B-Instruct_6.cpp,RUNTIME_ERROR,12,20.83%,0.420,48.22265625,12,0,0,0
+an2dl_Qwen2.5-Coder-32B-Instruct_7.cpp,ACCEPTED,110,100.00%,1.120,99.0078125,12,17,25,56

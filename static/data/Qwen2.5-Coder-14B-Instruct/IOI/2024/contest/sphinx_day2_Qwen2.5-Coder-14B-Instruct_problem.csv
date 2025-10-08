@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+sphinx_Qwen2.5-Coder-14B-Instruct_0.cpp,RUNTIME_ERROR,0,3.26%,0.050,3.828125,0,0,0.0,0,0,0.0
+sphinx_Qwen2.5-Coder-14B-Instruct_2.cpp,RUNTIME_ERROR,0,3.26%,0.050,3.74609375,0,0.0,0.0,0.0,0.0,0.0
+sphinx_Qwen2.5-Coder-14B-Instruct_3.cpp,RUNTIME_ERROR,0,3.26%,0.050,3.828125,0,0.0,0.0,0.0,0.0,0.0
+sphinx_Qwen2.5-Coder-14B-Instruct_4.cpp,RUNTIME_ERROR,0,3.26%,0.050,3.90234375,0,0,0.0,0,0,0.0
+sphinx_Qwen2.5-Coder-14B-Instruct_5.cpp,RUNTIME_ERROR,3,12.50%,0.330,4.16796875,0,3,0,0.0,0.0,0.0
+sphinx_Qwen2.5-Coder-14B-Instruct_6.cpp,RUNTIME_ERROR,3,12.50%,0.380,4.4296875,0,3,0,0.0,0.0,0.0
+sphinx_Qwen2.5-Coder-14B-Instruct_7.cpp,RUNTIME_ERROR,3,12.50%,0.400,4.1328125,0,3,0,0.0,0.0,0.0

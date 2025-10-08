@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+mreza_gemini-2.5-pro_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,5.530,42.27734375,0,0,0
+mreza_gemini-2.5-pro_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+mreza_gemini-2.5-pro_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,5.510,70.88671875,0,0,0
+mreza_gemini-2.5-pro_3.cpp,TIME_LIMIT_EXCEEDED,21,47.22%,5.550,30.39453125,21,0,0
+mreza_gemini-2.5-pro_4.cpp,ACCEPTED,110,100.00%,4.500,42.50390625,21,29,60
+mreza_gemini-2.5-pro_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,5.520,37.80859375,0,0,0
+mreza_gemini-2.5-pro_6.cpp,ACCEPTED,110,100.00%,0.580,90.0390625,21,29,60
+mreza_gemini-2.5-pro_7.cpp,RUNTIME_ERROR,0,0.00%,0.320,42.74609375,0,0,0

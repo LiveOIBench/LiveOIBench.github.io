@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+wall_gpt-oss-120b-medium_0.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.010,0,0,0,0,0,0,0
+wall_gpt-oss-120b-medium_1.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0
+wall_gpt-oss-120b-medium_2.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0
+wall_gpt-oss-120b-medium_3.cpp,ACCEPTED,100,100.00%,100.00%,0.500,81.58203125,8,17,19,14,12,30
+wall_gpt-oss-120b-medium_4.cpp,ACCEPTED,100,100.00%,100.00%,0.470,75.91015625,8,17,19,14,12,30
+wall_gpt-oss-120b-medium_5.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0
+wall_gpt-oss-120b-medium_6.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0
+wall_gpt-oss-120b-medium_7.cpp,ACCEPTED,100,100.00%,100.00%,1.400,208.34765625,8,17,19,14,12,30

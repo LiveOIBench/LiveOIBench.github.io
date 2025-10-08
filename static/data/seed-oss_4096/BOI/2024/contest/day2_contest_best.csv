@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+fire,seed-oss_4096,TIME_LIMIT_EXCEEDED,40,84.44%,1.210,4.64453125
+tiles,seed-oss_4096,RUNTIME_ERROR,0,1.33%,0.010,2.84375
+wall,seed-oss_4096,RUNTIME_ERROR,0,0.00%,0.000,0

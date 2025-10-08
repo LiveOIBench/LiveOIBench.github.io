@@ -1,0 +1,4 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Alien_Homophones_gpt-oss-20b-high_2.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+Alien_Homophones_gpt-oss-20b-high_4.cpp,TIME_LIMIT_EXCEEDED,8,72.25%,2.420,3.26171875,0.0,8.0,0,0,0,0,0,0,0,0,0
+Alien_Homophones_gpt-oss-20b-high_6.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0

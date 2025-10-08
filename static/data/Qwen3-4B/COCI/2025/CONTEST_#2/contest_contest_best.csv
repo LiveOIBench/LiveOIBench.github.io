@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+paradoks,Qwen3-4B,COMPILATION_ERROR,0,0.00%,0.000,0
+igre,Qwen3-4B,RUNTIME_ERROR,29,38.78%,0.050,1.55859375
+razlicitost,Qwen3-4B,RUNTIME_ERROR,0,0.00%,0.110,6.61328125
+blistavost,Qwen3-4B,RUNTIME_ERROR,0,8.20%,0.000,0
+trokuti,Qwen3-4B,RUNTIME_ERROR,13,25.96%,0.060,18.0546875

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Card_Flip_gemini-2.5-flash_0.cpp,RUNTIME_ERROR,0,24.55%,0.230,18.828125,0.0,0,0,0,0,0,0,0,0,0
+Card_Flip_gemini-2.5-flash_1.cpp,RUNTIME_ERROR,0,11.76%,0.140,26.3046875,0,0,0,0,0,0,0,0,0,0
+Card_Flip_gemini-2.5-flash_2.cpp,RUNTIME_ERROR,0,22.81%,1.020,71.9375,0.0,0,0,0,0,0,0,0,0,0
+Card_Flip_gemini-2.5-flash_3.cpp,RUNTIME_ERROR,0,11.43%,0.140,11.14453125,0.0,0,0,0,0,0,0,0,0,0
+Card_Flip_gemini-2.5-flash_4.cpp,RUNTIME_ERROR,0,22.81%,0.310,24.3984375,0.0,0,0,0,0,0,0,0,0,0
+Card_Flip_gemini-2.5-flash_5.cpp,RUNTIME_ERROR,0,22.81%,0.110,5.16796875,0.0,0,0,0,0,0,0,0,0,0
+Card_Flip_gemini-2.5-flash_6.cpp,TIME_LIMIT_EXCEEDED,0,10.58%,1.130,110.26953125,0.0,0,0,0,0,0,0,0,0,0
+Card_Flip_gemini-2.5-flash_7.cpp,TIME_LIMIT_EXCEEDED,0,19.47%,1.110,108.28515625,0.0,0,0,0,0,0,0,0,0,0

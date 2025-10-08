@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Identity_Theft,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Splitting_Haybales,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Activating_Robots,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0

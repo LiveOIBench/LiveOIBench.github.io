@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Bessla_Motors,Mistral-Small-3.1-24B-2503,WRONG_ANSWER,83,40.00%,2.410,6.19140625
+gold_Milk_Exchange,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Quantum_Moochanics,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0

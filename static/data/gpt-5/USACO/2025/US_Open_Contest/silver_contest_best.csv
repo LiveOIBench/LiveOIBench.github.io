@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Sequence_Construction,gpt-5,WRONG_ANSWER,59,16.67%,0.110,0.00390625
+silver_Compatible_Pairs,gpt-5,ACCEPTED,333,100.00%,0.160,17.0859375
+silver_Ski_Slope,gpt-5,ACCEPTED,333,100.00%,0.190,11.71484375

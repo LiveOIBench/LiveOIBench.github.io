@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Minimum_Longest_Trip_DeepSeek-Coder-V2-Lite-Instruct_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Minimum_Longest_Trip_DeepSeek-Coder-V2-Lite-Instruct_1.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.440,275.609375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Minimum_Longest_Trip_DeepSeek-Coder-V2-Lite-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.360,34.171875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Minimum_Longest_Trip_DeepSeek-Coder-V2-Lite-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,276.12890625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Minimum_Longest_Trip_DeepSeek-Coder-V2-Lite-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,276.3828125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Minimum_Longest_Trip_DeepSeek-Coder-V2-Lite-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.280,34.40234375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Minimum_Longest_Trip_DeepSeek-Coder-V2-Lite-Instruct_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.490,280.76171875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Minimum_Longest_Trip_DeepSeek-Coder-V2-Lite-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.400,24.4921875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

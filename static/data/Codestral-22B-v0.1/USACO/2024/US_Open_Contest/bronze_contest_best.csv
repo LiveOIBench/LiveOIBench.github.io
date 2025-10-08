@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Logical_Moos,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Walking_Along_a_Fence,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Farmer_Johns_Favorite_Permutation,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0

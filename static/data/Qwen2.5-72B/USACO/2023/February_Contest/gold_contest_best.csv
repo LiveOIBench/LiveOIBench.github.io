@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Equal_Sum_Subarrays,Qwen2.5-72B,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Fertilizing_Pastures,Qwen2.5-72B,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Piling_Papers,Qwen2.5-72B,COMPILATION_ERROR,0,0.00%,0.000,0

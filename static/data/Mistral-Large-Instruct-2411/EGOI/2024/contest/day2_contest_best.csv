@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+circlepassing,Mistral-Large-Instruct-2411,RUNTIME_ERROR,0,2.60%,0.080,0.00390625
+makethemmeet,Mistral-Large-Instruct-2411,RUNTIME_ERROR,0,1.04%,0.010,0
+lightbulbs,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0
+bikeparking,Mistral-Large-Instruct-2411,RUNTIME_ERROR,16,45.10%,0.000,0

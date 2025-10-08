@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Cowreography,DeepSeek-R1-Distill-Llama-70B,WRONG_ANSWER,0,13.04%,0.140,10.5
+gold_Grass_Segments,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,5.00%,0.840,103.37109375
+gold_Smaller_Averages,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,104,45.00%,2.380,248.28125

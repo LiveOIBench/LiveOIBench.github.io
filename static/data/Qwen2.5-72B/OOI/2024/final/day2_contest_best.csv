@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Card_Flip,Qwen2.5-72B,RUNTIME_ERROR,0,14.29%,0.760,52.859375
+Order_Statistics,Qwen2.5-72B,TIME_LIMIT_EXCEEDED,4,47.45%,4.430,12.51953125
+Best_Runner,Qwen2.5-72B,RUNTIME_ERROR,11,4.67%,0.210,3.62109375
+Strong_Connectivity_Strikes_Back,Qwen2.5-72B,RUNTIME_ERROR,86,92.08%,0.110,1.5546875

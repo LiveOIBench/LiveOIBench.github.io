@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Equal_Sum_Subarrays,Qwen3-32B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Fertilizing_Pastures,Qwen3-32B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Piling_Papers,Qwen3-32B-Non-Thinking,MEMORY_LIMIT_EXCEEDED,0,7.69%,0.260,189.8515625

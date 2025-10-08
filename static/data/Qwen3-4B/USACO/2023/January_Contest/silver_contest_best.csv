@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Find_and_Replace,Qwen3-4B,WRONG_ANSWER,0,6.67%,0.020,0.00390625
+silver_Following_Directions,Qwen3-4B,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Moo_Route,Qwen3-4B,RUNTIME_ERROR,56,15.00%,0.030,2.76953125

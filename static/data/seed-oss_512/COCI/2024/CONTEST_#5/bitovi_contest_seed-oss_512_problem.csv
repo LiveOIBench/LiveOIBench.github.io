@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+bitovi_seed-oss_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+bitovi_seed-oss_1.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0
+bitovi_seed-oss_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.210,11.703125,0,0,0,0
+bitovi_seed-oss_3.cpp,RUNTIME_ERROR,0,0.00%,0.020,1.94140625,0,0,0,0
+bitovi_seed-oss_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+bitovi_seed-oss_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.210,2.546875,0,0,0,0
+bitovi_seed-oss_6.cpp,RUNTIME_ERROR,0,0.00%,0.090,4.09765625,0,0,0,0
+bitovi_seed-oss_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+stablo_gpt-5_0.cpp,ACCEPTED,120,100.00%,0.390,56.828125,15,15,45,45
+stablo_gpt-5_1.cpp,ACCEPTED,120,100.00%,1.670,137.87890625,15,15,45,45
+stablo_gpt-5_2.cpp,ACCEPTED,120,100.00%,1.690,133.14453125,15,15,45,45
+stablo_gpt-5_3.cpp,ACCEPTED,120,100.00%,1.660,133.0390625,15,15,45,45
+stablo_gpt-5_4.cpp,ACCEPTED,120,100.00%,1.640,133.140625,15,15,45,45
+stablo_gpt-5_5.cpp,ACCEPTED,120,100.00%,1.660,135.04296875,15,15,45,45
+stablo_gpt-5_6.cpp,ACCEPTED,120,100.00%,1.770,144.83984375,15,15,45,45
+stablo_gpt-5_7.cpp,ACCEPTED,120,100.00%,0.430,56.92578125,15,15,45,45

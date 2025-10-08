@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Astral_Superposition,Qwen3-4B,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Its_Mooin_Time_II,Qwen3-4B,WRONG_ANSWER,0,9.09%,0.120,21.30078125
+bronze_Cow_Checkups,Qwen3-4B,TIME_LIMIT_EXCEEDED,267,84.62%,2.410,216.31640625

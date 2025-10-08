@@ -1,0 +1,8 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+cokolade_gpt-oss-120b-medium_0.cpp,ACCEPTED,70,100.00%,100.00%,0.400,2.91796875,15,20,35
+cokolade_gpt-oss-120b-medium_1.cpp,ACCEPTED,70,100.00%,100.00%,0.080,3.6171875,15,20,35
+cokolade_gpt-oss-120b-medium_2.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.070,2.84765625,0,0,0
+cokolade_gpt-oss-120b-medium_3.cpp,ACCEPTED,70,100.00%,100.00%,0.320,2.84375,15,20,35
+cokolade_gpt-oss-120b-medium_4.cpp,RUNTIME_ERROR,0,0.00%,25.00%,0.070,2.84765625,0,0,0
+cokolade_gpt-oss-120b-medium_5.cpp,ACCEPTED,70,100.00%,100.00%,0.350,2.84375,15,20,35
+cokolade_gpt-oss-120b-medium_7.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.050,2.84765625,0,0,0

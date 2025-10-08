@@ -1,0 +1,10 @@
+problem,model,status,score,%test passed,time,memory
+Colorful_Diameter,Llama-4-Scout,UNKNOWN,0,0.00%,0.000,0
+Road_Lighting,Llama-4-Scout,UNKNOWN,0,0.00%,0.000,0
+Repainting_the_Table,Llama-4-Scout,RUNTIME_ERROR,0,12.75%,0.020,0.00390625
+Distinctive_Features,Llama-4-Scout,TIME_LIMIT_EXCEEDED,17,35.65%,3.610,75.0859375
+Classic_Tree_Problem,Llama-4-Scout,RUNTIME_ERROR,0,0.00%,0.000,0
+Alien_Homophones,Llama-4-Scout,ACCEPTED,100,100.00%,0.270,50.06640625
+Stone_Enthusiast,Llama-4-Scout,RUNTIME_ERROR,0,1.71%,0.040,3.32421875
+Egors_Gaming_Addiction,Llama-4-Scout,TIME_LIMIT_EXCEEDED,0,0.88%,2.410,32.75390625
+Ultrafast_train,Llama-4-Scout,RUNTIME_ERROR,0,6.67%,0.020,0.00390625

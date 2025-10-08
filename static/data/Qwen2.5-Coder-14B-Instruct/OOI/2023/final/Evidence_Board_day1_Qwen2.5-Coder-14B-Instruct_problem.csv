@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Evidence_Board_Qwen2.5-Coder-14B-Instruct_0.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_Qwen2.5-Coder-14B-Instruct_1.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.430,380.94921875,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_Qwen2.5-Coder-14B-Instruct_2.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.830,475.81640625,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_Qwen2.5-Coder-14B-Instruct_3.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.920,380.94140625,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_Qwen2.5-Coder-14B-Instruct_4.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_Qwen2.5-Coder-14B-Instruct_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.860,475.81640625,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_Qwen2.5-Coder-14B-Instruct_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.450,380.94921875,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_Qwen2.5-Coder-14B-Instruct_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.930,380.9375,0,0,0,0,0,0,0,0,0,0

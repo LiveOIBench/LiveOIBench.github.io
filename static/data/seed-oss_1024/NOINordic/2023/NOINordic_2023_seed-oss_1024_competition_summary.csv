@@ -1,0 +1,5 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+icecreammachines,RUNTIME_ERROR,7,46.23%,0.060,0,,7,0,0,0,0,0,0
+chatnoi,RUNTIME_ERROR,29,73.52%,0.570,128.76953125,,5,7,17,0,0,0,0
+islandalliances,RUNTIME_ERROR,0,12.90%,0.190,16.765625,,0,0,0,0,0,0,0
+TOTAL,,36,44.22%,,,0.00%,,,,,,,

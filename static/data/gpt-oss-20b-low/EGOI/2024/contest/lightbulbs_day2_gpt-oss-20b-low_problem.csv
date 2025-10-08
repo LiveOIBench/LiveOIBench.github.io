@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+lightbulbs_gpt-oss-20b-low_0.cpp,RUNTIME_ERROR,0,0.00%,0.020,0.00390625,0,0,0,0
+lightbulbs_gpt-oss-20b-low_1.cpp,ACCEPTED,100,100.00%,0.020,0,0,11,11,78
+lightbulbs_gpt-oss-20b-low_2.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0
+lightbulbs_gpt-oss-20b-low_3.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0
+lightbulbs_gpt-oss-20b-low_4.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0
+lightbulbs_gpt-oss-20b-low_5.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0
+lightbulbs_gpt-oss-20b-low_7.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0

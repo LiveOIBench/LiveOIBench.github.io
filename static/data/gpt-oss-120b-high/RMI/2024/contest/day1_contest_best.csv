@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Choose_Interval,gpt-oss-120b-high,ACCEPTED,100,100.00%,1.290,25.984375
+Skittlez,gpt-oss-120b-high,ACCEPTED,100,100.00%,2.240,178.484375
+Octagon,gpt-oss-120b-high,RUNTIME_ERROR,9,43.75%,0.050,0.00390625

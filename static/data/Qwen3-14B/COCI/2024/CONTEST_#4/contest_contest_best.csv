@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+bingo,Qwen3-14B,ACCEPTED,50,100.00%,0.000,0
+knjige,Qwen3-14B,ACCEPTED,70,100.00%,0.080,2.84765625
+lepeze,Qwen3-14B,RUNTIME_ERROR,0,1.92%,0.000,0
+putovanje,Qwen3-14B,TIME_LIMIT_EXCEEDED,65,68.35%,2.210,5.296875
+roboti,Qwen3-14B,TIME_LIMIT_EXCEEDED,10,13.64%,2.210,23.44140625

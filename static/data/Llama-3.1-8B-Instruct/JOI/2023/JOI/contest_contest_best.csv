@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+2023-ho-t1_Stone_Arranging_2,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,34.94%,0.000,0
+2023-ho-t2_Advertisement_2,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,8.33%,0.140,3.36328125
+2023-ho-t3_Maze,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-ho-t4_Cat_Exercise,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-ho-t5_Modern_Machine,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,7.25%,1.630,2.1875

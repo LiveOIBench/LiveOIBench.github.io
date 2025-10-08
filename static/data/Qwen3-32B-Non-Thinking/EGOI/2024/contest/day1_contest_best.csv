@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+bouquet,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,46.05%,0.060,2.7890625
+infiniterace,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,9.59%,0.000,0
+teamcoding,Qwen3-32B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+gardendecorations,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,0.00%,0.000,0

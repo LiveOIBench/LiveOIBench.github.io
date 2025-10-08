@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+tramvaji,deepseek-reasoner,ACCEPTED,50,100.00%,0.030,0
+ekspert,deepseek-reasoner,RUNTIME_ERROR,0,25.00%,0.000,0
+lampice,deepseek-reasoner,RUNTIME_ERROR,0,2.38%,0.060,4.7265625
+prijateljice,deepseek-reasoner,ACCEPTED,110,100.00%,0.050,7.73046875
+kruhologija,deepseek-reasoner,COMPILATION_ERROR,0,0.00%,0.000,0

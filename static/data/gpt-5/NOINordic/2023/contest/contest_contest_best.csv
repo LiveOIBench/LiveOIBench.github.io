@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+icecreammachines,gpt-5,ACCEPTED,100,100.00%,0.150,6.125
+chatnoi,gpt-5,ACCEPTED,100,100.00%,0.540,109.08203125
+islandalliances,gpt-5,ACCEPTED,100,100.00%,0.330,22.4375

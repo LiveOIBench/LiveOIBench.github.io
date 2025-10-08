@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+Yet_another_queries_seed-oss_0.cpp,RUNTIME_ERROR,0,0.00%,0.550,41.42578125,0,0,0,0,0,0,0,0,0
+Yet_another_queries_seed-oss_1.cpp,RUNTIME_ERROR,0,0.00%,0.700,41.00390625,0,0,0,0,0,0,0,0,0
+Yet_another_queries_seed-oss_2.cpp,RUNTIME_ERROR,0,0.00%,1.300,41.30859375,0,0,0,0,0,0,0,0,0
+Yet_another_queries_seed-oss_3.cpp,TIME_LIMIT_EXCEEDED,38,52.88%,1.810,73.22265625,0.0,0,17.0,0,0,12.0,9.0,0,0
+Yet_another_queries_seed-oss_4.cpp,RUNTIME_ERROR,0,0.00%,1.020,49.3125,0,0,0,0,0,0,0,0,0
+Yet_another_queries_seed-oss_5.cpp,RUNTIME_ERROR,0,0.00%,0.070,18.25390625,0,0,0,0,0,0,0,0,0
+Yet_another_queries_seed-oss_6.cpp,TIME_LIMIT_EXCEEDED,57,75.47%,1.800,73.484375,0.0,19.0,17.0,0,0,12.0,9.0,0,0
+Yet_another_queries_seed-oss_7.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0

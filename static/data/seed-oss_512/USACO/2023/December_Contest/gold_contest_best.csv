@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Flight_Routes,seed-oss_512,ACCEPTED,333,100.00%,0.100,5.68359375
+gold_Minimum_Longest_Trip,seed-oss_512,WRONG_ANSWER,312,95.00%,0.230,31.43359375
+gold_Haybale_Distribution,seed-oss_512,ACCEPTED,333,100.00%,0.120,3.62109375

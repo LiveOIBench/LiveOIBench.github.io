@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_FEB,Qwen3-8B,TIME_LIMIT_EXCEEDED,118,45.00%,2.420,2.21484375
+bronze_Moo_Language,Qwen3-8B,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Rotate_and_Shift,Qwen3-8B,TIME_LIMIT_EXCEEDED,167,53.85%,4.810,2.84765625

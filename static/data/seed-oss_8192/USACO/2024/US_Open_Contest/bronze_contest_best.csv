@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Logical_Moos,seed-oss_8192,TIME_LIMIT_EXCEEDED,153,46.15%,2.410,11.65625
+bronze_Walking_Along_a_Fence,seed-oss_8192,ACCEPTED,333,100.00%,0.080,7.484375
+bronze_Farmer_Johns_Favorite_Permutation,seed-oss_8192,COMPILATION_ERROR,0,0.00%,0.000,0

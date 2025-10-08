@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_DFS_Order,seed-oss_4096,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Shock_Wave,seed-oss_4096,WRONG_ANSWER,0,0.00%,0.080,2.015625
+platinum_Watering_the_Plants,seed-oss_4096,UNKNOWN,0,0.00%,0.000,0

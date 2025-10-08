@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+2023-sp_Passport_deepseek-chat_0.cpp,RUNTIME_ERROR,0,9.43%,0.000,0,0,0,0,0,0
+2023-sp_Passport_deepseek-chat_1.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+2023-sp_Passport_deepseek-chat_2.cpp,TIME_LIMIT_EXCEEDED,0,32.26%,2.210,2.84765625,0,0,0,0,0
+2023-sp_Passport_deepseek-chat_3.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+2023-sp_Passport_deepseek-chat_4.cpp,RUNTIME_ERROR,0,41.18%,0.110,35.78125,0,0,0,0,0
+2023-sp_Passport_deepseek-chat_5.cpp,RUNTIME_ERROR,0,26.67%,0.060,21.2109375,0,0,0,0,0
+2023-sp_Passport_deepseek-chat_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+2023-sp_Passport_deepseek-chat_7.cpp,RUNTIME_ERROR,6,43.28%,0.070,9.0546875,6,0,0,0,0

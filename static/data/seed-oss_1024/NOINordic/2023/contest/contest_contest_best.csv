@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+icecreammachines,seed-oss_1024,RUNTIME_ERROR,7,46.23%,0.060,0
+chatnoi,seed-oss_1024,RUNTIME_ERROR,29,73.52%,0.570,128.76953125
+islandalliances,seed-oss_1024,RUNTIME_ERROR,0,12.90%,0.190,16.765625

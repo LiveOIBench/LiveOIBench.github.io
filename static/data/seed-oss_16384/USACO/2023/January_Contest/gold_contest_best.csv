@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Find_and_Replace,seed-oss_16384,TIME_LIMIT_EXCEEDED,143,46.67%,2.420,73.99609375
+gold_Lights_Off,seed-oss_16384,RUNTIME_ERROR,0,0.00%,0.110,6.20703125
+gold_Moo_Route,seed-oss_16384,RUNTIME_ERROR,33,14.29%,0.030,10.5859375

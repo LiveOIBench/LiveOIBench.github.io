@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Majority_Opinion_DeepSeek-R1-Distill-Llama-70B_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Majority_Opinion_DeepSeek-R1-Distill-Llama-70B_1.cpp,WRONG_ANSWER,0,0.00%,0.180,9.70703125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Majority_Opinion_DeepSeek-R1-Distill-Llama-70B_2.cpp,WRONG_ANSWER,0,0.00%,0.590,8.49609375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Majority_Opinion_DeepSeek-R1-Distill-Llama-70B_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.320,4.390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Majority_Opinion_DeepSeek-R1-Distill-Llama-70B_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.340,8.625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Majority_Opinion_DeepSeek-R1-Distill-Llama-70B_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.340,6.05859375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Majority_Opinion_DeepSeek-R1-Distill-Llama-70B_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.330,6.4375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Majority_Opinion_DeepSeek-R1-Distill-Llama-70B_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

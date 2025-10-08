@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+2025-ho-t1_Grid_Coloring,gpt-oss-20b-low,RUNTIME_ERROR,0,3.41%,0.050,13.671875
+2025-ho-t2_Bitaro_the_Brave_2,gpt-oss-20b-low,ACCEPTED,100,100.00%,0.090,24.24609375
+2025-ho-t3_Mi_Teleférico,gpt-oss-20b-low,RUNTIME_ERROR,0,0.00%,0.090,0.00390625
+2025-ho-t4_Just_Long_Neckties_2,gpt-oss-20b-low,RUNTIME_ERROR,0,0.00%,0.000,0
+2025-ho-t5_Post_Office,gpt-oss-20b-low,RUNTIME_ERROR,0,0.00%,0.020,0.00390625

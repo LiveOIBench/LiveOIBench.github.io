@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+lepeze_seed-oss_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+lepeze_seed-oss_1.cpp,RUNTIME_ERROR,0,0.00%,0.120,256.015625,0,0,0,0,0
+lepeze_seed-oss_2.cpp,RUNTIME_ERROR,0,3.85%,0.030,3.82421875,0,0,0,0,0
+lepeze_seed-oss_3.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.530,257.4765625,0,0,0,0,0
+lepeze_seed-oss_4.cpp,RUNTIME_ERROR,0,3.85%,0.000,0,0,0,0,0,0
+lepeze_seed-oss_5.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+lepeze_seed-oss_6.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+lepeze_seed-oss_7.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0

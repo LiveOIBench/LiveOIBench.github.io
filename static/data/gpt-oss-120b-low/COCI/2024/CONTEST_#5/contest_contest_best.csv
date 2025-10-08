@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+zlagalica,gpt-oss-120b-low,ACCEPTED,50,100.00%,0.000,0
+bitovi,gpt-oss-120b-low,RUNTIME_ERROR,0,0.00%,0.030,6.07421875
+piratski,gpt-oss-120b-low,WRONG_ANSWER,0,0.00%,0.020,0.00390625
+rolete,gpt-oss-120b-low,RUNTIME_ERROR,26,22.45%,0.060,3.6171875
+trokut,gpt-oss-120b-low,RUNTIME_ERROR,0,0.00%,0.030,0

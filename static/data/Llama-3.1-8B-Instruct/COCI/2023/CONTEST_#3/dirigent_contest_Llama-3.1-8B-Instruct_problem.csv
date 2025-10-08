@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+dirigent_Llama-3.1-8B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.110,1.61328125,0,0,0
+dirigent_Llama-3.1-8B-Instruct_1.cpp,RUNTIME_ERROR,0,0.00%,0.130,2.64453125,0,0,0
+dirigent_Llama-3.1-8B-Instruct_2.cpp,RUNTIME_ERROR,0,0.00%,0.100,1.6015625,0,0,0
+dirigent_Llama-3.1-8B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.170,1.61328125,0,0,0
+dirigent_Llama-3.1-8B-Instruct_4.cpp,RUNTIME_ERROR,0,0.00%,0.100,1.61328125,0,0,0
+dirigent_Llama-3.1-8B-Instruct_5.cpp,RUNTIME_ERROR,0,0.00%,0.090,1.55859375,0,0,0
+dirigent_Llama-3.1-8B-Instruct_6.cpp,RUNTIME_ERROR,0,0.00%,0.060,8.83203125,0,0,0
+dirigent_Llama-3.1-8B-Instruct_7.cpp,RUNTIME_ERROR,0,0.00%,0.320,1.61328125,0,0,0

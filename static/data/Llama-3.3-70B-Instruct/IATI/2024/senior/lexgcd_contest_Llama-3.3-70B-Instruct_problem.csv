@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+lexgcd_Llama-3.3-70B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,0,3.31%,1.880,3.62890625,0,0,0,0,0,0,0
+lexgcd_Llama-3.3-70B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,0,5.74%,1.860,5.5078125,0,0,0,0,0,0,0
+lexgcd_Llama-3.3-70B-Instruct_2.cpp,MEMORY_LIMIT_EXCEEDED,0,2.48%,0.360,613.6015625,0,0,0,0,0,0,0
+lexgcd_Llama-3.3-70B-Instruct_3.cpp,RUNTIME_ERROR,0,6.56%,0.160,2.5859375,0,0,0,0,0,0,0
+lexgcd_Llama-3.3-70B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,3.31%,1.820,2.86328125,0,0,0,0,0,0,0
+lexgcd_Llama-3.3-70B-Instruct_5.cpp,MEMORY_LIMIT_EXCEEDED,6,4.13%,0.350,613.59765625,6,0,0,0,0,0,0
+lexgcd_Llama-3.3-70B-Instruct_6.cpp,MEMORY_LIMIT_EXCEEDED,6,4.13%,0.360,613.6015625,6,0,0,0,0,0,0
+lexgcd_Llama-3.3-70B-Instruct_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0

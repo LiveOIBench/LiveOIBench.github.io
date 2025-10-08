@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Tractor_Paths,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Mana_Collection,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Subtree_Activation,Mistral-Large-Instruct-2411,WRONG_ANSWER,0,4.76%,0.150,7.94921875

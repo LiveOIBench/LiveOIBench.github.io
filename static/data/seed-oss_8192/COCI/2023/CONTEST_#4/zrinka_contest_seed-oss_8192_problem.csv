@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+zrinka_seed-oss_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+zrinka_seed-oss_1.cpp,RUNTIME_ERROR,0,0.00%,0.120,192.3359375,0,0,0,0
+zrinka_seed-oss_2.cpp,ACCEPTED,70,100.00%,0.200,192.33984375,15,20,15,20
+zrinka_seed-oss_3.cpp,ACCEPTED,70,100.00%,0.190,192.33984375,15,20,15,20
+zrinka_seed-oss_4.cpp,ACCEPTED,70,100.00%,0.190,192.33984375,15,20,15,20
+zrinka_seed-oss_5.cpp,ACCEPTED,70,100.00%,0.190,96.94921875,15,20,15,20
+zrinka_seed-oss_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.460,613.34375,0,0,0,0
+zrinka_seed-oss_7.cpp,ACCEPTED,70,100.00%,0.150,96.94921875,15,20,15,20

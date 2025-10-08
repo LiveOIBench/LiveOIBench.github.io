@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Identity_Theft,Llama-4-Scout,RUNTIME_ERROR,0,0.00%,0.030,0.00390625
+platinum_Splitting_Haybales,Llama-4-Scout,TIME_LIMIT_EXCEEDED,17,13.64%,2.420,2.07421875
+platinum_Activating_Robots,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0

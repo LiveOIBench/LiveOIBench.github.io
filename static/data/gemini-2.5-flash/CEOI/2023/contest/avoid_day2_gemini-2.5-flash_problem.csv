@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0_1,subtask_1_1,subtask_2_1,subtask_3_1,subtask_4_1
+avoid_gemini-2.5-flash_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+avoid_gemini-2.5-flash_1.cpp,RUNTIME_ERROR,10,7.41%,0.020,2.6171875,0,10,0,0,0
+avoid_gemini-2.5-flash_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+avoid_gemini-2.5-flash_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+avoid_gemini-2.5-flash_5.cpp,RUNTIME_ERROR,10,20.00%,0.020,1.5390625,0,10,0,0,0
+avoid_gemini-2.5-flash_6.cpp,RUNTIME_ERROR,20,47.41%,0.020,2.6484375,0,10,0,10,0
+avoid_gemini-2.5-flash_7.cpp,RUNTIME_ERROR,10,7.41%,0.180,19.6796875,0,10,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+bikesvscars_deepseek-reasoner_0.cpp,RUNTIME_ERROR,34,56.36%,0.050,5.7578125,0,10,5,0,0,19,0
+bikesvscars_deepseek-reasoner_1.cpp,RUNTIME_ERROR,0,8.54%,0.030,1.55078125,0,0,0,0,0,0,0
+bikesvscars_deepseek-reasoner_2.cpp,RUNTIME_ERROR,34,56.36%,0.330,4.81640625,0,10,5,0,0,19,0
+bikesvscars_deepseek-reasoner_3.cpp,RUNTIME_ERROR,0,8.54%,0.030,1.55078125,0,0,0,0,0,0,0
+bikesvscars_deepseek-reasoner_4.cpp,RUNTIME_ERROR,34,56.36%,0.050,6.12109375,0,10,5,0,0,19,0
+bikesvscars_deepseek-reasoner_5.cpp,RUNTIME_ERROR,0,8.54%,0.030,0,0,0,0,0,0,0,0
+bikesvscars_deepseek-reasoner_6.cpp,RUNTIME_ERROR,0,8.54%,0.030,1.55078125,0,0,0,0,0,0,0
+bikesvscars_deepseek-reasoner_7.cpp,RUNTIME_ERROR,34,56.36%,0.050,6.125,0,10,5,0,0,19,0

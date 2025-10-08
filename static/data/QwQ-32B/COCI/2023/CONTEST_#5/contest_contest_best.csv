@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+kalendar,QwQ-32B,ACCEPTED,50,100.00%,0.000,0
+diskurs,QwQ-32B,TIME_LIMIT_EXCEEDED,20,22.00%,2.230,4.65234375
+logaritam,QwQ-32B,ACCEPTED,110,100.00%,0.100,0.00390625
+slasticarnica,QwQ-32B,RUNTIME_ERROR,58,52.50%,0.440,408.64453125
+zastave,QwQ-32B,ACCEPTED,110,100.00%,0.190,2.07421875

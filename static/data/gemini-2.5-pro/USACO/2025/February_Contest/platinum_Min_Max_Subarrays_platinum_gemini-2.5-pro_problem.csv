@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Min_Max_Subarrays_gemini-2.5-pro_0.cpp,WRONG_ANSWER,0,23.08%,0.640,16.984375,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_gemini-2.5-pro_1.cpp,WRONG_ANSWER,0,23.08%,0.450,35.83203125,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_gemini-2.5-pro_2.cpp,TIME_LIMIT_EXCEEDED,0,23.08%,3.450,39.58984375,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_gemini-2.5-pro_3.cpp,TIME_LIMIT_EXCEEDED,0,23.08%,3.360,12.9296875,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_gemini-2.5-pro_4.cpp,WRONG_ANSWER,0,23.08%,0.800,39.453125,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_gemini-2.5-pro_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_gemini-2.5-pro_6.cpp,WRONG_ANSWER,0,23.08%,0.490,35.80859375,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_gemini-2.5-pro_7.cpp,TIME_LIMIT_EXCEEDED,0,23.08%,3.380,35.5859375,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+inflation_gpt-oss-20b-high_0.cpp,ACCEPTED,100,100.00%,0.160,17.7890625,0,14,28,19,23,16
+inflation_gpt-oss-20b-high_1.cpp,ACCEPTED,100,100.00%,0.130,20.109375,0,14,28,19,23,16
+inflation_gpt-oss-20b-high_2.cpp,ACCEPTED,100,100.00%,0.130,20.109375,0,14,28,19,23,16
+inflation_gpt-oss-20b-high_3.cpp,ACCEPTED,100,100.00%,0.140,17.7890625,0,14,28,19,23,16
+inflation_gpt-oss-20b-high_4.cpp,ACCEPTED,100,100.00%,0.120,20.109375,0,14,28,19,23,16
+inflation_gpt-oss-20b-high_5.cpp,ACCEPTED,100,100.00%,0.100,16.25,0,14,28,19,23,16
+inflation_gpt-oss-20b-high_6.cpp,ACCEPTED,100,100.00%,0.120,13.9296875,0,14,28,19,23,16
+inflation_gpt-oss-20b-high_7.cpp,ACCEPTED,100,100.00%,0.140,20.109375,0,14,28,19,23,16

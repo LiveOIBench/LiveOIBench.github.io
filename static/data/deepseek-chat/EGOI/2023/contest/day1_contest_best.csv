@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+bikesvscars,deepseek-chat,UNKNOWN,0,0.00%,0.000,0
+ppp,deepseek-chat,MEMORY_LIMIT_EXCEEDED,36,45.21%,1.320,919.10546875
+findthebox,deepseek-chat,RUNTIME_ERROR,0,0.00%,0.030,0
+inflation,deepseek-chat,ACCEPTED,100,100.00%,0.150,15.0234375

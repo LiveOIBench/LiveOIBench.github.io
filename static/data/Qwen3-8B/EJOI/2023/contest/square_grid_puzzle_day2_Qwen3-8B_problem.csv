@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0
+square_grid_puzzle_Qwen3-8B_0.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0
+square_grid_puzzle_Qwen3-8B_1.cpp,UNKNOWN,0,0.00%,0.000,0,0
+square_grid_puzzle_Qwen3-8B_2.cpp,RUNTIME_ERROR,0,5.00%,0.020,0,0
+square_grid_puzzle_Qwen3-8B_3.cpp,RUNTIME_ERROR,0,0.00%,0.020,0,0
+square_grid_puzzle_Qwen3-8B_5.cpp,RUNTIME_ERROR,0,0.00%,0.020,0.00390625,0
+square_grid_puzzle_Qwen3-8B_6.cpp,RUNTIME_ERROR,0,0.00%,0.020,0,0
+square_grid_puzzle_Qwen3-8B_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.220,63.08203125,0

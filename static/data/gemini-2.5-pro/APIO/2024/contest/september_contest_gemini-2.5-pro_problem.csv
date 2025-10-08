@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+september_gemini-2.5-pro_0.cpp,TIME_LIMIT_EXCEEDED,55,62.50%,1.180,47.390625,11,0,14,5,9,5,11,0,0,0
+september_gemini-2.5-pro_1.cpp,RUNTIME_ERROR,0,0.00%,0.360,26.59375,0,0,0,0,0,0,0,0,0,0
+september_gemini-2.5-pro_2.cpp,TIME_LIMIT_EXCEEDED,14,12.50%,1.220,24.953125,0,0,14,0,0,0,0,0,0,0
+september_gemini-2.5-pro_3.cpp,RUNTIME_ERROR,0,0.00%,0.750,20.875,0,0,0,0,0,0,0,0,0,0
+september_gemini-2.5-pro_4.cpp,RUNTIME_ERROR,0,0.00%,0.370,15.89453125,0,0,0,0,0,0,0,0,0,0
+september_gemini-2.5-pro_5.cpp,ACCEPTED,100,100.00%,0.450,18.375,11,16,14,5,9,5,11,9,11,9
+september_gemini-2.5-pro_6.cpp,ACCEPTED,100,100.00%,0.220,11.33984375,11,16,14,5,9,5,11,9,11,9
+september_gemini-2.5-pro_7.cpp,RUNTIME_ERROR,0,0.00%,0.430,11.25,0,0,0,0,0,0,0,0,0,0

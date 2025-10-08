@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Election_Queries_gpt-o3-mini-high_0.cpp,WRONG_ANSWER,0,13.33%,0.200,16.1015625,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Election_Queries_gpt-o3-mini-high_1.cpp,WRONG_ANSWER,0,13.33%,0.180,11.34765625,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Election_Queries_gpt-o3-mini-high_2.cpp,WRONG_ANSWER,0,13.33%,0.130,12.8984375,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Election_Queries_gpt-o3-mini-high_3.cpp,RUNTIME_ERROR,0,0.00%,0.200,23.7265625,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Election_Queries_gpt-o3-mini-high_4.cpp,WRONG_ANSWER,0,13.33%,0.160,13.92578125,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Election_Queries_gpt-o3-mini-high_5.cpp,TIME_LIMIT_EXCEEDED,26,6.67%,3.360,29.07421875,0,0,0,0,0,0,25.64102564102564,0,0,0,0,0,0,0
+gold_Election_Queries_gpt-o3-mini-high_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.360,4.38671875,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Election_Queries_gpt-o3-mini-high_7.cpp,WRONG_ANSWER,0,6.67%,2.970,4.90625,0,0,0,0,0,0,0,0,0,0,0,0,0,0

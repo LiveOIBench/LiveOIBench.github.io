@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Forklift_Certified,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,95,37.50%,2.220,29.71484375
+platinum_Lazy_Sort,gpt-o3-mini-high,WRONG_ANSWER,0,6.67%,0.110,62.66015625
+platinum_Package_Pickup,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,0,10.00%,4.410,130.46875

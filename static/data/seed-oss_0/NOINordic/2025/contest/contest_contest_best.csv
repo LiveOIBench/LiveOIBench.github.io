@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+diplomacy,seed-oss_0,COMPILATION_ERROR,0,0.00%,0.000,0
+garbage,seed-oss_0,RUNTIME_ERROR,0,5.48%,0.080,2.84765625
+xoracle,seed-oss_0,COMPILATION_ERROR,0,0.00%,0.000,0

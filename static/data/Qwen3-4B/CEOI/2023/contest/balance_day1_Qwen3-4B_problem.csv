@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0_1,subtask_1_1,subtask_2_1,subtask_2_2,subtask_2_3,subtask_3_1,subtask_3_2,subtask_3_3,subtask_4_1,subtask_4_2,subtask_4_3
+balance_Qwen3-4B_0.cpp,RUNTIME_ERROR,0,0.00%,0.120,6.453125,0,0,0,0,0,0,0,0,0,0,0
+balance_Qwen3-4B_1.cpp,RUNTIME_ERROR,0,0.00%,0.130,6.453125,0,0,0,0,0,0,0,0,0,0,0
+balance_Qwen3-4B_3.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+balance_Qwen3-4B_4.cpp,RUNTIME_ERROR,0,0.00%,0.130,0.00390625,0,0,0,0,0,0,0,0,0,0,0
+balance_Qwen3-4B_5.cpp,RUNTIME_ERROR,0,0.00%,0.130,6.45703125,0,0,0,0,0,0,0,0,0,0,0
+balance_Qwen3-4B_6.cpp,RUNTIME_ERROR,0,0.00%,0.120,0.00390625,0,0,0,0,0,0,0,0,0,0,0
+balance_Qwen3-4B_7.cpp,RUNTIME_ERROR,0,0.00%,0.130,0.00390625,0,0,0,0,0,0,0,0,0,0,0

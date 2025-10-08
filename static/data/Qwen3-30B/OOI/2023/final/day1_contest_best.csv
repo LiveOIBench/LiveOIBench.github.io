@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+More_Gifts,Qwen3-30B,RUNTIME_ERROR,12,40.91%,0.100,3.5625
+Big_Persimmon,Qwen3-30B,RUNTIME_ERROR,12,17.74%,0.080,16.76953125
+Evidence_Board,Qwen3-30B,UNKNOWN,0,0.00%,0.000,0
+Draw_Polygon_Lines,Qwen3-30B,RUNTIME_ERROR,53,82.19%,0.320,2.328125

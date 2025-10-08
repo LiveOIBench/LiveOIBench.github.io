@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Walking_in_Manhattan,seed-oss_8192,TIME_LIMIT_EXCEEDED,140,45.00%,2.410,2.0703125
+gold_Cowmpetency,seed-oss_8192,RUNTIME_ERROR,0,0.00%,0.020,0.00390625
+gold_Nap_Sort,seed-oss_8192,COMPILATION_ERROR,0,0.00%,0.000,0

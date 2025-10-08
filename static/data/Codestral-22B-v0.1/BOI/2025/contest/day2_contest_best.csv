@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+dev,Codestral-22B-v0.1,RUNTIME_ERROR,0,1.10%,0.030,0.00390625
+exp,Codestral-22B-v0.1,TIME_LIMIT_EXCEEDED,0,1.34%,1.110,2.58984375
+gcd,Codestral-22B-v0.1,RUNTIME_ERROR,0,1.64%,0.000,0

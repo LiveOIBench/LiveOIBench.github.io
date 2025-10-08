@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Min_Max_Subarrays,Qwen3-4B,TIME_LIMIT_EXCEEDED,0,23.08%,3.620,5.109375
+platinum_Transforming_Pairs,Qwen3-4B,WRONG_ANSWER,0,5.26%,0.150,0.00390625
+platinum_True_or_False_Test,Qwen3-4B,WRONG_ANSWER,0,5.00%,0.220,7.47265625

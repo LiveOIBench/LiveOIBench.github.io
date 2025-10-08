@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+neboderi_deepseek-chat_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+neboderi_deepseek-chat_1.cpp,RUNTIME_ERROR,0,0.00%,0.220,9.03515625,0,0,0,0,0
+neboderi_deepseek-chat_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+neboderi_deepseek-chat_3.cpp,ACCEPTED,110,100.00%,0.260,12.90234375,11,22,27,18,32
+neboderi_deepseek-chat_4.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,1.200,494.125,0,0,0,0,0
+neboderi_deepseek-chat_5.cpp,TIME_LIMIT_EXCEEDED,33,38.89%,2.780,117.703125,11,22,0,0,0
+neboderi_deepseek-chat_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+neboderi_deepseek-chat_7.cpp,ACCEPTED,110,100.00%,0.250,12.90234375,11,22,27,18,32

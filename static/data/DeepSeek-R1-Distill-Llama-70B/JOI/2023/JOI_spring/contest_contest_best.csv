@@ -1,0 +1,13 @@
+problem,model,status,score,%test passed,time,memory
+2023-sp_Two_Currencies,DeepSeek-R1-Distill-Llama-70B,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Festivals_in_JOI_Kingdom_2,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,13.33%,0.000,0
+2023-sp_Passport,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,6,47.14%,0.150,7.2265625
+2023-sp_Belt_Conveyor,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,1,12.90%,0.150,9.9921875
+2023-sp_Council,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,41,87.60%,3.600,27.8515625
+2023-sp_Mizuyokan_2,DeepSeek-R1-Distill-Llama-70B,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Chorus,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,6.67%,0.000,0
+2023-sp_Cookies,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,34.15%,0.120,2.20703125
+2023-sp_Tourism,DeepSeek-R1-Distill-Llama-70B,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Super_Dango_Maker,DeepSeek-R1-Distill-Llama-70B,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Security_Guard,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,5.95%,0.150,7.7421875
+2023-sp_Bitaro’s_travel,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,14.52%,0.000,0

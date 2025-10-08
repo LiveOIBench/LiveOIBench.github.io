@@ -1,0 +1,5 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+robot_gpt-oss-20b-high_0.cpp,RUNTIME_ERROR,0,0.00%,0.050,8.71875,0,0.0,0.0,0.0,0.0,0.0
+robot_gpt-oss-20b-high_4.cpp,RUNTIME_ERROR,0,0.00%,0.040,8.7109375,0,0.0,0.0,0.0,0.0,0.0
+robot_gpt-oss-20b-high_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+robot_gpt-oss-20b-high_7.cpp,RUNTIME_ERROR,0,0.00%,0.050,8.7578125,0,0.0,0.0,0.0,0.0,0.0

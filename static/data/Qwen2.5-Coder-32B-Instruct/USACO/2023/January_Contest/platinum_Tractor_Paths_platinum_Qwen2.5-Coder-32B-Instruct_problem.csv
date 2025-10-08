@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Tractor_Paths_Qwen2.5-Coder-32B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.480,28.7734375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_Qwen2.5-Coder-32B-Instruct_1.cpp,WRONG_ANSWER,0,0.00%,0.170,13.8515625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_Qwen2.5-Coder-32B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.470,8.8125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_Qwen2.5-Coder-32B-Instruct_3.cpp,WRONG_ANSWER,0,0.00%,0.170,15.77734375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_Qwen2.5-Coder-32B-Instruct_4.cpp,WRONG_ANSWER,0,0.00%,0.170,15.75390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_Qwen2.5-Coder-32B-Instruct_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,1.350,500.8828125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_Qwen2.5-Coder-32B-Instruct_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.300,556.51171875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_Qwen2.5-Coder-32B-Instruct_7.cpp,WRONG_ANSWER,0,0.00%,0.150,12.92578125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

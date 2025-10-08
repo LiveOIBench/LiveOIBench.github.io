@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+battle_gpt-oss-20b-low_0.cpp,RUNTIME_ERROR,0,12.50%,0.120,28.97265625,0,0,0,0,0,0,0,0
+battle_gpt-oss-20b-low_1.cpp,RUNTIME_ERROR,0,12.50%,0.110,58.0234375,0,0,0,0,0,0,0,0
+battle_gpt-oss-20b-low_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+battle_gpt-oss-20b-low_3.cpp,RUNTIME_ERROR,36,55.97%,0.130,56.83203125,0,6,0,0,0,0,30,0
+battle_gpt-oss-20b-low_5.cpp,RUNTIME_ERROR,0,12.50%,0.190,28.67578125,0,0,0,0,0,0,0,0
+battle_gpt-oss-20b-low_6.cpp,RUNTIME_ERROR,30,26.04%,0.260,32.9921875,0,0,0,0,0,0,30,0
+battle_gpt-oss-20b-low_7.cpp,RUNTIME_ERROR,0,0.00%,0.090,36.609375,0,0,0,0,0,0,0,0

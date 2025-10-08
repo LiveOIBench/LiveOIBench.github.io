@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Island_Vacation,seed-oss_16384,MEMORY_LIMIT_EXCEEDED,17,4.35%,1.170,254.05078125
+platinum_Merging_Cells,seed-oss_16384,TIME_LIMIT_EXCEEDED,100,36.36%,2.420,192.59375
+platinum_Mooball_Teams_III,seed-oss_16384,WRONG_ANSWER,0,16.67%,0.050,6.71484375

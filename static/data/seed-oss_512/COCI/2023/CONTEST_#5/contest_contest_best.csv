@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+kalendar,seed-oss_512,RUNTIME_ERROR,19,47.06%,0.020,0
+diskurs,seed-oss_512,RUNTIME_ERROR,0,0.00%,0.020,2.07421875
+logaritam,seed-oss_512,RUNTIME_ERROR,0,0.00%,0.020,0.00390625
+slasticarnica,seed-oss_512,RUNTIME_ERROR,0,2.50%,0.020,1.6171875
+zastave,seed-oss_512,UNKNOWN,0,0.00%,0.000,0

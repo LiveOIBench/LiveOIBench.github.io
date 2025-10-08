@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+2023-sp_Passport_Qwen3-32B_0.cpp,RUNTIME_ERROR,6,47.14%,0.070,8.83984375,6,0,0,0,0
+2023-sp_Passport_Qwen3-32B_1.cpp,RUNTIME_ERROR,6,47.14%,0.060,7.4609375,6,0,0,0,0
+2023-sp_Passport_Qwen3-32B_2.cpp,RUNTIME_ERROR,6,47.14%,0.100,18.89453125,6,0,0,0,0
+2023-sp_Passport_Qwen3-32B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+2023-sp_Passport_Qwen3-32B_4.cpp,RUNTIME_ERROR,6,43.28%,0.060,15.5390625,6,0,0,0,0
+2023-sp_Passport_Qwen3-32B_5.cpp,RUNTIME_ERROR,6,43.28%,0.060,15.28125,6,0,0,0,0
+2023-sp_Passport_Qwen3-32B_6.cpp,RUNTIME_ERROR,6,43.28%,0.080,12.23046875,6,0,0,0,0
+2023-sp_Passport_Qwen3-32B_7.cpp,RUNTIME_ERROR,0,25.42%,0.070,25.97265625,0,0,0,0,0

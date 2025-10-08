@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+editor_gemini-2.5-flash_0.cpp,TIME_LIMIT_EXCEEDED,56,90.16%,4.410,976.59765625,0,5,14,26,11,0
+editor_gemini-2.5-flash_1.cpp,TIME_LIMIT_EXCEEDED,45,80.43%,4.410,107.015625,0,5,14,26,0,0
+editor_gemini-2.5-flash_2.cpp,RUNTIME_ERROR,5,16.13%,2.660,323.078125,0,5,0,0,0,0
+editor_gemini-2.5-flash_3.cpp,TIME_LIMIT_EXCEEDED,5,35.29%,4.450,953.24609375,0,5,0,0,0,0
+editor_gemini-2.5-flash_4.cpp,TIME_LIMIT_EXCEEDED,45,81.72%,4.420,267.12890625,0,5,14,26,0,0
+editor_gemini-2.5-flash_5.cpp,RUNTIME_ERROR,0,11.29%,1.330,399.140625,0,0,0,0,0,0
+editor_gemini-2.5-flash_6.cpp,MEMORY_LIMIT_EXCEEDED,56,90.16%,4.140,1038.84375,0,5,14,26,11,0
+editor_gemini-2.5-flash_7.cpp,RUNTIME_ERROR,5,62.11%,1.570,443.57421875,0,5,0,0,0,0

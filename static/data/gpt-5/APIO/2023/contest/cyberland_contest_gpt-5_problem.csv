@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+cyberland_gpt-5_0.cpp,RUNTIME_ERROR,15,18.29%,0.180,9.5078125,0,0,8,0,0,7,0,0,0
+cyberland_gpt-5_1.cpp,RUNTIME_ERROR,15,20.73%,0.390,33.83203125,0,0,8,0,0,7,0,0,0
+cyberland_gpt-5_2.cpp,RUNTIME_ERROR,44,36.59%,0.270,7.734375,0,0,8,13,0,7,16,0,0
+cyberland_gpt-5_3.cpp,RUNTIME_ERROR,15,20.73%,0.430,8.3984375,0,0,8,0,0,7,0,0,0
+cyberland_gpt-5_4.cpp,ACCEPTED,100,100.00%,1.260,64.15625,0,5,8,13,19,7,16,29,3
+cyberland_gpt-5_5.cpp,TIME_LIMIT_EXCEEDED,97,87.80%,2.950,64.046875,0,5,8,13,19,7,16,29,0
+cyberland_gpt-5_6.cpp,RUNTIME_ERROR,15,20.73%,0.310,18.8828125,0,0,8,0,0,7,0,0,0
+cyberland_gpt-5_7.cpp,ACCEPTED,100,100.00%,0.980,12.26171875,0,5,8,13,19,7,16,29,3

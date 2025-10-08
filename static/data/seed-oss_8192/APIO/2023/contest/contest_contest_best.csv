@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+sequence,seed-oss_8192,TIME_LIMIT_EXCEEDED,0,9.41%,1.800,33.203125
+abc,seed-oss_8192,RUNTIME_ERROR,4,16.00%,0.230,16.30859375
+cyberland,seed-oss_8192,RUNTIME_ERROR,49,62.20%,1.090,59.30078125

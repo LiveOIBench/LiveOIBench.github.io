@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+kalendar,seed-oss_16384,ACCEPTED,50,100.00%,0.000,0
+diskurs,seed-oss_16384,ACCEPTED,70,100.00%,0.150,9.58984375
+logaritam,seed-oss_16384,ACCEPTED,110,100.00%,0.070,0.00390625
+slasticarnica,seed-oss_16384,ACCEPTED,110,100.00%,0.150,5.2578125
+zastave,seed-oss_16384,ACCEPTED,110,100.00%,0.070,1.81640625

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+toy_gemini-2.5-pro_0.cpp,TIME_LIMIT_EXCEEDED,44,85.97%,1.490,977.890625,0,14,21,9,0,0
+toy_gemini-2.5-pro_1.cpp,TIME_LIMIT_EXCEEDED,44,83.43%,1.510,117.10546875,0,14,21,9,0,0
+toy_gemini-2.5-pro_2.cpp,TIME_LIMIT_EXCEEDED,14,57.59%,1.490,86.73828125,0,14,0,0,0,0
+toy_gemini-2.5-pro_3.cpp,TIME_LIMIT_EXCEEDED,44,85.97%,1.490,118.01953125,0,14,21,9,0,0
+toy_gemini-2.5-pro_4.cpp,TIME_LIMIT_EXCEEDED,35,71.49%,1.500,165.60546875,0,14,21,0,0,0
+toy_gemini-2.5-pro_5.cpp,TIME_LIMIT_EXCEEDED,0,6.84%,1.530,150.87890625,0,0,0,0,0,0
+toy_gemini-2.5-pro_6.cpp,TIME_LIMIT_EXCEEDED,14,60.41%,1.530,106.08984375,0,14,0,0,0,0
+toy_gemini-2.5-pro_7.cpp,TIME_LIMIT_EXCEEDED,14,57.59%,1.510,235.328125,0,14,0,0,0,0

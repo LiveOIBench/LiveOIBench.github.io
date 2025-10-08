@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+2024-open-t1_Examination_2,gpt-oss-120b-high,ACCEPTED,100,100.00%,0.630,931.33203125
+2024-open-t2_Heat_Stroke,gpt-oss-120b-high,RUNTIME_ERROR,6,36.57%,0.050,1.55859375
+2024-open-t3_Library_3,gpt-oss-120b-high,RUNTIME_ERROR,2,54.69%,0.100,1.5390625

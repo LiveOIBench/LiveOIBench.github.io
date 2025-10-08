@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Cowntact_Tracing,seed-oss_8192,WRONG_ANSWER,67,30.43%,0.140,20.37890625
+platinum_A_Graph_Problem,seed-oss_8192,TIME_LIMIT_EXCEEDED,50,26.09%,2.420,14.609375
+platinum_Train_Scheduling,seed-oss_8192,TIME_LIMIT_EXCEEDED,33,16.67%,2.420,49.25

@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Cannonball_seed-oss_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Cannonball_seed-oss_1.cpp,RUNTIME_ERROR,19,5.00%,0.060,2.0703125,0,18.51851851851852,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Cannonball_seed-oss_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Cannonball_seed-oss_4.cpp,TIME_LIMIT_EXCEEDED,148,50.00%,2.430,3.890625,0,18.51851851851852,0,0,0,0,0,0,0,0,0,18.51851851851852,18.51851851851852,18.51851851851852,18.51851851851852,18.51851851851852,18.51851851851852,18.51851851851852,0
+bronze_Cannonball_seed-oss_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Cannonball_seed-oss_6.cpp,WRONG_ANSWER,37,20.00%,0.060,2.07421875,0,18.51851851851852,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18.51851851851852,0,0
+bronze_Cannonball_seed-oss_7.cpp,WRONG_ANSWER,130,45.00%,0.060,2.58984375,0,18.51851851851852,0,0,18.51851851851852,0,0,0,18.51851851851852,18.51851851851852,18.51851851851852,0,0,0,18.51851851851852,0,18.51851851851852,0,0

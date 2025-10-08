@@ -1,0 +1,5 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+2024-sp_Board_Game_gpt-oss-20b-medium_2.cpp,RUNTIME_ERROR,3,8.07%,0.040,4.6484375,3,0,0,0,0,0,0,0
+2024-sp_Board_Game_gpt-oss-20b-medium_4.cpp,RUNTIME_ERROR,10,24.02%,0.040,5.67578125,3,7,0,0,0,0,0,0
+2024-sp_Board_Game_gpt-oss-20b-medium_5.cpp,RUNTIME_ERROR,3,8.07%,0.030,4.3828125,3,0,0,0,0,0,0,0
+2024-sp_Board_Game_gpt-oss-20b-medium_7.cpp,RUNTIME_ERROR,3,8.07%,0.030,5.93359375,3,0,0,0,0,0,0,0

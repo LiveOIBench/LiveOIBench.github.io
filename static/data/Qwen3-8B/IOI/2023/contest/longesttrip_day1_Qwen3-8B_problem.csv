@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+longesttrip_Qwen3-8B_0.cpp,RUNTIME_ERROR,5,9.64%,2.010,3.98828125,0,5,0,0,0
+longesttrip_Qwen3-8B_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+longesttrip_Qwen3-8B_2.cpp,RUNTIME_ERROR,5,12.05%,0.060,3.9765625,0,5,0,0,0.0
+longesttrip_Qwen3-8B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+longesttrip_Qwen3-8B_4.cpp,RUNTIME_ERROR,5,18.67%,0.070,4.03125,0,5,0,0,0.0
+longesttrip_Qwen3-8B_5.cpp,RUNTIME_ERROR,5,15.06%,2.040,4.02734375,0,5,0,0,0
+longesttrip_Qwen3-8B_6.cpp,RUNTIME_ERROR,5,12.05%,0.610,4.07421875,0,5,0,0,0.0
+longesttrip_Qwen3-8B_7.cpp,RUNTIME_ERROR,5,10.84%,2.040,3.9765625,0,5,0,0,0

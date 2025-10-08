@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+grading-server,Qwen3-32B,RUNTIME_ERROR,0,4.00%,0.090,0.00390625
+light,Qwen3-32B,RUNTIME_ERROR,0,0.74%,0.020,1.48046875
+balance,Qwen3-32B,RUNTIME_ERROR,0,4.44%,0.040,11.87109375

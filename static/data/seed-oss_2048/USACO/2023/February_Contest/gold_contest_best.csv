@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Equal_Sum_Subarrays,seed-oss_2048,MEMORY_LIMIT_EXCEEDED,238,75.00%,3.500,306.28515625
+gold_Fertilizing_Pastures,seed-oss_2048,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Piling_Papers,seed-oss_2048,COMPILATION_ERROR,0,0.00%,0.000,0

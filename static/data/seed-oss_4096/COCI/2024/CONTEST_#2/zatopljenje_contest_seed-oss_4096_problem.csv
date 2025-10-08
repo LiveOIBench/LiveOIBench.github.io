@@ -1,0 +1,7 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+zatopljenje_seed-oss_1.cpp,ACCEPTED,110,100.00%,1.010,92.71875,10,20,20,60
+zatopljenje_seed-oss_3.cpp,RUNTIME_ERROR,0,0.00%,0.020,1.55078125,0,0,0,0
+zatopljenje_seed-oss_4.cpp,RUNTIME_ERROR,0,0.00%,0.030,1.55078125,0,0,0,0
+zatopljenje_seed-oss_5.cpp,ACCEPTED,110,100.00%,0.910,85.859375,10,20,20,60
+zatopljenje_seed-oss_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+zatopljenje_seed-oss_7.cpp,RUNTIME_ERROR,0,0.00%,0.030,2.06640625,0,0,0,0

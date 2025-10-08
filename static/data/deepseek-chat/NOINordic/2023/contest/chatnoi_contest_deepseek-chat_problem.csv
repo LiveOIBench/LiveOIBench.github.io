@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+chatnoi_deepseek-chat_0.cpp,RUNTIME_ERROR,12,59.32%,1.140,268.5,5,7,0,0,0,0,0
+chatnoi_deepseek-chat_1.cpp,RUNTIME_ERROR,12,59.32%,0.860,279.9921875,5,7,0,0,0,0,0
+chatnoi_deepseek-chat_2.cpp,RUNTIME_ERROR,0,42.33%,0.040,0.00390625,0,0,0,0,0,0,0
+chatnoi_deepseek-chat_3.cpp,RUNTIME_ERROR,12,59.32%,1.260,268.5,5,7,0,0,0,0,0
+chatnoi_deepseek-chat_4.cpp,RUNTIME_ERROR,12,59.32%,1.200,268.5,5,7,0,0,0,0,0
+chatnoi_deepseek-chat_5.cpp,RUNTIME_ERROR,12,59.32%,1.740,497.4296875,5,7,0,0,0,0,0
+chatnoi_deepseek-chat_6.cpp,RUNTIME_ERROR,12,59.32%,1.690,482.22265625,5,7,0,0,0,0,0
+chatnoi_deepseek-chat_7.cpp,RUNTIME_ERROR,0,42.33%,0.040,0,0,0,0,0,0,0,0

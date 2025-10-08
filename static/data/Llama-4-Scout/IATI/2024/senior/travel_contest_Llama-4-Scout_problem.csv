@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+travel_Llama-4-Scout_0.cpp,RUNTIME_ERROR,0,0.00%,0.220,31.8203125,0,0,0,0,0,0,0
+travel_Llama-4-Scout_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+travel_Llama-4-Scout_2.cpp,TIME_LIMIT_EXCEEDED,20,29.41%,1.210,333.36328125,10,10,0,0,0,0,0
+travel_Llama-4-Scout_3.cpp,RUNTIME_ERROR,0,0.00%,0.120,37.38671875,0,0,0,0,0,0,0
+travel_Llama-4-Scout_4.cpp,RUNTIME_ERROR,0,0.00%,0.260,31.8203125,0,0,0,0,0,0,0
+travel_Llama-4-Scout_5.cpp,RUNTIME_ERROR,0,0.00%,0.020,3.359375,0,0,0,0,0,0,0
+travel_Llama-4-Scout_6.cpp,TIME_LIMIT_EXCEEDED,20,28.24%,1.220,31.8203125,10,10,0,0,0,0,0
+travel_Llama-4-Scout_7.cpp,RUNTIME_ERROR,0,0.00%,0.310,31.8203125,0,0,0,0,0,0,0

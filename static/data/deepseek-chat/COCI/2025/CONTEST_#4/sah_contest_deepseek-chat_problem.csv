@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+sah_deepseek-chat_0.cpp,ACCEPTED,50,100.00%,0.080,0.00390625,13,19,18
+sah_deepseek-chat_1.cpp,ACCEPTED,50,100.00%,0.080,0.00390625,13,19,18
+sah_deepseek-chat_2.cpp,ACCEPTED,50,100.00%,0.060,0.00390625,13,19,18
+sah_deepseek-chat_3.cpp,ACCEPTED,50,100.00%,0.070,0.00390625,13,19,18
+sah_deepseek-chat_4.cpp,RUNTIME_ERROR,13,29.41%,0.060,0.00390625,13,0,0
+sah_deepseek-chat_5.cpp,ACCEPTED,50,100.00%,0.060,0.00390625,13,19,18
+sah_deepseek-chat_6.cpp,ACCEPTED,50,100.00%,0.070,0.00390625,13,19,18
+sah_deepseek-chat_7.cpp,ACCEPTED,50,100.00%,0.060,0.00390625,13,19,18

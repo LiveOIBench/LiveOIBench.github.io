@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+Pinball_gpt-oss-120b-high_0.cpp,RUNTIME_ERROR,0,0.00%,0.170,49.12890625,0,0,0,0,0,0,0,0
+Pinball_gpt-oss-120b-high_1.cpp,ACCEPTED,100,100.00%,1.300,127.546875,0,13,8,16,10,11,9,33
+Pinball_gpt-oss-120b-high_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.640,16.7578125,0,0,0,0,0,0,0,0
+Pinball_gpt-oss-120b-high_3.cpp,RUNTIME_ERROR,8,12.50%,0.180,57.18359375,0,0,8,0,0,0,0,0
+Pinball_gpt-oss-120b-high_5.cpp,RUNTIME_ERROR,18,28.12%,0.340,177.3359375,0,0,8,0,10,0,0,0
+Pinball_gpt-oss-120b-high_6.cpp,MEMORY_LIMIT_EXCEEDED,40,67.50%,1.380,199.60546875,0,13,8,0,10,0,9,0
+Pinball_gpt-oss-120b-high_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0

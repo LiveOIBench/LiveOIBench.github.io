@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+skrivaca_deepseek-chat_0.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.390,551.5,0,0,0,0
+skrivaca_deepseek-chat_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.290,24.40234375,0,0,0,0
+skrivaca_deepseek-chat_2.cpp,RUNTIME_ERROR,0,0.00%,0.180,23.20703125,0,0,0,0
+skrivaca_deepseek-chat_3.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.370,557.140625,0,0,0,0
+skrivaca_deepseek-chat_4.cpp,RUNTIME_ERROR,0,0.00%,0.180,15.4765625,0,0,0,0
+skrivaca_deepseek-chat_5.cpp,RUNTIME_ERROR,0,0.00%,0.160,14.82421875,0,0,0,0
+skrivaca_deepseek-chat_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.390,556.671875,0,0,0,0
+skrivaca_deepseek-chat_7.cpp,RUNTIME_ERROR,0,0.00%,0.240,23.984375,0,0,0,0

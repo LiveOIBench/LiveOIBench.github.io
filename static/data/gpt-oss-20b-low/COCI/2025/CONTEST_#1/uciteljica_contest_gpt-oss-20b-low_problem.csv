@@ -1,0 +1,6 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+uciteljica_gpt-oss-20b-low_1.cpp,TIME_LIMIT_EXCEEDED,0,3.28%,5.970,1.55859375,0,0,0,0
+uciteljica_gpt-oss-20b-low_2.cpp,RUNTIME_ERROR,0,1.64%,0.020,0,0,0,0,0
+uciteljica_gpt-oss-20b-low_4.cpp,RUNTIME_ERROR,0,1.64%,0.000,0,0,0,0,0
+uciteljica_gpt-oss-20b-low_5.cpp,RUNTIME_ERROR,0,1.64%,0.000,0,0,0,0,0
+uciteljica_gpt-oss-20b-low_6.cpp,RUNTIME_ERROR,0,1.64%,0.020,0,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cowmpetency,DeepSeek-R1-Distill-Llama-70B,WRONG_ANSWER,0,8.33%,0.220,2.609375
+silver_Potion_Farming,DeepSeek-R1-Distill-Llama-70B,MEMORY_LIMIT_EXCEEDED,310,86.67%,0.180,9.95703125
+silver_Cowlendar,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,194,50.00%,0.260,1.5546875

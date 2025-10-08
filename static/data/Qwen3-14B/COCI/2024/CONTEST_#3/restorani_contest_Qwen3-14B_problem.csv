@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+restorani_Qwen3-14B_0.cpp,RUNTIME_ERROR,0,0.68%,0.220,46.1484375,0,0,0,0
+restorani_Qwen3-14B_1.cpp,RUNTIME_ERROR,0,0.68%,0.350,43.97265625,0,0,0,0
+restorani_Qwen3-14B_2.cpp,RUNTIME_ERROR,0,0.68%,0.280,46.12890625,0,0,0,0
+restorani_Qwen3-14B_3.cpp,RUNTIME_ERROR,0,0.68%,0.330,46.125,0,0,0,0
+restorani_Qwen3-14B_4.cpp,RUNTIME_ERROR,0,0.68%,0.250,44.75,0,0,0,0
+restorani_Qwen3-14B_5.cpp,RUNTIME_ERROR,0,0.68%,0.270,60.3359375,0,0,0,0
+restorani_Qwen3-14B_6.cpp,RUNTIME_ERROR,0,0.68%,0.290,44.71875,0,0,0,0
+restorani_Qwen3-14B_7.cpp,RUNTIME_ERROR,0,0.68%,1.280,45.078125,0,0,0,0

@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+7krokods,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,0.00%,0.000,0
+zrinka,Llama-3.3-70B-Instruct,RUNTIME_ERROR,20,20.00%,0.000,0
+bojanje,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,0,20.00%,1.110,0.00390625
+mreza,Llama-3.3-70B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+vrsta,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,19,20.00%,1.160,443.18359375

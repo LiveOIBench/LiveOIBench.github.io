@@ -1,0 +1,6 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+2025-ho-t1_Grid_Coloring_Llama-4-Scout_0.cpp,MEMORY_LIMIT_EXCEEDED,25,70.95%,0.420,1178.72265625,15,10,0,0,0
+2025-ho-t1_Grid_Coloring_Llama-4-Scout_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_Llama-4-Scout_2.cpp,MEMORY_LIMIT_EXCEEDED,25,70.95%,0.460,1218.66796875,15,10,0,0,0
+2025-ho-t1_Grid_Coloring_Llama-4-Scout_3.cpp,MEMORY_LIMIT_EXCEEDED,25,70.95%,0.510,1218.171875,15,10,0,0,0
+2025-ho-t1_Grid_Coloring_Llama-4-Scout_4.cpp,MEMORY_LIMIT_EXCEEDED,25,70.95%,0.470,1220.75,15,10,0,0,0

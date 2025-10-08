@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+garbage_gpt-oss-120b-high_0.cpp,ACCEPTED,100,100.00%,0.150,12.22265625,10,12,15,22,23,18
+garbage_gpt-oss-120b-high_1.cpp,ACCEPTED,100,100.00%,0.140,13.78125,10,12,15,22,23,18
+garbage_gpt-oss-120b-high_2.cpp,ACCEPTED,100,100.00%,0.180,18.09375,10,12,15,22,23,18
+garbage_gpt-oss-120b-high_3.cpp,ACCEPTED,100,100.00%,0.210,23.50390625,10,12,15,22,23,18
+garbage_gpt-oss-120b-high_4.cpp,ACCEPTED,100,100.00%,0.160,15.328125,10,12,15,22,23,18
+garbage_gpt-oss-120b-high_5.cpp,ACCEPTED,100,100.00%,0.140,13.76953125,10,12,15,22,23,18
+garbage_gpt-oss-120b-high_6.cpp,ACCEPTED,100,100.00%,0.170,14.02734375,10,12,15,22,23,18
+garbage_gpt-oss-120b-high_7.cpp,ACCEPTED,100,100.00%,0.150,15.2109375,10,12,15,22,23,18

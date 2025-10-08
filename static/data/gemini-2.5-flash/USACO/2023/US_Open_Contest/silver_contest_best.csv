@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Milk_Sum,gemini-2.5-flash,WRONG_ANSWER,67,27.27%,0.160,4.90625
+silver_Field_Day,gemini-2.5-flash,ACCEPTED,333,100.00%,0.050,3.359375
+silver_Pareidolia,gemini-2.5-flash,ACCEPTED,333,100.00%,0.070,43.046875

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+diplomacy,deepseek-reasoner,TIME_LIMIT_EXCEEDED,0,5.38%,4.420,16.7734375
+garbage,deepseek-reasoner,RUNTIME_ERROR,22,46.58%,0.160,22.08984375
+xoracle,deepseek-reasoner,ACCEPTED,100,100.00%,0.400,4.53515625

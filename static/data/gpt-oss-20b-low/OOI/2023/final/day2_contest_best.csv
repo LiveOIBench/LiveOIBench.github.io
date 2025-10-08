@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Burenka_and_Pether,gpt-oss-20b-low,RUNTIME_ERROR,0,0.00%,0.070,5.94140625
+Almost_Certainly,gpt-oss-20b-low,RUNTIME_ERROR,0,1.55%,0.050,21.40625
+Three_Arrays,gpt-oss-20b-low,RUNTIME_ERROR,0,32.95%,0.000,0
+Parallel_Universes,gpt-oss-20b-low,RUNTIME_ERROR,0,0.72%,0.020,0.00390625

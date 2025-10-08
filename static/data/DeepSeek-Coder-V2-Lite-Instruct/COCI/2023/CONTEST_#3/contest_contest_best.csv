@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+estimathon,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,39,66.67%,0.000,0
+dirigent,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,0,0.00%,1.120,1.54296875
+baltazar,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+bomboni,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,2.00%,0.540,3.359375
+skrivaca,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

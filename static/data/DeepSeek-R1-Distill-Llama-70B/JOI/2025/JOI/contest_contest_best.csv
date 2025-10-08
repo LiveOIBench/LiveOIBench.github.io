@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+2025-ho-t1_Grid_Coloring,DeepSeek-R1-Distill-Llama-70B,MEMORY_LIMIT_EXCEEDED,25,70.95%,0.490,1115.046875
+2025-ho-t2_Bitaro_the_Brave_2,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,100,100.00%,0.360,16.51171875
+2025-ho-t3_Mi_Teleférico,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,4.14%,0.550,5.390625
+2025-ho-t4_Just_Long_Neckties_2,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,9.15%,0.120,0
+2025-ho-t5_Post_Office,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,3,18.71%,2.270,13.8515625

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Distinctive_Features_Qwen2.5-Coder-7B-Instruct_0.cpp,RUNTIME_ERROR,0,0.00%,0.250,22.44140625,0,0,0,0,0,0,0,0,0,0
+Distinctive_Features_Qwen2.5-Coder-7B-Instruct_1.cpp,RUNTIME_ERROR,0,0.00%,0.580,80.95703125,0,0,0,0,0,0,0,0,0,0
+Distinctive_Features_Qwen2.5-Coder-7B-Instruct_2.cpp,RUNTIME_ERROR,0,0.00%,0.170,47.1875,0,0,0,0,0,0,0,0,0,0
+Distinctive_Features_Qwen2.5-Coder-7B-Instruct_3.cpp,RUNTIME_ERROR,0,0.00%,0.320,29.65625,0,0,0,0,0,0,0,0,0,0
+Distinctive_Features_Qwen2.5-Coder-7B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.320,26.19140625,0,0,0,0,0,0,0,0,0,0
+Distinctive_Features_Qwen2.5-Coder-7B-Instruct_5.cpp,RUNTIME_ERROR,0,0.00%,0.280,53.6328125,0,0,0,0,0,0,0,0,0,0
+Distinctive_Features_Qwen2.5-Coder-7B-Instruct_6.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0
+Distinctive_Features_Qwen2.5-Coder-7B-Instruct_7.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0

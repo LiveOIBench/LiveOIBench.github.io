@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Cowdependence,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Interstellar_Intervals,Llama-4-Scout,RUNTIME_ERROR,0,0.00%,0.020,1.61328125
+gold_Job_Completion,Llama-4-Scout,WRONG_ANSWER,22,12.50%,0.080,4.640625

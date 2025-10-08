@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+slasticarnica_Llama-3.1-8B-Instruct_0.cpp,RUNTIME_ERROR,0,0.00%,0.100,1.5546875,0,0,0
+slasticarnica_Llama-3.1-8B-Instruct_1.cpp,RUNTIME_ERROR,0,0.00%,0.080,3.6171875,0,0,0
+slasticarnica_Llama-3.1-8B-Instruct_2.cpp,RUNTIME_ERROR,0,0.00%,0.090,2.91015625,0,0,0
+slasticarnica_Llama-3.1-8B-Instruct_3.cpp,RUNTIME_ERROR,0,0.00%,0.160,253.2890625,0,0,0
+slasticarnica_Llama-3.1-8B-Instruct_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+slasticarnica_Llama-3.1-8B-Instruct_5.cpp,RUNTIME_ERROR,0,0.00%,0.080,2.953125,0,0,0
+slasticarnica_Llama-3.1-8B-Instruct_6.cpp,RUNTIME_ERROR,0,0.00%,0.070,3.21484375,0,0,0
+slasticarnica_Llama-3.1-8B-Instruct_7.cpp,RUNTIME_ERROR,0,0.00%,0.070,3.15234375,0,0,0

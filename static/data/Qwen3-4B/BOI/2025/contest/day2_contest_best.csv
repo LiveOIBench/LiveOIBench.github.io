@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+dev,Qwen3-4B,RUNTIME_ERROR,0,1.10%,0.000,0.00390625
+exp,Qwen3-4B,RUNTIME_ERROR,0,1.34%,0.050,25.33984375
+gcd,Qwen3-4B,RUNTIME_ERROR,0,3.28%,0.000,0

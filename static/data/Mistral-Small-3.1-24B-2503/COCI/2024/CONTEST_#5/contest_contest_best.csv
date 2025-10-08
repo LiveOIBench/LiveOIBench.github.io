@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+zlagalica,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0
+bitovi,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0
+piratski,Mistral-Small-3.1-24B-2503,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.070,1.81640625
+rolete,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0
+trokut,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,0.00%,0.060,0.00390625

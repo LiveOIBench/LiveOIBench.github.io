@@ -1,0 +1,5 @@
+problem,status,score,relative_score,%test passed,time,memory,pass_rate,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+diplomacy,ACCEPTED,100,100.00%,100.00%,2.080,117.95703125,,9,10,6,17,14,26,18
+garbage,RUNTIME_ERROR,0,0.00%,26.03%,0.140,9.64453125,,0,0,0,0,0,0,0
+xoracle,ACCEPTED,100,100.00%,100.00%,0.380,3.80078125,,8,5,9,11,24,43,0
+TOTAL,,200,,75.34%,,,66.67%,,,,,,,

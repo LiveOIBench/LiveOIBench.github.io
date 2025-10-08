@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+bronze_Hungry_Cow,gpt-oss-120b-medium,ACCEPTED,333,100.91%,100.00%,0.060,0.00390625
+bronze_Stamp_Grid,gpt-oss-120b-medium,ACCEPTED,333,102.46%,100.00%,0.040,0.00390625
+bronze_Watching_Mooloo,gpt-oss-120b-medium,ACCEPTED,333,100.91%,100.00%,0.050,2.015625

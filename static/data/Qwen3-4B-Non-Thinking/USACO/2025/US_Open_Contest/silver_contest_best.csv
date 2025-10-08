@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Sequence_Construction,Qwen3-4B-Non-Thinking,WRONG_ANSWER,0,0.00%,0.130,0.00390625
+silver_Compatible_Pairs,Qwen3-4B-Non-Thinking,WRONG_ANSWER,67,33.33%,0.330,25.7890625
+silver_Ski_Slope,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0

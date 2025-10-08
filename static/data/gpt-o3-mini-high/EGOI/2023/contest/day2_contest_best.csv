@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+candy,gpt-o3-mini-high,ACCEPTED,100,100.00%,0.050,5.16796875
+sopsug,gpt-o3-mini-high,UNKNOWN,0,0.00%,0.000,0
+guessinggame,gpt-o3-mini-high,RUNTIME_ERROR,0,0.00%,0.000,0
+carnival,gpt-o3-mini-high,ACCEPTED,100,100.00%,0.060,3.359375

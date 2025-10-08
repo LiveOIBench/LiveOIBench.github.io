@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+7krokods,gpt-oss-20b-low,ACCEPTED,50,100.00%,0.020,0
+zrinka,gpt-oss-20b-low,ACCEPTED,70,100.00%,0.140,97.20703125
+bojanje,gpt-oss-20b-low,RUNTIME_ERROR,30,40.00%,0.010,0
+mreza,gpt-oss-20b-low,COMPILATION_ERROR,0,0.00%,0.000,0
+vrsta,gpt-oss-20b-low,ACCEPTED,110,100.00%,0.110,7.484375

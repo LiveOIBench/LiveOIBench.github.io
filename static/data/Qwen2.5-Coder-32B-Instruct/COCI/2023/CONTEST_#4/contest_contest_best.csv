@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+7krokods,Qwen2.5-Coder-32B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+zrinka,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,20,20.00%,0.000,0
+bojanje,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,30,33.33%,0.000,0
+mreza,Qwen2.5-Coder-32B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+vrsta,Qwen2.5-Coder-32B-Instruct,TIME_LIMIT_EXCEEDED,45,40.00%,1.120,119.8359375

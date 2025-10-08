@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cowmpetency,seed-oss_8192,WRONG_ANSWER,0,8.33%,0.050,3.23828125
+silver_Potion_Farming,seed-oss_8192,WRONG_ANSWER,95,33.33%,0.050,11.41015625
+silver_Cowlendar,seed-oss_8192,ACCEPTED,333,100.00%,0.030,1.74609375

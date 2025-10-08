@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Walking_in_Manhattan,Qwen3-32B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Cowmpetency,Qwen3-32B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Nap_Sort,Qwen3-32B-Non-Thinking,WRONG_ANSWER,0,0.00%,0.050,2.84375

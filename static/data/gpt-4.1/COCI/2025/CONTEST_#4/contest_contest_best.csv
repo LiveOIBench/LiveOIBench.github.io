@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+sah,gpt-4.1,ACCEPTED,50,100.00%,0.080,1.8984375
+benzinska,gpt-4.1,ACCEPTED,70,100.00%,0.120,3.8984375
+xor,gpt-4.1,UNKNOWN,0,0.00%,0.000,0
+cipele,gpt-4.1,RUNTIME_ERROR,27,12.90%,0.160,15.2109375
+tura,gpt-4.1,RUNTIME_ERROR,0,0.72%,0.070,2.83984375

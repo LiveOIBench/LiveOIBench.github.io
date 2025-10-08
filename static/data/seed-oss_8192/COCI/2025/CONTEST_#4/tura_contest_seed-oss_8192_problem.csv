@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+tura_seed-oss_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.610,575.796875,0,0,0
+tura_seed-oss_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+tura_seed-oss_2.cpp,TIME_LIMIT_EXCEEDED,0,12.95%,0.610,613.48828125,0,0,0
+tura_seed-oss_3.cpp,RUNTIME_ERROR,0,0.72%,0.120,2.1484375,0,0,0
+tura_seed-oss_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.610,64.97265625,0,0,0
+tura_seed-oss_5.cpp,TIME_LIMIT_EXCEEDED,0,1.44%,0.600,190.78515625,0,0,0
+tura_seed-oss_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+tura_seed-oss_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0

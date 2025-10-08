@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+igre_seed-oss_0.cpp,ACCEPTED,70,100.00%,0.070,1.59375,6,13,23,28
+igre_seed-oss_1.cpp,RUNTIME_ERROR,29,44.90%,0.060,0.00390625,6,0,23,0
+igre_seed-oss_2.cpp,ACCEPTED,70,100.00%,0.150,1.6015625,6,13,23,28
+igre_seed-oss_3.cpp,ACCEPTED,70,100.00%,0.840,1.84765625,6,13,23,28
+igre_seed-oss_4.cpp,ACCEPTED,70,100.00%,0.120,1.67578125,6,13,23,28
+igre_seed-oss_5.cpp,RUNTIME_ERROR,23,26.53%,0.050,0.00390625,0,0,23,0
+igre_seed-oss_6.cpp,ACCEPTED,70,100.00%,0.240,1.6015625,6,13,23,28
+igre_seed-oss_7.cpp,RUNTIME_ERROR,29,44.90%,0.060,0.00390625,6,0,23,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Test_Tubes_Qwen3-8B_0.cpp,WRONG_ANSWER,0,0.00%,0.050,1.59375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Test_Tubes_Qwen3-8B_1.cpp,WRONG_ANSWER,0,0.00%,0.030,1.76171875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Test_Tubes_Qwen3-8B_2.cpp,WRONG_ANSWER,0,0.00%,1.620,17.609375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Test_Tubes_Qwen3-8B_3.cpp,WRONG_ANSWER,0,0.00%,1.640,17.63671875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Test_Tubes_Qwen3-8B_4.cpp,WRONG_ANSWER,0,0.00%,0.850,8.61328125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Test_Tubes_Qwen3-8B_5.cpp,WRONG_ANSWER,0,0.00%,0.810,8.62109375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Test_Tubes_Qwen3-8B_6.cpp,WRONG_ANSWER,0,0.00%,0.770,1.59375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Test_Tubes_Qwen3-8B_7.cpp,WRONG_ANSWER,0,0.00%,1.600,15.81640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

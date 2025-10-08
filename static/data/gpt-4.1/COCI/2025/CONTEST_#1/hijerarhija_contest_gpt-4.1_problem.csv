@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+hijerarhija_gpt-4.1_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.320,155.875,0,0,0,0,0,0
+hijerarhija_gpt-4.1_1.cpp,ACCEPTED,90,100.00%,0.190,10.58203125,7,12,16,15,23,17
+hijerarhija_gpt-4.1_2.cpp,TIME_LIMIT_EXCEEDED,35,55.56%,3.360,17.5390625,7,12,16,0,0,0
+hijerarhija_gpt-4.1_3.cpp,TIME_LIMIT_EXCEEDED,50,75.00%,3.340,49.6171875,7,12,16,15,0,0
+hijerarhija_gpt-4.1_4.cpp,TIME_LIMIT_EXCEEDED,50,63.89%,3.330,58.48828125,7,12,16,15,0,0
+hijerarhija_gpt-4.1_5.cpp,TIME_LIMIT_EXCEEDED,50,63.89%,3.320,73.578125,7,12,16,15,0,0
+hijerarhija_gpt-4.1_6.cpp,TIME_LIMIT_EXCEEDED,15,20.83%,3.330,51.9765625,0,0,0,15,0,0
+hijerarhija_gpt-4.1_7.cpp,TIME_LIMIT_EXCEEDED,50,75.00%,3.330,64.36328125,7,12,16,15,0,0

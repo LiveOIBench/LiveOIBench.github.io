@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+jobs_Qwen3-14B_0.cpp,RUNTIME_ERROR,0,0.00%,0.050,5.94140625,0,0,0,0,0
+jobs_Qwen3-14B_1.cpp,RUNTIME_ERROR,0,0.00%,0.080,23.98828125,0,0,0,0,0
+jobs_Qwen3-14B_2.cpp,RUNTIME_ERROR,0,0.00%,0.060,10.32421875,0,0,0,0,0
+jobs_Qwen3-14B_3.cpp,RUNTIME_ERROR,0,0.00%,0.150,5.94140625,0,0,0,0,0
+jobs_Qwen3-14B_4.cpp,RUNTIME_ERROR,0,0.00%,0.040,10.578125,0,0,0,0,0
+jobs_Qwen3-14B_5.cpp,RUNTIME_ERROR,0,0.00%,0.050,10.5078125,0,0,0,0,0
+jobs_Qwen3-14B_6.cpp,RUNTIME_ERROR,0,0.00%,0.110,21.73046875,0,0,0,0,0
+jobs_Qwen3-14B_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.120,11.60546875,0,0,0,0,0

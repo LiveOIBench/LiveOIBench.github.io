@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Hungry_Cow,Qwen3-30B,TIME_LIMIT_EXCEEDED,0,9.09%,6.670,4.64453125
+platinum_Problem_Setting,Qwen3-30B,TIME_LIMIT_EXCEEDED,200,63.64%,2.330,32.23046875
+platinum_Watching_Cowflix,Qwen3-30B,WRONG_ANSWER,0,8.33%,0.160,13.58984375

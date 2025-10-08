@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+pingvin_gpt-5_0.cpp,ACCEPTED,70,100.00%,0.020,6.19140625,7,16,22,25
+pingvin_gpt-5_1.cpp,ACCEPTED,70,100.00%,0.050,6.453125,7,16,22,25
+pingvin_gpt-5_2.cpp,ACCEPTED,70,100.00%,0.050,6.1953125,7,16,22,25
+pingvin_gpt-5_3.cpp,ACCEPTED,70,100.00%,0.070,6.1953125,7,16,22,25
+pingvin_gpt-5_4.cpp,ACCEPTED,70,100.00%,0.060,5.421875,7,16,22,25
+pingvin_gpt-5_5.cpp,ACCEPTED,70,100.00%,0.070,6.1953125,7,16,22,25
+pingvin_gpt-5_6.cpp,ACCEPTED,70,100.00%,0.050,6.1953125,7,16,22,25
+pingvin_gpt-5_7.cpp,ACCEPTED,70,100.00%,0.070,6.1953125,7,16,22,25

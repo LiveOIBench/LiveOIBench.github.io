@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Potion_Farming_Qwen2.5-Coder-32B-Instruct_0.cpp,WRONG_ANSWER,0,0.00%,0.150,8.85546875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Potion_Farming_Qwen2.5-Coder-32B-Instruct_1.cpp,WRONG_ANSWER,0,0.00%,0.180,8.74609375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Potion_Farming_Qwen2.5-Coder-32B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.350,10.765625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Potion_Farming_Qwen2.5-Coder-32B-Instruct_3.cpp,WRONG_ANSWER,0,0.00%,0.130,10.03515625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Potion_Farming_Qwen2.5-Coder-32B-Instruct_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Potion_Farming_Qwen2.5-Coder-32B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.460,253.69921875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Potion_Farming_Qwen2.5-Coder-32B-Instruct_6.cpp,WRONG_ANSWER,0,0.00%,0.140,7.92578125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Potion_Farming_Qwen2.5-Coder-32B-Instruct_7.cpp,WRONG_ANSWER,0,0.00%,0.130,11.3515625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

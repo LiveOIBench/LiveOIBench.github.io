@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+robot,gemini-2.5-flash,RUNTIME_ERROR,0,0.67%,0.090,8.7734375
+overtaking,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,39,69.78%,2.760,0.00390625
+beechtree,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,9,25.14%,1.670,40.71484375

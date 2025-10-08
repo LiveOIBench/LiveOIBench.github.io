@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0_1,subtask_1_1,subtask_2_1,subtask_3_1,subtask_4_1,subtask_5_1,subtask_6_1,subtask_7_1
+light_gpt-5_0.cpp,RUNTIME_ERROR,0,0.74%,0.010,1.54296875,0,0,0,0,0,0,0,0
+light_gpt-5_1.cpp,RUNTIME_ERROR,5,9.49%,0.450,1.54296875,0,5,0,0,0,0,0,0
+light_gpt-5_2.cpp,RUNTIME_ERROR,5,9.49%,0.320,1.53515625,0,5,0,0,0,0,0,0
+light_gpt-5_3.cpp,RUNTIME_ERROR,0,0.74%,0.220,1.48828125,0,0,0,0,0,0,0,0
+light_gpt-5_4.cpp,RUNTIME_ERROR,0,0.00%,0.300,1.48828125,0,0,0,0,0,0,0,0
+light_gpt-5_5.cpp,RUNTIME_ERROR,0,0.74%,0.030,1.48828125,0,0,0,0,0,0,0,0
+light_gpt-5_6.cpp,RUNTIME_ERROR,0,0.00%,0.310,1.5390625,0,0,0,0,0,0,0,0
+light_gpt-5_7.cpp,RUNTIME_ERROR,0,0.74%,0.030,1.6015625,0,0,0,0,0,0,0,0

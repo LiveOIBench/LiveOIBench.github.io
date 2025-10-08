@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Pareidolia_Qwen2.5-Coder-7B-Instruct_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Pareidolia_Qwen2.5-Coder-7B-Instruct_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Pareidolia_Qwen2.5-Coder-7B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.470,1.87890625,0,0,0,0,0,0,0,0,0,0,0
+silver_Pareidolia_Qwen2.5-Coder-7B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.440,2.16796875,0,0,0,0,0,0,0,0,0,0,0
+silver_Pareidolia_Qwen2.5-Coder-7B-Instruct_4.cpp,RUNTIME_ERROR,0,0.00%,0.120,1.6796875,0,0,0,0,0,0,0,0,0,0,0
+silver_Pareidolia_Qwen2.5-Coder-7B-Instruct_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Pareidolia_Qwen2.5-Coder-7B-Instruct_6.cpp,RUNTIME_ERROR,0,0.00%,0.110,1.70703125,0,0,0,0,0,0,0,0,0,0,0
+silver_Pareidolia_Qwen2.5-Coder-7B-Instruct_7.cpp,RUNTIME_ERROR,0,0.00%,0.110,2.85546875,0,0,0,0,0,0,0,0,0,0,0

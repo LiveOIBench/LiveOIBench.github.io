@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+walk_gemini-2.5-pro_0.cpp,ACCEPTED,100,100.00%,0.500,26.296875,0,10,7,29,27,7,14,6
+walk_gemini-2.5-pro_1.cpp,ACCEPTED,100,100.00%,0.420,15.23828125,0,10,7,29,27,7,14,6
+walk_gemini-2.5-pro_2.cpp,ACCEPTED,100,100.00%,0.490,26.8203125,0,10,7,29,27,7,14,6
+walk_gemini-2.5-pro_3.cpp,ACCEPTED,100,100.00%,0.430,13.5625,0,10,7,29,27,7,14,6
+walk_gemini-2.5-pro_4.cpp,ACCEPTED,100,100.00%,0.390,15.21875,0,10,7,29,27,7,14,6
+walk_gemini-2.5-pro_5.cpp,ACCEPTED,100,100.00%,0.450,14.07421875,0,10,7,29,27,7,14,6
+walk_gemini-2.5-pro_6.cpp,RUNTIME_ERROR,7,55.79%,0.170,4.390625,0,0,7,0,0,0,0,0
+walk_gemini-2.5-pro_7.cpp,ACCEPTED,100,100.00%,0.400,14.07421875,0,10,7,29,27,7,14,6

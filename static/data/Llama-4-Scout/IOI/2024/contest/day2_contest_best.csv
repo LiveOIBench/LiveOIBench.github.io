@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+hieroglyphs,Llama-4-Scout,TIME_LIMIT_EXCEEDED,0,6.99%,1.200,2449.74609375
+sphinx,Llama-4-Scout,RUNTIME_ERROR,0,6.38%,0.030,3.83984375
+mosaic,Llama-4-Scout,TIME_LIMIT_EXCEEDED,12,57.66%,1.210,2438.6640625

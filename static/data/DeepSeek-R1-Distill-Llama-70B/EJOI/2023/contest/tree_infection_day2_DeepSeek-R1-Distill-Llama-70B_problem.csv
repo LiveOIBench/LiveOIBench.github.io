@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+tree_infection_DeepSeek-R1-Distill-Llama-70B_0.cpp,TIME_LIMIT_EXCEEDED,0,1.85%,1.200,49.7578125,0,0,0,0,0,0,0
+tree_infection_DeepSeek-R1-Distill-Llama-70B_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+tree_infection_DeepSeek-R1-Distill-Llama-70B_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.130,23.46484375,0,0,0,0,0,0,0
+tree_infection_DeepSeek-R1-Distill-Llama-70B_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.190,62.38671875,0,0,0,0,0,0,0
+tree_infection_DeepSeek-R1-Distill-Llama-70B_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.160,42.80859375,0,0,0,0,0,0,0
+tree_infection_DeepSeek-R1-Distill-Llama-70B_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.170,40.0625,0,0,0,0,0,0,0
+tree_infection_DeepSeek-R1-Distill-Llama-70B_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.120,51.390625,0,0,0,0,0,0,0
+tree_infection_DeepSeek-R1-Distill-Llama-70B_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0

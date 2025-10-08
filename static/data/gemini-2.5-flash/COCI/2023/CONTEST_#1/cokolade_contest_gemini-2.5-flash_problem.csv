@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+cokolade_gemini-2.5-flash_0.cpp,ACCEPTED,70,100.00%,0.100,3.6171875,15,20,35
+cokolade_gemini-2.5-flash_1.cpp,ACCEPTED,70,100.00%,0.090,2.84765625,15,20,35
+cokolade_gemini-2.5-flash_2.cpp,ACCEPTED,70,100.00%,0.370,2.84375,15,20,35
+cokolade_gemini-2.5-flash_3.cpp,ACCEPTED,70,100.00%,0.120,2.84765625,15,20,35
+cokolade_gemini-2.5-flash_4.cpp,ACCEPTED,70,100.00%,0.100,2.84765625,15,20,35
+cokolade_gemini-2.5-flash_5.cpp,ACCEPTED,70,100.00%,0.370,2.84375,15,20,35
+cokolade_gemini-2.5-flash_6.cpp,ACCEPTED,70,100.00%,0.380,2.90234375,15,20,35
+cokolade_gemini-2.5-flash_7.cpp,ACCEPTED,70,100.00%,0.360,3.359375,15,20,35

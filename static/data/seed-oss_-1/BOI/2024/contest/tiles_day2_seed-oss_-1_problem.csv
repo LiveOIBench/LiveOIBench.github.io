@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+tiles_seed-oss_0.cpp,RUNTIME_ERROR,0,7.28%,0.030,12.5546875,0,0,0,0,0,0,0
+tiles_seed-oss_1.cpp,TIME_LIMIT_EXCEEDED,0,3.33%,1.210,7.69921875,0,0,0,0,0,0,0
+tiles_seed-oss_2.cpp,RUNTIME_ERROR,4,8.61%,0.020,7.69921875,4,0,0,0,0,0,0
+tiles_seed-oss_3.cpp,RUNTIME_ERROR,0,1.99%,0.050,11.44921875,0,0,0,0,0,0,0
+tiles_seed-oss_4.cpp,RUNTIME_ERROR,0,0.66%,0.040,6.1640625,0,0,0,0,0,0,0
+tiles_seed-oss_5.cpp,RUNTIME_ERROR,0,0.67%,0.010,6.203125,0,0,0,0,0,0,0
+tiles_seed-oss_6.cpp,TIME_LIMIT_EXCEEDED,0,1.96%,1.210,18.96484375,0,0,0,0,0,0,0
+tiles_seed-oss_7.cpp,RUNTIME_ERROR,0,7.28%,0.890,11.37109375,0,0,0,0,0,0,0

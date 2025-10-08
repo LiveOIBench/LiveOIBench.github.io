@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+s1,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,15,100.00%,0.280,5.16796875
+s2,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,15,100.00%,0.070,0.00390625
+s3,DeepSeek-R1-Distill-Llama-70B,COMPILATION_ERROR,0,0.00%,0.000,0
+s4,DeepSeek-R1-Distill-Llama-70B,COMPILATION_ERROR,0,0.00%,0.000,0
+s5,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,14.16%,0.090,3.1171875

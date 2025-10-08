@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4
+2023-sp_Bitaro’s_travel_Qwen2.5-72B_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+2023-sp_Bitaro’s_travel_Qwen2.5-72B_1.cpp,MEMORY_LIMIT_EXCEEDED,5,56.82%,0.610,518.20703125,5,0,0,0
+2023-sp_Bitaro’s_travel_Qwen2.5-72B_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+2023-sp_Bitaro’s_travel_Qwen2.5-72B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+2023-sp_Bitaro’s_travel_Qwen2.5-72B_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+2023-sp_Bitaro’s_travel_Qwen2.5-72B_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+2023-sp_Bitaro’s_travel_Qwen2.5-72B_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.350,0.00390625,0,0,0,0
+2023-sp_Bitaro’s_travel_Qwen2.5-72B_7.cpp,TIME_LIMIT_EXCEEDED,15,77.88%,2.250,11.3515625,5,10,0,0

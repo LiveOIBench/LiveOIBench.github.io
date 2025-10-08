@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+jobs,seed-oss_8192,RUNTIME_ERROR,11,9.42%,0.070,24.23828125
+portal,seed-oss_8192,RUNTIME_ERROR,11,33.51%,0.000,2.84765625
+trains,seed-oss_8192,ACCEPTED,100,100.00%,0.580,249.3125

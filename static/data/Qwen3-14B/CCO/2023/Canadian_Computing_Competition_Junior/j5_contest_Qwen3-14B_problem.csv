@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+j5_Qwen3-14B_0.cpp,RUNTIME_ERROR,6,72.22%,0.000,0,2,2,2,0
+j5_Qwen3-14B_1.cpp,RUNTIME_ERROR,0,22.22%,0.000,0,0,0,0,0
+j5_Qwen3-14B_2.cpp,RUNTIME_ERROR,6,72.22%,0.000,0,2,2,2,0
+j5_Qwen3-14B_3.cpp,RUNTIME_ERROR,0,11.11%,0.000,0,0,0,0,0
+j5_Qwen3-14B_4.cpp,RUNTIME_ERROR,0,22.22%,0.000,0,0,0,0,0
+j5_Qwen3-14B_5.cpp,RUNTIME_ERROR,6,72.22%,0.000,0,2,2,2,0
+j5_Qwen3-14B_6.cpp,RUNTIME_ERROR,6,72.22%,0.000,0,2,2,2,0
+j5_Qwen3-14B_7.cpp,RUNTIME_ERROR,0,22.22%,0.000,0,0,0,0,0

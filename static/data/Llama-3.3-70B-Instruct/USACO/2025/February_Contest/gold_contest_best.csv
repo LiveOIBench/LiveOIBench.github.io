@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Bessies_Function,Llama-3.3-70B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_The_Best_Subsequence,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,0,0.00%,2.230,2.06640625
+gold_Friendship_Editing,Llama-3.3-70B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

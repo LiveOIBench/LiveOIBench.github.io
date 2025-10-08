@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+diplomacy,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+garbage,Codestral-22B-v0.1,RUNTIME_ERROR,0,5.48%,0.440,48.2109375
+xoracle,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0

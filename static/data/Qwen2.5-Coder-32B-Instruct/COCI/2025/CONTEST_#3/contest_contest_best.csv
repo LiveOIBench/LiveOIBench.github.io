@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+autobus,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,16.33%,0.000,0
+karte,Qwen2.5-Coder-32B-Instruct,TIME_LIMIT_EXCEEDED,11,37.31%,1.210,0.00390625
+bojanje,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,5.80%,0.000,0
+stablo,Qwen2.5-Coder-32B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+procesor,Qwen2.5-Coder-32B-Instruct,UNKNOWN,0,0.00%,0.000,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+show,Llama-3.3-70B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+september,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,0,0.00%,1.110,8.05078125
+train,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,1.79%,0.510,15.2734375

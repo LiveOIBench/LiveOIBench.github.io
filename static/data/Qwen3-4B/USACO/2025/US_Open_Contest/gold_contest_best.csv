@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Moo_Decomposition,Qwen3-4B,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Election_Queries,Qwen3-4B,WRONG_ANSWER,0,6.67%,0.140,3.875
+gold_OohMoo_Milk,Qwen3-4B,RUNTIME_ERROR,0,0.00%,0.040,2.07421875

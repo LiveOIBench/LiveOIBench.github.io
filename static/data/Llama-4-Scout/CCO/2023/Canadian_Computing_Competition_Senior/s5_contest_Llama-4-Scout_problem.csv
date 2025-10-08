@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+s5_Llama-4-Scout_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.800,2.34375,0,0,0
+s5_Llama-4-Scout_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+s5_Llama-4-Scout_2.cpp,RUNTIME_ERROR,0,0.00%,0.010,0.00390625,0,0,0
+s5_Llama-4-Scout_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.800,2.34375,0,0,0
+s5_Llama-4-Scout_4.cpp,RUNTIME_ERROR,0,0.00%,0.110,2.71484375,0,0,0
+s5_Llama-4-Scout_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.440,257.4609375,0,0,0
+s5_Llama-4-Scout_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+s5_Llama-4-Scout_7.cpp,RUNTIME_ERROR,0,0.00%,0.010,0.00390625,0,0,0

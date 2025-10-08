@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+hijerarhija_Qwen2.5-Coder-32B-Instruct_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+hijerarhija_Qwen2.5-Coder-32B-Instruct_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+hijerarhija_Qwen2.5-Coder-32B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,0,25.00%,3.350,5.9375,0,0,0,0,0,0
+hijerarhija_Qwen2.5-Coder-32B-Instruct_3.cpp,RUNTIME_ERROR,0,0.00%,0.920,51.82421875,0,0,0,0,0,0
+hijerarhija_Qwen2.5-Coder-32B-Instruct_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+hijerarhija_Qwen2.5-Coder-32B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,0,20.83%,3.320,7.3046875,0,0,0,0,0,0
+hijerarhija_Qwen2.5-Coder-32B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.350,23.03515625,0,0,0,0,0,0
+hijerarhija_Qwen2.5-Coder-32B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.320,255.9765625,0,0,0,0,0,0

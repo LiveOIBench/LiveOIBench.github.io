@@ -1,0 +1,5 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+gardendecorations_gpt-oss-120b-high_3.cpp,RUNTIME_ERROR,0,0.00%,0.030,0.00390625,0,0,0,0,0,0,0
+gardendecorations_gpt-oss-120b-high_4.cpp,RUNTIME_ERROR,0,0.00%,0.030,0,0,0,0,0,0,0,0
+gardendecorations_gpt-oss-120b-high_6.cpp,RUNTIME_ERROR,0,0.00%,0.030,0,0,0,0,0,0,0,0
+gardendecorations_gpt-oss-120b-high_7.cpp,RUNTIME_ERROR,0,0.00%,0.030,0.00390625,0,0,0,0,0,0,0

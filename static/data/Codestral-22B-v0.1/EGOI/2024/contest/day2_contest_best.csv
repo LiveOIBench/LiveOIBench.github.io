@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+circlepassing,Codestral-22B-v0.1,RUNTIME_ERROR,0,2.60%,0.110,28.109375
+makethemmeet,Codestral-22B-v0.1,UNKNOWN,0,0.00%,0.000,0
+lightbulbs,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+bikeparking,Codestral-22B-v0.1,RUNTIME_ERROR,0,8.85%,0.000,0

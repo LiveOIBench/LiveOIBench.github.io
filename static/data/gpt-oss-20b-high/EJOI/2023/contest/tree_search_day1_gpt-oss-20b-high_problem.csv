@@ -1,0 +1,6 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4
+tree_search_gpt-oss-20b-high_1.cpp,RUNTIME_ERROR,30,43.86%,0.110,10.0703125,0,30,0,0
+tree_search_gpt-oss-20b-high_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.090,3.34765625,0,0,0,0
+tree_search_gpt-oss-20b-high_3.cpp,ACCEPTED,100,100.00%,0.120,11.3046875,20,30,15,35
+tree_search_gpt-oss-20b-high_4.cpp,ACCEPTED,100,100.00%,0.110,11.62109375,20,30,15,35
+tree_search_gpt-oss-20b-high_6.cpp,ACCEPTED,100,100.00%,0.110,11.08203125,20,30,15,35

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+carnival_deepseek-reasoner_0.cpp,ACCEPTED,100,100.00%,0.230,3.875,0,11,23,29,37
+carnival_deepseek-reasoner_1.cpp,ACCEPTED,100,100.00%,0.100,3.44921875,0,11,23,29,37
+carnival_deepseek-reasoner_2.cpp,RUNTIME_ERROR,11,30.23%,0.080,1.51953125,0,11,0,0,0
+carnival_deepseek-reasoner_3.cpp,ACCEPTED,100,100.00%,0.180,3.875,0,11,23,29,37
+carnival_deepseek-reasoner_4.cpp,ACCEPTED,100,100.00%,0.150,3.359375,0,11,23,29,37
+carnival_deepseek-reasoner_5.cpp,RUNTIME_ERROR,11,30.23%,0.120,3.10546875,0,11,0,0,0
+carnival_deepseek-reasoner_6.cpp,ACCEPTED,100,100.00%,0.160,3.453125,0,11,23,29,37
+carnival_deepseek-reasoner_7.cpp,RUNTIME_ERROR,0,10.53%,0.030,0.00390625,0,0,0,0,0

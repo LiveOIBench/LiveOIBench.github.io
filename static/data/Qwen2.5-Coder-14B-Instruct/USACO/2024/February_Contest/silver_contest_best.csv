@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Target_Practice_II,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Test_Tubes,Qwen2.5-Coder-14B-Instruct,WRONG_ANSWER,17,4.76%,0.130,1.8828125
+silver_Moorbles,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

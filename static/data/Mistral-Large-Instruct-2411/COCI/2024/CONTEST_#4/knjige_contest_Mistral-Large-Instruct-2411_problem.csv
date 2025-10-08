@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+knjige_Mistral-Large-Instruct-2411_0.cpp,RUNTIME_ERROR,0,0.00%,0.130,2.07421875,0,0,0
+knjige_Mistral-Large-Instruct-2411_1.cpp,RUNTIME_ERROR,7,25.00%,0.120,2.84765625,7,0,0
+knjige_Mistral-Large-Instruct-2411_2.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.120,2.44921875,0,0,0
+knjige_Mistral-Large-Instruct-2411_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.150,5.16796875,0,0,0
+knjige_Mistral-Large-Instruct-2411_4.cpp,RUNTIME_ERROR,0,0.00%,0.110,2.07421875,0,0,0
+knjige_Mistral-Large-Instruct-2411_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.120,2.44921875,0,0,0
+knjige_Mistral-Large-Instruct-2411_6.cpp,RUNTIME_ERROR,0,0.00%,0.080,2.07421875,0,0,0
+knjige_Mistral-Large-Instruct-2411_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.130,6.71484375,0,0,0

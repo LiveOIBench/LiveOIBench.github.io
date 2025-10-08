@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+sudoku,seed-oss_4096,ACCEPTED,50,100.00%,0.000,0
+labirint,seed-oss_4096,ACCEPTED,70,100.00%,0.030,2.19140625
+an2dl,seed-oss_4096,ACCEPTED,110,100.00%,1.110,99.0078125
+kocke,seed-oss_4096,RUNTIME_ERROR,0,13.33%,0.050,1.49609375
+mostovi,seed-oss_4096,RUNTIME_ERROR,0,0.00%,0.050,16.2421875

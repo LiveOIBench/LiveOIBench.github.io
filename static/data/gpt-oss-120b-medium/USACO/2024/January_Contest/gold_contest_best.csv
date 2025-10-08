@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Walking_in_Manhattan,gpt-oss-120b-medium,TIME_LIMIT_EXCEEDED,140,43.34%,45.00%,2.430,4.91796875
+gold_Cowmpetency,gpt-oss-120b-medium,TIME_LIMIT_EXCEEDED,19,5.86%,10.00%,2.460,1.55078125
+gold_Nap_Sort,gpt-oss-120b-medium,TIME_LIMIT_EXCEEDED,33,10.00%,9.09%,2.410,2.84765625

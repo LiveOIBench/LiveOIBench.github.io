@@ -1,0 +1,5 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Its_Mooin_Time_gpt-oss-20b-low_0.cpp,TIME_LIMIT_EXCEEDED,24,11.11%,3.610,10.859375,0,0,0,0,0,0,0,23.809523809523807,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_gpt-oss-20b-low_1.cpp,RUNTIME_ERROR,24,16.67%,0.060,8.75,0,0,0,0,0,0,0,23.809523809523807,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_gpt-oss-20b-low_3.cpp,MEMORY_LIMIT_EXCEEDED,48,33.33%,0.180,298.796875,0,23.809523809523807,0,0,0,0,0,23.809523809523807,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_gpt-oss-20b-low_7.cpp,RUNTIME_ERROR,24,16.67%,0.060,8.59765625,0,0,0,0,0,0,0,23.809523809523807,0,0,0,0,0,0,0

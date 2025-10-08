@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Cowdependence,gpt-o3-mini-high,ACCEPTED,333,100.00%,0.350,6.45703125
+gold_Interstellar_Intervals,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,50,26.09%,2.220,110.62109375
+gold_Job_Completion,gpt-o3-mini-high,WRONG_ANSWER,67,25.00%,0.120,5.25390625

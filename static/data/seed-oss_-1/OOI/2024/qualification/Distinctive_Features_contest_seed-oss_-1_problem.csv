@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Distinctive_Features_seed-oss_0.cpp,ACCEPTED,100,100.00%,0.690,173.81640625,0.0,10.0,7.0,13.0,19.0,7.0,10.0,12.0,7.0,15.0
+Distinctive_Features_seed-oss_1.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0
+Distinctive_Features_seed-oss_2.cpp,ACCEPTED,100,100.00%,0.380,132.77734375,0.0,10.0,7.0,13.0,19.0,7.0,10.0,12.0,7.0,15.0
+Distinctive_Features_seed-oss_3.cpp,ACCEPTED,100,100.00%,0.340,74.25390625,0.0,10.0,7.0,13.0,19.0,7.0,10.0,12.0,7.0,15.0
+Distinctive_Features_seed-oss_4.cpp,ACCEPTED,100,100.00%,0.600,296.58203125,0.0,10.0,7.0,13.0,19.0,7.0,10.0,12.0,7.0,15.0
+Distinctive_Features_seed-oss_5.cpp,ACCEPTED,100,100.00%,0.640,192.390625,0.0,10.0,7.0,13.0,19.0,7.0,10.0,12.0,7.0,15.0
+Distinctive_Features_seed-oss_6.cpp,RUNTIME_ERROR,26,21.43%,0.410,101.32421875,0,0,0,0,19.0,7.0,0,0,0,0
+Distinctive_Features_seed-oss_7.cpp,ACCEPTED,100,100.00%,0.620,291.94140625,0.0,10.0,7.0,13.0,19.0,7.0,10.0,12.0,7.0,15.0

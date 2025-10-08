@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bessies_Interview,gpt-5,ACCEPTED,333,100.00%,0.130,27.34765625
+silver_Painting_Fence_Posts,gpt-5,ACCEPTED,333,100.00%,0.260,66.515625
+silver_The_Winning_Gene,gpt-5,ACCEPTED,333,100.00%,0.080,1.546875

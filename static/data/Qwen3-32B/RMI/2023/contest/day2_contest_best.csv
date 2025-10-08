@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Circles,Qwen3-32B,TIME_LIMIT_EXCEEDED,18,47.37%,1.680,73.9765625
+To_be_xor_not_to_be,Qwen3-32B,RUNTIME_ERROR,6,38.30%,0.040,1.55078125
+Statues,Qwen3-32B,TIME_LIMIT_EXCEEDED,10,38.10%,1.130,8.4765625

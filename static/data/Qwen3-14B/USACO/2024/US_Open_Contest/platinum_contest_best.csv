@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Identity_Theft,Qwen3-14B,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.960,246.2109375
+platinum_Splitting_Haybales,Qwen3-14B,TIME_LIMIT_EXCEEDED,17,13.64%,2.280,3.6796875
+platinum_Activating_Robots,Qwen3-14B,TIME_LIMIT_EXCEEDED,167,50.00%,2.320,226.10546875

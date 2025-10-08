@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+jobs_gpt-5_0.cpp,RUNTIME_ERROR,11,10.07%,0.250,42.21484375,11,0,0,0,0
+jobs_gpt-5_1.cpp,RUNTIME_ERROR,11,10.07%,0.150,37.6484375,11,0,0,0,0
+jobs_gpt-5_2.cpp,RUNTIME_ERROR,0,0.72%,0.090,34.28125,0,0,0,0,0
+jobs_gpt-5_3.cpp,RUNTIME_ERROR,11,10.07%,0.140,23.015625,11,0,0,0,0
+jobs_gpt-5_4.cpp,RUNTIME_ERROR,11,9.42%,0.130,24.3828125,11,0,0,0,0
+jobs_gpt-5_5.cpp,RUNTIME_ERROR,11,9.42%,0.120,24.74609375,11,0,0,0,0
+jobs_gpt-5_6.cpp,RUNTIME_ERROR,11,10.07%,0.300,56.05078125,11,0,0,0,0
+jobs_gpt-5_7.cpp,RUNTIME_ERROR,11,10.07%,0.120,26.875,11,0,0,0,0

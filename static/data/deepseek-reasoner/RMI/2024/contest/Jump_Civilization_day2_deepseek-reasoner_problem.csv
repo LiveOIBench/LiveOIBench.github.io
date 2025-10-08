@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+Jump_Civilization_deepseek-reasoner_0.cpp,TIME_LIMIT_EXCEEDED,0,9.80%,1.140,4.8046875,0,0,0,0,0,0
+Jump_Civilization_deepseek-reasoner_1.cpp,RUNTIME_ERROR,0,5.88%,0.060,3.62109375,0,0,0,0,0,0
+Jump_Civilization_deepseek-reasoner_2.cpp,RUNTIME_ERROR,0,0.00%,0.080,22.69921875,0,0,0,0,0,0
+Jump_Civilization_deepseek-reasoner_3.cpp,RUNTIME_ERROR,0,0.00%,0.080,24.9921875,0,0,0,0,0,0
+Jump_Civilization_deepseek-reasoner_4.cpp,RUNTIME_ERROR,11,15.69%,0.130,26.62890625,0,0,0,11,0,0
+Jump_Civilization_deepseek-reasoner_5.cpp,RUNTIME_ERROR,0,0.00%,0.140,35.58984375,0,0,0,0,0,0
+Jump_Civilization_deepseek-reasoner_6.cpp,RUNTIME_ERROR,11,15.69%,0.080,26.55078125,0,0,0,11,0,0
+Jump_Civilization_deepseek-reasoner_7.cpp,RUNTIME_ERROR,0,5.88%,0.070,3.58203125,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Evidence_Board_seed-oss_0.cpp,RUNTIME_ERROR,7,8.09%,0.240,40.32421875,0,0,0,0,0,7.0,0,0,0,0
+Evidence_Board_seed-oss_1.cpp,RUNTIME_ERROR,0,0.00%,0.150,33.046875,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_seed-oss_2.cpp,RUNTIME_ERROR,0,0.00%,0.140,43.98828125,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_seed-oss_3.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.270,56.34765625,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_seed-oss_4.cpp,RUNTIME_ERROR,0,0.00%,0.260,52.3359375,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_seed-oss_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.380,380.94140625,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_seed-oss_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.400,380.8515625,0,0,0,0,0,0,0,0,0,0
+Evidence_Board_seed-oss_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.940,380.953125,0,0,0,0,0,0,0,0,0,0

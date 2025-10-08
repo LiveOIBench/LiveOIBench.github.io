@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Lunch_gemini-2.5-pro_0.cpp,RUNTIME_ERROR,0,3.57%,0.020,0,0,0,0,0,0,0,0
+Lunch_gemini-2.5-pro_1.cpp,TIME_LIMIT_EXCEEDED,29,69.44%,2.410,17.01953125,0.0,16.0,13.0,0,0,0,0
+Lunch_gemini-2.5-pro_2.cpp,MEMORY_LIMIT_EXCEEDED,0,16.84%,0.020,0.00390625,0.0,0,0,0,0,0,0
+Lunch_gemini-2.5-pro_3.cpp,RUNTIME_ERROR,16,26.80%,1.610,0.00390625,0,16.0,0,0,0,0,0
+Lunch_gemini-2.5-pro_4.cpp,RUNTIME_ERROR,16,26.80%,0.020,0,0,16.0,0,0,0,0,0
+Lunch_gemini-2.5-pro_5.cpp,TIME_LIMIT_EXCEEDED,29,69.44%,2.420,17.1328125,0.0,16.0,13.0,0,0,0,0
+Lunch_gemini-2.5-pro_6.cpp,RUNTIME_ERROR,0,0.00%,1.580,1.4921875,0,0,0,0,0,0,0
+Lunch_gemini-2.5-pro_7.cpp,RUNTIME_ERROR,16,19.35%,0.020,0,0,16.0,0,0,0,0,0

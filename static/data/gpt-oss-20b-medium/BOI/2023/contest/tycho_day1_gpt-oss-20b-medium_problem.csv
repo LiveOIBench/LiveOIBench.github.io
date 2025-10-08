@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+tycho_gpt-oss-20b-medium_0.cpp,RUNTIME_ERROR,0,4.50%,0.000,0,0,0,0,0,0,0,0,0
+tycho_gpt-oss-20b-medium_1.cpp,RUNTIME_ERROR,0,7.08%,0.000,0,0,0,0,0,0,0,0,0
+tycho_gpt-oss-20b-medium_3.cpp,RUNTIME_ERROR,0,70.91%,0.000,0,0,0,0,0,0,0,0,0
+tycho_gpt-oss-20b-medium_4.cpp,RUNTIME_ERROR,0,63.24%,0.000,0,0,0,0,0,0,0,0,0
+tycho_gpt-oss-20b-medium_5.cpp,RUNTIME_ERROR,0,4.50%,0.000,0,0,0,0,0,0,0,0,0
+tycho_gpt-oss-20b-medium_6.cpp,RUNTIME_ERROR,0,70.91%,0.000,0,0,0,0,0,0,0,0,0
+tycho_gpt-oss-20b-medium_7.cpp,RUNTIME_ERROR,0,4.50%,0.000,0,0,0,0,0,0,0,0,0

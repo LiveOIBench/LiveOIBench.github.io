@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bessies_Interview,Qwen3-30B,WRONG_ANSWER,33,9.52%,0.150,5.12109375
+silver_Painting_Fence_Posts,Qwen3-30B,RUNTIME_ERROR,0,6.67%,0.840,47.1640625
+silver_The_Winning_Gene,Qwen3-30B,TIME_LIMIT_EXCEEDED,67,25.00%,2.240,1.55078125

@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+2024-open-t1_Examination_2,gpt-oss-120b-medium,TIME_LIMIT_EXCEEDED,20,20.00%,40.20%,2.410,25.30859375
+2024-open-t2_Heat_Stroke,gpt-oss-120b-medium,RUNTIME_ERROR,6,6.00%,36.57%,0.050,0
+2024-open-t3_Library_3,gpt-oss-120b-medium,RUNTIME_ERROR,0,0.00%,18.37%,0.050,1.54296875

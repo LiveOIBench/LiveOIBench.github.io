@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+covid,gemini-2.5-pro,COMPILATION_ERROR,0,0.00%,0.000,0
+battle,gemini-2.5-pro,RUNTIME_ERROR,67,91.96%,2.220,153.95703125
+editor,gemini-2.5-pro,MEMORY_LIMIT_EXCEEDED,56,90.16%,1.130,1051.671875

@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+7krokods,Qwen2.5-Coder-7B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+zrinka,Qwen2.5-Coder-7B-Instruct,RUNTIME_ERROR,20,20.00%,0.060,0
+bojanje,Qwen2.5-Coder-7B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+mreza,Qwen2.5-Coder-7B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+vrsta,Qwen2.5-Coder-7B-Instruct,TIME_LIMIT_EXCEEDED,19,20.00%,1.150,399.6171875

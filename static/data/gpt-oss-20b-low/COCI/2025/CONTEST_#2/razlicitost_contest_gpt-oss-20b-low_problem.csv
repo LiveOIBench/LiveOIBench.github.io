@@ -1,0 +1,5 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+razlicitost_gpt-oss-20b-low_0.cpp,TIME_LIMIT_EXCEEDED,22,37.21%,2.410,5.9375,0,13,9,0
+razlicitost_gpt-oss-20b-low_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+razlicitost_gpt-oss-20b-low_6.cpp,TIME_LIMIT_EXCEEDED,47,74.42%,2.430,193.625,25,13,9,0
+razlicitost_gpt-oss-20b-low_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.410,9.29296875,0,0,0,0

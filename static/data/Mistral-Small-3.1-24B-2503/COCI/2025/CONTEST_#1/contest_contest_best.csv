@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+osobna,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0
+skokovi,Mistral-Small-3.1-24B-2503,TIME_LIMIT_EXCEEDED,25,43.75%,5.530,2.84765625
+hijerarhija,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0
+uciteljica,Mistral-Small-3.1-24B-2503,TIME_LIMIT_EXCEEDED,0,3.28%,5.650,1.5546875
+zbunjenost,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,1.61%,0.080,2.32421875

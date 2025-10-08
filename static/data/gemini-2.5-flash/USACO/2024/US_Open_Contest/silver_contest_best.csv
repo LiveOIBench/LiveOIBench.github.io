@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bessies_Interview,gemini-2.5-flash,WRONG_ANSWER,133,42.86%,0.120,7.42578125
+silver_Painting_Fence_Posts,gemini-2.5-flash,MEMORY_LIMIT_EXCEEDED,0,6.67%,0.630,441.015625
+silver_The_Winning_Gene,gemini-2.5-flash,WRONG_ANSWER,44,12.50%,0.120,1.953125

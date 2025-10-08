@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+bikeparking_Qwen2.5-Coder-14B-Instruct_0.cpp,RUNTIME_ERROR,0,6.31%,0.000,0,0,0,0,0,0,0
+bikeparking_Qwen2.5-Coder-14B-Instruct_1.cpp,RUNTIME_ERROR,0,9.73%,0.000,0,0,0,0,0,0,0
+bikeparking_Qwen2.5-Coder-14B-Instruct_2.cpp,RUNTIME_ERROR,0,7.21%,0.080,0,0,0,0,0,0,0
+bikeparking_Qwen2.5-Coder-14B-Instruct_3.cpp,RUNTIME_ERROR,0,4.50%,0.000,0,0,0,0,0,0,0
+bikeparking_Qwen2.5-Coder-14B-Instruct_4.cpp,RUNTIME_ERROR,0,7.21%,0.000,0,0,0,0,0,0,0
+bikeparking_Qwen2.5-Coder-14B-Instruct_5.cpp,RUNTIME_ERROR,0,6.31%,0.000,0,0,0,0,0,0,0
+bikeparking_Qwen2.5-Coder-14B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,16,49.04%,1.130,5.94140625,0,16,0,0,0,0
+bikeparking_Qwen2.5-Coder-14B-Instruct_7.cpp,RUNTIME_ERROR,0,7.21%,0.000,0,0,0,0,0,0,0

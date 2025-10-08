@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+neboderi_gpt-o3-mini-high_0.cpp,ACCEPTED,110,100.00%,1.310,130.9765625,11,22,27,18,32
+neboderi_gpt-o3-mini-high_1.cpp,ACCEPTED,110,100.00%,1.250,127.3671875,11,22,27,18,32
+neboderi_gpt-o3-mini-high_2.cpp,ACCEPTED,110,100.00%,0.300,12.90234375,11,22,27,18,32
+neboderi_gpt-o3-mini-high_3.cpp,ACCEPTED,110,100.00%,0.250,12.90234375,11,22,27,18,32
+neboderi_gpt-o3-mini-high_4.cpp,ACCEPTED,110,100.00%,0.280,12.90234375,11,22,27,18,32
+neboderi_gpt-o3-mini-high_5.cpp,ACCEPTED,110,100.00%,1.090,96.171875,11,22,27,18,32
+neboderi_gpt-o3-mini-high_6.cpp,ACCEPTED,110,100.00%,0.300,12.90234375,11,22,27,18,32
+neboderi_gpt-o3-mini-high_7.cpp,ACCEPTED,110,100.00%,1.160,88.9609375,11,22,27,18,32

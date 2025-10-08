@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bovine_Acrobatics,gpt-5,ACCEPTED,333,100.00%,0.050,4.390625
+silver_Cycle_Correspondence,gpt-5,ACCEPTED,333,100.00%,0.060,10.06640625
+silver_Target_Practice,gpt-5,ACCEPTED,333,100.00%,0.020,3.6171875

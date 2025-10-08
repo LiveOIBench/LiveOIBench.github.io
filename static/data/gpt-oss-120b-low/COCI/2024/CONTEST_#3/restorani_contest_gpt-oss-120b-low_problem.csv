@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+restorani_gpt-oss-120b-low_0.cpp,RUNTIME_ERROR,0,0.68%,0.200,107.3515625,0,0,0,0
+restorani_gpt-oss-120b-low_1.cpp,RUNTIME_ERROR,0,0.68%,0.110,50.28125,0,0,0,0
+restorani_gpt-oss-120b-low_2.cpp,RUNTIME_ERROR,0,0.68%,0.240,55.95703125,0,0,0,0
+restorani_gpt-oss-120b-low_3.cpp,RUNTIME_ERROR,0,0.00%,0.260,324.828125,0,0,0,0
+restorani_gpt-oss-120b-low_4.cpp,RUNTIME_ERROR,0,0.68%,0.100,46.15625,0,0,0,0
+restorani_gpt-oss-120b-low_5.cpp,RUNTIME_ERROR,0,0.68%,0.130,50.30859375,0,0,0,0
+restorani_gpt-oss-120b-low_6.cpp,RUNTIME_ERROR,0,0.68%,0.150,71.6796875,0,0,0,0
+restorani_gpt-oss-120b-low_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.68%,0.100,23.984375,0,0,0,0

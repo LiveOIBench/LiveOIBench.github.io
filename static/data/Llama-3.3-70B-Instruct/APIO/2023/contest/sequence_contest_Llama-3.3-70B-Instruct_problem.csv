@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+sequence_Llama-3.3-70B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,11,44.92%,1.800,4.7578125,0,11,0,0,0,0,0,0
+sequence_Llama-3.3-70B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,0,22.11%,1.800,4.75390625,0,0,0,0,0,0,0,0
+sequence_Llama-3.3-70B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,11,44.92%,1.800,4.7578125,0,11,0,0,0,0,0,0
+sequence_Llama-3.3-70B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,11,44.92%,1.810,4.7578125,0,11,0,0,0,0,0,0
+sequence_Llama-3.3-70B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,22.11%,1.800,4.7578125,0,0,0,0,0,0,0,0
+sequence_Llama-3.3-70B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,11,44.92%,1.800,4.7578125,0,11,0,0,0,0,0,0
+sequence_Llama-3.3-70B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,11,44.92%,1.800,4.75390625,0,11,0,0,0,0,0,0
+sequence_Llama-3.3-70B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,0,22.11%,1.800,4.75390625,0,0,0,0,0,0,0,0

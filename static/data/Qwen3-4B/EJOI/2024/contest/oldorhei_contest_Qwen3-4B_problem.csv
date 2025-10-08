@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+oldorhei_Qwen3-4B_0.cpp,TIME_LIMIT_EXCEEDED,55,60.47%,3.610,2.58984375,0,7,0,17,31,0
+oldorhei_Qwen3-4B_1.cpp,ACCEPTED,100,100.00%,0.490,57.5,0,7,16,17,31,29
+oldorhei_Qwen3-4B_2.cpp,TIME_LIMIT_EXCEEDED,24,58.14%,3.610,2.58984375,0,7,0,17,0,0
+oldorhei_Qwen3-4B_3.cpp,RUNTIME_ERROR,0,0.00%,0.060,59.6015625,0,0,0,0,0,0
+oldorhei_Qwen3-4B_4.cpp,RUNTIME_ERROR,0,0.00%,0.350,72.44921875,0,0,0,0,0,0
+oldorhei_Qwen3-4B_5.cpp,TIME_LIMIT_EXCEEDED,55,60.47%,3.610,2.58984375,0,7,0,17,31,0
+oldorhei_Qwen3-4B_6.cpp,ACCEPTED,100,100.00%,0.520,57.5,0,7,16,17,31,29
+oldorhei_Qwen3-4B_7.cpp,RUNTIME_ERROR,7,13.95%,0.380,64.4609375,0,7,0,0,0,0

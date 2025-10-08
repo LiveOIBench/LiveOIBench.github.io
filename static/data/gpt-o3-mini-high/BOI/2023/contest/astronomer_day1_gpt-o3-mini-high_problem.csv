@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+astronomer_gpt-o3-mini-high_0.cpp,RUNTIME_ERROR,8,28.66%,3.610,8.7734375,0,8,0,0,0,0,0,0
+astronomer_gpt-o3-mini-high_1.cpp,RUNTIME_ERROR,0,1.40%,0.080,0.00390625,0,0,0,0,0,0,0,0
+astronomer_gpt-o3-mini-high_2.cpp,RUNTIME_ERROR,8,31.10%,3.800,8.7734375,0,8,0,0,0,0,0,0
+astronomer_gpt-o3-mini-high_3.cpp,RUNTIME_ERROR,8,28.66%,1.510,5.1640625,0,8,0,0,0,0,0,0
+astronomer_gpt-o3-mini-high_4.cpp,RUNTIME_ERROR,8,23.72%,1.540,5.1640625,0,8,0,0,0,0,0,0
+astronomer_gpt-o3-mini-high_5.cpp,RUNTIME_ERROR,8,31.10%,3.150,14.18359375,0,8,0,0,0,0,0,0
+astronomer_gpt-o3-mini-high_6.cpp,RUNTIME_ERROR,8,28.66%,3.090,8.7734375,0,8,0,0,0,0,0,0
+astronomer_gpt-o3-mini-high_7.cpp,RUNTIME_ERROR,8,28.66%,3.020,8.7734375,0,8,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+jobs,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0
+portal,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0
+trains,Mistral-Small-3.1-24B-2503,TIME_LIMIT_EXCEEDED,21,78.26%,1.110,2.84765625

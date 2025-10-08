@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4
+tree_search_gpt-5_0.cpp,ACCEPTED,100,100.00%,0.140,27.48828125,20,30,15,35
+tree_search_gpt-5_1.cpp,ACCEPTED,100,100.00%,0.150,10.23828125,20,30,15,35
+tree_search_gpt-5_2.cpp,ACCEPTED,100,100.00%,0.150,10.8984375,20,30,15,35
+tree_search_gpt-5_3.cpp,RUNTIME_ERROR,50,57.14%,0.140,11.4609375,20,30,0,0
+tree_search_gpt-5_4.cpp,ACCEPTED,100,100.00%,0.150,12.453125,20,30,15,35
+tree_search_gpt-5_5.cpp,ACCEPTED,100,100.00%,0.160,17.5234375,20,30,15,35
+tree_search_gpt-5_6.cpp,ACCEPTED,100,100.00%,0.150,11.14453125,20,30,15,35
+tree_search_gpt-5_7.cpp,ACCEPTED,100,100.00%,0.190,10.8671875,20,30,15,35

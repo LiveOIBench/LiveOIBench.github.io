@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Jump_Civilization,seed-oss_1024,MEMORY_LIMIT_EXCEEDED,0,5.88%,0.070,4.65234375
+Ramen,seed-oss_1024,COMPILATION_ERROR,0,0.00%,0.000,0
+Signals,seed-oss_1024,ACCEPTED,100,100.00%,0.190,40.48828125

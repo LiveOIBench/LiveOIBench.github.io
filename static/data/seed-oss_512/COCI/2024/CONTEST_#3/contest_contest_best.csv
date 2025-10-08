@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+eurokod,seed-oss_512,ACCEPTED,50,100.00%,0.000,0
+vrsar,seed-oss_512,COMPILATION_ERROR,0,0.00%,0.000,0
+milano,seed-oss_512,RUNTIME_ERROR,0,2.38%,0.040,2.84765625
+restorani,seed-oss_512,RUNTIME_ERROR,0,0.68%,0.100,67.9375
+cesta,seed-oss_512,COMPILATION_ERROR,0,0.00%,0.000,0

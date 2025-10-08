@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+diplomacy,deepseek-chat,TIME_LIMIT_EXCEEDED,0,1.08%,4.410,7.60546875
+garbage,deepseek-chat,TIME_LIMIT_EXCEEDED,32,36.99%,5.520,15.421875
+xoracle,deepseek-chat,TIME_LIMIT_EXCEEDED,57,91.18%,2.260,3.75

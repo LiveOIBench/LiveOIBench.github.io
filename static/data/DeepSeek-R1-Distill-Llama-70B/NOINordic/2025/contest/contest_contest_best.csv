@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+diplomacy,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,0,5.38%,4.480,16.09375
+garbage,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,0,5.48%,5.540,12.67578125
+xoracle,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,100,100.00%,0.470,3.796875

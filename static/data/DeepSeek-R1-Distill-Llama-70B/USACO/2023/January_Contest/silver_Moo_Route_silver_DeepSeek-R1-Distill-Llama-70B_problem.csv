@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Moo_Route_DeepSeek-R1-Distill-Llama-70B_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Moo_Route_DeepSeek-R1-Distill-Llama-70B_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Moo_Route_DeepSeek-R1-Distill-Llama-70B_2.cpp,TIME_LIMIT_EXCEEDED,56,15.00%,2.400,2.66015625,0,18.51851851851852,0,0,0,0,0,0,0,0,0,0,18.51851851851852,0,0,0,0,0,18.51851851851852
+silver_Moo_Route_DeepSeek-R1-Distill-Llama-70B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Moo_Route_DeepSeek-R1-Distill-Llama-70B_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Moo_Route_DeepSeek-R1-Distill-Llama-70B_5.cpp,RUNTIME_ERROR,19,5.00%,0.110,2.07421875,0,18.51851851851852,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Moo_Route_DeepSeek-R1-Distill-Llama-70B_6.cpp,TIME_LIMIT_EXCEEDED,56,15.00%,2.470,2.53125,0,18.51851851851852,0,0,0,0,0,0,0,0,0,0,18.51851851851852,0,0,0,0,0,18.51851851851852
+silver_Moo_Route_DeepSeek-R1-Distill-Llama-70B_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

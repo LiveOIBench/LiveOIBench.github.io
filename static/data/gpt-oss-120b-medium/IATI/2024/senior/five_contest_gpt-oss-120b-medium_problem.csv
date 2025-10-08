@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+five_gpt-oss-120b-medium_0.cpp,TIME_LIMIT_EXCEEDED,62,62.00%,75.00%,0.840,14.50390625,5,19,19,19,0,0
+five_gpt-oss-120b-medium_1.cpp,TIME_LIMIT_EXCEEDED,62,62.00%,77.78%,0.840,100.55078125,5,19,19,19,0,0
+five_gpt-oss-120b-medium_2.cpp,TIME_LIMIT_EXCEEDED,62,62.00%,75.00%,0.840,93.58984375,5,19,19,19,0,0
+five_gpt-oss-120b-medium_3.cpp,TIME_LIMIT_EXCEEDED,62,62.00%,75.00%,0.840,20.43359375,5,19,19,19,0,0
+five_gpt-oss-120b-medium_4.cpp,TIME_LIMIT_EXCEEDED,24,24.00%,42.19%,0.840,20.37890625,5,19,0,0,0,0
+five_gpt-oss-120b-medium_5.cpp,TIME_LIMIT_EXCEEDED,24,24.00%,42.19%,0.840,23.4609375,5,19,0,0,0,0
+five_gpt-oss-120b-medium_6.cpp,TIME_LIMIT_EXCEEDED,24,24.00%,42.19%,0.850,20.37109375,5,19,0,0,0,0
+five_gpt-oss-120b-medium_7.cpp,TIME_LIMIT_EXCEEDED,62,62.00%,75.00%,0.850,100.5546875,5,19,19,19,0,0

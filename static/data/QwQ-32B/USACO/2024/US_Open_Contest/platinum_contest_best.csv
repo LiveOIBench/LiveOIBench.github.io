@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Identity_Theft,QwQ-32B,WRONG_ANSWER,50,32.00%,0.140,36.1015625
+platinum_Splitting_Haybales,QwQ-32B,TIME_LIMIT_EXCEEDED,17,13.64%,2.270,4.3984375
+platinum_Activating_Robots,QwQ-32B,RUNTIME_ERROR,33,16.67%,0.180,10.26953125

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+2024-open-t1_Examination_2,Qwen3-32B,TIME_LIMIT_EXCEEDED,20,40.20%,2.240,18.4609375
+2024-open-t2_Heat_Stroke,Qwen3-32B,RUNTIME_ERROR,6,36.57%,0.040,1.60546875
+2024-open-t3_Library_3,Qwen3-32B,RUNTIME_ERROR,2,52.38%,0.080,1.5234375

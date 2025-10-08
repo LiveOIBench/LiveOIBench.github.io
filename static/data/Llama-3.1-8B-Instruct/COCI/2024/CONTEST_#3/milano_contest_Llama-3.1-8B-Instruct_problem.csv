@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+milano_Llama-3.1-8B-Instruct_0.cpp,RUNTIME_ERROR,0,0.00%,0.080,3.62109375,0,0,0,0
+milano_Llama-3.1-8B-Instruct_1.cpp,RUNTIME_ERROR,0,9.52%,0.140,2.84765625,0,0,0,0
+milano_Llama-3.1-8B-Instruct_2.cpp,RUNTIME_ERROR,0,0.00%,0.130,2.84765625,0,0,0,0
+milano_Llama-3.1-8B-Instruct_3.cpp,RUNTIME_ERROR,0,0.00%,0.140,2.84765625,0,0,0,0
+milano_Llama-3.1-8B-Instruct_4.cpp,RUNTIME_ERROR,0,0.00%,0.150,3.62109375,0,0,0,0
+milano_Llama-3.1-8B-Instruct_5.cpp,RUNTIME_ERROR,0,0.00%,0.130,3.10546875,0,0,0,0
+milano_Llama-3.1-8B-Instruct_6.cpp,RUNTIME_ERROR,18,19.05%,0.100,4.39453125,0,18,0,0
+milano_Llama-3.1-8B-Instruct_7.cpp,RUNTIME_ERROR,0,0.00%,0.150,6.62890625,0,0,0,0

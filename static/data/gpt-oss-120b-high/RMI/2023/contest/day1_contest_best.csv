@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Heroes,gpt-oss-120b-high,ACCEPTED,100,100.00%,0.050,0
+Pinball,gpt-oss-120b-high,ACCEPTED,100,100.00%,1.300,127.546875
+AA_Tree,gpt-oss-120b-high,TIME_LIMIT_EXCEEDED,53,91.18%,0.120,2.92578125

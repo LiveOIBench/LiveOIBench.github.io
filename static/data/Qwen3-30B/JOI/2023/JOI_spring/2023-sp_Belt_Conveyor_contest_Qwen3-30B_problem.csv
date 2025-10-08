@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4
+2023-sp_Belt_Conveyor_Qwen3-30B_0.cpp,RUNTIME_ERROR,1,12.90%,0.690,6.1015625,1,0,0,0
+2023-sp_Belt_Conveyor_Qwen3-30B_1.cpp,RUNTIME_ERROR,1,16.13%,0.650,11.48046875,1,0,0,0
+2023-sp_Belt_Conveyor_Qwen3-30B_2.cpp,RUNTIME_ERROR,0,3.23%,0.710,11.90234375,0,0,0,0
+2023-sp_Belt_Conveyor_Qwen3-30B_3.cpp,RUNTIME_ERROR,0,0.00%,0.240,5.63671875,0,0,0,0
+2023-sp_Belt_Conveyor_Qwen3-30B_4.cpp,RUNTIME_ERROR,1,12.90%,0.710,5.80078125,1,0,0,0
+2023-sp_Belt_Conveyor_Qwen3-30B_5.cpp,RUNTIME_ERROR,0,0.00%,0.680,11.50390625,0,0,0,0
+2023-sp_Belt_Conveyor_Qwen3-30B_6.cpp,RUNTIME_ERROR,1,12.90%,0.720,11.453125,1,0,0,0
+2023-sp_Belt_Conveyor_Qwen3-30B_7.cpp,RUNTIME_ERROR,1,12.90%,0.650,11.375,1,0,0,0

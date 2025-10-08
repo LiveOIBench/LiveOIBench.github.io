@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+wall_gpt-oss-20b-high_0.cpp,ACCEPTED,100,100.00%,0.970,89.24609375,8,17,19,14,12,30
+wall_gpt-oss-20b-high_1.cpp,ACCEPTED,100,100.00%,2.200,108.3125,8,17,19,14,12,30
+wall_gpt-oss-20b-high_2.cpp,RUNTIME_ERROR,0,23.60%,0.400,63.1328125,0,0,0,0,0,0
+wall_gpt-oss-20b-high_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+wall_gpt-oss-20b-high_4.cpp,TIME_LIMIT_EXCEEDED,0,22.73%,5.990,176.9453125,0,0,0,0,0,0
+wall_gpt-oss-20b-high_5.cpp,ACCEPTED,100,100.00%,0.760,92.9296875,8,17,19,14,12,30
+wall_gpt-oss-20b-high_7.cpp,ACCEPTED,100,100.00%,0.660,125.3828125,8,17,19,14,12,30

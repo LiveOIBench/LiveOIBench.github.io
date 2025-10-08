@@ -1,0 +1,5 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Cute_Subsequences_gpt-oss-20b-low_1.cpp,ACCEPTED,100,100.00%,0.060,8.9765625,0.0,14.0,19.0,17.0,21.0,15.0,14.0
+Cute_Subsequences_gpt-oss-20b-low_2.cpp,ACCEPTED,100,100.00%,0.060,8.4609375,0.0,14.0,19.0,17.0,21.0,15.0,14.0
+Cute_Subsequences_gpt-oss-20b-low_3.cpp,RUNTIME_ERROR,21,24.74%,0.070,9.03125,0.0,0,0,0,21.0,0,0
+Cute_Subsequences_gpt-oss-20b-low_7.cpp,TIME_LIMIT_EXCEEDED,0,52.76%,1.210,24.83984375,0.0,0,0,0,0,0,0

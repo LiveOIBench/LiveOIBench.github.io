@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cow_Checkups,seed-oss_4096,TIME_LIMIT_EXCEEDED,100,39.13%,2.440,26.30859375
+silver_Farmer_Johns_Favorite_Operation,seed-oss_4096,RUNTIME_ERROR,0,0.00%,0.070,9.03515625
+silver_Table_Recovery,seed-oss_4096,COMPILATION_ERROR,0,0.00%,0.000,0

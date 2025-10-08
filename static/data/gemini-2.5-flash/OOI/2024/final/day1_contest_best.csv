@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Dreaming_is_not_harmful,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,0,15.52%,2.210,89.46875
+Cute_Subsequences,gemini-2.5-flash,ACCEPTED,100,100.00%,0.110,20.67578125
+The_arithmetic_exercise,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,30,43.88%,2.210,2.96875
+Alice_Bob_and_two_arrays,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,20,48.26%,2.780,336.9609375

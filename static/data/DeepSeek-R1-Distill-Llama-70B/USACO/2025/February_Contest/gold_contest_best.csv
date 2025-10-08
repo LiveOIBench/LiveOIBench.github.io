@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Bessies_Function,DeepSeek-R1-Distill-Llama-70B,WRONG_ANSWER,88,33.33%,0.200,2.84765625
+gold_The_Best_Subsequence,DeepSeek-R1-Distill-Llama-70B,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Friendship_Editing,DeepSeek-R1-Distill-Llama-70B,COMPILATION_ERROR,0,0.00%,0.000,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+toy,gpt-oss-20b-high,ACCEPTED,100,100.00%,0.080,31.71484375
+stations,gpt-oss-20b-high,RUNTIME_ERROR,0,6.82%,0.210,61.109375
+sprinklers,gpt-oss-20b-high,RUNTIME_ERROR,9,47.46%,0.370,10.29296875

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Candy_Cane_Feast,deepseek-reasoner,ACCEPTED,333,100.00%,0.070,2.7890625
+bronze_Cowntact_Tracing_2,deepseek-reasoner,WRONG_ANSWER,167,58.33%,0.040,0.00390625
+bronze_Farmer_John_Actually_Farms,deepseek-reasoner,ACCEPTED,333,100.00%,0.090,5.08984375

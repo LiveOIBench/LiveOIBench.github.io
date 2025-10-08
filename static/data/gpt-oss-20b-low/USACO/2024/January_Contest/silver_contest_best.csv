@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cowmpetency,gpt-oss-20b-low,WRONG_ANSWER,0,8.33%,0.050,3.359375
+silver_Potion_Farming,gpt-oss-20b-low,WRONG_ANSWER,167,53.33%,0.040,15.15234375
+silver_Cowlendar,gpt-oss-20b-low,TIME_LIMIT_EXCEEDED,194,64.29%,2.410,3.0625

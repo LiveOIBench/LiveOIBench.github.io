@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Burenka_and_Pether,gpt-5,TIME_LIMIT_EXCEEDED,34,61.46%,3.610,339.1328125
+Almost_Certainly,gpt-5,ACCEPTED,100,100.00%,0.100,16.5078125
+Three_Arrays,gpt-5,ACCEPTED,100,100.00%,0.040,6.7109375
+Parallel_Universes,gpt-5,RUNTIME_ERROR,23,15.94%,0.080,1.546875

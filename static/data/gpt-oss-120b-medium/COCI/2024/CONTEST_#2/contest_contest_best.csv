@@ -1,0 +1,6 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+pahuljice,gpt-oss-120b-medium,ACCEPTED,50,100.00%,100.00%,0.000,0
+pingvin,gpt-oss-120b-medium,ACCEPTED,70,100.00%,100.00%,0.030,6.1953125
+dizalo,gpt-oss-120b-medium,TIME_LIMIT_EXCEEDED,64,58.18%,57.89%,3.610,3.74609375
+kuglice,gpt-oss-120b-medium,ACCEPTED,110,100.00%,100.00%,0.060,17.8046875
+zatopljenje,gpt-oss-120b-medium,ACCEPTED,110,100.00%,100.00%,0.120,10.0625

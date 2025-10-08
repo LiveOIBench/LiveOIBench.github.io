@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Bessies_Function,gpt-oss-20b-high,ACCEPTED,333,100.00%,0.080,22.984375
+gold_The_Best_Subsequence,gpt-oss-20b-high,ACCEPTED,333,100.00%,0.300,22.85546875
+gold_Friendship_Editing,gpt-oss-20b-high,ACCEPTED,333,100.00%,0.050,2.07421875

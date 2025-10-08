@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+toy,seed-oss_2048,MEMORY_LIMIT_EXCEEDED,35,70.44%,1.120,1228.05859375
+stations,seed-oss_2048,RUNTIME_ERROR,0,4.55%,0.050,11.8671875
+sprinklers,seed-oss_2048,RUNTIME_ERROR,3,27.00%,0.080,3.3671875

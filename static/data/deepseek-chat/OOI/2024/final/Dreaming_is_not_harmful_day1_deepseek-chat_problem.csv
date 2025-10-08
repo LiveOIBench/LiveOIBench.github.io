@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Dreaming_is_not_harmful_deepseek-chat_0.cpp,RUNTIME_ERROR,0,0.00%,0.040,15.22265625,0,0,0,0,0,0,0,0,0,0
+Dreaming_is_not_harmful_deepseek-chat_1.cpp,RUNTIME_ERROR,0,3.77%,0.040,4.58203125,0,0,0,0,0,0,0,0,0,0
+Dreaming_is_not_harmful_deepseek-chat_2.cpp,RUNTIME_ERROR,0,3.77%,0.040,8.20703125,0,0,0,0,0,0,0,0,0,0
+Dreaming_is_not_harmful_deepseek-chat_3.cpp,RUNTIME_ERROR,0,3.77%,0.040,15.1640625,0,0,0,0,0,0,0,0,0,0
+Dreaming_is_not_harmful_deepseek-chat_4.cpp,RUNTIME_ERROR,0,3.77%,0.040,4.90625,0,0,0,0,0,0,0,0,0,0
+Dreaming_is_not_harmful_deepseek-chat_5.cpp,RUNTIME_ERROR,0,3.77%,0.030,0,0,0,0,0,0,0,0,0,0,0
+Dreaming_is_not_harmful_deepseek-chat_6.cpp,RUNTIME_ERROR,0,3.77%,0.040,8.1328125,0,0,0,0,0,0,0,0,0,0
+Dreaming_is_not_harmful_deepseek-chat_7.cpp,MEMORY_LIMIT_EXCEEDED,0,5.61%,0.310,241.828125,0,0,0,0,0,0,0,0,0,0

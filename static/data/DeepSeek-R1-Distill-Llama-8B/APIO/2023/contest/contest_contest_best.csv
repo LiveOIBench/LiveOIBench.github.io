@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+sequence,DeepSeek-R1-Distill-Llama-8B,RUNTIME_ERROR,0,0.00%,0.020,2.57421875
+abc,DeepSeek-R1-Distill-Llama-8B,RUNTIME_ERROR,4,16.00%,0.130,12.00390625
+cyberland,DeepSeek-R1-Distill-Llama-8B,COMPILATION_ERROR,0,0.00%,0.000,0

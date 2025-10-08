@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+hijerarhija_seed-oss_0.cpp,TIME_LIMIT_EXCEEDED,50,63.89%,3.610,4.91015625,7,12,16,15,0,0
+hijerarhija_seed-oss_1.cpp,TIME_LIMIT_EXCEEDED,22,41.67%,3.610,31.734375,7,0,0,15,0,0
+hijerarhija_seed-oss_2.cpp,RUNTIME_ERROR,73,86.11%,0.480,31.6875,7,12,16,15,23,0
+hijerarhija_seed-oss_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+hijerarhija_seed-oss_4.cpp,MEMORY_LIMIT_EXCEEDED,22,30.56%,0.180,18.83203125,7,0,0,15,0,0
+hijerarhija_seed-oss_5.cpp,RUNTIME_ERROR,22,52.78%,0.230,21.40625,7,0,0,15,0,0
+hijerarhija_seed-oss_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+hijerarhija_seed-oss_7.cpp,TIME_LIMIT_EXCEEDED,22,48.61%,3.610,5.94140625,7,0,0,15,0,0

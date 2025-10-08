@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4
+train_Llama-4-Scout_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+train_Llama-4-Scout_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+train_Llama-4-Scout_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+train_Llama-4-Scout_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+train_Llama-4-Scout_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+train_Llama-4-Scout_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+train_Llama-4-Scout_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+train_Llama-4-Scout_7.cpp,MEMORY_LIMIT_EXCEEDED,5,17.86%,0.420,1224.41015625,0,5,0,0

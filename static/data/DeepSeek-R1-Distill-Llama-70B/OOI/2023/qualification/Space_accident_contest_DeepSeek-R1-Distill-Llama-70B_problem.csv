@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Space_accident_DeepSeek-R1-Distill-Llama-70B_0.cpp,RUNTIME_ERROR,10,37.33%,0.130,1.81640625,0.0,0,0,10.0,0,0,0
+Space_accident_DeepSeek-R1-Distill-Llama-70B_1.cpp,TIME_LIMIT_EXCEEDED,25,71.13%,1.110,2.22265625,0.0,15.0,0,10.0,0,0,0
+Space_accident_DeepSeek-R1-Distill-Llama-70B_2.cpp,RUNTIME_ERROR,16,28.68%,0.140,1.81640625,0,0,16.0,0,0,0,0
+Space_accident_DeepSeek-R1-Distill-Llama-70B_3.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0
+Space_accident_DeepSeek-R1-Distill-Llama-70B_4.cpp,RUNTIME_ERROR,0,9.56%,0.100,0.00390625,0,0,0,0,0,0,0
+Space_accident_DeepSeek-R1-Distill-Llama-70B_5.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0
+Space_accident_DeepSeek-R1-Distill-Llama-70B_6.cpp,RUNTIME_ERROR,0,17.81%,0.090,0.00390625,0.0,0,0,0,0,0,0
+Space_accident_DeepSeek-R1-Distill-Llama-70B_7.cpp,RUNTIME_ERROR,0,17.81%,0.090,0.00390625,0.0,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Moo_Language_seed-oss_0.cpp,RUNTIME_ERROR,0,0.00%,0.030,1.78515625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Moo_Language_seed-oss_1.cpp,RUNTIME_ERROR,0,0.00%,0.040,1.55078125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Moo_Language_seed-oss_2.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.040,1.81640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Moo_Language_seed-oss_3.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.030,1.890625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Moo_Language_seed-oss_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Moo_Language_seed-oss_5.cpp,WRONG_ANSWER,0,0.00%,0.040,1.64453125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Moo_Language_seed-oss_6.cpp,WRONG_ANSWER,0,0.00%,0.040,1.5859375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Moo_Language_seed-oss_7.cpp,RUNTIME_ERROR,0,0.00%,0.070,1.6953125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

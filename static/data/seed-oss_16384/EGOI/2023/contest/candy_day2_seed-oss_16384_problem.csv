@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+candy_seed-oss_0.cpp,ACCEPTED,100,100.00%,0.070,9.03515625,0,6,19,16,30,29
+candy_seed-oss_1.cpp,ACCEPTED,100,100.00%,0.500,4.07421875,0,6,19,16,30,29
+candy_seed-oss_2.cpp,RUNTIME_ERROR,0,8.08%,0.030,3.36328125,0,0,0,0,0,0
+candy_seed-oss_3.cpp,MEMORY_LIMIT_EXCEEDED,0,27.59%,0.030,1.90234375,0,0,0,0,0,0
+candy_seed-oss_4.cpp,ACCEPTED,100,100.00%,0.090,9.03515625,0,6,19,16,30,29
+candy_seed-oss_5.cpp,ACCEPTED,100,100.00%,0.030,5.16796875,0,6,19,16,30,29
+candy_seed-oss_6.cpp,ACCEPTED,100,100.00%,0.170,3.41015625,0,6,19,16,30,29
+candy_seed-oss_7.cpp,TIME_LIMIT_EXCEEDED,71,91.28%,3.600,645.921875,0,6,19,16,30,0

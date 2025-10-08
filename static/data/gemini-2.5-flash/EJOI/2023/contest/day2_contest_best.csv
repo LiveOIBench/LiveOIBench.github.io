@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+square_grid_puzzle,gemini-2.5-flash,RUNTIME_ERROR,0,12.50%,0.030,0
+team_building,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,45,42.86%,1.130,4.64453125
+tree_infection,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,20,18.52%,1.130,98.9453125

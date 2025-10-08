@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Sequence_Construction,gemini-2.5-flash,WRONG_ANSWER,0,0.00%,0.040,0.00390625
+silver_Compatible_Pairs,gemini-2.5-flash,ACCEPTED,333,100.00%,0.910,98.06640625
+silver_Ski_Slope,gemini-2.5-flash,ACCEPTED,333,100.00%,0.170,42.35546875

@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+sudoku,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,50,100.00%,0.000,0
+labirint,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,70,100.00%,0.130,2.82421875
+an2dl,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,110,100.00%,2.630,122.2109375
+kocke,DeepSeek-R1-Distill-Llama-70B,MEMORY_LIMIT_EXCEEDED,0,13.33%,0.240,562.29296875
+mostovi,DeepSeek-R1-Distill-Llama-70B,COMPILATION_ERROR,0,0.00%,0.000,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Moo_Decomposition,deepseek-chat,MEMORY_LIMIT_EXCEEDED,0,8.00%,0.060,29.64453125
+gold_Election_Queries,deepseek-chat,WRONG_ANSWER,0,6.67%,0.100,3.1015625
+gold_OohMoo_Milk,deepseek-chat,RUNTIME_ERROR,0,0.00%,0.040,2.015625

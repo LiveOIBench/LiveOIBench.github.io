@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4
+train_gemini-2.5-pro_0.cpp,TIME_LIMIT_EXCEEDED,0,14.29%,1.120,25.6953125,0,0,0,0
+train_gemini-2.5-pro_1.cpp,TIME_LIMIT_EXCEEDED,5,28.57%,1.150,8.8359375,0,5,0,0
+train_gemini-2.5-pro_2.cpp,TIME_LIMIT_EXCEEDED,5,23.21%,1.120,34.66015625,0,5,0,0
+train_gemini-2.5-pro_3.cpp,TIME_LIMIT_EXCEEDED,5,28.57%,1.110,56.6875,5,0,0,0
+train_gemini-2.5-pro_4.cpp,TIME_LIMIT_EXCEEDED,5,23.21%,1.260,169.61328125,0,5,0,0
+train_gemini-2.5-pro_5.cpp,TIME_LIMIT_EXCEEDED,5,14.29%,1.160,15.95703125,5,0,0,0
+train_gemini-2.5-pro_6.cpp,TIME_LIMIT_EXCEEDED,5,17.86%,1.110,89.2734375,0,5,0,0
+train_gemini-2.5-pro_7.cpp,TIME_LIMIT_EXCEEDED,5,28.57%,1.140,18.9921875,0,5,0,0

@@ -1,0 +1,6 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+lampice_gpt-oss-20b-medium_1.cpp,ACCEPTED,110,100.00%,0.490,13.15625,26,12,35,37
+lampice_gpt-oss-20b-medium_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.610,14.77734375,0,0,0,0
+lampice_gpt-oss-20b-medium_3.cpp,RUNTIME_ERROR,0,2.38%,0.240,15.08203125,0,0,0,0
+lampice_gpt-oss-20b-medium_4.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,1.710,9.8046875,0,0,0,0
+lampice_gpt-oss-20b-medium_5.cpp,RUNTIME_ERROR,0,2.38%,0.050,22.57421875,0,0,0,0

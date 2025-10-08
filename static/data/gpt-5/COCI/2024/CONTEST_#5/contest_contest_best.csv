@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+zlagalica,gpt-5,ACCEPTED,50,100.00%,0.000,0
+bitovi,gpt-5,RUNTIME_ERROR,0,0.00%,0.050,0.00390625
+piratski,gpt-5,ACCEPTED,110,100.00%,0.020,0.00390625
+rolete,gpt-5,ACCEPTED,110,100.00%,0.050,5.94140625
+trokut,gpt-5,RUNTIME_ERROR,0,0.00%,0.020,0.00390625

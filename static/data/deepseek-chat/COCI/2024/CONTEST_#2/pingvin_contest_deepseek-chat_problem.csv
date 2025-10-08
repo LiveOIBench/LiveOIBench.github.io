@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+pingvin_deepseek-chat_0.cpp,RUNTIME_ERROR,16,31.25%,0.090,2.83984375,0,16,0,0
+pingvin_deepseek-chat_1.cpp,ACCEPTED,70,100.00%,0.060,6.44921875,7,16,22,25
+pingvin_deepseek-chat_2.cpp,ACCEPTED,70,100.00%,0.050,6.19140625,7,16,22,25
+pingvin_deepseek-chat_3.cpp,ACCEPTED,70,100.00%,0.050,6.1953125,7,16,22,25
+pingvin_deepseek-chat_4.cpp,ACCEPTED,70,100.00%,0.060,6.19140625,7,16,22,25
+pingvin_deepseek-chat_5.cpp,ACCEPTED,70,100.00%,0.060,6.19140625,7,16,22,25
+pingvin_deepseek-chat_6.cpp,ACCEPTED,70,100.00%,0.070,2.83984375,7,16,22,25
+pingvin_deepseek-chat_7.cpp,ACCEPTED,70,100.00%,0.060,6.19140625,7,16,22,25

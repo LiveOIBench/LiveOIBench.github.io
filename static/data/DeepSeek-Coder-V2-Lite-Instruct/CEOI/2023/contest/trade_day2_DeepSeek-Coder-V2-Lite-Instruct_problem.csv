@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0_1,subtask_0_2,subtask_1_1,subtask_1_2,subtask_2_1,subtask_2_2,subtask_3_1,subtask_3_2,subtask_4_1,subtask_4_2,subtask_5_1,subtask_5_2
+trade_DeepSeek-Coder-V2-Lite-Instruct_0.cpp,RUNTIME_ERROR,0,0.00%,0.100,30.94921875,0,0,0,0,0,0,0,0,0,0,0,0
+trade_DeepSeek-Coder-V2-Lite-Instruct_1.cpp,RUNTIME_ERROR,0,0.00%,0.100,33.78125,0,0,0,0,0,0,0,0,0,0,0,0
+trade_DeepSeek-Coder-V2-Lite-Instruct_2.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.770,2245.5546875,0,0,0,0,0,0,0,0,0,0,0,0
+trade_DeepSeek-Coder-V2-Lite-Instruct_3.cpp,RUNTIME_ERROR,0,0.00%,0.090,30.9453125,0,0,0,0,0,0,0,0,0,0,0,0
+trade_DeepSeek-Coder-V2-Lite-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,7.710,29.91796875,0,0,0,0,0,0,0,0,0,0,0,0
+trade_DeepSeek-Coder-V2-Lite-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,7.720,29.91796875,0,0,0,0,0,0,0,0,0,0,0,0
+trade_DeepSeek-Coder-V2-Lite-Instruct_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0
+trade_DeepSeek-Coder-V2-Lite-Instruct_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.800,2230.6015625,0,0,0,0,0,0,0,0,0,0,0,0

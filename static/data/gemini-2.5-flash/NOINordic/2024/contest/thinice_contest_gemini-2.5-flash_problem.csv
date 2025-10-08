@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+thinice_gemini-2.5-flash_0.cpp,RUNTIME_ERROR,0,1.96%,0.050,2.69140625,0,0,0,0,0,0
+thinice_gemini-2.5-flash_1.cpp,RUNTIME_ERROR,0,0.00%,0.160,98.41796875,0,0,0,0,0,0
+thinice_gemini-2.5-flash_2.cpp,RUNTIME_ERROR,0,1.96%,0.050,2.58203125,0,0,0,0,0,0
+thinice_gemini-2.5-flash_3.cpp,RUNTIME_ERROR,0,0.00%,0.140,98.41796875,0,0,0,0,0,0
+thinice_gemini-2.5-flash_4.cpp,RUNTIME_ERROR,0,0.00%,0.570,7.57421875,0,0,0,0,0,0
+thinice_gemini-2.5-flash_5.cpp,RUNTIME_ERROR,0,22.03%,0.430,96.703125,0,0,0,0,0,0
+thinice_gemini-2.5-flash_6.cpp,RUNTIME_ERROR,0,0.00%,0.150,57.875,0,0,0,0,0,0
+thinice_gemini-2.5-flash_7.cpp,RUNTIME_ERROR,0,0.00%,0.470,102.7421875,0,0,0,0,0,0

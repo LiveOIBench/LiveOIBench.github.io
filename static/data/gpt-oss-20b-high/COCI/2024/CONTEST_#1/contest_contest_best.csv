@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+sudoku,gpt-oss-20b-high,ACCEPTED,50,100.00%,0.000,0
+labirint,gpt-oss-20b-high,ACCEPTED,70,100.00%,0.020,2.06640625
+an2dl,gpt-oss-20b-high,ACCEPTED,110,100.00%,0.620,100.4921875

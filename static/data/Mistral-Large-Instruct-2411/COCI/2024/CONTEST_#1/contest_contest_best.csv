@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+sudoku,Mistral-Large-Instruct-2411,ACCEPTED,50,100.00%,0.000,0
+labirint,Mistral-Large-Instruct-2411,RUNTIME_ERROR,24,37.50%,0.110,2.06640625
+an2dl,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,29,83.33%,4.810,123.7578125
+kocke,Mistral-Large-Instruct-2411,MEMORY_LIMIT_EXCEEDED,0,3.33%,0.070,2.07421875
+mostovi,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,30,56.78%,3.390,16.05078125

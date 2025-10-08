@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+2023-sp_Tourism_gpt-oss-120b-medium_0.cpp,TIME_LIMIT_EXCEEDED,28,28.00%,81.22%,4.860,26.30078125,5,5,0,18,0,0
+2023-sp_Tourism_gpt-oss-120b-medium_1.cpp,TIME_LIMIT_EXCEEDED,28,28.00%,82.10%,4.820,26.30078125,5,5,0,18,0,0
+2023-sp_Tourism_gpt-oss-120b-medium_2.cpp,TIME_LIMIT_EXCEEDED,28,28.00%,81.22%,4.820,26.046875,5,5,0,18,0,0
+2023-sp_Tourism_gpt-oss-120b-medium_3.cpp,ACCEPTED,100,100.00%,100.00%,4.700,35.9296875,5,5,7,18,24,41
+2023-sp_Tourism_gpt-oss-120b-medium_4.cpp,TIME_LIMIT_EXCEEDED,28,28.00%,79.65%,4.830,19.34375,5,5,0,18,0,0
+2023-sp_Tourism_gpt-oss-120b-medium_5.cpp,TIME_LIMIT_EXCEEDED,59,59.00%,94.72%,4.800,38.44140625,5,5,7,18,24,0
+2023-sp_Tourism_gpt-oss-120b-medium_6.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0
+2023-sp_Tourism_gpt-oss-120b-medium_7.cpp,TIME_LIMIT_EXCEEDED,28,28.00%,81.22%,4.810,27.07421875,5,5,0,18,0,0

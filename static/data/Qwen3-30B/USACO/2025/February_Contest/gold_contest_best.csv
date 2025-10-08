@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Bessies_Function,Qwen3-30B,WRONG_ANSWER,88,33.33%,0.220,5.16796875
+gold_The_Best_Subsequence,Qwen3-30B,TIME_LIMIT_EXCEEDED,59,30.00%,2.360,132.60546875
+gold_Friendship_Editing,Qwen3-30B,TIME_LIMIT_EXCEEDED,0,5.56%,2.430,0.00390625

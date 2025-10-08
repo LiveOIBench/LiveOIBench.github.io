@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+estimathon,gpt-oss-20b-medium,ACCEPTED,50,100.00%,0.000,0
+dirigent,gpt-oss-20b-medium,ACCEPTED,70,100.00%,0.070,5.6796875
+baltazar,gpt-oss-20b-medium,RUNTIME_ERROR,30,32.81%,0.500,84.37109375
+bomboni,gpt-oss-20b-medium,ACCEPTED,110,100.00%,0.170,3.35546875
+skrivaca,gpt-oss-20b-medium,ACCEPTED,110,100.00%,0.330,38.16015625

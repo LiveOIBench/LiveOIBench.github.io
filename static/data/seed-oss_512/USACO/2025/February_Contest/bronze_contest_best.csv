@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Reflection,seed-oss_512,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Making_Mexes,seed-oss_512,UNKNOWN,0,0.00%,0.000,0
+bronze_Printing_Sequences,seed-oss_512,WRONG_ANSWER,30,15.38%,0.050,0.00390625

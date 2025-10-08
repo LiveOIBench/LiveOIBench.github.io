@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+skokovi_gpt-oss-120b-medium_0.cpp,ACCEPTED,70,100.00%,100.00%,0.100,12.8984375,20,25,25
+skokovi_gpt-oss-120b-medium_1.cpp,ACCEPTED,70,100.00%,100.00%,0.140,6.7109375,20,25,25
+skokovi_gpt-oss-120b-medium_2.cpp,ACCEPTED,70,100.00%,100.00%,0.090,12.8984375,20,25,25
+skokovi_gpt-oss-120b-medium_3.cpp,ACCEPTED,70,100.00%,100.00%,0.100,12.8984375,20,25,25
+skokovi_gpt-oss-120b-medium_4.cpp,ACCEPTED,70,100.00%,100.00%,0.100,12.8984375,20,25,25
+skokovi_gpt-oss-120b-medium_5.cpp,ACCEPTED,70,100.00%,100.00%,0.120,5.9375,20,25,25
+skokovi_gpt-oss-120b-medium_6.cpp,ACCEPTED,70,100.00%,100.00%,0.090,12.8984375,20,25,25
+skokovi_gpt-oss-120b-medium_7.cpp,ACCEPTED,70,100.00%,100.00%,0.100,12.8984375,20,25,25

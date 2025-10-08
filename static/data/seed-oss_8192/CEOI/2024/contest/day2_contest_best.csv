@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+toy,seed-oss_8192,MEMORY_LIMIT_EXCEEDED,35,70.44%,1.010,1227.703125
+stations,seed-oss_8192,TIME_LIMIT_EXCEEDED,0,6.82%,4.210,22.55078125
+sprinklers,seed-oss_8192,TIME_LIMIT_EXCEEDED,3,25.74%,2.410,4.23046875

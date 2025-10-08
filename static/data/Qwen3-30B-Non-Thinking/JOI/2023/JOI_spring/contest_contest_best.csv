@@ -1,0 +1,13 @@
+problem,model,status,score,%test passed,time,memory
+2023-sp_Two_Currencies,Qwen3-30B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Festivals_in_JOI_Kingdom_2,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,0,13.33%,0.000,0
+2023-sp_Passport,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,0,9.43%,0.000,0
+2023-sp_Belt_Conveyor,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,0,6.45%,0.520,12.06640625
+2023-sp_Council,Qwen3-30B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Mizuyokan_2,Qwen3-30B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Chorus,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,0,6.67%,0.000,0
+2023-sp_Cookies,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,0,0.00%,0.000,0
+2023-sp_Tourism,Qwen3-30B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Super_Dango_Maker,Qwen3-30B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Security_Guard,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,0,5.95%,0.150,9.24609375
+2023-sp_Bitaro’s_travel,Qwen3-30B-Non-Thinking,TIME_LIMIT_EXCEEDED,15,77.88%,2.370,14.9609375

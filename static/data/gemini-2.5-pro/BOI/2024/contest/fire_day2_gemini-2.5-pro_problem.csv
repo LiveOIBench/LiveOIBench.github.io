@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+fire_gemini-2.5-pro_0.cpp,ACCEPTED,100,100.00%,0.200,131.19921875,14,17,9,13,21,26
+fire_gemini-2.5-pro_1.cpp,ACCEPTED,100,100.00%,0.240,68.65234375,14,17,9,13,21,26
+fire_gemini-2.5-pro_2.cpp,ACCEPTED,100,100.00%,0.380,160.10546875,14,17,9,13,21,26
+fire_gemini-2.5-pro_3.cpp,ACCEPTED,100,100.00%,0.580,170.87890625,14,17,9,13,21,26
+fire_gemini-2.5-pro_4.cpp,ACCEPTED,100,100.00%,0.290,129.69140625,14,17,9,13,21,26
+fire_gemini-2.5-pro_5.cpp,ACCEPTED,100,100.00%,0.270,157.2109375,14,17,9,13,21,26
+fire_gemini-2.5-pro_6.cpp,ACCEPTED,100,100.00%,0.250,93.34765625,14,17,9,13,21,26
+fire_gemini-2.5-pro_7.cpp,ACCEPTED,100,100.00%,0.450,122.109375,14,17,9,13,21,26

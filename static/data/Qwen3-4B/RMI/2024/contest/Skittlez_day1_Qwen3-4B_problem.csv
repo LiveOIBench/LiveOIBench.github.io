@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+Skittlez_Qwen3-4B_0.cpp,MEMORY_LIMIT_EXCEEDED,0,31.82%,0.650,306.8046875,0,0,0,0,0
+Skittlez_Qwen3-4B_1.cpp,MEMORY_LIMIT_EXCEEDED,0,31.82%,0.620,306.8046875,0,0,0,0,0
+Skittlez_Qwen3-4B_2.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0
+Skittlez_Qwen3-4B_3.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0
+Skittlez_Qwen3-4B_4.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0
+Skittlez_Qwen3-4B_5.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0
+Skittlez_Qwen3-4B_6.cpp,MEMORY_LIMIT_EXCEEDED,7,40.91%,0.610,306.5390625,0,7,0,0,0
+Skittlez_Qwen3-4B_7.cpp,MEMORY_LIMIT_EXCEEDED,0,31.82%,0.610,306.54296875,0,0,0,0,0

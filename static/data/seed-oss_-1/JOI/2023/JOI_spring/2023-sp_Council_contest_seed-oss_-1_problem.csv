@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+2023-sp_Council_seed-oss_0.cpp,RUNTIME_ERROR,0,19.83%,0.180,21.40234375,0,0,0,0,0,0,0
+2023-sp_Council_seed-oss_1.cpp,TIME_LIMIT_EXCEEDED,0,42.36%,3.610,2.9140625,0,0,0,0,0,0,0
+2023-sp_Council_seed-oss_2.cpp,TIME_LIMIT_EXCEEDED,41,90.46%,3.630,21.40625,8,8,6,19,0,0,0
+2023-sp_Council_seed-oss_3.cpp,RUNTIME_ERROR,0,35.04%,0.130,2.84375,0,0,0,0,0,0,0
+2023-sp_Council_seed-oss_4.cpp,TIME_LIMIT_EXCEEDED,41,90.00%,3.610,5.421875,8,8,6,19,0,0,0
+2023-sp_Council_seed-oss_5.cpp,TIME_LIMIT_EXCEEDED,0,42.25%,3.610,5.52734375,0,0,0,0,0,0,0
+2023-sp_Council_seed-oss_6.cpp,TIME_LIMIT_EXCEEDED,41,90.00%,3.600,95.65625,8,8,6,19,0,0,0
+2023-sp_Council_seed-oss_7.cpp,TIME_LIMIT_EXCEEDED,0,44.52%,3.610,225.3359375,0,0,0,0,0,0,0

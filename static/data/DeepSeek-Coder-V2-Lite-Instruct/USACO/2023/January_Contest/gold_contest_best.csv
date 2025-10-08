@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Find_and_Replace,DeepSeek-Coder-V2-Lite-Instruct,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.120,1.703125
+gold_Lights_Off,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Moo_Route,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

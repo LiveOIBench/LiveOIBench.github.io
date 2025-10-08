@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+longesttrip_gpt-oss-120b-low_0.cpp,RUNTIME_ERROR,0,9.64%,2.010,3.921875,0,0,0,0,0
+longesttrip_gpt-oss-120b-low_1.cpp,RUNTIME_ERROR,5,9.04%,2.030,3.9140625,0,5,0,0,0
+longesttrip_gpt-oss-120b-low_2.cpp,RUNTIME_ERROR,0,3.01%,1.340,3.91015625,0,0,0,0,0.0
+longesttrip_gpt-oss-120b-low_3.cpp,RUNTIME_ERROR,0,9.64%,2.030,3.98046875,0,0,0,0,0
+longesttrip_gpt-oss-120b-low_4.cpp,RUNTIME_ERROR,0,0.00%,0.030,3.8671875,0,0,0,0,0.0
+longesttrip_gpt-oss-120b-low_5.cpp,RUNTIME_ERROR,0,9.64%,2.070,3.921875,0,0,0,0,0
+longesttrip_gpt-oss-120b-low_6.cpp,RUNTIME_ERROR,0,0.00%,0.030,3.91015625,0,0,0,0,0.0
+longesttrip_gpt-oss-120b-low_7.cpp,RUNTIME_ERROR,5,6.02%,2.000,4.04296875,0,5,0,0,0.0

@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+sphinx_gpt-oss-20b-medium_0.cpp,RUNTIME_ERROR,0,3.26%,0.030,3.7734375,0,0.0,0.0,0.0,0.0,0.0
+sphinx_gpt-oss-20b-medium_1.cpp,RUNTIME_ERROR,0,3.26%,0.020,3.85546875,0,0.0,0.0,0.0,0.0,0.0
+sphinx_gpt-oss-20b-medium_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+sphinx_gpt-oss-20b-medium_3.cpp,RUNTIME_ERROR,0,3.26%,0.030,3.8671875,0,0.0,0.0,0.0,0.0,0.0
+sphinx_gpt-oss-20b-medium_4.cpp,RUNTIME_ERROR,0,3.26%,0.020,3.91015625,0,0.0,0.0,0.0,0.0,0.0
+sphinx_gpt-oss-20b-medium_5.cpp,RUNTIME_ERROR,0,0.00%,0.030,3.8359375,0,0.0,0.0,0.0,0.0,0.0
+sphinx_gpt-oss-20b-medium_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0

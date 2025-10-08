@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+square_grid_puzzle,gpt-oss-120b-high,RUNTIME_ERROR,0,0.00%,0.000,0
+team_building,gpt-oss-120b-high,ACCEPTED,100,100.00%,0.190,6.19140625
+tree_infection,gpt-oss-120b-high,ACCEPTED,100,100.00%,0.340,86.61328125

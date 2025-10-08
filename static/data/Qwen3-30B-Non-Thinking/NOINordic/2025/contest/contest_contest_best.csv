@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+diplomacy,Qwen3-30B-Non-Thinking,TIME_LIMIT_EXCEEDED,0,1.08%,4.420,8.828125
+garbage,Qwen3-30B-Non-Thinking,TIME_LIMIT_EXCEEDED,0,13.70%,5.690,27.6015625
+xoracle,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,24,32.35%,0.460,3.79296875

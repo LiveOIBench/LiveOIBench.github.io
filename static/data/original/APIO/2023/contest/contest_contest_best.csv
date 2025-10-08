@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+sequence,original,ACCEPTED,100,100.00%,0.870,49.2890625
+abc,original,ACCEPTED,100,100.00%,3.950,1380.29296875
+cyberland,original,ACCEPTED,100,100.00%,0.900,33.74609375

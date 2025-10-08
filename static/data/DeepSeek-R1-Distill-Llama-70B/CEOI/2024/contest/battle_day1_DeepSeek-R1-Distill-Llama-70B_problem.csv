@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+battle_DeepSeek-R1-Distill-Llama-70B_0.cpp,MEMORY_LIMIT_EXCEEDED,6,47.01%,2.050,395.71875,0,6,0,0,0,0,0,0
+battle_DeepSeek-R1-Distill-Llama-70B_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+battle_DeepSeek-R1-Distill-Llama-70B_2.cpp,RUNTIME_ERROR,0,12.50%,0.450,37.90234375,0,0,0,0,0,0,0,0
+battle_DeepSeek-R1-Distill-Llama-70B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+battle_DeepSeek-R1-Distill-Llama-70B_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+battle_DeepSeek-R1-Distill-Llama-70B_5.cpp,RUNTIME_ERROR,0,8.99%,0.270,29.6484375,0,0,0,0,0,0,0,0
+battle_DeepSeek-R1-Distill-Llama-70B_6.cpp,RUNTIME_ERROR,0,12.50%,0.410,29.8046875,0,0,0,0,0,0,0,0
+battle_DeepSeek-R1-Distill-Llama-70B_7.cpp,RUNTIME_ERROR,0,12.50%,0.440,30.53125,0,0,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bakery,gpt-5,ACCEPTED,333,100.00%,0.100,0.00390625
+silver_Cow-libi,gpt-5,ACCEPTED,333,100.00%,0.080,5.9375
+silver_Moo_Route_II,gpt-5,ACCEPTED,333,100.00%,0.110,22.17578125

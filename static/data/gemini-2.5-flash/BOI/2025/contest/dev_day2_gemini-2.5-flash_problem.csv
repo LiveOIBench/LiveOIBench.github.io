@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+dev_gemini-2.5-flash_0.cpp,MEMORY_LIMIT_EXCEEDED,0,3.85%,0.430,562.03515625,0,0,0,0,0,0,0
+dev_gemini-2.5-flash_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+dev_gemini-2.5-flash_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+dev_gemini-2.5-flash_3.cpp,MEMORY_LIMIT_EXCEEDED,0,1.10%,1.360,412.765625,0,0,0,0,0,0,0
+dev_gemini-2.5-flash_4.cpp,TIME_LIMIT_EXCEEDED,0,1.10%,2.210,2.06640625,0,0,0,0,0,0,0
+dev_gemini-2.5-flash_5.cpp,MEMORY_LIMIT_EXCEEDED,0,1.10%,0.420,548.9296875,0,0,0,0,0,0,0
+dev_gemini-2.5-flash_6.cpp,MEMORY_LIMIT_EXCEEDED,0,1.10%,0.440,557.38671875,0,0,0,0,0,0,0
+dev_gemini-2.5-flash_7.cpp,MEMORY_LIMIT_EXCEEDED,0,3.85%,0.440,561.69921875,0,0,0,0,0,0,0

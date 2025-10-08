@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+2023-sp_Tourism_gpt-oss-20b-medium_0.cpp,RUNTIME_ERROR,0,0.00%,0.270,11.8671875,0,0,0,0,0,0
+2023-sp_Tourism_gpt-oss-20b-medium_1.cpp,RUNTIME_ERROR,0,0.00%,0.060,9.47265625,0,0,0,0,0,0
+2023-sp_Tourism_gpt-oss-20b-medium_2.cpp,TIME_LIMIT_EXCEEDED,28,84.55%,4.820,29.19140625,5,5,0,18,0,0
+2023-sp_Tourism_gpt-oss-20b-medium_3.cpp,RUNTIME_ERROR,0,0.00%,0.030,4.6484375,0,0,0,0,0,0
+2023-sp_Tourism_gpt-oss-20b-medium_4.cpp,RUNTIME_ERROR,0,0.00%,0.030,5.7890625,0,0,0,0,0,0
+2023-sp_Tourism_gpt-oss-20b-medium_5.cpp,TIME_LIMIT_EXCEEDED,28,82.10%,4.810,18.28125,5,5,0,18,0,0
+2023-sp_Tourism_gpt-oss-20b-medium_6.cpp,TIME_LIMIT_EXCEEDED,28,81.22%,4.810,21.01171875,5,5,0,18,0,0

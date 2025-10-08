@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Custodial_Cleanup_Qwen3-4B_0.cpp,RUNTIME_ERROR,0,0.00%,0.090,5.125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Custodial_Cleanup_Qwen3-4B_1.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.020,3.9296875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Custodial_Cleanup_Qwen3-4B_2.cpp,RUNTIME_ERROR,0,0.00%,0.050,9.35546875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Custodial_Cleanup_Qwen3-4B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Custodial_Cleanup_Qwen3-4B_4.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.030,1.6953125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Custodial_Cleanup_Qwen3-4B_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.020,0.00390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Custodial_Cleanup_Qwen3-4B_6.cpp,RUNTIME_ERROR,0,0.00%,0.080,3.609375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Custodial_Cleanup_Qwen3-4B_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.070,9.39453125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

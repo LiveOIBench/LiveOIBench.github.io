@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+Yet_another_queries_gpt-oss-20b-high_0.cpp,TIME_LIMIT_EXCEEDED,67,85.55%,1.800,42.80078125,0.0,19.0,17.0,0,0,12.0,9.0,10.0,0
+Yet_another_queries_gpt-oss-20b-high_1.cpp,TIME_LIMIT_EXCEEDED,91,98.62%,1.800,58.375,0.0,19.0,17.0,11.0,13.0,12.0,9.0,10.0,0
+Yet_another_queries_gpt-oss-20b-high_2.cpp,ACCEPTED,100,100.00%,1.020,43.42578125,0.0,19.0,17.0,11.0,13.0,12.0,9.0,10.0,9.0
+Yet_another_queries_gpt-oss-20b-high_3.cpp,RUNTIME_ERROR,49,61.47%,0.910,29.3984375,0.0,0,17.0,11.0,0,12.0,9.0,0,0
+Yet_another_queries_gpt-oss-20b-high_4.cpp,TIME_LIMIT_EXCEEDED,67,85.55%,1.800,74.19921875,0.0,19.0,17.0,0,0,12.0,9.0,10.0,0
+Yet_another_queries_gpt-oss-20b-high_5.cpp,ACCEPTED,100,100.00%,0.890,75.39453125,0.0,19.0,17.0,11.0,13.0,12.0,9.0,10.0,9.0
+Yet_another_queries_gpt-oss-20b-high_6.cpp,TIME_LIMIT_EXCEEDED,67,85.55%,1.800,84.62109375,0.0,19.0,17.0,0,0,12.0,9.0,10.0,0
+Yet_another_queries_gpt-oss-20b-high_7.cpp,RUNTIME_ERROR,0,7.69%,1.740,140.64453125,0.0,0,0,0,0,0,0,0,0

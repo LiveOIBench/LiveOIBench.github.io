@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+covid,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,10,66.67%,0.050,1.5390625
+battle,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,0,12.50%,0.030,9.30859375
+editor,Qwen3-30B-Non-Thinking,TIME_LIMIT_EXCEEDED,14,35.38%,4.410,430.8125

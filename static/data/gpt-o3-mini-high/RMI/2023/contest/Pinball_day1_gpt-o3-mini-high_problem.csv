@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+Pinball_gpt-o3-mini-high_0.cpp,RUNTIME_ERROR,8,15.62%,0.230,42.1875,0,0,8,0,0,0,0,0
+Pinball_gpt-o3-mini-high_1.cpp,MEMORY_LIMIT_EXCEEDED,9,18.75%,1.590,276.90234375,0,0,0,0,0,0,9,0
+Pinball_gpt-o3-mini-high_2.cpp,MEMORY_LIMIT_EXCEEDED,9,15.62%,1.550,276.90234375,0,0,0,0,0,0,9,0
+Pinball_gpt-o3-mini-high_3.cpp,RUNTIME_ERROR,40,65.00%,0.710,138.6328125,0,13,8,0,10,0,9,0
+Pinball_gpt-o3-mini-high_4.cpp,MEMORY_LIMIT_EXCEEDED,9,18.75%,0.740,175.98046875,0,0,0,0,0,0,9,0
+Pinball_gpt-o3-mini-high_5.cpp,TIME_LIMIT_EXCEEDED,9,18.75%,3.310,280.76171875,0,0,0,0,0,0,9,0
+Pinball_gpt-o3-mini-high_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.320,5.5,0,0,0,0,0,0,0,0
+Pinball_gpt-o3-mini-high_7.cpp,MEMORY_LIMIT_EXCEEDED,9,18.75%,0.640,171.1015625,0,0,0,0,0,0,9,0

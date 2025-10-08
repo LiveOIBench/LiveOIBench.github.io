@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+mineraldeposits_Llama-3.3-70B-Instruct_0.cpp,RUNTIME_ERROR,0,0.00%,0.030,1.4765625,0,0,0,0,0,0,0,0
+mineraldeposits_Llama-3.3-70B-Instruct_1.cpp,RUNTIME_ERROR,0,0.00%,0.020,1.5390625,0,0,0,0,0,0,0,0
+mineraldeposits_Llama-3.3-70B-Instruct_2.cpp,RUNTIME_ERROR,0,0.00%,0.030,6.47265625,0,0,0,0,0,0,0,0
+mineraldeposits_Llama-3.3-70B-Instruct_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+mineraldeposits_Llama-3.3-70B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.020,1.5234375,0,0,0,0,0,0,0,0
+mineraldeposits_Llama-3.3-70B-Instruct_5.cpp,RUNTIME_ERROR,0,0.00%,0.020,1.48046875,0,0,0,0,0,0,0,0
+mineraldeposits_Llama-3.3-70B-Instruct_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+mineraldeposits_Llama-3.3-70B-Instruct_7.cpp,RUNTIME_ERROR,0,0.00%,0.020,1.4765625,0,0,0,0,0,0,0,0

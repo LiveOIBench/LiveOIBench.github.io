@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+september_DeepSeek-R1-Distill-Llama-70B_0.cpp,RUNTIME_ERROR,0,0.00%,0.250,10.05859375,0,0,0,0,0,0,0,0,0,0
+september_DeepSeek-R1-Distill-Llama-70B_1.cpp,RUNTIME_ERROR,0,0.00%,0.300,13.921875,0,0,0,0,0,0,0,0,0,0
+september_DeepSeek-R1-Distill-Llama-70B_2.cpp,RUNTIME_ERROR,0,0.00%,0.310,12.33984375,0,0,0,0,0,0,0,0,0,0
+september_DeepSeek-R1-Distill-Llama-70B_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.160,7.8515625,0,0,0,0,0,0,0,0,0,0
+september_DeepSeek-R1-Distill-Llama-70B_4.cpp,RUNTIME_ERROR,0,0.00%,0.340,16.890625,0,0,0,0,0,0,0,0,0,0
+september_DeepSeek-R1-Distill-Llama-70B_5.cpp,RUNTIME_ERROR,45,50.00%,0.270,9.06640625,11,0,0,5,9,0,0,9,11,0
+september_DeepSeek-R1-Distill-Llama-70B_6.cpp,RUNTIME_ERROR,0,0.00%,0.300,11.80859375,0,0,0,0,0,0,0,0,0,0
+september_DeepSeek-R1-Distill-Llama-70B_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+wall_seed-oss_0.cpp,ACCEPTED,100,100.00%,4.360,176.0625,8,17,19,14,12,30
+wall_seed-oss_1.cpp,RUNTIME_ERROR,0,0.00%,0.000,2.015625,0,0,0,0,0,0
+wall_seed-oss_2.cpp,RUNTIME_ERROR,0,0.00%,0.000,1.8046875,0,0,0,0,0,0
+wall_seed-oss_3.cpp,TIME_LIMIT_EXCEEDED,70,96.94%,5.980,47.203125,8,17,19,14,12,0
+wall_seed-oss_4.cpp,TIME_LIMIT_EXCEEDED,0,22.73%,5.980,39.625,0,0,0,0,0,0
+wall_seed-oss_5.cpp,RUNTIME_ERROR,0,23.60%,0.140,35.7734375,0,0,0,0,0,0
+wall_seed-oss_6.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+wall_seed-oss_7.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0

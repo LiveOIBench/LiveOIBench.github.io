@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+s1j4_gpt-o3-mini-high_0.cpp,RUNTIME_ERROR,6,52.50%,0.020,0,3,3,0,0
+s1j4_gpt-o3-mini-high_1.cpp,ACCEPTED,15,100.00%,0.030,2.84765625,3,3,5,4
+s1j4_gpt-o3-mini-high_2.cpp,RUNTIME_ERROR,6,52.50%,0.000,0,3,3,0,0
+s1j4_gpt-o3-mini-high_3.cpp,RUNTIME_ERROR,6,52.50%,0.010,1.55859375,3,3,0,0
+s1j4_gpt-o3-mini-high_4.cpp,ACCEPTED,15,100.00%,0.030,3.015625,3,3,5,4
+s1j4_gpt-o3-mini-high_5.cpp,ACCEPTED,15,100.00%,0.030,3.015625,3,3,5,4
+s1j4_gpt-o3-mini-high_6.cpp,RUNTIME_ERROR,6,52.50%,0.020,0,3,3,0,0
+s1j4_gpt-o3-mini-high_7.cpp,ACCEPTED,15,100.00%,0.040,2.84765625,3,3,5,4

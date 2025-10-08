@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cow_Checkups,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,17,17.39%,2.350,7.0859375
+silver_Farmer_Johns_Favorite_Operation,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,44,18.75%,2.300,14.4453125
+silver_Table_Recovery,Mistral-Large-Instruct-2411,RUNTIME_ERROR,0,6.67%,0.330,5.1640625

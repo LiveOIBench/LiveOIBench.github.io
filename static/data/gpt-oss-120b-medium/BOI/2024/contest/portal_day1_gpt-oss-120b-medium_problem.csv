@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+portal_gpt-oss-120b-medium_0.cpp,RUNTIME_ERROR,11,11.00%,33.51%,0.020,4.39453125,1,10,0,0,0,0
+portal_gpt-oss-120b-medium_1.cpp,RUNTIME_ERROR,21,21.00%,45.55%,0.030,2.84765625,1,10,10,0,0,0
+portal_gpt-oss-120b-medium_2.cpp,RUNTIME_ERROR,21,21.00%,45.55%,0.030,2.84765625,1,10,10,0,0,0
+portal_gpt-oss-120b-medium_3.cpp,RUNTIME_ERROR,1,1.00%,15.70%,0.020,2.84765625,1,0,0,0,0,0
+portal_gpt-oss-120b-medium_4.cpp,RUNTIME_ERROR,21,21.00%,45.55%,0.030,4.39453125,1,10,10,0,0,0
+portal_gpt-oss-120b-medium_5.cpp,RUNTIME_ERROR,21,21.00%,45.55%,0.020,4.39453125,1,10,10,0,0,0
+portal_gpt-oss-120b-medium_6.cpp,RUNTIME_ERROR,11,11.00%,33.51%,0.020,2.84765625,1,10,0,0,0,0
+portal_gpt-oss-120b-medium_7.cpp,RUNTIME_ERROR,21,21.00%,45.55%,0.030,2.84765625,1,10,10,0,0,0

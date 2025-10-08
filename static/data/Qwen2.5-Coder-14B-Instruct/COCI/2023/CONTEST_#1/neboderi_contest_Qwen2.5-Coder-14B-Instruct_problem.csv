@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+neboderi_Qwen2.5-Coder-14B-Instruct_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+neboderi_Qwen2.5-Coder-14B-Instruct_1.cpp,RUNTIME_ERROR,0,0.00%,2.050,12.90234375,0,0,0,0,0
+neboderi_Qwen2.5-Coder-14B-Instruct_2.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.420,539.75390625,0,0,0,0,0
+neboderi_Qwen2.5-Coder-14B-Instruct_3.cpp,RUNTIME_ERROR,0,0.00%,0.310,5.16796875,0,0,0,0,0
+neboderi_Qwen2.5-Coder-14B-Instruct_4.cpp,RUNTIME_ERROR,0,0.00%,2.010,12.90234375,0,0,0,0,0
+neboderi_Qwen2.5-Coder-14B-Instruct_5.cpp,RUNTIME_ERROR,0,0.00%,2.020,12.90234375,0,0,0,0,0
+neboderi_Qwen2.5-Coder-14B-Instruct_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.310,547.08984375,0,0,0,0,0
+neboderi_Qwen2.5-Coder-14B-Instruct_7.cpp,MEMORY_LIMIT_EXCEEDED,33,38.89%,0.460,539.87109375,11,22,0,0,0

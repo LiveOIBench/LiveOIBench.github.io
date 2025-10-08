@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+show,seed-oss_512,COMPILATION_ERROR,0,0.00%,0.000,0
+september,seed-oss_512,COMPILATION_ERROR,0,0.00%,0.000,0
+train,seed-oss_512,COMPILATION_ERROR,0,0.00%,0.000,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+icecreammachines,gemini-2.5-flash,ACCEPTED,100,100.00%,0.130,14.9609375
+chatnoi,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,22,65.73%,4.410,102.19140625
+islandalliances,gemini-2.5-flash,ACCEPTED,100,100.00%,0.140,14.703125

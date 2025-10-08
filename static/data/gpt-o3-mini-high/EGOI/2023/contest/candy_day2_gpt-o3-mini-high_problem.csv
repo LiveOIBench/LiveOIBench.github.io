@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+candy_gpt-o3-mini-high_0.cpp,ACCEPTED,100,100.00%,0.050,5.16796875,0,6,19,16,30,29
+candy_gpt-o3-mini-high_1.cpp,RUNTIME_ERROR,6,41.67%,0.030,4.578125,0,6,0,0,0,0
+candy_gpt-o3-mini-high_2.cpp,ACCEPTED,100,100.00%,0.080,9.03515625,0,6,19,16,30,29
+candy_gpt-o3-mini-high_3.cpp,ACCEPTED,100,100.00%,0.060,5.16796875,0,6,19,16,30,29
+candy_gpt-o3-mini-high_4.cpp,ACCEPTED,100,100.00%,0.050,5.16796875,0,6,19,16,30,29
+candy_gpt-o3-mini-high_5.cpp,ACCEPTED,100,100.00%,0.230,16.23046875,0,6,19,16,30,29
+candy_gpt-o3-mini-high_6.cpp,ACCEPTED,100,100.00%,0.070,8.77734375,0,6,19,16,30,29
+candy_gpt-o3-mini-high_7.cpp,ACCEPTED,100,100.00%,1.380,3.36328125,0,6,19,16,30,29

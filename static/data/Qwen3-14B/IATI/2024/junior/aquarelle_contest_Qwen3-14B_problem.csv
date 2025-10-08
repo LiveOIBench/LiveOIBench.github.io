@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+aquarelle_Qwen3-14B_0.cpp,TIME_LIMIT_EXCEEDED,11,54.29%,0.480,199.80859375,0,11,0,0,0,0
+aquarelle_Qwen3-14B_1.cpp,TIME_LIMIT_EXCEEDED,11,65.85%,0.430,73.20703125,0,11,0,0,0,0
+aquarelle_Qwen3-14B_2.cpp,TIME_LIMIT_EXCEEDED,11,68.24%,0.430,112.66796875,0,11,0,0,0,0
+aquarelle_Qwen3-14B_3.cpp,TIME_LIMIT_EXCEEDED,11,65.85%,0.480,3.61328125,0,11,0,0,0,0
+aquarelle_Qwen3-14B_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+aquarelle_Qwen3-14B_5.cpp,TIME_LIMIT_EXCEEDED,11,68.24%,0.460,2.40234375,0,11,0,0,0,0
+aquarelle_Qwen3-14B_6.cpp,TIME_LIMIT_EXCEEDED,29,75.79%,0.440,205.6796875,0,11,18,0,0,0
+aquarelle_Qwen3-14B_7.cpp,TIME_LIMIT_EXCEEDED,11,68.24%,0.430,2.65625,0,11,0,0,0,0

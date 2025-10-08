@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Logical_Moos,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,97,34.62%,2.340,13.75390625
+bronze_Walking_Along_a_Fence,Llama-3.3-70B-Instruct,WRONG_ANSWER,0,0.00%,0.370,7.55078125
+bronze_Farmer_Johns_Favorite_Permutation,Llama-3.3-70B-Instruct,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.120,2.5234375

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+hieroglyphs,Qwen2.5-Coder-7B-Instruct,RUNTIME_ERROR,0,1.79%,1.090,2.7265625
+sphinx,Qwen2.5-Coder-7B-Instruct,RUNTIME_ERROR,0,6.38%,0.050,3.859375
+mosaic,Qwen2.5-Coder-7B-Instruct,TIME_LIMIT_EXCEEDED,12,57.66%,1.110,2242.7890625

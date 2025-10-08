@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Min_Max_Subarrays,QwQ-32B,WRONG_ANSWER,0,23.08%,0.240,12.9296875
+platinum_Transforming_Pairs,QwQ-32B,WRONG_ANSWER,0,5.26%,0.190,0.00390625
+platinum_True_or_False_Test,QwQ-32B,WRONG_ANSWER,0,5.00%,0.170,7.484375

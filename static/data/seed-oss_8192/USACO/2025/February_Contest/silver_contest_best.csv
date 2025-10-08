@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_The_Best_Lineup,seed-oss_8192,TIME_LIMIT_EXCEEDED,137,44.44%,2.410,7.76953125
+silver_Vocabulary_Quiz,seed-oss_8192,ACCEPTED,333,100.00%,0.130,13.16015625
+silver_Transforming_Pairs,seed-oss_8192,ACCEPTED,333,100.00%,0.020,0.00390625

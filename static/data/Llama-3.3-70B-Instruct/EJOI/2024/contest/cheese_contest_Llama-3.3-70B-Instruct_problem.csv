@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+cheese_Llama-3.3-70B-Instruct_0.cpp,RUNTIME_ERROR,0,2.56%,0.390,34.09375,0,0,0,0,0,0,0
+cheese_Llama-3.3-70B-Instruct_1.cpp,RUNTIME_ERROR,0,0.00%,0.250,16.88671875,0,0,0,0,0,0,0
+cheese_Llama-3.3-70B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,0,5.13%,2.220,10.8359375,0,0,0,0,0,0,0
+cheese_Llama-3.3-70B-Instruct_3.cpp,RUNTIME_ERROR,0,0.00%,0.250,14.69921875,0,0,0,0,0,0,0
+cheese_Llama-3.3-70B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.220,43.30078125,0,0,0,0,0,0,0
+cheese_Llama-3.3-70B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.230,35.84375,0,0,0,0,0,0,0
+cheese_Llama-3.3-70B-Instruct_6.cpp,RUNTIME_ERROR,0,5.13%,0.530,41.41015625,0,0,0,0,0,0,0
+cheese_Llama-3.3-70B-Instruct_7.cpp,RUNTIME_ERROR,0,0.00%,0.350,48.4609375,0,0,0,0,0,0,0

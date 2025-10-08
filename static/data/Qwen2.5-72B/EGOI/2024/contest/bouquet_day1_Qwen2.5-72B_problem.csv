@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+bouquet_Qwen2.5-72B_0.cpp,RUNTIME_ERROR,0,1.79%,0.100,2.84765625,0,0,0,0,0,0
+bouquet_Qwen2.5-72B_1.cpp,RUNTIME_ERROR,0,4.09%,0.110,2.84765625,0,0,0,0,0,0
+bouquet_Qwen2.5-72B_2.cpp,RUNTIME_ERROR,0,20.42%,0.110,5.1640625,0,0,0,0,0,0
+bouquet_Qwen2.5-72B_3.cpp,RUNTIME_ERROR,0,8.00%,0.140,4.39453125,0,0,0,0,0,0
+bouquet_Qwen2.5-72B_4.cpp,RUNTIME_ERROR,0,46.05%,0.160,3.62109375,0,0,0,0,0,0
+bouquet_Qwen2.5-72B_5.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+bouquet_Qwen2.5-72B_6.cpp,MEMORY_LIMIT_EXCEEDED,0,8.00%,0.160,2.98828125,0,0,0,0,0,0
+bouquet_Qwen2.5-72B_7.cpp,RUNTIME_ERROR,0,46.05%,0.150,2.84765625,0,0,0,0,0,0

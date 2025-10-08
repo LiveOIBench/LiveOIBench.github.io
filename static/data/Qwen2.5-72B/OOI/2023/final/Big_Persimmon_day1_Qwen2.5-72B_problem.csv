@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Big_Persimmon_Qwen2.5-72B_0.cpp,RUNTIME_ERROR,12,17.74%,0.100,62.66015625,0,0,12.0,0,0,0,0
+Big_Persimmon_Qwen2.5-72B_1.cpp,RUNTIME_ERROR,0,8.47%,0.000,0,0,0,0,0,0,0,0
+Big_Persimmon_Qwen2.5-72B_2.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0
+Big_Persimmon_Qwen2.5-72B_3.cpp,RUNTIME_ERROR,0,6.78%,0.000,0,0,0,0,0,0,0,0
+Big_Persimmon_Qwen2.5-72B_4.cpp,RUNTIME_ERROR,12,17.74%,0.080,0,0,0,12.0,0,0,0,0
+Big_Persimmon_Qwen2.5-72B_5.cpp,RUNTIME_ERROR,0,3.45%,0.090,1.55859375,0,0,0,0,0,0,0
+Big_Persimmon_Qwen2.5-72B_6.cpp,RUNTIME_ERROR,0,3.45%,0.090,2.07421875,0,0,0,0,0,0,0
+Big_Persimmon_Qwen2.5-72B_7.cpp,RUNTIME_ERROR,0,1.75%,0.090,2.07421875,0,0,0,0,0,0,0

@@ -1,0 +1,7 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+Jump_Civilization_gpt-oss-120b-high_0.cpp,RUNTIME_ERROR,11,14.29%,0.130,28.109375,0,0,0,11,0,0
+Jump_Civilization_gpt-oss-120b-high_1.cpp,RUNTIME_ERROR,0,0.00%,1.010,64.2109375,0,0,0,0,0,0
+Jump_Civilization_gpt-oss-120b-high_2.cpp,RUNTIME_ERROR,0,0.00%,0.230,55.06640625,0,0,0,0,0,0
+Jump_Civilization_gpt-oss-120b-high_3.cpp,RUNTIME_ERROR,11,14.29%,0.150,119.125,0,0,0,11,0,0
+Jump_Civilization_gpt-oss-120b-high_4.cpp,RUNTIME_ERROR,0,0.00%,0.170,86.48046875,0,0,0,0,0,0
+Jump_Civilization_gpt-oss-120b-high_7.cpp,RUNTIME_ERROR,11,14.29%,0.180,43.52734375,0,0,0,11,0,0

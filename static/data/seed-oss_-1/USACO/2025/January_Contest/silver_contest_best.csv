@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cow_Checkups,seed-oss_-1,ACCEPTED,333,100.00%,0.180,47.4453125
+silver_Farmer_Johns_Favorite_Operation,seed-oss_-1,ACCEPTED,333,100.00%,0.090,4.66015625
+silver_Table_Recovery,seed-oss_-1,WRONG_ANSWER,0,13.33%,0.140,40.99609375

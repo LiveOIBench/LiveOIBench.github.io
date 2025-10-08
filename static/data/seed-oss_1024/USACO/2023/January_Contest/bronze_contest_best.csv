@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Leaders,seed-oss_1024,RUNTIME_ERROR,44,11.76%,0.050,2.0703125
+bronze_Air_Cownditioning_II,seed-oss_1024,ACCEPTED,333,100.00%,0.000,0
+bronze_Moo_Operations,seed-oss_1024,ACCEPTED,333,100.00%,0.000,0

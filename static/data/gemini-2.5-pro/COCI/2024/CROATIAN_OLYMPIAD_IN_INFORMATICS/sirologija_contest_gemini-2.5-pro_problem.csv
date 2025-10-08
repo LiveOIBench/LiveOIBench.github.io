@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+sirologija_gemini-2.5-pro_0.cpp,TIME_LIMIT_EXCEEDED,0,2.84%,1.160,10.73828125,0,0,0,0,0,0
+sirologija_gemini-2.5-pro_1.cpp,RUNTIME_ERROR,0,0.57%,0.170,21.15234375,0,0,0,0,0,0
+sirologija_gemini-2.5-pro_2.cpp,RUNTIME_ERROR,0,1.14%,0.120,39.44921875,0,0,0,0,0,0
+sirologija_gemini-2.5-pro_3.cpp,TIME_LIMIT_EXCEEDED,0,2.84%,1.140,14.12890625,0,0,0,0,0,0
+sirologija_gemini-2.5-pro_4.cpp,TIME_LIMIT_EXCEEDED,0,0.57%,1.200,307.9296875,0,0,0,0,0,0
+sirologija_gemini-2.5-pro_5.cpp,RUNTIME_ERROR,0,1.14%,0.070,20.375,0,0,0,0,0,0
+sirologija_gemini-2.5-pro_6.cpp,RUNTIME_ERROR,0,1.14%,0.110,21.14453125,0,0,0,0,0,0
+sirologija_gemini-2.5-pro_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.140,124.81640625,0,0,0,0,0,0

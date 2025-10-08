@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+restorani_gemini-2.5-flash_0.cpp,RUNTIME_ERROR,0,2.05%,0.190,66.5390625,0,0,0,0
+restorani_gemini-2.5-flash_1.cpp,RUNTIME_ERROR,0,0.68%,0.190,66.4609375,0,0,0,0
+restorani_gemini-2.5-flash_2.cpp,RUNTIME_ERROR,0,0.68%,0.170,64.97265625,0,0,0,0
+restorani_gemini-2.5-flash_3.cpp,RUNTIME_ERROR,0,0.68%,0.220,67.61328125,0,0,0,0
+restorani_gemini-2.5-flash_4.cpp,RUNTIME_ERROR,0,0.68%,0.140,43.3125,0,0,0,0
+restorani_gemini-2.5-flash_5.cpp,RUNTIME_ERROR,0,0.68%,0.150,65.0078125,0,0,0,0
+restorani_gemini-2.5-flash_6.cpp,RUNTIME_ERROR,0,0.68%,0.190,64.16015625,0,0,0,0
+restorani_gemini-2.5-flash_7.cpp,RUNTIME_ERROR,0,2.05%,0.140,64.77734375,0,0,0,0

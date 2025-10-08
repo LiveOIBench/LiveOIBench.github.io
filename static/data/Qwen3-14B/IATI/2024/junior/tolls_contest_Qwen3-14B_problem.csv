@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+tolls_Qwen3-14B_0.cpp,ACCEPTED,100,100.00%,0.210,11.12109375,0,5,5,10,20,10,20,30
+tolls_Qwen3-14B_1.cpp,ACCEPTED,100,100.00%,0.220,11.63671875,0,5,5,10,20,10,20,30
+tolls_Qwen3-14B_2.cpp,TIME_LIMIT_EXCEEDED,50,94.86%,0.310,11.89453125,0,5,5,10,20,10,0,0
+tolls_Qwen3-14B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+tolls_Qwen3-14B_4.cpp,ACCEPTED,100,100.00%,0.230,12.66015625,0,5,5,10,20,10,20,30
+tolls_Qwen3-14B_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+tolls_Qwen3-14B_6.cpp,RUNTIME_ERROR,0,0.00%,0.130,2.2109375,0,0,0,0,0,0,0,0
+tolls_Qwen3-14B_7.cpp,RUNTIME_ERROR,20,78.50%,0.250,5.84765625,0,5,5,10,0,0,0,0

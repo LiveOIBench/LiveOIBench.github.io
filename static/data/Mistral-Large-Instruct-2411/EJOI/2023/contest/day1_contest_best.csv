@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+teleporters,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,5,16.42%,1.150,2.23046875
+tree_search,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0
+opening_offices,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,0,9.84%,1.150,2.328125

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bovine_Acrobatics,Codestral-22B-v0.1,RUNTIME_ERROR,44,11.76%,0.240,6.15234375
+silver_Cycle_Correspondence,Codestral-22B-v0.1,MEMORY_LIMIT_EXCEEDED,0,6.67%,0.140,6.19921875
+silver_Target_Practice,Codestral-22B-v0.1,RUNTIME_ERROR,56,13.33%,0.120,1.28515625

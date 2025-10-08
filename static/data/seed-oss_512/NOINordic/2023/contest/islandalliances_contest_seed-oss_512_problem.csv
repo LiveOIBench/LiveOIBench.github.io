@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+islandalliances_seed-oss_0.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0
+islandalliances_seed-oss_1.cpp,RUNTIME_ERROR,0,0.00%,0.110,16.76171875,0,0,0,0,0
+islandalliances_seed-oss_2.cpp,RUNTIME_ERROR,0,0.00%,1.710,7.22265625,0,0,0,0,0
+islandalliances_seed-oss_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+islandalliances_seed-oss_4.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0
+islandalliances_seed-oss_5.cpp,RUNTIME_ERROR,0,0.00%,0.090,8.30859375,0,0,0,0,0
+islandalliances_seed-oss_6.cpp,WRONG_ANSWER,75,98.15%,0.920,85.45703125,15,17,20,23,0
+islandalliances_seed-oss_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.120,16.765625,0,0,0,0,0

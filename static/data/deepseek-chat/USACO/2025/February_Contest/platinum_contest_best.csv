@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Min_Max_Subarrays,deepseek-chat,TIME_LIMIT_EXCEEDED,0,23.08%,3.330,153.66015625
+platinum_Transforming_Pairs,deepseek-chat,RUNTIME_ERROR,19,5.26%,0.180,251.4375
+platinum_True_or_False_Test,deepseek-chat,WRONG_ANSWER,0,5.00%,0.090,7.48828125

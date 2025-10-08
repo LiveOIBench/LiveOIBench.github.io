@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+kalendar,gpt-oss-20b-high,ACCEPTED,50,100.00%,0.000,0
+diskurs,gpt-oss-20b-high,ACCEPTED,70,100.00%,0.150,12.38671875
+logaritam,gpt-oss-20b-high,ACCEPTED,110,100.00%,0.030,0.00390625
+slasticarnica,gpt-oss-20b-high,ACCEPTED,110,100.00%,0.110,3.21875
+zastave,gpt-oss-20b-high,ACCEPTED,110,100.00%,0.060,2.07421875

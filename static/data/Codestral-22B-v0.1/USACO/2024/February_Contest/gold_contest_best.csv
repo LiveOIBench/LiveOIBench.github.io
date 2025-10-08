@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Bessla_Motors,Codestral-22B-v0.1,WRONG_ANSWER,250,80.00%,2.880,6.3203125
+gold_Milk_Exchange,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Quantum_Moochanics,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0

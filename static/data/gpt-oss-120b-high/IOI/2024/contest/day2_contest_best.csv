@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+hieroglyphs,gpt-oss-120b-high,RUNTIME_ERROR,18,40.17%,0.070,22.3671875
+sphinx,gpt-oss-120b-high,RUNTIME_ERROR,0,6.38%,0.030,3.85546875
+mosaic,gpt-oss-120b-high,MEMORY_LIMIT_EXCEEDED,22,64.86%,0.850,2451.296875

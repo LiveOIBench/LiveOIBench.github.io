@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+chatnoi_Llama-3.3-70B-Instruct_0.cpp,RUNTIME_ERROR,0,42.33%,0.140,0,0,0,0,0,0,0,0
+chatnoi_Llama-3.3-70B-Instruct_1.cpp,RUNTIME_ERROR,0,42.33%,0.140,16.55859375,0,0,0,0,0,0,0
+chatnoi_Llama-3.3-70B-Instruct_2.cpp,RUNTIME_ERROR,0,1.38%,0.000,0,0,0,0,0,0,0,0
+chatnoi_Llama-3.3-70B-Instruct_3.cpp,RUNTIME_ERROR,0,42.33%,0.140,16.55859375,0,0,0,0,0,0,0
+chatnoi_Llama-3.3-70B-Instruct_4.cpp,RUNTIME_ERROR,0,1.38%,0.000,0,0,0,0,0,0,0,0
+chatnoi_Llama-3.3-70B-Instruct_5.cpp,RUNTIME_ERROR,0,1.38%,0.000,0,0,0,0,0,0,0,0
+chatnoi_Llama-3.3-70B-Instruct_6.cpp,RUNTIME_ERROR,5,54.76%,1.030,161.765625,5,0,0,0,0,0,0
+chatnoi_Llama-3.3-70B-Instruct_7.cpp,RUNTIME_ERROR,0,42.33%,0.000,0,0,0,0,0,0,0,0

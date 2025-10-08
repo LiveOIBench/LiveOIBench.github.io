@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Median_Heap,gemini-2.5-pro,ACCEPTED,333,100.00%,2.890,176.96484375
+gold_Reachable_Pairs,gemini-2.5-pro,RUNTIME_ERROR,67,21.74%,0.200,19.3203125
+gold_Photo_Op,gemini-2.5-pro,COMPILATION_ERROR,0,0.00%,0.000,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+covid,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,10,66.67%,0.220,1.5390625
+battle,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,12.50%,0.160,44.5390625
+editor,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,11.29%,0.070,7.9453125

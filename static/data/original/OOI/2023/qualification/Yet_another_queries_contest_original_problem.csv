@@ -1,0 +1,2 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+segment_tree_without_recursion.cpp,TIME_LIMIT_EXCEEDED,67,75.61%,1.390,21.46875,0.0,19.0,17.0,0,0,12.0,9.0,10.0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+gcd_gemini-2.5-flash_0.cpp,RUNTIME_ERROR,0,3.28%,0.000,0,0,0,0,0,0
+gcd_gemini-2.5-flash_1.cpp,RUNTIME_ERROR,0,3.28%,0.000,0,0,0,0,0,0
+gcd_gemini-2.5-flash_2.cpp,RUNTIME_ERROR,0,3.28%,0.000,0,0,0,0,0,0
+gcd_gemini-2.5-flash_3.cpp,RUNTIME_ERROR,0,3.28%,0.020,0,0,0,0,0,0
+gcd_gemini-2.5-flash_4.cpp,RUNTIME_ERROR,0,3.28%,0.020,0,0,0,0,0,0
+gcd_gemini-2.5-flash_5.cpp,RUNTIME_ERROR,0,3.28%,0.020,0,0,0,0,0,0
+gcd_gemini-2.5-flash_6.cpp,RUNTIME_ERROR,0,3.28%,0.000,0,0,0,0,0,0
+gcd_gemini-2.5-flash_7.cpp,RUNTIME_ERROR,0,3.28%,0.050,41.01171875,0,0,0,0,0

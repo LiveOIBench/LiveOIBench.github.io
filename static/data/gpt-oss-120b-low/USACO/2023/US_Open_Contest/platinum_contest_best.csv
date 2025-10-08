@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Pareidolia,gpt-oss-120b-low,WRONG_ANSWER,0,0.00%,0.210,40.0078125
+platinum_Good_Bitstrings,gpt-oss-120b-low,WRONG_ANSWER,0,0.00%,0.000,0
+platinum_Triples_of_Cows,gpt-oss-120b-low,RUNTIME_ERROR,0,5.00%,0.120,14.55078125

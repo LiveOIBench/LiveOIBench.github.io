@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+dev,seed-oss_16384,RUNTIME_ERROR,0,1.10%,0.010,1.5546875
+exp,seed-oss_16384,RUNTIME_ERROR,0,2.01%,1.080,87.5859375
+gcd,seed-oss_16384,RUNTIME_ERROR,0,8.20%,0.010,0

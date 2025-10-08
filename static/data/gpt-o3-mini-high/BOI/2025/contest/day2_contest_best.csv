@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+dev,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,0,4.40%,2.220,4.390625
+exp,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,0,10.07%,1.120,68.44921875
+gcd,gpt-o3-mini-high,ACCEPTED,100,100.00%,0.080,5.16796875

@@ -1,0 +1,4 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+d1p2_gpt-oss-20b-low_0.cpp,RUNTIME_ERROR,0,0.00%,0.120,8.9765625,0,0,0,0,0
+d1p2_gpt-oss-20b-low_2.cpp,RUNTIME_ERROR,0,0.00%,0.800,248.7890625,0,0,0,0,0
+d1p2_gpt-oss-20b-low_6.cpp,RUNTIME_ERROR,0,0.00%,0.210,20.37890625,0,0,0,0,0

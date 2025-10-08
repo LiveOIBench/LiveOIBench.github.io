@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Burenka_and_Pether,seed-oss_2048,UNKNOWN,0,0.00%,0.000,0
+Almost_Certainly,seed-oss_2048,UNKNOWN,0,0.00%,0.000,0
+Three_Arrays,seed-oss_2048,RUNTIME_ERROR,0,6.57%,0.030,0.00390625
+Parallel_Universes,seed-oss_2048,RUNTIME_ERROR,0,0.72%,0.030,0

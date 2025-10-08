@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4
+2023-sp_Two_Currencies_gemini-2.5-flash_0.cpp,ACCEPTED,100,100.00%,1.650,82.4765625,10,28,30,32
+2023-sp_Two_Currencies_gemini-2.5-flash_1.cpp,RUNTIME_ERROR,0,0.00%,0.050,7.4765625,0,0,0,0
+2023-sp_Two_Currencies_gemini-2.5-flash_2.cpp,RUNTIME_ERROR,0,0.00%,0.040,6.96875,0,0,0,0
+2023-sp_Two_Currencies_gemini-2.5-flash_3.cpp,ACCEPTED,100,100.00%,0.510,112.921875,10,28,30,32
+2023-sp_Two_Currencies_gemini-2.5-flash_4.cpp,ACCEPTED,100,100.00%,1.750,135.14453125,10,28,30,32
+2023-sp_Two_Currencies_gemini-2.5-flash_5.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0
+2023-sp_Two_Currencies_gemini-2.5-flash_6.cpp,RUNTIME_ERROR,0,0.00%,0.070,7.16015625,0,0,0,0
+2023-sp_Two_Currencies_gemini-2.5-flash_7.cpp,ACCEPTED,100,100.00%,1.380,128.4375,10,28,30,32

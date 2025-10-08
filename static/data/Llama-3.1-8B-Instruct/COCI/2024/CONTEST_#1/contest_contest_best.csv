@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+sudoku,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,45.71%,0.000,0
+labirint,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+an2dl,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+kocke,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+mostovi,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

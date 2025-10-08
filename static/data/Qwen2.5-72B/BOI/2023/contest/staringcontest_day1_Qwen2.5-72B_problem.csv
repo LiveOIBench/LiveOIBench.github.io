@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3
+staringcontest_Qwen2.5-72B_0.cpp,RUNTIME_ERROR,0,0.00%,0.030,1.5390625,0,0,0
+staringcontest_Qwen2.5-72B_1.cpp,RUNTIME_ERROR,0,2.56%,0.020,3.33984375,0,0,0
+staringcontest_Qwen2.5-72B_2.cpp,RUNTIME_ERROR,0,0.00%,0.020,1.48046875,0,0,0
+staringcontest_Qwen2.5-72B_3.cpp,RUNTIME_ERROR,0,2.56%,0.030,1.5390625,0,0,0
+staringcontest_Qwen2.5-72B_4.cpp,RUNTIME_ERROR,0,2.56%,0.030,1.5390625,0,0,0
+staringcontest_Qwen2.5-72B_5.cpp,RUNTIME_ERROR,0,2.56%,0.030,1.48046875,0,0,0
+staringcontest_Qwen2.5-72B_6.cpp,RUNTIME_ERROR,0,0.00%,0.030,1.5390625,0,0,0
+staringcontest_Qwen2.5-72B_7.cpp,RUNTIME_ERROR,9,48.72%,0.030,3.171875,9,0,0

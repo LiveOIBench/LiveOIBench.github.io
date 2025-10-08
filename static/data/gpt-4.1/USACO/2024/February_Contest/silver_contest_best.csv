@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Target_Practice_II,gpt-4.1,TIME_LIMIT_EXCEEDED,0,6.67%,2.800,246.5625
+silver_Test_Tubes,gpt-4.1,TIME_LIMIT_EXCEEDED,50,14.29%,2.430,7.26171875
+silver_Moorbles,gpt-4.1,WRONG_ANSWER,67,33.33%,0.170,23.21875

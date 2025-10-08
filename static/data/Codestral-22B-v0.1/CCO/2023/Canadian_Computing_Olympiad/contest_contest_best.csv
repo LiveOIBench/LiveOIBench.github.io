@@ -1,0 +1,7 @@
+problem,model,status,score,%test passed,time,memory
+d1p1,Codestral-22B-v0.1,RUNTIME_ERROR,0,2.86%,0.170,5.1640625
+d1p2,Codestral-22B-v0.1,RUNTIME_ERROR,0,0.95%,0.100,24.76171875
+d1p3,Codestral-22B-v0.1,RUNTIME_ERROR,0,4.81%,0.230,23.234375
+d2p1,Codestral-22B-v0.1,RUNTIME_ERROR,1,25.89%,0.040,1.73828125
+d2p2,Codestral-22B-v0.1,UNKNOWN,0,0.00%,0.000,0
+d2p3,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0

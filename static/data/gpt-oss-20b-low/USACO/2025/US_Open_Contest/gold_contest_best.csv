@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Moo_Decomposition,gpt-oss-20b-low,TIME_LIMIT_EXCEEDED,48,12.00%,2.420,2.36328125
+gold_Election_Queries,gpt-oss-20b-low,RUNTIME_ERROR,0,0.00%,0.060,3.6171875
+gold_OohMoo_Milk,gpt-oss-20b-low,RUNTIME_ERROR,0,0.00%,0.020,2.07421875

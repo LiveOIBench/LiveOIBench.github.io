@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0_1,subtask_1_1,subtask_2_1,subtask_3_1,subtask_4_1,subtask_5_1,subtask_6_1,subtask_7_1
+light_gpt-oss-120b-medium_0.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0
+light_gpt-oss-120b-medium_1.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.020,1.484375,0,0,0,0,0,0,0,0
+light_gpt-oss-120b-medium_2.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.210,1.5390625,0,0,0,0,0,0,0,0
+light_gpt-oss-120b-medium_3.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0
+light_gpt-oss-120b-medium_4.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0
+light_gpt-oss-120b-medium_5.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0
+light_gpt-oss-120b-medium_6.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.020,1.5390625,0,0,0,0,0,0,0,0
+light_gpt-oss-120b-medium_7.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.020,1.53515625,0,0,0,0,0,0,0,0

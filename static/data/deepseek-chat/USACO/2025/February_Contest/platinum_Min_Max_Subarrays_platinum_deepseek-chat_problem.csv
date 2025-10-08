@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Min_Max_Subarrays_deepseek-chat_0.cpp,MEMORY_LIMIT_EXCEEDED,0,7.69%,0.200,257.05078125,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_deepseek-chat_1.cpp,TIME_LIMIT_EXCEEDED,0,15.38%,3.320,5.953125,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_deepseek-chat_2.cpp,TIME_LIMIT_EXCEEDED,0,23.08%,3.330,153.66015625,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_deepseek-chat_3.cpp,TIME_LIMIT_EXCEEDED,0,23.08%,3.340,170.08203125,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_deepseek-chat_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.310,5.16015625,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_deepseek-chat_5.cpp,TIME_LIMIT_EXCEEDED,0,15.38%,3.370,153.66015625,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_deepseek-chat_6.cpp,TIME_LIMIT_EXCEEDED,0,15.38%,3.340,5.92578125,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_deepseek-chat_7.cpp,RUNTIME_ERROR,0,0.00%,0.100,96.94921875,0,0,0,0,0,0,0,0,0,0,0

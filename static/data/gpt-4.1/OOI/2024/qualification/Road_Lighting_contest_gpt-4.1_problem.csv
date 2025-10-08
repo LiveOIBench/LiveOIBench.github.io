@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+Road_Lighting_gpt-4.1_0.cpp,TIME_LIMIT_EXCEEDED,24,63.16%,2.210,25.8515625,0.0,14.0,0,10.0,0,0,0,0
+Road_Lighting_gpt-4.1_1.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+Road_Lighting_gpt-4.1_2.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+Road_Lighting_gpt-4.1_3.cpp,RUNTIME_ERROR,0,0.00%,0.110,1.5546875,0,0,0,0,0,0,0,0
+Road_Lighting_gpt-4.1_4.cpp,TIME_LIMIT_EXCEEDED,24,59.40%,2.210,122.41796875,0.0,14.0,0,10.0,0,0,0,0
+Road_Lighting_gpt-4.1_5.cpp,RUNTIME_ERROR,0,0.00%,0.100,15.58203125,0,0,0,0,0,0,0,0
+Road_Lighting_gpt-4.1_6.cpp,TIME_LIMIT_EXCEEDED,24,63.16%,2.240,22.42578125,0.0,14.0,0,10.0,0,0,0,0
+Road_Lighting_gpt-4.1_7.cpp,TIME_LIMIT_EXCEEDED,14,50.39%,2.270,15.3515625,0.0,14.0,0,0,0,0,0,0

@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Subtree_Activation_seed-oss_0.cpp,WRONG_ANSWER,0,0.00%,0.060,8.4296875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Subtree_Activation_seed-oss_1.cpp,RUNTIME_ERROR,0,0.00%,0.070,12.2265625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Subtree_Activation_seed-oss_2.cpp,WRONG_ANSWER,0,4.76%,0.060,10.01953125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Subtree_Activation_seed-oss_4.cpp,WRONG_ANSWER,0,0.00%,0.070,8.41015625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Subtree_Activation_seed-oss_5.cpp,WRONG_ANSWER,0,4.76%,0.060,15.6875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Subtree_Activation_seed-oss_6.cpp,WRONG_ANSWER,0,0.00%,0.070,12.23046875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Subtree_Activation_seed-oss_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+dev,QwQ-32B,RUNTIME_ERROR,0,1.10%,0.030,1.55078125
+exp,QwQ-32B,RUNTIME_ERROR,0,2.01%,0.190,11.609375
+gcd,QwQ-32B,RUNTIME_ERROR,0,3.28%,0.000,0

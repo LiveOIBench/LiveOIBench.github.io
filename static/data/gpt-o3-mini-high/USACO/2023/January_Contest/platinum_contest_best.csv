@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Tractor_Paths,gpt-o3-mini-high,WRONG_ANSWER,0,6.25%,0.180,20.71875
+platinum_Mana_Collection,gpt-o3-mini-high,MEMORY_LIMIT_EXCEEDED,136,45.83%,2.140,558.19140625
+platinum_Subtree_Activation,gpt-o3-mini-high,WRONG_ANSWER,17,9.52%,0.050,2.015625

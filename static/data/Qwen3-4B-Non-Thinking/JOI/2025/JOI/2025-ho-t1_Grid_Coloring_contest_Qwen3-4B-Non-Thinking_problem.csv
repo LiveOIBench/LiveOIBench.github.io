@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+2025-ho-t1_Grid_Coloring_Qwen3-4B-Non-Thinking_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.320,5.94140625,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_Qwen3-4B-Non-Thinking_1.cpp,MEMORY_LIMIT_EXCEEDED,25,70.95%,0.470,1027.390625,15,10,0,0,0
+2025-ho-t1_Grid_Coloring_Qwen3-4B-Non-Thinking_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.260,13.671875,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_Qwen3-4B-Non-Thinking_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.350,22.6953125,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_Qwen3-4B-Non-Thinking_4.cpp,TIME_LIMIT_EXCEEDED,0,6.59%,2.240,5.0546875,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_Qwen3-4B-Non-Thinking_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.240,22.6953125,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_Qwen3-4B-Non-Thinking_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.330,5.05078125,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_Qwen3-4B-Non-Thinking_7.cpp,MEMORY_LIMIT_EXCEEDED,25,70.95%,0.540,1109.28125,15,10,0,0,0

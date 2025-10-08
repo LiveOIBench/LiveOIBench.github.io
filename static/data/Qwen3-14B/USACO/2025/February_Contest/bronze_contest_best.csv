@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Reflection,Qwen3-14B,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Making_Mexes,Qwen3-14B,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Printing_Sequences,Qwen3-14B,COMPILATION_ERROR,0,0.00%,0.000,0

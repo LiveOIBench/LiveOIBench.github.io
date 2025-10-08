@@ -1,0 +1,10 @@
+problem,model,status,score,%test passed,time,memory
+Colorful_Diameter,gpt-oss-20b-high,ACCEPTED,100,100.00%,3.840,44.62890625
+Road_Lighting,gpt-oss-20b-high,RUNTIME_ERROR,13,22.68%,0.090,26.34375
+Repainting_the_Table,gpt-oss-20b-high,ACCEPTED,100,100.00%,0.410,115.0390625
+Distinctive_Features,gpt-oss-20b-high,ACCEPTED,100,100.00%,0.310,73.98828125
+Classic_Tree_Problem,gpt-oss-20b-high,UNKNOWN,0,0.00%,0.000,0
+Alien_Homophones,gpt-oss-20b-high,TIME_LIMIT_EXCEEDED,8,72.25%,2.420,3.26171875
+Stone_Enthusiast,gpt-oss-20b-high,ACCEPTED,100,100.00%,0.250,21.78125
+Egors_Gaming_Addiction,gpt-oss-20b-high,ACCEPTED,100,100.00%,0.440,142.01171875
+Ultrafast_train,gpt-oss-20b-high,ACCEPTED,100,100.00%,0.060,9.34765625

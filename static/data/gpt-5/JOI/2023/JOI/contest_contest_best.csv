@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+2023-ho-t1_Stone_Arranging_2,gpt-5,ACCEPTED,100,100.00%,0.050,16.765625
+2023-ho-t2_Advertisement_2,gpt-5,ACCEPTED,100,100.00%,0.200,9.03125
+2023-ho-t3_Maze,gpt-5,RUNTIME_ERROR,8,43.10%,0.140,9.28125
+2023-ho-t4_Cat_Exercise,gpt-5,ACCEPTED,100,100.00%,0.160,31.859375
+2023-ho-t5_Modern_Machine,gpt-5,TIME_LIMIT_EXCEEDED,3,45.36%,2.920,2.84375

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Grass_Segments_Mistral-Large-Instruct-2411_0.cpp,TIME_LIMIT_EXCEEDED,39,25.00%,2.460,5.1640625,0,19.6078431372549,0,0,0,0,0,0,0,0,19.6078431372549,0,0,0,0,0,0,0
+gold_Grass_Segments_Mistral-Large-Instruct-2411_1.cpp,TIME_LIMIT_EXCEEDED,39,25.00%,2.330,4.39453125,0,19.6078431372549,0,0,0,0,0,0,0,0,19.6078431372549,0,0,0,0,0,0,0
+gold_Grass_Segments_Mistral-Large-Instruct-2411_2.cpp,TIME_LIMIT_EXCEEDED,0,5.00%,2.380,3.6171875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Grass_Segments_Mistral-Large-Instruct-2411_3.cpp,TIME_LIMIT_EXCEEDED,0,5.00%,2.270,4.390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Grass_Segments_Mistral-Large-Instruct-2411_4.cpp,TIME_LIMIT_EXCEEDED,39,25.00%,2.330,3.62109375,0,19.6078431372549,0,0,0,0,0,0,0,0,19.6078431372549,0,0,0,0,0,0,0
+gold_Grass_Segments_Mistral-Large-Instruct-2411_5.cpp,TIME_LIMIT_EXCEEDED,39,25.00%,2.370,5.1640625,0,19.6078431372549,0,0,0,0,0,0,0,0,19.6078431372549,0,0,0,0,0,0,0
+gold_Grass_Segments_Mistral-Large-Instruct-2411_6.cpp,TIME_LIMIT_EXCEEDED,39,25.00%,2.310,5.1640625,0,19.6078431372549,0,0,0,0,0,0,0,0,19.6078431372549,0,0,0,0,0,0,0
+gold_Grass_Segments_Mistral-Large-Instruct-2411_7.cpp,TIME_LIMIT_EXCEEDED,0,5.00%,2.270,8.1796875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

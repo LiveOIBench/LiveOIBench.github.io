@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_FEB,seed-oss_512,RUNTIME_ERROR,20,10.00%,1.630,2.73046875
+bronze_Moo_Language,seed-oss_512,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Rotate_and_Shift,seed-oss_512,COMPILATION_ERROR,0,0.00%,0.000,0

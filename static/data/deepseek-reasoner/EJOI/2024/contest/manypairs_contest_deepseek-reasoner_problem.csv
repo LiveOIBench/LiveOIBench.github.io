@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+manypairs_deepseek-reasoner_0.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,2.060,280.60546875,0,0,0,0,0,0
+manypairs_deepseek-reasoner_1.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,1.450,280.25390625,0,0,0,0,0,0
+manypairs_deepseek-reasoner_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,74.2109375,0,0,0,0,0,0
+manypairs_deepseek-reasoner_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.220,48.78515625,0,0,0,0,0,0
+manypairs_deepseek-reasoner_4.cpp,RUNTIME_ERROR,0,0.00%,0.500,66.8828125,0,0,0,0,0,0
+manypairs_deepseek-reasoner_5.cpp,RUNTIME_ERROR,0,0.00%,0.810,58.796875,0,0,0,0,0,0
+manypairs_deepseek-reasoner_6.cpp,RUNTIME_ERROR,0,0.00%,0.580,71.9375,0,0,0,0,0,0
+manypairs_deepseek-reasoner_7.cpp,RUNTIME_ERROR,0,0.00%,0.380,69.359375,0,0,0,0,0,0

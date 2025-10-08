@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+xy_gpt-oss-120b-high_0.cpp,RUNTIME_ERROR,0,0.00%,0.040,4.12890625,0,0,0,0,0,0,0,0
+xy_gpt-oss-120b-high_1.cpp,RUNTIME_ERROR,0,0.00%,0.050,3.6171875,0,0,0,0,0,0,0,0
+xy_gpt-oss-120b-high_2.cpp,RUNTIME_ERROR,0,0.00%,0.050,2.0703125,0,0,0,0,0,0,0,0
+xy_gpt-oss-120b-high_4.cpp,RUNTIME_ERROR,0,0.00%,0.050,3.875,0,0,0,0,0,0,0,0
+xy_gpt-oss-120b-high_5.cpp,RUNTIME_ERROR,0,0.00%,0.040,2.84375,0,0,0,0,0,0,0,0
+xy_gpt-oss-120b-high_6.cpp,RUNTIME_ERROR,0,0.00%,0.040,3.35546875,0,0,0,0,0,0,0,0
+xy_gpt-oss-120b-high_7.cpp,RUNTIME_ERROR,0,0.00%,0.050,4.9609375,0,0,0,0,0,0,0,0

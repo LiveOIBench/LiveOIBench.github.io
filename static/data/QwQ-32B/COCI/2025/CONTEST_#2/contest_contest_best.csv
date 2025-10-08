@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+paradoks,QwQ-32B,ACCEPTED,50,100.00%,0.000,0
+igre,QwQ-32B,ACCEPTED,70,100.00%,0.120,1.59375
+razlicitost,QwQ-32B,RUNTIME_ERROR,25,37.21%,0.200,4.39453125
+blistavost,QwQ-32B,ACCEPTED,120,100.00%,0.080,2.87890625
+trokuti,QwQ-32B,MEMORY_LIMIT_EXCEEDED,13,25.96%,0.080,3.875

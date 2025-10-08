@@ -1,0 +1,6 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+2023-ho-t5_Modern_Machine_gpt-oss-120b-high_0.cpp,RUNTIME_ERROR,0,7.25%,0.100,5.1171875,0,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_gpt-oss-120b-high_1.cpp,RUNTIME_ERROR,3,47.92%,0.230,47.69921875,3,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_gpt-oss-120b-high_3.cpp,RUNTIME_ERROR,0,14.86%,0.120,11.86328125,0,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_gpt-oss-120b-high_6.cpp,MEMORY_LIMIT_EXCEEDED,0,7.25%,1.290,644.41796875,0,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_gpt-oss-120b-high_7.cpp,TIME_LIMIT_EXCEEDED,3,45.36%,2.980,3.1015625,3,0,0,0,0,0,0

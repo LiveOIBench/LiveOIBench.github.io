@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+2024-ho-t1_Room_Temperature_gpt-oss-120b-high_0.cpp,ACCEPTED,100,100.00%,0.110,5.16796875,15,5,30,35,15
+2024-ho-t1_Room_Temperature_gpt-oss-120b-high_1.cpp,ACCEPTED,100,100.00%,0.110,5.16796875,15,5,30,35,15
+2024-ho-t1_Room_Temperature_gpt-oss-120b-high_2.cpp,MEMORY_LIMIT_EXCEEDED,50,80.58%,0.060,0.00390625,15,5,30,0,0
+2024-ho-t1_Room_Temperature_gpt-oss-120b-high_4.cpp,TIME_LIMIT_EXCEEDED,85,94.69%,2.440,5.5625,15,5,30,35,0
+2024-ho-t1_Room_Temperature_gpt-oss-120b-high_5.cpp,RUNTIME_ERROR,0,9.43%,0.000,0,0,0,0,0,0
+2024-ho-t1_Room_Temperature_gpt-oss-120b-high_6.cpp,ACCEPTED,100,100.00%,0.120,5.16796875,15,5,30,35,15
+2024-ho-t1_Room_Temperature_gpt-oss-120b-high_7.cpp,ACCEPTED,100,100.00%,0.120,5.16796875,15,5,30,35,15

@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+bronze_FEB,gpt-oss-120b-medium,ACCEPTED,333,103.10%,100.00%,0.050,1.5546875
+bronze_Moo_Language,gpt-oss-120b-medium,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.00%,0.050,1.94921875
+bronze_Rotate_and_Shift,gpt-oss-120b-medium,ACCEPTED,333,102.78%,100.00%,0.050,2.84765625

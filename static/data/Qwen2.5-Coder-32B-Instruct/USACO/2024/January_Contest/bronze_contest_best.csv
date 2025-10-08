@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Majority_Opinion,Qwen2.5-Coder-32B-Instruct,WRONG_ANSWER,24,6.67%,0.120,1.81640625
+bronze_Cannonball,Qwen2.5-Coder-32B-Instruct,TIME_LIMIT_EXCEEDED,241,75.00%,2.280,2.0703125
+bronze_Balancing_Bacteria,Qwen2.5-Coder-32B-Instruct,TIME_LIMIT_EXCEEDED,0,6.67%,2.330,2.7890625

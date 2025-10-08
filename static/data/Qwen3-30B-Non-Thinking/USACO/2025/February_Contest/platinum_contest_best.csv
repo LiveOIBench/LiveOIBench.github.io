@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Min_Max_Subarrays,Qwen3-30B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Transforming_Pairs,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,0,0.00%,0.190,0.00390625
+platinum_True_or_False_Test,Qwen3-30B-Non-Thinking,WRONG_ANSWER,0,0.00%,0.160,9.03125

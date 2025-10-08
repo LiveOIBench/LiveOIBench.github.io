@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+five,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0
+game,Mistral-Small-3.1-24B-2503,UNKNOWN,0,0.00%,0.000,0
+lexgcd,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,5.74%,0.150,4.6484375
+ones,Mistral-Small-3.1-24B-2503,WRONG_ANSWER,25,0.00%,0.150,1.953125
+travel,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0

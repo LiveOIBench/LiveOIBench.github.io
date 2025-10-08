@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+7krokods,Llama-4-Scout,RUNTIME_ERROR,0,0.00%,0.000,0
+zrinka,Llama-4-Scout,RUNTIME_ERROR,0,0.00%,0.010,0
+bojanje,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0
+mreza,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0
+vrsta,Llama-4-Scout,TIME_LIMIT_EXCEEDED,19,20.00%,1.200,2.84765625

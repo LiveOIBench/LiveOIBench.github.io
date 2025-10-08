@@ -1,0 +1,10 @@
+problem,model,status,score,%test passed,time,memory
+Colorful_Diameter,seed-oss_1024,MEMORY_LIMIT_EXCEEDED,21,46.52%,0.040,1.69921875
+Road_Lighting,seed-oss_1024,UNKNOWN,0,0.00%,0.000,0
+Repainting_the_Table,seed-oss_1024,RUNTIME_ERROR,0,5.21%,0.040,2.2734375
+Distinctive_Features,seed-oss_1024,UNKNOWN,0,0.00%,0.000,0
+Classic_Tree_Problem,seed-oss_1024,UNKNOWN,0,0.00%,0.000,0
+Alien_Homophones,seed-oss_1024,TIME_LIMIT_EXCEEDED,38,87.64%,2.420,10.61328125
+Stone_Enthusiast,seed-oss_1024,RUNTIME_ERROR,0,5.04%,0.170,2.82421875
+Egors_Gaming_Addiction,seed-oss_1024,UNKNOWN,0,0.00%,0.000,0
+Ultrafast_train,seed-oss_1024,RUNTIME_ERROR,0,7.79%,0.040,0

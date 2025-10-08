@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+icecreammachines,gpt-oss-120b-high,ACCEPTED,100,100.00%,0.070,5.62109375
+chatnoi,gpt-oss-120b-high,RUNTIME_ERROR,46,70.42%,0.550,273.140625
+islandalliances,gpt-oss-120b-high,ACCEPTED,100,100.00%,0.130,13.671875

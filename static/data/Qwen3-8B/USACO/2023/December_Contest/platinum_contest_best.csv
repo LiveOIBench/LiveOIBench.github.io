@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Cowntact_Tracing,Qwen3-8B,WRONG_ANSWER,0,13.04%,0.150,9.52734375
+platinum_A_Graph_Problem,Qwen3-8B,TIME_LIMIT_EXCEEDED,17,17.39%,2.420,21.67578125
+platinum_Train_Scheduling,Qwen3-8B,WRONG_ANSWER,300,91.67%,0.080,144.89453125

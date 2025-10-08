@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Test_Tubes_Qwen2.5-Coder-7B-Instruct_0.cpp,WRONG_ANSWER,0,0.00%,0.120,2.35546875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Test_Tubes_Qwen2.5-Coder-7B-Instruct_1.cpp,WRONG_ANSWER,0,0.00%,1.770,1.59375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Test_Tubes_Qwen2.5-Coder-7B-Instruct_2.cpp,WRONG_ANSWER,0,0.00%,1.130,1.7421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Test_Tubes_Qwen2.5-Coder-7B-Instruct_3.cpp,RUNTIME_ERROR,0,0.00%,0.710,1.8828125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Test_Tubes_Qwen2.5-Coder-7B-Instruct_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Test_Tubes_Qwen2.5-Coder-7B-Instruct_5.cpp,WRONG_ANSWER,17,4.76%,0.140,1.59375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0
+silver_Test_Tubes_Qwen2.5-Coder-7B-Instruct_6.cpp,WRONG_ANSWER,17,4.76%,0.420,1.59375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0
+silver_Test_Tubes_Qwen2.5-Coder-7B-Instruct_7.cpp,WRONG_ANSWER,0,0.00%,1.700,15.88671875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

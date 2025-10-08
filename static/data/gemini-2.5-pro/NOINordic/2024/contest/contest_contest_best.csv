@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+chairgame,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,37,69.23%,1.180,0.00390625
+thinice,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,17,42.03%,1.270,261.49609375
+animeshops,gemini-2.5-pro,ACCEPTED,100,100.00%,0.130,11.0625

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bakery,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Cow-libi,Codestral-22B-v0.1,WRONG_ANSWER,0,9.09%,1.250,5.2265625
+silver_Moo_Route_II,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0

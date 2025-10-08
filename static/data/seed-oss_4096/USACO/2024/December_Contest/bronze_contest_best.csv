@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Roundabout_Rounding,seed-oss_4096,WRONG_ANSWER,0,0.00%,0.060,0.00390625
+bronze_Farmer_Johns_Cheese_Block,seed-oss_4096,ACCEPTED,333,100.00%,0.100,12.90234375
+bronze_Its_Mooin_Time,seed-oss_4096,ACCEPTED,333,100.00%,0.870,0.00390625

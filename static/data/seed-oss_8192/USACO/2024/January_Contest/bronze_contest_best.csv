@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Majority_Opinion,seed-oss_8192,ACCEPTED,333,100.00%,0.020,2.07421875
+bronze_Cannonball,seed-oss_8192,ACCEPTED,333,100.00%,0.040,11.16015625
+bronze_Balancing_Bacteria,seed-oss_8192,ACCEPTED,333,100.00%,0.030,2.7890625

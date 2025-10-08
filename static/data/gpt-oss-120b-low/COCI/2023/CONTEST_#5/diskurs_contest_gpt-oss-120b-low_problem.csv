@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+diskurs_gpt-oss-120b-low_0.cpp,RUNTIME_ERROR,0,0.00%,0.150,15.9609375,0,0,0
+diskurs_gpt-oss-120b-low_1.cpp,ACCEPTED,70,100.00%,0.180,16.46484375,20,25,25
+diskurs_gpt-oss-120b-low_2.cpp,ACCEPTED,70,100.00%,0.210,12.90234375,20,25,25
+diskurs_gpt-oss-120b-low_3.cpp,ACCEPTED,70,100.00%,0.170,13.93359375,20,25,25
+diskurs_gpt-oss-120b-low_4.cpp,RUNTIME_ERROR,0,0.00%,0.170,6.19921875,0,0,0
+diskurs_gpt-oss-120b-low_5.cpp,TIME_LIMIT_EXCEEDED,45,60.00%,2.410,7.83984375,20,25,0
+diskurs_gpt-oss-120b-low_6.cpp,ACCEPTED,70,100.00%,0.200,10.46484375,20,25,25
+diskurs_gpt-oss-120b-low_7.cpp,ACCEPTED,70,100.00%,0.200,12.90234375,20,25,25

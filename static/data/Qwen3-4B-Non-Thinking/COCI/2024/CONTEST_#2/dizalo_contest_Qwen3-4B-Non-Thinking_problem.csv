@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+dizalo_Qwen3-4B-Non-Thinking_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+dizalo_Qwen3-4B-Non-Thinking_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+dizalo_Qwen3-4B-Non-Thinking_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.310,5.1875,0,0,0,0
+dizalo_Qwen3-4B-Non-Thinking_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+dizalo_Qwen3-4B-Non-Thinking_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.350,3.7734375,0,0,0,0
+dizalo_Qwen3-4B-Non-Thinking_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+dizalo_Qwen3-4B-Non-Thinking_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+dizalo_Qwen3-4B-Non-Thinking_7.cpp,RUNTIME_ERROR,0,0.00%,0.090,4.4140625,0,0,0,0

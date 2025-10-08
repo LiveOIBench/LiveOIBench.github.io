@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+bouquet,deepseek-chat,RUNTIME_ERROR,0,46.05%,0.060,3.5625
+infiniterace,deepseek-chat,RUNTIME_ERROR,0,12.00%,0.030,0.00390625
+teamcoding,deepseek-chat,MEMORY_LIMIT_EXCEEDED,0,33.33%,0.410,1090.03515625
+gardendecorations,deepseek-chat,UNKNOWN,0,0.00%,0.000,0

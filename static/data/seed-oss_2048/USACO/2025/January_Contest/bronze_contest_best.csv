@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Astral_Superposition,seed-oss_2048,WRONG_ANSWER,33,16.67%,0.070,2.5859375
+bronze_Its_Mooin_Time_II,seed-oss_2048,WRONG_ANSWER,0,9.09%,0.100,16.76953125
+bronze_Cow_Checkups,seed-oss_2048,WRONG_ANSWER,0,15.38%,0.110,1.55859375

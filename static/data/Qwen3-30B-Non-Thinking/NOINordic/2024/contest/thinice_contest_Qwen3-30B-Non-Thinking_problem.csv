@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+thinice_Qwen3-30B-Non-Thinking_0.cpp,TIME_LIMIT_EXCEEDED,0,20.34%,1.110,3.16015625,0,0,0,0,0,0
+thinice_Qwen3-30B-Non-Thinking_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+thinice_Qwen3-30B-Non-Thinking_2.cpp,RUNTIME_ERROR,0,0.00%,0.140,2.06640625,0,0,0,0,0,0
+thinice_Qwen3-30B-Non-Thinking_3.cpp,RUNTIME_ERROR,0,1.96%,0.140,2.84375,0,0,0,0,0,0
+thinice_Qwen3-30B-Non-Thinking_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.200,3.15625,0,0,0,0,0,0
+thinice_Qwen3-30B-Non-Thinking_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.110,3.15625,0,0,0,0,0,0
+thinice_Qwen3-30B-Non-Thinking_6.cpp,RUNTIME_ERROR,0,7.55%,0.150,3.6171875,0,0,0,0,0,0
+thinice_Qwen3-30B-Non-Thinking_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.120,3.15625,0,0,0,0,0,0

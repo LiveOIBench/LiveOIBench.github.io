@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+sweets_seed-oss_0.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.280,169.1328125,0,0,0,0,0,0,0,0
+sweets_seed-oss_1.cpp,RUNTIME_ERROR,0,0.00%,0.400,108.28515625,0,0,0,0,0,0,0,0
+sweets_seed-oss_2.cpp,RUNTIME_ERROR,0,0.00%,0.370,100.79296875,0,0,0,0,0,0,0,0
+sweets_seed-oss_3.cpp,RUNTIME_ERROR,0,0.00%,0.170,42.5390625,0,0,0,0,0,0,0,0
+sweets_seed-oss_4.cpp,RUNTIME_ERROR,0,0.00%,0.160,14.44921875,0,0,0,0,0,0,0,0
+sweets_seed-oss_5.cpp,RUNTIME_ERROR,0,0.00%,0.670,125.7265625,0,0,0,0,0,0,0,0
+sweets_seed-oss_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+sweets_seed-oss_7.cpp,RUNTIME_ERROR,0,0.00%,0.310,110.15625,0,0,0,0,0,0,0,0

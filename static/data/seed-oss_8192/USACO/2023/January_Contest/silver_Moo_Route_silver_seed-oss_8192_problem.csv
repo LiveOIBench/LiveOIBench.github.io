@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Moo_Route_seed-oss_0.cpp,TIME_LIMIT_EXCEEDED,19,5.00%,2.410,1.81640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18.51851851851852
+silver_Moo_Route_seed-oss_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.410,2.33203125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Moo_Route_seed-oss_2.cpp,RUNTIME_ERROR,0,0.00%,0.020,2.53125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Moo_Route_seed-oss_3.cpp,TIME_LIMIT_EXCEEDED,37,10.00%,2.420,5.67578125,0,18.51851851851852,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18.51851851851852
+silver_Moo_Route_seed-oss_4.cpp,MEMORY_LIMIT_EXCEEDED,37,20.00%,0.120,306.5078125,0,18.51851851851852,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18.51851851851852
+silver_Moo_Route_seed-oss_5.cpp,RUNTIME_ERROR,0,0.00%,0.050,3.42578125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Moo_Route_seed-oss_6.cpp,RUNTIME_ERROR,56,15.00%,1.660,2.984375,0,18.51851851851852,0,0,0,0,0,0,0,0,0,0,18.51851851851852,0,0,0,0,0,18.51851851851852
+silver_Moo_Route_seed-oss_7.cpp,TIME_LIMIT_EXCEEDED,56,15.00%,2.420,2.33203125,0,18.51851851851852,0,0,0,0,0,0,0,0,0,0,18.51851851851852,0,0,0,0,0,18.51851851851852

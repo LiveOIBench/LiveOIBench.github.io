@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Cycle_Correspondence_Qwen3-4B_0.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.270,48.5859375,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Cycle_Correspondence_Qwen3-4B_1.cpp,WRONG_ANSWER,56,33.33%,0.370,33.5234375,0,27.777777777777775,0,0,0,27.777777777777775,0,0,0,0,0,0,0
+silver_Cycle_Correspondence_Qwen3-4B_2.cpp,WRONG_ANSWER,56,33.33%,0.430,33.5234375,0,27.777777777777775,0,0,0,27.777777777777775,0,0,0,0,0,0,0
+silver_Cycle_Correspondence_Qwen3-4B_3.cpp,TIME_LIMIT_EXCEEDED,28,13.33%,2.410,3.87890625,0,0,0,0,0,27.777777777777775,0,0,0,0,0,0,0
+silver_Cycle_Correspondence_Qwen3-4B_4.cpp,MEMORY_LIMIT_EXCEEDED,0,6.67%,0.270,39.70703125,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Cycle_Correspondence_Qwen3-4B_5.cpp,WRONG_ANSWER,56,33.33%,0.140,16.5078125,0,27.777777777777775,0,0,0,27.777777777777775,0,0,0,0,0,0,0
+silver_Cycle_Correspondence_Qwen3-4B_6.cpp,WRONG_ANSWER,56,33.33%,0.360,33.5234375,0,27.777777777777775,0,0,0,27.777777777777775,0,0,0,0,0,0,0
+silver_Cycle_Correspondence_Qwen3-4B_7.cpp,WRONG_ANSWER,0,13.33%,0.080,6.19921875,0,0,0,0,0,0,0,0,0,0,0,0,0

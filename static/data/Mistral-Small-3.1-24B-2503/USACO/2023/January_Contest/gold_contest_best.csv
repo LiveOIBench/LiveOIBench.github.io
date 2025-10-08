@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Find_and_Replace,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Lights_Off,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Moo_Route,Mistral-Small-3.1-24B-2503,WRONG_ANSWER,0,4.76%,0.120,1.81640625

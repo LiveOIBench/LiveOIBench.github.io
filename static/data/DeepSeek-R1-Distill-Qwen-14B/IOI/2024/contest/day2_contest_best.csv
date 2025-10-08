@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+hieroglyphs,DeepSeek-R1-Distill-Qwen-14B,TIME_LIMIT_EXCEEDED,0,6.17%,1.120,18.69921875
+sphinx,DeepSeek-R1-Distill-Qwen-14B,RUNTIME_ERROR,3,12.50%,0.390,4.2578125
+mosaic,DeepSeek-R1-Distill-Qwen-14B,RUNTIME_ERROR,0,13.51%,0.110,7.02734375

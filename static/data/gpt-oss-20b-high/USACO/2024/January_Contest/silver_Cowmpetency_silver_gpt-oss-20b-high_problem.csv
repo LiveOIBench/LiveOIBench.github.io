@@ -1,0 +1,5 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Cowmpetency_gpt-oss-20b-high_3.cpp,WRONG_ANSWER,0,8.33%,0.090,6.7109375,0,0,0,0,0,0,0,0,0,0,0
+silver_Cowmpetency_gpt-oss-20b-high_4.cpp,WRONG_ANSWER,167,58.33%,0.090,4.203125,0,0,33.33333333333333,33.33333333333333,0,0,0,0,33.33333333333333,33.33333333333333,33.33333333333333
+silver_Cowmpetency_gpt-oss-20b-high_5.cpp,WRONG_ANSWER,0,8.33%,0.110,11.8203125,0,0,0,0,0,0,0,0,0,0,0
+silver_Cowmpetency_gpt-oss-20b-high_6.cpp,WRONG_ANSWER,167,58.33%,0.090,7.484375,0,0,33.33333333333333,33.33333333333333,0,0,0,0,33.33333333333333,33.33333333333333,33.33333333333333

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Subtree_Activation_Codestral-22B-v0.1_0.cpp,WRONG_ANSWER,0,0.00%,0.140,16.51171875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Subtree_Activation_Codestral-22B-v0.1_1.cpp,WRONG_ANSWER,0,0.00%,0.140,14.99609375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Subtree_Activation_Codestral-22B-v0.1_2.cpp,WRONG_ANSWER,0,0.00%,0.140,15.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Subtree_Activation_Codestral-22B-v0.1_3.cpp,WRONG_ANSWER,0,0.00%,0.140,16.0234375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Subtree_Activation_Codestral-22B-v0.1_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.360,19.484375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Subtree_Activation_Codestral-22B-v0.1_5.cpp,WRONG_ANSWER,0,4.76%,0.130,15.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Subtree_Activation_Codestral-22B-v0.1_6.cpp,RUNTIME_ERROR,0,0.00%,0.150,25.89453125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Subtree_Activation_Codestral-22B-v0.1_7.cpp,WRONG_ANSWER,0,0.00%,0.140,14.7265625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

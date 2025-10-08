@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+zlagalica,seed-oss_512,COMPILATION_ERROR,0,0.00%,0.000,0
+bitovi,seed-oss_512,COMPILATION_ERROR,0,0.00%,0.000,0
+piratski,seed-oss_512,UNKNOWN,0,0.00%,0.000,0
+rolete,seed-oss_512,COMPILATION_ERROR,0,0.00%,0.000,0
+trokut,seed-oss_512,RUNTIME_ERROR,0,0.00%,0.030,0

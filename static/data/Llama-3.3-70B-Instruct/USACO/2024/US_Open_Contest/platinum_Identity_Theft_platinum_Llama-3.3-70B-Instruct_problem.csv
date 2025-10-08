@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Identity_Theft_Llama-3.3-70B-Instruct_0.cpp,RUNTIME_ERROR,0,0.00%,0.130,33.71875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_Llama-3.3-70B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.370,5.421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_Llama-3.3-70B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.400,5.9296875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_Llama-3.3-70B-Instruct_3.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,1.300,495.6640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_Llama-3.3-70B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.340,17.03125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_Llama-3.3-70B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.390,10.0625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_Llama-3.3-70B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.350,329.61328125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_Llama-3.3-70B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.420,560.671875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

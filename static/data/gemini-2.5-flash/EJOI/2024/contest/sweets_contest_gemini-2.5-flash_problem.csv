@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+sweets_gemini-2.5-flash_0.cpp,TIME_LIMIT_EXCEEDED,0,20.97%,3.310,93.625,0,0,0,0,0,0,0,0
+sweets_gemini-2.5-flash_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+sweets_gemini-2.5-flash_2.cpp,RUNTIME_ERROR,0,0.00%,0.480,109.12109375,0,0,0,0,0,0,0,0
+sweets_gemini-2.5-flash_3.cpp,ACCEPTED,100,100.00%,0.900,124.2578125,0,7,8,17,12,21,24,11
+sweets_gemini-2.5-flash_4.cpp,TIME_LIMIT_EXCEEDED,27,38.71%,3.330,95.39453125,0,7,8,0,12,0,0,0
+sweets_gemini-2.5-flash_5.cpp,TIME_LIMIT_EXCEEDED,0,17.74%,3.330,125.34765625,0,0,0,0,0,0,0,0
+sweets_gemini-2.5-flash_6.cpp,TIME_LIMIT_EXCEEDED,27,37.10%,3.330,84.11328125,0,7,8,0,12,0,0,0
+sweets_gemini-2.5-flash_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.330,108.08984375,0,0,0,0,0,0,0,0

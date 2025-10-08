@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+platinum_Tractor_Paths,gpt-oss-120b-medium,RUNTIME_ERROR,0,0.00%,0.00%,0.050,3.91796875
+platinum_Mana_Collection,gpt-oss-120b-medium,ACCEPTED,333,100.91%,100.00%,0.420,97.875
+platinum_Subtree_Activation,gpt-oss-120b-medium,WRONG_ANSWER,0,0.00%,4.76%,0.050,0.00390625

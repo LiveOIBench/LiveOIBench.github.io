@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+icecreammachines,seed-oss_512,COMPILATION_ERROR,0,0.00%,0.000,0
+chatnoi,seed-oss_512,RUNTIME_ERROR,12,59.32%,0.680,279.99609375
+islandalliances,seed-oss_512,WRONG_ANSWER,75,98.15%,0.920,85.45703125

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Logical_Moos,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,28,15.38%,2.240,21.82421875
+bronze_Walking_Along_a_Fence,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Farmer_Johns_Favorite_Permutation,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Target_Practice_II,Qwen3-8B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Test_Tubes,Qwen3-8B-Non-Thinking,WRONG_ANSWER,17,4.76%,0.350,8.03515625
+silver_Moorbles,Qwen3-8B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0

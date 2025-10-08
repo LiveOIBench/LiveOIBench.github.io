@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Logical_Moos,deepseek-chat,RUNTIME_ERROR,69,19.23%,0.140,8.59765625
+bronze_Walking_Along_a_Fence,deepseek-chat,TIME_LIMIT_EXCEEDED,167,54.55%,2.230,10.71875
+bronze_Farmer_Johns_Favorite_Permutation,deepseek-chat,WRONG_ANSWER,0,0.00%,0.080,1.8046875

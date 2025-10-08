@@ -1,0 +1,7 @@
+problem,model,status,score,%test passed,time,memory
+cheese,deepseek-reasoner,RUNTIME_ERROR,26,58.97%,0.310,12.17578125
+oldorhei,deepseek-reasoner,ACCEPTED,100,100.00%,0.200,57.5625
+manypairs,deepseek-reasoner,RUNTIME_ERROR,0,0.00%,0.380,69.359375
+cfduels,deepseek-reasoner,TIME_LIMIT_EXCEEDED,12,56.63%,2.230,3.47265625
+hora,deepseek-reasoner,COMPILATION_ERROR,0,0.00%,0.000,0
+sweets,deepseek-reasoner,RUNTIME_ERROR,33,43.55%,1.040,92.33984375

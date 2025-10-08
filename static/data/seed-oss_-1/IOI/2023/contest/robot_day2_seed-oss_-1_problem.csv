@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+robot_seed-oss_0.cpp,RUNTIME_ERROR,6,7.89%,0.050,8.84765625,0,6,0.0,0.0,0.0,0.0
+robot_seed-oss_1.cpp,RUNTIME_ERROR,0,0.00%,0.000,3.81640625,0,0.0,0.0,0.0,0.0,0.0
+robot_seed-oss_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+robot_seed-oss_3.cpp,RUNTIME_ERROR,0,0.00%,0.050,8.69140625,0,0.0,0.0,0.0,0.0,0.0
+robot_seed-oss_4.cpp,RUNTIME_ERROR,0,0.00%,0.050,8.70703125,0,0.0,0.0,0.0,0.0,0.0
+robot_seed-oss_5.cpp,RUNTIME_ERROR,0,0.00%,0.050,8.6953125,0,0.0,0.0,0.0,0.0,0.0
+robot_seed-oss_6.cpp,RUNTIME_ERROR,6,7.89%,0.050,8.765625,0,6,0.0,0.0,0.0,0.0
+robot_seed-oss_7.cpp,RUNTIME_ERROR,6,7.89%,0.060,8.78125,0,6,0.0,0.0,0.0,0.0

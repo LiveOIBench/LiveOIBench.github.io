@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+2024-ho-t1_Room_Temperature,gpt-oss-120b-high,ACCEPTED,100,100.00%,0.110,5.16796875
+2024-ho-t2_Construction_Project_2,gpt-oss-120b-high,ACCEPTED,100,100.00%,0.230,26.125
+2024-ho-t3_Marathon_Race_2,gpt-oss-120b-high,RUNTIME_ERROR,7,67.42%,0.050,0
+2024-ho-t4_Gift_Exchange,gpt-oss-120b-high,RUNTIME_ERROR,0,36.14%,0.000,0
+2024-ho-t5_Road_Service_2,gpt-oss-120b-high,RUNTIME_ERROR,0,0.00%,0.110,12.89453125

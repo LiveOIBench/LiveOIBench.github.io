@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+2024-ho-t1_Room_Temperature_seed-oss_0.cpp,RUNTIME_ERROR,0,3.92%,0.000,0,0,0,0,0,0
+2024-ho-t1_Room_Temperature_seed-oss_1.cpp,RUNTIME_ERROR,0,9.43%,0.000,0,0,0,0,0,0
+2024-ho-t1_Room_Temperature_seed-oss_2.cpp,RUNTIME_ERROR,50,80.58%,0.030,1.66015625,15,5,30,0,0
+2024-ho-t1_Room_Temperature_seed-oss_3.cpp,ACCEPTED,100,100.00%,0.090,15.22265625,15,5,30,35,15
+2024-ho-t1_Room_Temperature_seed-oss_4.cpp,ACCEPTED,100,100.00%,0.090,10.06640625,15,5,30,35,15
+2024-ho-t1_Room_Temperature_seed-oss_5.cpp,RUNTIME_ERROR,50,80.58%,0.030,2.32421875,15,5,30,0,0
+2024-ho-t1_Room_Temperature_seed-oss_6.cpp,ACCEPTED,100,100.00%,0.090,5.16796875,15,5,30,35,15
+2024-ho-t1_Room_Temperature_seed-oss_7.cpp,ACCEPTED,100,100.00%,0.100,5.16796875,15,5,30,35,15

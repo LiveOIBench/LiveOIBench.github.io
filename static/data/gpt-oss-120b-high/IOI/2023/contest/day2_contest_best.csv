@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+robot,gpt-oss-120b-high,RUNTIME_ERROR,0,0.67%,0.040,8.71484375
+overtaking,gpt-oss-120b-high,ACCEPTED,100,100.00%,0.860,86.56640625
+beechtree,gpt-oss-120b-high,RUNTIME_ERROR,9,38.25%,0.060,22.06640625

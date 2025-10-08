@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+fire,gpt-oss-20b-low,TIME_LIMIT_EXCEEDED,40,84.44%,1.210,12.125
+tiles,gpt-oss-20b-low,TIME_LIMIT_EXCEEDED,0,0.00%,1.210,12.8671875
+wall,gpt-oss-20b-low,COMPILATION_ERROR,0,0.00%,0.000,0

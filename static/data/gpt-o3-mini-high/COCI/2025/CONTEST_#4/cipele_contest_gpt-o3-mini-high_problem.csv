@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+cipele_gpt-o3-mini-high_0.cpp,RUNTIME_ERROR,37,16.13%,0.320,32.90625,0,0,37,0,0
+cipele_gpt-o3-mini-high_1.cpp,RUNTIME_ERROR,64,29.03%,0.150,18.73046875,0,27,37,0,0
+cipele_gpt-o3-mini-high_2.cpp,RUNTIME_ERROR,0,0.00%,0.100,6.2109375,0,0,0,0,0
+cipele_gpt-o3-mini-high_3.cpp,RUNTIME_ERROR,27,12.90%,0.150,24.99609375,0,27,0,0,0
+cipele_gpt-o3-mini-high_4.cpp,RUNTIME_ERROR,64,29.03%,0.170,18.05859375,0,27,37,0,0
+cipele_gpt-o3-mini-high_5.cpp,RUNTIME_ERROR,64,29.03%,0.190,15.21875,0,27,37,0,0
+cipele_gpt-o3-mini-high_6.cpp,RUNTIME_ERROR,37,16.13%,0.340,33.42578125,0,0,37,0,0
+cipele_gpt-o3-mini-high_7.cpp,RUNTIME_ERROR,37,16.13%,0.150,31.13671875,0,0,37,0,0

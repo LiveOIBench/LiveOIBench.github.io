@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Min_Max_Subarrays,gpt-oss-20b-low,WRONG_ANSWER,0,23.08%,0.210,11.12109375
+platinum_Transforming_Pairs,gpt-oss-20b-low,TIME_LIMIT_EXCEEDED,0,5.26%,2.420,0.00390625
+platinum_True_or_False_Test,gpt-oss-20b-low,WRONG_ANSWER,0,5.00%,0.050,8.26171875

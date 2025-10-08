@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+tiles_Qwen3-32B_0.cpp,RUNTIME_ERROR,0,1.99%,0.030,6.4375,0,0,0,0,0,0,0
+tiles_Qwen3-32B_1.cpp,RUNTIME_ERROR,0,1.99%,0.030,7.984375,0,0,0,0,0,0,0
+tiles_Qwen3-32B_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+tiles_Qwen3-32B_3.cpp,RUNTIME_ERROR,0,1.99%,0.060,4.765625,0,0,0,0,0,0,0
+tiles_Qwen3-32B_4.cpp,RUNTIME_ERROR,4,7.95%,0.020,2.84375,4,0,0,0,0,0,0
+tiles_Qwen3-32B_5.cpp,RUNTIME_ERROR,4,12.50%,0.030,4.8984375,4,0,0,0,0,0,0
+tiles_Qwen3-32B_6.cpp,RUNTIME_ERROR,0,1.99%,0.060,15.9765625,0,0,0,0,0,0,0
+tiles_Qwen3-32B_7.cpp,RUNTIME_ERROR,0,0.67%,0.030,7.6953125,0,0,0,0,0,0,0

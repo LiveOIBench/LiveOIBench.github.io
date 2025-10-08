@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+icecreammachines,Qwen3-8B-Non-Thinking,RUNTIME_ERROR,7,46.23%,0.000,0
+chatnoi,Qwen3-8B-Non-Thinking,UNKNOWN,0,0.00%,0.000,0
+islandalliances,Qwen3-8B-Non-Thinking,TIME_LIMIT_EXCEEDED,37,38.71%,5.550,6.70703125

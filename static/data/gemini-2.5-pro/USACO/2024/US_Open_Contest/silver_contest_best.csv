@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bessies_Interview,gemini-2.5-pro,ACCEPTED,333,100.00%,0.390,46.40234375
+silver_Painting_Fence_Posts,gemini-2.5-pro,WRONG_ANSWER,0,13.33%,0.640,50.578125
+silver_The_Winning_Gene,gemini-2.5-pro,ACCEPTED,333,100.00%,0.140,1.60546875

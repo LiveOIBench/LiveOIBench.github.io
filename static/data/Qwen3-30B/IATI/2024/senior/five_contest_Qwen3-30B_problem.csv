@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+five_Qwen3-30B_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.880,1.81640625,0,0,0,0,0,0
+five_Qwen3-30B_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.860,2.07421875,0,0,0,0,0,0
+five_Qwen3-30B_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.890,1.81640625,0,0,0,0,0,0
+five_Qwen3-30B_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.900,1.81640625,0,0,0,0,0,0
+five_Qwen3-30B_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+five_Qwen3-30B_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.920,2.0703125,0,0,0,0,0,0
+five_Qwen3-30B_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.910,6.125,0,0,0,0,0,0
+five_Qwen3-30B_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.910,1.81640625,0,0,0,0,0,0

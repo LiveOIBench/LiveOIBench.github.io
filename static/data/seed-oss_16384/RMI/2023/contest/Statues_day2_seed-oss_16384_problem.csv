@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Statues_seed-oss_0.cpp,RUNTIME_ERROR,0,0.00%,0.020,0.00390625,0,0,0,0,0,0,0
+Statues_seed-oss_1.cpp,TIME_LIMIT_EXCEEDED,10,38.10%,1.230,3.53125,0,0,10,0,0,0,0
+Statues_seed-oss_2.cpp,RUNTIME_ERROR,0,0.00%,0.020,0.00390625,0,0,0,0,0,0,0
+Statues_seed-oss_3.cpp,MEMORY_LIMIT_EXCEEDED,46,80.33%,0.260,265.22265625,0,7,10,12,0,17,0
+Statues_seed-oss_4.cpp,RUNTIME_ERROR,0,0.00%,0.030,0,0,0,0,0,0,0,0
+Statues_seed-oss_5.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+Statues_seed-oss_6.cpp,RUNTIME_ERROR,0,0.00%,0.020,0.00390625,0,0,0,0,0,0,0
+Statues_seed-oss_7.cpp,MEMORY_LIMIT_EXCEEDED,0,33.33%,0.030,2.06640625,0,0,0,0,0,0,0

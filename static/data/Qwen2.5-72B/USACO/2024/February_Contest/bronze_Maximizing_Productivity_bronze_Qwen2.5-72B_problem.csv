@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Maximizing_Productivity_Qwen2.5-72B_0.cpp,WRONG_ANSWER,0,0.00%,0.510,5.1640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Maximizing_Productivity_Qwen2.5-72B_1.cpp,WRONG_ANSWER,0,0.00%,0.500,5.1484375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Maximizing_Productivity_Qwen2.5-72B_2.cpp,WRONG_ANSWER,0,0.00%,0.210,9.9921875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Maximizing_Productivity_Qwen2.5-72B_3.cpp,WRONG_ANSWER,0,0.00%,0.460,5.1484375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Maximizing_Productivity_Qwen2.5-72B_4.cpp,RUNTIME_ERROR,0,0.00%,0.480,5.1640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Maximizing_Productivity_Qwen2.5-72B_5.cpp,WRONG_ANSWER,0,0.00%,0.510,6.71484375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Maximizing_Productivity_Qwen2.5-72B_6.cpp,WRONG_ANSWER,0,0.00%,0.470,5.1484375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Maximizing_Productivity_Qwen2.5-72B_7.cpp,WRONG_ANSWER,0,0.00%,0.440,6.71484375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

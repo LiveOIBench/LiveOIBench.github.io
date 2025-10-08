@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4
+train_Llama-3.3-70B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.170,309.46875,0,0,0,0
+train_Llama-3.3-70B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.120,47.24609375,0,0,0,0
+train_Llama-3.3-70B-Instruct_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+train_Llama-3.3-70B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.110,11.91796875,0,0,0,0
+train_Llama-3.3-70B-Instruct_4.cpp,RUNTIME_ERROR,0,1.79%,0.510,15.2734375,0,0,0,0
+train_Llama-3.3-70B-Instruct_5.cpp,RUNTIME_ERROR,0,0.00%,0.280,15.2734375,0,0,0,0
+train_Llama-3.3-70B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.140,32.6953125,0,0,0,0
+train_Llama-3.3-70B-Instruct_7.cpp,RUNTIME_ERROR,0,0.00%,0.170,14.2421875,0,0,0,0

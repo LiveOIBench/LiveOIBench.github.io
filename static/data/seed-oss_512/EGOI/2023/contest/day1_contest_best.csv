@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+bikesvscars,seed-oss_512,UNKNOWN,0,0.00%,0.000,0
+ppp,seed-oss_512,COMPILATION_ERROR,0,0.00%,0.000,0
+findthebox,seed-oss_512,UNKNOWN,0,0.00%,0.000,0
+inflation,seed-oss_512,RUNTIME_ERROR,84,84.88%,0.120,15.0234375

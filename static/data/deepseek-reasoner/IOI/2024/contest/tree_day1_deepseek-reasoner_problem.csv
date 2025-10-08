@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+tree_deepseek-reasoner_0.cpp,TIME_LIMIT_EXCEEDED,10,25.88%,2.210,14.40625,0,10,0,0,0,0,0,0
+tree_deepseek-reasoner_1.cpp,RUNTIME_ERROR,0,2.67%,0.060,13.7421875,0,0,0,0,0,0,0,0
+tree_deepseek-reasoner_2.cpp,TIME_LIMIT_EXCEEDED,0,2.67%,2.210,6.03125,0,0,0,0,0,0,0,0
+tree_deepseek-reasoner_3.cpp,RUNTIME_ERROR,0,2.67%,0.040,8.18359375,0,0,0,0,0,0,0,0
+tree_deepseek-reasoner_4.cpp,RUNTIME_ERROR,0,2.67%,0.040,6.58984375,0,0,0,0,0,0,0,0
+tree_deepseek-reasoner_5.cpp,RUNTIME_ERROR,0,2.67%,0.060,16.52734375,0,0,0,0,0,0,0,0
+tree_deepseek-reasoner_6.cpp,RUNTIME_ERROR,0,2.67%,0.070,24.90234375,0,0,0,0,0,0,0,0

@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+kalendar,seed-oss_0,ACCEPTED,50,100.00%,0.020,0
+diskurs,seed-oss_0,COMPILATION_ERROR,0,0.00%,0.000,0
+logaritam,seed-oss_0,RUNTIME_ERROR,0,2.44%,0.020,0.00390625
+slasticarnica,seed-oss_0,RUNTIME_ERROR,0,2.50%,0.020,0
+zastave,seed-oss_0,COMPILATION_ERROR,0,0.00%,0.000,0

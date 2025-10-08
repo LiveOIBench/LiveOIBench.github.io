@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+overtaking_seed-oss_0.cpp,RUNTIME_ERROR,10,10.94%,0.000,0.00390625,0,0,10,0,0,0
+overtaking_seed-oss_1.cpp,RUNTIME_ERROR,0,4.69%,0.000,0.00390625,0,0,0,0,0,0
+overtaking_seed-oss_2.cpp,TIME_LIMIT_EXCEEDED,65,86.26%,2.980,33.265625,0,9,10,20,26,0
+overtaking_seed-oss_3.cpp,RUNTIME_ERROR,19,34.84%,0.000,0.00390625,0,9,10,0,0,0
+overtaking_seed-oss_4.cpp,TIME_LIMIT_EXCEEDED,65,86.26%,2.980,25.6015625,0,9,10,20,26,0
+overtaking_seed-oss_5.cpp,RUNTIME_ERROR,19,34.84%,0.000,0.00390625,0,9,10,0,0,0
+overtaking_seed-oss_6.cpp,RUNTIME_ERROR,19,34.84%,0.000,1.04296875,0,9,10,0,0,0
+overtaking_seed-oss_7.cpp,TIME_LIMIT_EXCEEDED,39,74.79%,2.980,31.8828125,0,9,10,20,0,0

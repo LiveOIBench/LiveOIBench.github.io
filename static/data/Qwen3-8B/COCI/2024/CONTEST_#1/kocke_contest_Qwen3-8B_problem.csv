@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+kocke_Qwen3-8B_1.cpp,TIME_LIMIT_EXCEEDED,0,13.33%,2.410,1.54296875,0,0,0,0
+kocke_Qwen3-8B_2.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0
+kocke_Qwen3-8B_3.cpp,RUNTIME_ERROR,0,13.33%,0.070,55.75390625,0,0,0,0
+kocke_Qwen3-8B_4.cpp,RUNTIME_ERROR,0,13.33%,0.040,72.71484375,0,0,0,0
+kocke_Qwen3-8B_5.cpp,RUNTIME_ERROR,0,13.33%,0.050,1.53125,0,0,0,0
+kocke_Qwen3-8B_6.cpp,RUNTIME_ERROR,0,13.33%,0.060,72.7734375,0,0,0,0
+kocke_Qwen3-8B_7.cpp,RUNTIME_ERROR,0,13.33%,0.050,72.71484375,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+kuglice_seed-oss_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+kuglice_seed-oss_1.cpp,RUNTIME_ERROR,0,0.00%,0.020,0,0,0,0,0,0
+kuglice_seed-oss_2.cpp,TIME_LIMIT_EXCEEDED,0,1.35%,0.610,138.96875,0,0,0,0,0
+kuglice_seed-oss_3.cpp,RUNTIME_ERROR,0,1.35%,0.030,3.10546875,0,0,0,0,0
+kuglice_seed-oss_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+kuglice_seed-oss_5.cpp,RUNTIME_ERROR,0,0.00%,0.030,2.84765625,0,0,0,0,0
+kuglice_seed-oss_6.cpp,RUNTIME_ERROR,0,0.00%,0.030,4.12890625,0,0,0,0,0
+kuglice_seed-oss_7.cpp,RUNTIME_ERROR,0,1.35%,0.070,36.1015625,0,0,0,0,0

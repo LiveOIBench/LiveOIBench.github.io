@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Palindrome_Game,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,167,53.85%,2.410,2.33203125
+bronze_Milk_Exchange,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,51,12.50%,2.390,4.59375
+bronze_Maximizing_Productivity,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,62,23.53%,2.290,6.47265625

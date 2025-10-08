@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+chairgame,Qwen3-4B-Non-Thinking,UNKNOWN,0,0.00%,0.000,0
+thinice,Qwen3-4B-Non-Thinking,RUNTIME_ERROR,0,22.03%,0.170,4.21484375
+animeshops,Qwen3-4B-Non-Thinking,RUNTIME_ERROR,0,0.00%,0.140,6.7109375

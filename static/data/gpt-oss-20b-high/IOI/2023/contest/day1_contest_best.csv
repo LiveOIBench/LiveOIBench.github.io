@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+soccer,gpt-oss-20b-high,RUNTIME_ERROR,0,2.65%,0.000,0.00390625
+closing,gpt-oss-20b-high,RUNTIME_ERROR,17,33.14%,0.110,25.3828125
+longesttrip,gpt-oss-20b-high,RUNTIME_ERROR,5,13.25%,2.010,4.0390625

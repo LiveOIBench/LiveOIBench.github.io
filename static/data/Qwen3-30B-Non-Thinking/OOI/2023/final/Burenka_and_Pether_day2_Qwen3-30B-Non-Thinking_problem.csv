@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Burenka_and_Pether_Qwen3-30B-Non-Thinking_0.cpp,RUNTIME_ERROR,0,0.00%,0.270,124.015625,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burenka_and_Pether_Qwen3-30B-Non-Thinking_1.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burenka_and_Pether_Qwen3-30B-Non-Thinking_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.320,56.98046875,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burenka_and_Pether_Qwen3-30B-Non-Thinking_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.350,125.6875,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burenka_and_Pether_Qwen3-30B-Non-Thinking_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.310,58.015625,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burenka_and_Pether_Qwen3-30B-Non-Thinking_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.310,56.984375,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burenka_and_Pether_Qwen3-30B-Non-Thinking_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.520,1121.8984375,0,0,0,0,0,0,0,0,0,0,0,0,0

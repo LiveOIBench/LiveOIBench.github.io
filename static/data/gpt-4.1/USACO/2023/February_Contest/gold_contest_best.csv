@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Equal_Sum_Subarrays,gpt-4.1,TIME_LIMIT_EXCEEDED,238,75.00%,3.310,5.3984375
+gold_Fertilizing_Pastures,gpt-4.1,WRONG_ANSWER,0,4.55%,0.180,17.16015625
+gold_Piling_Papers,gpt-4.1,TIME_LIMIT_EXCEEDED,0,7.69%,2.270,5.35546875

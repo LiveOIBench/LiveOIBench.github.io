@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+candy,gpt-oss-20b-low,ACCEPTED,100,100.00%,0.030,5.16796875
+sopsug,gpt-oss-20b-low,UNKNOWN,0,0.00%,0.000,0
+guessinggame,gpt-oss-20b-low,RUNTIME_ERROR,0,0.00%,0.000,0
+carnival,gpt-oss-20b-low,RUNTIME_ERROR,0,0.00%,0.000,0

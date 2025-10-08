@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Find_and_Replace,seed-oss_16384,WRONG_ANSWER,0,6.67%,0.020,0
+silver_Following_Directions,seed-oss_16384,ACCEPTED,333,100.00%,3.960,12.37890625
+silver_Moo_Route,seed-oss_16384,WRONG_ANSWER,56,25.00%,0.020,1.55859375

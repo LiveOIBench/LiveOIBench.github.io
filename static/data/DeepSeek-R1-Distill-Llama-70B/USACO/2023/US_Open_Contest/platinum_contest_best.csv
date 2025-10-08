@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Pareidolia,DeepSeek-R1-Distill-Llama-70B,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Good_Bitstrings,DeepSeek-R1-Distill-Llama-70B,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Triples_of_Cows,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,5.00%,0.200,15.078125

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Signals_gemini-2.5-pro_0.cpp,ACCEPTED,100,100.00%,0.310,77.609375,0,5,2,8,32,24,29
+Signals_gemini-2.5-pro_1.cpp,ACCEPTED,100,100.00%,0.360,39.44921875,0,5,2,8,32,24,29
+Signals_gemini-2.5-pro_2.cpp,RUNTIME_ERROR,0,5.71%,0.140,7.484375,0,0,0,0,0,0,0
+Signals_gemini-2.5-pro_3.cpp,ACCEPTED,100,100.00%,0.310,65.4921875,0,5,2,8,32,24,29
+Signals_gemini-2.5-pro_4.cpp,ACCEPTED,100,100.00%,0.390,85.3671875,0,5,2,8,32,24,29
+Signals_gemini-2.5-pro_5.cpp,ACCEPTED,100,100.00%,0.630,92.84765625,0,5,2,8,32,24,29
+Signals_gemini-2.5-pro_6.cpp,RUNTIME_ERROR,15,55.10%,0.500,131.00390625,0,5,2,8,0,0,0
+Signals_gemini-2.5-pro_7.cpp,TIME_LIMIT_EXCEEDED,39,70.59%,1.470,287.46875,0,5,2,8,0,24,0

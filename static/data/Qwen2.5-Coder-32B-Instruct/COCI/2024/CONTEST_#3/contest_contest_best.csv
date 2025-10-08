@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+eurokod,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,17,33.33%,0.000,0
+vrsar,Qwen2.5-Coder-32B-Instruct,TIME_LIMIT_EXCEEDED,17,18.75%,1.150,5.1640625
+milano,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,9.52%,0.160,2.84765625
+restorani,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,0.68%,0.160,66.2890625
+cesta,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,0.00%,0.010,7.7421875

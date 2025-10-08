@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+astronomer_gpt-5_0.cpp,TIME_LIMIT_EXCEEDED,17,71.99%,5.960,1.94140625,0,8,9,0,0,0,0,0
+astronomer_gpt-5_1.cpp,RUNTIME_ERROR,8,23.72%,5.380,1.890625,0,8,0,0,0,0,0,0
+astronomer_gpt-5_2.cpp,RUNTIME_ERROR,8,38.07%,1.210,3.25,0,8,0,0,0,0,0,0
+astronomer_gpt-5_3.cpp,RUNTIME_ERROR,8,31.10%,0.460,1.546875,0,8,0,0,0,0,0,0
+astronomer_gpt-5_4.cpp,TIME_LIMIT_EXCEEDED,0,62.86%,5.980,0.00390625,0,0,0,0,0,0,0,0
+astronomer_gpt-5_5.cpp,RUNTIME_ERROR,35,79.54%,0.810,1.66015625,0,8,9,18,0,0,0,0
+astronomer_gpt-5_6.cpp,RUNTIME_ERROR,0,68.33%,3.610,5.453125,0,0,0,0,0,0,0,0
+astronomer_gpt-5_7.cpp,RUNTIME_ERROR,0,60.34%,0.320,9.3984375,0,0,0,0,0,0,0,0

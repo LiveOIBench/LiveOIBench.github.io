@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+teleporters,gpt-oss-120b-low,TIME_LIMIT_EXCEEDED,9,7.46%,1.220,2.5859375
+tree_search,gpt-oss-120b-low,RUNTIME_ERROR,30,20.00%,0.110,19.515625
+opening_offices,gpt-oss-120b-low,RUNTIME_ERROR,5,19.67%,0.030,0.00390625

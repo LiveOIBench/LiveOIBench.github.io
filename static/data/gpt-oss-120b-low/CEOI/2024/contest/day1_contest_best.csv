@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+covid,gpt-oss-120b-low,RUNTIME_ERROR,10,66.67%,0.050,1.54296875
+battle,gpt-oss-120b-low,RUNTIME_ERROR,36,56.72%,0.130,24.3515625
+editor,gpt-oss-120b-low,RUNTIME_ERROR,0,14.29%,0.080,21.66796875

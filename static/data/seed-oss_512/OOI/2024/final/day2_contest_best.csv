@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Card_Flip,seed-oss_512,TIME_LIMIT_EXCEEDED,0,12.50%,1.220,12.90234375
+Order_Statistics,seed-oss_512,UNKNOWN,0,0.00%,0.000,0
+Best_Runner,seed-oss_512,RUNTIME_ERROR,11,4.67%,0.070,6.59375
+Strong_Connectivity_Strikes_Back,seed-oss_512,RUNTIME_ERROR,25,24.78%,0.040,1.546875

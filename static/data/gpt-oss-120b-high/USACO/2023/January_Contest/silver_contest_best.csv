@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Find_and_Replace,gpt-oss-120b-high,WRONG_ANSWER,238,73.33%,0.050,0
+silver_Following_Directions,gpt-oss-120b-high,ACCEPTED,333,100.00%,0.070,18.05078125
+silver_Moo_Route,gpt-oss-120b-high,WRONG_ANSWER,56,25.00%,0.060,14.71484375

@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+pahuljice,gpt-5,ACCEPTED,50,100.00%,0.000,0
+pingvin,gpt-5,ACCEPTED,70,100.00%,0.020,6.19140625
+dizalo,gpt-5,ACCEPTED,110,100.00%,0.080,9.28515625
+kuglice,gpt-5,ACCEPTED,110,100.00%,0.040,18.57421875
+zatopljenje,gpt-5,ACCEPTED,110,100.00%,0.130,12.125

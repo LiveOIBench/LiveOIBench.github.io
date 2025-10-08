@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Moo_Decomposition,gpt-oss-120b-high,ACCEPTED,333,100.00%,0.050,2.3671875
+gold_Election_Queries,gpt-oss-120b-high,ACCEPTED,333,100.00%,0.290,19.19140625
+gold_OohMoo_Milk,gpt-oss-120b-high,ACCEPTED,333,100.00%,0.070,2.84375

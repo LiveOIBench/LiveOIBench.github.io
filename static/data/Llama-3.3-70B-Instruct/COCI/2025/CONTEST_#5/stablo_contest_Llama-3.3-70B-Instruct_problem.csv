@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+stablo_Llama-3.3-70B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.220,149.4609375,0,0,0,0
+stablo_Llama-3.3-70B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.220,207.32421875,0,0,0,0
+stablo_Llama-3.3-70B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.210,215.08203125,0,0,0,0
+stablo_Llama-3.3-70B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.210,119.72265625,0,0,0,0
+stablo_Llama-3.3-70B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.220,206.80078125,0,0,0,0
+stablo_Llama-3.3-70B-Instruct_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+stablo_Llama-3.3-70B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.210,89.3046875,0,0,0,0
+stablo_Llama-3.3-70B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.210,142.44140625,0,0,0,0

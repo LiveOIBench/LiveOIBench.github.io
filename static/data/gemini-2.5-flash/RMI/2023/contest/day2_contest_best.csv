@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Circles,gemini-2.5-flash,ACCEPTED,100,100.00%,0.710,287.11328125
+To_be_xor_not_to_be,gemini-2.5-flash,RUNTIME_ERROR,6,27.91%,0.040,0
+Statues,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,46,80.33%,1.110,19.828125

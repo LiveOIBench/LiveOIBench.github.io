@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+hieroglyphs,gpt-5,TIME_LIMIT_EXCEEDED,3,12.97%,1.210,1565.984375
+sphinx,gpt-5,RUNTIME_ERROR,3,21.65%,0.260,4.4375
+mosaic,gpt-5,RUNTIME_ERROR,37,82.86%,0.210,128.390625

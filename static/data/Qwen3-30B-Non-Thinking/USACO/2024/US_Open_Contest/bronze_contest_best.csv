@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Logical_Moos,Qwen3-30B-Non-Thinking,TIME_LIMIT_EXCEEDED,83,30.77%,2.340,20.5859375
+bronze_Walking_Along_a_Fence,Qwen3-30B-Non-Thinking,TIME_LIMIT_EXCEEDED,167,54.55%,2.320,6.9296875
+bronze_Farmer_Johns_Favorite_Permutation,Qwen3-30B-Non-Thinking,WRONG_ANSWER,0,0.00%,0.160,2.0703125

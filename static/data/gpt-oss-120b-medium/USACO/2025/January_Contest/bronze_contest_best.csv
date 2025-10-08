@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+bronze_Astral_Superposition,gpt-oss-120b-medium,ACCEPTED,333,100.91%,100.00%,0.110,3.51953125
+bronze_Its_Mooin_Time_II,gpt-oss-120b-medium,ACCEPTED,333,100.91%,100.00%,0.110,17.80078125
+bronze_Cow_Checkups,gpt-oss-120b-medium,ACCEPTED,333,100.91%,100.00%,0.100,1.55859375

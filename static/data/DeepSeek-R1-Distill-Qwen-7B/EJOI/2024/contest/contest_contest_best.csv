@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+cheese,DeepSeek-R1-Distill-Qwen-7B,COMPILATION_ERROR,0,0.00%,0.000,0
+oldorhei,DeepSeek-R1-Distill-Qwen-7B,COMPILATION_ERROR,0,0.00%,0.000,0
+manypairs,DeepSeek-R1-Distill-Qwen-7B,COMPILATION_ERROR,0,0.00%,0.000,0
+cfduels,DeepSeek-R1-Distill-Qwen-7B,COMPILATION_ERROR,0,0.00%,0.000,0
+hora,DeepSeek-R1-Distill-Qwen-7B,COMPILATION_ERROR,0,0.00%,0.000,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Cowntact_Tracing,gpt-o3-mini-high,WRONG_ANSWER,150,52.17%,1.130,23.2734375
+platinum_A_Graph_Problem,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,50,26.09%,2.220,22.7578125
+platinum_Train_Scheduling,gpt-o3-mini-high,WRONG_ANSWER,300,91.67%,0.090,1.78125

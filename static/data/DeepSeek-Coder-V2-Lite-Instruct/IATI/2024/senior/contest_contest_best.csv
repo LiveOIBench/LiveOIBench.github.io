@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+five,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,0.00%,0.140,2.2890625
+game,DeepSeek-Coder-V2-Lite-Instruct,UNKNOWN,0,0.00%,0.000,0
+lexgcd,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,0,3.31%,1.850,1.81640625
+ones,DeepSeek-Coder-V2-Lite-Instruct,UNKNOWN,0,0.00%,0.000,0
+travel,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

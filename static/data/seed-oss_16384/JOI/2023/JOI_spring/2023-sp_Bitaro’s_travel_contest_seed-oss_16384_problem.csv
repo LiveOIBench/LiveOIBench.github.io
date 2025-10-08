@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4
+2023-sp_Bitaro’s_travel_seed-oss_0.cpp,RUNTIME_ERROR,0,26.47%,0.030,0.00390625,0,0,0,0
+2023-sp_Bitaro’s_travel_seed-oss_1.cpp,MEMORY_LIMIT_EXCEEDED,5,56.82%,0.470,1155.77734375,5,0,0,0
+2023-sp_Bitaro’s_travel_seed-oss_2.cpp,TIME_LIMIT_EXCEEDED,15,77.88%,2.420,2.84765625,5,10,0,0
+2023-sp_Bitaro’s_travel_seed-oss_3.cpp,RUNTIME_ERROR,0,5.17%,0.030,0,0,0,0,0
+2023-sp_Bitaro’s_travel_seed-oss_4.cpp,RUNTIME_ERROR,0,5.17%,0.020,0.00390625,0,0,0,0
+2023-sp_Bitaro’s_travel_seed-oss_5.cpp,RUNTIME_ERROR,0,26.47%,0.030,0.00390625,0,0,0,0
+2023-sp_Bitaro’s_travel_seed-oss_6.cpp,RUNTIME_ERROR,0,26.47%,0.030,0.00390625,0,0,0,0
+2023-sp_Bitaro’s_travel_seed-oss_7.cpp,RUNTIME_ERROR,0,0.00%,0.070,2.5859375,0,0,0,0

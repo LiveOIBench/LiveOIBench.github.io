@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_All_Pairs_Similarity,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Its_Mooin_Time,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Maximize_Minimum_Difference,DeepSeek-Coder-V2-Lite-Instruct,MEMORY_LIMIT_EXCEEDED,0,15.00%,3.950,280.25390625

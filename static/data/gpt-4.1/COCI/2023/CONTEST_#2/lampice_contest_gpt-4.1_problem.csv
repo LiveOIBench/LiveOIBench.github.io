@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+lampice_gpt-4.1_0.cpp,RUNTIME_ERROR,0,2.38%,0.070,4.39453125,0,0,0,0
+lampice_gpt-4.1_1.cpp,RUNTIME_ERROR,0,0.00%,0.080,4.39453125,0,0,0,0
+lampice_gpt-4.1_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+lampice_gpt-4.1_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+lampice_gpt-4.1_4.cpp,RUNTIME_ERROR,0,2.38%,0.280,13.6640625,0,0,0,0
+lampice_gpt-4.1_5.cpp,TIME_LIMIT_EXCEEDED,12,16.67%,3.310,7.48828125,0,12,0,0
+lampice_gpt-4.1_6.cpp,RUNTIME_ERROR,0,2.38%,0.080,7.484375,0,0,0,0
+lampice_gpt-4.1_7.cpp,TIME_LIMIT_EXCEEDED,12,16.67%,3.310,7.48828125,0,12,0,0

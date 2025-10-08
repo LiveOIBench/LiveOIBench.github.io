@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+teleporters_gpt-oss-120b-high_0.cpp,ACCEPTED,100,100.00%,0.280,15.09375,0,11,13,10,5,9,6,7,17,8,14
+teleporters_gpt-oss-120b-high_1.cpp,ACCEPTED,100,100.00%,0.260,20.33203125,0,11,13,10,5,9,6,7,17,8,14
+teleporters_gpt-oss-120b-high_2.cpp,ACCEPTED,100,100.00%,0.290,20.64453125,0,11,13,10,5,9,6,7,17,8,14
+teleporters_gpt-oss-120b-high_4.cpp,ACCEPTED,100,100.00%,0.320,18.0546875,0,11,13,10,5,9,6,7,17,8,14
+teleporters_gpt-oss-120b-high_5.cpp,RUNTIME_ERROR,20,32.84%,0.210,39.21875,0,0,0,0,5,9,6,0,0,0,0
+teleporters_gpt-oss-120b-high_6.cpp,TIME_LIMIT_EXCEEDED,15,28.36%,1.210,18.7109375,0,0,0,0,0,9,6,0,0,0,0
+teleporters_gpt-oss-120b-high_7.cpp,RUNTIME_ERROR,20,32.84%,0.180,37.72265625,0,0,0,0,5,9,6,0,0,0,0

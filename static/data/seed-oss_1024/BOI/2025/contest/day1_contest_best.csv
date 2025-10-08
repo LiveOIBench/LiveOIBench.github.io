@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+boi,seed-oss_1024,COMPILATION_ERROR,0,0.00%,0.000,0
+tou,seed-oss_1024,MEMORY_LIMIT_EXCEEDED,0,5.17%,1.450,1205.74609375
+tow,seed-oss_1024,UNKNOWN,0,0.00%,0.000,0

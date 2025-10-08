@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Palindrome_Game,Qwen2.5-72B,TIME_LIMIT_EXCEEDED,167,53.85%,2.210,115.76953125
+bronze_Milk_Exchange,Qwen2.5-72B,TIME_LIMIT_EXCEEDED,77,31.25%,2.410,6.34765625
+bronze_Maximizing_Productivity,Qwen2.5-72B,WRONG_ANSWER,0,0.00%,0.210,9.9921875

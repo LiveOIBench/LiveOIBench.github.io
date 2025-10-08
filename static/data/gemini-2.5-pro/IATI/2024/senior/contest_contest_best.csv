@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+five,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,62,75.00%,0.850,101.32421875
+game,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,8,27.50%,1.840,6.71875
+lexgcd,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,10,19.83%,1.860,57.6015625
+ones,gemini-2.5-pro,WRONG_ANSWER,68,0.00%,0.200,1.94921875
+travel,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,20,29.41%,1.200,33.78125

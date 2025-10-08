@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+tiles_Qwen3-14B_0.cpp,RUNTIME_ERROR,0,0.67%,0.070,10.796875,0,0,0,0,0,0,0
+tiles_Qwen3-14B_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.130,5.296875,0,0,0,0,0,0,0
+tiles_Qwen3-14B_2.cpp,RUNTIME_ERROR,0,0.67%,0.360,14.96875,0,0,0,0,0,0,0
+tiles_Qwen3-14B_3.cpp,RUNTIME_ERROR,0,0.67%,0.080,5.17578125,0,0,0,0,0,0,0
+tiles_Qwen3-14B_4.cpp,RUNTIME_ERROR,0,0.00%,0.040,5.4140625,0,0,0,0,0,0,0
+tiles_Qwen3-14B_5.cpp,RUNTIME_ERROR,0,1.99%,0.060,2.84765625,0,0,0,0,0,0,0
+tiles_Qwen3-14B_6.cpp,RUNTIME_ERROR,0,1.32%,0.130,5.703125,0,0,0,0,0,0,0
+tiles_Qwen3-14B_7.cpp,RUNTIME_ERROR,0,0.67%,0.090,9.04296875,0,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+sequence,seed-oss_-1,TIME_LIMIT_EXCEEDED,0,24.21%,1.810,46.80859375
+abc,seed-oss_-1,COMPILATION_ERROR,0,0.00%,0.000,0
+cyberland,seed-oss_-1,TIME_LIMIT_EXCEEDED,97,87.80%,2.970,97.7578125

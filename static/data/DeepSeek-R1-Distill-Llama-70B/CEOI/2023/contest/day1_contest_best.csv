@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+grading-server,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,4.00%,0.270,0.00390625
+light,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,0.74%,0.350,1.53515625
+balance,DeepSeek-R1-Distill-Llama-70B,UNKNOWN,0,0.00%,0.000,0

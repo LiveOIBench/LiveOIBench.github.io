@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Cowreography_Llama-3.3-70B-Instruct_0.cpp,WRONG_ANSWER,0,13.04%,0.120,12.109375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Cowreography_Llama-3.3-70B-Instruct_1.cpp,RUNTIME_ERROR,0,0.00%,0.120,3.34765625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Cowreography_Llama-3.3-70B-Instruct_2.cpp,WRONG_ANSWER,0,13.04%,0.150,10.921875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Cowreography_Llama-3.3-70B-Instruct_3.cpp,WRONG_ANSWER,0,13.04%,0.170,12.09765625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Cowreography_Llama-3.3-70B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.370,3.90625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Cowreography_Llama-3.3-70B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,0,8.70%,2.350,4.37890625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Cowreography_Llama-3.3-70B-Instruct_6.cpp,RUNTIME_ERROR,0,0.00%,0.120,4.16015625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Cowreography_Llama-3.3-70B-Instruct_7.cpp,WRONG_ANSWER,0,13.04%,0.120,9.60546875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

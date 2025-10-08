@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Circles,deepseek-reasoner,TIME_LIMIT_EXCEEDED,18,47.37%,1.680,75.3359375
+To_be_xor_not_to_be,deepseek-reasoner,RUNTIME_ERROR,0,4.76%,0.000,0
+Statues,deepseek-reasoner,RUNTIME_ERROR,10,30.77%,0.040,1.87890625

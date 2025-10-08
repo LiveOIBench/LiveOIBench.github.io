@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+putovanje_Mistral-Small-3.1-24B-2503_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+putovanje_Mistral-Small-3.1-24B-2503_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+putovanje_Mistral-Small-3.1-24B-2503_2.cpp,RUNTIME_ERROR,0,0.00%,0.100,4.1953125,0,0,0,0
+putovanje_Mistral-Small-3.1-24B-2503_3.cpp,RUNTIME_ERROR,0,0.00%,0.110,5.16015625,0,0,0,0
+putovanje_Mistral-Small-3.1-24B-2503_4.cpp,RUNTIME_ERROR,0,0.00%,0.080,4.1328125,0,0,0,0
+putovanje_Mistral-Small-3.1-24B-2503_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+putovanje_Mistral-Small-3.1-24B-2503_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+putovanje_Mistral-Small-3.1-24B-2503_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.310,4.7578125,0,0,0,0

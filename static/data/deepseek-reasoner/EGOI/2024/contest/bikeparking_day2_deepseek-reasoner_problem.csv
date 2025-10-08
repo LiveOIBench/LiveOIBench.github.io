@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+bikeparking_deepseek-reasoner_0.cpp,RUNTIME_ERROR,25,54.88%,0.080,10.32421875,0,16,9,0,0,0
+bikeparking_deepseek-reasoner_1.cpp,RUNTIME_ERROR,0,5.41%,0.000,0,0,0,0,0,0,0
+bikeparking_deepseek-reasoner_2.cpp,RUNTIME_ERROR,0,5.41%,0.000,0,0,0,0,0,0,0
+bikeparking_deepseek-reasoner_3.cpp,TIME_LIMIT_EXCEEDED,16,48.41%,1.200,10.58203125,0,16,0,0,0,0
+bikeparking_deepseek-reasoner_4.cpp,RUNTIME_ERROR,16,45.10%,0.030,0,0,16,0,0,0,0
+bikeparking_deepseek-reasoner_5.cpp,RUNTIME_ERROR,16,45.10%,0.030,0,0,16,0,0,0,0
+bikeparking_deepseek-reasoner_6.cpp,RUNTIME_ERROR,25,54.88%,0.080,8.26171875,0,16,9,0,0,0
+bikeparking_deepseek-reasoner_7.cpp,RUNTIME_ERROR,16,45.10%,0.000,0,0,16,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+minequake_gpt-5_0.cpp,ACCEPTED,100,100.00%,0.070,21.7578125,0,18,19,20,21,22
+minequake_gpt-5_1.cpp,RUNTIME_ERROR,18,22.37%,0.050,6.70703125,0,18,0,0,0,0
+minequake_gpt-5_2.cpp,ACCEPTED,100,100.00%,0.060,12.125,0,18,19,20,21,22
+minequake_gpt-5_3.cpp,ACCEPTED,100,100.00%,0.050,12.2890625,0,18,19,20,21,22
+minequake_gpt-5_4.cpp,RUNTIME_ERROR,37,88.46%,0.090,14.4375,0,18,19,0,0,0
+minequake_gpt-5_5.cpp,ACCEPTED,100,100.00%,0.060,13.9296875,0,18,19,20,21,22
+minequake_gpt-5_6.cpp,ACCEPTED,100,100.00%,0.060,12.640625,0,18,19,20,21,22
+minequake_gpt-5_7.cpp,RUNTIME_ERROR,37,88.46%,0.060,12.58203125,0,18,19,0,0,0

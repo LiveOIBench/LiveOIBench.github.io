@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+trade,seed-oss_8192,COMPILATION_ERROR,0,0.00%,0.000,0
+incursion,seed-oss_8192,COMPILATION_ERROR,0,0.00%,0.000,0
+avoid,seed-oss_8192,RUNTIME_ERROR,0,0.74%,0.010,1.546875

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+trains_seed-oss_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+trains_seed-oss_1.cpp,TIME_LIMIT_EXCEEDED,37,85.11%,1.210,4.39453125,8,13,16,0,0
+trains_seed-oss_2.cpp,TIME_LIMIT_EXCEEDED,37,81.72%,1.220,3.6171875,8,13,16,0,0
+trains_seed-oss_3.cpp,RUNTIME_ERROR,8,61.73%,0.990,520.0078125,8,0,0,0,0
+trains_seed-oss_4.cpp,ACCEPTED,100,100.00%,0.160,12.125,8,13,16,34,29
+trains_seed-oss_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+trains_seed-oss_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+trains_seed-oss_7.cpp,TIME_LIMIT_EXCEEDED,21,78.26%,1.210,3.62109375,8,13,0,0,0

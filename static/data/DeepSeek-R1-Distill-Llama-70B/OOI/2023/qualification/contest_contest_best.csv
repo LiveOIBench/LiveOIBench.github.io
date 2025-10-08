@@ -1,0 +1,10 @@
+problem,model,status,score,%test passed,time,memory
+Paired_roads,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,7.44%,0.140,18.37890625
+Legs_warm-up_exercise,DeepSeek-R1-Distill-Llama-70B,UNKNOWN,0,0.00%,0.000,0
+Hard_problem,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,100,100.00%,0.390,9.55859375
+Yet_another_queries,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,19,49.24%,1.660,5.421875
+Lunch,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,16,26.80%,0.000,0
+Tournament,DeepSeek-R1-Distill-Llama-70B,MEMORY_LIMIT_EXCEEDED,80,97.15%,0.230,124.36328125
+You_need_to_train_more,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,37,56.80%,0.360,4.3828125
+Colorful_graph,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,100,100.00%,0.220,3.6484375
+Space_accident,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,25,71.13%,1.110,2.22265625

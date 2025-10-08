@@ -1,0 +1,7 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+nile_gpt-oss-120b-high_0.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.020,5.66015625,0,0,0,0,0,0,0,0
+nile_gpt-oss-120b-high_1.cpp,TIME_LIMIT_EXCEEDED,6,6.00%,41.67%,2.410,39.34765625,0,6,0,0,0,0,0,0
+nile_gpt-oss-120b-high_3.cpp,RUNTIME_ERROR,51,51.00%,77.00%,0.050,16.16015625,0,6,13,17,0,0,15,0
+nile_gpt-oss-120b-high_4.cpp,ACCEPTED,100,100.00%,100.00%,0.060,16.91796875,0,6,13,17,11,20,15,18
+nile_gpt-oss-120b-high_5.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.180,21.90625,0,0,0,0,0,0,0,0
+nile_gpt-oss-120b-high_6.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.040,11.16015625,0,0,0,0,0,0,0,0

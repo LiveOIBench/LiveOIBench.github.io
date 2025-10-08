@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+cyberland_Qwen3-8B_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0
+cyberland_Qwen3-8B_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0
+cyberland_Qwen3-8B_2.cpp,RUNTIME_ERROR,20,23.17%,0.770,35.06640625,0,5,8,0,0,7,0,0,0
+cyberland_Qwen3-8B_3.cpp,RUNTIME_ERROR,15,19.51%,1.980,35.06640625,0,0,8,0,0,7,0,0,0
+cyberland_Qwen3-8B_4.cpp,TIME_LIMIT_EXCEEDED,20,23.17%,3.020,1040.98046875,0,5,8,0,0,7,0,0,0
+cyberland_Qwen3-8B_5.cpp,TIME_LIMIT_EXCEEDED,20,23.17%,3.010,1050.265625,0,5,8,0,0,7,0,0,0
+cyberland_Qwen3-8B_6.cpp,RUNTIME_ERROR,20,23.17%,0.330,21.91796875,0,5,8,0,0,7,0,0,0
+cyberland_Qwen3-8B_7.cpp,RUNTIME_ERROR,20,23.17%,0.180,21.91796875,0,5,8,0,0,7,0,0,0

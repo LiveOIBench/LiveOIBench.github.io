@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+toy,Mistral-Large-Instruct-2411,MEMORY_LIMIT_EXCEEDED,0,4.33%,1.150,1125.73046875
+stations,Mistral-Large-Instruct-2411,RUNTIME_ERROR,0,4.55%,0.060,10.1171875
+sprinklers,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,3,19.19%,2.230,1.8125

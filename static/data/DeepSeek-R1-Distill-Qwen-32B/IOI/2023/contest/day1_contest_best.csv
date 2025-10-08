@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+soccer,DeepSeek-R1-Distill-Qwen-32B,RUNTIME_ERROR,0,4.27%,0.000,0
+closing,DeepSeek-R1-Distill-Qwen-32B,RUNTIME_ERROR,8,2.31%,0.090,23.81640625
+longesttrip,DeepSeek-R1-Distill-Qwen-32B,RUNTIME_ERROR,5,16.87%,1.030,4.05859375

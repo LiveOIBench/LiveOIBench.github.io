@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+rolete_gemini-2.5-pro_0.cpp,ACCEPTED,110,100.00%,0.100,6.0,16,26,32,36
+rolete_gemini-2.5-pro_1.cpp,RUNTIME_ERROR,26,22.45%,0.870,3.6171875,0,26,0,0
+rolete_gemini-2.5-pro_2.cpp,ACCEPTED,110,100.00%,0.120,7.484375,16,26,32,36
+rolete_gemini-2.5-pro_3.cpp,ACCEPTED,110,100.00%,0.130,6.2578125,16,26,32,36
+rolete_gemini-2.5-pro_4.cpp,RUNTIME_ERROR,26,22.45%,0.310,5.9375,0,26,0,0
+rolete_gemini-2.5-pro_5.cpp,ACCEPTED,110,100.00%,0.840,3.6171875,16,26,32,36
+rolete_gemini-2.5-pro_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+rolete_gemini-2.5-pro_7.cpp,ACCEPTED,110,100.00%,0.130,5.1640625,16,26,32,36

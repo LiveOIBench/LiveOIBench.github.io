@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+2023-ho-t1_Stone_Arranging_2,gpt-oss-120b-high,ACCEPTED,100,100.00%,0.080,13.671875
+2023-ho-t2_Advertisement_2,gpt-oss-120b-high,ACCEPTED,100,100.00%,0.150,9.03125
+2023-ho-t3_Maze,gpt-oss-120b-high,RUNTIME_ERROR,8,43.10%,0.060,9.39453125
+2023-ho-t4_Cat_Exercise,gpt-oss-120b-high,ACCEPTED,100,100.00%,0.270,57.49609375
+2023-ho-t5_Modern_Machine,gpt-oss-120b-high,RUNTIME_ERROR,3,47.92%,0.230,47.69921875

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+boi,gpt-oss-120b-low,RUNTIME_ERROR,0,11.90%,0.010,1.5546875
+tou,gpt-oss-120b-low,MEMORY_LIMIT_EXCEEDED,32,50.86%,1.240,1181.28125
+tow,gpt-oss-120b-low,RUNTIME_ERROR,0,0.00%,0.020,1.48046875

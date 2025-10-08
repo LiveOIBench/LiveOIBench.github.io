@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Moo_Decomposition,Qwen3-30B,ACCEPTED,333,100.00%,0.130,2.83203125
+gold_Election_Queries,Qwen3-30B,WRONG_ANSWER,0,6.67%,0.240,3.6171875
+gold_OohMoo_Milk,Qwen3-30B,TIME_LIMIT_EXCEEDED,59,25.00%,2.270,4.6640625

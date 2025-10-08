@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+2024-open-t1_Examination_2_seed-oss_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+2024-open-t1_Examination_2_seed-oss_1.cpp,TIME_LIMIT_EXCEEDED,20,31.58%,2.410,24.58203125,0,20,0,0,0,0,0
+2024-open-t1_Examination_2_seed-oss_2.cpp,TIME_LIMIT_EXCEEDED,20,17.78%,2.420,47.15625,0,20,0,0,0,0,0
+2024-open-t1_Examination_2_seed-oss_3.cpp,TIME_LIMIT_EXCEEDED,0,28.43%,2.430,13.30859375,0,0,0,0,0,0,0
+2024-open-t1_Examination_2_seed-oss_4.cpp,RUNTIME_ERROR,0,3.41%,0.100,14.9140625,0,0,0,0,0,0,0
+2024-open-t1_Examination_2_seed-oss_5.cpp,RUNTIME_ERROR,0,12.36%,0.070,39.2265625,0,0,0,0,0,0,0
+2024-open-t1_Examination_2_seed-oss_6.cpp,TIME_LIMIT_EXCEEDED,20,38.24%,2.420,22.9453125,0,20,0,0,0,0,0
+2024-open-t1_Examination_2_seed-oss_7.cpp,TIME_LIMIT_EXCEEDED,0,28.43%,2.410,3.6953125,0,0,0,0,0,0,0

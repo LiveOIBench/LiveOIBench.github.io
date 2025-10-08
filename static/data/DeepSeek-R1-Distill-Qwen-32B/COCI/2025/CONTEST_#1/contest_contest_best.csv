@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+osobna,DeepSeek-R1-Distill-Qwen-32B,ACCEPTED,50,100.00%,0.000,0
+skokovi,DeepSeek-R1-Distill-Qwen-32B,ACCEPTED,70,100.00%,0.170,12.125
+hijerarhija,DeepSeek-R1-Distill-Qwen-32B,TIME_LIMIT_EXCEEDED,67,83.33%,3.350,20.13671875
+uciteljica,DeepSeek-R1-Distill-Qwen-32B,RUNTIME_ERROR,0,3.28%,0.080,0
+zbunjenost,DeepSeek-R1-Distill-Qwen-32B,RUNTIME_ERROR,15,33.87%,0.000,0

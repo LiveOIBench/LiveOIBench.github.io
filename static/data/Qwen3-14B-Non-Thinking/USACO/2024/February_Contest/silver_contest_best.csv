@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Target_Practice_II,Qwen3-14B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Test_Tubes,Qwen3-14B-Non-Thinking,MEMORY_LIMIT_EXCEEDED,17,4.76%,0.260,130.375
+silver_Moorbles,Qwen3-14B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0

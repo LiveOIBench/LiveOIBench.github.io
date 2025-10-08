@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4
+2023-sp_Two_Currencies_gpt-5_0.cpp,ACCEPTED,100,100.00%,0.990,96.9375,10,28,30,32
+2023-sp_Two_Currencies_gpt-5_1.cpp,ACCEPTED,100,100.00%,0.480,66.9921875,10,28,30,32
+2023-sp_Two_Currencies_gpt-5_2.cpp,RUNTIME_ERROR,0,0.00%,0.120,8.19921875,0,0,0,0
+2023-sp_Two_Currencies_gpt-5_3.cpp,ACCEPTED,100,100.00%,1.330,23.484375,10,28,30,32
+2023-sp_Two_Currencies_gpt-5_4.cpp,ACCEPTED,100,100.00%,0.470,63.09375,10,28,30,32
+2023-sp_Two_Currencies_gpt-5_5.cpp,RUNTIME_ERROR,0,0.00%,0.120,6.7109375,0,0,0,0
+2023-sp_Two_Currencies_gpt-5_6.cpp,ACCEPTED,100,100.00%,0.450,65.7890625,10,28,30,32
+2023-sp_Two_Currencies_gpt-5_7.cpp,ACCEPTED,100,100.00%,1.030,37.39453125,10,28,30,32

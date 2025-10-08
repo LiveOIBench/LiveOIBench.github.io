@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+kuglice_gpt-oss-20b-medium_0.cpp,ACCEPTED,110,100.00%,0.070,30.43359375,17,10,26,15,42
+kuglice_gpt-oss-20b-medium_1.cpp,RUNTIME_ERROR,0,8.11%,0.020,34.04296875,0,0,0,0,0
+kuglice_gpt-oss-20b-medium_2.cpp,RUNTIME_ERROR,0,8.11%,0.030,28.375,0,0,0,0,0
+kuglice_gpt-oss-20b-medium_3.cpp,ACCEPTED,110,100.00%,0.050,35.84765625,17,10,26,15,42
+kuglice_gpt-oss-20b-medium_4.cpp,RUNTIME_ERROR,0,10.81%,0.000,0,0,0,0,0,0
+kuglice_gpt-oss-20b-medium_5.cpp,RUNTIME_ERROR,0,4.05%,0.020,35.84765625,0,0,0,0,0
+kuglice_gpt-oss-20b-medium_6.cpp,ACCEPTED,110,100.00%,0.050,17.8046875,17,10,26,15,42
+kuglice_gpt-oss-20b-medium_7.cpp,RUNTIME_ERROR,0,8.11%,0.030,18.57421875,0,0,0,0,0

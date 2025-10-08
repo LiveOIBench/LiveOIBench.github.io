@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Find_and_Replace,gpt-oss-120b-low,WRONG_ANSWER,0,6.67%,0.000,0
+silver_Following_Directions,gpt-oss-120b-low,ACCEPTED,333,100.00%,0.070,12.37890625
+silver_Moo_Route,gpt-oss-120b-low,MEMORY_LIMIT_EXCEEDED,56,15.00%,0.130,124.765625

@@ -1,0 +1,4 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+golikovnik_ok.cpp,ACCEPTED,100,100.00%,3.870,291.32421875,0.0,13.0,17.0,12.0,19.0,11.0,15.0,13.0
+mangooste_ok.cpp,TIME_LIMIT_EXCEEDED,42,89.09%,4.850,110.34765625,0.0,13.0,17.0,12.0,0,0,0,0
+tikhon_fast_correct.cpp,TIME_LIMIT_EXCEEDED,72,96.36%,4.820,93.37890625,0.0,13.0,17.0,12.0,19.0,11.0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+iksevi_seed-oss_0.cpp,RUNTIME_ERROR,0,0.00%,0.190,0.00390625,0,0,0
+iksevi_seed-oss_1.cpp,ACCEPTED,110,100.00%,0.410,39.3984375,15,55,40
+iksevi_seed-oss_2.cpp,RUNTIME_ERROR,0,0.00%,0.870,39.33984375,0,0,0
+iksevi_seed-oss_3.cpp,ACCEPTED,110,100.00%,0.430,39.3984375,15,55,40
+iksevi_seed-oss_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+iksevi_seed-oss_5.cpp,ACCEPTED,110,100.00%,0.770,77.5546875,15,55,40
+iksevi_seed-oss_6.cpp,ACCEPTED,110,100.00%,1.100,76.8984375,15,55,40
+iksevi_seed-oss_7.cpp,ACCEPTED,110,100.00%,1.670,77.5546875,15,55,40

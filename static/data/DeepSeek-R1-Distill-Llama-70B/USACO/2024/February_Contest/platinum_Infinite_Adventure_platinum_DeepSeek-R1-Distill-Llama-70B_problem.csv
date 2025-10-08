@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Infinite_Adventure_DeepSeek-R1-Distill-Llama-70B_0.cpp,RUNTIME_ERROR,42,11.11%,0.300,109.8359375,0,0,20.833333333333332,0,0,0,0,0,0,0,0,0,0,0,0,0,20.833333333333332
+platinum_Infinite_Adventure_DeepSeek-R1-Distill-Llama-70B_1.cpp,RUNTIME_ERROR,42,11.11%,0.200,109.3203125,0,0,20.833333333333332,0,0,0,0,0,0,0,0,0,0,0,0,0,20.833333333333332
+platinum_Infinite_Adventure_DeepSeek-R1-Distill-Llama-70B_2.cpp,RUNTIME_ERROR,42,11.11%,0.300,53.1171875,0,0,20.833333333333332,0,0,0,0,0,0,0,0,0,0,0,0,0,20.833333333333332
+platinum_Infinite_Adventure_DeepSeek-R1-Distill-Llama-70B_3.cpp,RUNTIME_ERROR,0,0.00%,0.220,2.84765625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Infinite_Adventure_DeepSeek-R1-Distill-Llama-70B_4.cpp,RUNTIME_ERROR,0,0.00%,0.350,109.3203125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Infinite_Adventure_DeepSeek-R1-Distill-Llama-70B_5.cpp,RUNTIME_ERROR,0,0.00%,0.160,22.93359375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Infinite_Adventure_DeepSeek-R1-Distill-Llama-70B_6.cpp,RUNTIME_ERROR,0,0.00%,0.130,32.7734375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Infinite_Adventure_DeepSeek-R1-Distill-Llama-70B_7.cpp,RUNTIME_ERROR,0,0.00%,0.130,13.671875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

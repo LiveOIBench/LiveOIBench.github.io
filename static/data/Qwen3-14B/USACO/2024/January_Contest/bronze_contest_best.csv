@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Majority_Opinion,Qwen3-14B,ACCEPTED,333,100.00%,0.140,6.93359375
+bronze_Cannonball,Qwen3-14B,ACCEPTED,333,100.00%,0.130,6.7109375
+bronze_Balancing_Bacteria,Qwen3-14B,ACCEPTED,333,100.00%,0.120,2.7890625

@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+wow,gemini-2.5-pro,ACCEPTED,50,100.00%,0.000,0
+zid,gemini-2.5-pro,ACCEPTED,70,100.00%,0.150,3.359375
+tornjevi,gemini-2.5-pro,ACCEPTED,90,100.00%,0.380,39.515625
+crtez,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,20,42.55%,2.240,3.16015625
+stablo,gemini-2.5-pro,ACCEPTED,120,100.00%,2.010,184.453125

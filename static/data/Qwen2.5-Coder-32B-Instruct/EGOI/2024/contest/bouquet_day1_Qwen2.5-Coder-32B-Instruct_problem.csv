@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+bouquet_Qwen2.5-Coder-32B-Instruct_0.cpp,RUNTIME_ERROR,0,46.05%,0.110,3.5625,0,0,0,0,0,0
+bouquet_Qwen2.5-Coder-32B-Instruct_1.cpp,RUNTIME_ERROR,0,3.51%,0.090,3.04296875,0,0,0,0,0,0
+bouquet_Qwen2.5-Coder-32B-Instruct_2.cpp,RUNTIME_ERROR,0,46.05%,0.110,3.5625,0,0,0,0,0,0
+bouquet_Qwen2.5-Coder-32B-Instruct_3.cpp,RUNTIME_ERROR,0,3.51%,0.100,2.84765625,0,0,0,0,0,0
+bouquet_Qwen2.5-Coder-32B-Instruct_4.cpp,RUNTIME_ERROR,0,3.51%,0.080,2.7890625,0,0,0,0,0,0
+bouquet_Qwen2.5-Coder-32B-Instruct_5.cpp,RUNTIME_ERROR,0,1.79%,0.090,2.7890625,0,0,0,0,0,0
+bouquet_Qwen2.5-Coder-32B-Instruct_6.cpp,RUNTIME_ERROR,0,46.05%,0.160,3.36328125,0,0,0,0,0,0
+bouquet_Qwen2.5-Coder-32B-Instruct_7.cpp,RUNTIME_ERROR,0,46.05%,0.100,3.5625,0,0,0,0,0,0

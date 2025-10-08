@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_All_Pairs_Similarity,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,48,20.00%,2.220,30.9453125
+platinum_Its_Mooin_Time,gpt-o3-mini-high,WRONG_ANSWER,71,33.33%,0.080,8.90234375
+platinum_Maximize_Minimum_Difference,gpt-o3-mini-high,RUNTIME_ERROR,21,10.00%,0.040,0.00390625

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+bomboni_seed-oss_0.cpp,TIME_LIMIT_EXCEEDED,63,80.00%,2.420,241.31640625,13,17,33,0
+bomboni_seed-oss_1.cpp,ACCEPTED,110,100.00%,0.310,473.3515625,13,17,33,47
+bomboni_seed-oss_2.cpp,ACCEPTED,110,100.00%,0.410,17.703125,13,17,33,47
+bomboni_seed-oss_3.cpp,ACCEPTED,110,100.00%,0.300,5.16015625,13,17,33,47
+bomboni_seed-oss_4.cpp,TIME_LIMIT_EXCEEDED,63,80.00%,2.410,470.51171875,13,17,33,0
+bomboni_seed-oss_5.cpp,ACCEPTED,110,100.00%,0.320,474.3828125,13,17,33,47
+bomboni_seed-oss_6.cpp,ACCEPTED,110,100.00%,0.150,7.04296875,13,17,33,47
+bomboni_seed-oss_7.cpp,ACCEPTED,110,100.00%,0.330,473.3515625,13,17,33,47

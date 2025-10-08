@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+minequake,Qwen2.5-72B,RUNTIME_ERROR,0,19.21%,0.050,6.96875
+mineraldeposits,Qwen2.5-72B,RUNTIME_ERROR,0,7.32%,0.020,1.5390625
+sequence,Qwen2.5-72B,RUNTIME_ERROR,11,54.55%,0.000,0

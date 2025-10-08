@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+chatnoi_gpt-oss-120b-medium_0.cpp,TIME_LIMIT_EXCEEDED,71,71.00%,86.86%,4.810,163.79296875,5,7,17,18,24,0,0
+chatnoi_gpt-oss-120b-medium_1.cpp,RUNTIME_ERROR,0,0.00%,21.05%,0.060,0,0,0,0,0,0,0,0
+chatnoi_gpt-oss-120b-medium_2.cpp,RUNTIME_ERROR,0,0.00%,1.38%,0.050,0,0,0,0,0,0,0,0
+chatnoi_gpt-oss-120b-medium_3.cpp,UNKNOWN,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0
+chatnoi_gpt-oss-120b-medium_4.cpp,UNKNOWN,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0
+chatnoi_gpt-oss-120b-medium_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.00%,0.060,0.00390625,0,0,0,0,0,0,0
+chatnoi_gpt-oss-120b-medium_6.cpp,TIME_LIMIT_EXCEEDED,64,64.00%,82.74%,4.820,128.6171875,5,0,17,18,24,0,0
+chatnoi_gpt-oss-120b-medium_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.00%,0.820,513.81640625,0,0,0,0,0,0,0

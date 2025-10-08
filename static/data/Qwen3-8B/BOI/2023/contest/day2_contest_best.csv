@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+minequake,Qwen3-8B,COMPILATION_ERROR,0,0.00%,0.000,0
+mineraldeposits,Qwen3-8B,RUNTIME_ERROR,9,55.15%,0.000,1.55078125
+sequence,Qwen3-8B,RUNTIME_ERROR,0,13.46%,0.000,0

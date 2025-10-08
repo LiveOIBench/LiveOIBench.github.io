@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+2023-ho-t5_Modern_Machine_Qwen3-8B-Non-Thinking_0.cpp,TIME_LIMIT_EXCEEDED,3,45.36%,2.790,4.6484375,3,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_Qwen3-8B-Non-Thinking_1.cpp,TIME_LIMIT_EXCEEDED,3,45.36%,2.770,2.84375,3,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_Qwen3-8B-Non-Thinking_2.cpp,TIME_LIMIT_EXCEEDED,3,45.36%,2.820,2.90625,3,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_Qwen3-8B-Non-Thinking_3.cpp,TIME_LIMIT_EXCEEDED,0,14.86%,2.790,2.84765625,0,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_Qwen3-8B-Non-Thinking_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_Qwen3-8B-Non-Thinking_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.810,2.8359375,0,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_Qwen3-8B-Non-Thinking_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine_Qwen3-8B-Non-Thinking_7.cpp,TIME_LIMIT_EXCEEDED,3,45.36%,2.800,2.390625,3,0,0,0,0,0,0

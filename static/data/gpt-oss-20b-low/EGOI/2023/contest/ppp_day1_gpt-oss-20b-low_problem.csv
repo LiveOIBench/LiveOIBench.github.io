@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+ppp_gpt-oss-20b-low_0.cpp,RUNTIME_ERROR,0,1.43%,0.040,12.8984375,0,0,0,0,0,0,0
+ppp_gpt-oss-20b-low_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.600,12.38671875,0,0,0,0,0,0,0
+ppp_gpt-oss-20b-low_3.cpp,RUNTIME_ERROR,0,0.00%,0.040,7.48828125,0,0,0,0,0,0,0
+ppp_gpt-oss-20b-low_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.610,9.03515625,0,0,0,0,0,0,0
+ppp_gpt-oss-20b-low_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.600,24.24609375,0,0,0,0,0,0,0
+ppp_gpt-oss-20b-low_6.cpp,RUNTIME_ERROR,0,0.00%,0.040,9.80859375,0,0,0,0,0,0,0
+ppp_gpt-oss-20b-low_7.cpp,RUNTIME_ERROR,0,0.00%,0.060,16.0078125,0,0,0,0,0,0,0

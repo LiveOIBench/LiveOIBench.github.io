@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+trade,deepseek-chat,TIME_LIMIT_EXCEEDED,10,51.95%,7.710,9.0234375
+incursion,deepseek-chat,COMPILATION_ERROR,0,0.00%,0.000,0
+avoid,deepseek-chat,RUNTIME_ERROR,0,0.74%,0.020,1.53515625

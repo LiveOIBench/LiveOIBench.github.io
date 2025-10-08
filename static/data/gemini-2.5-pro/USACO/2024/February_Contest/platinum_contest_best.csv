@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Lazy_Cow,gemini-2.5-pro,WRONG_ANSWER,0,10.00%,0.310,92.765625
+platinum_Minimum_Sum_of_Maximums,gemini-2.5-pro,WRONG_ANSWER,50,29.17%,0.110,1.546875
+platinum_Infinite_Adventure,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,83,33.33%,2.270,539.62109375

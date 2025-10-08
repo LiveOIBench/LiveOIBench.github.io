@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Jump_Civilization,gpt-oss-120b-high,RUNTIME_ERROR,11,14.29%,0.130,28.109375
+Ramen,gpt-oss-120b-high,TIME_LIMIT_EXCEEDED,0,0.00%,0.050,1.5390625
+Signals,gpt-oss-120b-high,TIME_LIMIT_EXCEEDED,10,29.73%,1.450,79.6875

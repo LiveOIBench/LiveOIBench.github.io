@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+manypairs_gpt-oss-120b-high_0.cpp,TIME_LIMIT_EXCEEDED,0,5.71%,2.410,78.99609375,0,0,0,0,0,0
+manypairs_gpt-oss-120b-high_1.cpp,ACCEPTED,100,100.00%,0.420,53.3984375,0,12,13,17,21,37
+manypairs_gpt-oss-120b-high_2.cpp,RUNTIME_ERROR,0,5.71%,0.190,57.46484375,0,0,0,0,0,0
+manypairs_gpt-oss-120b-high_3.cpp,RUNTIME_ERROR,0,11.43%,0.270,55.9453125,0,0,0,0,0,0
+manypairs_gpt-oss-120b-high_4.cpp,ACCEPTED,100,100.00%,0.370,71.2734375,0,12,13,17,21,37
+manypairs_gpt-oss-120b-high_5.cpp,ACCEPTED,100,100.00%,0.440,82.6953125,0,12,13,17,21,37
+manypairs_gpt-oss-120b-high_6.cpp,RUNTIME_ERROR,0,5.71%,0.390,80.109375,0,0,0,0,0,0
+manypairs_gpt-oss-120b-high_7.cpp,ACCEPTED,100,100.00%,0.340,61.74609375,0,12,13,17,21,37

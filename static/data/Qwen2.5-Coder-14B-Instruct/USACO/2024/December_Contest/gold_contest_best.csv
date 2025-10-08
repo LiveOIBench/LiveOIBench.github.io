@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Cowdependence,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Interstellar_Intervals,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,0.00%,0.120,2.3359375
+gold_Job_Completion,Qwen2.5-Coder-14B-Instruct,WRONG_ANSWER,0,0.00%,0.370,4.55859375

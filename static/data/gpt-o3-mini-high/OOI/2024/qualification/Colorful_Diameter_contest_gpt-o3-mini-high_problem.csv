@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Colorful_Diameter_gpt-o3-mini-high_0.cpp,RUNTIME_ERROR,19,43.75%,1.380,13.046875,0.0,0,0,0,0,0,11.0,8.0,0,0
+Colorful_Diameter_gpt-o3-mini-high_1.cpp,RUNTIME_ERROR,19,43.75%,1.950,28.83984375,0.0,0,0,0,0,0,11.0,8.0,0,0
+Colorful_Diameter_gpt-o3-mini-high_2.cpp,RUNTIME_ERROR,19,43.75%,1.060,17.27734375,0.0,0,0,0,0,0,11.0,8.0,0,0
+Colorful_Diameter_gpt-o3-mini-high_3.cpp,RUNTIME_ERROR,19,39.69%,1.210,17.29296875,0.0,0,0,0,0,0,11.0,8.0,0,0
+Colorful_Diameter_gpt-o3-mini-high_4.cpp,TIME_LIMIT_EXCEEDED,43,73.81%,7.710,31.4453125,0.0,10.0,8.0,0,14.0,0,11.0,0,0,0
+Colorful_Diameter_gpt-o3-mini-high_5.cpp,TIME_LIMIT_EXCEEDED,48,84.94%,7.710,19.55859375,0.0,10.0,8.0,11.0,0,0,11.0,8.0,0,0
+Colorful_Diameter_gpt-o3-mini-high_6.cpp,RUNTIME_ERROR,19,39.69%,1.160,14.95703125,0.0,0,0,0,0,0,11.0,8.0,0,0
+Colorful_Diameter_gpt-o3-mini-high_7.cpp,RUNTIME_ERROR,19,39.69%,1.210,14.953125,0.0,0,0,0,0,0,11.0,8.0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+grading-server,Qwen3-4B,RUNTIME_ERROR,0,2.67%,0.070,0.00390625
+light,Qwen3-4B,COMPILATION_ERROR,0,0.00%,0.000,0
+balance,Qwen3-4B,UNKNOWN,0,0.00%,0.000,0

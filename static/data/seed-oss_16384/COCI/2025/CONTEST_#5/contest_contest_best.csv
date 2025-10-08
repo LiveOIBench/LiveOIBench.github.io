@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+wow,seed-oss_16384,ACCEPTED,50,100.00%,0.000,0
+zid,seed-oss_16384,ACCEPTED,70,100.00%,0.120,2.48046875
+tornjevi,seed-oss_16384,ACCEPTED,90,100.00%,0.120,20.37890625
+crtez,seed-oss_16384,TIME_LIMIT_EXCEEDED,20,42.55%,2.410,3.078125
+stablo,seed-oss_16384,TIME_LIMIT_EXCEEDED,15,22.77%,4.210,182.078125

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+circlepassing_gpt-4.1_0.cpp,RUNTIME_ERROR,14,31.11%,0.090,0.00390625,0,14,0,0,0,0
+circlepassing_gpt-4.1_1.cpp,RUNTIME_ERROR,14,31.11%,0.090,0.00390625,0,14,0,0,0,0
+circlepassing_gpt-4.1_2.cpp,RUNTIME_ERROR,14,30.00%,0.080,0.00390625,0,14,0,0,0,0
+circlepassing_gpt-4.1_3.cpp,RUNTIME_ERROR,14,31.11%,0.090,1.5546875,0,14,0,0,0,0
+circlepassing_gpt-4.1_4.cpp,RUNTIME_ERROR,14,31.11%,0.090,0.00390625,0,14,0,0,0,0
+circlepassing_gpt-4.1_5.cpp,RUNTIME_ERROR,14,32.22%,0.110,0.00390625,0,14,0,0,0,0
+circlepassing_gpt-4.1_6.cpp,RUNTIME_ERROR,14,31.11%,0.090,1.5546875,0,14,0,0,0,0
+circlepassing_gpt-4.1_7.cpp,RUNTIME_ERROR,14,31.11%,0.090,0.00390625,0,14,0,0,0,0

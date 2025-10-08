@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Distinctive_Features_gpt-4.1_0.cpp,TIME_LIMIT_EXCEEDED,30,55.64%,3.330,35.83984375,0.0,10.0,7.0,13.0,0,0,0,0,0,0
+Distinctive_Features_gpt-4.1_1.cpp,TIME_LIMIT_EXCEEDED,30,53.94%,3.310,62.66015625,0.0,10.0,7.0,13.0,0,0,0,0,0,0
+Distinctive_Features_gpt-4.1_2.cpp,TIME_LIMIT_EXCEEDED,30,53.36%,3.420,49.25390625,0.0,10.0,7.0,13.0,0,0,0,0,0,0
+Distinctive_Features_gpt-4.1_3.cpp,TIME_LIMIT_EXCEEDED,30,53.36%,3.360,51.31640625,0.0,10.0,7.0,13.0,0,0,0,0,0,0
+Distinctive_Features_gpt-4.1_4.cpp,MEMORY_LIMIT_EXCEEDED,10,23.44%,0.380,558.59765625,0.0,10.0,0,0,0,0,0,0,0,0
+Distinctive_Features_gpt-4.1_5.cpp,TIME_LIMIT_EXCEEDED,30,52.19%,3.360,130.8515625,0.0,10.0,7.0,13.0,0,0,0,0,0,0
+Distinctive_Features_gpt-4.1_6.cpp,TIME_LIMIT_EXCEEDED,30,52.78%,3.320,66.82421875,0.0,10.0,7.0,13.0,0,0,0,0,0,0
+Distinctive_Features_gpt-4.1_7.cpp,TIME_LIMIT_EXCEEDED,30,55.64%,3.340,41.61328125,0.0,10.0,7.0,13.0,0,0,0,0,0,0

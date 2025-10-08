@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+Hard_problem_DeepSeek-R1-Distill-Llama-70B_0.cpp,ACCEPTED,100,100.00%,0.460,2.84375,0.0,13.0,10.0,14.0,19.0,9.0,1.0,9.0,25.0
+Hard_problem_DeepSeek-R1-Distill-Llama-70B_1.cpp,ACCEPTED,100,100.00%,0.410,3.8671875,0.0,13.0,10.0,14.0,19.0,9.0,1.0,9.0,25.0
+Hard_problem_DeepSeek-R1-Distill-Llama-70B_2.cpp,ACCEPTED,100,100.00%,0.390,9.55859375,0.0,13.0,10.0,14.0,19.0,9.0,1.0,9.0,25.0
+Hard_problem_DeepSeek-R1-Distill-Llama-70B_3.cpp,ACCEPTED,100,100.00%,0.480,3.6171875,0.0,13.0,10.0,14.0,19.0,9.0,1.0,9.0,25.0
+Hard_problem_DeepSeek-R1-Distill-Llama-70B_4.cpp,TIME_LIMIT_EXCEEDED,65,88.72%,1.150,2.84765625,0.0,13.0,10.0,14.0,19.0,9.0,0,0,0
+Hard_problem_DeepSeek-R1-Distill-Llama-70B_5.cpp,ACCEPTED,100,100.00%,0.440,5.1640625,0.0,13.0,10.0,14.0,19.0,9.0,1.0,9.0,25.0
+Hard_problem_DeepSeek-R1-Distill-Llama-70B_6.cpp,TIME_LIMIT_EXCEEDED,65,88.72%,1.130,4.39453125,0.0,13.0,10.0,14.0,19.0,9.0,0,0,0
+Hard_problem_DeepSeek-R1-Distill-Llama-70B_7.cpp,TIME_LIMIT_EXCEEDED,65,88.72%,1.130,4.39453125,0.0,13.0,10.0,14.0,19.0,9.0,0,0,0

@@ -1,0 +1,5 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+bouquet_Qwen3-14B-Non-Thinking_0.cpp,RUNTIME_ERROR,0,46.05%,0.100,3.5625,0,0,0,0,0,0
+bouquet_Qwen3-14B-Non-Thinking_2.cpp,RUNTIME_ERROR,0,46.05%,0.100,3.5625,0,0,0,0,0,0
+bouquet_Qwen3-14B-Non-Thinking_4.cpp,RUNTIME_ERROR,0,21.76%,0.100,2.7890625,0,0,0,0,0,0
+bouquet_Qwen3-14B-Non-Thinking_7.cpp,RUNTIME_ERROR,0,21.47%,0.100,3.62109375,0,0,0,0,0,0

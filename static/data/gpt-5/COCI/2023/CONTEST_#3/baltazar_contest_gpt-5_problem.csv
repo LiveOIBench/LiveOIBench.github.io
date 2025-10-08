@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+baltazar_gpt-5_0.cpp,ACCEPTED,110,100.00%,0.510,98.46484375,15,30,65
+baltazar_gpt-5_1.cpp,RUNTIME_ERROR,30,32.81%,0.320,46.01953125,0,30,0
+baltazar_gpt-5_2.cpp,RUNTIME_ERROR,30,32.81%,0.420,51.37890625,0,30,0
+baltazar_gpt-5_3.cpp,ACCEPTED,110,100.00%,0.580,108.75,15,30,65
+baltazar_gpt-5_4.cpp,RUNTIME_ERROR,0,0.00%,0.150,1.6875,0,0,0
+baltazar_gpt-5_5.cpp,ACCEPTED,110,100.00%,0.580,80.328125,15,30,65
+baltazar_gpt-5_6.cpp,RUNTIME_ERROR,45,67.19%,0.430,75.84765625,15,30,0
+baltazar_gpt-5_7.cpp,ACCEPTED,110,100.00%,0.460,89.11328125,15,30,65

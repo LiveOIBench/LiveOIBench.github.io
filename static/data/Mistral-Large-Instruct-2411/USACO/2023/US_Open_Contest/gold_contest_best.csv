@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Custodial_Cleanup,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Pareidolia,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Tree_Merging,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0

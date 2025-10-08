@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+toy,seed-oss_-1,RUNTIME_ERROR,0,52.60%,0.010,1.55078125
+stations,seed-oss_-1,TIME_LIMIT_EXCEEDED,18,52.54%,4.210,2456.8046875
+sprinklers,seed-oss_-1,RUNTIME_ERROR,9,48.31%,0.300,9.21484375

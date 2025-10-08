@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+toy_deepseek-reasoner_0.cpp,RUNTIME_ERROR,0,52.60%,0.020,1.55078125,0,0,0,0,0,0
+toy_deepseek-reasoner_1.cpp,RUNTIME_ERROR,0,52.60%,0.020,2.83984375,0,0,0,0,0,0
+toy_deepseek-reasoner_2.cpp,RUNTIME_ERROR,0,52.60%,0.050,2.94921875,0,0,0,0,0,0
+toy_deepseek-reasoner_3.cpp,RUNTIME_ERROR,0,52.60%,0.020,1.55078125,0,0,0,0,0,0
+toy_deepseek-reasoner_4.cpp,RUNTIME_ERROR,0,52.60%,0.020,2.83984375,0,0,0,0,0,0
+toy_deepseek-reasoner_5.cpp,RUNTIME_ERROR,0,52.60%,0.020,1.55078125,0,0,0,0,0,0
+toy_deepseek-reasoner_6.cpp,RUNTIME_ERROR,0,52.60%,0.020,1.66015625,0,0,0,0,0,0
+toy_deepseek-reasoner_7.cpp,RUNTIME_ERROR,0,52.60%,0.020,2.32421875,0,0,0,0,0,0

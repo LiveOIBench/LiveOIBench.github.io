@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Cowdependence,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Interstellar_Intervals,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Job_Completion,Codestral-22B-v0.1,WRONG_ANSWER,22,12.50%,0.210,4.77734375

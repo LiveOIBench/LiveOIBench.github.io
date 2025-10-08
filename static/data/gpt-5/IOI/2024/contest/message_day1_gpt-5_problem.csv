@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+message_gpt-5_0.cpp,RUNTIME_ERROR,0,6.67%,0.140,3.9609375,0,0.0,0.0
+message_gpt-5_1.cpp,RUNTIME_ERROR,0,6.67%,0.150,3.7890625,0,0.0,0.0
+message_gpt-5_2.cpp,RUNTIME_ERROR,0,6.67%,0.190,3.83203125,0,0.0,0.0
+message_gpt-5_3.cpp,RUNTIME_ERROR,0,6.67%,0.140,3.88671875,0,0.0,0.0
+message_gpt-5_4.cpp,RUNTIME_ERROR,0,6.67%,0.170,3.91796875,0,0.0,0.0
+message_gpt-5_5.cpp,RUNTIME_ERROR,0,6.67%,0.160,3.8203125,0,0.0,0.0
+message_gpt-5_6.cpp,RUNTIME_ERROR,0,6.67%,0.160,3.88671875,0,0.0,0.0
+message_gpt-5_7.cpp,RUNTIME_ERROR,0,6.67%,0.160,4.015625,0,0.0,0.0

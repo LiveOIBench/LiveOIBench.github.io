@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+minequake,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,2.96%,0.010,3.5625
+mineraldeposits,Qwen3-32B-Non-Thinking,TIME_LIMIT_EXCEEDED,0,37.27%,0.770,515.234375
+sequence,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,13.46%,0.000,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cow_Checkups,Qwen3-30B,WRONG_ANSWER,100,39.13%,1.160,73.48046875
+silver_Farmer_Johns_Favorite_Operation,Qwen3-30B,WRONG_ANSWER,22,12.50%,0.270,4.39453125
+silver_Table_Recovery,Qwen3-30B,RUNTIME_ERROR,0,6.67%,0.190,0.00390625

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_DFS_Order,seed-oss_0,RUNTIME_ERROR,0,0.00%,0.060,5.67578125
+platinum_Shock_Wave,seed-oss_0,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Watering_the_Plants,seed-oss_0,COMPILATION_ERROR,0,0.00%,0.000,0

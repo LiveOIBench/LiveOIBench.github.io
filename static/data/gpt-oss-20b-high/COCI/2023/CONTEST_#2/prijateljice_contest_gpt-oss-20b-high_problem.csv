@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+prijateljice_gpt-oss-20b-high_0.cpp,ACCEPTED,110,100.00%,0.020,7.484375,20,30,60
+prijateljice_gpt-oss-20b-high_2.cpp,ACCEPTED,110,100.00%,0.040,9.2890625,20,30,60
+prijateljice_gpt-oss-20b-high_3.cpp,ACCEPTED,110,100.00%,0.040,13.15625,20,30,60
+prijateljice_gpt-oss-20b-high_4.cpp,RUNTIME_ERROR,0,8.00%,0.000,0,0,0,0
+prijateljice_gpt-oss-20b-high_5.cpp,ACCEPTED,110,100.00%,0.030,13.671875,20,30,60
+prijateljice_gpt-oss-20b-high_6.cpp,ACCEPTED,110,100.00%,0.060,9.08203125,20,30,60
+prijateljice_gpt-oss-20b-high_7.cpp,RUNTIME_ERROR,0,0.00%,0.020,0.00390625,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Cowdependence,deepseek-chat,TIME_LIMIT_EXCEEDED,35,15.00%,2.270,4.390625
+gold_Interstellar_Intervals,deepseek-chat,TIME_LIMIT_EXCEEDED,50,26.09%,2.220,5.6953125
+gold_Job_Completion,deepseek-chat,WRONG_ANSWER,67,25.00%,0.150,6.03125

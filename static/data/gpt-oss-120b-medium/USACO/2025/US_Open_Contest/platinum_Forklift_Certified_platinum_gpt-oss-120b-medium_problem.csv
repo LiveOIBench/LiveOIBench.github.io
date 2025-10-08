@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Forklift_Certified_gpt-oss-120b-medium_0.cpp,RUNTIME_ERROR,95,29.50%,25.00%,0.300,9.1328125,0,0,0,0,23.809523809523807,23.809523809523807,23.809523809523807,0,0,23.809523809523807,0,0,0,0,0
+platinum_Forklift_Certified_gpt-oss-120b-medium_1.cpp,WRONG_ANSWER,95,29.50%,37.50%,0.890,35.37890625,0,0,0,0,23.809523809523807,23.809523809523807,23.809523809523807,0,0,23.809523809523807,0,0,0,0,0
+platinum_Forklift_Certified_gpt-oss-120b-medium_2.cpp,TIME_LIMIT_EXCEEDED,24,7.45%,18.75%,2.440,28.94921875,0,0,0,0,0,0,0,0,0,23.809523809523807,0,0,0,0,0
+platinum_Forklift_Certified_gpt-oss-120b-medium_3.cpp,TIME_LIMIT_EXCEEDED,95,29.50%,25.00%,2.430,12.74609375,0,0,0,0,23.809523809523807,23.809523809523807,23.809523809523807,0,0,23.809523809523807,0,0,0,0,0
+platinum_Forklift_Certified_gpt-oss-120b-medium_4.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.520,18.6875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Forklift_Certified_gpt-oss-120b-medium_5.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.470,13.0078125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Forklift_Certified_gpt-oss-120b-medium_6.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Forklift_Certified_gpt-oss-120b-medium_7.cpp,TIME_LIMIT_EXCEEDED,95,29.50%,37.50%,2.440,18.56640625,0,0,0,0,23.809523809523807,23.809523809523807,23.809523809523807,0,0,23.809523809523807,0,0,0,0,0

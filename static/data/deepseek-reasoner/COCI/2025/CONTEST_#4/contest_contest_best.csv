@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+sah,deepseek-reasoner,ACCEPTED,50,100.00%,0.050,0.00390625
+benzinska,deepseek-reasoner,ACCEPTED,70,100.00%,0.080,5.171875
+xor,deepseek-reasoner,UNKNOWN,0,0.00%,0.000,0
+cipele,deepseek-reasoner,RUNTIME_ERROR,27,12.90%,0.350,37.92578125
+tura,deepseek-reasoner,RUNTIME_ERROR,0,0.72%,0.040,5.33984375

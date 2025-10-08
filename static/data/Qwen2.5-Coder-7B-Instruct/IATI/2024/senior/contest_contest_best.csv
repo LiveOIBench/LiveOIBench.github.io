@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+five,Qwen2.5-Coder-7B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+game,Qwen2.5-Coder-7B-Instruct,UNKNOWN,0,0.00%,0.000,0
+lexgcd,Qwen2.5-Coder-7B-Instruct,RUNTIME_ERROR,0,4.92%,1.560,2.5
+ones,Qwen2.5-Coder-7B-Instruct,WRONG_ANSWER,3,0.00%,0.180,1.953125
+travel,Qwen2.5-Coder-7B-Instruct,RUNTIME_ERROR,0,0.00%,0.280,39.75390625

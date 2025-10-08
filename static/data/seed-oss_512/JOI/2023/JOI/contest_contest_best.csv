@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+2023-ho-t1_Stone_Arranging_2,seed-oss_512,RUNTIME_ERROR,0,34.94%,0.000,0
+2023-ho-t2_Advertisement_2,seed-oss_512,TIME_LIMIT_EXCEEDED,10,31.48%,2.410,14.703125
+2023-ho-t3_Maze,seed-oss_512,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-ho-t4_Cat_Exercise,seed-oss_512,RUNTIME_ERROR,0,0.00%,0.000,0
+2023-ho-t5_Modern_Machine,seed-oss_512,RUNTIME_ERROR,0,7.25%,0.060,14.26171875

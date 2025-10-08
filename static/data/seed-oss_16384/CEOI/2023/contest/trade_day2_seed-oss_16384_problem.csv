@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0_1,subtask_0_2,subtask_1_1,subtask_1_2,subtask_2_1,subtask_2_2,subtask_3_1,subtask_3_2,subtask_4_1,subtask_4_2,subtask_5_1,subtask_5_2
+trade_seed-oss_0.cpp,RUNTIME_ERROR,0,0.00%,0.020,7.48046875,0,0,0,0,0,0,0,0,0,0,0,0
+trade_seed-oss_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0
+trade_seed-oss_2.cpp,RUNTIME_ERROR,0,0.00%,0.010,5.16015625,0,0,0,0,0,0,0,0,0,0,0,0
+trade_seed-oss_3.cpp,RUNTIME_ERROR,0,0.00%,0.030,19.03125,0,0,0,0,0,0,0,0,0,0,0,0
+trade_seed-oss_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,8.410,121.578125,0,0,0,0,0,0,0,0,0,0,0,0
+trade_seed-oss_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0
+trade_seed-oss_6.cpp,RUNTIME_ERROR,0,0.00%,0.030,16.50390625,0,0,0,0,0,0,0,0,0,0,0,0
+trade_seed-oss_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,8.420,22.2421875,0,0,0,0,0,0,0,0,0,0,0,0

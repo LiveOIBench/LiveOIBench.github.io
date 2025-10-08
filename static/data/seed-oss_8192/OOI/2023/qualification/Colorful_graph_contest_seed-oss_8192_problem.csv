@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+Colorful_graph_seed-oss_0.cpp,TIME_LIMIT_EXCEEDED,0,14.38%,1.800,10.19921875,0.0,0,0,0,0,0,0,0,0
+Colorful_graph_seed-oss_1.cpp,ACCEPTED,100,100.00%,0.050,3.359375,0.0,10.0,9.0,15.0,16.0,14.0,13.0,12.0,11.0
+Colorful_graph_seed-oss_2.cpp,ACCEPTED,100,100.00%,0.050,3.359375,0.0,10.0,9.0,15.0,16.0,14.0,13.0,12.0,11.0
+Colorful_graph_seed-oss_3.cpp,ACCEPTED,100,100.00%,0.040,3.61328125,0.0,10.0,9.0,15.0,16.0,14.0,13.0,12.0,11.0
+Colorful_graph_seed-oss_4.cpp,TIME_LIMIT_EXCEEDED,0,14.38%,1.800,3.7734375,0.0,0,0,0,0,0,0,0,0
+Colorful_graph_seed-oss_5.cpp,TIME_LIMIT_EXCEEDED,0,14.38%,1.800,3.140625,0.0,0,0,0,0,0,0,0,0
+Colorful_graph_seed-oss_6.cpp,ACCEPTED,100,100.00%,0.050,3.359375,0.0,10.0,9.0,15.0,16.0,14.0,13.0,12.0,11.0
+Colorful_graph_seed-oss_7.cpp,ACCEPTED,100,100.00%,0.040,3.359375,0.0,10.0,9.0,15.0,16.0,14.0,13.0,12.0,11.0

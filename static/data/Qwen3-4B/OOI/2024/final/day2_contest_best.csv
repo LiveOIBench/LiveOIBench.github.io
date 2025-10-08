@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Card_Flip,Qwen3-4B,RUNTIME_ERROR,0,11.76%,0.230,30.296875
+Order_Statistics,Qwen3-4B,TIME_LIMIT_EXCEEDED,4,47.45%,4.810,4.37890625
+Best_Runner,Qwen3-4B,RUNTIME_ERROR,34,37.10%,0.050,4.91015625
+Strong_Connectivity_Strikes_Back,Qwen3-4B,ACCEPTED,100,100.00%,0.040,2.32421875

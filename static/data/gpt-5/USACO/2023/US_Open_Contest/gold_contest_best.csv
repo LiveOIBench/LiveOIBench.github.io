@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Custodial_Cleanup,gpt-5,WRONG_ANSWER,83,27.78%,0.060,5.9375
+gold_Pareidolia,gpt-5,ACCEPTED,333,100.00%,0.030,3.22265625
+gold_Tree_Merging,gpt-5,WRONG_ANSWER,0,0.00%,0.010,0.00390625

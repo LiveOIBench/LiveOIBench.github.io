@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Jump_Civilization,Qwen3-14B,TIME_LIMIT_EXCEEDED,0,9.80%,1.160,4.80078125
+Ramen,Qwen3-14B,COMPILATION_ERROR,0,0.00%,0.000,0
+Signals,Qwen3-14B,TIME_LIMIT_EXCEEDED,61,60.47%,1.330,35.5859375

@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+osobna,seed-oss_512,COMPILATION_ERROR,0,0.00%,0.000,0
+skokovi,seed-oss_512,ACCEPTED,70,100.00%,0.110,15.9921875
+hijerarhija,seed-oss_512,ACCEPTED,90,100.00%,0.130,2.58984375
+uciteljica,seed-oss_512,RUNTIME_ERROR,0,1.64%,0.020,0
+zbunjenost,seed-oss_512,RUNTIME_ERROR,0,0.00%,0.030,0.00390625

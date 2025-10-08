@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+Ultrafast_train_gpt-oss-120b-medium_0.cpp,UNKNOWN,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0
+Ultrafast_train_gpt-oss-120b-medium_1.cpp,MEMORY_LIMIT_EXCEEDED,42,42.00%,85.96%,0.390,257.48046875,0.0,17.0,13.0,12.0,0,0
+Ultrafast_train_gpt-oss-120b-medium_2.cpp,RUNTIME_ERROR,0,0.00%,13.33%,0.070,8.51171875,0,0,0,0,0,0
+Ultrafast_train_gpt-oss-120b-medium_3.cpp,RUNTIME_ERROR,42,42.00%,85.96%,0.080,14.16015625,0.0,17.0,13.0,12.0,0,0
+Ultrafast_train_gpt-oss-120b-medium_4.cpp,RUNTIME_ERROR,42,42.00%,85.96%,0.070,8.859375,0.0,17.0,13.0,12.0,0,0
+Ultrafast_train_gpt-oss-120b-medium_5.cpp,ACCEPTED,100,100.00%,100.00%,0.070,11.18359375,0.0,17.0,13.0,12.0,26.0,32.0
+Ultrafast_train_gpt-oss-120b-medium_6.cpp,RUNTIME_ERROR,42,42.00%,85.96%,0.070,9.546875,0.0,17.0,13.0,12.0,0,0
+Ultrafast_train_gpt-oss-120b-medium_7.cpp,ACCEPTED,100,100.00%,100.00%,0.080,10.6640625,0.0,17.0,13.0,12.0,26.0,32.0

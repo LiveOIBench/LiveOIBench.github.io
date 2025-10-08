@@ -1,0 +1,7 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Moorbles_seed-oss_0.cpp,WRONG_ANSWER,67,33.33%,0.110,21.66796875,0,0,0,0,0,0,0,0,33.33333333333333,33.33333333333333,0
+silver_Moorbles_seed-oss_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.530,21.421875,0,0,0,0,0,0,0,0,0,0,0
+silver_Moorbles_seed-oss_4.cpp,RUNTIME_ERROR,0,0.00%,0.090,3.6171875,0,0,0,0,0,0,0,0,0,0,0
+silver_Moorbles_seed-oss_5.cpp,RUNTIME_ERROR,0,0.00%,0.170,51.828125,0,0,0,0,0,0,0,0,0,0,0
+silver_Moorbles_seed-oss_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Moorbles_seed-oss_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0

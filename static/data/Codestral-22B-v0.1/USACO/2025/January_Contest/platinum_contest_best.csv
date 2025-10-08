@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_DFS_Order,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Shock_Wave,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Watering_the_Plants,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0

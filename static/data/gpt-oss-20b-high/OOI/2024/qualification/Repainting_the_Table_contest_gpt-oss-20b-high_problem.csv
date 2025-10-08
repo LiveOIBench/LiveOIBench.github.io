@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+Repainting_the_Table_gpt-oss-20b-high_0.cpp,ACCEPTED,100,100.00%,1.400,81.57421875,0.0,17.0,21.0,34.0,28.0
+Repainting_the_Table_gpt-oss-20b-high_1.cpp,ACCEPTED,100,100.00%,0.410,115.0390625,0.0,17.0,21.0,34.0,28.0
+Repainting_the_Table_gpt-oss-20b-high_2.cpp,ACCEPTED,100,100.00%,0.540,48.16015625,0.0,17.0,21.0,34.0,28.0
+Repainting_the_Table_gpt-oss-20b-high_3.cpp,TIME_LIMIT_EXCEEDED,72,97.89%,1.810,332.26953125,0.0,17.0,21.0,34.0,0
+Repainting_the_Table_gpt-oss-20b-high_4.cpp,ACCEPTED,100,100.00%,0.720,102.55859375,0.0,17.0,21.0,34.0,28.0
+Repainting_the_Table_gpt-oss-20b-high_5.cpp,ACCEPTED,100,100.00%,0.540,43.51953125,0.0,17.0,21.0,34.0,28.0
+Repainting_the_Table_gpt-oss-20b-high_6.cpp,ACCEPTED,100,100.00%,0.700,102.55859375,0.0,17.0,21.0,34.0,28.0
+Repainting_the_Table_gpt-oss-20b-high_7.cpp,MEMORY_LIMIT_EXCEEDED,0,47.92%,0.040,1.640625,0.0,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+2024-sp_JOI_Tour_seed-oss_0.cpp,RUNTIME_ERROR,0,0.00%,0.090,23.734375,0,0,0,0,0,0,0
+2024-sp_JOI_Tour_seed-oss_1.cpp,TIME_LIMIT_EXCEEDED,52,55.41%,3.600,37.140625,6,8,6,16,16,0,0
+2024-sp_JOI_Tour_seed-oss_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+2024-sp_JOI_Tour_seed-oss_3.cpp,RUNTIME_ERROR,0,9.74%,0.300,74.46484375,0,0,0,0,0,0,0
+2024-sp_JOI_Tour_seed-oss_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+2024-sp_JOI_Tour_seed-oss_5.cpp,RUNTIME_ERROR,0,9.74%,0.150,44.65234375,0,0,0,0,0,0,0
+2024-sp_JOI_Tour_seed-oss_6.cpp,RUNTIME_ERROR,0,0.00%,0.190,60.671875,0,0,0,0,0,0,0
+2024-sp_JOI_Tour_seed-oss_7.cpp,RUNTIME_ERROR,0,9.74%,0.130,30.1796875,0,0,0,0,0,0,0

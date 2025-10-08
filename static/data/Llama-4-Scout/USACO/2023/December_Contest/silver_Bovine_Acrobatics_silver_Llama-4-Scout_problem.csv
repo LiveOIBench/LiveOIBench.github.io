@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Bovine_Acrobatics_Llama-4-Scout_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.410,3.375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Bovine_Acrobatics_Llama-4-Scout_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.420,3.1015625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Bovine_Acrobatics_Llama-4-Scout_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.430,4.6171875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Bovine_Acrobatics_Llama-4-Scout_3.cpp,RUNTIME_ERROR,0,0.00%,0.130,4.390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Bovine_Acrobatics_Llama-4-Scout_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Bovine_Acrobatics_Llama-4-Scout_6.cpp,TIME_LIMIT_EXCEEDED,22,17.65%,2.420,3.6171875,0,0,0,0,0,0,0,0,22.22222222222222,0,0,0,0,0,0,0
+silver_Bovine_Acrobatics_Llama-4-Scout_7.cpp,RUNTIME_ERROR,0,0.00%,0.120,3.10546875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

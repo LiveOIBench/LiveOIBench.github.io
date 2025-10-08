@@ -1,0 +1,7 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+2023-sp_Security_Guard_gpt-oss-120b-high_0.cpp,RUNTIME_ERROR,0,5.95%,0.090,17.27734375,0,0,0,0,0,0,0
+2023-sp_Security_Guard_gpt-oss-120b-high_1.cpp,RUNTIME_ERROR,0,5.95%,0.130,45.375,0,0,0,0,0,0,0
+2023-sp_Security_Guard_gpt-oss-120b-high_3.cpp,RUNTIME_ERROR,50,78.68%,0.180,35.18359375,12,13,12,13,0,0,0
+2023-sp_Security_Guard_gpt-oss-120b-high_4.cpp,RUNTIME_ERROR,0,8.72%,0.080,7.48046875,0,0,0,0,0,0,0
+2023-sp_Security_Guard_gpt-oss-120b-high_5.cpp,RUNTIME_ERROR,0,0.00%,0.060,4.39453125,0,0,0,0,0,0,0
+2023-sp_Security_Guard_gpt-oss-120b-high_7.cpp,RUNTIME_ERROR,0,0.00%,0.080,18.58203125,0,0,0,0,0,0,0

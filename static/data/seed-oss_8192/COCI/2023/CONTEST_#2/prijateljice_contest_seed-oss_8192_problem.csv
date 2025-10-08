@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+prijateljice_seed-oss_0.cpp,RUNTIME_ERROR,0,2.67%,0.020,0,0,0,0
+prijateljice_seed-oss_1.cpp,RUNTIME_ERROR,0,4.00%,0.020,0,0,0,0
+prijateljice_seed-oss_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+prijateljice_seed-oss_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+prijateljice_seed-oss_4.cpp,RUNTIME_ERROR,0,13.33%,0.020,0,0,0,0
+prijateljice_seed-oss_5.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0
+prijateljice_seed-oss_6.cpp,RUNTIME_ERROR,0,4.00%,0.020,0,0,0,0
+prijateljice_seed-oss_7.cpp,ACCEPTED,110,100.00%,0.040,11.34765625,20,30,60

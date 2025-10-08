@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+j1,Mistral-Small-3.1-24B-2503,ACCEPTED,15,100.00%,0.000,0
+j2,Mistral-Small-3.1-24B-2503,ACCEPTED,15,100.00%,0.050,0.00390625
+j3,Mistral-Small-3.1-24B-2503,ACCEPTED,15,100.00%,0.090,2.328125
+j4,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,3,22.58%,0.060,1.70703125
+j5,Mistral-Small-3.1-24B-2503,ACCEPTED,15,100.00%,0.050,1.55859375

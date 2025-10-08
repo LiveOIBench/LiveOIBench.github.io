@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+bouquet,Qwen3-8B,RUNTIME_ERROR,0,46.05%,0.030,2.7890625
+infiniterace,Qwen3-8B,RUNTIME_ERROR,0,12.00%,0.020,0.00390625
+teamcoding,Qwen3-8B,RUNTIME_ERROR,12,64.86%,0.050,16.765625
+gardendecorations,Qwen3-8B,COMPILATION_ERROR,0,0.00%,0.000,0

@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+eurokod,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,50,100.00%,0.000,0
+vrsar,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,70,100.00%,0.190,6.1953125
+milano,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,110,100.00%,0.170,6.18359375
+restorani,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,0.68%,0.130,20.5859375
+cesta,DeepSeek-R1-Distill-Llama-70B,COMPILATION_ERROR,0,0.00%,0.000,0

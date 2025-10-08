@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+tornjevi_gemini-2.5-flash_0.cpp,ACCEPTED,90,100.00%,0.180,16.765625,7,11,17,29,26
+tornjevi_gemini-2.5-flash_1.cpp,MEMORY_LIMIT_EXCEEDED,64,79.63%,0.410,407.69140625,7,11,17,29,0
+tornjevi_gemini-2.5-flash_2.cpp,ACCEPTED,90,100.00%,0.170,20.6328125,7,11,17,29,26
+tornjevi_gemini-2.5-flash_3.cpp,TIME_LIMIT_EXCEEDED,61,79.63%,2.240,31.9765625,7,11,17,0,26
+tornjevi_gemini-2.5-flash_4.cpp,TIME_LIMIT_EXCEEDED,61,79.63%,2.210,100.6484375,7,11,17,0,26
+tornjevi_gemini-2.5-flash_5.cpp,ACCEPTED,90,100.00%,0.470,85.08984375,7,11,17,29,26
+tornjevi_gemini-2.5-flash_6.cpp,TIME_LIMIT_EXCEEDED,35,59.26%,2.220,21.66796875,7,11,17,0,0
+tornjevi_gemini-2.5-flash_7.cpp,TIME_LIMIT_EXCEEDED,18,68.52%,2.210,146.171875,7,11,0,0,0

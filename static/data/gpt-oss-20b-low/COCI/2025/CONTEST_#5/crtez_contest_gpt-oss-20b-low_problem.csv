@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+crtez_gpt-oss-20b-low_0.cpp,RUNTIME_ERROR,0,0.00%,0.070,0.00390625,0,0,0
+crtez_gpt-oss-20b-low_2.cpp,TIME_LIMIT_EXCEEDED,0,4.26%,2.420,2.42578125,0,0,0
+crtez_gpt-oss-20b-low_3.cpp,RUNTIME_ERROR,0,4.26%,0.020,1.484375,0,0,0
+crtez_gpt-oss-20b-low_4.cpp,TIME_LIMIT_EXCEEDED,0,8.51%,2.420,2.61328125,0,0,0
+crtez_gpt-oss-20b-low_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.410,2.54296875,0,0,0
+crtez_gpt-oss-20b-low_6.cpp,RUNTIME_ERROR,0,0.00%,1.780,1.8515625,0,0,0
+crtez_gpt-oss-20b-low_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0

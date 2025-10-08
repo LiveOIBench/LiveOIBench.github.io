@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bessies_Interview,Qwen3-8B,WRONG_ANSWER,33,9.52%,0.060,5.12890625
+silver_Painting_Fence_Posts,Qwen3-8B,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_The_Winning_Gene,Qwen3-8B,TIME_LIMIT_EXCEEDED,133,43.75%,2.410,35.84765625

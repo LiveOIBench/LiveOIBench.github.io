@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+vrsta_Llama-4-Scout_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+vrsta_Llama-4-Scout_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.220,1.74609375,0,0,0,0
+vrsta_Llama-4-Scout_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.210,1.74609375,0,0,0,0
+vrsta_Llama-4-Scout_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.220,2.37890625,0,0,0,0
+vrsta_Llama-4-Scout_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.210,1.71875,0,0,0,0
+vrsta_Llama-4-Scout_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.210,1.74609375,0,0,0,0
+vrsta_Llama-4-Scout_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.220,1.71484375,0,0,0,0
+vrsta_Llama-4-Scout_7.cpp,TIME_LIMIT_EXCEEDED,19,20.00%,1.200,2.84765625,19,0,0,0

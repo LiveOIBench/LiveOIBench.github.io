@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+dev,Qwen2.5-Coder-7B-Instruct,RUNTIME_ERROR,0,1.10%,0.030,0.00390625
+exp,Qwen2.5-Coder-7B-Instruct,RUNTIME_ERROR,0,1.34%,0.450,3.6171875
+gcd,Qwen2.5-Coder-7B-Instruct,RUNTIME_ERROR,0,1.64%,0.030,0

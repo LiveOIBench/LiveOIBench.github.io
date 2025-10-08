@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+autobus,seed-oss_1024,RUNTIME_ERROR,0,16.33%,0.030,0
+karte,seed-oss_1024,ACCEPTED,70,100.00%,0.120,0.00390625
+bojanje,seed-oss_1024,RUNTIME_ERROR,0,5.80%,0.020,0.00390625
+stablo,seed-oss_1024,COMPILATION_ERROR,0,0.00%,0.000,0
+procesor,seed-oss_1024,COMPILATION_ERROR,0,0.00%,0.000,0

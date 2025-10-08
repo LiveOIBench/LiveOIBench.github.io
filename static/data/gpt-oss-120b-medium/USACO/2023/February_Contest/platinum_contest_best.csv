@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+platinum_Hungry_Cow,gpt-oss-120b-medium,TIME_LIMIT_EXCEEDED,117,36.56%,40.91%,7.230,34.6015625
+platinum_Problem_Setting,gpt-oss-120b-medium,ACCEPTED,333,104.06%,100.00%,0.370,25.80859375
+platinum_Watching_Cowflix,gpt-oss-120b-medium,ACCEPTED,333,100.91%,100.00%,2.680,103.87890625

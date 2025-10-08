@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+osobna,Qwen2.5-Coder-7B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+skokovi,Qwen2.5-Coder-7B-Instruct,RUNTIME_ERROR,20,47.92%,0.100,2.84765625
+hijerarhija,Qwen2.5-Coder-7B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+uciteljica,Qwen2.5-Coder-7B-Instruct,RUNTIME_ERROR,0,1.64%,0.000,0
+zbunjenost,Qwen2.5-Coder-7B-Instruct,RUNTIME_ERROR,0,1.61%,0.080,0.00390625

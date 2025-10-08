@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Target_Practice_II,Qwen3-14B,WRONG_ANSWER,24,6.67%,0.450,5.97265625
+silver_Test_Tubes,Qwen3-14B,WRONG_ANSWER,17,4.76%,0.330,6.796875
+silver_Moorbles,Qwen3-14B,WRONG_ANSWER,0,8.33%,0.300,33.50390625

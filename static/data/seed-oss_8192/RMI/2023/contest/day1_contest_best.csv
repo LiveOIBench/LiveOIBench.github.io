@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Heroes,seed-oss_8192,COMPILATION_ERROR,0,0.00%,0.000,0
+Pinball,seed-oss_8192,TIME_LIMIT_EXCEEDED,9,18.75%,3.600,306.37890625
+AA_Tree,seed-oss_8192,TIME_LIMIT_EXCEEDED,53,91.18%,0.120,1.6171875

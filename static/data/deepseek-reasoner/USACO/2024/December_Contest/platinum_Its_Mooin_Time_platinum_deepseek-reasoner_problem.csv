@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Its_Mooin_Time_deepseek-reasoner_0.cpp,TIME_LIMIT_EXCEEDED,48,33.33%,3.320,13.0078125,0,23.809523809523807,0,0,0,0,0,23.809523809523807,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_deepseek-reasoner_1.cpp,RUNTIME_ERROR,24,16.67%,0.070,11.39453125,0,0,0,0,0,0,0,23.809523809523807,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_deepseek-reasoner_2.cpp,TIME_LIMIT_EXCEEDED,48,33.33%,3.330,21.96875,0,23.809523809523807,0,0,0,0,0,23.809523809523807,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_deepseek-reasoner_3.cpp,TIME_LIMIT_EXCEEDED,24,16.67%,3.350,9.73828125,0,0,0,0,0,0,0,23.809523809523807,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_deepseek-reasoner_4.cpp,RUNTIME_ERROR,24,16.67%,0.160,13.87890625,0,0,0,0,0,0,0,23.809523809523807,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_deepseek-reasoner_5.cpp,RUNTIME_ERROR,24,16.67%,0.180,28.046875,0,0,0,0,0,0,0,23.809523809523807,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_deepseek-reasoner_6.cpp,RUNTIME_ERROR,24,16.67%,0.100,13.83203125,0,0,0,0,0,0,0,23.809523809523807,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_deepseek-reasoner_7.cpp,TIME_LIMIT_EXCEEDED,24,16.67%,3.330,24.6328125,0,0,0,0,0,0,0,23.809523809523807,0,0,0,0,0,0,0

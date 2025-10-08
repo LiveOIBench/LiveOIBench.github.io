@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+tree_infection_Qwen2.5-Coder-7B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.300,25.7890625,0,0,0,0,0,0,0
+tree_infection_Qwen2.5-Coder-7B-Instruct_1.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.170,29.1796875,0,0,0,0,0,0,0
+tree_infection_Qwen2.5-Coder-7B-Instruct_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+tree_infection_Qwen2.5-Coder-7B-Instruct_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+tree_infection_Qwen2.5-Coder-7B-Instruct_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+tree_infection_Qwen2.5-Coder-7B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.280,42.8046875,0,0,0,0,0,0,0
+tree_infection_Qwen2.5-Coder-7B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.250,25.7890625,0,0,0,0,0,0,0
+tree_infection_Qwen2.5-Coder-7B-Instruct_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0

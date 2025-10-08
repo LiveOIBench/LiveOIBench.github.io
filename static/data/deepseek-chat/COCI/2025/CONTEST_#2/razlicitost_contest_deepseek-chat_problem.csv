@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+razlicitost_deepseek-chat_0.cpp,TIME_LIMIT_EXCEEDED,22,37.21%,2.240,4.39453125,0,13,9,0
+razlicitost_deepseek-chat_1.cpp,MEMORY_LIMIT_EXCEEDED,22,37.21%,0.070,4.39453125,0,13,9,0
+razlicitost_deepseek-chat_2.cpp,MEMORY_LIMIT_EXCEEDED,22,37.21%,0.090,5.94140625,0,13,9,0
+razlicitost_deepseek-chat_3.cpp,TIME_LIMIT_EXCEEDED,22,37.21%,2.240,4.39453125,0,13,9,0
+razlicitost_deepseek-chat_4.cpp,TIME_LIMIT_EXCEEDED,22,37.21%,2.250,4.91015625,0,13,9,0
+razlicitost_deepseek-chat_5.cpp,MEMORY_LIMIT_EXCEEDED,22,37.21%,0.080,5.42578125,0,13,9,0
+razlicitost_deepseek-chat_6.cpp,TIME_LIMIT_EXCEEDED,22,37.21%,2.240,4.39453125,0,13,9,0
+razlicitost_deepseek-chat_7.cpp,MEMORY_LIMIT_EXCEEDED,22,37.21%,0.080,5.42578125,0,13,9,0

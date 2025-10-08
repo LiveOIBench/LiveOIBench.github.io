@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+dirigent_seed-oss_0.cpp,RUNTIME_ERROR,0,0.00%,0.050,1.55859375,0,0,0
+dirigent_seed-oss_1.cpp,RUNTIME_ERROR,0,0.00%,0.060,1.67578125,0,0,0
+dirigent_seed-oss_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.210,1.55078125,0,0,0
+dirigent_seed-oss_4.cpp,RUNTIME_ERROR,0,0.00%,0.270,29.87890625,0,0,0
+dirigent_seed-oss_5.cpp,RUNTIME_ERROR,0,0.00%,0.120,1.55078125,0,0,0
+dirigent_seed-oss_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+dirigent_seed-oss_7.cpp,RUNTIME_ERROR,0,0.00%,0.050,1.55859375,0,0,0

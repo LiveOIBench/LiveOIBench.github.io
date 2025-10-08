@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Custodial_Cleanup,gpt-oss-120b-medium,WRONG_ANSWER,83,25.94%,27.78%,0.080,7.0078125
+gold_Pareidolia,gpt-oss-120b-medium,ACCEPTED,333,103.42%,100.00%,0.050,2.44921875
+gold_Tree_Merging,gpt-oss-120b-medium,WRONG_ANSWER,0,0.00%,0.00%,0.040,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+boi,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0
+tou,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,5.17%,0.570,74.29296875
+tow,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0

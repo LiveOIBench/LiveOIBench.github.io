@@ -1,0 +1,10 @@
+problem,model,status,score,%test passed,time,memory
+Paired_roads,deepseek-chat,RUNTIME_ERROR,0,7.44%,0.080,14.41015625
+Legs_warm-up_exercise,deepseek-chat,RUNTIME_ERROR,0,2.05%,0.050,22.8984375
+Hard_problem,deepseek-chat,ACCEPTED,100,100.00%,0.110,2.07421875
+Yet_another_queries,deepseek-chat,TIME_LIMIT_EXCEEDED,19,49.24%,1.660,9.54296875
+Lunch,deepseek-chat,RUNTIME_ERROR,16,26.80%,0.020,0
+Tournament,deepseek-chat,MEMORY_LIMIT_EXCEEDED,80,97.15%,0.040,1.6796875
+You_need_to_train_more,deepseek-chat,TIME_LIMIT_EXCEEDED,74,80.77%,1.120,9.71484375
+Colorful_graph,deepseek-chat,TIME_LIMIT_EXCEEDED,10,42.11%,1.660,7.12109375
+Space_accident,deepseek-chat,RUNTIME_ERROR,0,8.09%,0.030,0.00390625

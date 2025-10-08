@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Identity_Theft,deepseek-reasoner,RUNTIME_ERROR,50,20.00%,0.070,30.4921875
+platinum_Splitting_Haybales,deepseek-reasoner,TIME_LIMIT_EXCEEDED,17,13.64%,2.220,3.62109375
+platinum_Activating_Robots,deepseek-reasoner,RUNTIME_ERROR,200,58.33%,0.050,2.015625

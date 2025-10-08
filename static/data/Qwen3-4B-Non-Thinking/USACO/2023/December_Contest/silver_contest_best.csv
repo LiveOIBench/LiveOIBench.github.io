@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bovine_Acrobatics,Qwen3-4B-Non-Thinking,RUNTIME_ERROR,44,11.76%,0.140,5.1640625
+silver_Cycle_Correspondence,Qwen3-4B-Non-Thinking,RUNTIME_ERROR,28,13.33%,0.780,65.92578125
+silver_Target_Practice,Qwen3-4B-Non-Thinking,TIME_LIMIT_EXCEEDED,28,13.33%,2.290,9.6640625

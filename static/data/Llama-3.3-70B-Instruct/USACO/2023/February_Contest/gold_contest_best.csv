@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Equal_Sum_Subarrays,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,0,0.00%,3.310,10.8359375
+gold_Fertilizing_Pastures,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,0.00%,0.160,15.203125
+gold_Piling_Papers,Llama-3.3-70B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

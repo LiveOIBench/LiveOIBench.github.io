@@ -1,0 +1,5 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_1,subtask_2,subtask_3
+chairgame,UNKNOWN,0,0.00%,0.000,0,,0,0,0
+thinice,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0
+animeshops,ACCEPTED,100,100.00%,0.090,10.31640625,,23,16,61
+TOTAL,,100,33.33%,,,33.33%,,,

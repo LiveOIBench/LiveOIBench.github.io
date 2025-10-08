@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+pingvin_Qwen2.5-Coder-32B-Instruct_0.cpp,RUNTIME_ERROR,16,31.25%,0.080,5.67578125,0,16,0,0
+pingvin_Qwen2.5-Coder-32B-Instruct_1.cpp,RUNTIME_ERROR,16,28.12%,0.100,6.44921875,0,16,0,0
+pingvin_Qwen2.5-Coder-32B-Instruct_2.cpp,RUNTIME_ERROR,23,46.88%,0.070,2.8359375,7,16,0,0
+pingvin_Qwen2.5-Coder-32B-Instruct_3.cpp,RUNTIME_ERROR,16,31.25%,0.090,6.44921875,0,16,0,0
+pingvin_Qwen2.5-Coder-32B-Instruct_4.cpp,RUNTIME_ERROR,16,31.25%,0.080,5.67578125,0,16,0,0
+pingvin_Qwen2.5-Coder-32B-Instruct_5.cpp,RUNTIME_ERROR,16,31.25%,0.070,2.06640625,0,16,0,0
+pingvin_Qwen2.5-Coder-32B-Instruct_6.cpp,RUNTIME_ERROR,16,25.00%,0.070,6.44921875,0,16,0,0
+pingvin_Qwen2.5-Coder-32B-Instruct_7.cpp,RUNTIME_ERROR,23,46.88%,0.090,6.44921875,7,16,0,0

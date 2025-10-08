@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+candy,seed-oss_0,RUNTIME_ERROR,0,20.59%,0.000,0
+sopsug,seed-oss_0,UNKNOWN,0,0.00%,0.000,0
+guessinggame,seed-oss_0,RUNTIME_ERROR,0,0.00%,0.000,0
+carnival,seed-oss_0,RUNTIME_ERROR,0,0.00%,0.000,0

@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+autobus,deepseek-reasoner,WRONG_ANSWER,0,93.88%,0.030,0
+karte,deepseek-reasoner,ACCEPTED,70,100.00%,0.110,0.00390625
+bojanje,deepseek-reasoner,RUNTIME_ERROR,0,5.80%,0.030,1.5546875
+stablo,deepseek-reasoner,RUNTIME_ERROR,0,14.71%,0.280,81.5390625
+procesor,deepseek-reasoner,UNKNOWN,0,0.00%,0.000,0

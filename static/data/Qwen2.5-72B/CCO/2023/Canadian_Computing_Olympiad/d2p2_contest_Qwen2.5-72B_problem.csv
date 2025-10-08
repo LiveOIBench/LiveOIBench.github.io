@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+d2p2_Qwen2.5-72B_0.cpp,RUNTIME_ERROR,0,0.00%,0.090,31.50390625,0,0,0,0,0,0
+d2p2_Qwen2.5-72B_1.cpp,RUNTIME_ERROR,0,0.00%,0.130,20.71484375,0,0,0,0,0,0
+d2p2_Qwen2.5-72B_2.cpp,TIME_LIMIT_EXCEEDED,0,7.03%,2.210,25.75,0,0,0,0,0,0
+d2p2_Qwen2.5-72B_3.cpp,RUNTIME_ERROR,0,0.00%,0.250,50.796875,0,0,0,0,0,0
+d2p2_Qwen2.5-72B_4.cpp,RUNTIME_ERROR,0,0.00%,0.240,264.0078125,0,0,0,0,0,0
+d2p2_Qwen2.5-72B_5.cpp,RUNTIME_ERROR,0,0.00%,0.120,19.34765625,0,0,0,0,0,0
+d2p2_Qwen2.5-72B_6.cpp,TIME_LIMIT_EXCEEDED,0,2.34%,2.220,13.26953125,0,0,0,0,0,0
+d2p2_Qwen2.5-72B_7.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0

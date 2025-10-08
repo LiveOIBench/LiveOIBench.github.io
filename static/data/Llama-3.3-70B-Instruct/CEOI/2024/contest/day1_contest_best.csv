@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+covid,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,0.00%,0.040,1.4765625
+battle,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,12.50%,0.170,26.55859375
+editor,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,11.29%,0.240,4.65234375

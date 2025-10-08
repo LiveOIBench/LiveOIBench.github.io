@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+grading-server,Qwen2.5-72B,RUNTIME_ERROR,0,4.00%,0.120,9.03515625
+light,Qwen2.5-72B,RUNTIME_ERROR,0,0.74%,0.030,1.4765625
+balance,Qwen2.5-72B,RUNTIME_ERROR,0,0.00%,0.140,6.453125

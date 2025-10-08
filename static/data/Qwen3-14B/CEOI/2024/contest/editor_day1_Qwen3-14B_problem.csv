@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+editor_Qwen3-14B_0.cpp,RUNTIME_ERROR,0,0.00%,0.210,18.56640625,0,0,0,0,0,0
+editor_Qwen3-14B_1.cpp,RUNTIME_ERROR,0,16.13%,0.170,152.30078125,0,0,0,0,0,0
+editor_Qwen3-14B_2.cpp,RUNTIME_ERROR,0,1.61%,0.230,14.703125,0,0,0,0,0,0
+editor_Qwen3-14B_3.cpp,RUNTIME_ERROR,0,14.52%,0.320,159.6328125,0,0,0,0,0,0
+editor_Qwen3-14B_4.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.260,50.5390625,0,0,0,0,0,0
+editor_Qwen3-14B_5.cpp,RUNTIME_ERROR,0,12.90%,0.270,4.65234375,0,0,0,0,0,0
+editor_Qwen3-14B_6.cpp,RUNTIME_ERROR,0,1.61%,0.090,14.703125,0,0,0,0,0,0
+editor_Qwen3-14B_7.cpp,RUNTIME_ERROR,0,1.61%,0.090,14.703125,0,0,0,0,0,0

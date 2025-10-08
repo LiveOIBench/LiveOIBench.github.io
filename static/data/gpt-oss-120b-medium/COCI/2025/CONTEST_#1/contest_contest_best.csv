@@ -1,0 +1,6 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+osobna,gpt-oss-120b-medium,ACCEPTED,50,100.00%,100.00%,0.000,0
+skokovi,gpt-oss-120b-medium,ACCEPTED,70,100.00%,100.00%,0.090,12.8984375
+hijerarhija,gpt-oss-120b-medium,ACCEPTED,90,100.00%,100.00%,0.220,19.859375
+uciteljica,gpt-oss-120b-medium,RUNTIME_ERROR,0,0.00%,3.28%,0.030,3.98046875
+zbunjenost,gpt-oss-120b-medium,ACCEPTED,120,100.00%,100.00%,0.140,32.74609375

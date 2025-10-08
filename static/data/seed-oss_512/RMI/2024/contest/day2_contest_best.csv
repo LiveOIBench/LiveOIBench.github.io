@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Jump_Civilization,seed-oss_512,COMPILATION_ERROR,0,0.00%,0.000,0
+Ramen,seed-oss_512,COMPILATION_ERROR,0,0.00%,0.000,0
+Signals,seed-oss_512,ACCEPTED,100,100.00%,0.200,35.77734375

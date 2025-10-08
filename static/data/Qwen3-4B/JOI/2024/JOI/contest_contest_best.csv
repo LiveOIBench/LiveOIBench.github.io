@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+2024-ho-t1_Room_Temperature,Qwen3-4B,RUNTIME_ERROR,0,3.92%,0.000,0
+2024-ho-t2_Construction_Project_2,Qwen3-4B,RUNTIME_ERROR,8,31.48%,0.060,16.39453125
+2024-ho-t3_Marathon_Race_2,Qwen3-4B,RUNTIME_ERROR,7,58.82%,0.020,0
+2024-ho-t4_Gift_Exchange,Qwen3-4B,COMPILATION_ERROR,0,0.00%,0.000,0
+2024-ho-t5_Road_Service_2,Qwen3-4B,COMPILATION_ERROR,0,0.00%,0.000,0

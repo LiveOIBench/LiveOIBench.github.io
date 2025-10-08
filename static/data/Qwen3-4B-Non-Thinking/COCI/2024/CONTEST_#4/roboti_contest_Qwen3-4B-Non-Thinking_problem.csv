@@ -1,0 +1,7 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+roboti_Qwen3-4B-Non-Thinking_0.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,1.700,559.15234375,0,0,0,0
+roboti_Qwen3-4B-Non-Thinking_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+roboti_Qwen3-4B-Non-Thinking_4.cpp,TIME_LIMIT_EXCEEDED,0,2.27%,2.220,251.375,0,0,0,0
+roboti_Qwen3-4B-Non-Thinking_5.cpp,TIME_LIMIT_EXCEEDED,0,9.09%,2.210,560.23046875,0,0,0,0
+roboti_Qwen3-4B-Non-Thinking_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.230,7.48046875,0,0,0,0
+roboti_Qwen3-4B-Non-Thinking_7.cpp,TIME_LIMIT_EXCEEDED,0,9.09%,2.240,25.78515625,0,0,0,0

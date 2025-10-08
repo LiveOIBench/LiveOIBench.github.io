@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Median_Heap,Qwen3-4B,WRONG_ANSWER,0,0.00%,0.210,2.90625
+gold_Reachable_Pairs,Qwen3-4B,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Photo_Op,Qwen3-4B,COMPILATION_ERROR,0,0.00%,0.000,0

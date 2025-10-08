@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+teleporters,Qwen2.5-72B,TIME_LIMIT_EXCEEDED,5,16.42%,1.160,2.22265625
+tree_search,Qwen2.5-72B,RUNTIME_ERROR,0,20.00%,0.160,16.53515625
+opening_offices,Qwen2.5-72B,RUNTIME_ERROR,0,1.64%,0.200,87.15234375

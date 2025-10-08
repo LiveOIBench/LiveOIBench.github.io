@@ -1,0 +1,7 @@
+problem,subtask_0_1,subtask_0_2,subtask_0_3,subtask_1_1,subtask_1_2,subtask_2_1,subtask_2_2,subtask_2_3,subtask_3_1,subtask_3_2,subtask_3_3,subtask_4_1,subtask_4_2,subtask_4_3,subtask_5_1,subtask_5_2,subtask_6_1,subtask_7_1
+grading-server,1,1,1,0,-1,0,-1,-1,1,-1,-1,0,-1,-1,0,-1,0,0
+light,1,-1,-1,1,-1,0,-1,-1,0,-1,-1,0,-1,-1,0,-1,0,0
+balance,1,-1,-1,1,-1,1,1,1,1,1,1,1,1,1,-1,-1,-1,-1
+trade,1,1,-1,1,1,1,1,-1,1,1,-1,1,1,-1,0,0,-1,-1
+incursion,1,-1,-1,0,-1,0,-1,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+avoid,1,-1,-1,1,-1,1,-1,-1,0,-1,-1,0,-1,-1,-1,-1,-1,-1

@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Median_Heap,gpt-oss-120b-medium,ACCEPTED,333,100.91%,100.00%,0.590,45.89453125
+gold_Reachable_Pairs,gpt-oss-120b-medium,WRONG_ANSWER,50,15.62%,26.09%,0.180,17.1953125
+gold_Photo_Op,gpt-oss-120b-medium,RUNTIME_ERROR,0,0.00%,0.00%,0.100,6.97265625

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+teleporters,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,5,16.42%,1.150,8.96484375
+tree_search,DeepSeek-R1-Distill-Llama-70B,COMPILATION_ERROR,0,0.00%,0.000,0
+opening_offices,DeepSeek-R1-Distill-Llama-70B,COMPILATION_ERROR,0,0.00%,0.000,0

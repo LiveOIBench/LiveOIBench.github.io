@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+stablo_seed-oss_0.cpp,RUNTIME_ERROR,21,38.24%,0.570,98.75,21,0,0,0
+stablo_seed-oss_1.cpp,RUNTIME_ERROR,0,14.71%,0.700,89.47265625,0,0,0,0
+stablo_seed-oss_2.cpp,ACCEPTED,120,100.00%,0.550,84.5546875,21,37,22,40
+stablo_seed-oss_3.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0
+stablo_seed-oss_4.cpp,RUNTIME_ERROR,0,14.71%,0.280,49.25,0,0,0,0
+stablo_seed-oss_5.cpp,RUNTIME_ERROR,0,0.00%,0.020,12.8984375,0,0,0,0
+stablo_seed-oss_6.cpp,ACCEPTED,120,100.00%,0.770,85.6015625,21,37,22,40
+stablo_seed-oss_7.cpp,RUNTIME_ERROR,0,14.71%,0.610,91.18359375,0,0,0,0

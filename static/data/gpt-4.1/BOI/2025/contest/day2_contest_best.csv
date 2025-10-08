@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+dev,gpt-4.1,RUNTIME_ERROR,0,1.10%,0.030,1.55859375
+exp,gpt-4.1,TIME_LIMIT_EXCEEDED,14,22.82%,1.110,11.7421875
+gcd,gpt-4.1,RUNTIME_ERROR,17,26.23%,0.030,0.00390625

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+mosaic_Qwen2.5-Coder-14B-Instruct_0.cpp,MEMORY_LIMIT_EXCEEDED,0,22.50%,1.100,2243.5,0,0,0,0,0,0,0,0,0
+mosaic_Qwen2.5-Coder-14B-Instruct_1.cpp,MEMORY_LIMIT_EXCEEDED,0,8.33%,1.050,2177.5,0,0,0,0,0,0,0,0,0
+mosaic_Qwen2.5-Coder-14B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,12,57.66%,1.110,2242.9765625,0,5,7,0,0,0,0,0,0
+mosaic_Qwen2.5-Coder-14B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,12,57.66%,1.110,2246.59375,0,5,7,0,0,0,0,0,0
+mosaic_Qwen2.5-Coder-14B-Instruct_4.cpp,MEMORY_LIMIT_EXCEEDED,0,8.33%,1.090,2224.421875,0,0,0,0,0,0,0,0,0
+mosaic_Qwen2.5-Coder-14B-Instruct_5.cpp,MEMORY_LIMIT_EXCEEDED,22,64.86%,1.070,2244.015625,0,5,7,0,10,0,0,0,0
+mosaic_Qwen2.5-Coder-14B-Instruct_6.cpp,MEMORY_LIMIT_EXCEEDED,0,8.33%,1.100,2234.734375,0,0,0,0,0,0,0,0,0
+mosaic_Qwen2.5-Coder-14B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,0,8.33%,1.110,2244.7890625,0,0,0,0,0,0,0,0,0

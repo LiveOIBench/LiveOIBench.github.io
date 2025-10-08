@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Jump_Civilization,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+Ramen,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+Signals,Llama-3.1-8B-Instruct,RUNTIME_ERROR,39,73.08%,0.250,7.27734375

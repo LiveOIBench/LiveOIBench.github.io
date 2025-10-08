@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+tiles_gpt-5_0.cpp,RUNTIME_ERROR,0,1.33%,0.020,4.3359375,0,0,0,0,0,0,0
+tiles_gpt-5_1.cpp,MEMORY_LIMIT_EXCEEDED,13,36.42%,0.120,20.796875,4,9,0,0,0,0,0
+tiles_gpt-5_2.cpp,RUNTIME_ERROR,4,12.26%,0.050,4.39453125,4,0,0,0,0,0,0
+tiles_gpt-5_3.cpp,RUNTIME_ERROR,4,16.03%,0.050,5.4296875,4,0,0,0,0,0,0
+tiles_gpt-5_4.cpp,RUNTIME_ERROR,13,41.24%,0.070,11.609375,4,9,0,0,0,0,0
+tiles_gpt-5_5.cpp,RUNTIME_ERROR,24,83.51%,0.150,22.52734375,4,9,11,0,0,0,0
+tiles_gpt-5_6.cpp,RUNTIME_ERROR,4,12.26%,0.060,4.39453125,4,0,0,0,0,0,0
+tiles_gpt-5_7.cpp,RUNTIME_ERROR,4,16.03%,0.070,7.69140625,4,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_21,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Draw_Polygon_Lines_Llama-3.3-70B-Instruct_0.cpp,MEMORY_LIMIT_EXCEEDED,27,36.41%,0.470,561.76171875,0,0,4.0,3.0,3.0,3.0,3.0,0,0,3.0,0,0,0,0,0,0,0,0,0,0,4.0,4.0
+Draw_Polygon_Lines_Llama-3.3-70B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,36,55.60%,2.320,3.66796875,0,0,4.0,3.0,3.0,3.0,3.0,2.0,0,3.0,0,0,0,0,0,0,0,0,0,7.0,4.0,4.0
+Draw_Polygon_Lines_Llama-3.3-70B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,18,14.74%,2.300,560.6015625,0,0,4.0,3.0,0,0,0,0,0,3.0,0,0,0,0,0,0,0,0,0,0,4.0,4.0
+Draw_Polygon_Lines_Llama-3.3-70B-Instruct_3.cpp,MEMORY_LIMIT_EXCEEDED,18,14.74%,0.560,562.0234375,0,0,4.0,3.0,0,0,0,0,0,3.0,0,0,0,0,0,0,0,0,0,0,4.0,4.0
+Draw_Polygon_Lines_Llama-3.3-70B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,36,55.60%,2.330,2.66015625,0,0,4.0,3.0,3.0,3.0,3.0,2.0,0,3.0,0,0,0,0,0,0,0,0,0,7.0,4.0,4.0
+Draw_Polygon_Lines_Llama-3.3-70B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,27,36.41%,2.210,3.69921875,0,0,4.0,3.0,3.0,3.0,3.0,0,0,3.0,0,0,0,0,0,0,0,0,0,0,4.0,4.0
+Draw_Polygon_Lines_Llama-3.3-70B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.250,2.84375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Draw_Polygon_Lines_Llama-3.3-70B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,36,55.60%,2.210,2.35546875,0,0,4.0,3.0,3.0,3.0,3.0,2.0,0,3.0,0,0,0,0,0,0,0,0,0,7.0,4.0,4.0

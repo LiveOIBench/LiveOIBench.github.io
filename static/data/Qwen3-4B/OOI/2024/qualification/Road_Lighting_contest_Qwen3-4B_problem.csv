@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+Road_Lighting_Qwen3-4B_0.cpp,RUNTIME_ERROR,0,0.00%,0.200,8.140625,0,0,0,0,0,0,0,0
+Road_Lighting_Qwen3-4B_1.cpp,RUNTIME_ERROR,10,18.56%,0.220,23.7734375,0,0,0,10.0,0,0,0,0
+Road_Lighting_Qwen3-4B_2.cpp,RUNTIME_ERROR,0,0.00%,0.200,1.55078125,0,0,0,0,0,0,0,0
+Road_Lighting_Qwen3-4B_3.cpp,RUNTIME_ERROR,0,7.53%,0.230,8.14453125,0.0,0,0,0,0,0,0,0
+Road_Lighting_Qwen3-4B_4.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.750,602.80859375,0,0,0,0,0,0,0,0
+Road_Lighting_Qwen3-4B_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.410,524.69921875,0,0,0,0,0,0,0,0
+Road_Lighting_Qwen3-4B_6.cpp,RUNTIME_ERROR,0,0.00%,0.220,1.55078125,0,0,0,0,0,0,0,0
+Road_Lighting_Qwen3-4B_7.cpp,RUNTIME_ERROR,0,0.00%,0.210,8.13671875,0,0,0,0,0,0,0,0

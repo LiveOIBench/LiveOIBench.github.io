@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+trains_gemini-2.5-pro_0.cpp,ACCEPTED,100,100.00%,0.380,32.80859375,8,13,16,34,29
+trains_gemini-2.5-pro_1.cpp,ACCEPTED,100,100.00%,0.180,127.62890625,8,13,16,34,29
+trains_gemini-2.5-pro_2.cpp,ACCEPTED,100,100.00%,0.190,124.76171875,8,13,16,34,29
+trains_gemini-2.5-pro_3.cpp,ACCEPTED,100,100.00%,0.170,124.015625,8,13,16,34,29
+trains_gemini-2.5-pro_4.cpp,ACCEPTED,100,100.00%,0.890,235.08203125,8,13,16,34,29
+trains_gemini-2.5-pro_5.cpp,ACCEPTED,100,100.00%,0.240,245.7265625,8,13,16,34,29
+trains_gemini-2.5-pro_6.cpp,ACCEPTED,100,100.00%,0.530,118.4609375,8,13,16,34,29
+trains_gemini-2.5-pro_7.cpp,ACCEPTED,100,100.00%,0.190,8.7734375,8,13,16,34,29

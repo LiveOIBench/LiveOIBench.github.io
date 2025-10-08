@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+minequake_seed-oss_0.cpp,RUNTIME_ERROR,0,2.96%,0.000,0,0,0,0,0,0,0
+minequake_seed-oss_1.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+minequake_seed-oss_2.cpp,RUNTIME_ERROR,0,5.88%,0.010,3.765625,0,0,0,0,0,0
+minequake_seed-oss_3.cpp,ACCEPTED,100,100.00%,0.020,10.0625,0,18,19,20,21,22
+minequake_seed-oss_4.cpp,ACCEPTED,100,100.00%,0.030,13.6484375,0,18,19,20,21,22
+minequake_seed-oss_5.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+minequake_seed-oss_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+minequake_seed-oss_7.cpp,RUNTIME_ERROR,0,2.96%,0.000,0,0,0,0,0,0,0

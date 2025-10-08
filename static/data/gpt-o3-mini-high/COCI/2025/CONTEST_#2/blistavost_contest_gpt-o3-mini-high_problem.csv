@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+blistavost_gpt-o3-mini-high_0.cpp,RUNTIME_ERROR,0,18.03%,0.120,123.75,0,0,0,0
+blistavost_gpt-o3-mini-high_1.cpp,RUNTIME_ERROR,45,49.18%,0.110,1.94140625,0,25,0,20
+blistavost_gpt-o3-mini-high_2.cpp,RUNTIME_ERROR,100,90.16%,0.040,2.09375,0,25,55,20
+blistavost_gpt-o3-mini-high_3.cpp,ACCEPTED,120,100.00%,0.200,2.03125,20,25,55,20
+blistavost_gpt-o3-mini-high_4.cpp,RUNTIME_ERROR,100,90.16%,0.030,2.484375,0,25,55,20
+blistavost_gpt-o3-mini-high_5.cpp,ACCEPTED,120,100.00%,0.160,1.8125,20,25,55,20
+blistavost_gpt-o3-mini-high_6.cpp,RUNTIME_ERROR,45,59.02%,0.040,2.06640625,0,25,0,20
+blistavost_gpt-o3-mini-high_7.cpp,RUNTIME_ERROR,45,59.02%,0.030,1.5546875,0,25,0,20

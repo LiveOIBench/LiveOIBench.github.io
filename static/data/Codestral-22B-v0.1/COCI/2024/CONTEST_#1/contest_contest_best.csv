@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+sudoku,Codestral-22B-v0.1,RUNTIME_ERROR,0,45.71%,0.000,0
+labirint,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+an2dl,Codestral-22B-v0.1,RUNTIME_ERROR,0,4.17%,0.430,73.1171875
+kocke,Codestral-22B-v0.1,RUNTIME_ERROR,0,3.33%,0.070,0.00390625
+mostovi,Codestral-22B-v0.1,RUNTIME_ERROR,0,0.00%,0.000,0

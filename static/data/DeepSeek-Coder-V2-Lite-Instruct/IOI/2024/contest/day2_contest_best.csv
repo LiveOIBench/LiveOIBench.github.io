@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+hieroglyphs,DeepSeek-Coder-V2-Lite-Instruct,MEMORY_LIMIT_EXCEEDED,0,4.82%,0.960,2252.265625
+sphinx,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,3.26%,0.040,3.890625
+mosaic,DeepSeek-Coder-V2-Lite-Instruct,MEMORY_LIMIT_EXCEEDED,22,64.86%,0.990,2242.7265625

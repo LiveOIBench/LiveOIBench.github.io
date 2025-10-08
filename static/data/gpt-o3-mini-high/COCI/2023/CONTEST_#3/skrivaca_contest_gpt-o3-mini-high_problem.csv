@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+skrivaca_gpt-o3-mini-high_0.cpp,ACCEPTED,110,100.00%,0.880,112.56640625,15,25,30,40
+skrivaca_gpt-o3-mini-high_1.cpp,ACCEPTED,110,100.00%,0.850,116.17578125,15,25,30,40
+skrivaca_gpt-o3-mini-high_2.cpp,RUNTIME_ERROR,0,0.00%,0.230,15.4765625,0,0,0,0
+skrivaca_gpt-o3-mini-high_3.cpp,RUNTIME_ERROR,30,23.40%,0.550,80.4765625,0,0,30,0
+skrivaca_gpt-o3-mini-high_4.cpp,ACCEPTED,110,100.00%,0.370,53.30859375,15,25,30,40
+skrivaca_gpt-o3-mini-high_5.cpp,ACCEPTED,110,100.00%,0.950,105.60546875,15,25,30,40
+skrivaca_gpt-o3-mini-high_6.cpp,ACCEPTED,110,100.00%,1.310,108.4453125,15,25,30,40
+skrivaca_gpt-o3-mini-high_7.cpp,RUNTIME_ERROR,25,44.68%,0.820,116.94921875,0,25,0,0

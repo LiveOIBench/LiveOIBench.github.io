@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+sudoku,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,45.71%,0.000,0
+labirint,Qwen2.5-Coder-32B-Instruct,ACCEPTED,70,100.00%,1.070,2.79296875
+an2dl,Qwen2.5-Coder-32B-Instruct,ACCEPTED,110,100.00%,1.100,99.0078125
+kocke,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,13.33%,0.000,0
+mostovi,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,0.00%,0.080,6.5078125

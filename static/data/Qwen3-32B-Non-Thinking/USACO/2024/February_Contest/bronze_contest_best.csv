@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Palindrome_Game,Qwen3-32B-Non-Thinking,ACCEPTED,333,100.00%,0.050,1.59375
+bronze_Milk_Exchange,Qwen3-32B-Non-Thinking,MEMORY_LIMIT_EXCEEDED,77,31.25%,0.380,279.3828125
+bronze_Maximizing_Productivity,Qwen3-32B-Non-Thinking,ACCEPTED,333,100.00%,0.130,3.62109375

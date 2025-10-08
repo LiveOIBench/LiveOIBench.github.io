@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Card_Flip_seed-oss_0.cpp,RUNTIME_ERROR,0,9.00%,0.100,12.328125,0,0,0,0,0,0,0,0,0,0
+Card_Flip_seed-oss_1.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0
+Card_Flip_seed-oss_2.cpp,RUNTIME_ERROR,10,27.03%,0.150,6.97265625,0.0,0,0,0,10.0,0,0,0,0,0
+Card_Flip_seed-oss_3.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0
+Card_Flip_seed-oss_4.cpp,RUNTIME_ERROR,0,14.29%,0.120,20.89453125,0.0,0,0,0,0,0,0,0,0,0
+Card_Flip_seed-oss_5.cpp,RUNTIME_ERROR,0,5.10%,0.120,28.11328125,0,0,0,0,0,0,0,0,0,0
+Card_Flip_seed-oss_6.cpp,RUNTIME_ERROR,0,9.28%,0.120,12.90234375,0,0,0,0,0,0,0,0,0,0
+Card_Flip_seed-oss_7.cpp,RUNTIME_ERROR,0,9.28%,0.090,6.97265625,0,0,0,0,0,0,0,0,0,0

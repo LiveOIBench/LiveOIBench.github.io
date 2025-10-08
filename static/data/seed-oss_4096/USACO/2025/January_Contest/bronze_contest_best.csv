@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Astral_Superposition,seed-oss_4096,RUNTIME_ERROR,33,16.67%,0.080,2.73828125
+bronze_Its_Mooin_Time_II,seed-oss_4096,ACCEPTED,333,100.00%,0.170,49.51171875
+bronze_Cow_Checkups,seed-oss_4096,WRONG_ANSWER,0,15.38%,0.100,1.55859375

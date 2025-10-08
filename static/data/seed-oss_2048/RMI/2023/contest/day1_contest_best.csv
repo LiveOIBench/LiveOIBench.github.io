@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Heroes,seed-oss_2048,COMPILATION_ERROR,0,0.00%,0.000,0
+Pinball,seed-oss_2048,COMPILATION_ERROR,0,0.00%,0.000,0
+AA_Tree,seed-oss_2048,COMPILATION_ERROR,0,0.00%,0.000,0

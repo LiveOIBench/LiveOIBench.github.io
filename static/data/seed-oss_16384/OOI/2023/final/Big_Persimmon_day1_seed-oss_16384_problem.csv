@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Big_Persimmon_seed-oss_0.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0
+Big_Persimmon_seed-oss_1.cpp,RUNTIME_ERROR,0,13.33%,0.450,74.34375,0,0,0,0,0,0,0
+Big_Persimmon_seed-oss_2.cpp,TIME_LIMIT_EXCEEDED,10,27.69%,2.400,110.3515625,0,10.0,0,0,0,0,0
+Big_Persimmon_seed-oss_3.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0
+Big_Persimmon_seed-oss_4.cpp,RUNTIME_ERROR,0,6.90%,0.330,225.33203125,0,0,0,0,0,0,0
+Big_Persimmon_seed-oss_5.cpp,MEMORY_LIMIT_EXCEEDED,29,51.35%,0.890,1227.96875,0.0,10.0,0,19.0,0,0,0
+Big_Persimmon_seed-oss_6.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0
+Big_Persimmon_seed-oss_7.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0

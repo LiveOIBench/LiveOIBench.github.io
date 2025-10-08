@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Cowntact_Tracing_Qwen3-8B_0.cpp,RUNTIME_ERROR,0,0.00%,0.150,8.47265625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Cowntact_Tracing_Qwen3-8B_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.410,9.0390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Cowntact_Tracing_Qwen3-8B_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.420,8.76171875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Cowntact_Tracing_Qwen3-8B_3.cpp,WRONG_ANSWER,0,13.04%,0.150,9.52734375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Cowntact_Tracing_Qwen3-8B_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.430,8.5703125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Cowntact_Tracing_Qwen3-8B_5.cpp,TIME_LIMIT_EXCEEDED,0,8.70%,2.420,8.1484375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Cowntact_Tracing_Qwen3-8B_6.cpp,RUNTIME_ERROR,0,0.00%,0.060,7.78125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Cowntact_Tracing_Qwen3-8B_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.420,8.89453125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

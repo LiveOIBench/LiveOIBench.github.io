@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Tractor_Paths,QwQ-32B,TIME_LIMIT_EXCEEDED,0,6.25%,4.470,4.5390625
+platinum_Mana_Collection,QwQ-32B,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Subtree_Activation,QwQ-32B,WRONG_ANSWER,0,4.76%,0.000,0

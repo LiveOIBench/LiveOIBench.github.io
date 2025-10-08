@@ -1,0 +1,7 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+tolls_Llama-3.1-8B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.310,12.2578125,0,0,0,0,0,0,0,0
+tolls_Llama-3.1-8B-Instruct_1.cpp,RUNTIME_ERROR,0,0.00%,0.130,6.5625,0,0,0,0,0,0,0,0
+tolls_Llama-3.1-8B-Instruct_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+tolls_Llama-3.1-8B-Instruct_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+tolls_Llama-3.1-8B-Instruct_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+tolls_Llama-3.1-8B-Instruct_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0

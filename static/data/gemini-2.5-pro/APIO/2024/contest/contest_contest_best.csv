@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+show,gemini-2.5-pro,COMPILATION_ERROR,0,0.00%,0.000,0
+september,gemini-2.5-pro,ACCEPTED,100,100.00%,0.220,11.33984375
+train,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,5,28.57%,1.110,56.6875

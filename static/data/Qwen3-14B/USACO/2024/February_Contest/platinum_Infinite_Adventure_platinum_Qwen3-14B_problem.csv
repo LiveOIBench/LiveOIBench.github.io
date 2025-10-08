@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Infinite_Adventure_Qwen3-14B_0.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.120,2.6484375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Infinite_Adventure_Qwen3-14B_1.cpp,TIME_LIMIT_EXCEEDED,62,22.22%,2.300,2.84375,0,20.833333333333332,20.833333333333332,0,0,0,0,0,0,0,0,0,0,0,0,0,20.833333333333332
+platinum_Infinite_Adventure_Qwen3-14B_2.cpp,TIME_LIMIT_EXCEEDED,21,11.11%,2.490,2.84765625,0,20.833333333333332,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Infinite_Adventure_Qwen3-14B_3.cpp,WRONG_ANSWER,62,22.22%,0.460,2.84375,0,20.833333333333332,20.833333333333332,0,0,0,0,0,0,0,0,0,0,0,0,0,20.833333333333332
+platinum_Infinite_Adventure_Qwen3-14B_4.cpp,RUNTIME_ERROR,42,11.11%,0.120,2.83984375,0,0,20.833333333333332,0,0,0,0,0,0,0,0,0,0,0,0,0,20.833333333333332
+platinum_Infinite_Adventure_Qwen3-14B_5.cpp,TIME_LIMIT_EXCEEDED,62,22.22%,2.340,2.84375,0,20.833333333333332,20.833333333333332,0,0,0,0,0,0,0,0,0,0,0,0,0,20.833333333333332
+platinum_Infinite_Adventure_Qwen3-14B_6.cpp,TIME_LIMIT_EXCEEDED,21,11.11%,2.340,3.05859375,0,20.833333333333332,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Infinite_Adventure_Qwen3-14B_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.120,2.6484375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

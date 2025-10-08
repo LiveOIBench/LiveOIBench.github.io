@@ -1,0 +1,6 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+minequake_gpt-oss-20b-high_1.cpp,ACCEPTED,100,100.00%,0.050,35.58203125,0,18,19,20,21,22
+minequake_gpt-oss-20b-high_2.cpp,ACCEPTED,100,100.00%,0.040,8.515625,0,18,19,20,21,22
+minequake_gpt-oss-20b-high_3.cpp,ACCEPTED,100,100.00%,0.070,15.01171875,0,18,19,20,21,22
+minequake_gpt-oss-20b-high_5.cpp,ACCEPTED,100,100.00%,0.060,15.3515625,0,18,19,20,21,22
+minequake_gpt-oss-20b-high_6.cpp,ACCEPTED,100,100.00%,0.070,21.234375,0,18,19,20,21,22

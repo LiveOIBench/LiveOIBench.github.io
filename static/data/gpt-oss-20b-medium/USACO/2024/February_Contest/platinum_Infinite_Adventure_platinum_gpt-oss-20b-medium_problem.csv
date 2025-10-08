@@ -1,0 +1,6 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Infinite_Adventure_gpt-oss-20b-medium_1.cpp,TIME_LIMIT_EXCEEDED,146,50.00%,2.420,544.25,0,20.833333333333332,20.833333333333332,0,0,0,0,0,0,20.833333333333332,20.833333333333332,20.833333333333332,0,20.833333333333332,0,0,20.833333333333332
+platinum_Infinite_Adventure_gpt-oss-20b-medium_4.cpp,RUNTIME_ERROR,83,22.22%,0.070,27.2109375,0,0,20.833333333333332,0,0,0,0,0,0,0,0,0,0,0,20.833333333333332,20.833333333333332,20.833333333333332
+platinum_Infinite_Adventure_gpt-oss-20b-medium_5.cpp,RUNTIME_ERROR,83,22.22%,0.070,25.7734375,0,0,20.833333333333332,0,0,0,0,0,0,0,0,0,0,0,20.833333333333332,20.833333333333332,20.833333333333332
+platinum_Infinite_Adventure_gpt-oss-20b-medium_6.cpp,RUNTIME_ERROR,83,22.22%,0.070,28.56640625,0,0,20.833333333333332,0,0,0,0,0,0,0,0,0,0,0,20.833333333333332,20.833333333333332,20.833333333333332
+platinum_Infinite_Adventure_gpt-oss-20b-medium_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.420,4.11328125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+fire,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,44.64%,0.060,2.84765625
+tiles,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,1.33%,0.030,2.7890625
+wall,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,0.00%,0.000,0

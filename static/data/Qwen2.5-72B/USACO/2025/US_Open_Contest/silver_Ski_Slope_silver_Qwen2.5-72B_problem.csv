@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Ski_Slope_Qwen2.5-72B_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.310,6.8984375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Ski_Slope_Qwen2.5-72B_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.270,21.21484375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Ski_Slope_Qwen2.5-72B_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.330,21.21484375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Ski_Slope_Qwen2.5-72B_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.380,21.21484375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Ski_Slope_Qwen2.5-72B_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.420,22.140625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Ski_Slope_Qwen2.5-72B_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.450,11.16015625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Ski_Slope_Qwen2.5-72B_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Ski_Slope_Qwen2.5-72B_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.450,23.01953125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

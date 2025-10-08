@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+tornjevi_deepseek-chat_0.cpp,TIME_LIMIT_EXCEEDED,61,79.63%,2.240,9.09765625,7,11,17,0,26
+tornjevi_deepseek-chat_1.cpp,RUNTIME_ERROR,7,33.33%,0.450,9.0390625,7,0,0,0,0
+tornjevi_deepseek-chat_2.cpp,TIME_LIMIT_EXCEEDED,61,79.63%,2.260,9.03515625,7,11,17,0,26
+tornjevi_deepseek-chat_3.cpp,TIME_LIMIT_EXCEEDED,61,79.63%,2.240,16.7578125,7,11,17,0,26
+tornjevi_deepseek-chat_4.cpp,TIME_LIMIT_EXCEEDED,61,79.63%,2.290,9.09765625,7,11,17,0,26
+tornjevi_deepseek-chat_5.cpp,TIME_LIMIT_EXCEEDED,61,79.63%,2.230,16.7890625,7,11,17,0,26
+tornjevi_deepseek-chat_6.cpp,ACCEPTED,90,100.00%,0.270,20.8515625,7,11,17,29,26
+tornjevi_deepseek-chat_7.cpp,ACCEPTED,90,100.00%,0.800,130.98046875,7,11,17,29,26

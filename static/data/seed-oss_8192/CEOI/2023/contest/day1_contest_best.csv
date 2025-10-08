@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+grading-server,seed-oss_8192,RUNTIME_ERROR,0,4.00%,0.070,5.109375
+light,seed-oss_8192,RUNTIME_ERROR,0,0.74%,0.010,1.48828125
+balance,seed-oss_8192,UNKNOWN,0,0.00%,0.000,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Island_Vacation,gpt-oss-120b-high,TIME_LIMIT_EXCEEDED,33,17.39%,2.420,252.66015625
+platinum_Merging_Cells,gpt-oss-120b-high,ACCEPTED,333,100.00%,0.620,192.5078125
+platinum_Mooball_Teams_III,gpt-oss-120b-high,ACCEPTED,333,100.00%,0.350,20.51953125

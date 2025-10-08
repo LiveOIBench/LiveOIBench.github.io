@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+restorani_seed-oss_0.cpp,RUNTIME_ERROR,0,0.68%,0.100,42.02734375,0,0,0,0
+restorani_seed-oss_1.cpp,RUNTIME_ERROR,0,0.68%,0.110,46.27734375,0,0,0,0
+restorani_seed-oss_2.cpp,RUNTIME_ERROR,0,0.68%,0.090,42.484375,0,0,0,0
+restorani_seed-oss_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+restorani_seed-oss_4.cpp,RUNTIME_ERROR,0,0.00%,0.070,23.390625,0,0,0,0
+restorani_seed-oss_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+restorani_seed-oss_6.cpp,RUNTIME_ERROR,0,0.68%,0.150,43.703125,0,0,0,0
+restorani_seed-oss_7.cpp,RUNTIME_ERROR,0,0.00%,0.140,50.30078125,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Moo_Decomposition,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Election_Queries,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_OohMoo_Milk,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0

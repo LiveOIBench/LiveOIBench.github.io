@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+soccer,Qwen3-30B,RUNTIME_ERROR,0,3.54%,0.000,0
+closing,Qwen3-30B,RUNTIME_ERROR,8,2.31%,0.100,29.40234375
+longesttrip,Qwen3-30B,RUNTIME_ERROR,5,12.05%,0.100,4.046875

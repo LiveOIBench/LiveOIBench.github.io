@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Tractor_Paths,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Mana_Collection,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Subtree_Activation,Codestral-22B-v0.1,WRONG_ANSWER,0,4.76%,0.130,15.25

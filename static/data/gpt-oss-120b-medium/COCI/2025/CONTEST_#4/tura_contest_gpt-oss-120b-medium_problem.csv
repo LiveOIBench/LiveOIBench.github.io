@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+tura_gpt-oss-120b-medium_0.cpp,RUNTIME_ERROR,0,0.00%,0.72%,0.030,2.5859375,0,0,0
+tura_gpt-oss-120b-medium_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,12.95%,0.610,6.48046875,0,0,0
+tura_gpt-oss-120b-medium_2.cpp,RUNTIME_ERROR,0,0.00%,28.06%,0.030,1.5546875,0,0,0
+tura_gpt-oss-120b-medium_3.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.030,1.8046875,0,0,0
+tura_gpt-oss-120b-medium_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,12.95%,0.630,10.78515625,0,0,0
+tura_gpt-oss-120b-medium_5.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.030,3.4453125,0,0,0
+tura_gpt-oss-120b-medium_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.00%,0.030,1.55078125,0,0,0
+tura_gpt-oss-120b-medium_7.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.030,1.546875,0,0,0

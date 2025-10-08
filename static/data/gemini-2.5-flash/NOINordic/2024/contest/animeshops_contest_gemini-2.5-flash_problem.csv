@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3
+animeshops_gemini-2.5-flash_0.cpp,ACCEPTED,100,100.00%,0.130,10.125,23,16,61
+animeshops_gemini-2.5-flash_1.cpp,ACCEPTED,100,100.00%,0.130,10.37890625,23,16,61
+animeshops_gemini-2.5-flash_2.cpp,TIME_LIMIT_EXCEEDED,39,82.61%,1.130,42.8046875,23,16,0
+animeshops_gemini-2.5-flash_3.cpp,ACCEPTED,100,100.00%,0.130,10.578125,23,16,61
+animeshops_gemini-2.5-flash_4.cpp,ACCEPTED,100,100.00%,0.170,19.93359375,23,16,61
+animeshops_gemini-2.5-flash_5.cpp,RUNTIME_ERROR,0,22.22%,0.100,13.15234375,0,0,0
+animeshops_gemini-2.5-flash_6.cpp,ACCEPTED,100,100.00%,0.300,13.921875,23,16,61
+animeshops_gemini-2.5-flash_7.cpp,ACCEPTED,100,100.00%,0.230,17.79296875,23,16,61

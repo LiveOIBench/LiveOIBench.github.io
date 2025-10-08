@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Burenka_and_Pether,seed-oss_8192,RUNTIME_ERROR,0,1.57%,0.310,63.328125
+Almost_Certainly,seed-oss_8192,RUNTIME_ERROR,13,17.39%,0.050,9.03125
+Three_Arrays,seed-oss_8192,RUNTIME_ERROR,0,31.18%,0.020,0.00390625
+Parallel_Universes,seed-oss_8192,RUNTIME_ERROR,0,0.72%,0.020,0

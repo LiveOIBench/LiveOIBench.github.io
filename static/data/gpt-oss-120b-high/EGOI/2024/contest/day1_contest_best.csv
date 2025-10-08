@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+bouquet,gpt-oss-120b-high,ACCEPTED,100,100.00%,0.060,13.69921875
+infiniterace,gpt-oss-120b-high,ACCEPTED,100,100.00%,0.040,3.10546875
+teamcoding,gpt-oss-120b-high,ACCEPTED,100,100.00%,0.100,37.6328125
+gardendecorations,gpt-oss-120b-high,RUNTIME_ERROR,0,0.00%,0.030,0

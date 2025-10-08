@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+nile_gemini-2.5-flash_0.cpp,TIME_LIMIT_EXCEEDED,67,83.76%,2.210,10.40625,0,6,13,17,11,20,0,0
+nile_gemini-2.5-flash_1.cpp,TIME_LIMIT_EXCEEDED,0,3.70%,2.220,2239.375,0,0,0,0,0,0,0,0
+nile_gemini-2.5-flash_2.cpp,TIME_LIMIT_EXCEEDED,67,83.76%,2.210,12.12109375,0,6,13,17,11,20,0,0
+nile_gemini-2.5-flash_3.cpp,TIME_LIMIT_EXCEEDED,67,83.76%,2.210,11.2109375,0,6,13,17,11,20,0,0
+nile_gemini-2.5-flash_4.cpp,TIME_LIMIT_EXCEEDED,67,83.76%,2.210,9.5546875,0,6,13,17,11,20,0,0
+nile_gemini-2.5-flash_5.cpp,TIME_LIMIT_EXCEEDED,67,83.76%,2.210,13.890625,0,6,13,17,11,20,0,0
+nile_gemini-2.5-flash_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.220,1029.3671875,0,0,0,0,0,0,0,0
+nile_gemini-2.5-flash_7.cpp,TIME_LIMIT_EXCEEDED,67,83.76%,2.220,12.12109375,0,6,13,17,11,20,0,0

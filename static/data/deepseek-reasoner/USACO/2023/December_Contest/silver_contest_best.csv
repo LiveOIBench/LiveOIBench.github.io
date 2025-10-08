@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bovine_Acrobatics,deepseek-reasoner,ACCEPTED,333,100.00%,0.080,5.15625
+silver_Cycle_Correspondence,deepseek-reasoner,ACCEPTED,333,100.00%,0.220,35.8671875
+silver_Target_Practice,deepseek-reasoner,WRONG_ANSWER,56,33.33%,0.070,13.9921875

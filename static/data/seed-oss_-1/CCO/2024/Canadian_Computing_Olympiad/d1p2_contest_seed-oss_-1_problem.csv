@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+d1p2_seed-oss_0.cpp,ACCEPTED,25,100.00%,0.660,138.94140625,3,4,5,6,7
+d1p2_seed-oss_1.cpp,ACCEPTED,25,100.00%,0.650,138.73828125,3,4,5,6,7
+d1p2_seed-oss_2.cpp,ACCEPTED,25,100.00%,0.710,188.2109375,3,4,5,6,7
+d1p2_seed-oss_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+d1p2_seed-oss_4.cpp,ACCEPTED,25,100.00%,0.600,134.91796875,3,4,5,6,7
+d1p2_seed-oss_5.cpp,ACCEPTED,25,100.00%,0.570,134.96875,3,4,5,6,7
+d1p2_seed-oss_6.cpp,ACCEPTED,25,100.00%,0.680,142.55078125,3,4,5,6,7
+d1p2_seed-oss_7.cpp,ACCEPTED,25,100.00%,0.630,142.6015625,3,4,5,6,7

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Compatible_Pairs_seed-oss_0.cpp,TIME_LIMIT_EXCEEDED,267,83.33%,2.420,19.4296875,0,0,33.33333333333333,0,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333
+silver_Compatible_Pairs_seed-oss_1.cpp,WRONG_ANSWER,0,8.33%,0.080,9.35546875,0,0,0,0,0,0,0,0,0,0,0
+silver_Compatible_Pairs_seed-oss_2.cpp,RUNTIME_ERROR,0,0.00%,0.080,7.484375,0,0,0,0,0,0,0,0,0,0,0
+silver_Compatible_Pairs_seed-oss_3.cpp,WRONG_ANSWER,0,8.33%,0.130,27.01171875,0,0,0,0,0,0,0,0,0,0,0
+silver_Compatible_Pairs_seed-oss_4.cpp,RUNTIME_ERROR,0,0.00%,0.090,4.390625,0,0,0,0,0,0,0,0,0,0,0
+silver_Compatible_Pairs_seed-oss_5.cpp,WRONG_ANSWER,67,33.33%,0.120,26.23046875,0,33.33333333333333,0,33.33333333333333,0,0,0,0,0,0,0
+silver_Compatible_Pairs_seed-oss_6.cpp,WRONG_ANSWER,0,8.33%,0.070,13.953125,0,0,0,0,0,0,0,0,0,0,0
+silver_Compatible_Pairs_seed-oss_7.cpp,RUNTIME_ERROR,67,16.67%,0.380,63.609375,0,33.33333333333333,0,33.33333333333333,0,0,0,0,0,0,0

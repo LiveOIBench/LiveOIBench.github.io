@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+2023-open-t1_Ancient_Machine_2,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-open-t2_Cell_Automaton,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-open-t3_Garden,Mistral-Large-Instruct-2411,RUNTIME_ERROR,0,4.94%,0.170,5.16796875

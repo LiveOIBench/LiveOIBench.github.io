@@ -1,0 +1,5 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+Skittlez_gpt-oss-20b-high_0.cpp,TIME_LIMIT_EXCEEDED,28,64.15%,2.410,64.27734375,0,7,21,0,0
+Skittlez_gpt-oss-20b-high_1.cpp,TIME_LIMIT_EXCEEDED,28,64.15%,2.410,62.29296875,0,7,21,0,0
+Skittlez_gpt-oss-20b-high_3.cpp,TIME_LIMIT_EXCEEDED,28,64.15%,2.410,60.06640625,0,7,21,0,0
+Skittlez_gpt-oss-20b-high_4.cpp,TIME_LIMIT_EXCEEDED,28,64.15%,2.410,63.20703125,0,7,21,0,0

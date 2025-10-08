@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Heroes,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0
+Pinball,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0
+AA_Tree,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0

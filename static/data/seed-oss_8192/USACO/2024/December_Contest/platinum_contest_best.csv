@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_All_Pairs_Similarity,seed-oss_8192,TIME_LIMIT_EXCEEDED,48,20.00%,2.420,31.3828125
+platinum_Its_Mooin_Time,seed-oss_8192,WRONG_ANSWER,71,33.33%,0.060,11.19921875
+platinum_Maximize_Minimum_Difference,seed-oss_8192,RUNTIME_ERROR,21,10.00%,0.020,0.00390625

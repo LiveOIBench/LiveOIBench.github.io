@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+cern_gpt-4.1_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.420,15.15234375,0,0,0,0,0
+cern_gpt-4.1_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+cern_gpt-4.1_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.460,26.0390625,0,0,0,0,0
+cern_gpt-4.1_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.410,31.9140625,0,0,0,0,0
+cern_gpt-4.1_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.430,456.4453125,0,0,0,0,0
+cern_gpt-4.1_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.420,25.03125,0,0,0,0,0
+cern_gpt-4.1_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.420,14.1875,0,0,0,0,0
+cern_gpt-4.1_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.420,35.80078125,0,0,0,0,0

@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+More_Gifts,Mistral-Large-Instruct-2411,RUNTIME_ERROR,0,5.61%,0.000,0
+Big_Persimmon,Mistral-Large-Instruct-2411,RUNTIME_ERROR,12,17.74%,0.080,0.00390625
+Evidence_Board,Mistral-Large-Instruct-2411,UNKNOWN,0,0.00%,0.000,0
+Draw_Polygon_Lines,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,8,5.26%,2.260,4.1328125

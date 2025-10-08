@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Card_Flip,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,22.81%,0.230,14.94921875
+Order_Statistics,Mistral-Small-3.1-24B-2503,UNKNOWN,0,0.00%,0.000,0
+Best_Runner,Mistral-Small-3.1-24B-2503,UNKNOWN,0,0.00%,0.000,0
+Strong_Connectivity_Strikes_Back,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,66,57.26%,0.000,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+2023-open-t2_Cell_Automaton_Qwen2.5-72B_0.cpp,RUNTIME_ERROR,0,0.00%,0.170,7.2265625,0,0,0,0,0,0,0
+2023-open-t2_Cell_Automaton_Qwen2.5-72B_1.cpp,RUNTIME_ERROR,0,0.00%,0.210,5.9375,0,0,0,0,0,0,0
+2023-open-t2_Cell_Automaton_Qwen2.5-72B_2.cpp,RUNTIME_ERROR,0,0.00%,0.280,42.546875,0,0,0,0,0,0,0
+2023-open-t2_Cell_Automaton_Qwen2.5-72B_3.cpp,RUNTIME_ERROR,0,0.00%,0.180,7.484375,0,0,0,0,0,0,0
+2023-open-t2_Cell_Automaton_Qwen2.5-72B_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,6.610,540.8984375,0,0,0,0,0,0,0
+2023-open-t2_Cell_Automaton_Qwen2.5-72B_5.cpp,RUNTIME_ERROR,0,0.00%,0.370,60.84765625,0,0,0,0,0,0,0
+2023-open-t2_Cell_Automaton_Qwen2.5-72B_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.150,5.9375,0,0,0,0,0,0,0
+2023-open-t2_Cell_Automaton_Qwen2.5-72B_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,6.650,13.4140625,0,0,0,0,0,0,0

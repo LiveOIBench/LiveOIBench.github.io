@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+hieroglyphs,Qwen2.5-Coder-32B-Instruct,MEMORY_LIMIT_EXCEEDED,0,5.70%,1.030,2252.265625
+sphinx,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,6.38%,0.050,3.80859375
+mosaic,Qwen2.5-Coder-32B-Instruct,MEMORY_LIMIT_EXCEEDED,22,64.86%,0.920,2227.76953125

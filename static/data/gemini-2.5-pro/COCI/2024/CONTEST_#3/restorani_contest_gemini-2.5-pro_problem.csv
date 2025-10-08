@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+restorani_gemini-2.5-pro_0.cpp,RUNTIME_ERROR,0,1.37%,0.270,136.13671875,0,0,0,0
+restorani_gemini-2.5-pro_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+restorani_gemini-2.5-pro_2.cpp,RUNTIME_ERROR,0,0.68%,0.340,120.27734375,0,0,0,0
+restorani_gemini-2.5-pro_3.cpp,TIME_LIMIT_EXCEEDED,0,2.05%,2.230,68.5859375,0,0,0,0
+restorani_gemini-2.5-pro_4.cpp,RUNTIME_ERROR,0,1.37%,0.260,135.55859375,0,0,0,0
+restorani_gemini-2.5-pro_5.cpp,RUNTIME_ERROR,0,2.05%,1.000,115.51171875,0,0,0,0
+restorani_gemini-2.5-pro_6.cpp,RUNTIME_ERROR,0,2.05%,0.310,122.6015625,0,0,0,0
+restorani_gemini-2.5-pro_7.cpp,RUNTIME_ERROR,0,2.05%,0.310,126.58984375,0,0,0,0

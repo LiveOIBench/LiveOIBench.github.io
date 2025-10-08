@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+grading-server,Codestral-22B-v0.1,TIME_LIMIT_EXCEEDED,0,2.67%,4.410,0.00390625
+light,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+balance,Codestral-22B-v0.1,UNKNOWN,0,0.00%,0.000,0

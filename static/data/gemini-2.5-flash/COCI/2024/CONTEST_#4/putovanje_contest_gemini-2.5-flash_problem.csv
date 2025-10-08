@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+putovanje_gemini-2.5-flash_0.cpp,TIME_LIMIT_EXCEEDED,45,48.20%,2.240,5.73828125,10,0,35,0
+putovanje_gemini-2.5-flash_1.cpp,TIME_LIMIT_EXCEEDED,65,72.66%,2.220,306.2890625,10,20,35,0
+putovanje_gemini-2.5-flash_2.cpp,TIME_LIMIT_EXCEEDED,65,64.03%,2.250,407.3203125,10,20,35,0
+putovanje_gemini-2.5-flash_3.cpp,RUNTIME_ERROR,30,38.85%,0.070,6.05078125,10,20,0,0
+putovanje_gemini-2.5-flash_4.cpp,TIME_LIMIT_EXCEEDED,45,48.20%,2.220,5.27734375,10,0,35,0
+putovanje_gemini-2.5-flash_5.cpp,RUNTIME_ERROR,30,34.53%,0.190,5.72265625,10,20,0,0
+putovanje_gemini-2.5-flash_6.cpp,RUNTIME_ERROR,20,34.53%,0.080,6.38671875,0,20,0,0
+putovanje_gemini-2.5-flash_7.cpp,TIME_LIMIT_EXCEEDED,65,72.66%,2.270,311.16796875,10,20,35,0

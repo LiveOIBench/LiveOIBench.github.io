@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+The_arithmetic_exercise_gpt-oss-120b-medium_0.cpp,RUNTIME_ERROR,4,4.00%,13.04%,0.060,3.875,0,4.0,0,0,0,0,0,0,0,0,0
+The_arithmetic_exercise_gpt-oss-120b-medium_1.cpp,RUNTIME_ERROR,4,4.00%,15.05%,0.050,3.671875,0,4.0,0,0,0,0,0,0,0,0,0
+The_arithmetic_exercise_gpt-oss-120b-medium_2.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.050,0.00390625,0,0,0,0,0,0,0,0,0,0,0
+The_arithmetic_exercise_gpt-oss-120b-medium_3.cpp,RUNTIME_ERROR,4,4.00%,13.04%,0.050,2.84765625,0,4.0,0,0,0,0,0,0,0,0,0
+The_arithmetic_exercise_gpt-oss-120b-medium_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,6.74%,2.410,2.89453125,0,0,0,0,0,0,0,0,0,0,0
+The_arithmetic_exercise_gpt-oss-120b-medium_5.cpp,RUNTIME_ERROR,4,4.00%,13.04%,0.050,3.6171875,0,4.0,0,0,0,0,0,0,0,0,0
+The_arithmetic_exercise_gpt-oss-120b-medium_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,9.89%,2.410,6.19921875,0,0,0,0,0,0,0,0,0,0,0
+The_arithmetic_exercise_gpt-oss-120b-medium_7.cpp,RUNTIME_ERROR,4,4.00%,13.04%,0.050,3.36328125,0,4.0,0,0,0,0,0,0,0,0,0

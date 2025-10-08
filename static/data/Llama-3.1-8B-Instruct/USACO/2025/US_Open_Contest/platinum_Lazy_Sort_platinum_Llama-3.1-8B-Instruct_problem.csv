@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Lazy_Sort_Llama-3.1-8B-Instruct_0.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.170,39.97265625,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Lazy_Sort_Llama-3.1-8B-Instruct_1.cpp,RUNTIME_ERROR,0,0.00%,2.050,211.15234375,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Lazy_Sort_Llama-3.1-8B-Instruct_2.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.260,262.82421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Lazy_Sort_Llama-3.1-8B-Instruct_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Lazy_Sort_Llama-3.1-8B-Instruct_4.cpp,RUNTIME_ERROR,0,0.00%,0.130,9.0234375,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Lazy_Sort_Llama-3.1-8B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.490,268.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Lazy_Sort_Llama-3.1-8B-Instruct_6.cpp,RUNTIME_ERROR,0,0.00%,0.510,115.5234375,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Lazy_Sort_Llama-3.1-8B-Instruct_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.160,0.00390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+boi,seed-oss_0,RUNTIME_ERROR,0,0.00%,0.010,0.00390625
+tou,seed-oss_0,RUNTIME_ERROR,0,6.03%,1.290,53.890625
+tow,seed-oss_0,COMPILATION_ERROR,0,0.00%,0.000,0

@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+bingo,gpt-4.1,ACCEPTED,50,100.00%,0.000,0
+knjige,gpt-4.1,ACCEPTED,70,100.00%,0.080,4.39453125
+lepeze,gpt-4.1,RUNTIME_ERROR,0,3.85%,0.060,0
+putovanje,gpt-4.1,TIME_LIMIT_EXCEEDED,65,64.03%,2.240,5.421875
+roboti,gpt-4.1,TIME_LIMIT_EXCEEDED,23,45.45%,2.220,9.58984375

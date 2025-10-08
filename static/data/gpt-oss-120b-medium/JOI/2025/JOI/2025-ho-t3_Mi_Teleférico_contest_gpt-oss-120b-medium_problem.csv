@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+2025-ho-t3_Mi_Teleférico_gpt-oss-120b-medium_0.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.260,25.53125,0,0,0,0,0,0,0
+2025-ho-t3_Mi_Teleférico_gpt-oss-120b-medium_1.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.130,9.87109375,0,0,0,0,0,0,0
+2025-ho-t3_Mi_Teleférico_gpt-oss-120b-medium_2.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.610,17.58984375,0,0,0,0,0,0,0
+2025-ho-t3_Mi_Teleférico_gpt-oss-120b-medium_3.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.180,17.8125,0,0,0,0,0,0,0
+2025-ho-t3_Mi_Teleférico_gpt-oss-120b-medium_4.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.470,13.5078125,0,0,0,0,0,0,0
+2025-ho-t3_Mi_Teleférico_gpt-oss-120b-medium_5.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.710,483.484375,0,0,0,0,0,0,0
+2025-ho-t3_Mi_Teleférico_gpt-oss-120b-medium_6.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0
+2025-ho-t3_Mi_Teleférico_gpt-oss-120b-medium_7.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.230,17.53515625,0,0,0,0,0,0,0

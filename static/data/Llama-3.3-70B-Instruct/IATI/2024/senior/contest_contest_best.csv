@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+five,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,0.00%,0.120,2.015625
+game,Llama-3.3-70B-Instruct,UNKNOWN,0,0.00%,0.000,0
+lexgcd,Llama-3.3-70B-Instruct,MEMORY_LIMIT_EXCEEDED,6,4.13%,0.350,613.59765625
+ones,Llama-3.3-70B-Instruct,UNKNOWN,0,0.00%,0.000,0
+travel,Llama-3.3-70B-Instruct,MEMORY_LIMIT_EXCEEDED,0,1.20%,0.340,611.5390625

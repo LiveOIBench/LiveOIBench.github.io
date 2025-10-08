@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+cipele_gemini-2.5-flash_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+cipele_gemini-2.5-flash_1.cpp,RUNTIME_ERROR,0,0.00%,2.140,48.0703125,0,0,0,0,0
+cipele_gemini-2.5-flash_2.cpp,RUNTIME_ERROR,27,12.90%,1.040,71.41796875,0,27,0,0,0
+cipele_gemini-2.5-flash_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+cipele_gemini-2.5-flash_4.cpp,TIME_LIMIT_EXCEEDED,44,35.48%,2.230,45.234375,17,27,0,0,0
+cipele_gemini-2.5-flash_5.cpp,RUNTIME_ERROR,0,0.00%,1.580,39.703125,0,0,0,0,0
+cipele_gemini-2.5-flash_6.cpp,TIME_LIMIT_EXCEEDED,27,12.90%,2.210,39.70703125,0,27,0,0,0
+cipele_gemini-2.5-flash_7.cpp,TIME_LIMIT_EXCEEDED,37,16.13%,2.230,33.6328125,0,0,37,0,0

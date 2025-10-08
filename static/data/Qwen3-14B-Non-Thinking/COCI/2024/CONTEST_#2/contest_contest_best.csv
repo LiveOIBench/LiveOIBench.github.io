@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+pahuljice,Qwen3-14B-Non-Thinking,RUNTIME_ERROR,0,3.70%,0.000,0
+dizalo,Qwen3-14B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+kuglice,Qwen3-14B-Non-Thinking,RUNTIME_ERROR,0,17.57%,0.000,0
+zatopljenje,Qwen3-14B-Non-Thinking,RUNTIME_ERROR,0,0.00%,0.060,0

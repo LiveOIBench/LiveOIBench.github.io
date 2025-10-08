@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+show,original,COMPILATION_ERROR,0,0.00%,0.000,0
+september,original,ACCEPTED,100,100.00%,0.450,4.671875
+train,original,ACCEPTED,100,100.00%,0.430,72.76171875

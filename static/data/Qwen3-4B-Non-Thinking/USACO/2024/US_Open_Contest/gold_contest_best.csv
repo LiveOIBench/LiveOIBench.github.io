@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Cowreography,Qwen3-4B-Non-Thinking,MEMORY_LIMIT_EXCEEDED,0,4.35%,0.610,241.5859375
+gold_Grass_Segments,Qwen3-4B-Non-Thinking,TIME_LIMIT_EXCEEDED,39,25.00%,2.340,3.6796875
+gold_Smaller_Averages,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0

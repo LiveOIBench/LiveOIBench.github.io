@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Its_Mooin_Time_III_deepseek-chat_0.cpp,WRONG_ANSWER,0,9.09%,0.590,1.6953125,0,0,0,0,0,0,0,0,0,0,0
+bronze_Its_Mooin_Time_III_deepseek-chat_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,28.0546875,0,0,0,0,0,0,0,0,0,0,0
+bronze_Its_Mooin_Time_III_deepseek-chat_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.230,22.34375,0,0,0,0,0,0,0,0,0,0,0
+bronze_Its_Mooin_Time_III_deepseek-chat_3.cpp,WRONG_ANSWER,0,0.00%,0.340,63.42578125,0,0,0,0,0,0,0,0,0,0,0
+bronze_Its_Mooin_Time_III_deepseek-chat_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,4.390625,0,0,0,0,0,0,0,0,0,0,0
+bronze_Its_Mooin_Time_III_deepseek-chat_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.220,2.7265625,0,0,0,0,0,0,0,0,0,0,0
+bronze_Its_Mooin_Time_III_deepseek-chat_6.cpp,TIME_LIMIT_EXCEEDED,0,9.09%,2.220,1.70703125,0,0,0,0,0,0,0,0,0,0,0
+bronze_Its_Mooin_Time_III_deepseek-chat_7.cpp,TIME_LIMIT_EXCEEDED,67,27.27%,2.230,12.125,0,33.33333333333333,0,33.33333333333333,0,0,0,0,0,0,0

@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_The_Best_Subsequence_Qwen3-4B-Non-Thinking_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.250,5.4921875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_The_Best_Subsequence_Qwen3-4B-Non-Thinking_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.270,2.84765625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_The_Best_Subsequence_Qwen3-4B-Non-Thinking_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.280,6.96484375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_The_Best_Subsequence_Qwen3-4B-Non-Thinking_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.270,6.453125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_The_Best_Subsequence_Qwen3-4B-Non-Thinking_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.190,11.76171875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_The_Best_Subsequence_Qwen3-4B-Non-Thinking_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.290,2.84765625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_The_Best_Subsequence_Qwen3-4B-Non-Thinking_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.280,2.90625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

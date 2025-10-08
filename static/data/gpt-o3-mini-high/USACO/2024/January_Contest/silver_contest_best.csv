@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cowmpetency,gpt-o3-mini-high,WRONG_ANSWER,167,58.33%,0.120,23.4921875
+silver_Potion_Farming,gpt-o3-mini-high,ACCEPTED,333,100.00%,0.060,10.28515625
+silver_Cowlendar,gpt-o3-mini-high,ACCEPTED,333,100.00%,0.100,1.74609375

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+2025-ho-t2_Bitaro_the_Brave_2_DeepSeek-R1-Distill-Llama-70B_0.cpp,ACCEPTED,100,100.00%,0.360,16.51171875,10,21,19,22,28
+2025-ho-t2_Bitaro_the_Brave_2_DeepSeek-R1-Distill-Llama-70B_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+2025-ho-t2_Bitaro_the_Brave_2_DeepSeek-R1-Distill-Llama-70B_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+2025-ho-t2_Bitaro_the_Brave_2_DeepSeek-R1-Distill-Llama-70B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+2025-ho-t2_Bitaro_the_Brave_2_DeepSeek-R1-Distill-Llama-70B_4.cpp,ACCEPTED,100,100.00%,0.370,24.24609375,10,21,19,22,28
+2025-ho-t2_Bitaro_the_Brave_2_DeepSeek-R1-Distill-Llama-70B_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+2025-ho-t2_Bitaro_the_Brave_2_DeepSeek-R1-Distill-Llama-70B_6.cpp,ACCEPTED,100,100.00%,0.360,24.24609375,10,21,19,22,28
+2025-ho-t2_Bitaro_the_Brave_2_DeepSeek-R1-Distill-Llama-70B_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.140,0.00390625,0,0,0,0,0

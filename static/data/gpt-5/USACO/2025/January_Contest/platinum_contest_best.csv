@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_DFS_Order,gpt-5,ACCEPTED,333,100.00%,0.170,14.25390625
+platinum_Shock_Wave,gpt-5,WRONG_ANSWER,51,21.43%,0.190,2.84375
+platinum_Watering_the_Plants,gpt-5,TIME_LIMIT_EXCEEDED,62,31.58%,2.570,53.390625

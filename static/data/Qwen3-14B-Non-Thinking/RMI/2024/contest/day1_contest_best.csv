@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Choose_Interval,Qwen3-14B-Non-Thinking,RUNTIME_ERROR,0,0.00%,0.000,0
+Skittlez,Qwen3-14B-Non-Thinking,MEMORY_LIMIT_EXCEEDED,28,56.00%,0.360,306.28515625
+Octagon,Qwen3-14B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0

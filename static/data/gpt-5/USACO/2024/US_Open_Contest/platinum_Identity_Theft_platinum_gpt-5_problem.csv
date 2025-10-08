@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Identity_Theft_gpt-5_0.cpp,RUNTIME_ERROR,33,12.00%,0.060,22.29296875,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_gpt-5_1.cpp,RUNTIME_ERROR,50,24.00%,0.140,36.9765625,0,16.666666666666664,0,0,0,0,0,0,0,0,0,16.666666666666664,16.666666666666664,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_gpt-5_2.cpp,MEMORY_LIMIT_EXCEEDED,17,8.00%,0.150,30.71484375,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_gpt-5_3.cpp,RUNTIME_ERROR,50,24.00%,0.160,24.30078125,0,16.666666666666664,0,0,0,0,0,0,0,0,0,16.666666666666664,16.666666666666664,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_gpt-5_4.cpp,RUNTIME_ERROR,0,0.00%,0.100,1.5546875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_gpt-5_5.cpp,RUNTIME_ERROR,0,0.00%,0.110,1.8984375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_gpt-5_6.cpp,RUNTIME_ERROR,0,0.00%,0.220,94.34375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_gpt-5_7.cpp,WRONG_ANSWER,67,36.00%,0.190,47.0703125,0,16.666666666666664,0,0,0,0,0,0,0,0,0,16.666666666666664,16.666666666666664,16.666666666666664,0,0,0,0,0,0,0

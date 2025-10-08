@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Majority_Opinion_seed-oss_0.cpp,TIME_LIMIT_EXCEEDED,71,20.00%,2.420,2.64453125,0,23.809523809523807,0,0,0,0,0,0,0,23.809523809523807,23.809523809523807,0,0,0,0
+bronze_Majority_Opinion_seed-oss_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Majority_Opinion_seed-oss_3.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Majority_Opinion_seed-oss_4.cpp,WRONG_ANSWER,24,6.67%,0.050,1.7578125,0,23.809523809523807,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Majority_Opinion_seed-oss_5.cpp,WRONG_ANSWER,24,6.67%,0.060,1.8125,0,23.809523809523807,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Majority_Opinion_seed-oss_6.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Majority_Opinion_seed-oss_7.cpp,WRONG_ANSWER,24,6.67%,0.060,1.7578125,0,23.809523809523807,0,0,0,0,0,0,0,0,0,0,0,0,0

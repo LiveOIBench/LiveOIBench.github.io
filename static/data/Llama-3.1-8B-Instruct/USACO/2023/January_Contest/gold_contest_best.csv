@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Find_and_Replace,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Lights_Off,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Moo_Route,Llama-3.1-8B-Instruct,MEMORY_LIMIT_EXCEEDED,0,4.76%,0.320,258.59765625

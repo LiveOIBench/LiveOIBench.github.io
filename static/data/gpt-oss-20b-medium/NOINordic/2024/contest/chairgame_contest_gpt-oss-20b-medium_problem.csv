@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+chairgame_gpt-oss-20b-medium_0.cpp,MEMORY_LIMIT_EXCEEDED,5,2.86%,0.170,2.8203125,0,5,0,0,0,0,0,0
+chairgame_gpt-oss-20b-medium_1.cpp,RUNTIME_ERROR,0,0.00%,0.160,2.09375,0,0,0,0,0,0,0,0
+chairgame_gpt-oss-20b-medium_2.cpp,RUNTIME_ERROR,0,0.00%,0.280,2.609375,0,0,0,0,0,0,0,0
+chairgame_gpt-oss-20b-medium_3.cpp,RUNTIME_ERROR,0,0.00%,0.020,0.00390625,0,0,0,0,0,0,0,0
+chairgame_gpt-oss-20b-medium_4.cpp,RUNTIME_ERROR,0,0.00%,0.330,2.875,0,0,0,0,0,0,0,0
+chairgame_gpt-oss-20b-medium_5.cpp,RUNTIME_ERROR,0,0.00%,0.020,0.00390625,0,0,0,0,0,0,0,0
+chairgame_gpt-oss-20b-medium_6.cpp,RUNTIME_ERROR,0,0.00%,0.350,2.859375,0,0,0,0,0,0,0,0
+chairgame_gpt-oss-20b-medium_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.210,1.48046875,0,0,0,0,0,0,0,0

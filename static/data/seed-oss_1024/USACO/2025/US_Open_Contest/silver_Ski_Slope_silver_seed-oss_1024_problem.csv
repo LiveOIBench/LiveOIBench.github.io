@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Ski_Slope_seed-oss_0.cpp,WRONG_ANSWER,0,0.00%,0.120,19.7109375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Ski_Slope_seed-oss_1.cpp,WRONG_ANSWER,0,0.00%,0.120,16.2421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Ski_Slope_seed-oss_2.cpp,WRONG_ANSWER,0,0.00%,0.100,13.66796875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Ski_Slope_seed-oss_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Ski_Slope_seed-oss_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.440,34.8125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Ski_Slope_seed-oss_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Ski_Slope_seed-oss_6.cpp,RUNTIME_ERROR,0,0.00%,0.170,47.44921875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

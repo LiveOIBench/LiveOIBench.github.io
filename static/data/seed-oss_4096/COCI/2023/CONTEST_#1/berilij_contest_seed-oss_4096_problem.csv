@@ -1,0 +1,6 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+berilij_seed-oss_0.cpp,RUNTIME_ERROR,0,2.27%,1.080,12.96875,0,0,0,0
+berilij_seed-oss_1.cpp,TIME_LIMIT_EXCEEDED,0,2.27%,1.230,12.8984375,0,0,0,0
+berilij_seed-oss_4.cpp,RUNTIME_ERROR,0,2.27%,0.370,12.8046875,0,0,0,0
+berilij_seed-oss_6.cpp,TIME_LIMIT_EXCEEDED,0,2.27%,1.210,12.125,0,0,0,0
+berilij_seed-oss_7.cpp,TIME_LIMIT_EXCEEDED,0,2.27%,1.230,14.67578125,0,0,0,0

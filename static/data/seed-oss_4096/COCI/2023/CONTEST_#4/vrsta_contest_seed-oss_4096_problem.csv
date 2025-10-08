@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+vrsta_seed-oss_0.cpp,ACCEPTED,110,100.00%,0.150,9.03125,19,26,29,36
+vrsta_seed-oss_1.cpp,ACCEPTED,110,100.00%,0.150,7.47265625,19,26,29,36
+vrsta_seed-oss_2.cpp,RUNTIME_ERROR,29,20.00%,0.250,28.78125,0,0,29,0
+vrsta_seed-oss_3.cpp,ACCEPTED,110,100.00%,0.140,7.484375,19,26,29,36
+vrsta_seed-oss_4.cpp,ACCEPTED,110,100.00%,0.150,9.01953125,19,26,29,36
+vrsta_seed-oss_5.cpp,ACCEPTED,110,100.00%,0.130,9.03125,19,26,29,36
+vrsta_seed-oss_7.cpp,ACCEPTED,110,100.00%,0.150,7.484375,19,26,29,36

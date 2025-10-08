@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+icecreammachines,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,79,99.15%,1.110,27.47265625
+chatnoi,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,19.64%,0.130,0.00390625
+islandalliances,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,100,100.00%,0.210,10.8359375

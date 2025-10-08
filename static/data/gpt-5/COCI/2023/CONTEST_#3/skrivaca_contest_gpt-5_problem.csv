@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+skrivaca_gpt-5_0.cpp,RUNTIME_ERROR,25,25.53%,0.760,83.78125,0,25,0,0
+skrivaca_gpt-5_1.cpp,ACCEPTED,110,100.00%,0.530,84.0390625,15,25,30,40
+skrivaca_gpt-5_2.cpp,ACCEPTED,110,100.00%,0.570,50.890625,15,25,30,40
+skrivaca_gpt-5_3.cpp,ACCEPTED,110,100.00%,0.580,73.86328125,15,25,30,40
+skrivaca_gpt-5_4.cpp,ACCEPTED,110,100.00%,0.760,83.9375,15,25,30,40
+skrivaca_gpt-5_5.cpp,ACCEPTED,110,100.00%,0.590,84.5234375,15,25,30,40
+skrivaca_gpt-5_6.cpp,ACCEPTED,110,100.00%,0.830,74.46484375,15,25,30,40
+skrivaca_gpt-5_7.cpp,ACCEPTED,110,100.00%,0.520,64.78515625,15,25,30,40

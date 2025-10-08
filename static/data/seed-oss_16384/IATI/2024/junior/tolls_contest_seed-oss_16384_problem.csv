@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+tolls_seed-oss_0.cpp,ACCEPTED,100,100.00%,0.110,6.85546875,0,5,5,10,20,10,20,30
+tolls_seed-oss_1.cpp,ACCEPTED,100,100.00%,0.100,5.453125,0,5,5,10,20,10,20,30
+tolls_seed-oss_2.cpp,ACCEPTED,100,100.00%,0.110,5.890625,0,5,5,10,20,10,20,30
+tolls_seed-oss_3.cpp,ACCEPTED,100,100.00%,0.090,6.28125,0,5,5,10,20,10,20,30
+tolls_seed-oss_4.cpp,ACCEPTED,100,100.00%,0.120,5.77734375,0,5,5,10,20,10,20,30
+tolls_seed-oss_5.cpp,ACCEPTED,100,100.00%,0.090,6.22265625,0,5,5,10,20,10,20,30
+tolls_seed-oss_6.cpp,ACCEPTED,100,100.00%,0.120,6.4765625,0,5,5,10,20,10,20,30
+tolls_seed-oss_7.cpp,ACCEPTED,100,100.00%,0.100,6.48046875,0,5,5,10,20,10,20,30

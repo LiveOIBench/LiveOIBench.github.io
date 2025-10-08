@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+message,gpt-5,RUNTIME_ERROR,0,6.67%,0.140,3.88671875
+nile,gpt-5,ACCEPTED,100,100.00%,0.080,15.77734375
+tree,gpt-5,RUNTIME_ERROR,17,41.30%,0.060,10.38671875

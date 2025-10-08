@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Jump_Civilization,Qwen2.5-Coder-32B-Instruct,TIME_LIMIT_EXCEEDED,0,2.04%,1.120,18.1171875
+Ramen,Qwen2.5-Coder-32B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+Signals,Qwen2.5-Coder-32B-Instruct,TIME_LIMIT_EXCEEDED,13,47.73%,1.330,423.078125

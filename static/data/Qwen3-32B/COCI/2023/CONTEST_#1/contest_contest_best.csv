@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+desniklik,Qwen3-32B,ACCEPTED,50,100.00%,0.000,0
+cokolade,Qwen3-32B,ACCEPTED,70,100.00%,0.090,2.84765625
+berilij,Qwen3-32B,RUNTIME_ERROR,0,15.91%,0.190,12.8359375
+iksevi,Qwen3-32B,ACCEPTED,110,100.00%,1.830,39.3359375
+neboderi,Qwen3-32B,ACCEPTED,110,100.00%,0.340,5.16796875

@@ -1,0 +1,3 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+september.cpp,ACCEPTED,100,100.00%,0.490,10.9609375,11,16,14,5,9,5,11,9,11,9
+std.cpp,ACCEPTED,100,100.00%,0.450,4.671875,11,16,14,5,9,5,11,9,11,9

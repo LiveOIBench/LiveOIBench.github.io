@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Majority_Opinion_Llama-3.1-8B-Instruct_0.cpp,WRONG_ANSWER,0,0.00%,0.150,7.06640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Majority_Opinion_Llama-3.1-8B-Instruct_1.cpp,WRONG_ANSWER,24,6.67%,0.140,1.8125,0,23.809523809523807,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Majority_Opinion_Llama-3.1-8B-Instruct_2.cpp,WRONG_ANSWER,0,0.00%,0.120,1.8125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Majority_Opinion_Llama-3.1-8B-Instruct_3.cpp,WRONG_ANSWER,0,0.00%,0.150,1.8125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Majority_Opinion_Llama-3.1-8B-Instruct_4.cpp,WRONG_ANSWER,0,0.00%,0.510,4.56640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Majority_Opinion_Llama-3.1-8B-Instruct_5.cpp,WRONG_ANSWER,24,6.67%,0.120,1.8125,0,23.809523809523807,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Majority_Opinion_Llama-3.1-8B-Instruct_6.cpp,WRONG_ANSWER,0,0.00%,0.160,2.61328125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Majority_Opinion_Llama-3.1-8B-Instruct_7.cpp,WRONG_ANSWER,0,0.00%,0.140,1.8125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

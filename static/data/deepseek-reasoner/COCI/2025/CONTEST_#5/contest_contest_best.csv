@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+wow,deepseek-reasoner,ACCEPTED,50,100.00%,0.000,0
+zid,deepseek-reasoner,RUNTIME_ERROR,0,0.00%,0.030,1.546875
+tornjevi,deepseek-reasoner,ACCEPTED,90,100.00%,0.150,12.8984375
+crtez,deepseek-reasoner,TIME_LIMIT_EXCEEDED,20,42.55%,2.210,2.45703125
+stablo,deepseek-reasoner,TIME_LIMIT_EXCEEDED,75,74.26%,4.210,254.1171875

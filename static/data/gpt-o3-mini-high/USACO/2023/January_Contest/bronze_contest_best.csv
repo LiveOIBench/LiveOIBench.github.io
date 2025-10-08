@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Leaders,gpt-o3-mini-high,ACCEPTED,333,100.00%,0.040,1.5546875
+bronze_Air_Cownditioning_II,gpt-o3-mini-high,ACCEPTED,333,100.00%,0.000,0
+bronze_Moo_Operations,gpt-o3-mini-high,ACCEPTED,333,100.00%,0.000,0

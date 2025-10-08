@@ -1,0 +1,4 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+robot_Qwen3-4B-Non-Thinking_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+robot_Qwen3-4B-Non-Thinking_4.cpp,RUNTIME_ERROR,0,0.00%,0.420,322.9296875,0,0.0,0.0,0.0,0.0,0.0
+robot_Qwen3-4B-Non-Thinking_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0

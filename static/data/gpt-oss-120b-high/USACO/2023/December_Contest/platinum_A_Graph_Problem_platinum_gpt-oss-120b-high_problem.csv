@@ -1,0 +1,6 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_A_Graph_Problem_gpt-oss-120b-high_0.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.410,306.28125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_A_Graph_Problem_gpt-oss-120b-high_1.cpp,MEMORY_LIMIT_EXCEEDED,0,13.04%,0.500,143.09375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_A_Graph_Problem_gpt-oss-120b-high_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.430,41.13671875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_A_Graph_Problem_gpt-oss-120b-high_4.cpp,RUNTIME_ERROR,0,0.00%,0.190,54.87890625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_A_Graph_Problem_gpt-oss-120b-high_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.460,144.8984375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

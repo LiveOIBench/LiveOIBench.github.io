@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+desniklik,seed-oss_2048,ACCEPTED,50,100.00%,0.000,0
+cokolade,seed-oss_2048,TIME_LIMIT_EXCEEDED,15,25.00%,1.220,3.62109375
+berilij,seed-oss_2048,COMPILATION_ERROR,0,0.00%,0.000,0
+iksevi,seed-oss_2048,COMPILATION_ERROR,0,0.00%,0.000,0
+neboderi,seed-oss_2048,TIME_LIMIT_EXCEEDED,50,40.74%,2.970,26.3125

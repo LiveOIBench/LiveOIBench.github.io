@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+d1p3_Qwen3-4B_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+d1p3_Qwen3-4B_1.cpp,TIME_LIMIT_EXCEEDED,0,0.96%,2.410,7.1796875,0,0,0,0,0,0,0,0
+d1p3_Qwen3-4B_2.cpp,RUNTIME_ERROR,0,3.85%,0.180,13.52734375,0,0,0,0,0,0,0,0
+d1p3_Qwen3-4B_3.cpp,RUNTIME_ERROR,0,1.92%,0.120,6.97265625,0,0,0,0,0,0,0,0
+d1p3_Qwen3-4B_4.cpp,RUNTIME_ERROR,0,1.92%,0.110,3.359375,0,0,0,0,0,0,0,0
+d1p3_Qwen3-4B_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+d1p3_Qwen3-4B_6.cpp,RUNTIME_ERROR,0,0.00%,0.110,10.90625,0,0,0,0,0,0,0,0
+d1p3_Qwen3-4B_7.cpp,RUNTIME_ERROR,0,3.85%,0.110,3.36328125,0,0,0,0,0,0,0,0

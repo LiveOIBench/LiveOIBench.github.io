@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+autobus,gemini-2.5-pro,ACCEPTED,50,100.00%,0.000,0
+karte,gemini-2.5-pro,ACCEPTED,70,100.00%,0.030,1.55078125
+bojanje,gemini-2.5-pro,RUNTIME_ERROR,0,5.80%,0.000,0
+stablo,gemini-2.5-pro,ACCEPTED,120,100.00%,0.630,117.89453125
+procesor,gemini-2.5-pro,UNKNOWN,0,0.00%,0.000,0

@@ -1,0 +1,6 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+zbunjenost_gpt-oss-20b-high_1.cpp,ACCEPTED,120,100.00%,0.230,52.796875,13,18,34,15,40
+zbunjenost_gpt-oss-20b-high_2.cpp,ACCEPTED,120,100.00%,0.190,57.40234375,13,18,34,15,40
+zbunjenost_gpt-oss-20b-high_4.cpp,ACCEPTED,120,100.00%,0.130,36.62890625,13,18,34,15,40
+zbunjenost_gpt-oss-20b-high_6.cpp,MEMORY_LIMIT_EXCEEDED,0,1.61%,1.550,342.4765625,0,0,0,0,0
+zbunjenost_gpt-oss-20b-high_7.cpp,ACCEPTED,120,100.00%,0.160,56.9765625,13,18,34,15,40

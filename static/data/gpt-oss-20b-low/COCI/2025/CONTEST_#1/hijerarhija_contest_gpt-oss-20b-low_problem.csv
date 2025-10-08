@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+hijerarhija_gpt-oss-20b-low_0.cpp,ACCEPTED,90,100.00%,0.130,3.62109375,7,12,16,15,23,17
+hijerarhija_gpt-oss-20b-low_1.cpp,ACCEPTED,90,100.00%,0.140,3.62109375,7,12,16,15,23,17
+hijerarhija_gpt-oss-20b-low_2.cpp,RUNTIME_ERROR,22,36.11%,0.200,25.53125,7,0,0,15,0,0
+hijerarhija_gpt-oss-20b-low_3.cpp,RUNTIME_ERROR,22,52.78%,0.230,18.828125,7,0,0,15,0,0
+hijerarhija_gpt-oss-20b-low_4.cpp,RUNTIME_ERROR,22,52.78%,0.240,16.25,7,0,0,15,0,0
+hijerarhija_gpt-oss-20b-low_5.cpp,RUNTIME_ERROR,22,52.78%,0.220,19.859375,7,0,0,15,0,0
+hijerarhija_gpt-oss-20b-low_6.cpp,ACCEPTED,90,100.00%,0.230,19.859375,7,12,16,15,23,17
+hijerarhija_gpt-oss-20b-low_7.cpp,RUNTIME_ERROR,22,52.78%,0.220,19.859375,7,0,0,15,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+icecreammachines,gpt-4.1,ACCEPTED,100,100.00%,0.300,160.0390625
+chatnoi,gpt-4.1,RUNTIME_ERROR,29,73.52%,1.200,227.76953125
+islandalliances,gpt-4.1,ACCEPTED,100,100.00%,0.390,34.296875

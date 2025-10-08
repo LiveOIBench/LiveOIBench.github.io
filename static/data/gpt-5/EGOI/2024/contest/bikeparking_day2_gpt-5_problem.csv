@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+bikeparking_gpt-5_0.cpp,RUNTIME_ERROR,25,61.49%,0.040,6.0625,0,16,9,0,0,0
+bikeparking_gpt-5_1.cpp,RUNTIME_ERROR,25,61.49%,0.100,6.97265625,0,16,9,0,0,0
+bikeparking_gpt-5_2.cpp,ACCEPTED,100,100.00%,0.100,8.26171875,0,16,9,19,24,32
+bikeparking_gpt-5_3.cpp,RUNTIME_ERROR,25,61.49%,0.100,5.94140625,0,16,9,0,0,0
+bikeparking_gpt-5_4.cpp,ACCEPTED,100,100.00%,0.110,8.26171875,0,16,9,19,24,32
+bikeparking_gpt-5_5.cpp,RUNTIME_ERROR,25,61.49%,0.100,5.94140625,0,16,9,0,0,0
+bikeparking_gpt-5_6.cpp,RUNTIME_ERROR,25,54.88%,0.090,5.94140625,0,16,9,0,0,0
+bikeparking_gpt-5_7.cpp,RUNTIME_ERROR,25,61.49%,0.090,10.58203125,0,16,9,0,0,0

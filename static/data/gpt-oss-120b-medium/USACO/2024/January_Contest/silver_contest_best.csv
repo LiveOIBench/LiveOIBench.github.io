@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_Cowmpetency,gpt-oss-120b-medium,WRONG_ANSWER,167,50.61%,58.33%,0.090,7.453125
+silver_Potion_Farming,gpt-oss-120b-medium,ACCEPTED,333,103.42%,100.00%,0.070,11.609375
+silver_Cowlendar,gpt-oss-120b-medium,ACCEPTED,333,102.78%,100.00%,0.140,1.5546875

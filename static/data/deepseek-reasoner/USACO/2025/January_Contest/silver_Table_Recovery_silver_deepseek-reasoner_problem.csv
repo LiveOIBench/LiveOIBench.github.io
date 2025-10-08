@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Table_Recovery_deepseek-reasoner_0.cpp,RUNTIME_ERROR,0,6.67%,0.390,13.4609375,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_deepseek-reasoner_1.cpp,MEMORY_LIMIT_EXCEEDED,0,6.67%,0.210,9.02734375,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_deepseek-reasoner_2.cpp,MEMORY_LIMIT_EXCEEDED,0,13.33%,0.200,9.39453125,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_deepseek-reasoner_3.cpp,RUNTIME_ERROR,0,6.67%,0.280,16.875,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_deepseek-reasoner_4.cpp,RUNTIME_ERROR,0,6.67%,0.290,9.65625,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_deepseek-reasoner_5.cpp,TIME_LIMIT_EXCEEDED,0,6.67%,2.230,20.64453125,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_deepseek-reasoner_6.cpp,RUNTIME_ERROR,0,6.67%,0.200,5.15625,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_deepseek-reasoner_7.cpp,RUNTIME_ERROR,0,6.67%,0.400,21.25390625,0,0,0,0,0,0,0,0,0,0,0,0,0

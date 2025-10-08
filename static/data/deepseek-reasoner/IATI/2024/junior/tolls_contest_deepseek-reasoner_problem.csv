@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+tolls_deepseek-reasoner_0.cpp,ACCEPTED,100,100.00%,0.190,8.2265625,0,5,5,10,20,10,20,30
+tolls_deepseek-reasoner_1.cpp,ACCEPTED,100,100.00%,0.210,6.22265625,0,5,5,10,20,10,20,30
+tolls_deepseek-reasoner_2.cpp,ACCEPTED,100,100.00%,0.210,5.7109375,0,5,5,10,20,10,20,30
+tolls_deepseek-reasoner_3.cpp,ACCEPTED,100,100.00%,0.190,6.2265625,0,5,5,10,20,10,20,30
+tolls_deepseek-reasoner_4.cpp,ACCEPTED,100,100.00%,0.210,5.70703125,0,5,5,10,20,10,20,30
+tolls_deepseek-reasoner_5.cpp,ACCEPTED,100,100.00%,0.210,13.0625,0,5,5,10,20,10,20,30
+tolls_deepseek-reasoner_6.cpp,ACCEPTED,100,100.00%,0.210,7.06640625,0,5,5,10,20,10,20,30
+tolls_deepseek-reasoner_7.cpp,RUNTIME_ERROR,0,1.83%,0.140,1.703125,0,0,0,0,0,0,0,0

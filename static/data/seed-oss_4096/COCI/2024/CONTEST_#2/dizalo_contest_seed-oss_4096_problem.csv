@@ -1,0 +1,7 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+dizalo_seed-oss_0.cpp,RUNTIME_ERROR,0,0.00%,0.040,4.4296875,0,0,0,0
+dizalo_seed-oss_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.630,9.76171875,0,0,0,0
+dizalo_seed-oss_3.cpp,RUNTIME_ERROR,0,0.00%,1.210,3.359375,0,0,0,0
+dizalo_seed-oss_4.cpp,RUNTIME_ERROR,0,0.00%,0.060,5.9375,0,0,0,0
+dizalo_seed-oss_6.cpp,RUNTIME_ERROR,0,0.00%,0.030,3.6171875,0,0,0,0
+dizalo_seed-oss_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.620,4.421875,0,0,0,0

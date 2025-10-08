@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+chairgame_gpt-oss-20b-high_1.cpp,RUNTIME_ERROR,9,36.96%,0.200,2.92578125,0,5,4,0,0,0,0,0
+chairgame_gpt-oss-20b-high_2.cpp,RUNTIME_ERROR,5,2.86%,0.190,2.76171875,0,5,0,0,0,0,0,0
+chairgame_gpt-oss-20b-high_3.cpp,RUNTIME_ERROR,4,34.78%,0.240,2.734375,0,0,4,0,0,0,0,0
+chairgame_gpt-oss-20b-high_4.cpp,RUNTIME_ERROR,9,36.96%,0.940,2.73046875,0,5,4,0,0,0,0,0
+chairgame_gpt-oss-20b-high_5.cpp,RUNTIME_ERROR,4,34.78%,0.120,1.984375,0,0,4,0,0,0,0,0
+chairgame_gpt-oss-20b-high_6.cpp,RUNTIME_ERROR,9,36.96%,0.200,2.83984375,0,5,4,0,0,0,0,0
+chairgame_gpt-oss-20b-high_7.cpp,RUNTIME_ERROR,9,36.96%,0.230,2.875,0,5,4,0,0,0,0,0

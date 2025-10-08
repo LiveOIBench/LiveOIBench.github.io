@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Min_Max_Subarrays,gpt-oss-120b-low,RUNTIME_ERROR,67,23.08%,0.100,13.41796875
+platinum_Transforming_Pairs,gpt-oss-120b-low,TIME_LIMIT_EXCEEDED,19,10.53%,2.410,0.00390625
+platinum_True_or_False_Test,gpt-oss-120b-low,WRONG_ANSWER,0,5.00%,0.090,8.26171875

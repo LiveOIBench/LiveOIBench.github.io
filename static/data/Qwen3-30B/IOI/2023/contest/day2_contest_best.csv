@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+robot,Qwen3-30B,RUNTIME_ERROR,0,0.67%,0.050,8.65234375
+overtaking,Qwen3-30B,RUNTIME_ERROR,19,34.84%,0.010,0.00390625
+beechtree,Qwen3-30B,TIME_LIMIT_EXCEEDED,0,24.00%,1.660,25.11328125

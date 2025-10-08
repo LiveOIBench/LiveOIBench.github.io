@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+jobs,seed-oss_512,RUNTIME_ERROR,0,0.72%,0.070,33.78125
+portal,seed-oss_512,TIME_LIMIT_EXCEEDED,0,2.33%,1.210,10.32421875
+trains,seed-oss_512,RUNTIME_ERROR,0,6.25%,0.010,0

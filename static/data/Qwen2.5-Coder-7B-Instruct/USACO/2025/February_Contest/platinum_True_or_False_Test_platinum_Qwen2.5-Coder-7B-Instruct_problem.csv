@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_True_or_False_Test_Qwen2.5-Coder-7B-Instruct_0.cpp,WRONG_ANSWER,0,0.00%,0.300,4.39453125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_True_or_False_Test_Qwen2.5-Coder-7B-Instruct_1.cpp,WRONG_ANSWER,0,0.00%,0.310,4.39453125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_True_or_False_Test_Qwen2.5-Coder-7B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.520,3.62109375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_True_or_False_Test_Qwen2.5-Coder-7B-Instruct_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_True_or_False_Test_Qwen2.5-Coder-7B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.400,6.5390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_True_or_False_Test_Qwen2.5-Coder-7B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.390,7.48828125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_True_or_False_Test_Qwen2.5-Coder-7B-Instruct_6.cpp,WRONG_ANSWER,0,0.00%,0.390,4.45703125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_True_or_False_Test_Qwen2.5-Coder-7B-Instruct_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

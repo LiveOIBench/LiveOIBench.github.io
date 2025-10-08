@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Astral_Superposition,deepseek-reasoner,WRONG_ANSWER,33,16.67%,0.100,6.7734375
+bronze_Its_Mooin_Time_II,deepseek-reasoner,ACCEPTED,333,100.00%,0.340,35.33984375
+bronze_Cow_Checkups,deepseek-reasoner,ACCEPTED,333,100.00%,0.270,216.57421875

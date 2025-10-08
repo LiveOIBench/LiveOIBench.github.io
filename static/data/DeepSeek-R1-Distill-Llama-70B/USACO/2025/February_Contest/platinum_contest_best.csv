@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Min_Max_Subarrays,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,0,23.08%,3.320,5.16796875
+platinum_Transforming_Pairs,DeepSeek-R1-Distill-Llama-70B,WRONG_ANSWER,0,5.26%,0.410,0.00390625
+platinum_True_or_False_Test,DeepSeek-R1-Distill-Llama-70B,WRONG_ANSWER,0,5.00%,0.190,39.04296875

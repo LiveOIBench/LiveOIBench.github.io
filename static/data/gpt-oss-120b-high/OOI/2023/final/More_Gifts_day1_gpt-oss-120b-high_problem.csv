@@ -1,0 +1,7 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+More_Gifts_gpt-oss-120b-high_0.cpp,ACCEPTED,100,100.00%,0.200,180.93359375,0.0,14.0,12.0,16.0,21.0,18.0,19.0
+More_Gifts_gpt-oss-120b-high_2.cpp,RUNTIME_ERROR,69,91.71%,0.180,189.19140625,0.0,14.0,0,16.0,21.0,18.0,0
+More_Gifts_gpt-oss-120b-high_3.cpp,ACCEPTED,100,100.00%,0.200,217.6015625,0.0,14.0,12.0,16.0,21.0,18.0,19.0
+More_Gifts_gpt-oss-120b-high_4.cpp,ACCEPTED,100,100.00%,0.200,213.9375,0.0,14.0,12.0,16.0,21.0,18.0,19.0
+More_Gifts_gpt-oss-120b-high_5.cpp,ACCEPTED,100,100.00%,0.180,177.640625,0.0,14.0,12.0,16.0,21.0,18.0,19.0
+More_Gifts_gpt-oss-120b-high_6.cpp,ACCEPTED,100,100.00%,0.180,231.60546875,0.0,14.0,12.0,16.0,21.0,18.0,19.0

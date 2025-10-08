@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+tramvaji,seed-oss_-1,ACCEPTED,50,100.00%,0.000,0
+ekspert,seed-oss_-1,COMPILATION_ERROR,0,0.00%,0.000,0
+lampice,seed-oss_-1,TIME_LIMIT_EXCEEDED,12,45.24%,3.610,8.0234375
+prijateljice,seed-oss_-1,ACCEPTED,110,100.00%,0.110,10.61328125
+kruhologija,seed-oss_-1,UNKNOWN,0,0.00%,0.000,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Cowreography,DeepSeek-Coder-V2-Lite-Instruct,MEMORY_LIMIT_EXCEEDED,0,13.04%,0.400,280.76171875
+gold_Grass_Segments,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,39,25.00%,2.280,3.62109375
+gold_Smaller_Averages,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,0,10.00%,2.240,2.33203125

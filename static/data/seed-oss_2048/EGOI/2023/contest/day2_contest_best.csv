@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+candy,seed-oss_2048,TIME_LIMIT_EXCEEDED,41,86.02%,3.610,20.8828125
+sopsug,seed-oss_2048,UNKNOWN,0,0.00%,0.000,0
+guessinggame,seed-oss_2048,RUNTIME_ERROR,0,0.00%,0.000,0
+carnival,seed-oss_2048,RUNTIME_ERROR,0,0.00%,0.000,0

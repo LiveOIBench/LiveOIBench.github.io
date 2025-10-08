@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+trokuti_gpt-5_0.cpp,TIME_LIMIT_EXCEEDED,13,25.96%,4.860,241.52734375,13,0,0,0
+trokuti_gpt-5_1.cpp,RUNTIME_ERROR,0,0.00%,0.060,2.94921875,0,0,0,0
+trokuti_gpt-5_2.cpp,RUNTIME_ERROR,13,25.00%,0.080,4.484375,13,0,0,0
+trokuti_gpt-5_3.cpp,RUNTIME_ERROR,0,0.00%,0.060,1.91796875,0,0,0,0
+trokuti_gpt-5_4.cpp,RUNTIME_ERROR,0,0.00%,0.070,1.91796875,0,0,0,0
+trokuti_gpt-5_5.cpp,RUNTIME_ERROR,0,0.00%,0.080,1.8046875,0,0,0,0
+trokuti_gpt-5_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+trokuti_gpt-5_7.cpp,RUNTIME_ERROR,0,0.00%,0.060,1.859375,0,0,0,0

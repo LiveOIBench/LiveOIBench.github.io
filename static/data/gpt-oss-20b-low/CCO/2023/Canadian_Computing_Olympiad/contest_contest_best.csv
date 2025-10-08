@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+d1p1,gpt-oss-20b-low,ACCEPTED,25,100.00%,0.070,16.51171875
+d1p3,gpt-oss-20b-low,RUNTIME_ERROR,0,4.81%,0.110,20.5625
+d2p1,gpt-oss-20b-low,RUNTIME_ERROR,1,22.32%,0.010,1.64453125
+d2p2,gpt-oss-20b-low,RUNTIME_ERROR,2,9.38%,0.100,32.12109375
+d2p3,gpt-oss-20b-low,RUNTIME_ERROR,0,52.83%,0.050,2.84765625

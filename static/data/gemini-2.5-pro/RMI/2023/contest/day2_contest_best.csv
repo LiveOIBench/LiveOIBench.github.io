@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Circles,gemini-2.5-pro,ACCEPTED,100,100.00%,0.380,150.56640625
+To_be_xor_not_to_be,gemini-2.5-pro,RUNTIME_ERROR,36,70.69%,0.200,1.7421875
+Statues,gemini-2.5-pro,RUNTIME_ERROR,74,75.56%,0.170,16.109375

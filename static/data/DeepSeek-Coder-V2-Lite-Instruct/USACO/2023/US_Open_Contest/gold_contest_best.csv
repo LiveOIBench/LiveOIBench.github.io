@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Custodial_Cleanup,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Pareidolia,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,0.00%,0.110,7.13671875
+gold_Tree_Merging,DeepSeek-Coder-V2-Lite-Instruct,WRONG_ANSWER,0,0.00%,0.000,0

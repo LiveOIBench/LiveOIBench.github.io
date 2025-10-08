@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+stablo_gpt-oss-20b-medium_0.cpp,RUNTIME_ERROR,0,10.29%,0.200,62.65625,0,0,0,0
+stablo_gpt-oss-20b-medium_1.cpp,RUNTIME_ERROR,0,14.71%,0.420,89.95703125,0,0,0,0
+stablo_gpt-oss-20b-medium_2.cpp,RUNTIME_ERROR,0,14.71%,0.460,52.86328125,0,0,0,0
+stablo_gpt-oss-20b-medium_3.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0
+stablo_gpt-oss-20b-medium_5.cpp,RUNTIME_ERROR,0,14.71%,0.590,92.9453125,0,0,0,0
+stablo_gpt-oss-20b-medium_6.cpp,ACCEPTED,120,100.00%,0.710,99.83984375,21,37,22,40
+stablo_gpt-oss-20b-medium_7.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0

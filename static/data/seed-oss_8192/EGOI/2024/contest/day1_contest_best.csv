@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+bouquet,seed-oss_8192,ACCEPTED,100,100.00%,0.050,6.7109375
+infiniterace,seed-oss_8192,RUNTIME_ERROR,0,12.00%,0.020,0.00390625
+teamcoding,seed-oss_8192,TIME_LIMIT_EXCEEDED,0,39.50%,4.810,25.890625
+gardendecorations,seed-oss_8192,RUNTIME_ERROR,0,0.00%,0.000,0

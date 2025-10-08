@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+labirint_gpt-oss-120b-medium_0.cpp,ACCEPTED,70,100.00%,100.00%,0.050,2.06640625,11,13,24,22
+labirint_gpt-oss-120b-medium_1.cpp,ACCEPTED,70,100.00%,100.00%,0.170,2.18359375,11,13,24,22
+labirint_gpt-oss-120b-medium_2.cpp,ACCEPTED,70,100.00%,100.00%,0.030,2.30859375,11,13,24,22
+labirint_gpt-oss-120b-medium_3.cpp,ACCEPTED,70,100.00%,100.00%,0.030,2.05078125,11,13,24,22
+labirint_gpt-oss-120b-medium_4.cpp,ACCEPTED,70,100.00%,100.00%,0.030,2.06640625,11,13,24,22
+labirint_gpt-oss-120b-medium_5.cpp,ACCEPTED,70,100.00%,100.00%,0.030,2.32421875,11,13,24,22
+labirint_gpt-oss-120b-medium_6.cpp,ACCEPTED,70,100.00%,100.00%,0.030,2.3125,11,13,24,22
+labirint_gpt-oss-120b-medium_7.cpp,ACCEPTED,70,100.00%,100.00%,0.030,2.19140625,11,13,24,22

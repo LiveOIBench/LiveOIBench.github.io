@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Tractor_Paths,Qwen3-14B,RUNTIME_ERROR,0,0.00%,0.110,6.08984375
+platinum_Mana_Collection,Qwen3-14B,WRONG_ANSWER,0,4.17%,0.340,0.00390625
+platinum_Subtree_Activation,Qwen3-14B,WRONG_ANSWER,0,4.76%,0.000,0

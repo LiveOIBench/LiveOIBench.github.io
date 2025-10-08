@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+slasticarnica_gpt-oss-20b-low_0.cpp,RUNTIME_ERROR,0,0.00%,0.020,1.55859375,0,0,0
+slasticarnica_gpt-oss-20b-low_1.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.400,613.34375,0,0,0
+slasticarnica_gpt-oss-20b-low_2.cpp,RUNTIME_ERROR,0,0.00%,0.010,1.55859375,0,0,0
+slasticarnica_gpt-oss-20b-low_4.cpp,RUNTIME_ERROR,0,10.00%,0.400,239.7734375,0,0,0
+slasticarnica_gpt-oss-20b-low_5.cpp,RUNTIME_ERROR,0,0.00%,0.020,0.00390625,0,0,0
+slasticarnica_gpt-oss-20b-low_6.cpp,RUNTIME_ERROR,0,0.00%,0.090,98.4921875,0,0,0
+slasticarnica_gpt-oss-20b-low_7.cpp,RUNTIME_ERROR,0,0.00%,0.040,4.390625,0,0,0

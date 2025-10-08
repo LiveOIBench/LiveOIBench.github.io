@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+razlicitost_seed-oss_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+razlicitost_seed-oss_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+razlicitost_seed-oss_2.cpp,RUNTIME_ERROR,0,0.00%,0.060,4.1328125,0,0,0,0
+razlicitost_seed-oss_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+razlicitost_seed-oss_4.cpp,TIME_LIMIT_EXCEEDED,9,20.93%,2.410,6.7421875,0,0,9,0
+razlicitost_seed-oss_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.050,4.1328125,0,0,0,0
+razlicitost_seed-oss_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+razlicitost_seed-oss_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.410,7.99609375,0,0,0,0

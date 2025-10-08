@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Vocabulary_Quiz_seed-oss_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.430,145.71875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Vocabulary_Quiz_seed-oss_1.cpp,RUNTIME_ERROR,0,0.00%,0.960,128.6015625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Vocabulary_Quiz_seed-oss_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.420,129.3515625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Vocabulary_Quiz_seed-oss_3.cpp,RUNTIME_ERROR,0,0.00%,0.250,151.09375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Vocabulary_Quiz_seed-oss_4.cpp,RUNTIME_ERROR,0,0.00%,0.600,86.890625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Vocabulary_Quiz_seed-oss_5.cpp,RUNTIME_ERROR,0,0.00%,0.390,84.5703125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Vocabulary_Quiz_seed-oss_6.cpp,ACCEPTED,333,100.00%,0.130,13.16015625,0,22.22222222222222,22.22222222222222,22.22222222222222,22.22222222222222,22.22222222222222,22.22222222222222,22.22222222222222,22.22222222222222,22.22222222222222,22.22222222222222,22.22222222222222,22.22222222222222,22.22222222222222,22.22222222222222,22.22222222222222
+silver_Vocabulary_Quiz_seed-oss_7.cpp,RUNTIME_ERROR,0,0.00%,2.220,222.2421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

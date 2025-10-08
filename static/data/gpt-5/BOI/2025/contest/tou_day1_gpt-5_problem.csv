@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+tou_gpt-5_0.cpp,RUNTIME_ERROR,0,6.90%,1.040,203.58203125,0,0,0,0,0,0
+tou_gpt-5_1.cpp,ACCEPTED,100,100.00%,1.220,250.44921875,0,9,23,19,25,24
+tou_gpt-5_2.cpp,RUNTIME_ERROR,0,6.47%,0.250,28.109375,0,0,0,0,0,0
+tou_gpt-5_3.cpp,ACCEPTED,100,100.00%,0.640,107.98828125,0,9,23,19,25,24
+tou_gpt-5_4.cpp,ACCEPTED,100,100.00%,0.890,115.015625,0,9,23,19,25,24
+tou_gpt-5_5.cpp,RUNTIME_ERROR,0,6.47%,0.140,29.85546875,0,0,0,0,0,0
+tou_gpt-5_6.cpp,ACCEPTED,100,100.00%,0.750,135.53125,0,9,23,19,25,24
+tou_gpt-5_7.cpp,ACCEPTED,100,100.00%,0.760,130.30859375,0,9,23,19,25,24

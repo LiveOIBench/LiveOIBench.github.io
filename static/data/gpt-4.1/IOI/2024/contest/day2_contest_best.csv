@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+hieroglyphs,gpt-4.1,RUNTIME_ERROR,0,4.42%,0.040,44.39453125
+sphinx,gpt-4.1,RUNTIME_ERROR,3,12.50%,0.390,4.31640625
+mosaic,gpt-4.1,RUNTIME_ERROR,29,73.85%,0.320,294.953125

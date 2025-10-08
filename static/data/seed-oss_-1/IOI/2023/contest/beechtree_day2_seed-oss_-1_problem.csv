@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+beechtree_seed-oss_0.cpp,TIME_LIMIT_EXCEEDED,0,2.42%,1.810,6.4609375,0,0,0,0,0,0,0,0,0,0
+beechtree_seed-oss_1.cpp,RUNTIME_ERROR,0,10.40%,0.040,15.22265625,0,0,0,0,0,0,0,0,0,0
+beechtree_seed-oss_2.cpp,RUNTIME_ERROR,0,8.88%,0.110,43.8125,0,0,0,0,0,0,0,0,0,0
+beechtree_seed-oss_3.cpp,RUNTIME_ERROR,0,4.22%,0.040,20.1328125,0,0,0,0,0,0,0,0,0,0
+beechtree_seed-oss_4.cpp,RUNTIME_ERROR,0,4.22%,0.050,15.22265625,0,0,0,0,0,0,0,0,0,0
+beechtree_seed-oss_5.cpp,RUNTIME_ERROR,0,4.22%,0.130,43.5390625,0,0,0,0,0,0,0,0,0,0
+beechtree_seed-oss_6.cpp,RUNTIME_ERROR,0,4.22%,0.060,26.82421875,0,0,0,0,0,0,0,0,0,0
+beechtree_seed-oss_7.cpp,RUNTIME_ERROR,0,3.64%,0.070,64.984375,0,0,0,0,0,0,0,0,0,0

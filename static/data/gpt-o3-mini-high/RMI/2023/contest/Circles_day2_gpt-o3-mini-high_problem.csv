@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Circles_gpt-o3-mini-high_0.cpp,RUNTIME_ERROR,4,12.90%,0.250,46.34765625,0,4,0,0,0,0,0
+Circles_gpt-o3-mini-high_1.cpp,ACCEPTED,100,100.00%,0.390,80.8046875,0,4,9,14,15,21,37
+Circles_gpt-o3-mini-high_2.cpp,RUNTIME_ERROR,0,23.53%,0.970,184.08203125,0,0,0,0,0,0,0
+Circles_gpt-o3-mini-high_3.cpp,RUNTIME_ERROR,48,71.11%,0.330,46.33984375,0,4,9,14,0,21,0
+Circles_gpt-o3-mini-high_4.cpp,ACCEPTED,100,100.00%,0.410,46.34375,0,4,9,14,15,21,37
+Circles_gpt-o3-mini-high_5.cpp,ACCEPTED,100,100.00%,0.450,115.08984375,0,4,9,14,15,21,37
+Circles_gpt-o3-mini-high_6.cpp,ACCEPTED,100,100.00%,0.390,46.33984375,0,4,9,14,15,21,37
+Circles_gpt-o3-mini-high_7.cpp,RUNTIME_ERROR,59,54.55%,0.500,84.05078125,0,0,9,14,15,21,0

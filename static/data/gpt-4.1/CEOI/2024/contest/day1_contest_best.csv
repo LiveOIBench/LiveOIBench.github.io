@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+covid,gpt-4.1,RUNTIME_ERROR,10,66.67%,0.090,1.53515625
+battle,gpt-4.1,TIME_LIMIT_EXCEEDED,37,82.95%,3.320,514.33203125
+editor,gpt-4.1,TIME_LIMIT_EXCEEDED,0,17.46%,4.410,14.88671875

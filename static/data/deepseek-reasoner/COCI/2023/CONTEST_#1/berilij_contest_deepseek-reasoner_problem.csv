@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+berilij_deepseek-reasoner_0.cpp,RUNTIME_ERROR,0,2.27%,0.510,13.26171875,0,0,0,0
+berilij_deepseek-reasoner_1.cpp,RUNTIME_ERROR,0,4.55%,0.900,17.30859375,0,0,0,0
+berilij_deepseek-reasoner_2.cpp,TIME_LIMIT_EXCEEDED,0,2.27%,1.120,15.7109375,0,0,0,0
+berilij_deepseek-reasoner_3.cpp,RUNTIME_ERROR,0,2.27%,0.140,12.94921875,0,0,0,0
+berilij_deepseek-reasoner_4.cpp,RUNTIME_ERROR,45,79.55%,0.220,27.47265625,15,0,30,0
+berilij_deepseek-reasoner_5.cpp,RUNTIME_ERROR,0,4.55%,0.200,18.97265625,0,0,0,0
+berilij_deepseek-reasoner_6.cpp,RUNTIME_ERROR,0,4.55%,0.140,12.51953125,0,0,0,0
+berilij_deepseek-reasoner_7.cpp,RUNTIME_ERROR,0,2.27%,0.150,12.15625,0,0,0,0

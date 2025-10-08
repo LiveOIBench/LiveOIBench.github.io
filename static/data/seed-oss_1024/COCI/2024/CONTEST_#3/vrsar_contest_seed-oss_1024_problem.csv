@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+vrsar_seed-oss_0.cpp,RUNTIME_ERROR,0,0.00%,0.090,23.05859375,0,0,0,0
+vrsar_seed-oss_1.cpp,RUNTIME_ERROR,0,0.00%,0.060,8.7734375,0,0,0,0
+vrsar_seed-oss_2.cpp,RUNTIME_ERROR,0,0.00%,0.060,9.8046875,0,0,0,0
+vrsar_seed-oss_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.220,21.4296875,0,0,0,0
+vrsar_seed-oss_4.cpp,RUNTIME_ERROR,0,0.00%,0.080,8.2578125,0,0,0,0
+vrsar_seed-oss_5.cpp,RUNTIME_ERROR,0,0.00%,0.080,14.44140625,0,0,0,0
+vrsar_seed-oss_6.cpp,RUNTIME_ERROR,0,0.00%,0.090,12.8984375,0,0,0,0
+vrsar_seed-oss_7.cpp,RUNTIME_ERROR,0,0.00%,0.070,6.96875,0,0,0,0

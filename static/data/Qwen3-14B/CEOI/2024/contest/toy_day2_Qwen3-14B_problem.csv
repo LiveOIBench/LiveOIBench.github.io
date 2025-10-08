@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+toy_Qwen3-14B_0.cpp,RUNTIME_ERROR,0,23.75%,0.040,2.0703125,0,0,0,0,0,0
+toy_Qwen3-14B_1.cpp,RUNTIME_ERROR,0,23.75%,0.040,5.08984375,0,0,0,0,0,0
+toy_Qwen3-14B_2.cpp,RUNTIME_ERROR,0,52.60%,0.040,5.1640625,0,0,0,0,0,0
+toy_Qwen3-14B_3.cpp,RUNTIME_ERROR,0,20.51%,0.040,3.61328125,0,0,0,0,0,0
+toy_Qwen3-14B_4.cpp,RUNTIME_ERROR,0,52.60%,0.040,1.5546875,0,0,0,0,0,0
+toy_Qwen3-14B_5.cpp,RUNTIME_ERROR,0,6.93%,0.040,1.5546875,0,0,0,0,0,0
+toy_Qwen3-14B_6.cpp,RUNTIME_ERROR,0,6.93%,0.040,1.8046875,0,0,0,0,0,0
+toy_Qwen3-14B_7.cpp,RUNTIME_ERROR,0,52.60%,0.040,3.1015625,0,0,0,0,0,0

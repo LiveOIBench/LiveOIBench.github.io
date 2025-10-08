@@ -1,0 +1,7 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+aquarelle,gpt-oss-120b-medium,TIME_LIMIT_EXCEEDED,89,89.00%,96.20%,0.440,76.57421875
+parentheses,gpt-oss-120b-medium,ACCEPTED,100,100.00%,100.00%,0.100,7.40234375
+tolls,gpt-oss-120b-medium,ACCEPTED,100,100.00%,100.00%,0.070,12.234375
+twins,gpt-oss-120b-medium,RUNTIME_ERROR,0,0.00%,0.00%,0.030,1.546875
+walk,gpt-oss-120b-medium,RUNTIME_ERROR,0,0.00%,0.00%,0.030,0.00390625
+xy,gpt-oss-120b-medium,RUNTIME_ERROR,0,0.00%,0.00%,0.040,4.13671875

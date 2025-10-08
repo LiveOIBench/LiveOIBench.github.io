@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+roboti_Qwen3-14B_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+roboti_Qwen3-14B_1.cpp,RUNTIME_ERROR,0,2.27%,0.470,15.7265625,0,0,0,0
+roboti_Qwen3-14B_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+roboti_Qwen3-14B_3.cpp,RUNTIME_ERROR,0,0.00%,0.330,0.00390625,0,0,0,0
+roboti_Qwen3-14B_4.cpp,TIME_LIMIT_EXCEEDED,10,13.64%,2.210,23.44140625,10,0,0,0
+roboti_Qwen3-14B_5.cpp,RUNTIME_ERROR,0,0.00%,0.270,0.00390625,0,0,0,0
+roboti_Qwen3-14B_6.cpp,RUNTIME_ERROR,0,2.27%,0.340,0.00390625,0,0,0,0
+roboti_Qwen3-14B_7.cpp,RUNTIME_ERROR,0,0.00%,0.650,0.00390625,0,0,0,0

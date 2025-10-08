@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Cowntact_Tracing_gemini-2.5-flash_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Cowntact_Tracing_gemini-2.5-flash_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,280.91796875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Cowntact_Tracing_gemini-2.5-flash_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Cowntact_Tracing_gemini-2.5-flash_3.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,1.770,281.02734375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Cowntact_Tracing_gemini-2.5-flash_4.cpp,TIME_LIMIT_EXCEEDED,33,17.39%,2.230,18.37109375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16.666666666666664,16.666666666666664,0,0,0,0,0
+platinum_Cowntact_Tracing_gemini-2.5-flash_5.cpp,TIME_LIMIT_EXCEEDED,0,8.70%,2.230,12.453125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Cowntact_Tracing_gemini-2.5-flash_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.230,280.9296875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Cowntact_Tracing_gemini-2.5-flash_7.cpp,TIME_LIMIT_EXCEEDED,17,17.39%,2.230,13.26953125,0,0,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+jobs,gpt-oss-20b-low,RUNTIME_ERROR,0,0.00%,0.050,20.203125
+portal,gpt-oss-20b-low,RUNTIME_ERROR,11,33.51%,0.000,2.84765625
+trains,gpt-oss-20b-low,RUNTIME_ERROR,0,40.00%,0.180,38.671875

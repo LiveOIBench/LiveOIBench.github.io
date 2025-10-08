@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+diplomacy,seed-oss_4096,RUNTIME_ERROR,0,0.00%,0.060,6.703125
+garbage,seed-oss_4096,TIME_LIMIT_EXCEEDED,0,15.07%,5.980,6.9765625
+xoracle,seed-oss_4096,ACCEPTED,100,100.00%,0.370,3.5390625

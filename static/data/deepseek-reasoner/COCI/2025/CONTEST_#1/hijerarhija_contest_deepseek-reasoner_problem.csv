@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+hijerarhija_deepseek-reasoner_0.cpp,ACCEPTED,90,100.00%,0.390,36.875,7,12,16,15,23,17
+hijerarhija_deepseek-reasoner_1.cpp,ACCEPTED,90,100.00%,0.550,21.921875,7,12,16,15,23,17
+hijerarhija_deepseek-reasoner_2.cpp,ACCEPTED,90,100.00%,0.330,19.03125,7,12,16,15,23,17
+hijerarhija_deepseek-reasoner_3.cpp,ACCEPTED,90,100.00%,0.390,36.875,7,12,16,15,23,17
+hijerarhija_deepseek-reasoner_4.cpp,ACCEPTED,90,100.00%,0.320,16.171875,7,12,16,15,23,17
+hijerarhija_deepseek-reasoner_5.cpp,ACCEPTED,90,100.00%,0.290,16.171875,7,12,16,15,23,17
+hijerarhija_deepseek-reasoner_6.cpp,ACCEPTED,90,100.00%,0.400,36.875,7,12,16,15,23,17
+hijerarhija_deepseek-reasoner_7.cpp,TIME_LIMIT_EXCEEDED,50,63.89%,3.370,47.0234375,7,12,16,15,0,0

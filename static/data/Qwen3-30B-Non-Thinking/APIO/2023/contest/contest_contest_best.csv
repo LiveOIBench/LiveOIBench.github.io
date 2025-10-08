@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+sequence,Qwen3-30B-Non-Thinking,TIME_LIMIT_EXCEEDED,0,16.85%,1.800,46.78515625
+abc,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,4,16.00%,0.170,13.3203125
+cyberland,Qwen3-30B-Non-Thinking,MEMORY_LIMIT_EXCEEDED,20,24.39%,0.780,2445.09765625

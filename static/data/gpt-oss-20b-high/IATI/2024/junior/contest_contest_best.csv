@@ -1,0 +1,7 @@
+problem,model,status,score,%test passed,time,memory
+aquarelle,gpt-oss-20b-high,RUNTIME_ERROR,0,35.40%,0.030,1.8125
+parentheses,gpt-oss-20b-high,ACCEPTED,100,100.00%,0.100,7.390625
+tolls,gpt-oss-20b-high,ACCEPTED,100,100.00%,0.070,5.09765625
+twins,gpt-oss-20b-high,UNKNOWN,0,0.00%,0.000,0
+walk,gpt-oss-20b-high,ACCEPTED,100,100.00%,0.130,13.8671875
+xy,gpt-oss-20b-high,RUNTIME_ERROR,0,0.00%,0.030,11.609375

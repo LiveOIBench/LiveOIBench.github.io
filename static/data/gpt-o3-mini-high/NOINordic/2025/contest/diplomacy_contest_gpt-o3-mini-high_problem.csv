@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+diplomacy_gpt-o3-mini-high_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+diplomacy_gpt-o3-mini-high_1.cpp,TIME_LIMIT_EXCEEDED,25,61.46%,4.430,125.6015625,9,10,6,0,0,0,0
+diplomacy_gpt-o3-mini-high_2.cpp,TIME_LIMIT_EXCEEDED,25,57.29%,4.430,165.1484375,9,10,6,0,0,0,0
+diplomacy_gpt-o3-mini-high_3.cpp,RUNTIME_ERROR,0,0.00%,1.850,102.515625,0,0,0,0,0,0,0
+diplomacy_gpt-o3-mini-high_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.420,252.14453125,0,0,0,0,0,0,0
+diplomacy_gpt-o3-mini-high_5.cpp,RUNTIME_ERROR,9,22.58%,1.010,92.7734375,9,0,0,0,0,0,0
+diplomacy_gpt-o3-mini-high_6.cpp,RUNTIME_ERROR,0,0.00%,1.900,312.18359375,0,0,0,0,0,0,0
+diplomacy_gpt-o3-mini-high_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0

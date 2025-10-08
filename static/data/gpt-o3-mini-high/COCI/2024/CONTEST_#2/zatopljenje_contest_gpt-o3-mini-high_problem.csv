@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+zatopljenje_gpt-o3-mini-high_0.cpp,ACCEPTED,110,100.00%,0.150,22.6328125,10,20,20,60
+zatopljenje_gpt-o3-mini-high_1.cpp,ACCEPTED,110,100.00%,0.140,8.23828125,10,20,20,60
+zatopljenje_gpt-o3-mini-high_2.cpp,ACCEPTED,110,100.00%,0.140,9.03125,10,20,20,60
+zatopljenje_gpt-o3-mini-high_3.cpp,ACCEPTED,110,100.00%,0.140,9.01171875,10,20,20,60
+zatopljenje_gpt-o3-mini-high_4.cpp,RUNTIME_ERROR,20,25.00%,0.130,8.23828125,0,20,0,0
+zatopljenje_gpt-o3-mini-high_5.cpp,ACCEPTED,110,100.00%,0.150,9.01171875,10,20,20,60
+zatopljenje_gpt-o3-mini-high_6.cpp,ACCEPTED,110,100.00%,0.140,12.0390625,10,20,20,60
+zatopljenje_gpt-o3-mini-high_7.cpp,RUNTIME_ERROR,20,25.00%,0.130,10.53515625,0,20,0,0

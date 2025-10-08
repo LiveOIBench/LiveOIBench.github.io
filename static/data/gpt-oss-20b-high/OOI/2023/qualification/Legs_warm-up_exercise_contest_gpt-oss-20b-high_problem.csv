@@ -1,0 +1,5 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Legs_warm-up_exercise_gpt-oss-20b-high_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,7.210,17.58984375,0,0,0,0,0,0,0,0,0,0,0
+Legs_warm-up_exercise_gpt-oss-20b-high_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,7.210,8.8125,0,0,0,0,0,0,0,0,0,0,0
+Legs_warm-up_exercise_gpt-oss-20b-high_6.cpp,RUNTIME_ERROR,0,0.00%,0.050,2.07421875,0,0,0,0,0,0,0,0,0,0,0
+Legs_warm-up_exercise_gpt-oss-20b-high_7.cpp,RUNTIME_ERROR,0,0.00%,0.040,2.07421875,0,0,0,0,0,0,0,0,0,0,0

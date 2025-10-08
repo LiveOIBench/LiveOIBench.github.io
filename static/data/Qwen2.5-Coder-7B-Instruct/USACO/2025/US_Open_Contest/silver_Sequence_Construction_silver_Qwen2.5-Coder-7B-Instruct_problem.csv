@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Sequence_Construction_Qwen2.5-Coder-7B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.490,0.00390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Sequence_Construction_Qwen2.5-Coder-7B-Instruct_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Sequence_Construction_Qwen2.5-Coder-7B-Instruct_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Sequence_Construction_Qwen2.5-Coder-7B-Instruct_3.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.940,129.5546875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Sequence_Construction_Qwen2.5-Coder-7B-Instruct_4.cpp,WRONG_ANSWER,0,0.00%,0.120,0.00390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Sequence_Construction_Qwen2.5-Coder-7B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.220,2.10546875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Sequence_Construction_Qwen2.5-Coder-7B-Instruct_6.cpp,WRONG_ANSWER,0,0.00%,0.120,0.00390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Sequence_Construction_Qwen2.5-Coder-7B-Instruct_7.cpp,WRONG_ANSWER,0,0.00%,0.170,0.00390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

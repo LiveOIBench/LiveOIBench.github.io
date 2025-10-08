@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+toy,Qwen3-14B-Non-Thinking,TIME_LIMIT_EXCEEDED,14,56.81%,1.490,1121.8125
+stations,Qwen3-14B-Non-Thinking,RUNTIME_ERROR,0,4.55%,0.120,5.30078125
+sprinklers,Qwen3-14B-Non-Thinking,RUNTIME_ERROR,6,21.74%,0.050,2.47265625

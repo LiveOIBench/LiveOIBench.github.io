@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+Stone_Enthusiast_gpt-oss-120b-low_0.cpp,ACCEPTED,100,100.00%,0.260,21.90234375,0.0,16.0,14.0,12.0,16.0,11.0,17.0,14.0
+Stone_Enthusiast_gpt-oss-120b-low_1.cpp,RUNTIME_ERROR,0,26.12%,0.400,2.81640625,0.0,0,0,0,0,0,0,0
+Stone_Enthusiast_gpt-oss-120b-low_2.cpp,ACCEPTED,100,100.00%,0.340,21.90234375,0.0,16.0,14.0,12.0,16.0,11.0,17.0,14.0
+Stone_Enthusiast_gpt-oss-120b-low_3.cpp,ACCEPTED,100,100.00%,0.280,21.90234375,0.0,16.0,14.0,12.0,16.0,11.0,17.0,14.0
+Stone_Enthusiast_gpt-oss-120b-low_4.cpp,ACCEPTED,100,100.00%,0.260,21.890625,0.0,16.0,14.0,12.0,16.0,11.0,17.0,14.0
+Stone_Enthusiast_gpt-oss-120b-low_5.cpp,RUNTIME_ERROR,0,5.04%,0.080,21.64453125,0,0,0,0,0,0,0,0
+Stone_Enthusiast_gpt-oss-120b-low_6.cpp,ACCEPTED,100,100.00%,0.410,2.8203125,0.0,16.0,14.0,12.0,16.0,11.0,17.0,14.0
+Stone_Enthusiast_gpt-oss-120b-low_7.cpp,ACCEPTED,100,100.00%,0.240,21.77734375,0.0,16.0,14.0,12.0,16.0,11.0,17.0,14.0

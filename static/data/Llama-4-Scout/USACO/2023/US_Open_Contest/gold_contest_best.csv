@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Custodial_Cleanup,Llama-4-Scout,WRONG_ANSWER,0,5.56%,0.070,2.91015625
+gold_Pareidolia,Llama-4-Scout,RUNTIME_ERROR,0,0.00%,0.020,1.5546875
+gold_Tree_Merging,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0

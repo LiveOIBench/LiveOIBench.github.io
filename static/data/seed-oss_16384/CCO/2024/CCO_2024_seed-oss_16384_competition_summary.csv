@@ -1,0 +1,5 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_0
+s1,COMPILATION_ERROR,0,0.00%,0.000,0,,0
+j1,ACCEPTED,15,100.00%,0.010,0,,15
+j2,ACCEPTED,15,100.00%,0.020,0.00390625,,15
+TOTAL,,30,66.67%,,,66.67%,

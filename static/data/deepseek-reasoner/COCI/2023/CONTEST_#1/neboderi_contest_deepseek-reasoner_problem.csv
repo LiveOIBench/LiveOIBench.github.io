@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+neboderi_deepseek-reasoner_0.cpp,ACCEPTED,110,100.00%,0.630,12.90234375,11,22,27,18,32
+neboderi_deepseek-reasoner_1.cpp,ACCEPTED,110,100.00%,0.660,5.1640625,11,22,27,18,32
+neboderi_deepseek-reasoner_2.cpp,RUNTIME_ERROR,38,40.74%,0.590,5.1640625,11,0,27,0,0
+neboderi_deepseek-reasoner_3.cpp,RUNTIME_ERROR,38,38.89%,0.520,5.1640625,11,0,27,0,0
+neboderi_deepseek-reasoner_4.cpp,ACCEPTED,110,100.00%,0.660,12.8984375,11,22,27,18,32
+neboderi_deepseek-reasoner_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+neboderi_deepseek-reasoner_6.cpp,ACCEPTED,110,100.00%,0.620,12.8984375,11,22,27,18,32
+neboderi_deepseek-reasoner_7.cpp,ACCEPTED,110,100.00%,0.690,5.1640625,11,22,27,18,32

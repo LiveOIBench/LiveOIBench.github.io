@@ -1,0 +1,6 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+iksevi_gpt-oss-20b-high_1.cpp,ACCEPTED,110,100.00%,0.350,41.9765625,15,55,40
+iksevi_gpt-oss-20b-high_2.cpp,RUNTIME_ERROR,15,33.33%,0.590,80.4296875,15,0,0
+iksevi_gpt-oss-20b-high_3.cpp,ACCEPTED,110,100.00%,0.370,43.26953125,15,55,40
+iksevi_gpt-oss-20b-high_4.cpp,ACCEPTED,110,100.00%,0.370,39.4921875,15,55,40
+iksevi_gpt-oss-20b-high_5.cpp,MEMORY_LIMIT_EXCEEDED,15,16.67%,0.370,299.0859375,15,0,0

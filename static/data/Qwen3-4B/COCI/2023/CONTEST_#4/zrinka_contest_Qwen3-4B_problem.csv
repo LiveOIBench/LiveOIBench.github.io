@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+zrinka_Qwen3-4B_0.cpp,RUNTIME_ERROR,15,20.00%,0.020,0.00390625,15,0,0,0
+zrinka_Qwen3-4B_1.cpp,RUNTIME_ERROR,35,40.00%,0.020,0.00390625,15,20,0,0
+zrinka_Qwen3-4B_2.cpp,RUNTIME_ERROR,15,20.00%,0.010,0,15,0,0,0
+zrinka_Qwen3-4B_4.cpp,RUNTIME_ERROR,15,20.00%,0.020,1.5546875,15,0,0,0
+zrinka_Qwen3-4B_5.cpp,RUNTIME_ERROR,35,40.00%,0.010,0.00390625,15,20,0,0
+zrinka_Qwen3-4B_6.cpp,RUNTIME_ERROR,15,20.00%,0.020,1.5546875,15,0,0,0
+zrinka_Qwen3-4B_7.cpp,RUNTIME_ERROR,15,20.00%,0.020,1.8125,15,0,0,0

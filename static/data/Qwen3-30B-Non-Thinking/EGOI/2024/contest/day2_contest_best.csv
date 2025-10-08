@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+circlepassing,Qwen3-30B-Non-Thinking,TIME_LIMIT_EXCEEDED,20,48.48%,2.300,52.859375
+makethemmeet,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,0,7.14%,0.000,0
+lightbulbs,Qwen3-30B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+bikeparking,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,16,45.10%,0.000,0

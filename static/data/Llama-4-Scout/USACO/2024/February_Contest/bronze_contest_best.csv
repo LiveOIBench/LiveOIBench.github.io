@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Palindrome_Game,Llama-4-Scout,WRONG_ANSWER,111,38.46%,0.020,0.00390625
+bronze_Milk_Exchange,Llama-4-Scout,TIME_LIMIT_EXCEEDED,128,50.00%,2.420,5.57421875
+bronze_Maximizing_Productivity,Llama-4-Scout,TIME_LIMIT_EXCEEDED,167,52.94%,2.420,4.390625

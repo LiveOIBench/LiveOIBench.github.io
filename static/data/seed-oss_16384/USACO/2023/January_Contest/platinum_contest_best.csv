@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Tractor_Paths,seed-oss_16384,WRONG_ANSWER,0,6.25%,0.070,8.1484375
+platinum_Mana_Collection,seed-oss_16384,WRONG_ANSWER,0,4.17%,0.050,0.00390625
+platinum_Subtree_Activation,seed-oss_16384,WRONG_ANSWER,0,4.76%,0.020,0.00390625

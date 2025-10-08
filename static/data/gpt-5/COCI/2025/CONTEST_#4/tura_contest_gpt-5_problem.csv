@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+tura_gpt-5_0.cpp,RUNTIME_ERROR,109,73.38%,0.060,2.8359375,0,41,68
+tura_gpt-5_1.cpp,RUNTIME_ERROR,0,28.06%,0.060,2.3203125,0,0,0
+tura_gpt-5_2.cpp,RUNTIME_ERROR,0,0.72%,0.060,1.55078125,0,0,0
+tura_gpt-5_3.cpp,RUNTIME_ERROR,0,17.99%,0.060,4.38671875,0,0,0
+tura_gpt-5_4.cpp,RUNTIME_ERROR,41,33.81%,0.070,4.58984375,0,41,0
+tura_gpt-5_5.cpp,RUNTIME_ERROR,41,30.22%,0.070,6.3046875,0,41,0
+tura_gpt-5_6.cpp,RUNTIME_ERROR,41,33.81%,0.060,5.9296875,0,41,0
+tura_gpt-5_7.cpp,RUNTIME_ERROR,0,0.72%,0.060,1.55078125,0,0,0

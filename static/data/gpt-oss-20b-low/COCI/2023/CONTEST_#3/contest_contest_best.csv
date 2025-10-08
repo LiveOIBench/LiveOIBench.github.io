@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+estimathon,gpt-oss-20b-low,ACCEPTED,50,100.00%,0.010,0
+dirigent,gpt-oss-20b-low,ACCEPTED,70,100.00%,0.080,3.875
+baltazar,gpt-oss-20b-low,COMPILATION_ERROR,0,0.00%,0.000,0
+bomboni,gpt-oss-20b-low,ACCEPTED,110,100.00%,0.160,17.01953125
+skrivaca,gpt-oss-20b-low,RUNTIME_ERROR,0,0.00%,0.090,14.828125

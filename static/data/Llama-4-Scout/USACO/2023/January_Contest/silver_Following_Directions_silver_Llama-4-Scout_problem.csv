@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Following_Directions_Llama-4-Scout_0.cpp,WRONG_ANSWER,0,0.00%,3.620,26.81640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Following_Directions_Llama-4-Scout_1.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,3.140,26.55859375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Following_Directions_Llama-4-Scout_2.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,3.610,18.05078125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Following_Directions_Llama-4-Scout_3.cpp,WRONG_ANSWER,0,0.00%,0.030,26.66015625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Following_Directions_Llama-4-Scout_4.cpp,TIME_LIMIT_EXCEEDED,143,46.67%,9.620,12.125,0,23.809523809523807,0,0,0,0,0,23.809523809523807,23.809523809523807,23.809523809523807,23.809523809523807,23.809523809523807,0,0,0
+silver_Following_Directions_Llama-4-Scout_5.cpp,WRONG_ANSWER,0,0.00%,3.180,35.06640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Following_Directions_Llama-4-Scout_6.cpp,TIME_LIMIT_EXCEEDED,143,46.67%,9.620,9.28515625,0,23.809523809523807,0,0,0,0,0,23.809523809523807,23.809523809523807,23.809523809523807,23.809523809523807,23.809523809523807,0,0,0
+silver_Following_Directions_Llama-4-Scout_7.cpp,WRONG_ANSWER,0,0.00%,0.040,27.3359375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

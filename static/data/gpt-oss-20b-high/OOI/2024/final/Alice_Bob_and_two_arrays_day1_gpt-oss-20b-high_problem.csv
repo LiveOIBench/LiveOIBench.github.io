@@ -1,0 +1,4 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Alice_Bob_and_two_arrays_gpt-oss-20b-high_1.cpp,ACCEPTED,100,100.00%,2.650,28.88671875,0.0,13.0,10.0,7.0,12.0,11.0,8.0,10.0,7.0,6.0,7.0,9.0
+Alice_Bob_and_two_arrays_gpt-oss-20b-high_2.cpp,ACCEPTED,100,100.00%,0.320,8.2578125,0.0,13.0,10.0,7.0,12.0,11.0,8.0,10.0,7.0,6.0,7.0,9.0
+Alice_Bob_and_two_arrays_gpt-oss-20b-high_3.cpp,TIME_LIMIT_EXCEEDED,71,89.10%,2.980,22.69140625,0.0,13.0,0,0,0,11.0,8.0,10.0,7.0,6.0,7.0,9.0

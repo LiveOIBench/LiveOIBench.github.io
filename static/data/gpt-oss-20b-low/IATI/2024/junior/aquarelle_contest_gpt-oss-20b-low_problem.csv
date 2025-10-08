@@ -1,0 +1,7 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+aquarelle_gpt-oss-20b-low_1.cpp,RUNTIME_ERROR,0,51.82%,0.020,3.609375,0,0,0,0,0,0
+aquarelle_gpt-oss-20b-low_2.cpp,RUNTIME_ERROR,0,5.88%,0.000,0,0,0,0,0,0,0
+aquarelle_gpt-oss-20b-low_3.cpp,RUNTIME_ERROR,0,5.88%,0.020,2.33203125,0,0,0,0,0,0
+aquarelle_gpt-oss-20b-low_5.cpp,RUNTIME_ERROR,0,5.88%,0.020,2.33203125,0,0,0,0,0,0
+aquarelle_gpt-oss-20b-low_6.cpp,RUNTIME_ERROR,0,5.88%,0.020,2.0703125,0,0,0,0,0,0
+aquarelle_gpt-oss-20b-low_7.cpp,RUNTIME_ERROR,0,11.24%,0.000,0,0,0,0,0,0,0

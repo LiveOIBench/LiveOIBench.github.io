@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Alice_Bob_and_two_arrays_seed-oss_0.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alice_Bob_and_two_arrays_seed-oss_1.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alice_Bob_and_two_arrays_seed-oss_2.cpp,MEMORY_LIMIT_EXCEEDED,13,32.52%,0.060,35.40234375,0.0,13.0,0,0,0,0,0,0,0,0,0,0
+Alice_Bob_and_two_arrays_seed-oss_3.cpp,TIME_LIMIT_EXCEEDED,7,9.84%,2.980,3.1015625,0,0,0,0,0,0,0,0,7.0,0,0,0
+Alice_Bob_and_two_arrays_seed-oss_4.cpp,RUNTIME_ERROR,0,0.00%,0.040,1.5546875,0,0,0,0,0,0,0,0,0,0,0,0
+Alice_Bob_and_two_arrays_seed-oss_5.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alice_Bob_and_two_arrays_seed-oss_6.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alice_Bob_and_two_arrays_seed-oss_7.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+osobna,Qwen3-32B-Non-Thinking,ACCEPTED,50,100.00%,0.000,0
+skokovi,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,20,47.92%,0.060,2.84765625
+hijerarhija,Qwen3-32B-Non-Thinking,TIME_LIMIT_EXCEEDED,22,41.67%,3.360,28.10546875
+uciteljica,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,3.28%,0.500,1.5546875
+zbunjenost,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,1.61%,0.030,0

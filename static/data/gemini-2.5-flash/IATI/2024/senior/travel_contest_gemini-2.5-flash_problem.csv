@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+travel_gemini-2.5-flash_0.cpp,RUNTIME_ERROR,0,0.00%,0.640,213.203125,0,0,0,0,0,0,0
+travel_gemini-2.5-flash_1.cpp,RUNTIME_ERROR,0,0.00%,0.510,140.72265625,0,0,0,0,0,0,0
+travel_gemini-2.5-flash_2.cpp,RUNTIME_ERROR,0,0.00%,0.230,37.6484375,0,0,0,0,0,0,0
+travel_gemini-2.5-flash_3.cpp,TIME_LIMIT_EXCEEDED,20,29.41%,1.260,37.65234375,10,10,0,0,0,0,0
+travel_gemini-2.5-flash_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.270,173.0078125,0,0,0,0,0,0,0
+travel_gemini-2.5-flash_5.cpp,TIME_LIMIT_EXCEEDED,20,29.41%,1.240,85.53515625,10,10,0,0,0,0,0
+travel_gemini-2.5-flash_6.cpp,TIME_LIMIT_EXCEEDED,20,29.41%,1.270,62.140625,10,10,0,0,0,0,0
+travel_gemini-2.5-flash_7.cpp,TIME_LIMIT_EXCEEDED,0,7.06%,1.260,165.7109375,0,0,0,0,0,0,0

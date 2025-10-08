@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+platinum_Pareidolia,gpt-oss-120b-medium,ACCEPTED,333,104.06%,100.00%,0.320,101.10546875
+platinum_Good_Bitstrings,gpt-oss-120b-medium,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0
+platinum_Triples_of_Cows,gpt-oss-120b-medium,WRONG_ANSWER,0,0.00%,10.00%,0.110,19.703125

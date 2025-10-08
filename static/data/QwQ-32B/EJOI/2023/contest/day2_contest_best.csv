@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+square_grid_puzzle,QwQ-32B,RUNTIME_ERROR,0,0.00%,0.000,0
+team_building,QwQ-32B,TIME_LIMIT_EXCEEDED,45,42.86%,1.140,2.0703125
+tree_infection,QwQ-32B,RUNTIME_ERROR,15,14.81%,0.510,150.6875

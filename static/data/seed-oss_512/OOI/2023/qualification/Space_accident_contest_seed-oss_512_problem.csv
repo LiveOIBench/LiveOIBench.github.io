@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Space_accident_seed-oss_0.cpp,RUNTIME_ERROR,0,15.44%,0.040,2.015625,0,0,0,0,0,0,0
+Space_accident_seed-oss_1.cpp,RUNTIME_ERROR,0,3.79%,0.040,0,0,0,0,0,0,0,0
+Space_accident_seed-oss_2.cpp,RUNTIME_ERROR,10,18.94%,0.050,2.015625,0,0,0,10.0,0,0,0
+Space_accident_seed-oss_3.cpp,RUNTIME_ERROR,10,16.67%,0.050,2.0703125,0,0,0,10.0,0,0,0
+Space_accident_seed-oss_4.cpp,RUNTIME_ERROR,10,26.47%,0.040,0.00390625,0,0,0,10.0,0,0,0
+Space_accident_seed-oss_5.cpp,RUNTIME_ERROR,0,4.55%,0.040,0.00390625,0,0,0,0,0,0,0
+Space_accident_seed-oss_6.cpp,RUNTIME_ERROR,0,3.79%,0.000,0,0,0,0,0,0,0,0
+Space_accident_seed-oss_7.cpp,RUNTIME_ERROR,0,3.79%,0.040,0.00390625,0,0,0,0,0,0,0

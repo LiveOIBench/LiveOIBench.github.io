@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Lazy_Cow,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Minimum_Sum_of_Maximums,Qwen3-4B-Non-Thinking,MEMORY_LIMIT_EXCEEDED,0,16.67%,0.230,280.265625
+platinum_Infinite_Adventure,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0

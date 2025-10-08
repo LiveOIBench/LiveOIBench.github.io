@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Tractor_Paths,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Mana_Collection,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Subtree_Activation,Qwen3-4B-Non-Thinking,WRONG_ANSWER,0,4.76%,0.120,8.1796875

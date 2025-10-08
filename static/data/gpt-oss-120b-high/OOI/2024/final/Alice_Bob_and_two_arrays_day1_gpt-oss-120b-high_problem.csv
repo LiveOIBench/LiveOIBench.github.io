@@ -1,0 +1,6 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Alice_Bob_and_two_arrays_gpt-oss-120b-high_0.cpp,RUNTIME_ERROR,26,46.99%,1.700,252.3984375,0.0,0,0,0,0,11.0,8.0,0,7.0,0,0,0
+Alice_Bob_and_two_arrays_gpt-oss-120b-high_2.cpp,TIME_LIMIT_EXCEEDED,13,36.22%,2.990,1225.90625,0.0,13.0,0,0,0,0,0,0,0,0,0,0
+Alice_Bob_and_two_arrays_gpt-oss-120b-high_4.cpp,ACCEPTED,100,100.00%,0.520,41.7734375,0.0,13.0,10.0,7.0,12.0,11.0,8.0,10.0,7.0,6.0,7.0,9.0
+Alice_Bob_and_two_arrays_gpt-oss-120b-high_6.cpp,RUNTIME_ERROR,0,0.00%,0.150,271.2265625,0,0,0,0,0,0,0,0,0,0,0,0
+Alice_Bob_and_two_arrays_gpt-oss-120b-high_7.cpp,ACCEPTED,100,100.00%,1.700,37.90234375,0.0,13.0,10.0,7.0,12.0,11.0,8.0,10.0,7.0,6.0,7.0,9.0

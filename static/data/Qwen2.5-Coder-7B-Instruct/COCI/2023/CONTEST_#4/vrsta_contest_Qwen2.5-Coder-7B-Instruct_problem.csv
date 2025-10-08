@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+vrsta_Qwen2.5-Coder-7B-Instruct_0.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.410,3.296875,0,0,0,0
+vrsta_Qwen2.5-Coder-7B-Instruct_1.cpp,RUNTIME_ERROR,0,0.00%,0.130,2.84765625,0,0,0,0
+vrsta_Qwen2.5-Coder-7B-Instruct_2.cpp,RUNTIME_ERROR,0,0.00%,0.090,3.9921875,0,0,0,0
+vrsta_Qwen2.5-Coder-7B-Instruct_3.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.390,372.30078125,0,0,0,0
+vrsta_Qwen2.5-Coder-7B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,19,20.00%,1.150,399.6171875,19,0,0,0
+vrsta_Qwen2.5-Coder-7B-Instruct_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+vrsta_Qwen2.5-Coder-7B-Instruct_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+vrsta_Qwen2.5-Coder-7B-Instruct_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.060,1.6796875,0,0,0,0

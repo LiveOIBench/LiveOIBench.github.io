@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+bikesvscars,QwQ-32B,UNKNOWN,0,0.00%,0.000,0
+ppp,QwQ-32B,TIME_LIMIT_EXCEEDED,0,5.71%,3.310,12.640625
+findthebox,QwQ-32B,RUNTIME_ERROR,0,10.53%,0.080,1.484375
+inflation,QwQ-32B,RUNTIME_ERROR,84,82.56%,0.190,16.16796875

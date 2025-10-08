@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3
+2024-open-t3_Library_3_gpt-5_0.cpp,RUNTIME_ERROR,2,52.38%,0.040,1.5390625,2,0,0
+2024-open-t3_Library_3_gpt-5_1.cpp,RUNTIME_ERROR,0,6.67%,0.130,0,0,0,0
+2024-open-t3_Library_3_gpt-5_2.cpp,RUNTIME_ERROR,2,54.69%,0.170,1.5390625,2,0,0
+2024-open-t3_Library_3_gpt-5_3.cpp,RUNTIME_ERROR,0,6.67%,0.120,0,0,0,0
+2024-open-t3_Library_3_gpt-5_4.cpp,RUNTIME_ERROR,21,78.95%,0.340,3.44140625,2,19,0
+2024-open-t3_Library_3_gpt-5_5.cpp,RUNTIME_ERROR,2,52.38%,0.150,1.5390625,2,0,0
+2024-open-t3_Library_3_gpt-5_6.cpp,RUNTIME_ERROR,2,52.38%,0.140,1.484375,2,0,0
+2024-open-t3_Library_3_gpt-5_7.cpp,ACCEPTED,100,100.00%,0.310,1.54296875,2,19,79

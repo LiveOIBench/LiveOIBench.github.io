@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+sudoku,gpt-o3-mini-high,ACCEPTED,50,100.00%,0.000,0
+labirint,gpt-o3-mini-high,ACCEPTED,70,100.00%,0.030,0.00390625
+an2dl,gpt-o3-mini-high,ACCEPTED,110,100.00%,1.140,99.0078125
+kocke,gpt-o3-mini-high,RUNTIME_ERROR,0,13.33%,0.000,0
+mostovi,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,30,56.78%,3.340,8.14453125

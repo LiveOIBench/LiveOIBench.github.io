@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+dev,gemini-2.5-flash,MEMORY_LIMIT_EXCEEDED,0,3.85%,0.430,562.03515625
+exp,gemini-2.5-flash,RUNTIME_ERROR,37,44.97%,0.060,47.1875
+gcd,gemini-2.5-flash,RUNTIME_ERROR,0,3.28%,0.000,0

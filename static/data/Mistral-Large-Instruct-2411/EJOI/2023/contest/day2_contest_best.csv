@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+square_grid_puzzle,Mistral-Large-Instruct-2411,RUNTIME_ERROR,0,0.00%,0.000,0
+team_building,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0
+tree_infection,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0

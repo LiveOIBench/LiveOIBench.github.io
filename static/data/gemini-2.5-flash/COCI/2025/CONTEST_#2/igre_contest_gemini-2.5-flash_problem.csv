@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+igre_gemini-2.5-flash_0.cpp,RUNTIME_ERROR,23,26.53%,0.060,1.5546875,0,0,23,0
+igre_gemini-2.5-flash_1.cpp,TIME_LIMIT_EXCEEDED,6,20.41%,2.270,192.33984375,6,0,0,0
+igre_gemini-2.5-flash_2.cpp,RUNTIME_ERROR,23,26.53%,0.050,1.55859375,0,0,23,0
+igre_gemini-2.5-flash_3.cpp,RUNTIME_ERROR,0,0.00%,0.030,1.55859375,0,0,0,0
+igre_gemini-2.5-flash_4.cpp,RUNTIME_ERROR,0,0.00%,0.030,1.5546875,0,0,0,0
+igre_gemini-2.5-flash_5.cpp,RUNTIME_ERROR,23,26.53%,0.070,1.55859375,0,0,23,0
+igre_gemini-2.5-flash_6.cpp,TIME_LIMIT_EXCEEDED,42,63.27%,2.210,94.8828125,6,13,23,0
+igre_gemini-2.5-flash_7.cpp,RUNTIME_ERROR,23,26.53%,0.050,1.55859375,0,0,23,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Parallel_Universes_gemini-2.5-pro_0.cpp,RUNTIME_ERROR,0,0.72%,0.030,0.00390625,0,0,0,0,0,0,0,0,0,0,0
+Parallel_Universes_gemini-2.5-pro_1.cpp,RUNTIME_ERROR,11,8.70%,0.090,2.171875,0,0,0,0,0,11.0,0,0,0,0,0
+Parallel_Universes_gemini-2.5-pro_2.cpp,TIME_LIMIT_EXCEEDED,30,30.94%,2.210,3.8828125,0,0,0,7.0,0,11.0,0,0,12.0,0,0
+Parallel_Universes_gemini-2.5-pro_3.cpp,RUNTIME_ERROR,0,1.45%,0.090,0.00390625,0,0,0,0,0,0,0,0,0,0,0
+Parallel_Universes_gemini-2.5-pro_4.cpp,RUNTIME_ERROR,0,1.45%,0.090,0.00390625,0,0,0,0,0,0,0,0,0,0,0
+Parallel_Universes_gemini-2.5-pro_5.cpp,RUNTIME_ERROR,0,2.17%,0.090,0.00390625,0,0,0,0,0,0,0,0,0,0,0
+Parallel_Universes_gemini-2.5-pro_6.cpp,RUNTIME_ERROR,7,14.29%,0.090,1.65625,0.0,0,0,7.0,0,0,0,0,0,0,0
+Parallel_Universes_gemini-2.5-pro_7.cpp,RUNTIME_ERROR,15,25.90%,0.260,58.5625,0,0,0,7.0,0,0,0,0,0,0,8.0

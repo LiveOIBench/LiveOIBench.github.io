@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+hieroglyphs,deepseek-chat,RUNTIME_ERROR,3,9.09%,0.050,24.82421875
+sphinx,deepseek-chat,RUNTIME_ERROR,0,6.38%,0.050,3.859375
+mosaic,deepseek-chat,RUNTIME_ERROR,7,27.16%,0.100,7.02734375

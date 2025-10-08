@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+thinice_gpt-o3-mini-high_0.cpp,RUNTIME_ERROR,0,1.96%,0.060,6.70703125,0,0,0,0,0,0
+thinice_gpt-o3-mini-high_1.cpp,RUNTIME_ERROR,0,22.03%,0.070,9.29296875,0,0,0,0,0,0
+thinice_gpt-o3-mini-high_2.cpp,RUNTIME_ERROR,0,1.96%,0.050,6.27734375,0,0,0,0,0,0
+thinice_gpt-o3-mini-high_3.cpp,RUNTIME_ERROR,0,22.03%,0.090,4.4765625,0,0,0,0,0,0
+thinice_gpt-o3-mini-high_4.cpp,RUNTIME_ERROR,0,22.03%,0.070,4.48046875,0,0,0,0,0,0
+thinice_gpt-o3-mini-high_5.cpp,RUNTIME_ERROR,0,22.03%,0.090,5.5859375,0,0,0,0,0,0
+thinice_gpt-o3-mini-high_6.cpp,RUNTIME_ERROR,0,22.03%,0.070,5.8671875,0,0,0,0,0,0
+thinice_gpt-o3-mini-high_7.cpp,RUNTIME_ERROR,0,0.00%,0.050,9.30859375,0,0,0,0,0,0

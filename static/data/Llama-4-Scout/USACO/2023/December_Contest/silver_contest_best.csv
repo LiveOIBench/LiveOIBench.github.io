@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bovine_Acrobatics,Llama-4-Scout,TIME_LIMIT_EXCEEDED,22,17.65%,2.420,3.6171875
+silver_Cycle_Correspondence,Llama-4-Scout,TIME_LIMIT_EXCEEDED,0,6.67%,2.410,3.875
+silver_Target_Practice,Llama-4-Scout,TIME_LIMIT_EXCEEDED,83,40.00%,2.410,7.4140625

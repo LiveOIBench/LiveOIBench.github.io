@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Burenka_and_Pether,original,ACCEPTED,100,100.00%,1.190,227.703125
+Almost_Certainly,original,ACCEPTED,100,100.00%,0.350,11.609375
+Three_Arrays,original,ACCEPTED,100,100.00%,0.280,5.1640625
+Parallel_Universes,original,ACCEPTED,100,100.00%,0.770,64.16796875

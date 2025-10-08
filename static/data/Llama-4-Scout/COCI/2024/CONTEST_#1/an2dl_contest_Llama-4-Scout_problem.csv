@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+an2dl_Llama-4-Scout_0.cpp,RUNTIME_ERROR,0,0.00%,0.910,32.49609375,0,0,0,0
+an2dl_Llama-4-Scout_1.cpp,RUNTIME_ERROR,0,12.50%,0.870,32.48828125,0,0,0,0
+an2dl_Llama-4-Scout_2.cpp,TIME_LIMIT_EXCEEDED,29,83.33%,4.820,67.0390625,12,17,0,0
+an2dl_Llama-4-Scout_3.cpp,RUNTIME_ERROR,12,20.83%,0.810,32.49609375,12,0,0,0
+an2dl_Llama-4-Scout_4.cpp,RUNTIME_ERROR,12,20.83%,0.420,32.75,12,0,0,0
+an2dl_Llama-4-Scout_5.cpp,RUNTIME_ERROR,12,20.83%,0.410,32.75,12,0,0,0
+an2dl_Llama-4-Scout_6.cpp,RUNTIME_ERROR,12,20.83%,0.840,32.49609375,12,0,0,0
+an2dl_Llama-4-Scout_7.cpp,RUNTIME_ERROR,12,20.83%,0.420,32.75390625,12,0,0,0

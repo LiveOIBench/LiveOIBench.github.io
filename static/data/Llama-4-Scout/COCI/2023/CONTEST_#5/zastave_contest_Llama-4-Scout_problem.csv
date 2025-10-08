@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+zastave_Llama-4-Scout_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.220,1.8125,0,0,0
+zastave_Llama-4-Scout_1.cpp,RUNTIME_ERROR,0,0.00%,0.020,1.6171875,0,0,0
+zastave_Llama-4-Scout_2.cpp,RUNTIME_ERROR,0,0.00%,0.030,1.875,0,0,0
+zastave_Llama-4-Scout_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+zastave_Llama-4-Scout_4.cpp,RUNTIME_ERROR,0,0.00%,0.010,1.8125,0,0,0
+zastave_Llama-4-Scout_5.cpp,RUNTIME_ERROR,0,9.52%,0.010,0.00390625,0,0,0
+zastave_Llama-4-Scout_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+zastave_Llama-4-Scout_7.cpp,RUNTIME_ERROR,0,23.81%,0.030,2.1328125,0,0,0

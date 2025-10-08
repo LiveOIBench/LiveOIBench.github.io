@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+7krokods,seed-oss_4096,RUNTIME_ERROR,0,0.00%,0.000,0
+zrinka,seed-oss_4096,ACCEPTED,70,100.00%,0.110,1.55859375
+bojanje,seed-oss_4096,COMPILATION_ERROR,0,0.00%,0.000,0
+mreza,seed-oss_4096,COMPILATION_ERROR,0,0.00%,0.000,0
+vrsta,seed-oss_4096,ACCEPTED,110,100.00%,0.130,9.03125

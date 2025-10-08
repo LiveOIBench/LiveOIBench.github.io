@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Its_Mooin_Time_II_gemini-2.5-flash_0.cpp,ACCEPTED,333,100.00%,0.520,50.5390625,0,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333
+bronze_Its_Mooin_Time_II_gemini-2.5-flash_1.cpp,WRONG_ANSWER,0,9.09%,0.320,84.05859375,0,0,0,0,0,0,0,0,0,0,0
+bronze_Its_Mooin_Time_II_gemini-2.5-flash_2.cpp,WRONG_ANSWER,0,9.09%,0.290,41.77734375,0,0,0,0,0,0,0,0,0,0,0
+bronze_Its_Mooin_Time_II_gemini-2.5-flash_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Its_Mooin_Time_II_gemini-2.5-flash_4.cpp,WRONG_ANSWER,133,45.45%,0.220,38.16796875,0,0,33.33333333333333,0,0,0,0,0,33.33333333333333,33.33333333333333,33.33333333333333
+bronze_Its_Mooin_Time_II_gemini-2.5-flash_5.cpp,WRONG_ANSWER,0,9.09%,0.120,16.76953125,0,0,0,0,0,0,0,0,0,0,0
+bronze_Its_Mooin_Time_II_gemini-2.5-flash_6.cpp,WRONG_ANSWER,0,9.09%,0.380,21.921875,0,0,0,0,0,0,0,0,0,0,0
+bronze_Its_Mooin_Time_II_gemini-2.5-flash_7.cpp,WRONG_ANSWER,0,9.09%,0.340,38.04296875,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+boi,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,3.57%,0.010,1.5546875
+tou,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,6.03%,1.310,47.2265625
+tow,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,16.67%,0.580,1.53515625

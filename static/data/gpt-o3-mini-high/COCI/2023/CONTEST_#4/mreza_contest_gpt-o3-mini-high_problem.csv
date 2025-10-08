@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+mreza_gpt-o3-mini-high_0.cpp,ACCEPTED,110,100.00%,1.130,35.41796875,21,29,60
+mreza_gpt-o3-mini-high_1.cpp,TIME_LIMIT_EXCEEDED,21,47.22%,5.510,32.67578125,21,0,0
+mreza_gpt-o3-mini-high_2.cpp,RUNTIME_ERROR,0,0.00%,0.940,73.83984375,0,0,0
+mreza_gpt-o3-mini-high_3.cpp,ACCEPTED,110,100.00%,1.310,25.51953125,21,29,60
+mreza_gpt-o3-mini-high_4.cpp,ACCEPTED,110,100.00%,2.250,93.609375,21,29,60
+mreza_gpt-o3-mini-high_5.cpp,RUNTIME_ERROR,0,0.00%,0.920,70.90234375,0,0,0
+mreza_gpt-o3-mini-high_6.cpp,RUNTIME_ERROR,0,0.00%,1.390,83.54296875,0,0,0
+mreza_gpt-o3-mini-high_7.cpp,RUNTIME_ERROR,0,0.00%,0.160,58.921875,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bessies_Interview,gpt-4.1,WRONG_ANSWER,33,9.52%,0.150,5.48046875
+silver_Painting_Fence_Posts,gpt-4.1,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_The_Winning_Gene,gpt-4.1,TIME_LIMIT_EXCEEDED,67,25.00%,2.270,1.55078125

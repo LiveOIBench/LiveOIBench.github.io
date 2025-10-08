@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Circles_gemini-2.5-flash_0.cpp,ACCEPTED,100,100.00%,1.010,149.5546875,0,4,9,14,15,21,37
+Circles_gemini-2.5-flash_1.cpp,TIME_LIMIT_EXCEEDED,0,18.18%,1.710,149.5546875,0,0,0,0,0,0,0
+Circles_gemini-2.5-flash_2.cpp,RUNTIME_ERROR,4,12.90%,0.400,149.27734375,0,4,0,0,0,0,0
+Circles_gemini-2.5-flash_3.cpp,RUNTIME_ERROR,4,28.12%,0.470,149.50390625,0,4,0,0,0,0,0
+Circles_gemini-2.5-flash_4.cpp,MEMORY_LIMIT_EXCEEDED,13,25.81%,1.310,286.69140625,0,4,9,0,0,0,0
+Circles_gemini-2.5-flash_5.cpp,RUNTIME_ERROR,4,12.90%,0.280,46.15625,0,4,0,0,0,0,0
+Circles_gemini-2.5-flash_6.cpp,ACCEPTED,100,100.00%,0.710,287.11328125,0,4,9,14,15,21,37
+Circles_gemini-2.5-flash_7.cpp,RUNTIME_ERROR,0,18.18%,0.270,80.4453125,0,0,0,0,0,0,0

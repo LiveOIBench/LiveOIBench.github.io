@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+islandalliances_Qwen3-14B_0.cpp,RUNTIME_ERROR,0,0.00%,0.310,18.828125,0,0,0,0,0
+islandalliances_Qwen3-14B_1.cpp,ACCEPTED,100,100.00%,0.220,13.66796875,15,17,20,23,25
+islandalliances_Qwen3-14B_2.cpp,ACCEPTED,100,100.00%,0.210,14.1875,15,17,20,23,25
+islandalliances_Qwen3-14B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+islandalliances_Qwen3-14B_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+islandalliances_Qwen3-14B_5.cpp,ACCEPTED,100,100.00%,0.230,14.1875,15,17,20,23,25
+islandalliances_Qwen3-14B_6.cpp,ACCEPTED,100,100.00%,1.320,79.46875,15,17,20,23,25
+islandalliances_Qwen3-14B_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Choose_Interval,seed-oss_1024,RUNTIME_ERROR,0,0.00%,0.000,0
+Skittlez,seed-oss_1024,RUNTIME_ERROR,0,5.56%,0.050,0.00390625
+Octagon,seed-oss_1024,RUNTIME_ERROR,0,14.29%,0.040,0

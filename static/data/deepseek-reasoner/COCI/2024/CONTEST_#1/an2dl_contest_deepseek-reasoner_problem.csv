@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+an2dl_deepseek-reasoner_0.cpp,ACCEPTED,110,100.00%,1.160,114.4765625,12,17,25,56
+an2dl_deepseek-reasoner_1.cpp,ACCEPTED,110,100.00%,1.070,114.4765625,12,17,25,56
+an2dl_deepseek-reasoner_2.cpp,ACCEPTED,110,100.00%,1.190,99.0078125,12,17,25,56
+an2dl_deepseek-reasoner_3.cpp,ACCEPTED,110,100.00%,1.100,114.4765625,12,17,25,56
+an2dl_deepseek-reasoner_4.cpp,ACCEPTED,110,100.00%,1.120,154.4375,12,17,25,56
+an2dl_deepseek-reasoner_5.cpp,ACCEPTED,110,100.00%,1.080,114.4765625,12,17,25,56
+an2dl_deepseek-reasoner_6.cpp,ACCEPTED,110,100.00%,1.210,114.4765625,12,17,25,56
+an2dl_deepseek-reasoner_7.cpp,ACCEPTED,110,100.00%,1.080,154.4375,12,17,25,56

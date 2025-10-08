@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+toy,Qwen3-8B,RUNTIME_ERROR,0,52.60%,0.010,1.55078125
+stations,Qwen3-8B,TIME_LIMIT_EXCEEDED,0,4.55%,4.210,5.41796875
+sprinklers,Qwen3-8B,RUNTIME_ERROR,6,25.81%,0.070,2.33203125

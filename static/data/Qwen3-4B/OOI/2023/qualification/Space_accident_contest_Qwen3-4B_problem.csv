@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Space_accident_Qwen3-4B_0.cpp,RUNTIME_ERROR,0,3.79%,0.020,0.00390625,0,0,0,0,0,0,0
+Space_accident_Qwen3-4B_1.cpp,RUNTIME_ERROR,0,23.97%,0.030,1.81640625,0.0,0,0,0,0,0,0
+Space_accident_Qwen3-4B_2.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0
+Space_accident_Qwen3-4B_3.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0
+Space_accident_Qwen3-4B_4.cpp,RUNTIME_ERROR,0,14.71%,0.030,1.81640625,0,0,0,0,0,0,0
+Space_accident_Qwen3-4B_5.cpp,RUNTIME_ERROR,15,35.07%,0.040,2.1328125,0,15.0,0,0,0,0,0
+Space_accident_Qwen3-4B_6.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0
+Space_accident_Qwen3-4B_7.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0

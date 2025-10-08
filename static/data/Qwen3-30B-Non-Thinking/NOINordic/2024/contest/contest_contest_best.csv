@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+chairgame,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,4,34.78%,0.140,0.00390625
+thinice,Qwen3-30B-Non-Thinking,TIME_LIMIT_EXCEEDED,0,20.34%,1.110,3.16015625
+animeshops,Qwen3-30B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0

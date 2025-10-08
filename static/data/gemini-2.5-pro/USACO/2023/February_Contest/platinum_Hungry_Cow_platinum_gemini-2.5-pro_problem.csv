@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Hungry_Cow_gemini-2.5-pro_0.cpp,TIME_LIMIT_EXCEEDED,17,13.64%,6.650,6.76953125,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Hungry_Cow_gemini-2.5-pro_1.cpp,TIME_LIMIT_EXCEEDED,17,13.64%,6.620,5.75,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Hungry_Cow_gemini-2.5-pro_2.cpp,TIME_LIMIT_EXCEEDED,17,13.64%,6.630,2.609375,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Hungry_Cow_gemini-2.5-pro_3.cpp,WRONG_ANSWER,17,9.09%,0.320,30.3828125,0,0,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,0
+platinum_Hungry_Cow_gemini-2.5-pro_4.cpp,TIME_LIMIT_EXCEEDED,17,13.64%,6.720,2.38671875,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Hungry_Cow_gemini-2.5-pro_5.cpp,RUNTIME_ERROR,17,4.55%,0.330,42.5,0,0,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,0
+platinum_Hungry_Cow_gemini-2.5-pro_6.cpp,TIME_LIMIT_EXCEEDED,17,13.64%,6.670,2.38671875,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Hungry_Cow_gemini-2.5-pro_7.cpp,TIME_LIMIT_EXCEEDED,0,4.55%,6.640,17.53515625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

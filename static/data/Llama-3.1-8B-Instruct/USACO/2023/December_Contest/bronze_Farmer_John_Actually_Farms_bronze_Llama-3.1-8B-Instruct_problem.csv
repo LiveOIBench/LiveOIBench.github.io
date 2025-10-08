@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Farmer_John_Actually_Farms_Llama-3.1-8B-Instruct_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Farmer_John_Actually_Farms_Llama-3.1-8B-Instruct_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Farmer_John_Actually_Farms_Llama-3.1-8B-Instruct_2.cpp,RUNTIME_ERROR,0,0.00%,0.160,4.453125,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Farmer_John_Actually_Farms_Llama-3.1-8B-Instruct_3.cpp,RUNTIME_ERROR,0,0.00%,0.480,3.80859375,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Farmer_John_Actually_Farms_Llama-3.1-8B-Instruct_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Farmer_John_Actually_Farms_Llama-3.1-8B-Instruct_5.cpp,RUNTIME_ERROR,0,0.00%,0.160,8.71484375,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Farmer_John_Actually_Farms_Llama-3.1-8B-Instruct_6.cpp,RUNTIME_ERROR,0,0.00%,0.150,5.06640625,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Farmer_John_Actually_Farms_Llama-3.1-8B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.480,13.4765625,0,0,0,0,0,0,0,0,0,0,0,0

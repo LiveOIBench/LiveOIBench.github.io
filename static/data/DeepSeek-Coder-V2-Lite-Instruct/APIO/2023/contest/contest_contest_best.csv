@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+sequence,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,11,44.92%,1.800,4.75390625
+abc,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,4,16.00%,0.100,7.1328125
+cyberland,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,20,23.17%,0.020,2.34765625

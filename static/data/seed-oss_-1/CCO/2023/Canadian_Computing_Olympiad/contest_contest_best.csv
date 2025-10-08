@@ -1,0 +1,7 @@
+problem,model,status,score,%test passed,time,memory
+d1p1,seed-oss_-1,ACCEPTED,25,100.00%,0.060,20.37890625
+d1p2,seed-oss_-1,RUNTIME_ERROR,0,1.90%,0.080,54.66796875
+d1p3,seed-oss_-1,RUNTIME_ERROR,0,4.81%,0.070,20.375
+d2p1,seed-oss_-1,RUNTIME_ERROR,1,27.68%,0.010,1.4921875
+d2p2,seed-oss_-1,RUNTIME_ERROR,2,9.38%,0.130,35.1953125
+d2p3,seed-oss_-1,TIME_LIMIT_EXCEEDED,0,43.40%,1.220,4.39453125

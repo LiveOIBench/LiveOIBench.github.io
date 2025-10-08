@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+2024-ho-t5_Road_Service_2_gemini-2.5-pro_0.cpp,TIME_LIMIT_EXCEEDED,16,60.83%,3.310,184.59765625,10,6,0,0,0,0,0,0
+2024-ho-t5_Road_Service_2_gemini-2.5-pro_1.cpp,RUNTIME_ERROR,0,0.00%,0.200,48.984375,0,0,0,0,0,0,0,0
+2024-ho-t5_Road_Service_2_gemini-2.5-pro_2.cpp,TIME_LIMIT_EXCEEDED,0,12.12%,3.620,192.55078125,0,0,0,0,0,0,0,0
+2024-ho-t5_Road_Service_2_gemini-2.5-pro_3.cpp,TIME_LIMIT_EXCEEDED,16,61.73%,3.600,89.203125,10,6,0,0,0,0,0,0
+2024-ho-t5_Road_Service_2_gemini-2.5-pro_4.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.790,1195.0703125,0,0,0,0,0,0,0,0
+2024-ho-t5_Road_Service_2_gemini-2.5-pro_5.cpp,TIME_LIMIT_EXCEEDED,16,61.73%,3.680,126.16796875,10,6,0,0,0,0,0,0
+2024-ho-t5_Road_Service_2_gemini-2.5-pro_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+2024-ho-t5_Road_Service_2_gemini-2.5-pro_7.cpp,TIME_LIMIT_EXCEEDED,16,60.83%,3.600,71.93359375,10,6,0,0,0,0,0,0

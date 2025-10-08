@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+diplomacy_gpt-oss-20b-high_0.cpp,RUNTIME_ERROR,0,0.00%,1.120,377.9140625,0,0,0,0,0,0,0
+diplomacy_gpt-oss-20b-high_1.cpp,RUNTIME_ERROR,0,3.23%,0.510,101.3671875,0,0,0,0,0,0,0
+diplomacy_gpt-oss-20b-high_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+diplomacy_gpt-oss-20b-high_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+diplomacy_gpt-oss-20b-high_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+diplomacy_gpt-oss-20b-high_5.cpp,RUNTIME_ERROR,0,0.00%,0.520,358.3984375,0,0,0,0,0,0,0
+diplomacy_gpt-oss-20b-high_6.cpp,RUNTIME_ERROR,0,0.00%,1.570,149.00390625,0,0,0,0,0,0,0
+diplomacy_gpt-oss-20b-high_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,1.410,1551.1953125,0,0,0,0,0,0,0

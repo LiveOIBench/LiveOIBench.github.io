@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+square_grid_puzzle,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,0.00%,0.000,0
+team_building,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+tree_infection,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

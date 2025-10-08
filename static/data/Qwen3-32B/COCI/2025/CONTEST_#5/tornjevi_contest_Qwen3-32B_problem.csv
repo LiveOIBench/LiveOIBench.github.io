@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+tornjevi_Qwen3-32B_0.cpp,RUNTIME_ERROR,7,18.52%,0.580,9.03125,7,0,0,0,0
+tornjevi_Qwen3-32B_1.cpp,TIME_LIMIT_EXCEEDED,64,79.63%,2.210,148.19140625,7,11,17,29,0
+tornjevi_Qwen3-32B_2.cpp,RUNTIME_ERROR,7,18.52%,0.740,207.8046875,7,0,0,0,0
+tornjevi_Qwen3-32B_3.cpp,RUNTIME_ERROR,7,33.33%,1.020,197.73828125,7,0,0,0,0
+tornjevi_Qwen3-32B_4.cpp,ACCEPTED,90,100.00%,0.870,12.8984375,7,11,17,29,26
+tornjevi_Qwen3-32B_5.cpp,TIME_LIMIT_EXCEEDED,61,79.63%,2.220,46.15625,7,11,17,0,26
+tornjevi_Qwen3-32B_6.cpp,ACCEPTED,90,100.00%,0.810,12.8984375,7,11,17,29,26
+tornjevi_Qwen3-32B_7.cpp,ACCEPTED,90,100.00%,1.120,12.8984375,7,11,17,29,26

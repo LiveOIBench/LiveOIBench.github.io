@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+bikesvscars,Qwen3-30B,RUNTIME_ERROR,0,8.54%,0.070,1.546875
+ppp,Qwen3-30B,MEMORY_LIMIT_EXCEEDED,36,45.21%,1.310,919.109375
+findthebox,Qwen3-30B,RUNTIME_ERROR,0,0.00%,0.070,0
+inflation,Qwen3-30B,ACCEPTED,100,100.00%,0.180,17.3125

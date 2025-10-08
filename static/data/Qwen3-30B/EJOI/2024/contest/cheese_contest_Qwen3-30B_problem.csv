@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+cheese_Qwen3-30B_0.cpp,RUNTIME_ERROR,11,25.64%,0.790,6.96484375,0,0,0,11,0,0,0
+cheese_Qwen3-30B_1.cpp,RUNTIME_ERROR,11,25.64%,0.660,6.96875,0,0,0,11,0,0,0
+cheese_Qwen3-30B_2.cpp,RUNTIME_ERROR,11,23.08%,0.750,10.3203125,0,0,0,11,0,0,0
+cheese_Qwen3-30B_3.cpp,RUNTIME_ERROR,11,25.64%,0.730,7.02734375,0,0,0,11,0,0,0
+cheese_Qwen3-30B_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+cheese_Qwen3-30B_5.cpp,RUNTIME_ERROR,11,23.08%,0.770,6.96875,0,0,0,11,0,0,0
+cheese_Qwen3-30B_6.cpp,RUNTIME_ERROR,11,25.64%,0.810,6.96484375,0,0,0,11,0,0,0
+cheese_Qwen3-30B_7.cpp,RUNTIME_ERROR,19,46.15%,0.790,6.96484375,0,0,8,11,0,0,0

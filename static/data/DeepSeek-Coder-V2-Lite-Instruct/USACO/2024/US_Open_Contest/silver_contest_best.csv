@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bessies_Interview,DeepSeek-Coder-V2-Lite-Instruct,WRONG_ANSWER,0,0.00%,0.200,3.2421875
+silver_Painting_Fence_Posts,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_The_Winning_Gene,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,22,6.25%,2.260,1.55078125

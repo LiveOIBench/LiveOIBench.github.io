@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+tornjevi_DeepSeek-R1-Distill-Llama-70B_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+tornjevi_DeepSeek-R1-Distill-Llama-70B_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+tornjevi_DeepSeek-R1-Distill-Llama-70B_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+tornjevi_DeepSeek-R1-Distill-Llama-70B_3.cpp,ACCEPTED,90,100.00%,0.750,81.453125,7,11,17,29,26
+tornjevi_DeepSeek-R1-Distill-Llama-70B_4.cpp,RUNTIME_ERROR,7,20.37%,0.400,130.9765625,7,0,0,0,0
+tornjevi_DeepSeek-R1-Distill-Llama-70B_5.cpp,ACCEPTED,90,100.00%,0.700,12.8984375,7,11,17,29,26
+tornjevi_DeepSeek-R1-Distill-Llama-70B_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+tornjevi_DeepSeek-R1-Distill-Llama-70B_7.cpp,TIME_LIMIT_EXCEEDED,61,79.63%,2.250,12.90234375,7,11,17,0,26

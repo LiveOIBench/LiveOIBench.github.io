@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+2023-open-t3_Garden_Qwen3-4B_0.cpp,RUNTIME_ERROR,0,17.78%,0.190,5.1640625,0,0,0,0,0,0
+2023-open-t3_Garden_Qwen3-4B_1.cpp,RUNTIME_ERROR,0,17.78%,0.140,5.22265625,0,0,0,0,0,0
+2023-open-t3_Garden_Qwen3-4B_2.cpp,RUNTIME_ERROR,0,9.52%,0.140,5.16015625,0,0,0,0,0,0
+2023-open-t3_Garden_Qwen3-4B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+2023-open-t3_Garden_Qwen3-4B_4.cpp,RUNTIME_ERROR,0,25.00%,0.050,0.00390625,0,0,0,0,0,0
+2023-open-t3_Garden_Qwen3-4B_5.cpp,RUNTIME_ERROR,0,17.78%,0.100,5.421875,0,0,0,0,0,0
+2023-open-t3_Garden_Qwen3-4B_6.cpp,RUNTIME_ERROR,0,9.52%,0.200,5.1640625,0,0,0,0,0,0
+2023-open-t3_Garden_Qwen3-4B_7.cpp,RUNTIME_ERROR,0,9.52%,0.060,5.16796875,0,0,0,0,0,0

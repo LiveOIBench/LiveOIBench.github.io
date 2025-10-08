@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Target_Practice_II,Qwen3-32B-Non-Thinking,WRONG_ANSWER,119,33.33%,0.070,8.1171875
+silver_Test_Tubes,Qwen3-32B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Moorbles,Qwen3-32B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0

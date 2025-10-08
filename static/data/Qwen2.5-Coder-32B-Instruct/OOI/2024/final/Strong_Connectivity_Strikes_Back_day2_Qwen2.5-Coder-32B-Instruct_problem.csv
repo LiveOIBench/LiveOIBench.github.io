@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+Strong_Connectivity_Strikes_Back_Qwen2.5-Coder-32B-Instruct_0.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+Strong_Connectivity_Strikes_Back_Qwen2.5-Coder-32B-Instruct_1.cpp,RUNTIME_ERROR,36,45.86%,0.110,1.4921875,0.0,11.0,0,12.0,13.0,0,0,0
+Strong_Connectivity_Strikes_Back_Qwen2.5-Coder-32B-Instruct_2.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+Strong_Connectivity_Strikes_Back_Qwen2.5-Coder-32B-Instruct_3.cpp,RUNTIME_ERROR,25,39.37%,0.100,0,0.0,0,0,12.0,13.0,0,0,0
+Strong_Connectivity_Strikes_Back_Qwen2.5-Coder-32B-Instruct_4.cpp,MEMORY_LIMIT_EXCEEDED,77,76.51%,0.110,1.8046875,0.0,11.0,0,12.0,13.0,20.0,21.0,0
+Strong_Connectivity_Strikes_Back_Qwen2.5-Coder-32B-Instruct_5.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+Strong_Connectivity_Strikes_Back_Qwen2.5-Coder-32B-Instruct_6.cpp,RUNTIME_ERROR,53,55.65%,0.110,1.80859375,0,0,0,12.0,0,20.0,21.0,0
+Strong_Connectivity_Strikes_Back_Qwen2.5-Coder-32B-Instruct_7.cpp,RUNTIME_ERROR,45,45.97%,0.100,1.5546875,0,0,0,12.0,13.0,20.0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+robot,seed-oss_-1,RUNTIME_ERROR,6,7.89%,0.050,8.765625
+overtaking,seed-oss_-1,TIME_LIMIT_EXCEEDED,65,86.26%,2.980,24.61328125
+beechtree,seed-oss_-1,RUNTIME_ERROR,0,10.40%,0.040,15.22265625

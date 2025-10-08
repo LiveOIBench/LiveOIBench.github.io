@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Colorful_Diameter_gemini-2.5-pro_0.cpp,TIME_LIMIT_EXCEEDED,43,75.10%,7.710,27.828125,0.0,10.0,8.0,0,14.0,0,11.0,0,0,0
+Colorful_Diameter_gemini-2.5-pro_1.cpp,TIME_LIMIT_EXCEEDED,10,40.96%,7.710,23.875,0.0,10.0,0,0,0,0,0,0,0,0
+Colorful_Diameter_gemini-2.5-pro_2.cpp,RUNTIME_ERROR,19,29.86%,0.920,12.86328125,0,0,0,0,0,0,11.0,8.0,0,0
+Colorful_Diameter_gemini-2.5-pro_3.cpp,MEMORY_LIMIT_EXCEEDED,14,32.29%,0.780,13.98046875,0.0,0,0,0,14.0,0,0,0,0,0
+Colorful_Diameter_gemini-2.5-pro_4.cpp,TIME_LIMIT_EXCEEDED,24,55.11%,7.710,34.99609375,0.0,10.0,0,0,14.0,0,0,0,0,0
+Colorful_Diameter_gemini-2.5-pro_5.cpp,RUNTIME_ERROR,0,4.10%,0.130,7.1015625,0.0,0,0,0,0,0,0,0,0,0
+Colorful_Diameter_gemini-2.5-pro_6.cpp,MEMORY_LIMIT_EXCEEDED,24,55.11%,3.270,20.01953125,0.0,10.0,0,0,14.0,0,0,0,0,0
+Colorful_Diameter_gemini-2.5-pro_7.cpp,TIME_LIMIT_EXCEEDED,40,75.16%,7.710,29.96484375,0.0,10.0,0,11.0,0,0,11.0,8.0,0,0

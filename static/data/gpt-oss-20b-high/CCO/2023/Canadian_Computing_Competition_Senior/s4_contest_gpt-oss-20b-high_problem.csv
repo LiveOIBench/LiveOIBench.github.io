@@ -1,0 +1,4 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+s4_gpt-oss-20b-high_1.cpp,ACCEPTED,15,100.00%,0.720,124.73046875,3,6,6
+s4_gpt-oss-20b-high_5.cpp,RUNTIME_ERROR,9,51.47%,0.330,32.28515625,3,6,0
+s4_gpt-oss-20b-high_7.cpp,RUNTIME_ERROR,9,51.47%,0.330,32.3671875,3,6,0

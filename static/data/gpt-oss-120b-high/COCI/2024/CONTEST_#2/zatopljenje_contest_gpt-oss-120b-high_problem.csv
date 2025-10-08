@@ -1,0 +1,8 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+zatopljenje_gpt-oss-120b-high_0.cpp,ACCEPTED,110,100.00%,100.00%,0.140,12.125,10,20,20,60
+zatopljenje_gpt-oss-120b-high_1.cpp,ACCEPTED,110,100.00%,100.00%,0.150,9.2890625,10,20,20,60
+zatopljenje_gpt-oss-120b-high_3.cpp,ACCEPTED,110,100.00%,100.00%,0.150,12.125,10,20,20,60
+zatopljenje_gpt-oss-120b-high_4.cpp,ACCEPTED,110,100.00%,100.00%,0.140,9.2890625,10,20,20,60
+zatopljenje_gpt-oss-120b-high_5.cpp,ACCEPTED,110,100.00%,100.00%,0.150,9.2890625,10,20,20,60
+zatopljenje_gpt-oss-120b-high_6.cpp,ACCEPTED,110,100.00%,100.00%,0.140,13.66796875,10,20,20,60
+zatopljenje_gpt-oss-120b-high_7.cpp,ACCEPTED,110,100.00%,100.00%,0.130,20.375,10,20,20,60

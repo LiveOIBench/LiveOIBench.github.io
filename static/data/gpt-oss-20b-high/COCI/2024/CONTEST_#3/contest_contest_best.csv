@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+eurokod,gpt-oss-20b-high,ACCEPTED,50,100.00%,0.000,0
+vrsar,gpt-oss-20b-high,ACCEPTED,70,100.00%,0.090,9.03125
+milano,gpt-oss-20b-high,ACCEPTED,110,100.00%,0.050,3.62109375
+cesta,gpt-oss-20b-high,ACCEPTED,110,100.00%,0.770,115.80078125

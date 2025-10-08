@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+candy,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,15.24%,0.000,0
+sopsug,Mistral-Small-3.1-24B-2503,UNKNOWN,0,0.00%,0.000,0
+guessinggame,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0
+carnival,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,11,30.23%,0.110,2.80078125

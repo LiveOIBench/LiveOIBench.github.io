@@ -1,0 +1,7 @@
+problem,model,status,score,%test passed,time,memory
+d1p1,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,2.86%,0.200,5.16796875
+d1p2,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,0.95%,0.190,5.16796875
+d1p3,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,4.81%,0.220,13.01171875
+d2p1,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,1,6.25%,0.040,1.7109375
+d2p2,Mistral-Small-3.1-24B-2503,UNKNOWN,0,0.00%,0.000,0
+d2p3,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+jobs,gemini-2.5-pro,RUNTIME_ERROR,11,9.42%,0.120,25.01171875
+portal,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,55,79.10%,1.110,4.39453125
+trains,gemini-2.5-pro,ACCEPTED,100,100.00%,0.170,124.015625

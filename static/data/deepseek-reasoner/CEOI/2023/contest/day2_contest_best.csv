@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+trade,deepseek-reasoner,TIME_LIMIT_EXCEEDED,0,22.58%,7.710,9.02734375
+incursion,deepseek-reasoner,COMPILATION_ERROR,0,0.00%,0.000,0
+avoid,deepseek-reasoner,RUNTIME_ERROR,10,7.41%,0.020,1.53515625

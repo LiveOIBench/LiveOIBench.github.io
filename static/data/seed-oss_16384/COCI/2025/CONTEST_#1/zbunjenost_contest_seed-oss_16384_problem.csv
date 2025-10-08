@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+zbunjenost_seed-oss_0.cpp,RUNTIME_ERROR,0,1.61%,0.030,15.93359375,0,0,0,0,0
+zbunjenost_seed-oss_1.cpp,TIME_LIMIT_EXCEEDED,65,64.52%,5.990,53.02734375,13,18,34,0,0
+zbunjenost_seed-oss_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+zbunjenost_seed-oss_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,5.980,33.8203125,0,0,0,0,0
+zbunjenost_seed-oss_4.cpp,TIME_LIMIT_EXCEEDED,0,1.61%,5.980,14.5,0,0,0,0,0
+zbunjenost_seed-oss_5.cpp,MEMORY_LIMIT_EXCEEDED,0,1.61%,0.250,591.42578125,0,0,0,0,0
+zbunjenost_seed-oss_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+zbunjenost_seed-oss_7.cpp,RUNTIME_ERROR,0,3.23%,0.030,2.7890625,0,0,0,0,0

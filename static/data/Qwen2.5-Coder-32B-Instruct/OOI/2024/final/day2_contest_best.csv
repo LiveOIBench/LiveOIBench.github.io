@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Card_Flip,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,14.29%,0.520,54.66015625
+Order_Statistics,Qwen2.5-Coder-32B-Instruct,TIME_LIMIT_EXCEEDED,4,47.45%,4.440,12.80078125
+Best_Runner,Qwen2.5-Coder-32B-Instruct,TIME_LIMIT_EXCEEDED,23,27.42%,1.140,4.65234375
+Strong_Connectivity_Strikes_Back,Qwen2.5-Coder-32B-Instruct,MEMORY_LIMIT_EXCEEDED,77,76.51%,0.110,1.8046875

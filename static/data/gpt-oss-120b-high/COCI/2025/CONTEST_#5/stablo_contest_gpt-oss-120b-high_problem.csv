@@ -1,0 +1,7 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+stablo_gpt-oss-120b-high_0.cpp,ACCEPTED,120,100.00%,100.00%,1.580,137.16015625,15,15,45,45
+stablo_gpt-oss-120b-high_1.cpp,ACCEPTED,120,100.00%,100.00%,1.540,135.9140625,15,15,45,45
+stablo_gpt-oss-120b-high_2.cpp,ACCEPTED,120,100.00%,100.00%,1.590,139.67578125,15,15,45,45
+stablo_gpt-oss-120b-high_3.cpp,ACCEPTED,120,100.00%,100.00%,1.590,133.37890625,15,15,45,45
+stablo_gpt-oss-120b-high_5.cpp,ACCEPTED,120,100.00%,100.00%,1.610,131.23046875,15,15,45,45
+stablo_gpt-oss-120b-high_7.cpp,ACCEPTED,120,100.00%,100.00%,1.580,132.25390625,15,15,45,45

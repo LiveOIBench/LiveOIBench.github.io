@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3
+2023-ho-t1_Stone_Arranging_2_gpt-o3-mini-high_0.cpp,TIME_LIMIT_EXCEEDED,60,95.04%,2.240,4.39453125,25,35,0
+2023-ho-t1_Stone_Arranging_2_gpt-o3-mini-high_1.cpp,ACCEPTED,100,100.00%,0.090,15.24609375,25,35,40
+2023-ho-t1_Stone_Arranging_2_gpt-o3-mini-high_2.cpp,ACCEPTED,100,100.00%,0.100,15.2421875,25,35,40
+2023-ho-t1_Stone_Arranging_2_gpt-o3-mini-high_3.cpp,RUNTIME_ERROR,0,34.94%,0.000,0,0,0,0
+2023-ho-t1_Stone_Arranging_2_gpt-o3-mini-high_4.cpp,ACCEPTED,100,100.00%,0.100,15.24609375,25,35,40
+2023-ho-t1_Stone_Arranging_2_gpt-o3-mini-high_5.cpp,ACCEPTED,100,100.00%,0.090,15.24609375,25,35,40
+2023-ho-t1_Stone_Arranging_2_gpt-o3-mini-high_6.cpp,TIME_LIMIT_EXCEEDED,60,95.04%,2.240,2.84765625,25,35,0
+2023-ho-t1_Stone_Arranging_2_gpt-o3-mini-high_7.cpp,ACCEPTED,100,100.00%,0.090,14.49609375,25,35,40

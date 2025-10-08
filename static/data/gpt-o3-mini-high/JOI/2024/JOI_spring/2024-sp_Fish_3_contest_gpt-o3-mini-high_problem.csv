@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+2024-sp_Fish_3_gpt-o3-mini-high_0.cpp,RUNTIME_ERROR,0,9.21%,0.780,185.46484375,0,0,0,0,0
+2024-sp_Fish_3_gpt-o3-mini-high_1.cpp,TIME_LIMIT_EXCEEDED,9,37.93%,2.410,3.62109375,9,0,0,0,0
+2024-sp_Fish_3_gpt-o3-mini-high_2.cpp,TIME_LIMIT_EXCEEDED,9,37.93%,2.410,10.578125,9,0,0,0,0
+2024-sp_Fish_3_gpt-o3-mini-high_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+2024-sp_Fish_3_gpt-o3-mini-high_4.cpp,TIME_LIMIT_EXCEEDED,9,37.93%,2.410,10.58203125,9,0,0,0,0
+2024-sp_Fish_3_gpt-o3-mini-high_5.cpp,RUNTIME_ERROR,0,9.21%,0.380,284.890625,0,0,0,0,0
+2024-sp_Fish_3_gpt-o3-mini-high_6.cpp,RUNTIME_ERROR,0,0.00%,0.050,3.62109375,0,0,0,0,0
+2024-sp_Fish_3_gpt-o3-mini-high_7.cpp,TIME_LIMIT_EXCEEDED,9,37.93%,2.420,52.98828125,9,0,0,0,0

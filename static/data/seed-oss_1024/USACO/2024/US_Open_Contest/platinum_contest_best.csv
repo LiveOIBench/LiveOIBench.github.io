@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Identity_Theft,seed-oss_1024,UNKNOWN,0,0.00%,0.000,0
+platinum_Splitting_Haybales,seed-oss_1024,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Activating_Robots,seed-oss_1024,UNKNOWN,0,0.00%,0.000,0

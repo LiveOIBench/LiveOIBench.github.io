@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Almost_Certainly_seed-oss_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.210,9.546875,0,0,0,0,0,0,0
+Almost_Certainly_seed-oss_1.cpp,RUNTIME_ERROR,13,17.39%,0.060,3.86328125,0,0,0,0,13.0,0,0
+Almost_Certainly_seed-oss_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.210,7.48828125,0,0,0,0,0,0,0
+Almost_Certainly_seed-oss_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.210,8.46484375,0,0,0,0,0,0,0
+Almost_Certainly_seed-oss_4.cpp,RUNTIME_ERROR,0,0.00%,0.040,10.58203125,0,0,0,0,0,0,0
+Almost_Certainly_seed-oss_5.cpp,RUNTIME_ERROR,0,0.00%,0.050,5.94140625,0,0,0,0,0,0,0
+Almost_Certainly_seed-oss_6.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0
+Almost_Certainly_seed-oss_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.210,9.546875,0,0,0,0,0,0,0

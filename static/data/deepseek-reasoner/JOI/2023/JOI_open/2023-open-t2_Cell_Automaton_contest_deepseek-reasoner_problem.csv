@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+2023-open-t2_Cell_Automaton_deepseek-reasoner_0.cpp,RUNTIME_ERROR,0,0.00%,0.050,6.9296875,0,0,0,0,0,0,0
+2023-open-t2_Cell_Automaton_deepseek-reasoner_1.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.920,1026.53515625,0,0,0,0,0,0,0
+2023-open-t2_Cell_Automaton_deepseek-reasoner_2.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.960,1027.30078125,0,0,0,0,0,0,0
+2023-open-t2_Cell_Automaton_deepseek-reasoner_3.cpp,RUNTIME_ERROR,0,0.00%,0.050,0.00390625,0,0,0,0,0,0,0
+2023-open-t2_Cell_Automaton_deepseek-reasoner_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,6.620,965.5625,0,0,0,0,0,0,0
+2023-open-t2_Cell_Automaton_deepseek-reasoner_5.cpp,RUNTIME_ERROR,0,0.00%,0.060,0.00390625,0,0,0,0,0,0,0
+2023-open-t2_Cell_Automaton_deepseek-reasoner_6.cpp,RUNTIME_ERROR,0,0.00%,0.040,2.07421875,0,0,0,0,0,0,0
+2023-open-t2_Cell_Automaton_deepseek-reasoner_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,6.610,2.58984375,0,0,0,0,0,0,0

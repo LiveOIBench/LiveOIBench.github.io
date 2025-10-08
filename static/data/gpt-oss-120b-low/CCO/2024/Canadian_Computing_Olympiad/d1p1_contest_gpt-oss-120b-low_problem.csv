@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+d1p1_gpt-oss-120b-low_0.cpp,ACCEPTED,25,100.00%,1.170,107.765625,5,5,7,8
+d1p1_gpt-oss-120b-low_1.cpp,ACCEPTED,25,100.00%,1.090,91.046875,5,5,7,8
+d1p1_gpt-oss-120b-low_2.cpp,ACCEPTED,25,100.00%,1.150,107.765625,5,5,7,8
+d1p1_gpt-oss-120b-low_3.cpp,ACCEPTED,25,100.00%,1.110,100.1328125,5,5,7,8
+d1p1_gpt-oss-120b-low_4.cpp,ACCEPTED,25,100.00%,1.160,107.76953125,5,5,7,8
+d1p1_gpt-oss-120b-low_5.cpp,ACCEPTED,25,100.00%,1.080,100.13671875,5,5,7,8
+d1p1_gpt-oss-120b-low_6.cpp,ACCEPTED,25,100.00%,1.100,91.046875,5,5,7,8
+d1p1_gpt-oss-120b-low_7.cpp,ACCEPTED,25,100.00%,1.180,107.765625,5,5,7,8

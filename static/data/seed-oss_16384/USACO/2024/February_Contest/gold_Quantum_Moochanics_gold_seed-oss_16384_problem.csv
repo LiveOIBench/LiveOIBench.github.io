@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Quantum_Moochanics_seed-oss_0.cpp,WRONG_ANSWER,33,25.00%,0.260,11.265625,0,0,0,33.33333333333333,0,0,0,0,0,0,0
+gold_Quantum_Moochanics_seed-oss_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.420,6.19921875,0,0,0,0,0,0,0,0,0,0,0
+gold_Quantum_Moochanics_seed-oss_2.cpp,WRONG_ANSWER,0,16.67%,0.190,14.25390625,0,0,0,0,0,0,0,0,0,0,0
+gold_Quantum_Moochanics_seed-oss_3.cpp,WRONG_ANSWER,0,8.33%,0.090,4.91015625,0,0,0,0,0,0,0,0,0,0,0
+gold_Quantum_Moochanics_seed-oss_4.cpp,WRONG_ANSWER,0,8.33%,0.200,7.94140625,0,0,0,0,0,0,0,0,0,0,0
+gold_Quantum_Moochanics_seed-oss_5.cpp,RUNTIME_ERROR,0,0.00%,0.060,4.90625,0,0,0,0,0,0,0,0,0,0,0
+gold_Quantum_Moochanics_seed-oss_6.cpp,RUNTIME_ERROR,0,0.00%,0.080,4.91015625,0,0,0,0,0,0,0,0,0,0,0
+gold_Quantum_Moochanics_seed-oss_7.cpp,WRONG_ANSWER,33,16.67%,0.160,13.5625,0,33.33333333333333,0,0,0,0,0,0,0,0,0

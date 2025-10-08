@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+paradoks,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,7.69%,0.000,0
+igre,Llama-3.3-70B-Instruct,RUNTIME_ERROR,6,59.18%,0.120,1.55859375
+razlicitost,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,25,37.21%,2.210,4.39453125
+blistavost,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,3.28%,0.070,1.55078125
+trokuti,Llama-3.3-70B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

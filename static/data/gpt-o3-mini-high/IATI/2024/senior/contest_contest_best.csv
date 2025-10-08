@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+five,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,43,54.39%,0.850,47.95703125
+game,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,0,10.81%,1.840,6.72265625
+lexgcd,gpt-o3-mini-high,RUNTIME_ERROR,0,7.38%,0.130,2.07421875
+ones,gpt-o3-mini-high,WRONG_ANSWER,25,0.00%,0.180,1.953125
+travel,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,20,25.30%,1.210,189.0078125

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+editor_Mistral-Large-Instruct-2411_0.cpp,RUNTIME_ERROR,0,8.06%,0.110,4.65234375,0,0,0,0,0,0
+editor_Mistral-Large-Instruct-2411_1.cpp,RUNTIME_ERROR,0,6.45%,0.270,4.65234375,0,0,0,0,0,0
+editor_Mistral-Large-Instruct-2411_2.cpp,RUNTIME_ERROR,0,4.84%,0.110,4.59375,0,0,0,0,0,0
+editor_Mistral-Large-Instruct-2411_3.cpp,RUNTIME_ERROR,0,8.06%,0.240,4.65234375,0,0,0,0,0,0
+editor_Mistral-Large-Instruct-2411_4.cpp,RUNTIME_ERROR,0,8.06%,0.270,4.65234375,0,0,0,0,0,0
+editor_Mistral-Large-Instruct-2411_5.cpp,RUNTIME_ERROR,0,9.68%,0.290,4.65234375,0,0,0,0,0,0
+editor_Mistral-Large-Instruct-2411_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+editor_Mistral-Large-Instruct-2411_7.cpp,RUNTIME_ERROR,0,11.29%,0.110,4.59375,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+2025-ho-t2_Bitaro_the_Brave_2_gpt-oss-20b-medium_0.cpp,ACCEPTED,100,100.00%,0.110,24.24609375,10,21,19,22,28
+2025-ho-t2_Bitaro_the_Brave_2_gpt-oss-20b-medium_1.cpp,ACCEPTED,100,100.00%,0.110,26.046875,10,21,19,22,28
+2025-ho-t2_Bitaro_the_Brave_2_gpt-oss-20b-medium_2.cpp,MEMORY_LIMIT_EXCEEDED,0,16.09%,0.090,43.3203125,0,0,0,0,0
+2025-ho-t2_Bitaro_the_Brave_2_gpt-oss-20b-medium_3.cpp,ACCEPTED,100,100.00%,0.110,24.24609375,10,21,19,22,28
+2025-ho-t2_Bitaro_the_Brave_2_gpt-oss-20b-medium_4.cpp,ACCEPTED,100,100.00%,0.100,24.24609375,10,21,19,22,28
+2025-ho-t2_Bitaro_the_Brave_2_gpt-oss-20b-medium_5.cpp,ACCEPTED,100,100.00%,0.110,24.24609375,10,21,19,22,28
+2025-ho-t2_Bitaro_the_Brave_2_gpt-oss-20b-medium_6.cpp,ACCEPTED,100,100.00%,0.100,24.24609375,10,21,19,22,28
+2025-ho-t2_Bitaro_the_Brave_2_gpt-oss-20b-medium_7.cpp,ACCEPTED,100,100.00%,0.110,41.515625,10,21,19,22,28

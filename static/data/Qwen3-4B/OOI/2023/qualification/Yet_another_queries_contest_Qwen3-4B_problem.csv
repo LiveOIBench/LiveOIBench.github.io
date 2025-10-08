@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+Yet_another_queries_Qwen3-4B_0.cpp,TIME_LIMIT_EXCEEDED,19,49.24%,1.800,9.29296875,0.0,19.0,0,0,0,0,0,0,0
+Yet_another_queries_Qwen3-4B_1.cpp,TIME_LIMIT_EXCEEDED,0,7.69%,1.810,5.42578125,0.0,0,0,0,0,0,0,0,0
+Yet_another_queries_Qwen3-4B_2.cpp,RUNTIME_ERROR,0,0.00%,1.150,21.51171875,0,0,0,0,0,0,0,0,0
+Yet_another_queries_Qwen3-4B_3.cpp,TIME_LIMIT_EXCEEDED,0,7.69%,1.800,5.484375,0.0,0,0,0,0,0,0,0,0
+Yet_another_queries_Qwen3-4B_4.cpp,TIME_LIMIT_EXCEEDED,19,49.24%,1.810,9.29296875,0.0,19.0,0,0,0,0,0,0,0
+Yet_another_queries_Qwen3-4B_5.cpp,TIME_LIMIT_EXCEEDED,0,7.69%,1.800,5.421875,0.0,0,0,0,0,0,0,0,0
+Yet_another_queries_Qwen3-4B_6.cpp,TIME_LIMIT_EXCEEDED,0,7.69%,1.800,5.42578125,0.0,0,0,0,0,0,0,0,0
+Yet_another_queries_Qwen3-4B_7.cpp,TIME_LIMIT_EXCEEDED,0,7.69%,1.800,5.421875,0.0,0,0,0,0,0,0,0,0

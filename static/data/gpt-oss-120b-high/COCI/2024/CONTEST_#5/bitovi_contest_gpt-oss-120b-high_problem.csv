@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+bitovi_gpt-oss-120b-high_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,1.220,2.95703125,0,0,0,0
+bitovi_gpt-oss-120b-high_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,1.210,2.15234375,0,0,0,0
+bitovi_gpt-oss-120b-high_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,1.210,7.57421875,0,0,0,0
+bitovi_gpt-oss-120b-high_3.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.020,0.00390625,0,0,0,0
+bitovi_gpt-oss-120b-high_4.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.00%,0.330,257.84765625,0,0,0,0
+bitovi_gpt-oss-120b-high_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,1.210,7.8515625,0,0,0,0
+bitovi_gpt-oss-120b-high_6.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.030,4.28125,0,0,0,0
+bitovi_gpt-oss-120b-high_7.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.090,1.8125,0,0,0,0

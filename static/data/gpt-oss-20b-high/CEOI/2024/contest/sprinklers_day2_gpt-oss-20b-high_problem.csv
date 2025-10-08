@@ -1,0 +1,3 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+sprinklers_gpt-oss-20b-high_2.cpp,RUNTIME_ERROR,9,47.46%,0.370,10.29296875,0,3,6,0,0,0
+sprinklers_gpt-oss-20b-high_5.cpp,RUNTIME_ERROR,0,3.33%,0.020,2.07421875,0,0,0,0,0,0

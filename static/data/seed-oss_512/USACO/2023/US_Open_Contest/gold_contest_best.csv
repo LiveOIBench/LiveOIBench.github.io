@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Custodial_Cleanup,seed-oss_512,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Pareidolia,seed-oss_512,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Tree_Merging,seed-oss_512,COMPILATION_ERROR,0,0.00%,0.000,0

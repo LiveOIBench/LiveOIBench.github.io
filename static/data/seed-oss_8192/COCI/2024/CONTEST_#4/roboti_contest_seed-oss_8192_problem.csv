@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+roboti_seed-oss_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+roboti_seed-oss_1.cpp,TIME_LIMIT_EXCEEDED,10,20.45%,2.410,16.859375,10,0,0,0
+roboti_seed-oss_2.cpp,TIME_LIMIT_EXCEEDED,23,52.27%,2.420,64.921875,10,13,0,0
+roboti_seed-oss_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+roboti_seed-oss_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+roboti_seed-oss_5.cpp,MEMORY_LIMIT_EXCEEDED,0,2.27%,0.200,581.11328125,0,0,0,0
+roboti_seed-oss_6.cpp,TIME_LIMIT_EXCEEDED,10,11.36%,2.420,12.89453125,10,0,0,0
+roboti_seed-oss_7.cpp,RUNTIME_ERROR,10,13.64%,1.430,19.78515625,10,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+zrinka_gpt-oss-20b-high_0.cpp,ACCEPTED,70,100.00%,0.550,7.484375,15,20,15,20
+zrinka_gpt-oss-20b-high_1.cpp,ACCEPTED,70,100.00%,0.140,1.55859375,15,20,15,20
+zrinka_gpt-oss-20b-high_2.cpp,ACCEPTED,70,100.00%,0.150,1.55859375,15,20,15,20
+zrinka_gpt-oss-20b-high_3.cpp,ACCEPTED,70,100.00%,0.220,96.69140625,15,20,15,20
+zrinka_gpt-oss-20b-high_4.cpp,ACCEPTED,70,100.00%,0.190,96.69140625,15,20,15,20
+zrinka_gpt-oss-20b-high_5.cpp,ACCEPTED,70,100.00%,0.310,144.3828125,15,20,15,20
+zrinka_gpt-oss-20b-high_6.cpp,ACCEPTED,70,100.00%,0.160,96.94921875,15,20,15,20
+zrinka_gpt-oss-20b-high_7.cpp,ACCEPTED,70,100.00%,0.150,1.55859375,15,20,15,20

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Tractor_Paths_gemini-2.5-flash_0.cpp,TIME_LIMIT_EXCEEDED,44,18.75%,4.420,14.453125,0,22.22222222222222,0,0,0,0,0,0,22.22222222222222,0,0,0,0,0,0,0
+platinum_Tractor_Paths_gemini-2.5-flash_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.430,60.640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_gemini-2.5-flash_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.420,68.48046875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_gemini-2.5-flash_3.cpp,TIME_LIMIT_EXCEEDED,0,6.25%,4.420,562.1953125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_gemini-2.5-flash_4.cpp,TIME_LIMIT_EXCEEDED,44,18.75%,4.440,52.0625,0,22.22222222222222,0,0,0,0,0,0,22.22222222222222,0,0,0,0,0,0,0
+platinum_Tractor_Paths_gemini-2.5-flash_5.cpp,TIME_LIMIT_EXCEEDED,44,18.75%,4.430,33.28515625,0,22.22222222222222,0,0,0,0,0,0,22.22222222222222,0,0,0,0,0,0,0
+platinum_Tractor_Paths_gemini-2.5-flash_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_gemini-2.5-flash_7.cpp,TIME_LIMIT_EXCEEDED,44,18.75%,4.420,560.76953125,0,22.22222222222222,0,0,0,0,0,0,22.22222222222222,0,0,0,0,0,0,0

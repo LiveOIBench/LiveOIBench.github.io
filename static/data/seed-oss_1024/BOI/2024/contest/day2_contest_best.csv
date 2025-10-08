@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+fire,seed-oss_1024,UNKNOWN,0,0.00%,0.000,0
+tiles,seed-oss_1024,RUNTIME_ERROR,0,1.33%,0.020,6.16796875
+wall,seed-oss_1024,RUNTIME_ERROR,0,0.00%,0.000,0

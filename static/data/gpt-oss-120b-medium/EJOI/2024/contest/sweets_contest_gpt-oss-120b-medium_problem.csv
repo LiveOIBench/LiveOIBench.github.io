@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+sweets_gpt-oss-120b-medium_0.cpp,ACCEPTED,100,100.00%,100.00%,0.860,73.16015625,0,7,8,17,12,21,24,11
+sweets_gpt-oss-120b-medium_1.cpp,RUNTIME_ERROR,0,0.00%,4.84%,0.480,96.1875,0,0,0,0,0,0,0,0
+sweets_gpt-oss-120b-medium_2.cpp,ACCEPTED,100,100.00%,100.00%,0.800,134.515625,0,7,8,17,12,21,24,11
+sweets_gpt-oss-120b-medium_3.cpp,ACCEPTED,100,100.00%,100.00%,0.730,109.60546875,0,7,8,17,12,21,24,11
+sweets_gpt-oss-120b-medium_4.cpp,ACCEPTED,100,100.00%,100.00%,0.740,149.89453125,0,7,8,17,12,21,24,11
+sweets_gpt-oss-120b-medium_5.cpp,ACCEPTED,100,100.00%,100.00%,0.790,119.19140625,0,7,8,17,12,21,24,11
+sweets_gpt-oss-120b-medium_6.cpp,ACCEPTED,100,100.00%,100.00%,0.760,117.08203125,0,7,8,17,12,21,24,11
+sweets_gpt-oss-120b-medium_7.cpp,ACCEPTED,100,100.00%,100.00%,0.690,107.76171875,0,7,8,17,12,21,24,11

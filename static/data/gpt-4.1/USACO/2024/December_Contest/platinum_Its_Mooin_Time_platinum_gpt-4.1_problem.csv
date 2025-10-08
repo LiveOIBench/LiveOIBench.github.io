@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Its_Mooin_Time_gpt-4.1_0.cpp,TIME_LIMIT_EXCEEDED,24,16.67%,3.370,46.94140625,0,0,0,0,0,0,0,23.809523809523807,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_gpt-4.1_1.cpp,RUNTIME_ERROR,24,16.67%,0.170,7.74609375,0,0,0,0,0,0,0,23.809523809523807,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_gpt-4.1_2.cpp,RUNTIME_ERROR,0,0.00%,0.160,16.1875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_gpt-4.1_3.cpp,TIME_LIMIT_EXCEEDED,24,22.22%,3.340,20.13671875,0,0,0,0,0,0,0,23.809523809523807,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_gpt-4.1_4.cpp,MEMORY_LIMIT_EXCEEDED,48,33.33%,0.240,266.58984375,0,23.809523809523807,0,0,0,0,0,23.809523809523807,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_gpt-4.1_5.cpp,RUNTIME_ERROR,24,11.11%,0.170,9.9609375,0,0,0,0,0,0,0,23.809523809523807,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_gpt-4.1_6.cpp,RUNTIME_ERROR,24,16.67%,0.170,15.671875,0,0,0,0,0,0,0,23.809523809523807,0,0,0,0,0,0,0
+platinum_Its_Mooin_Time_gpt-4.1_7.cpp,RUNTIME_ERROR,24,16.67%,0.160,10.0625,0,0,0,0,0,0,0,23.809523809523807,0,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+toy,gpt-4.1,TIME_LIMIT_EXCEEDED,44,85.97%,1.540,12.9375
+stations,gpt-4.1,RUNTIME_ERROR,0,4.55%,0.050,15.203125
+sprinklers,gpt-4.1,RUNTIME_ERROR,9,47.01%,0.060,2.84765625

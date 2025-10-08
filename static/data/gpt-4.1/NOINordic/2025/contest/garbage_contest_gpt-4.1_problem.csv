@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+garbage_gpt-4.1_0.cpp,TIME_LIMIT_EXCEEDED,32,46.58%,5.510,25.00390625,10,0,0,22,0,0
+garbage_gpt-4.1_1.cpp,TIME_LIMIT_EXCEEDED,37,54.79%,5.590,11.359375,10,12,15,0,0,0
+garbage_gpt-4.1_2.cpp,TIME_LIMIT_EXCEEDED,32,53.42%,5.550,1121.4375,10,0,0,22,0,0
+garbage_gpt-4.1_3.cpp,RUNTIME_ERROR,0,26.03%,0.260,21.50390625,0,0,0,0,0,0
+garbage_gpt-4.1_4.cpp,TIME_LIMIT_EXCEEDED,59,65.75%,5.510,12.78515625,10,12,15,22,0,0
+garbage_gpt-4.1_5.cpp,RUNTIME_ERROR,22,38.36%,0.300,19.34765625,0,0,0,22,0,0
+garbage_gpt-4.1_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+garbage_gpt-4.1_7.cpp,TIME_LIMIT_EXCEEDED,0,15.07%,5.560,31.890625,0,0,0,0,0,0

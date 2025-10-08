@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+Strong_Connectivity_Strikes_Back_seed-oss_0.cpp,RUNTIME_ERROR,61,67.35%,0.050,17.078125,0.0,11.0,9.0,0,0,20.0,21.0,0
+Strong_Connectivity_Strikes_Back_seed-oss_1.cpp,RUNTIME_ERROR,52,65.28%,0.060,66.78125,0.0,11.0,0,0,0,20.0,21.0,0
+Strong_Connectivity_Strikes_Back_seed-oss_2.cpp,RUNTIME_ERROR,66,57.26%,0.040,1.49609375,0,0,0,12.0,13.0,20.0,21.0,0
+Strong_Connectivity_Strikes_Back_seed-oss_3.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+Strong_Connectivity_Strikes_Back_seed-oss_4.cpp,RUNTIME_ERROR,0,7.41%,0.050,4.90234375,0,0,0,0,0,0,0,0
+Strong_Connectivity_Strikes_Back_seed-oss_5.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+Strong_Connectivity_Strikes_Back_seed-oss_6.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+Strong_Connectivity_Strikes_Back_seed-oss_7.cpp,ACCEPTED,100,100.00%,0.040,1.80859375,0.0,11.0,9.0,12.0,13.0,20.0,21.0,14.0

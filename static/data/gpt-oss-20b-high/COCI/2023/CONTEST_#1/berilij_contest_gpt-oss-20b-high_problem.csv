@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+berilij_gpt-oss-20b-high_0.cpp,RUNTIME_ERROR,0,2.27%,0.130,12.55078125,0,0,0,0
+berilij_gpt-oss-20b-high_1.cpp,RUNTIME_ERROR,0,2.27%,0.170,19.140625,0,0,0,0
+berilij_gpt-oss-20b-high_2.cpp,RUNTIME_ERROR,0,2.27%,0.130,12.68359375,0,0,0,0
+berilij_gpt-oss-20b-high_3.cpp,RUNTIME_ERROR,0,56.82%,0.170,19.22265625,0,0,0,0
+berilij_gpt-oss-20b-high_4.cpp,RUNTIME_ERROR,0,2.27%,0.140,19.1484375,0,0,0,0
+berilij_gpt-oss-20b-high_5.cpp,RUNTIME_ERROR,0,2.27%,0.140,16.0625,0,0,0,0
+berilij_gpt-oss-20b-high_6.cpp,RUNTIME_ERROR,0,2.27%,0.150,12.390625,0,0,0,0
+berilij_gpt-oss-20b-high_7.cpp,RUNTIME_ERROR,0,2.27%,0.140,12.9375,0,0,0,0

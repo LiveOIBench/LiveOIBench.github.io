@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+paradoks,deepseek-reasoner,ACCEPTED,50,100.00%,0.000,0
+igre,deepseek-reasoner,RUNTIME_ERROR,29,44.90%,0.050,0.00390625
+razlicitost,deepseek-reasoner,TIME_LIMIT_EXCEEDED,47,74.42%,2.230,9.04296875
+blistavost,deepseek-reasoner,RUNTIME_ERROR,55,52.46%,0.040,1.91015625
+trokuti,deepseek-reasoner,RUNTIME_ERROR,13,25.96%,0.050,4.390625

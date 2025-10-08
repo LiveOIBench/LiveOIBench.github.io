@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+sweets_gpt-o3-mini-high_0.cpp,ACCEPTED,100,100.00%,1.090,115.44140625,0,7,8,17,12,21,24,11
+sweets_gpt-o3-mini-high_1.cpp,ACCEPTED,100,100.00%,1.010,128.5859375,0,7,8,17,12,21,24,11
+sweets_gpt-o3-mini-high_2.cpp,ACCEPTED,100,100.00%,0.980,113.56640625,0,7,8,17,12,21,24,11
+sweets_gpt-o3-mini-high_3.cpp,ACCEPTED,100,100.00%,0.980,134.3515625,0,7,8,17,12,21,24,11
+sweets_gpt-o3-mini-high_4.cpp,ACCEPTED,100,100.00%,1.070,132.2734375,0,7,8,17,12,21,24,11
+sweets_gpt-o3-mini-high_5.cpp,ACCEPTED,100,100.00%,0.940,137.9609375,0,7,8,17,12,21,24,11
+sweets_gpt-o3-mini-high_6.cpp,TIME_LIMIT_EXCEEDED,27,38.71%,3.340,118.1015625,0,7,8,0,12,0,0,0
+sweets_gpt-o3-mini-high_7.cpp,ACCEPTED,100,100.00%,0.850,124.8203125,0,7,8,17,12,21,24,11

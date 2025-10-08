@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+vrsta_deepseek-chat_0.cpp,RUNTIME_ERROR,26,20.00%,0.230,19.6015625,0,26,0,0
+vrsta_deepseek-chat_1.cpp,TIME_LIMIT_EXCEEDED,45,40.00%,1.160,123.1875,19,26,0,0
+vrsta_deepseek-chat_2.cpp,TIME_LIMIT_EXCEEDED,19,20.00%,1.130,257.484375,19,0,0,0
+vrsta_deepseek-chat_3.cpp,TIME_LIMIT_EXCEEDED,45,40.00%,1.120,269.9296875,19,26,0,0
+vrsta_deepseek-chat_4.cpp,TIME_LIMIT_EXCEEDED,19,20.00%,1.150,3.359375,19,0,0,0
+vrsta_deepseek-chat_5.cpp,TIME_LIMIT_EXCEEDED,45,40.00%,1.120,121.8984375,19,26,0,0
+vrsta_deepseek-chat_6.cpp,TIME_LIMIT_EXCEEDED,45,40.00%,1.140,160.1171875,19,26,0,0
+vrsta_deepseek-chat_7.cpp,TIME_LIMIT_EXCEEDED,45,40.00%,1.140,280.5625,19,26,0,0

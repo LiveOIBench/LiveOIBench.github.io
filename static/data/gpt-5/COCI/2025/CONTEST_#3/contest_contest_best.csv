@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+autobus,gpt-5,ACCEPTED,50,100.00%,0.000,0
+karte,gpt-5,ACCEPTED,70,100.00%,0.150,0.00390625
+bojanje,gpt-5,RUNTIME_ERROR,0,5.80%,0.000,0
+stablo,gpt-5,ACCEPTED,120,100.00%,0.500,55.62890625
+procesor,gpt-5,UNKNOWN,0,0.00%,0.000,0

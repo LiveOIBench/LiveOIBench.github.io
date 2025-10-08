@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+minequake,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,2.22%,0.000,0
+mineraldeposits,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+sequence,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,8.00%,0.000,0

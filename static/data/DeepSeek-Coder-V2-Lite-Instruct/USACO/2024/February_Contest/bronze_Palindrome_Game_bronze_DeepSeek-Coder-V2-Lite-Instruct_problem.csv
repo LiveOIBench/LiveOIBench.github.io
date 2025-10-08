@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Palindrome_Game_DeepSeek-Coder-V2-Lite-Instruct_0.cpp,WRONG_ANSWER,0,0.00%,0.110,0.00390625,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Palindrome_Game_DeepSeek-Coder-V2-Lite-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,167,53.85%,2.410,2.33203125,0,27.777777777777775,0,0,0,27.777777777777775,27.777777777777775,27.777777777777775,27.777777777777775,27.777777777777775,0,0,0
+bronze_Palindrome_Game_DeepSeek-Coder-V2-Lite-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,167,53.85%,2.420,2.33203125,0,27.777777777777775,0,0,0,27.777777777777775,27.777777777777775,27.777777777777775,27.777777777777775,27.777777777777775,0,0,0
+bronze_Palindrome_Game_DeepSeek-Coder-V2-Lite-Instruct_3.cpp,WRONG_ANSWER,0,0.00%,0.110,0.00390625,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Palindrome_Game_DeepSeek-Coder-V2-Lite-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.380,115.76953125,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Palindrome_Game_DeepSeek-Coder-V2-Lite-Instruct_5.cpp,MEMORY_LIMIT_EXCEEDED,83,30.77%,0.140,6.078125,0,27.777777777777775,0,0,0,27.777777777777775,27.777777777777775,0,0,0,0,0,0
+bronze_Palindrome_Game_DeepSeek-Coder-V2-Lite-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.440,1.55859375,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Palindrome_Game_DeepSeek-Coder-V2-Lite-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,111,30.77%,2.340,115.76953125,0,0,0,0,0,0,27.777777777777775,27.777777777777775,27.777777777777775,27.777777777777775,0,0,0

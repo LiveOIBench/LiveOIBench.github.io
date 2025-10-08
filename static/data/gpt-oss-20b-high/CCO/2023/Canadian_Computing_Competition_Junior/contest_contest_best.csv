@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+j1,gpt-oss-20b-high,ACCEPTED,15,100.00%,0.000,0
+j2,gpt-oss-20b-high,ACCEPTED,15,100.00%,0.000,0
+j3,gpt-oss-20b-high,ACCEPTED,15,100.00%,0.000,0
+s1j4,gpt-oss-20b-high,ACCEPTED,15,100.00%,0.010,2.84765625
+j5,gpt-oss-20b-high,ACCEPTED,15,100.00%,0.000,0.00390625

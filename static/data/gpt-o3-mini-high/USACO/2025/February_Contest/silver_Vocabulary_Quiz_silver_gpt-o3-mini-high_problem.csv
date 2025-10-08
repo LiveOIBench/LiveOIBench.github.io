@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Vocabulary_Quiz_gpt-o3-mini-high_0.cpp,TIME_LIMIT_EXCEEDED,156,55.56%,2.250,14.96484375,0,22.22222222222222,0,0,0,0,0,0,22.22222222222222,22.22222222222222,22.22222222222222,22.22222222222222,22.22222222222222,22.22222222222222,0,0
+silver_Vocabulary_Quiz_gpt-o3-mini-high_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.220,57.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Vocabulary_Quiz_gpt-o3-mini-high_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.230,14.58984375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Vocabulary_Quiz_gpt-o3-mini-high_3.cpp,RUNTIME_ERROR,0,0.00%,1.450,108.3828125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Vocabulary_Quiz_gpt-o3-mini-high_4.cpp,TIME_LIMIT_EXCEEDED,156,55.56%,2.240,19.62890625,0,22.22222222222222,0,0,0,0,0,0,22.22222222222222,22.22222222222222,22.22222222222222,22.22222222222222,22.22222222222222,22.22222222222222,0,0
+silver_Vocabulary_Quiz_gpt-o3-mini-high_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.240,122.703125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Vocabulary_Quiz_gpt-o3-mini-high_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.240,60.70703125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Vocabulary_Quiz_gpt-o3-mini-high_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.280,57.1015625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+show,gpt-o3-mini-high,COMPILATION_ERROR,0,0.00%,0.000,0
+september,gpt-o3-mini-high,ACCEPTED,100,100.00%,0.490,35.08984375
+train,gpt-o3-mini-high,MEMORY_LIMIT_EXCEEDED,5,23.21%,0.410,1224.32421875

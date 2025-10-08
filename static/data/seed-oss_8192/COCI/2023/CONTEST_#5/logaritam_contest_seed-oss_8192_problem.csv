@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+logaritam_seed-oss_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+logaritam_seed-oss_1.cpp,RUNTIME_ERROR,0,0.00%,0.010,0,0,0,0,0
+logaritam_seed-oss_2.cpp,MEMORY_LIMIT_EXCEEDED,48,87.80%,0.160,383.109375,19,0,29,0
+logaritam_seed-oss_3.cpp,RUNTIME_ERROR,0,0.00%,1.080,382.74609375,0,0,0,0
+logaritam_seed-oss_4.cpp,ACCEPTED,110,100.00%,0.070,0.00390625,19,26,29,36
+logaritam_seed-oss_6.cpp,RUNTIME_ERROR,0,0.00%,0.080,0.00390625,0,0,0,0
+logaritam_seed-oss_7.cpp,RUNTIME_ERROR,0,0.00%,0.020,0.00390625,0,0,0,0

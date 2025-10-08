@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+tramvaji,Qwen2.5-Coder-7B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+ekspert,Qwen2.5-Coder-7B-Instruct,RUNTIME_ERROR,0,0.00%,0.000,0
+lampice,Qwen2.5-Coder-7B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+prijateljice,Qwen2.5-Coder-7B-Instruct,RUNTIME_ERROR,0,8.00%,0.000,0
+kruhologija,Qwen2.5-Coder-7B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

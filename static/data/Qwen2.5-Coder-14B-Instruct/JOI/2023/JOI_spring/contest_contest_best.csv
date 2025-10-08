@@ -1,0 +1,13 @@
+problem,model,status,score,%test passed,time,memory
+2023-sp_Two_Currencies,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Festivals_in_JOI_Kingdom_2,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,24.00%,0.000,0
+2023-sp_Passport,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,9.43%,0.000,0
+2023-sp_Belt_Conveyor,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,3.23%,0.700,22.19140625
+2023-sp_Council,Qwen2.5-Coder-14B-Instruct,TIME_LIMIT_EXCEEDED,16,71.95%,3.600,18.57421875
+2023-sp_Mizuyokan_2,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,0.00%,0.150,4.91015625
+2023-sp_Chorus,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,6.67%,0.000,0
+2023-sp_Cookies,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,37.43%,0.120,2.0703125
+2023-sp_Tourism,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Super_Dango_Maker,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Security_Guard,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,5.95%,0.150,8.10546875
+2023-sp_Bitaro’s_travel,Qwen2.5-Coder-14B-Instruct,TIME_LIMIT_EXCEEDED,5,56.82%,2.250,12.12890625

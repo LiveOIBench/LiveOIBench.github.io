@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bovine_Acrobatics,gpt-oss-20b-low,ACCEPTED,333,100.00%,0.060,15.98828125
+silver_Cycle_Correspondence,gpt-oss-20b-low,WRONG_ANSWER,139,46.67%,0.130,43.0625
+silver_Target_Practice,gpt-oss-20b-low,TIME_LIMIT_EXCEEDED,83,40.00%,2.410,7.875

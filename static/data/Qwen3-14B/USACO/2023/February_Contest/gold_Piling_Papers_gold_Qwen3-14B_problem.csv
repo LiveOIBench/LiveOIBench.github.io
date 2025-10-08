@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Piling_Papers_Qwen3-14B_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.240,261.30859375,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Piling_Papers_Qwen3-14B_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Piling_Papers_Qwen3-14B_2.cpp,MEMORY_LIMIT_EXCEEDED,0,7.69%,1.580,280.76171875,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Piling_Papers_Qwen3-14B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Piling_Papers_Qwen3-14B_4.cpp,TIME_LIMIT_EXCEEDED,0,7.69%,2.260,1.80859375,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Piling_Papers_Qwen3-14B_5.cpp,WRONG_ANSWER,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Piling_Papers_Qwen3-14B_6.cpp,RUNTIME_ERROR,0,0.00%,0.110,1.95703125,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Piling_Papers_Qwen3-14B_7.cpp,TIME_LIMIT_EXCEEDED,0,7.69%,2.340,1.921875,0,0,0,0,0,0,0,0,0,0,0,0,0

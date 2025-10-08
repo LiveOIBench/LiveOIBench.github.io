@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Train_Scheduling_Qwen3-30B_0.cpp,RUNTIME_ERROR,0,8.33%,0.110,1.5546875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Train_Scheduling_Qwen3-30B_1.cpp,RUNTIME_ERROR,0,8.33%,0.110,1.65234375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Train_Scheduling_Qwen3-30B_2.cpp,RUNTIME_ERROR,0,8.33%,0.110,3.875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Train_Scheduling_Qwen3-30B_3.cpp,RUNTIME_ERROR,0,0.00%,0.190,108.28515625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Train_Scheduling_Qwen3-30B_4.cpp,RUNTIME_ERROR,0,8.33%,0.110,1.5546875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Train_Scheduling_Qwen3-30B_5.cpp,RUNTIME_ERROR,0,8.33%,0.110,1.5546875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Train_Scheduling_Qwen3-30B_6.cpp,WRONG_ANSWER,183,62.50%,0.110,1.5546875,0,16.666666666666664,16.666666666666664,0,0,0,16.666666666666664,16.666666666666664,0,16.666666666666664,0,16.666666666666664,16.666666666666664,0,0,16.666666666666664,16.666666666666664,0,0,16.666666666666664,16.666666666666664
+platinum_Train_Scheduling_Qwen3-30B_7.cpp,RUNTIME_ERROR,0,8.33%,0.320,216.6796875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,5 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+2023-open-t3_Garden_Qwen3-30B-Non-Thinking_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.280,155.46484375,0,0,0,0,0,0
+2023-open-t3_Garden_Qwen3-30B-Non-Thinking_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+2023-open-t3_Garden_Qwen3-30B-Non-Thinking_5.cpp,RUNTIME_ERROR,0,0.00%,1.140,109.83203125,0,0,0,0,0,0
+2023-open-t3_Garden_Qwen3-30B-Non-Thinking_6.cpp,RUNTIME_ERROR,0,0.00%,0.210,40.5546875,0,0,0,0,0,0

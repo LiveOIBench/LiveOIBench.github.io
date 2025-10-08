@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+message,seed-oss_16384,RUNTIME_ERROR,10,44.44%,1.630,4.47265625
+nile,seed-oss_16384,TIME_LIMIT_EXCEEDED,67,83.76%,2.410,9.2109375
+tree,seed-oss_16384,TIME_LIMIT_EXCEEDED,10,25.88%,2.410,21.4296875

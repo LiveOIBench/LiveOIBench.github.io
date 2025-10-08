@@ -1,0 +1,6 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+razlicitost_gpt-oss-20b-high_1.cpp,RUNTIME_ERROR,22,37.21%,0.710,109.578125,0,13,9,0
+razlicitost_gpt-oss-20b-high_4.cpp,ACCEPTED,90,100.00%,0.300,5.9375,25,13,9,43
+razlicitost_gpt-oss-20b-high_5.cpp,ACCEPTED,90,100.00%,0.240,292.8828125,25,13,9,43
+razlicitost_gpt-oss-20b-high_6.cpp,ACCEPTED,90,100.00%,0.660,51.2421875,25,13,9,43
+razlicitost_gpt-oss-20b-high_7.cpp,RUNTIME_ERROR,47,76.74%,0.260,25.7890625,25,13,9,0

@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+zlagalica,seed-oss_2048,RUNTIME_ERROR,12,25.00%,0.020,0
+bitovi,seed-oss_2048,COMPILATION_ERROR,0,0.00%,0.000,0
+piratski,seed-oss_2048,COMPILATION_ERROR,0,0.00%,0.000,0
+rolete,seed-oss_2048,COMPILATION_ERROR,0,0.00%,0.000,0
+trokut,seed-oss_2048,RUNTIME_ERROR,0,0.00%,0.020,0.00390625

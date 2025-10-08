@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+2024-sp_Fish_3_gpt-oss-120b-medium_0.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0
+2024-sp_Fish_3_gpt-oss-120b-medium_1.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0
+2024-sp_Fish_3_gpt-oss-120b-medium_2.cpp,RUNTIME_ERROR,0,0.00%,9.21%,0.460,74.0234375,0,0,0,0,0
+2024-sp_Fish_3_gpt-oss-120b-medium_3.cpp,RUNTIME_ERROR,0,0.00%,9.21%,0.370,155.48828125,0,0,0,0,0
+2024-sp_Fish_3_gpt-oss-120b-medium_4.cpp,RUNTIME_ERROR,0,0.00%,52.94%,0.480,98.84765625,0,0,0,0,0
+2024-sp_Fish_3_gpt-oss-120b-medium_5.cpp,RUNTIME_ERROR,0,0.00%,9.21%,0.140,25.27734375,0,0,0,0,0
+2024-sp_Fish_3_gpt-oss-120b-medium_6.cpp,RUNTIME_ERROR,0,0.00%,9.21%,0.230,40.33203125,0,0,0,0,0
+2024-sp_Fish_3_gpt-oss-120b-medium_7.cpp,ACCEPTED,100,100.00%,100.00%,0.390,58.46875,9,7,28,20,36

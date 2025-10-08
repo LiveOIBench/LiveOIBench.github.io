@@ -1,0 +1,6 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+autobus,gpt-oss-120b-medium,ACCEPTED,50,100.00%,100.00%,0.020,0.00390625
+karte,gpt-oss-120b-medium,ACCEPTED,70,100.00%,100.00%,0.030,0
+bojanje,gpt-oss-120b-medium,RUNTIME_ERROR,0,0.00%,5.80%,0.030,0.00390625
+stablo,gpt-oss-120b-medium,ACCEPTED,120,100.00%,100.00%,0.580,83.28125
+procesor,gpt-oss-120b-medium,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0

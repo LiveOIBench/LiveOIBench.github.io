@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+oldorhei_gpt-4.1_0.cpp,TIME_LIMIT_EXCEEDED,24,53.49%,3.330,2.58984375,0,7,0,17,0,0
+oldorhei_gpt-4.1_1.cpp,TIME_LIMIT_EXCEEDED,84,83.72%,3.310,45.109375,0,7,0,17,31,29
+oldorhei_gpt-4.1_2.cpp,TIME_LIMIT_EXCEEDED,7,48.84%,3.370,2.58984375,0,7,0,0,0,0
+oldorhei_gpt-4.1_3.cpp,TIME_LIMIT_EXCEEDED,55,60.47%,3.360,2.64453125,0,7,0,17,31,0
+oldorhei_gpt-4.1_4.cpp,ACCEPTED,100,100.00%,0.730,3.08203125,0,7,16,17,31,29
+oldorhei_gpt-4.1_5.cpp,TIME_LIMIT_EXCEEDED,38,55.81%,3.370,2.6484375,0,7,0,0,31,0
+oldorhei_gpt-4.1_6.cpp,ACCEPTED,100,100.00%,0.420,86.48046875,0,7,16,17,31,29
+oldorhei_gpt-4.1_7.cpp,TIME_LIMIT_EXCEEDED,7,20.93%,3.320,15.45703125,0,7,0,0,0,0

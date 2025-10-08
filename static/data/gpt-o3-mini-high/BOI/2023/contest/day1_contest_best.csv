@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+astronomer,gpt-o3-mini-high,RUNTIME_ERROR,8,31.10%,3.150,14.18359375
+staringcontest,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,0,0.00%,0.010,1.4765625
+tycho,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,47,91.67%,2.210,2.953125

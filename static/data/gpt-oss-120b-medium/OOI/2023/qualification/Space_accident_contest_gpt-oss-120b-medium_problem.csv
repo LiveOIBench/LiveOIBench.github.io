@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Space_accident_gpt-oss-120b-medium_0.cpp,RUNTIME_ERROR,10,10.00%,31.33%,0.050,2.07421875,0.0,0,0,10.0,0,0,0
+Space_accident_gpt-oss-120b-medium_1.cpp,RUNTIME_ERROR,41,41.00%,56.00%,0.050,2.07421875,0.0,0,16.0,10.0,15.0,0,0
+Space_accident_gpt-oss-120b-medium_2.cpp,RUNTIME_ERROR,10,10.00%,37.33%,0.050,2.07421875,0.0,0,0,10.0,0,0,0
+Space_accident_gpt-oss-120b-medium_3.cpp,RUNTIME_ERROR,10,10.00%,18.94%,0.050,2.07421875,0,0,0,10.0,0,0,0
+Space_accident_gpt-oss-120b-medium_4.cpp,RUNTIME_ERROR,10,10.00%,31.33%,0.050,2.07421875,0.0,0,0,10.0,0,0,0
+Space_accident_gpt-oss-120b-medium_5.cpp,RUNTIME_ERROR,10,10.00%,19.70%,0.050,2.0703125,0,0,0,10.0,0,0,0
+Space_accident_gpt-oss-120b-medium_6.cpp,RUNTIME_ERROR,49,49.00%,74.23%,0.050,2.07421875,0.0,15.0,0,10.0,0,24.0,0
+Space_accident_gpt-oss-120b-medium_7.cpp,RUNTIME_ERROR,10,10.00%,37.33%,0.050,2.07421875,0.0,0,0,10.0,0,0,0

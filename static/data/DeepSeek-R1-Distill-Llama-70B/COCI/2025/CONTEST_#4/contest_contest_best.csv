@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+sah,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,50,100.00%,0.100,0.00390625
+benzinska,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,70,100.00%,0.210,5.1484375
+xor,DeepSeek-R1-Distill-Llama-70B,UNKNOWN,0,0.00%,0.000,0
+cipele,DeepSeek-R1-Distill-Llama-70B,COMPILATION_ERROR,0,0.00%,0.000,0
+tura,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,0.72%,0.080,3.10546875

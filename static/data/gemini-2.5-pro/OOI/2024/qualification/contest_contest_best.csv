@@ -1,0 +1,10 @@
+problem,model,status,score,%test passed,time,memory
+Colorful_Diameter,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,43,75.10%,7.710,27.828125
+Road_Lighting,gemini-2.5-pro,RUNTIME_ERROR,14,38.66%,0.380,8.19921875
+Repainting_the_Table,gemini-2.5-pro,ACCEPTED,100,100.00%,0.500,140.65625
+Distinctive_Features,gemini-2.5-pro,ACCEPTED,100,100.00%,0.530,47.4765625
+Classic_Tree_Problem,gemini-2.5-pro,RUNTIME_ERROR,0,0.00%,0.000,0
+Alien_Homophones,gemini-2.5-pro,ACCEPTED,100,100.00%,0.830,316.6328125
+Stone_Enthusiast,gemini-2.5-pro,ACCEPTED,100,100.00%,0.350,21.77734375
+Egors_Gaming_Addiction,gemini-2.5-pro,ACCEPTED,100,100.00%,0.690,227.07421875
+Ultrafast_train,gemini-2.5-pro,ACCEPTED,100,100.00%,0.200,18.40234375

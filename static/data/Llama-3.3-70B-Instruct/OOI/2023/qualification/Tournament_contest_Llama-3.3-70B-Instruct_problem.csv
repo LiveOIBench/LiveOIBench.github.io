@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Tournament_Llama-3.3-70B-Instruct_0.cpp,MEMORY_LIMIT_EXCEEDED,80,97.15%,0.100,1.69921875,0.0,14.0,0,8.0,0,12.0,9.0,10.0,9.0,8.0,10.0
+Tournament_Llama-3.3-70B-Instruct_1.cpp,MEMORY_LIMIT_EXCEEDED,80,97.15%,0.100,0,0.0,14.0,0,8.0,0,12.0,9.0,10.0,9.0,8.0,10.0
+Tournament_Llama-3.3-70B-Instruct_2.cpp,ACCEPTED,100,100.00%,0.130,88.26953125,0.0,14.0,9.0,8.0,11.0,12.0,9.0,10.0,9.0,8.0,10.0
+Tournament_Llama-3.3-70B-Instruct_3.cpp,MEMORY_LIMIT_EXCEEDED,80,97.15%,0.000,0,0.0,14.0,0,8.0,0,12.0,9.0,10.0,9.0,8.0,10.0
+Tournament_Llama-3.3-70B-Instruct_4.cpp,MEMORY_LIMIT_EXCEEDED,80,97.15%,0.100,0,0.0,14.0,0,8.0,0,12.0,9.0,10.0,9.0,8.0,10.0
+Tournament_Llama-3.3-70B-Instruct_5.cpp,MEMORY_LIMIT_EXCEEDED,80,97.15%,0.100,0,0.0,14.0,0,8.0,0,12.0,9.0,10.0,9.0,8.0,10.0
+Tournament_Llama-3.3-70B-Instruct_6.cpp,MEMORY_LIMIT_EXCEEDED,80,97.15%,0.250,91.70703125,0.0,14.0,0,8.0,0,12.0,9.0,10.0,9.0,8.0,10.0
+Tournament_Llama-3.3-70B-Instruct_7.cpp,MEMORY_LIMIT_EXCEEDED,80,97.15%,0.100,59.36328125,0.0,14.0,0,8.0,0,12.0,9.0,10.0,9.0,8.0,10.0

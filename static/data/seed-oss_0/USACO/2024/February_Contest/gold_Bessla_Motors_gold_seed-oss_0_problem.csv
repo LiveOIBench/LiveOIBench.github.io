@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Bessla_Motors_seed-oss_0.cpp,MEMORY_LIMIT_EXCEEDED,0,13.33%,0.460,136.13671875,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessla_Motors_seed-oss_1.cpp,RUNTIME_ERROR,0,0.00%,0.590,66.79296875,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessla_Motors_seed-oss_2.cpp,MEMORY_LIMIT_EXCEEDED,0,6.67%,0.350,305.91796875,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessla_Motors_seed-oss_3.cpp,TIME_LIMIT_EXCEEDED,56,33.33%,3.630,8.89453125,0,27.777777777777775,0,0,0,0,27.777777777777775,0,0,0,0,0,0
+gold_Bessla_Motors_seed-oss_4.cpp,TIME_LIMIT_EXCEEDED,28,26.67%,3.630,9.3515625,0,27.777777777777775,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessla_Motors_seed-oss_5.cpp,RUNTIME_ERROR,0,0.00%,0.670,8.515625,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessla_Motors_seed-oss_6.cpp,RUNTIME_ERROR,0,0.00%,0.090,11.0625,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessla_Motors_seed-oss_7.cpp,MEMORY_LIMIT_EXCEEDED,83,40.00%,0.230,305.91796875,0,27.777777777777775,0,0,0,27.777777777777775,0,0,27.777777777777775,0,0,0,0

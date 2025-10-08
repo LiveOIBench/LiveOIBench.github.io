@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Min_Max_Subarrays,seed-oss_8192,RUNTIME_ERROR,0,7.69%,0.090,17.796875
+platinum_Transforming_Pairs,seed-oss_8192,WRONG_ANSWER,0,5.26%,0.090,0.00390625
+platinum_True_or_False_Test,seed-oss_8192,WRONG_ANSWER,0,5.00%,0.070,8.2578125

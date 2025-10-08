@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+cipele_seed-oss_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+cipele_seed-oss_1.cpp,RUNTIME_ERROR,64,32.26%,0.370,25.015625,0,27,37,0,0
+cipele_seed-oss_2.cpp,RUNTIME_ERROR,0,0.00%,0.130,27.1796875,0,0,0,0,0
+cipele_seed-oss_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.420,25.953125,0,0,0,0,0
+cipele_seed-oss_4.cpp,RUNTIME_ERROR,0,0.00%,0.610,54.5625,0,0,0,0,0
+cipele_seed-oss_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.420,31.3359375,0,0,0,0,0
+cipele_seed-oss_6.cpp,RUNTIME_ERROR,0,0.00%,0.070,15.734375,0,0,0,0,0
+cipele_seed-oss_7.cpp,ACCEPTED,120,100.00%,0.180,26.29296875,17,27,37,24,15

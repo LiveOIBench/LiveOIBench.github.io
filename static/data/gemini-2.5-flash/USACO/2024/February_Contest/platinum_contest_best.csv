@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Lazy_Cow,gemini-2.5-flash,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Minimum_Sum_of_Maximums,gemini-2.5-flash,WRONG_ANSWER,17,20.83%,0.100,1.55078125
+platinum_Infinite_Adventure,gemini-2.5-flash,MEMORY_LIMIT_EXCEEDED,42,22.22%,0.280,562.296875

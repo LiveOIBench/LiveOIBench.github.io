@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Moo_Decomposition,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,4.00%,0.120,2.52734375
+gold_Election_Queries,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_OohMoo_Milk,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

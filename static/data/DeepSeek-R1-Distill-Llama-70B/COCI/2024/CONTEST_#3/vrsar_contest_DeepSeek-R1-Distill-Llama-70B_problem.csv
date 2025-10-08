@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+vrsar_DeepSeek-R1-Distill-Llama-70B_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+vrsar_DeepSeek-R1-Distill-Llama-70B_1.cpp,RUNTIME_ERROR,0,0.00%,0.150,4.390625,0,0,0,0
+vrsar_DeepSeek-R1-Distill-Llama-70B_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+vrsar_DeepSeek-R1-Distill-Llama-70B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+vrsar_DeepSeek-R1-Distill-Llama-70B_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+vrsar_DeepSeek-R1-Distill-Llama-70B_5.cpp,ACCEPTED,70,100.00%,0.190,6.1953125,8,17,19,26
+vrsar_DeepSeek-R1-Distill-Llama-70B_6.cpp,RUNTIME_ERROR,0,0.00%,0.190,4.6640625,0,0,0,0
+vrsar_DeepSeek-R1-Distill-Llama-70B_7.cpp,RUNTIME_ERROR,17,18.75%,0.180,3.6171875,0,17,0,0

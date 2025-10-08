@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+wow,gpt-oss-20b-medium,ACCEPTED,50,100.00%,0.020,0
+zid,gpt-oss-20b-medium,ACCEPTED,70,100.00%,0.130,1.5546875
+tornjevi,gpt-oss-20b-medium,ACCEPTED,90,100.00%,0.300,12.8984375
+crtez,gpt-oss-20b-medium,RUNTIME_ERROR,0,4.26%,0.130,255.02734375
+stablo,gpt-oss-20b-medium,ACCEPTED,120,100.00%,1.670,127.36328125

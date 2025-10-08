@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+cern,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+koreografija,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+ministarstvo,Qwen3-4B-Non-Thinking,RUNTIME_ERROR,0,1.75%,0.140,6.1953125
+sirologija,Qwen3-4B-Non-Thinking,RUNTIME_ERROR,0,0.00%,0.100,13.21484375

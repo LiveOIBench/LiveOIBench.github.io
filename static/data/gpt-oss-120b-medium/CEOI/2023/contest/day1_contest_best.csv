@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+grading-server,gpt-oss-120b-medium,RUNTIME_ERROR,0,0.00%,4.00%,0.070,0.00390625
+light,gpt-oss-120b-medium,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0
+balance,gpt-oss-120b-medium,TIME_LIMIT_EXCEEDED,30,30.00%,52.34%,2.410,165.92578125

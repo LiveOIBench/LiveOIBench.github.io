@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+cern_Qwen3-30B_0.cpp,RUNTIME_ERROR,0,0.00%,2.130,18.5625,0,0,0,0,0
+cern_Qwen3-30B_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.410,18.5703125,0,0,0,0,0
+cern_Qwen3-30B_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.430,25.015625,0,0,0,0,0
+cern_Qwen3-30B_3.cpp,RUNTIME_ERROR,0,0.00%,2.160,12.92578125,0,0,0,0,0
+cern_Qwen3-30B_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.430,18.5703125,0,0,0,0,0
+cern_Qwen3-30B_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.410,10.90625,0,0,0,0,0
+cern_Qwen3-30B_6.cpp,RUNTIME_ERROR,0,0.00%,1.360,12.9296875,0,0,0,0,0
+cern_Qwen3-30B_7.cpp,RUNTIME_ERROR,0,0.00%,2.560,14.78515625,0,0,0,0,0

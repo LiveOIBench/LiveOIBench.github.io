@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Card_Flip,gpt-5,RUNTIME_ERROR,19,43.70%,0.160,6.97265625
+Order_Statistics,gpt-5,RUNTIME_ERROR,18,50.00%,0.360,17.79296875
+Best_Runner,gpt-5,ACCEPTED,100,100.00%,0.900,146.98828125
+Strong_Connectivity_Strikes_Back,gpt-5,ACCEPTED,100,100.00%,0.090,4.64453125

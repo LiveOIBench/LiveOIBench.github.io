@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Island_Vacation,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Merging_Cells,Codestral-22B-v0.1,TIME_LIMIT_EXCEEDED,0,4.55%,2.290,153.1796875
+platinum_Mooball_Teams_III,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0

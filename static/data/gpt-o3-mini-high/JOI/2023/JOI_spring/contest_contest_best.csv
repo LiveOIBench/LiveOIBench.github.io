@@ -1,0 +1,13 @@
+problem,model,status,score,%test passed,time,memory
+2023-sp_Two_Currencies,gpt-o3-mini-high,ACCEPTED,100,100.00%,0.470,70.38671875
+2023-sp_Festivals_in_JOI_Kingdom_2,gpt-o3-mini-high,RUNTIME_ERROR,0,40.00%,0.000,0
+2023-sp_Passport,gpt-o3-mini-high,RUNTIME_ERROR,22,72.92%,0.090,25.5234375
+2023-sp_Belt_Conveyor,gpt-o3-mini-high,RUNTIME_ERROR,0,0.00%,0.040,4.015625
+2023-sp_Council,gpt-o3-mini-high,ACCEPTED,100,100.00%,2.330,26.78125
+2023-sp_Mizuyokan_2,gpt-o3-mini-high,RUNTIME_ERROR,0,0.00%,0.120,27.078125
+2023-sp_Chorus,gpt-o3-mini-high,RUNTIME_ERROR,0,50.85%,0.040,0.00390625
+2023-sp_Cookies,gpt-o3-mini-high,RUNTIME_ERROR,13,71.59%,0.040,0
+2023-sp_Tourism,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,28,79.65%,4.410,18.4453125
+2023-sp_Super_Dango_Maker,gpt-o3-mini-high,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-sp_Security_Guard,gpt-o3-mini-high,RUNTIME_ERROR,0,5.95%,0.070,2.84765625
+2023-sp_Bitaro’s_travel,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,15,77.88%,2.210,2.84765625

@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+aquarelle_gpt-oss-120b-medium_0.cpp,RUNTIME_ERROR,0,0.00%,51.82%,0.030,3.296875,0,0,0,0,0,0
+aquarelle_gpt-oss-120b-medium_1.cpp,RUNTIME_ERROR,0,0.00%,20.62%,0.000,0,0,0,0,0,0,0
+aquarelle_gpt-oss-120b-medium_2.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.040,27.59375,0,0,0,0,0,0
+aquarelle_gpt-oss-120b-medium_3.cpp,RUNTIME_ERROR,0,0.00%,5.88%,0.030,2.83984375,0,0,0,0,0,0
+aquarelle_gpt-oss-120b-medium_4.cpp,RUNTIME_ERROR,0,0.00%,20.62%,0.030,2.07421875,0,0,0,0,0,0
+aquarelle_gpt-oss-120b-medium_5.cpp,TIME_LIMIT_EXCEEDED,89,89.00%,96.20%,0.440,76.57421875,0,11,18,24,36,0
+aquarelle_gpt-oss-120b-medium_6.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0
+aquarelle_gpt-oss-120b-medium_7.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.040,21.7109375,0,0,0,0,0,0

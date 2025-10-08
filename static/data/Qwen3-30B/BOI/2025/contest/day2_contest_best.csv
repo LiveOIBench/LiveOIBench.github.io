@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+dev,Qwen3-30B,RUNTIME_ERROR,0,1.10%,0.030,1.55078125
+exp,Qwen3-30B,TIME_LIMIT_EXCEEDED,0,2.01%,1.110,42.859375
+gcd,Qwen3-30B,RUNTIME_ERROR,0,3.28%,0.000,0

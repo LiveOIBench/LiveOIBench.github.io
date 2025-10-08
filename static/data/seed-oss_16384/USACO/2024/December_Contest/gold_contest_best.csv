@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Cowdependence,seed-oss_16384,TIME_LIMIT_EXCEEDED,123,40.00%,2.440,5.94921875
+gold_Interstellar_Intervals,seed-oss_16384,RUNTIME_ERROR,0,4.35%,0.030,15.77734375
+gold_Job_Completion,seed-oss_16384,ACCEPTED,333,100.00%,0.090,5.25390625

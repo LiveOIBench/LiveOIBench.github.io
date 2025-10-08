@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+fire,QwQ-32B,RUNTIME_ERROR,0,44.64%,0.050,3.12890625
+tiles,QwQ-32B,RUNTIME_ERROR,4,8.00%,0.040,4.7578125
+wall,QwQ-32B,COMPILATION_ERROR,0,0.00%,0.000,0

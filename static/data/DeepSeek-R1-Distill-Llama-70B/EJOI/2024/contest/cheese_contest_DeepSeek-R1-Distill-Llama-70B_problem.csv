@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+cheese_DeepSeek-R1-Distill-Llama-70B_0.cpp,RUNTIME_ERROR,0,5.13%,0.830,9.03125,0,0,0,0,0,0,0
+cheese_DeepSeek-R1-Distill-Llama-70B_1.cpp,RUNTIME_ERROR,0,5.13%,0.770,9.02734375,0,0,0,0,0,0,0
+cheese_DeepSeek-R1-Distill-Llama-70B_2.cpp,RUNTIME_ERROR,11,25.64%,0.310,6.96875,0,0,0,11,0,0,0
+cheese_DeepSeek-R1-Distill-Llama-70B_3.cpp,RUNTIME_ERROR,0,2.56%,0.690,10.82421875,0,0,0,0,0,0,0
+cheese_DeepSeek-R1-Distill-Llama-70B_4.cpp,RUNTIME_ERROR,0,0.00%,0.730,6.91015625,0,0,0,0,0,0,0
+cheese_DeepSeek-R1-Distill-Llama-70B_5.cpp,RUNTIME_ERROR,11,25.64%,0.330,9.859375,0,0,0,11,0,0,0
+cheese_DeepSeek-R1-Distill-Llama-70B_6.cpp,RUNTIME_ERROR,11,25.64%,0.780,10.78125,0,0,0,11,0,0,0
+cheese_DeepSeek-R1-Distill-Llama-70B_7.cpp,RUNTIME_ERROR,0,0.00%,0.230,8.97265625,0,0,0,0,0,0,0

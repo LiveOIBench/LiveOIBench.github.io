@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Jump_Civilization,Qwen3-4B-Non-Thinking,RUNTIME_ERROR,0,0.00%,0.140,5.72265625
+Ramen,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+Signals,Qwen3-4B-Non-Thinking,UNKNOWN,0,0.00%,0.000,0

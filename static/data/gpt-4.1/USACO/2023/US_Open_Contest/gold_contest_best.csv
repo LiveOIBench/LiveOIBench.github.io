@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Custodial_Cleanup,gpt-4.1,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Pareidolia,gpt-4.1,RUNTIME_ERROR,0,5.88%,0.110,2.44921875
+gold_Tree_Merging,gpt-4.1,WRONG_ANSWER,0,0.00%,0.100,0.00390625

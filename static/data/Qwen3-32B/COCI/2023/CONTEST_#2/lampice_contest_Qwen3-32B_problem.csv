@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+lampice_Qwen3-32B_0.cpp,RUNTIME_ERROR,0,0.00%,0.310,4.39453125,0,0,0,0
+lampice_Qwen3-32B_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.310,1.55859375,0,0,0,0
+lampice_Qwen3-32B_2.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.590,461.65234375,0,0,0,0
+lampice_Qwen3-32B_3.cpp,RUNTIME_ERROR,0,2.38%,0.120,7.98828125,0,0,0,0
+lampice_Qwen3-32B_4.cpp,RUNTIME_ERROR,0,2.38%,0.050,10.83203125,0,0,0,0
+lampice_Qwen3-32B_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.310,26.50390625,0,0,0,0
+lampice_Qwen3-32B_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.310,8.00390625,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Bessies_Function_gemini-2.5-flash_0.cpp,RUNTIME_ERROR,18,4.76%,0.070,11.77734375,0,17.543859649122805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessies_Function_gemini-2.5-flash_1.cpp,WRONG_ANSWER,0,4.76%,0.070,13.4296875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessies_Function_gemini-2.5-flash_2.cpp,RUNTIME_ERROR,0,0.00%,0.070,21.921875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessies_Function_gemini-2.5-flash_3.cpp,RUNTIME_ERROR,0,0.00%,0.230,37.98828125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessies_Function_gemini-2.5-flash_4.cpp,RUNTIME_ERROR,0,0.00%,0.080,4.796875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessies_Function_gemini-2.5-flash_5.cpp,TIME_LIMIT_EXCEEDED,18,9.52%,2.290,53.2578125,0,17.543859649122805,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessies_Function_gemini-2.5-flash_6.cpp,RUNTIME_ERROR,0,0.00%,0.080,17.09375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Bessies_Function_gemini-2.5-flash_7.cpp,RUNTIME_ERROR,0,0.00%,0.080,8.83203125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

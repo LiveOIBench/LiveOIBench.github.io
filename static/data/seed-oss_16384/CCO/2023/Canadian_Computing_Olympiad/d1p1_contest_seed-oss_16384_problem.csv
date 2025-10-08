@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+d1p1_seed-oss_0.cpp,TIME_LIMIT_EXCEEDED,18,84.29%,1.210,9.03515625,3,3,4,4,4,0
+d1p1_seed-oss_1.cpp,TIME_LIMIT_EXCEEDED,0,1.43%,1.210,20.3515625,0,0,0,0,0,0
+d1p1_seed-oss_2.cpp,TIME_LIMIT_EXCEEDED,18,84.29%,1.210,9.14453125,3,3,4,4,4,0
+d1p1_seed-oss_3.cpp,TIME_LIMIT_EXCEEDED,18,84.29%,1.210,12.90234375,3,3,4,4,4,0
+d1p1_seed-oss_4.cpp,ACCEPTED,25,100.00%,0.050,20.37890625,3,3,4,4,4,7
+d1p1_seed-oss_5.cpp,TIME_LIMIT_EXCEEDED,3,50.00%,1.210,9.03515625,3,0,0,0,0,0
+d1p1_seed-oss_6.cpp,ACCEPTED,25,100.00%,0.070,20.3828125,3,3,4,4,4,7

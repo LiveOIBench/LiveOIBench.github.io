@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+cheese_gpt-oss-120b-medium_0.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.170,11.3515625,0,0,0,0,0,0,0
+cheese_gpt-oss-120b-medium_1.cpp,RUNTIME_ERROR,8,8.00%,30.77%,0.190,10.8359375,0,0,8,0,0,0,0
+cheese_gpt-oss-120b-medium_2.cpp,RUNTIME_ERROR,8,8.00%,30.77%,0.180,6.96875,0,0,8,0,0,0,0
+cheese_gpt-oss-120b-medium_3.cpp,RUNTIME_ERROR,11,11.00%,28.21%,0.180,9.03125,0,0,0,11,0,0,0
+cheese_gpt-oss-120b-medium_4.cpp,RUNTIME_ERROR,8,8.00%,20.51%,0.210,9.03125,0,0,8,0,0,0,0
+cheese_gpt-oss-120b-medium_5.cpp,RUNTIME_ERROR,72,72.00%,79.49%,0.820,93.07421875,0,7,8,0,19,38,0
+cheese_gpt-oss-120b-medium_6.cpp,RUNTIME_ERROR,72,72.00%,79.49%,0.960,69.6171875,0,7,8,0,19,38,0
+cheese_gpt-oss-120b-medium_7.cpp,RUNTIME_ERROR,0,0.00%,10.26%,0.180,9.03125,0,0,0,0,0,0,0

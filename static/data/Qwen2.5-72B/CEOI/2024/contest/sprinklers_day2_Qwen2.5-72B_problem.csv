@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+sprinklers_Qwen2.5-72B_0.cpp,RUNTIME_ERROR,0,1.11%,0.060,1.90234375,0,0,0,0,0,0
+sprinklers_Qwen2.5-72B_1.cpp,TIME_LIMIT_EXCEEDED,0,2.20%,2.210,1.81640625,0,0,0,0,0,0
+sprinklers_Qwen2.5-72B_2.cpp,RUNTIME_ERROR,0,7.61%,0.100,2.33203125,0,0,0,0,0,0
+sprinklers_Qwen2.5-72B_3.cpp,RUNTIME_ERROR,0,0.00%,0.050,1.81640625,0,0,0,0,0,0
+sprinklers_Qwen2.5-72B_4.cpp,RUNTIME_ERROR,0,0.00%,0.050,1.81640625,0,0,0,0,0,0
+sprinklers_Qwen2.5-72B_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.230,1.9140625,0,0,0,0,0,0
+sprinklers_Qwen2.5-72B_6.cpp,RUNTIME_ERROR,0,0.00%,0.050,1.81640625,0,0,0,0,0,0
+sprinklers_Qwen2.5-72B_7.cpp,RUNTIME_ERROR,0,7.61%,0.080,2.33203125,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Hoof_Paper_Scissors_Minus_One_Qwen2.5-Coder-7B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.370,9.80859375,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Hoof_Paper_Scissors_Minus_One_Qwen2.5-Coder-7B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.370,133.69140625,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Hoof_Paper_Scissors_Minus_One_Qwen2.5-Coder-7B-Instruct_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Hoof_Paper_Scissors_Minus_One_Qwen2.5-Coder-7B-Instruct_3.cpp,WRONG_ANSWER,0,0.00%,0.200,31.20703125,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Hoof_Paper_Scissors_Minus_One_Qwen2.5-Coder-7B-Instruct_4.cpp,RUNTIME_ERROR,0,0.00%,0.400,280.76953125,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Hoof_Paper_Scissors_Minus_One_Qwen2.5-Coder-7B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.340,8.51171875,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Hoof_Paper_Scissors_Minus_One_Qwen2.5-Coder-7B-Instruct_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Hoof_Paper_Scissors_Minus_One_Qwen2.5-Coder-7B-Instruct_7.cpp,WRONG_ANSWER,0,0.00%,1.890,9.8046875,0,0,0,0,0,0,0,0,0,0,0,0

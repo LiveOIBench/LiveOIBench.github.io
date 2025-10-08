@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Roundabout_Rounding,Qwen3-32B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Farmer_Johns_Cheese_Block,Qwen3-32B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Its_Mooin_Time,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,0.00%,0.020,0

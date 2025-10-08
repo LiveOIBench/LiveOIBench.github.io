@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cow_Checkups,gpt-4.1,TIME_LIMIT_EXCEEDED,33,13.04%,2.290,26.30859375
+silver_Farmer_Johns_Favorite_Operation,gpt-4.1,ACCEPTED,333,100.00%,0.170,13.59375
+silver_Table_Recovery,gpt-4.1,WRONG_ANSWER,0,13.33%,0.370,9.28515625

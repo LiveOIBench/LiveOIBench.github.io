@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+prijateljice_Qwen3-4B_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+prijateljice_Qwen3-4B_1.cpp,MEMORY_LIMIT_EXCEEDED,50,93.33%,0.310,613.25390625,20,30,0
+prijateljice_Qwen3-4B_2.cpp,MEMORY_LIMIT_EXCEEDED,50,93.33%,0.330,613.3203125,20,30,0
+prijateljice_Qwen3-4B_3.cpp,TIME_LIMIT_EXCEEDED,0,81.33%,1.230,16.7578125,0,0,0
+prijateljice_Qwen3-4B_4.cpp,MEMORY_LIMIT_EXCEEDED,50,93.33%,0.340,613.25,20,30,0
+prijateljice_Qwen3-4B_5.cpp,MEMORY_LIMIT_EXCEEDED,50,93.33%,0.430,613.33984375,20,30,0
+prijateljice_Qwen3-4B_6.cpp,RUNTIME_ERROR,0,2.67%,0.190,351.3984375,0,0,0
+prijateljice_Qwen3-4B_7.cpp,ACCEPTED,110,100.00%,0.120,45.828125,20,30,60

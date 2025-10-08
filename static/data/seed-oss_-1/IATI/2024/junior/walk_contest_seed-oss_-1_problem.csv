@@ -1,0 +1,5 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+walk_seed-oss_0.cpp,RUNTIME_ERROR,0,0.00%,0.020,0,0,0,0,0,0,0,0,0
+walk_seed-oss_2.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.230,585.1484375,0,0,0,0,0,0,0,0
+walk_seed-oss_5.cpp,RUNTIME_ERROR,0,0.00%,0.020,0,0,0,0,0,0,0,0,0
+walk_seed-oss_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.230,609.22265625,0,0,0,0,0,0,0,0

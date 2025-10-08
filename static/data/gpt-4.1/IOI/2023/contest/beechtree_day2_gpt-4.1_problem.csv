@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+beechtree_gpt-4.1_0.cpp,RUNTIME_ERROR,0,4.22%,0.100,67.046875,0,0,0,0,0,0,0,0,0,0
+beechtree_gpt-4.1_1.cpp,RUNTIME_ERROR,0,1.84%,0.080,52.609375,0,0,0,0,0,0,0,0,0,0
+beechtree_gpt-4.1_2.cpp,RUNTIME_ERROR,0,4.22%,0.110,62.6640625,0,0,0,0,0,0,0,0,0,0
+beechtree_gpt-4.1_3.cpp,RUNTIME_ERROR,0,4.22%,0.070,31.2109375,0,0,0,0,0,0,0,0,0,0
+beechtree_gpt-4.1_4.cpp,TIME_LIMIT_EXCEEDED,0,0.62%,1.670,101.58984375,0,0,0,0,0,0,0,0,0,0
+beechtree_gpt-4.1_5.cpp,RUNTIME_ERROR,0,4.22%,0.090,65.7578125,0,0,0,0,0,0,0,0,0,0
+beechtree_gpt-4.1_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0
+beechtree_gpt-4.1_7.cpp,RUNTIME_ERROR,0,4.22%,0.060,45.90625,0,0,0,0,0,0,0,0,0,0

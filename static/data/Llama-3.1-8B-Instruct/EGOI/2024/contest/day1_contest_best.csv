@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+bouquet,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,3.51%,0.100,4.39453125
+infiniterace,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,12.00%,0.080,2.07421875
+teamcoding,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+gardendecorations,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

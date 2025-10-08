@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Forklift_Certified,Qwen3-8B,RUNTIME_ERROR,95,25.00%,0.170,9.8046875
+platinum_Lazy_Sort,Qwen3-8B,WRONG_ANSWER,0,13.33%,0.020,0
+platinum_Package_Pickup,Qwen3-8B,RUNTIME_ERROR,0,0.00%,0.060,2.8984375

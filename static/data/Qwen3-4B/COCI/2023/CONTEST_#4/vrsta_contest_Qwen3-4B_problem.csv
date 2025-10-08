@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+vrsta_Qwen3-4B_0.cpp,RUNTIME_ERROR,45,40.00%,0.310,5.265625,19,26,0,0
+vrsta_Qwen3-4B_1.cpp,RUNTIME_ERROR,45,40.00%,0.360,23.59375,19,26,0,0
+vrsta_Qwen3-4B_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+vrsta_Qwen3-4B_3.cpp,RUNTIME_ERROR,0,0.00%,0.980,15.87890625,0,0,0,0
+vrsta_Qwen3-4B_4.cpp,TIME_LIMIT_EXCEEDED,19,20.00%,1.220,1.640625,19,0,0,0
+vrsta_Qwen3-4B_5.cpp,TIME_LIMIT_EXCEEDED,19,20.00%,1.210,427.71875,19,0,0,0
+vrsta_Qwen3-4B_6.cpp,RUNTIME_ERROR,0,0.00%,0.320,2.94921875,0,0,0,0
+vrsta_Qwen3-4B_7.cpp,RUNTIME_ERROR,45,40.00%,0.370,13.671875,19,26,0,0

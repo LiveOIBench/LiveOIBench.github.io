@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+cern,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,0,0.00%,4.410,18.5703125
+koreografija,Llama-3.3-70B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+ministarstvo,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,1.75%,0.100,5.22265625
+sirologija,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,0,0.57%,1.120,16.25390625

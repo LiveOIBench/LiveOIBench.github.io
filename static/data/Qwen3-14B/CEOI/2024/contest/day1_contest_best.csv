@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+covid,Qwen3-14B,COMPILATION_ERROR,0,0.00%,0.000,0
+battle,Qwen3-14B,RUNTIME_ERROR,0,23.08%,0.500,58.484375
+editor,Qwen3-14B,RUNTIME_ERROR,0,16.13%,0.170,152.30078125

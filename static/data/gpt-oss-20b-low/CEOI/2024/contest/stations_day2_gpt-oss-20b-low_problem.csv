@@ -1,0 +1,5 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+stations_gpt-oss-20b-low_0.cpp,TIME_LIMIT_EXCEEDED,0,4.55%,4.210,14.52734375,0,0,0,0,0,0,0
+stations_gpt-oss-20b-low_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+stations_gpt-oss-20b-low_5.cpp,RUNTIME_ERROR,0,4.55%,0.010,0.00390625,0,0,0,0,0,0,0
+stations_gpt-oss-20b-low_7.cpp,TIME_LIMIT_EXCEEDED,0,4.55%,4.210,2456.69921875,0,0,0,0,0,0,0

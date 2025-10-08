@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_FEB,Qwen3-14B-Non-Thinking,RUNTIME_ERROR,98,30.00%,0.160,2.05078125
+bronze_Moo_Language,Qwen3-14B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Rotate_and_Shift,Qwen3-14B-Non-Thinking,MEMORY_LIMIT_EXCEEDED,167,53.85%,0.450,280.5390625

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+hieroglyphs,seed-oss_0,RUNTIME_ERROR,3,6.11%,0.040,17.34765625
+sphinx,seed-oss_0,RUNTIME_ERROR,3,12.50%,0.330,4.40234375
+mosaic,seed-oss_0,RUNTIME_ERROR,0,9.72%,0.080,16.0

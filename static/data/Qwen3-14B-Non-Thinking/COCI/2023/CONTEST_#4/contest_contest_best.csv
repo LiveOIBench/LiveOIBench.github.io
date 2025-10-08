@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+7krokods,Qwen3-14B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+zrinka,Qwen3-14B-Non-Thinking,RUNTIME_ERROR,20,20.00%,0.000,0
+bojanje,Qwen3-14B-Non-Thinking,RUNTIME_ERROR,0,6.67%,0.050,0.00390625
+mreza,Qwen3-14B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0

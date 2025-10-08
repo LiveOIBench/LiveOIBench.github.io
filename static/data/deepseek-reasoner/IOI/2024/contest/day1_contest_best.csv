@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+message,deepseek-reasoner,RUNTIME_ERROR,10,44.44%,5.750,4.37109375
+nile,deepseek-reasoner,TIME_LIMIT_EXCEEDED,67,83.76%,2.210,6.390625
+tree,deepseek-reasoner,TIME_LIMIT_EXCEEDED,10,25.88%,2.210,14.40625

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+cyberland_gemini-2.5-flash_0.cpp,RUNTIME_ERROR,15,20.73%,0.680,21.91796875,0,0,8,0,0,7,0,0,0
+cyberland_gemini-2.5-flash_1.cpp,TIME_LIMIT_EXCEEDED,97,95.12%,2.990,77.14453125,0,5,8,13,19,7,16,29,0
+cyberland_gemini-2.5-flash_2.cpp,RUNTIME_ERROR,15,20.73%,0.780,21.91796875,0,0,8,0,0,7,0,0,0
+cyberland_gemini-2.5-flash_3.cpp,TIME_LIMIT_EXCEEDED,97,76.83%,2.980,69.75390625,0,5,8,13,19,7,16,29,0
+cyberland_gemini-2.5-flash_4.cpp,TIME_LIMIT_EXCEEDED,97,87.80%,2.990,91.84375,0,5,8,13,19,7,16,29,0
+cyberland_gemini-2.5-flash_5.cpp,RUNTIME_ERROR,15,20.73%,0.750,21.91796875,0,0,8,0,0,7,0,0,0
+cyberland_gemini-2.5-flash_6.cpp,RUNTIME_ERROR,15,20.73%,1.010,21.91796875,0,0,8,0,0,7,0,0,0
+cyberland_gemini-2.5-flash_7.cpp,RUNTIME_ERROR,15,20.73%,1.040,21.91796875,0,0,8,0,0,7,0,0,0

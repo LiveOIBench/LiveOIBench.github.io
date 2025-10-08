@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+astronomer,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,8,28.66%,0.170,0.00390625
+staringcontest,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,12.82%,0.030,1.5390625
+tycho,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,4.50%,0.020,0

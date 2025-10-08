@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+ekspert_deepseek-chat_0.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.320,193.5546875,0,0,0
+ekspert_deepseek-chat_1.cpp,RUNTIME_ERROR,0,25.00%,0.030,0,0,0,0
+ekspert_deepseek-chat_2.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.250,193.49609375,0,0,0
+ekspert_deepseek-chat_3.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0
+ekspert_deepseek-chat_4.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0
+ekspert_deepseek-chat_5.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0
+ekspert_deepseek-chat_6.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0
+ekspert_deepseek-chat_7.cpp,RUNTIME_ERROR,0,0.00%,0.030,0,0,0,0

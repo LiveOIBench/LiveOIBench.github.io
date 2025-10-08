@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+minequake,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,15.07%,0.050,6.71484375
+mineraldeposits,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,0,0.00%,0.010,1.52734375
+sequence,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,8.00%,0.000,0

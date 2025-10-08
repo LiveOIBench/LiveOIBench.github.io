@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+autobus,Qwen3-14B,RUNTIME_ERROR,0,0.00%,0.070,0.00390625
+karte,Qwen3-14B,ACCEPTED,70,100.00%,0.110,0.00390625
+bojanje,Qwen3-14B,RUNTIME_ERROR,0,5.80%,0.000,0
+stablo,Qwen3-14B,RUNTIME_ERROR,0,14.71%,0.250,49.25
+procesor,Qwen3-14B,UNKNOWN,0,0.00%,0.000,0

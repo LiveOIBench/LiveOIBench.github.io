@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Reflection,seed-oss_-1,ACCEPTED,333,100.00%,0.070,9.546875
+bronze_Making_Mexes,seed-oss_-1,ACCEPTED,333,100.00%,0.040,2.7890625
+bronze_Printing_Sequences,seed-oss_-1,ACCEPTED,333,100.00%,0.040,0.00390625

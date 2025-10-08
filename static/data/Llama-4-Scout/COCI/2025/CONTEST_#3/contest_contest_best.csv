@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+autobus,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0
+karte,Llama-4-Scout,TIME_LIMIT_EXCEEDED,11,37.31%,1.210,0.00390625
+bojanje,Llama-4-Scout,RUNTIME_ERROR,0,4.35%,0.020,0
+stablo,Llama-4-Scout,RUNTIME_ERROR,0,10.29%,0.530,89.13671875
+procesor,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0

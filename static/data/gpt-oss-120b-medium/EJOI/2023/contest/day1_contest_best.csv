@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+teleporters,gpt-oss-120b-medium,ACCEPTED,100,100.00%,100.00%,0.310,8.25390625
+tree_search,gpt-oss-120b-medium,ACCEPTED,100,100.00%,100.00%,0.100,15.65625
+opening_offices,gpt-oss-120b-medium,RUNTIME_ERROR,5,5.00%,19.67%,0.120,63.4296875

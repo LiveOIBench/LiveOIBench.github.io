@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_DFS_Order,deepseek-reasoner,RUNTIME_ERROR,0,0.00%,0.070,3.62109375
+platinum_Shock_Wave,deepseek-reasoner,WRONG_ANSWER,26,7.14%,0.100,5.75
+platinum_Watering_the_Plants,deepseek-reasoner,TIME_LIMIT_EXCEEDED,0,10.53%,2.240,9.2109375

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+Strong_Connectivity_Strikes_Back_gpt-5_0.cpp,RUNTIME_ERROR,66,57.26%,0.100,2.43359375,0,0,0,12.0,13.0,20.0,21.0,0
+Strong_Connectivity_Strikes_Back_gpt-5_1.cpp,RUNTIME_ERROR,66,57.26%,0.090,7.73828125,0,0,0,12.0,13.0,20.0,21.0,0
+Strong_Connectivity_Strikes_Back_gpt-5_2.cpp,ACCEPTED,100,100.00%,0.370,35.6875,0.0,11.0,9.0,12.0,13.0,20.0,21.0,14.0
+Strong_Connectivity_Strikes_Back_gpt-5_3.cpp,ACCEPTED,100,100.00%,0.090,5.52734375,0.0,11.0,9.0,12.0,13.0,20.0,21.0,14.0
+Strong_Connectivity_Strikes_Back_gpt-5_4.cpp,ACCEPTED,100,100.00%,0.380,1.80859375,0.0,11.0,9.0,12.0,13.0,20.0,21.0,14.0
+Strong_Connectivity_Strikes_Back_gpt-5_5.cpp,ACCEPTED,100,100.00%,0.110,18.046875,0.0,11.0,9.0,12.0,13.0,20.0,21.0,14.0
+Strong_Connectivity_Strikes_Back_gpt-5_6.cpp,ACCEPTED,100,100.00%,0.090,6.44921875,0.0,11.0,9.0,12.0,13.0,20.0,21.0,14.0
+Strong_Connectivity_Strikes_Back_gpt-5_7.cpp,ACCEPTED,100,100.00%,0.090,4.64453125,0.0,11.0,9.0,12.0,13.0,20.0,21.0,14.0

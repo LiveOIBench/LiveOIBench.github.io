@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+cern,Qwen3-14B,RUNTIME_ERROR,0,17.86%,1.370,14.703125
+koreografija,Qwen3-14B,COMPILATION_ERROR,0,0.00%,0.000,0
+ministarstvo,Qwen3-14B,RUNTIME_ERROR,0,1.75%,0.190,9.03125
+sirologija,Qwen3-14B,RUNTIME_ERROR,0,0.00%,0.060,4.9140625

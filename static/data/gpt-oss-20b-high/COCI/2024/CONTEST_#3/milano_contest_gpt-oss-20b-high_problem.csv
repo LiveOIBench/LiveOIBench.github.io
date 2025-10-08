@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+milano_gpt-oss-20b-high_0.cpp,ACCEPTED,110,100.00%,0.050,4.65234375,21,18,31,40
+milano_gpt-oss-20b-high_1.cpp,ACCEPTED,110,100.00%,0.050,3.62109375,21,18,31,40
+milano_gpt-oss-20b-high_2.cpp,ACCEPTED,110,100.00%,0.060,4.90625,21,18,31,40
+milano_gpt-oss-20b-high_3.cpp,ACCEPTED,110,100.00%,0.070,5.1640625,21,18,31,40
+milano_gpt-oss-20b-high_4.cpp,ACCEPTED,110,100.00%,0.050,4.39453125,21,18,31,40
+milano_gpt-oss-20b-high_5.cpp,ACCEPTED,110,100.00%,0.060,5.16796875,21,18,31,40
+milano_gpt-oss-20b-high_6.cpp,ACCEPTED,110,100.00%,0.060,4.1328125,21,18,31,40
+milano_gpt-oss-20b-high_7.cpp,ACCEPTED,110,100.00%,0.060,4.13671875,21,18,31,40

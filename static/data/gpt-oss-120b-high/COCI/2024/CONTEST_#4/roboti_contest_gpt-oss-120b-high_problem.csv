@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+roboti_gpt-oss-120b-high_0.cpp,ACCEPTED,110,100.00%,100.00%,0.380,52.71484375,10,13,49,38
+roboti_gpt-oss-120b-high_1.cpp,ACCEPTED,110,100.00%,100.00%,0.400,54.90625,10,13,49,38
+roboti_gpt-oss-120b-high_2.cpp,RUNTIME_ERROR,10,9.09%,18.18%,0.440,69.90625,10,0,0,0
+roboti_gpt-oss-120b-high_3.cpp,RUNTIME_ERROR,61,55.45%,68.18%,0.330,54.296875,10,13,0,38
+roboti_gpt-oss-120b-high_4.cpp,ACCEPTED,110,100.00%,100.00%,0.530,51.546875,10,13,49,38
+roboti_gpt-oss-120b-high_5.cpp,RUNTIME_ERROR,72,65.45%,79.55%,1.170,58.7890625,10,13,49,0
+roboti_gpt-oss-120b-high_6.cpp,ACCEPTED,110,100.00%,100.00%,0.460,78.27734375,10,13,49,38
+roboti_gpt-oss-120b-high_7.cpp,RUNTIME_ERROR,61,55.45%,68.18%,0.410,51.140625,10,13,0,38

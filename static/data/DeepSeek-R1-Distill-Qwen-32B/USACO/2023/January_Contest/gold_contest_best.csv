@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Find_and_Replace,DeepSeek-R1-Distill-Qwen-32B,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Lights_Off,DeepSeek-R1-Distill-Qwen-32B,TIME_LIMIT_EXCEEDED,0,5.00%,4.410,280.40234375
+gold_Moo_Route,DeepSeek-R1-Distill-Qwen-32B,WRONG_ANSWER,0,4.76%,0.130,6.71484375

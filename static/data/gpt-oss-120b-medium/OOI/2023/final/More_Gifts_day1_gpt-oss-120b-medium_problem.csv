@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+More_Gifts_gpt-oss-120b-medium_0.cpp,ACCEPTED,100,100.00%,100.00%,0.210,243.21484375,0.0,14.0,12.0,16.0,21.0,18.0,19.0
+More_Gifts_gpt-oss-120b-medium_1.cpp,UNKNOWN,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0
+More_Gifts_gpt-oss-120b-medium_2.cpp,ACCEPTED,100,100.00%,100.00%,0.310,238.75,0.0,14.0,12.0,16.0,21.0,18.0,19.0
+More_Gifts_gpt-oss-120b-medium_3.cpp,ACCEPTED,100,100.00%,100.00%,0.190,218.2734375,0.0,14.0,12.0,16.0,21.0,18.0,19.0
+More_Gifts_gpt-oss-120b-medium_4.cpp,ACCEPTED,100,100.00%,100.00%,0.190,217.7890625,0.0,14.0,12.0,16.0,21.0,18.0,19.0
+More_Gifts_gpt-oss-120b-medium_5.cpp,RUNTIME_ERROR,0,0.00%,27.42%,0.030,1.8125,0.0,0,0,0,0,0,0
+More_Gifts_gpt-oss-120b-medium_6.cpp,RUNTIME_ERROR,63,63.00%,93.36%,0.210,219.875,0.0,14.0,12.0,16.0,21.0,0,0
+More_Gifts_gpt-oss-120b-medium_7.cpp,ACCEPTED,100,100.00%,100.00%,0.200,217.37890625,0.0,14.0,12.0,16.0,21.0,18.0,19.0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+fire,gpt-4.1,RUNTIME_ERROR,0,69.72%,0.060,11.25
+tiles,gpt-4.1,RUNTIME_ERROR,0,2.00%,0.200,9.54296875
+wall,gpt-4.1,TIME_LIMIT_EXCEEDED,25,84.87%,5.530,280.50390625

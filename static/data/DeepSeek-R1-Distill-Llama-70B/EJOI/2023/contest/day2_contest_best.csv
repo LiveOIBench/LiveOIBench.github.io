@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+square_grid_puzzle,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,0.00%,0.000,0
+team_building,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,11,19.05%,1.110,1.83984375
+tree_infection,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,0,1.85%,1.200,49.7578125

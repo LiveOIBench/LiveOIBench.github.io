@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4
+2024-sp_Card_Collection_gpt-5_0.cpp,RUNTIME_ERROR,0,21.33%,0.010,0,0,0,0,0
+2024-sp_Card_Collection_gpt-5_1.cpp,RUNTIME_ERROR,0,3.10%,0.000,0,0,0,0,0
+2024-sp_Card_Collection_gpt-5_2.cpp,RUNTIME_ERROR,0,3.10%,0.120,0,0,0,0,0
+2024-sp_Card_Collection_gpt-5_3.cpp,RUNTIME_ERROR,0,6.06%,0.000,0,0,0,0,0
+2024-sp_Card_Collection_gpt-5_4.cpp,RUNTIME_ERROR,0,6.06%,0.000,0,0,0,0,0
+2024-sp_Card_Collection_gpt-5_5.cpp,RUNTIME_ERROR,0,6.06%,0.120,0,0,0,0,0
+2024-sp_Card_Collection_gpt-5_6.cpp,RUNTIME_ERROR,11,70.38%,0.140,1.55078125,11,0,0,0
+2024-sp_Card_Collection_gpt-5_7.cpp,RUNTIME_ERROR,0,11.59%,0.120,0,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Bessies_Interview,seed-oss_8192,WRONG_ANSWER,33,9.52%,0.060,4.921875
+silver_Painting_Fence_Posts,seed-oss_8192,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_The_Winning_Gene,seed-oss_8192,WRONG_ANSWER,44,12.50%,0.140,1.55859375

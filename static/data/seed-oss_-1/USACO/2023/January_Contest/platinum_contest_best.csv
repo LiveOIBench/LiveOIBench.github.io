@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Tractor_Paths,seed-oss_-1,TIME_LIMIT_EXCEEDED,44,18.75%,4.820,21.14453125
+platinum_Mana_Collection,seed-oss_-1,WRONG_ANSWER,0,4.17%,0.050,0.00390625
+platinum_Subtree_Activation,seed-oss_-1,WRONG_ANSWER,17,9.52%,0.030,2.015625

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Min_Max_Subarrays_Qwen2.5-Coder-14B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.350,9.03515625,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_Qwen2.5-Coder-14B-Instruct_1.cpp,MEMORY_LIMIT_EXCEEDED,0,15.38%,0.410,252.09765625,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_Qwen2.5-Coder-14B-Instruct_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_Qwen2.5-Coder-14B-Instruct_3.cpp,MEMORY_LIMIT_EXCEEDED,0,15.38%,0.410,276.90234375,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_Qwen2.5-Coder-14B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,15.38%,3.310,255.296875,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_Qwen2.5-Coder-14B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.340,5.16796875,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_Qwen2.5-Coder-14B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.350,157.85546875,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_Qwen2.5-Coder-14B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.420,5.109375,0,0,0,0,0,0,0,0,0,0,0

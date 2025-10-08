@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0_1,subtask_1_1,subtask_2_1,subtask_3_1,subtask_4_1,subtask_5_1,subtask_6_1,subtask_7_1
+light_Llama-3.3-70B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.030,1.48046875,0,0,0,0,0,0,0,0
+light_Llama-3.3-70B-Instruct_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+light_Llama-3.3-70B-Instruct_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+light_Llama-3.3-70B-Instruct_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+light_Llama-3.3-70B-Instruct_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+light_Llama-3.3-70B-Instruct_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+light_Llama-3.3-70B-Instruct_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+light_Llama-3.3-70B-Instruct_7.cpp,RUNTIME_ERROR,0,0.00%,0.030,1.5390625,0,0,0,0,0,0,0,0

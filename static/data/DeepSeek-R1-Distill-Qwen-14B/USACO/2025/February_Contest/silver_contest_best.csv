@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_The_Best_Lineup,DeepSeek-R1-Distill-Qwen-14B,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Vocabulary_Quiz,DeepSeek-R1-Distill-Qwen-14B,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Transforming_Pairs,DeepSeek-R1-Distill-Qwen-14B,TIME_LIMIT_EXCEEDED,0,16.67%,2.450,0.00390625

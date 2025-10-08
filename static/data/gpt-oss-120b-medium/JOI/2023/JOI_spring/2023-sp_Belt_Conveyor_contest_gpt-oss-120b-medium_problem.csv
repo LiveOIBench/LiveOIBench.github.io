@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4
+2023-sp_Belt_Conveyor_gpt-oss-120b-medium_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,0.060,4.2578125,0,0,0,0
+2023-sp_Belt_Conveyor_gpt-oss-120b-medium_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,0.060,4.38671875,0,0,0,0
+2023-sp_Belt_Conveyor_gpt-oss-120b-medium_2.cpp,RUNTIME_ERROR,1,1.00%,12.90%,0.420,7.0546875,1,0,0,0
+2023-sp_Belt_Conveyor_gpt-oss-120b-medium_3.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0
+2023-sp_Belt_Conveyor_gpt-oss-120b-medium_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,0.050,4.1953125,0,0,0,0
+2023-sp_Belt_Conveyor_gpt-oss-120b-medium_5.cpp,RUNTIME_ERROR,1,1.00%,12.90%,0.090,11.69921875,1,0,0,0
+2023-sp_Belt_Conveyor_gpt-oss-120b-medium_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,0.060,4.12109375,0,0,0,0
+2023-sp_Belt_Conveyor_gpt-oss-120b-medium_7.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.060,3.77734375,0,0,0,0

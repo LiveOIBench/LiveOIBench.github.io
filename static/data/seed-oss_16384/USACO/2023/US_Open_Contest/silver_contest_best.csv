@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Milk_Sum,seed-oss_16384,ACCEPTED,333,100.00%,0.090,7.7421875
+silver_Field_Day,seed-oss_16384,ACCEPTED,333,100.00%,0.040,2.84375
+silver_Pareidolia,seed-oss_16384,ACCEPTED,333,100.00%,0.020,1.49609375

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Island_Vacation,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,67,30.43%,2.240,204.70703125
+platinum_Merging_Cells,gemini-2.5-pro,MEMORY_LIMIT_EXCEEDED,100,36.36%,0.260,562.29296875
+platinum_Mooball_Teams_III,gemini-2.5-pro,MEMORY_LIMIT_EXCEEDED,150,54.17%,0.490,275.75390625

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Moorbles_Qwen2.5-Coder-14B-Instruct_0.cpp,RUNTIME_ERROR,0,0.00%,0.280,26.56640625,0,0,0,0,0,0,0,0,0,0,0
+silver_Moorbles_Qwen2.5-Coder-14B-Instruct_1.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.300,280.5078125,0,0,0,0,0,0,0,0,0,0,0
+silver_Moorbles_Qwen2.5-Coder-14B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.350,65.49609375,0,0,0,0,0,0,0,0,0,0,0
+silver_Moorbles_Qwen2.5-Coder-14B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.280,22.17578125,0,0,0,0,0,0,0,0,0,0,0
+silver_Moorbles_Qwen2.5-Coder-14B-Instruct_4.cpp,RUNTIME_ERROR,0,0.00%,0.250,26.64453125,0,0,0,0,0,0,0,0,0,0,0
+silver_Moorbles_Qwen2.5-Coder-14B-Instruct_5.cpp,RUNTIME_ERROR,0,0.00%,0.290,26.56640625,0,0,0,0,0,0,0,0,0,0,0
+silver_Moorbles_Qwen2.5-Coder-14B-Instruct_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Moorbles_Qwen2.5-Coder-14B-Instruct_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.220,280.24609375,0,0,0,0,0,0,0,0,0,0,0

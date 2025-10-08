@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+mosaic_DeepSeek-Coder-V2-Lite-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,12,57.66%,1.110,2218.2265625,0,5,7,0,0,0,0,0,0
+mosaic_DeepSeek-Coder-V2-Lite-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,12,57.66%,1.110,2234.9921875,0,5,7,0,0,0,0,0,0
+mosaic_DeepSeek-Coder-V2-Lite-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,12,57.66%,1.110,2242.01953125,0,5,7,0,0,0,0,0,0
+mosaic_DeepSeek-Coder-V2-Lite-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,12,57.66%,1.170,2238.90625,0,5,7,0,0,0,0,0,0
+mosaic_DeepSeek-Coder-V2-Lite-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,12,57.66%,1.110,2241.94140625,0,5,7,0,0,0,0,0,0
+mosaic_DeepSeek-Coder-V2-Lite-Instruct_5.cpp,MEMORY_LIMIT_EXCEEDED,22,64.86%,0.990,2242.7265625,0,5,7,0,10,0,0,0,0
+mosaic_DeepSeek-Coder-V2-Lite-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,12,57.66%,1.130,2243.55078125,0,5,7,0,0,0,0,0,0
+mosaic_DeepSeek-Coder-V2-Lite-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,12,57.66%,1.120,2247.1015625,0,5,7,0,0,0,0,0,0

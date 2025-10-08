@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+blistavost_gemini-2.5-pro_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.410,2.21875,0,0,0,0
+blistavost_gemini-2.5-pro_1.cpp,ACCEPTED,120,100.00%,0.300,3.47265625,20,25,55,20
+blistavost_gemini-2.5-pro_2.cpp,ACCEPTED,120,100.00%,3.070,385.43359375,20,25,55,20
+blistavost_gemini-2.5-pro_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+blistavost_gemini-2.5-pro_4.cpp,ACCEPTED,120,100.00%,0.290,2.56640625,20,25,55,20
+blistavost_gemini-2.5-pro_5.cpp,ACCEPTED,120,100.00%,0.580,384.890625,20,25,55,20
+blistavost_gemini-2.5-pro_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+blistavost_gemini-2.5-pro_7.cpp,ACCEPTED,120,100.00%,0.760,3.21484375,20,25,55,20

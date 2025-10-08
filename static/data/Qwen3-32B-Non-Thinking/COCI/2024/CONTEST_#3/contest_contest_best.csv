@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+eurokod,Qwen3-32B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+vrsar,Qwen3-32B-Non-Thinking,TIME_LIMIT_EXCEEDED,17,18.75%,1.120,8.78125
+milano,Qwen3-32B-Non-Thinking,ACCEPTED,110,100.00%,0.070,4.0390625
+restorani,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,0.68%,0.180,66.734375
+cesta,Qwen3-32B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0

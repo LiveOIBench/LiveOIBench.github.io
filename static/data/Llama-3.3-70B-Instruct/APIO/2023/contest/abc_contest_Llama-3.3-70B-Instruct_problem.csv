@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+abc_Llama-3.3-70B-Instruct_0.cpp,RUNTIME_ERROR,0,0.00%,0.020,5.265625,0,0,0,0,0,0,0,0,0
+abc_Llama-3.3-70B-Instruct_1.cpp,RUNTIME_ERROR,0,0.00%,0.140,12.3828125,0,0,0,0,0,0,0,0,0
+abc_Llama-3.3-70B-Instruct_2.cpp,RUNTIME_ERROR,0,0.00%,0.160,13.01953125,0,0,0,0,0,0,0,0,0
+abc_Llama-3.3-70B-Instruct_3.cpp,RUNTIME_ERROR,0,0.00%,0.130,12.16015625,0,0,0,0,0,0,0,0,0
+abc_Llama-3.3-70B-Instruct_4.cpp,RUNTIME_ERROR,0,0.00%,0.010,5.21875,0,0,0,0,0,0,0,0,0
+abc_Llama-3.3-70B-Instruct_5.cpp,RUNTIME_ERROR,0,0.00%,0.170,14.1484375,0,0,0,0,0,0,0,0,0
+abc_Llama-3.3-70B-Instruct_6.cpp,RUNTIME_ERROR,0,0.00%,0.010,5.27734375,0,0,0,0,0,0,0,0,0
+abc_Llama-3.3-70B-Instruct_7.cpp,RUNTIME_ERROR,0,0.00%,0.020,5.3671875,0,0,0,0,0,0,0,0,0

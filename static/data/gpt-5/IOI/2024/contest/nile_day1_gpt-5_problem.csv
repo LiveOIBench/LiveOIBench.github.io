@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+nile_gpt-5_0.cpp,ACCEPTED,100,100.00%,0.080,15.77734375,0,6,13,17,11,20,15,18
+nile_gpt-5_1.cpp,TIME_LIMIT_EXCEEDED,17,20.69%,2.410,7.73828125,0,0,0,17,0,0,0,0
+nile_gpt-5_2.cpp,RUNTIME_ERROR,38,64.47%,0.090,13.8359375,0,6,0,17,0,0,15,0
+nile_gpt-5_3.cpp,RUNTIME_ERROR,38,64.47%,0.130,21.70703125,0,6,0,17,0,0,15,0
+nile_gpt-5_4.cpp,ACCEPTED,100,100.00%,0.080,17.1875,0,6,13,17,11,20,15,18
+nile_gpt-5_5.cpp,ACCEPTED,100,100.00%,0.090,13.45703125,0,6,13,17,11,20,15,18
+nile_gpt-5_6.cpp,ACCEPTED,100,100.00%,0.090,13.45703125,0,6,13,17,11,20,15,18
+nile_gpt-5_7.cpp,RUNTIME_ERROR,38,56.52%,0.080,11.83203125,0,6,0,17,0,0,15,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Cowreography,Qwen3-14B-Non-Thinking,RUNTIME_ERROR,33,13.04%,0.130,11.92578125
+gold_Grass_Segments,Qwen3-14B-Non-Thinking,RUNTIME_ERROR,0,5.00%,0.310,15.71484375
+gold_Smaller_Averages,Qwen3-14B-Non-Thinking,TIME_LIMIT_EXCEEDED,0,5.00%,2.260,2.59375

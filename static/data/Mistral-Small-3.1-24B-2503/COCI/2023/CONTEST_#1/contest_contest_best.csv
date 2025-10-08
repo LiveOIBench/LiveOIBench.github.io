@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+desniklik,Mistral-Small-3.1-24B-2503,ACCEPTED,50,100.00%,0.000,0
+cokolade,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,0.00%,0.920,2.07421875
+berilij,Mistral-Small-3.1-24B-2503,RUNTIME_ERROR,0,2.27%,0.200,3.61328125
+iksevi,Mistral-Small-3.1-24B-2503,COMPILATION_ERROR,0,0.00%,0.000,0
+neboderi,Mistral-Small-3.1-24B-2503,TIME_LIMIT_EXCEEDED,33,38.89%,2.770,9.03515625

@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+bouquet_gpt-oss-120b-medium_0.cpp,ACCEPTED,100,100.00%,100.00%,0.080,19.60546875,0,8,16,28,18,30
+bouquet_gpt-oss-120b-medium_1.cpp,ACCEPTED,100,100.00%,100.00%,0.070,20.37890625,0,8,16,28,18,30
+bouquet_gpt-oss-120b-medium_2.cpp,RUNTIME_ERROR,24,24.00%,51.08%,0.070,15.9921875,0,8,16,0,0,0
+bouquet_gpt-oss-120b-medium_3.cpp,ACCEPTED,100,100.00%,100.00%,0.060,7.484375,0,8,16,28,18,30
+bouquet_gpt-oss-120b-medium_4.cpp,ACCEPTED,100,100.00%,100.00%,0.080,15.22265625,0,8,16,28,18,30
+bouquet_gpt-oss-120b-medium_5.cpp,RUNTIME_ERROR,0,0.00%,4.09%,0.050,4.39453125,0,0,0,0,0,0
+bouquet_gpt-oss-120b-medium_6.cpp,ACCEPTED,100,100.00%,100.00%,0.070,15.22265625,0,8,16,28,18,30
+bouquet_gpt-oss-120b-medium_7.cpp,ACCEPTED,100,100.00%,100.00%,0.080,15.22265625,0,8,16,28,18,30

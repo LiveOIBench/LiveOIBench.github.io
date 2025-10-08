@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+s1,seed-oss_512,RUNTIME_ERROR,1,20.00%,0.070,0.00390625
+s2,seed-oss_512,ACCEPTED,15,100.00%,0.020,0.00390625
+s3,seed-oss_512,RUNTIME_ERROR,0,0.00%,0.000,0
+s4,seed-oss_512,RUNTIME_ERROR,0,2.00%,0.060,15.21875
+s5,seed-oss_512,RUNTIME_ERROR,0,11.50%,0.030,4.91015625

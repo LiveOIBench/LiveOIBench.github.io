@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Circles,gpt-oss-20b-high,ACCEPTED,100,100.00%,0.300,36.03515625
+To_be_xor_not_to_be,gpt-oss-20b-high,RUNTIME_ERROR,0,4.76%,0.000,0
+Statues,gpt-oss-20b-high,ACCEPTED,100,100.00%,0.360,28.44140625

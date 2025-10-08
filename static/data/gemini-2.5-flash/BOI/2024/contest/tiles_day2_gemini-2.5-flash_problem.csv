@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+tiles_gemini-2.5-flash_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+tiles_gemini-2.5-flash_1.cpp,RUNTIME_ERROR,4,7.95%,0.040,10.57421875,4,0,0,0,0,0,0
+tiles_gemini-2.5-flash_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+tiles_gemini-2.5-flash_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+tiles_gemini-2.5-flash_4.cpp,RUNTIME_ERROR,0,8.39%,0.030,4.67578125,0,0,0,0,0,0,0
+tiles_gemini-2.5-flash_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+tiles_gemini-2.5-flash_6.cpp,RUNTIME_ERROR,0,0.66%,0.030,4.39453125,0,0,0,0,0,0,0
+tiles_gemini-2.5-flash_7.cpp,TIME_LIMIT_EXCEEDED,0,4.00%,1.120,251.62890625,0,0,0,0,0,0,0

@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+cern,deepseek-chat,RUNTIME_ERROR,0,0.00%,0.440,40.29296875
+koreografija,deepseek-chat,UNKNOWN,0,0.00%,0.000,0
+ministarstvo,deepseek-chat,RUNTIME_ERROR,0,1.75%,0.100,9.03515625
+sirologija,deepseek-chat,RUNTIME_ERROR,0,0.00%,0.040,5.6796875

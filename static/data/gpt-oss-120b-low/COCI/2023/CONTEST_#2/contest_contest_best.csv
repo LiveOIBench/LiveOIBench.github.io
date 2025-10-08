@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+tramvaji,gpt-oss-120b-low,ACCEPTED,50,100.00%,0.020,0.00390625
+ekspert,gpt-oss-120b-low,RUNTIME_ERROR,0,25.00%,0.020,0
+lampice,gpt-oss-120b-low,TIME_LIMIT_EXCEEDED,0,2.38%,3.620,6.78125
+prijateljice,gpt-oss-120b-low,ACCEPTED,110,100.00%,0.030,7.48046875
+kruhologija,gpt-oss-120b-low,UNKNOWN,0,0.00%,0.000,0

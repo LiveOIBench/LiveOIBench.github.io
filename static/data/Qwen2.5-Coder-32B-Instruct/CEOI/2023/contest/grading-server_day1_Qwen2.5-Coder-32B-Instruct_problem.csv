@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0_1,subtask_0_2,subtask_0_3,subtask_1_1,subtask_2_1,subtask_3_1,subtask_4_1,subtask_5_1,subtask_6_1,subtask_7_1
+grading-server_Qwen2.5-Coder-32B-Instruct_0.cpp,RUNTIME_ERROR,0,2.67%,0.270,0.00390625,0,0,0,0,0,0,0,0,0,0
+grading-server_Qwen2.5-Coder-32B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,0,1.33%,4.420,0.00390625,0,0,0,0,0,0,0,0,0,0
+grading-server_Qwen2.5-Coder-32B-Instruct_2.cpp,RUNTIME_ERROR,0,2.67%,0.160,0.00390625,0,0,0,0,0,0,0,0,0,0
+grading-server_Qwen2.5-Coder-32B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,0,1.33%,4.420,0.00390625,0,0,0,0,0,0,0,0,0,0
+grading-server_Qwen2.5-Coder-32B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,1.33%,4.410,0.00390625,0,0,0,0,0,0,0,0,0,0
+grading-server_Qwen2.5-Coder-32B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,0,1.33%,4.430,0.00390625,0,0,0,0,0,0,0,0,0,0
+grading-server_Qwen2.5-Coder-32B-Instruct_6.cpp,RUNTIME_ERROR,0,1.33%,0.100,0.00390625,0,0,0,0,0,0,0,0,0,0
+grading-server_Qwen2.5-Coder-32B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,0,1.33%,4.410,0.00390625,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Heroes,seed-oss_0,RUNTIME_ERROR,0,0.00%,0.000,0
+Pinball,seed-oss_0,COMPILATION_ERROR,0,0.00%,0.000,0
+AA_Tree,seed-oss_0,RUNTIME_ERROR,0,12.00%,0.050,2.84375

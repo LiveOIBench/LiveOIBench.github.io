@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Moo_Decomposition,gpt-oss-120b-low,RUNTIME_ERROR,95,24.00%,0.050,2.359375
+gold_Election_Queries,gpt-oss-120b-low,WRONG_ANSWER,0,6.67%,0.100,3.6171875
+gold_OohMoo_Milk,gpt-oss-120b-low,RUNTIME_ERROR,0,0.00%,0.050,2.07421875

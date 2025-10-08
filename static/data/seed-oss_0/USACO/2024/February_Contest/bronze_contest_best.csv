@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Palindrome_Game,seed-oss_0,WRONG_ANSWER,83,30.77%,0.050,1.71875
+bronze_Milk_Exchange,seed-oss_0,RUNTIME_ERROR,103,25.00%,0.050,3.27734375
+bronze_Maximizing_Productivity,seed-oss_0,WRONG_ANSWER,0,0.00%,0.110,3.62109375

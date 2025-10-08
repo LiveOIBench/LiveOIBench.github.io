@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+hijerarhija_Qwen3-8B_0.cpp,ACCEPTED,90,100.00%,0.530,36.875,7,12,16,15,23,17
+hijerarhija_Qwen3-8B_1.cpp,ACCEPTED,90,100.00%,0.470,21.42578125,7,12,16,15,23,17
+hijerarhija_Qwen3-8B_2.cpp,TIME_LIMIT_EXCEEDED,67,83.33%,3.600,20.16015625,7,12,16,15,0,17
+hijerarhija_Qwen3-8B_3.cpp,ACCEPTED,90,100.00%,0.560,38.421875,7,12,16,15,23,17
+hijerarhija_Qwen3-8B_4.cpp,RUNTIME_ERROR,22,86.11%,0.360,2.58984375,7,0,0,15,0,0
+hijerarhija_Qwen3-8B_5.cpp,ACCEPTED,90,100.00%,0.490,20.16015625,7,12,16,15,23,17
+hijerarhija_Qwen3-8B_6.cpp,ACCEPTED,90,100.00%,0.460,16.171875,7,12,16,15,23,17
+hijerarhija_Qwen3-8B_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0

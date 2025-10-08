@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Transforming_Pairs_gemini-2.5-flash_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.240,280.765625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Transforming_Pairs_gemini-2.5-flash_1.cpp,TIME_LIMIT_EXCEEDED,0,5.26%,2.210,251.43359375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Transforming_Pairs_gemini-2.5-flash_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.220,251.43359375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Transforming_Pairs_gemini-2.5-flash_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.220,280.76171875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Transforming_Pairs_gemini-2.5-flash_4.cpp,RUNTIME_ERROR,0,0.00%,0.140,251.43359375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Transforming_Pairs_gemini-2.5-flash_5.cpp,TIME_LIMIT_EXCEEDED,0,5.26%,2.240,1.55078125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Transforming_Pairs_gemini-2.5-flash_6.cpp,RUNTIME_ERROR,0,0.00%,0.130,251.43359375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Transforming_Pairs_gemini-2.5-flash_7.cpp,RUNTIME_ERROR,0,0.00%,0.140,251.43359375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+astronomer,deepseek-chat,RUNTIME_ERROR,8,23.72%,0.020,0.00390625
+staringcontest,deepseek-chat,RUNTIME_ERROR,0,2.56%,0.010,1.48046875
+tycho,deepseek-chat,RUNTIME_ERROR,5,78.75%,0.010,1.55859375

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+astronomer,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,0.70%,0.010,0.00390625
+staringcontest,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,2.56%,0.010,1.53515625
+tycho,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,4.50%,0.000,0

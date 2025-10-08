@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+eurokod,gemini-2.5-flash,ACCEPTED,50,100.00%,0.000,0
+vrsar,gemini-2.5-flash,MEMORY_LIMIT_EXCEEDED,27,50.00%,1.100,522.8515625
+milano,gemini-2.5-flash,ACCEPTED,110,100.00%,0.070,3.62109375
+restorani,gemini-2.5-flash,RUNTIME_ERROR,0,2.05%,0.140,64.77734375
+cesta,gemini-2.5-flash,RUNTIME_ERROR,0,0.92%,0.040,33.52734375

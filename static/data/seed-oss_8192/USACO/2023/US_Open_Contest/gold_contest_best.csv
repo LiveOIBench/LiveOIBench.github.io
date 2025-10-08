@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Custodial_Cleanup,seed-oss_8192,WRONG_ANSWER,83,27.78%,0.070,37.64453125
+gold_Pareidolia,seed-oss_8192,RUNTIME_ERROR,0,5.88%,0.030,2.44921875
+gold_Tree_Merging,seed-oss_8192,WRONG_ANSWER,0,6.25%,0.020,0.00390625

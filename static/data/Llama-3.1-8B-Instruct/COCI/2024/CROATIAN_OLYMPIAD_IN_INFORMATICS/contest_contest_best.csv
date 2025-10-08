@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+cern,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+koreografija,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+ministarstvo,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,1.75%,0.090,9.03125
+sirologija,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,0.00%,0.080,19.6015625

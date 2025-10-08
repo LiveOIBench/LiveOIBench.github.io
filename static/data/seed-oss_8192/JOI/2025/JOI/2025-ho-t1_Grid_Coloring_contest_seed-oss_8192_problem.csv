@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+2025-ho-t1_Grid_Coloring_seed-oss_0.cpp,ACCEPTED,100,100.00%,0.260,42.0703125,15,10,20,25,30
+2025-ho-t1_Grid_Coloring_seed-oss_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_seed-oss_2.cpp,RUNTIME_ERROR,0,0.00%,0.060,16.640625,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_seed-oss_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_seed-oss_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.430,13.7734375,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_seed-oss_5.cpp,ACCEPTED,100,100.00%,0.390,59.17578125,15,10,20,25,30
+2025-ho-t1_Grid_Coloring_seed-oss_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_seed-oss_7.cpp,RUNTIME_ERROR,0,0.00%,0.050,18.0390625,0,0,0,0,0

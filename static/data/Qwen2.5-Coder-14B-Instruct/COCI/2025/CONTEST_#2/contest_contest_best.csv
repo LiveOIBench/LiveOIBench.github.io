@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+paradoks,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,7.69%,0.000,0
+igre,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,6,12.24%,0.130,0.00390625
+razlicitost,Qwen2.5-Coder-14B-Instruct,TIME_LIMIT_EXCEEDED,25,37.21%,2.210,4.39453125
+blistavost,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,20,24.59%,0.080,1.828125
+trokuti,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

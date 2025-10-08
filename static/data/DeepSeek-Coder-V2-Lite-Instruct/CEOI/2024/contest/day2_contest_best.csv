@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+toy,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,6.49%,0.040,1.55078125
+stations,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,4.55%,0.120,5.68359375
+sprinklers,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,0,4.35%,2.210,2.6796875

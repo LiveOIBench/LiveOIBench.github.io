@@ -1,0 +1,7 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Dreaming_is_not_harmful_gpt-oss-20b-medium_0.cpp,RUNTIME_ERROR,0,13.16%,0.020,0,0.0,0,0,0,0,0,0,0,0,0
+Dreaming_is_not_harmful_gpt-oss-20b-medium_2.cpp,RUNTIME_ERROR,0,13.16%,0.020,0,0.0,0,0,0,0,0,0,0,0,0
+Dreaming_is_not_harmful_gpt-oss-20b-medium_3.cpp,RUNTIME_ERROR,10,12.73%,0.110,53.890625,0,10.0,0,0,0,0,0,0,0,0
+Dreaming_is_not_harmful_gpt-oss-20b-medium_5.cpp,RUNTIME_ERROR,10,24.39%,0.090,55.1796875,0.0,10.0,0,0,0,0,0,0,0,0
+Dreaming_is_not_harmful_gpt-oss-20b-medium_6.cpp,RUNTIME_ERROR,0,13.16%,0.000,0,0.0,0,0,0,0,0,0,0,0,0
+Dreaming_is_not_harmful_gpt-oss-20b-medium_7.cpp,RUNTIME_ERROR,0,3.77%,0.020,0,0,0,0,0,0,0,0,0,0,0

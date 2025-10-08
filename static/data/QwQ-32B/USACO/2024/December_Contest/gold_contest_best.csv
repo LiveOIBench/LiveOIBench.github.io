@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Cowdependence,QwQ-32B,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Interstellar_Intervals,QwQ-32B,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Job_Completion,QwQ-32B,WRONG_ANSWER,22,12.50%,0.210,4.58203125

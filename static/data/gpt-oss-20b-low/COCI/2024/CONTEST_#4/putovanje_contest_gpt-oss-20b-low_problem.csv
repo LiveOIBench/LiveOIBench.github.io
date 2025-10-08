@@ -1,0 +1,7 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+putovanje_gpt-oss-20b-low_0.cpp,TIME_LIMIT_EXCEEDED,65,68.35%,2.410,5.421875,10,20,35,0
+putovanje_gpt-oss-20b-low_1.cpp,MEMORY_LIMIT_EXCEEDED,65,64.03%,0.210,613.23046875,10,20,35,0
+putovanje_gpt-oss-20b-low_2.cpp,RUNTIME_ERROR,20,26.62%,0.040,5.1640625,0,20,0,0
+putovanje_gpt-oss-20b-low_3.cpp,TIME_LIMIT_EXCEEDED,65,74.10%,2.430,5.69140625,10,20,35,0
+putovanje_gpt-oss-20b-low_5.cpp,RUNTIME_ERROR,0,4.32%,0.040,4.6484375,0,0,0,0
+putovanje_gpt-oss-20b-low_7.cpp,TIME_LIMIT_EXCEEDED,65,68.35%,2.410,5.421875,10,20,35,0

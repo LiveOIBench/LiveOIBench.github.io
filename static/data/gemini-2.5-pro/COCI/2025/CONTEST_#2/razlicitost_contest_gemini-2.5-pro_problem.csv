@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+razlicitost_gemini-2.5-pro_0.cpp,TIME_LIMIT_EXCEEDED,47,74.42%,2.240,10.63671875,25,13,9,0
+razlicitost_gemini-2.5-pro_1.cpp,TIME_LIMIT_EXCEEDED,47,74.42%,2.220,341.08984375,25,13,9,0
+razlicitost_gemini-2.5-pro_2.cpp,TIME_LIMIT_EXCEEDED,47,74.42%,2.220,10.640625,25,13,9,0
+razlicitost_gemini-2.5-pro_3.cpp,TIME_LIMIT_EXCEEDED,47,74.42%,2.250,4.390625,25,13,9,0
+razlicitost_gemini-2.5-pro_4.cpp,MEMORY_LIMIT_EXCEEDED,47,74.42%,0.520,28.87109375,25,13,9,0
+razlicitost_gemini-2.5-pro_5.cpp,TIME_LIMIT_EXCEEDED,34,58.14%,2.230,562.2890625,25,0,9,0
+razlicitost_gemini-2.5-pro_6.cpp,TIME_LIMIT_EXCEEDED,47,74.42%,2.210,25.7890625,25,13,9,0
+razlicitost_gemini-2.5-pro_7.cpp,TIME_LIMIT_EXCEEDED,47,74.42%,2.210,10.640625,25,13,9,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+iksevi_Codestral-22B-v0.1_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.310,85.3984375,0,0,0
+iksevi_Codestral-22B-v0.1_1.cpp,RUNTIME_ERROR,0,0.00%,0.210,59.10546875,0,0,0
+iksevi_Codestral-22B-v0.1_2.cpp,RUNTIME_ERROR,0,0.00%,0.220,0.00390625,0,0,0
+iksevi_Codestral-22B-v0.1_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+iksevi_Codestral-22B-v0.1_4.cpp,RUNTIME_ERROR,0,0.00%,0.060,3.12890625,0,0,0
+iksevi_Codestral-22B-v0.1_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.310,12.90234375,0,0,0
+iksevi_Codestral-22B-v0.1_6.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0
+iksevi_Codestral-22B-v0.1_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.330,62.45703125,0,0,0

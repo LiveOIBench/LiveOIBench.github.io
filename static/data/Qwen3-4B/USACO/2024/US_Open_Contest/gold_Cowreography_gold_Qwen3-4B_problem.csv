@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Cowreography_Qwen3-4B_0.cpp,WRONG_ANSWER,0,13.04%,0.080,12.09765625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Cowreography_Qwen3-4B_1.cpp,WRONG_ANSWER,0,13.04%,0.080,12.09765625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Cowreography_Qwen3-4B_2.cpp,WRONG_ANSWER,0,13.04%,0.070,12.1015625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Cowreography_Qwen3-4B_3.cpp,WRONG_ANSWER,0,13.04%,0.090,12.1015625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Cowreography_Qwen3-4B_4.cpp,WRONG_ANSWER,0,13.04%,0.080,12.1015625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Cowreography_Qwen3-4B_5.cpp,RUNTIME_ERROR,0,0.00%,0.380,4.07421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Cowreography_Qwen3-4B_6.cpp,WRONG_ANSWER,0,13.04%,0.060,11.12890625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Cowreography_Qwen3-4B_7.cpp,WRONG_ANSWER,0,13.04%,0.080,12.1015625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+zastave_gemini-2.5-pro_0.cpp,WRONG_ANSWER,0,95.24%,0.110,2.84765625,0,0,0
+zastave_gemini-2.5-pro_1.cpp,ACCEPTED,110,100.00%,0.260,2.90625,41,22,47
+zastave_gemini-2.5-pro_2.cpp,ACCEPTED,110,100.00%,0.130,2.1328125,41,22,47
+zastave_gemini-2.5-pro_3.cpp,ACCEPTED,110,100.00%,0.240,5.94140625,41,22,47
+zastave_gemini-2.5-pro_4.cpp,ACCEPTED,110,100.00%,0.230,2.90625,41,22,47
+zastave_gemini-2.5-pro_5.cpp,ACCEPTED,110,100.00%,0.190,2.90625,41,22,47
+zastave_gemini-2.5-pro_6.cpp,ACCEPTED,110,100.00%,0.230,7.48828125,41,22,47
+zastave_gemini-2.5-pro_7.cpp,ACCEPTED,110,100.00%,0.260,1.81640625,41,22,47

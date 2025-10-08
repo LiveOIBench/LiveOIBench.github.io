@@ -1,0 +1,10 @@
+problem,model,status,score,%test passed,time,memory
+Paired_roads,Qwen2.5-Coder-7B-Instruct,UNKNOWN,0,0.00%,0.000,0
+Legs_warm-up_exercise,Qwen2.5-Coder-7B-Instruct,UNKNOWN,0,0.00%,0.000,0
+Hard_problem,Qwen2.5-Coder-7B-Instruct,ACCEPTED,100,100.00%,0.180,15.21875
+Yet_another_queries,Qwen2.5-Coder-7B-Instruct,TIME_LIMIT_EXCEEDED,19,49.24%,1.660,5.484375
+Lunch,Qwen2.5-Coder-7B-Instruct,RUNTIME_ERROR,0,0.00%,0.000,0
+Tournament,Qwen2.5-Coder-7B-Instruct,MEMORY_LIMIT_EXCEEDED,80,97.15%,0.000,0
+You_need_to_train_more,Qwen2.5-Coder-7B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+Colorful_graph,Qwen2.5-Coder-7B-Instruct,RUNTIME_ERROR,0,9.59%,0.000,0
+Space_accident,Qwen2.5-Coder-7B-Instruct,RUNTIME_ERROR,0,10.29%,0.100,0.00390625

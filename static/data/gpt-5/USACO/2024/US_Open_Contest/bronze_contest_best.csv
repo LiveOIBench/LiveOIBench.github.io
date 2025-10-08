@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Logical_Moos,gpt-5,ACCEPTED,333,100.00%,0.090,15.7109375
+bronze_Walking_Along_a_Fence,gpt-5,ACCEPTED,333,100.00%,0.080,9.546875
+bronze_Farmer_Johns_Favorite_Permutation,gpt-5,ACCEPTED,333,100.00%,0.580,7.87109375

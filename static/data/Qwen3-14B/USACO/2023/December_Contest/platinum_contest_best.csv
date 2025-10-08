@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Cowntact_Tracing,Qwen3-14B,TIME_LIMIT_EXCEEDED,17,17.39%,2.290,280.78125
+platinum_A_Graph_Problem,Qwen3-14B,TIME_LIMIT_EXCEEDED,50,26.09%,2.260,20.04296875
+platinum_Train_Scheduling,Qwen3-14B,WRONG_ANSWER,183,62.50%,0.110,0.00390625

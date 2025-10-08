@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Min_Max_Subarrays,Qwen2.5-Coder-14B-Instruct,MEMORY_LIMIT_EXCEEDED,0,15.38%,0.410,252.09765625
+platinum_Transforming_Pairs,Qwen2.5-Coder-14B-Instruct,WRONG_ANSWER,0,0.00%,0.170,0.00390625
+platinum_True_or_False_Test,Qwen2.5-Coder-14B-Instruct,TIME_LIMIT_EXCEEDED,0,5.00%,3.450,4.39453125

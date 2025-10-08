@@ -1,0 +1,6 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+message_seed-oss_0.cpp,RUNTIME_ERROR,10,44.44%,1.780,4.57421875,0,10,0.0
+message_seed-oss_2.cpp,RUNTIME_ERROR,10,44.44%,1.870,4.52734375,0,10,0.0
+message_seed-oss_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+message_seed-oss_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+message_seed-oss_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0

@@ -1,0 +1,5 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Election_Queries_gpt-oss-120b-high_1.cpp,ACCEPTED,333,100.00%,0.290,19.19140625,0,25.64102564102564,25.64102564102564,25.64102564102564,25.64102564102564,25.64102564102564,25.64102564102564,25.64102564102564,25.64102564102564,25.64102564102564,25.64102564102564,25.64102564102564,25.64102564102564,25.64102564102564
+gold_Election_Queries_gpt-oss-120b-high_4.cpp,WRONG_ANSWER,0,13.33%,0.150,6.76171875,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Election_Queries_gpt-oss-120b-high_6.cpp,WRONG_ANSWER,0,13.33%,0.160,19.08203125,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Election_Queries_gpt-oss-120b-high_7.cpp,WRONG_ANSWER,0,13.33%,0.110,5.93359375,0,0,0,0,0,0,0,0,0,0,0,0,0,0

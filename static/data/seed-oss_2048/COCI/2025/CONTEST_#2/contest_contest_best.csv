@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+paradoks,seed-oss_2048,ACCEPTED,50,100.00%,0.030,0
+igre,seed-oss_2048,RUNTIME_ERROR,29,44.90%,0.070,0.00390625
+razlicitost,seed-oss_2048,TIME_LIMIT_EXCEEDED,9,20.93%,2.410,6.7421875
+blistavost,seed-oss_2048,RUNTIME_ERROR,55,40.98%,0.030,1.55078125
+trokuti,seed-oss_2048,RUNTIME_ERROR,13,25.00%,0.040,1.8125

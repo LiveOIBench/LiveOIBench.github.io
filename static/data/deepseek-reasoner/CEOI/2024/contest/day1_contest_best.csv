@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+covid,deepseek-reasoner,RUNTIME_ERROR,10,66.67%,0.300,1.5390625
+battle,deepseek-reasoner,TIME_LIMIT_EXCEEDED,6,57.79%,3.310,349.7890625
+editor,deepseek-reasoner,RUNTIME_ERROR,5,23.81%,0.090,8.00390625

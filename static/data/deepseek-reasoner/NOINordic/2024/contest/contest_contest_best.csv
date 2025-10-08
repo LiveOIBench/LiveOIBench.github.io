@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+chairgame,deepseek-reasoner,TIME_LIMIT_EXCEEDED,17,63.79%,1.130,0.00390625
+thinice,deepseek-reasoner,RUNTIME_ERROR,0,22.03%,0.090,4.48046875
+animeshops,deepseek-reasoner,RUNTIME_ERROR,0,22.22%,0.070,8.2578125

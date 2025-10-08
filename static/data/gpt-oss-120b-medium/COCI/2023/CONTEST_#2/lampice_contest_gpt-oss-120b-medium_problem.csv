@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+lampice_gpt-oss-120b-medium_0.cpp,RUNTIME_ERROR,0,0.00%,2.38%,0.130,4.65234375,0,0,0,0
+lampice_gpt-oss-120b-medium_1.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.040,5.9375,0,0,0,0
+lampice_gpt-oss-120b-medium_2.cpp,RUNTIME_ERROR,0,0.00%,2.38%,2.730,20.59375,0,0,0,0
+lampice_gpt-oss-120b-medium_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,3.600,14.5859375,0,0,0,0
+lampice_gpt-oss-120b-medium_4.cpp,RUNTIME_ERROR,0,0.00%,2.38%,0.130,9.9921875,0,0,0,0
+lampice_gpt-oss-120b-medium_5.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.410,7.171875,0,0,0,0
+lampice_gpt-oss-120b-medium_6.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.510,9.703125,0,0,0,0
+lampice_gpt-oss-120b-medium_7.cpp,RUNTIME_ERROR,0,0.00%,0.00%,2.460,13.0625,0,0,0,0

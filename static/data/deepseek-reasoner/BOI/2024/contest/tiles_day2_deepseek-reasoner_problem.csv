@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+tiles_deepseek-reasoner_0.cpp,RUNTIME_ERROR,0,1.99%,0.020,2.84375,0,0,0,0,0,0,0
+tiles_deepseek-reasoner_1.cpp,TIME_LIMIT_EXCEEDED,0,0.66%,1.120,19.19921875,0,0,0,0,0,0,0
+tiles_deepseek-reasoner_2.cpp,RUNTIME_ERROR,0,3.31%,0.020,2.84375,0,0,0,0,0,0,0
+tiles_deepseek-reasoner_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+tiles_deepseek-reasoner_4.cpp,RUNTIME_ERROR,4,17.83%,0.040,4.34765625,4,0,0,0,0,0,0
+tiles_deepseek-reasoner_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+tiles_deepseek-reasoner_6.cpp,RUNTIME_ERROR,0,1.33%,0.030,6.51953125,0,0,0,0,0,0,0
+tiles_deepseek-reasoner_7.cpp,TIME_LIMIT_EXCEEDED,0,0.67%,1.120,3.390625,0,0,0,0,0,0,0

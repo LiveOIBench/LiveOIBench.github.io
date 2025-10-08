@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Custodial_Cleanup,Qwen3-8B,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.030,1.69921875
+gold_Pareidolia,Qwen3-8B,RUNTIME_ERROR,0,5.88%,0.050,2.48046875
+gold_Tree_Merging,Qwen3-8B,WRONG_ANSWER,0,6.25%,0.020,0.00390625

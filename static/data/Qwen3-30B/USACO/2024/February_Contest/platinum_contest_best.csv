@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Lazy_Cow,Qwen3-30B,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Minimum_Sum_of_Maximums,Qwen3-30B,WRONG_ANSWER,33,25.00%,0.110,0
+platinum_Infinite_Adventure,Qwen3-30B,WRONG_ANSWER,62,22.22%,0.420,2.84375

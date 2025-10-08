@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+five_Qwen3-8B-Non-Thinking_0.cpp,RUNTIME_ERROR,0,0.00%,0.410,21.546875,0,0,0,0,0,0
+five_Qwen3-8B-Non-Thinking_1.cpp,RUNTIME_ERROR,0,0.00%,0.410,306.53125,0,0,0,0,0,0
+five_Qwen3-8B-Non-Thinking_2.cpp,RUNTIME_ERROR,0,0.00%,0.240,252.2265625,0,0,0,0,0,0
+five_Qwen3-8B-Non-Thinking_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.890,87.75,0,0,0,0,0,0
+five_Qwen3-8B-Non-Thinking_4.cpp,RUNTIME_ERROR,5,16.36%,0.500,296.22265625,5,0,0,0,0,0
+five_Qwen3-8B-Non-Thinking_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.880,9.078125,0,0,0,0,0,0
+five_Qwen3-8B-Non-Thinking_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+five_Qwen3-8B-Non-Thinking_7.cpp,RUNTIME_ERROR,0,0.00%,0.410,22.06640625,0,0,0,0,0,0

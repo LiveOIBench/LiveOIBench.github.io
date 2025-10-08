@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+hieroglyphs,Codestral-22B-v0.1,MEMORY_LIMIT_EXCEEDED,0,4.42%,0.840,2252.265625
+sphinx,Codestral-22B-v0.1,RUNTIME_ERROR,0,3.26%,0.050,3.875
+mosaic,Codestral-22B-v0.1,MEMORY_LIMIT_EXCEEDED,0,8.33%,1.000,2226.484375

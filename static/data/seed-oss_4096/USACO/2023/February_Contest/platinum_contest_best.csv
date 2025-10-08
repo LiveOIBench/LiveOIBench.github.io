@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Hungry_Cow,seed-oss_4096,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Problem_Setting,seed-oss_4096,UNKNOWN,0,0.00%,0.000,0
+platinum_Watching_Cowflix,seed-oss_4096,UNKNOWN,0,0.00%,0.000,0

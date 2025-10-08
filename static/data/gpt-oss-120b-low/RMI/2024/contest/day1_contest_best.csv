@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Choose_Interval,gpt-oss-120b-low,TIME_LIMIT_EXCEEDED,52,82.79%,1.800,9.46484375
+Skittlez,gpt-oss-120b-low,TIME_LIMIT_EXCEEDED,28,64.15%,2.410,69.37890625
+Octagon,gpt-oss-120b-low,COMPILATION_ERROR,0,0.00%,0.000,0

@@ -1,0 +1,3 @@
+problem,model,status,score,%test passed,time,memory
+teleporters,gpt-oss-20b-high,ACCEPTED,100,100.00%,0.260,12.7734375
+tree_search,gpt-oss-20b-high,ACCEPTED,100,100.00%,0.110,11.62109375

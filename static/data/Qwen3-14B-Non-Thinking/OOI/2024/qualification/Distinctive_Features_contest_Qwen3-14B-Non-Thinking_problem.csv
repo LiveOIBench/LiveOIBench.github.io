@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Distinctive_Features_Qwen3-14B-Non-Thinking_0.cpp,TIME_LIMIT_EXCEEDED,17,41.99%,3.360,561.78515625,0.0,10.0,7.0,0,0,0,0,0,0,0
+Distinctive_Features_Qwen3-14B-Non-Thinking_1.cpp,TIME_LIMIT_EXCEEDED,30,53.36%,3.350,68.38671875,0.0,10.0,7.0,13.0,0,0,0,0,0,0
+Distinctive_Features_Qwen3-14B-Non-Thinking_2.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.320,425.93359375,0,0,0,0,0,0,0,0,0,0
+Distinctive_Features_Qwen3-14B-Non-Thinking_3.cpp,TIME_LIMIT_EXCEEDED,30,53.94%,3.310,43.64453125,0.0,10.0,7.0,13.0,0,0,0,0,0,0
+Distinctive_Features_Qwen3-14B-Non-Thinking_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.370,26.33984375,0,0,0,0,0,0,0,0,0,0
+Distinctive_Features_Qwen3-14B-Non-Thinking_5.cpp,RUNTIME_ERROR,0,0.00%,0.200,47.50390625,0,0,0,0,0,0,0,0,0,0
+Distinctive_Features_Qwen3-14B-Non-Thinking_6.cpp,RUNTIME_ERROR,0,0.00%,0.110,24.53125,0,0,0,0,0,0,0,0,0,0
+Distinctive_Features_Qwen3-14B-Non-Thinking_7.cpp,TIME_LIMIT_EXCEEDED,30,53.36%,3.430,70.44921875,0.0,10.0,7.0,13.0,0,0,0,0,0,0

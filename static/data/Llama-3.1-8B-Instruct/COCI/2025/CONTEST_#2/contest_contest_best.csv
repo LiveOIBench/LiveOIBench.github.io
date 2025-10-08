@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+paradoks,Llama-3.1-8B-Instruct,MEMORY_LIMIT_EXCEEDED,0,5.13%,0.070,1.6875
+igre,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,0.00%,0.080,0.00390625
+razlicitost,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+blistavost,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,6.56%,0.070,0.00390625
+trokuti,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

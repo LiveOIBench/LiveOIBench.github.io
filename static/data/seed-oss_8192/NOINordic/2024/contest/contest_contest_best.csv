@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+chairgame,seed-oss_8192,RUNTIME_ERROR,9,36.96%,0.020,0.00390625
+thinice,seed-oss_8192,RUNTIME_ERROR,0,22.03%,0.050,3.9609375
+animeshops,seed-oss_8192,ACCEPTED,100,100.00%,0.060,10.83203125

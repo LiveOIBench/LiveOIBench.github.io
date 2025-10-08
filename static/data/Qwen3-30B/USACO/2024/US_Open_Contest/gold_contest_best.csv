@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Cowreography,Qwen3-30B,WRONG_ANSWER,100,39.13%,0.130,10.7421875
+gold_Grass_Segments,Qwen3-30B,ACCEPTED,333,100.00%,0.930,75.69140625
+gold_Smaller_Averages,Qwen3-30B,TIME_LIMIT_EXCEEDED,125,50.00%,2.260,2.60546875

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Alice_Bob_and_two_arrays_seed-oss_0.cpp,TIME_LIMIT_EXCEEDED,45,61.90%,2.990,631.828125,0.0,13.0,0,0,0,11.0,8.0,0,7.0,6.0,0,0
+Alice_Bob_and_two_arrays_seed-oss_1.cpp,ACCEPTED,100,100.00%,0.290,1.55859375,0.0,13.0,10.0,7.0,12.0,11.0,8.0,10.0,7.0,6.0,7.0,9.0
+Alice_Bob_and_two_arrays_seed-oss_2.cpp,ACCEPTED,100,100.00%,2.710,14.18359375,0.0,13.0,10.0,7.0,12.0,11.0,8.0,10.0,7.0,6.0,7.0,9.0
+Alice_Bob_and_two_arrays_seed-oss_3.cpp,ACCEPTED,100,100.00%,1.810,14.1875,0.0,13.0,10.0,7.0,12.0,11.0,8.0,10.0,7.0,6.0,7.0,9.0
+Alice_Bob_and_two_arrays_seed-oss_4.cpp,ACCEPTED,100,100.00%,0.360,21.1484375,0.0,13.0,10.0,7.0,12.0,11.0,8.0,10.0,7.0,6.0,7.0,9.0
+Alice_Bob_and_two_arrays_seed-oss_5.cpp,TIME_LIMIT_EXCEEDED,93,96.79%,2.980,21.1484375,0.0,13.0,10.0,0,12.0,11.0,8.0,10.0,7.0,6.0,7.0,9.0
+Alice_Bob_and_two_arrays_seed-oss_6.cpp,ACCEPTED,100,100.00%,0.170,0.00390625,0.0,13.0,10.0,7.0,12.0,11.0,8.0,10.0,7.0,6.0,7.0,9.0
+Alice_Bob_and_two_arrays_seed-oss_7.cpp,TIME_LIMIT_EXCEEDED,71,89.10%,2.970,23.7265625,0.0,13.0,0,0,0,11.0,8.0,10.0,7.0,6.0,7.0,9.0

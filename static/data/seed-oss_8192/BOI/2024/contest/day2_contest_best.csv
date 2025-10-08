@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+fire,seed-oss_8192,ACCEPTED,100,100.00%,0.070,25.01171875
+tiles,seed-oss_8192,RUNTIME_ERROR,4,8.00%,0.020,11.859375
+wall,seed-oss_8192,COMPILATION_ERROR,0,0.00%,0.000,0

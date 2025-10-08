@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+hijerarhija_DeepSeek-R1-Distill-Llama-70B_0.cpp,RUNTIME_ERROR,0,0.00%,0.620,3.62109375,0,0,0,0,0,0
+hijerarhija_DeepSeek-R1-Distill-Llama-70B_1.cpp,ACCEPTED,90,100.00%,0.990,20.890625,7,12,16,15,23,17
+hijerarhija_DeepSeek-R1-Distill-Llama-70B_2.cpp,TIME_LIMIT_EXCEEDED,22,41.67%,3.320,2.58984375,7,0,0,15,0,0
+hijerarhija_DeepSeek-R1-Distill-Llama-70B_3.cpp,RUNTIME_ERROR,22,52.78%,0.990,23.07421875,7,0,0,15,0,0
+hijerarhija_DeepSeek-R1-Distill-Llama-70B_4.cpp,ACCEPTED,90,100.00%,1.020,60.33203125,7,12,16,15,23,17
+hijerarhija_DeepSeek-R1-Distill-Llama-70B_5.cpp,ACCEPTED,90,100.00%,0.600,16.16796875,7,12,16,15,23,17
+hijerarhija_DeepSeek-R1-Distill-Llama-70B_6.cpp,ACCEPTED,90,100.00%,0.720,15.57421875,7,12,16,15,23,17
+hijerarhija_DeepSeek-R1-Distill-Llama-70B_7.cpp,TIME_LIMIT_EXCEEDED,50,75.00%,3.330,21.40625,7,12,16,15,0,0

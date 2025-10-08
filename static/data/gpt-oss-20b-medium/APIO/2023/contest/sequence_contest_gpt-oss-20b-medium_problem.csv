@@ -1,0 +1,5 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+sequence_gpt-oss-20b-medium_0.cpp,RUNTIME_ERROR,0,25.26%,0.600,147.51953125,0,0,0,0,0,0,0,0
+sequence_gpt-oss-20b-medium_3.cpp,RUNTIME_ERROR,0,25.26%,0.380,190.875,0,0,0,0,0,0,0,0
+sequence_gpt-oss-20b-medium_4.cpp,RUNTIME_ERROR,0,25.26%,0.150,33.78125,0,0,0,0,0,0,0,0
+sequence_gpt-oss-20b-medium_6.cpp,TIME_LIMIT_EXCEEDED,0,2.47%,1.800,10.8359375,0,0,0,0,0,0,0,0

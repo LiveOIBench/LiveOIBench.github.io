@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+sudoku,Qwen3-8B,ACCEPTED,50,100.00%,0.000,0
+labirint,Qwen3-8B,ACCEPTED,70,100.00%,0.150,2.8203125
+an2dl,Qwen3-8B,ACCEPTED,110,100.00%,1.180,99.0078125
+kocke,Qwen3-8B,RUNTIME_ERROR,0,13.33%,0.040,72.71484375
+mostovi,Qwen3-8B,TIME_LIMIT_EXCEEDED,30,56.78%,3.600,8.0

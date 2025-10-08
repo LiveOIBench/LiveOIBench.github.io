@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Jump_Civilization,Qwen3-32B-Non-Thinking,TIME_LIMIT_EXCEEDED,0,9.80%,1.120,5.6796875
+Ramen,Qwen3-32B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+Signals,Qwen3-32B-Non-Thinking,MEMORY_LIMIT_EXCEEDED,2,11.43%,0.200,20.375

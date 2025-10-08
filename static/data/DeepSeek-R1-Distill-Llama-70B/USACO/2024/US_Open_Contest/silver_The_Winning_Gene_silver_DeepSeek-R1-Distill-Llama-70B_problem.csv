@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_The_Winning_Gene_DeepSeek-R1-Distill-Llama-70B_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.330,1.546875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_The_Winning_Gene_DeepSeek-R1-Distill-Llama-70B_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_The_Winning_Gene_DeepSeek-R1-Distill-Llama-70B_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_The_Winning_Gene_DeepSeek-R1-Distill-Llama-70B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_The_Winning_Gene_DeepSeek-R1-Distill-Llama-70B_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_The_Winning_Gene_DeepSeek-R1-Distill-Llama-70B_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_The_Winning_Gene_DeepSeek-R1-Distill-Llama-70B_6.cpp,WRONG_ANSWER,0,0.00%,0.700,446.79296875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_The_Winning_Gene_DeepSeek-R1-Distill-Llama-70B_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.150,14.49609375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

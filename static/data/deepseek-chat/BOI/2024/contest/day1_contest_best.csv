@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+jobs,deepseek-chat,RUNTIME_ERROR,0,0.72%,0.080,20.58203125
+portal,deepseek-chat,MEMORY_LIMIT_EXCEEDED,0,3.47%,0.160,132.61328125
+trains,deepseek-chat,RUNTIME_ERROR,0,37.66%,1.020,2.84765625

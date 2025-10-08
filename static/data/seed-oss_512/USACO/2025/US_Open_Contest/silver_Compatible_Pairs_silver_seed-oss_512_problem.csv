@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Compatible_Pairs_seed-oss_0.cpp,WRONG_ANSWER,0,16.67%,0.110,9.35546875,0,0,0,0,0,0,0,0,0,0,0
+silver_Compatible_Pairs_seed-oss_1.cpp,WRONG_ANSWER,67,33.33%,0.150,17.08984375,0,33.33333333333333,0,33.33333333333333,0,0,0,0,0,0,0
+silver_Compatible_Pairs_seed-oss_2.cpp,WRONG_ANSWER,67,33.33%,0.110,9.35546875,0,33.33333333333333,0,33.33333333333333,0,0,0,0,0,0,0
+silver_Compatible_Pairs_seed-oss_3.cpp,WRONG_ANSWER,67,33.33%,0.150,25.48046875,0,33.33333333333333,0,33.33333333333333,0,0,0,0,0,0,0
+silver_Compatible_Pairs_seed-oss_4.cpp,WRONG_ANSWER,0,16.67%,0.120,12.5390625,0,0,0,0,0,0,0,0,0,0,0
+silver_Compatible_Pairs_seed-oss_5.cpp,WRONG_ANSWER,67,33.33%,0.140,12.41015625,0,33.33333333333333,0,33.33333333333333,0,0,0,0,0,0,0
+silver_Compatible_Pairs_seed-oss_6.cpp,WRONG_ANSWER,0,16.67%,0.120,12.53515625,0,0,0,0,0,0,0,0,0,0,0
+silver_Compatible_Pairs_seed-oss_7.cpp,WRONG_ANSWER,0,8.33%,0.130,20.60546875,0,0,0,0,0,0,0,0,0,0,0

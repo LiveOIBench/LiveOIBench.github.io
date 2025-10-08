@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Moo_Decomposition,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,4.00%,0.130,3.296875
+gold_Election_Queries,Llama-3.1-8B-Instruct,MEMORY_LIMIT_EXCEEDED,0,6.67%,0.150,14.68359375
+gold_OohMoo_Milk,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,0.00%,0.120,1.81640625

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Identity_Theft_gpt-oss-120b-high_0.cpp,RUNTIME_ERROR,0,4.00%,0.070,46.484375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_gpt-oss-120b-high_1.cpp,TIME_LIMIT_EXCEEDED,33,20.00%,3.650,63.5703125,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_gpt-oss-120b-high_2.cpp,RUNTIME_ERROR,0,0.00%,0.130,135.390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_gpt-oss-120b-high_3.cpp,RUNTIME_ERROR,33,20.00%,0.120,40.6875,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_gpt-oss-120b-high_4.cpp,RUNTIME_ERROR,50,24.00%,0.090,22.25390625,0,16.666666666666664,0,0,0,0,0,0,0,0,0,16.666666666666664,16.666666666666664,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_gpt-oss-120b-high_5.cpp,RUNTIME_ERROR,0,0.00%,0.090,95.71484375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_gpt-oss-120b-high_6.cpp,RUNTIME_ERROR,33,12.00%,0.470,176.62890625,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_gpt-oss-120b-high_7.cpp,WRONG_ANSWER,33,28.00%,0.100,71.95703125,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,0

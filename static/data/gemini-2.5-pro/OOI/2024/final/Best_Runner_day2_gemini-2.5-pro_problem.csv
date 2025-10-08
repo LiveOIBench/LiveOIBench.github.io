@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Best_Runner_gemini-2.5-pro_0.cpp,RUNTIME_ERROR,50,41.94%,0.340,14.07421875,0.0,23.0,0,16.0,0,11.0,0
+Best_Runner_gemini-2.5-pro_1.cpp,RUNTIME_ERROR,50,43.20%,0.530,8.26171875,0.0,23.0,0,16.0,0,11.0,0
+Best_Runner_gemini-2.5-pro_2.cpp,RUNTIME_ERROR,50,43.20%,0.240,8.26171875,0.0,23.0,0,16.0,0,11.0,0
+Best_Runner_gemini-2.5-pro_3.cpp,RUNTIME_ERROR,50,41.94%,0.190,8.26171875,0.0,23.0,0,16.0,0,11.0,0
+Best_Runner_gemini-2.5-pro_4.cpp,TIME_LIMIT_EXCEEDED,50,37.60%,1.180,9.29296875,0.0,23.0,0,16.0,0,11.0,0
+Best_Runner_gemini-2.5-pro_5.cpp,RUNTIME_ERROR,50,43.20%,0.450,9.29296875,0.0,23.0,0,16.0,0,11.0,0
+Best_Runner_gemini-2.5-pro_6.cpp,RUNTIME_ERROR,60,52.82%,0.330,117.1171875,0.0,23.0,10.0,16.0,0,11.0,0
+Best_Runner_gemini-2.5-pro_7.cpp,RUNTIME_ERROR,50,43.20%,0.450,8.26171875,0.0,23.0,0,16.0,0,11.0,0

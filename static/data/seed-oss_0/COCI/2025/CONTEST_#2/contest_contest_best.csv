@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+paradoks,seed-oss_0,RUNTIME_ERROR,10,35.90%,0.030,0
+igre,seed-oss_0,COMPILATION_ERROR,0,0.00%,0.000,0
+razlicitost,seed-oss_0,MEMORY_LIMIT_EXCEEDED,9,20.93%,0.060,4.1328125
+blistavost,seed-oss_0,RUNTIME_ERROR,0,1.64%,0.030,0.00390625
+trokuti,seed-oss_0,COMPILATION_ERROR,0,0.00%,0.000,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+restorani_gpt-5_0.cpp,RUNTIME_ERROR,0,0.68%,0.090,27.23046875,0,0,0,0
+restorani_gpt-5_1.cpp,MEMORY_LIMIT_EXCEEDED,0,0.68%,0.590,613.53125,0,0,0,0
+restorani_gpt-5_2.cpp,RUNTIME_ERROR,0,0.68%,0.120,28.6171875,0,0,0,0
+restorani_gpt-5_3.cpp,RUNTIME_ERROR,0,0.68%,0.120,27.8359375,0,0,0,0
+restorani_gpt-5_4.cpp,RUNTIME_ERROR,0,0.68%,0.620,57.66015625,0,0,0,0
+restorani_gpt-5_5.cpp,TIME_LIMIT_EXCEEDED,0,0.68%,2.410,63.42578125,0,0,0,0
+restorani_gpt-5_6.cpp,RUNTIME_ERROR,0,0.68%,0.150,45.63671875,0,0,0,0
+restorani_gpt-5_7.cpp,RUNTIME_ERROR,0,0.68%,0.160,75.02734375,0,0,0,0

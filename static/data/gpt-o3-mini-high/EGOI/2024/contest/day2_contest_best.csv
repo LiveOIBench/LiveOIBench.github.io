@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+circlepassing,gpt-o3-mini-high,ACCEPTED,100,100.00%,0.100,5.1640625
+makethemmeet,gpt-o3-mini-high,RUNTIME_ERROR,11,12.24%,0.030,0.00390625
+lightbulbs,gpt-o3-mini-high,RUNTIME_ERROR,0,0.00%,0.000,0
+bikeparking,gpt-o3-mini-high,RUNTIME_ERROR,25,61.49%,0.060,7.23046875

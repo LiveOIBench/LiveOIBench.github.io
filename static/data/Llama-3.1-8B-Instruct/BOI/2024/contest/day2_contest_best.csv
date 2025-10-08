@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+fire,Llama-3.1-8B-Instruct,TIME_LIMIT_EXCEEDED,0,5.33%,1.120,2.90234375
+tiles,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,1.33%,0.030,3.10546875
+wall,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

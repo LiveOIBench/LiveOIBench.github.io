@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+bingo_Qwen2.5-Coder-32B-Instruct_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+bingo_Qwen2.5-Coder-32B-Instruct_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+bingo_Qwen2.5-Coder-32B-Instruct_2.cpp,RUNTIME_ERROR,12,36.36%,0.000,0,12,0,0
+bingo_Qwen2.5-Coder-32B-Instruct_3.cpp,ACCEPTED,50,100.00%,0.000,0,12,22,16
+bingo_Qwen2.5-Coder-32B-Instruct_4.cpp,ACCEPTED,50,100.00%,0.000,0,12,22,16
+bingo_Qwen2.5-Coder-32B-Instruct_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+bingo_Qwen2.5-Coder-32B-Instruct_6.cpp,RUNTIME_ERROR,12,36.36%,0.000,0,12,0,0
+bingo_Qwen2.5-Coder-32B-Instruct_7.cpp,ACCEPTED,50,100.00%,0.000,0,12,22,16

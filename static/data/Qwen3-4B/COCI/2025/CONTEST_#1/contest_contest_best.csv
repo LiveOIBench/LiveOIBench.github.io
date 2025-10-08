@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+osobna,Qwen3-4B,ACCEPTED,50,100.00%,0.020,0
+skokovi,Qwen3-4B,ACCEPTED,70,100.00%,0.090,12.125
+hijerarhija,Qwen3-4B,ACCEPTED,90,100.00%,0.520,29.9140625
+uciteljica,Qwen3-4B,TIME_LIMIT_EXCEEDED,0,4.92%,5.980,1.55078125
+zbunjenost,Qwen3-4B,RUNTIME_ERROR,0,3.23%,0.020,0

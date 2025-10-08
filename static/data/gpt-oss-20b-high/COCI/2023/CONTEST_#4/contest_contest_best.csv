@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+7krokods,gpt-oss-20b-high,ACCEPTED,50,100.00%,0.020,0
+zrinka,gpt-oss-20b-high,ACCEPTED,70,100.00%,0.140,1.55859375
+bojanje,gpt-oss-20b-high,ACCEPTED,110,100.00%,0.020,0.00390625
+mreza,gpt-oss-20b-high,ACCEPTED,110,100.00%,0.480,57.4921875
+vrsta,gpt-oss-20b-high,ACCEPTED,110,100.00%,0.110,7.484375

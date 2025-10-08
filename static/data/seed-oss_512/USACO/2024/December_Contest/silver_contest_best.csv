@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cake_Game,seed-oss_512,UNKNOWN,0,0.00%,0.000,0
+silver_Deforestation,seed-oss_512,TIME_LIMIT_EXCEEDED,100,27.27%,2.440,4.34375
+silver_2D_Conveyor_Belt,seed-oss_512,COMPILATION_ERROR,0,0.00%,0.000,0

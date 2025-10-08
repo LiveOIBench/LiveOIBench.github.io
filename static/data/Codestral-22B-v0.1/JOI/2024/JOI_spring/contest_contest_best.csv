@@ -1,0 +1,13 @@
+problem,model,status,score,%test passed,time,memory
+2024-sp_Fish_3,Codestral-22B-v0.1,RUNTIME_ERROR,0,9.21%,0.430,8.3203125
+2024-sp_Ski_2,Codestral-22B-v0.1,RUNTIME_ERROR,0,0.00%,0.000,0
+2024-sp_Spy_3,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+2024-sp_Board_Game,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+2024-sp_Tricolor_Lights,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+2024-sp_Growing_Vegetables_is_Fun_5,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+2024-sp_Card_Collection,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+2024-sp_JOI_Tour,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+2024-sp_Tower,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+2024-sp_Escape_Route_2,Codestral-22B-v0.1,RUNTIME_ERROR,0,4.59%,0.420,4.96875
+2024-sp_Island_Hopping,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+2024-sp_Table_Tennis,Codestral-22B-v0.1,ACCEPTED,100,100.00%,0.140,0.00390625

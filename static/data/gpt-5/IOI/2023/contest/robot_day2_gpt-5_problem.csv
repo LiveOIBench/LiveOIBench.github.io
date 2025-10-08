@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+robot_gpt-5_0.cpp,RUNTIME_ERROR,0,0.00%,0.050,8.6484375,0,0.0,0.0,0.0,0.0,0.0
+robot_gpt-5_1.cpp,RUNTIME_ERROR,0,0.00%,0.050,8.58984375,0,0.0,0.0,0.0,0.0,0.0
+robot_gpt-5_2.cpp,RUNTIME_ERROR,0,0.00%,0.050,8.5234375,0,0.0,0.0,0.0,0.0,0.0
+robot_gpt-5_3.cpp,RUNTIME_ERROR,0,0.00%,0.050,8.60546875,0,0.0,0.0,0.0,0.0,0.0
+robot_gpt-5_4.cpp,RUNTIME_ERROR,0,1.32%,0.060,8.6328125,0,0.0,0,0,0.0,0.0
+robot_gpt-5_5.cpp,RUNTIME_ERROR,0,1.32%,0.050,8.6953125,0,0.0,0,0.0,0.0,0.0
+robot_gpt-5_6.cpp,RUNTIME_ERROR,0,0.00%,0.050,8.60546875,0,0.0,0.0,0.0,0.0,0.0
+robot_gpt-5_7.cpp,RUNTIME_ERROR,0,0.00%,0.040,8.625,0,0.0,0.0,0.0,0.0,0.0

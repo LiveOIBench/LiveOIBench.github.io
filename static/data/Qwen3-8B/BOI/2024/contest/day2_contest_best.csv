@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+fire,Qwen3-8B,RUNTIME_ERROR,0,44.64%,0.040,3.3828125
+tiles,Qwen3-8B,RUNTIME_ERROR,0,1.99%,0.020,5.40625
+wall,Qwen3-8B,COMPILATION_ERROR,0,0.00%,0.000,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+trade,gpt-oss-120b-high,MEMORY_LIMIT_EXCEEDED,55,92.62%,1.530,2451.21484375
+incursion,gpt-oss-120b-high,COMPILATION_ERROR,0,0.00%,0.000,0
+avoid,gpt-oss-120b-high,RUNTIME_ERROR,15,48.89%,0.060,26.34375

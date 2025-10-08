@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+hieroglyphs,QwQ-32B,RUNTIME_ERROR,3,14.58%,0.050,20.2578125
+sphinx,QwQ-32B,RUNTIME_ERROR,3,12.50%,0.120,4.3515625
+mosaic,QwQ-32B,RUNTIME_ERROR,0,8.33%,0.100,9.53515625

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+dizalo_gemini-2.5-pro_0.cpp,TIME_LIMIT_EXCEEDED,64,57.89%,3.340,8.51171875,16,19,29,0
+dizalo_gemini-2.5-pro_1.cpp,TIME_LIMIT_EXCEEDED,64,57.89%,3.340,4.13671875,16,19,29,0
+dizalo_gemini-2.5-pro_2.cpp,TIME_LIMIT_EXCEEDED,35,31.58%,3.320,9.71484375,16,19,0,0
+dizalo_gemini-2.5-pro_3.cpp,TIME_LIMIT_EXCEEDED,64,57.89%,3.330,7.74609375,16,19,29,0
+dizalo_gemini-2.5-pro_4.cpp,TIME_LIMIT_EXCEEDED,64,57.89%,3.380,2.64453125,16,19,29,0
+dizalo_gemini-2.5-pro_5.cpp,TIME_LIMIT_EXCEEDED,64,57.89%,3.310,4.13671875,16,19,29,0
+dizalo_gemini-2.5-pro_6.cpp,TIME_LIMIT_EXCEEDED,64,57.89%,3.330,11.19921875,16,19,29,0
+dizalo_gemini-2.5-pro_7.cpp,TIME_LIMIT_EXCEEDED,64,57.89%,3.480,12.55078125,16,19,29,0

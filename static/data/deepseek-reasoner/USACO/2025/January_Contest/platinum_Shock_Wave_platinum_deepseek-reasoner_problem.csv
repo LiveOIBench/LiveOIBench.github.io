@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Shock_Wave_deepseek-reasoner_0.cpp,WRONG_ANSWER,0,0.00%,0.080,2.07421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Shock_Wave_deepseek-reasoner_1.cpp,WRONG_ANSWER,26,7.14%,0.100,5.75,0,25.64102564102564,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Shock_Wave_deepseek-reasoner_2.cpp,WRONG_ANSWER,0,0.00%,0.080,2.07421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Shock_Wave_deepseek-reasoner_3.cpp,WRONG_ANSWER,0,0.00%,0.080,4.3203125,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Shock_Wave_deepseek-reasoner_4.cpp,WRONG_ANSWER,0,0.00%,0.200,2.07421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Shock_Wave_deepseek-reasoner_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.230,27.12890625,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Shock_Wave_deepseek-reasoner_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.260,2.07421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Shock_Wave_deepseek-reasoner_7.cpp,WRONG_ANSWER,0,0.00%,0.080,5.08984375,0,0,0,0,0,0,0,0,0,0,0,0,0,0

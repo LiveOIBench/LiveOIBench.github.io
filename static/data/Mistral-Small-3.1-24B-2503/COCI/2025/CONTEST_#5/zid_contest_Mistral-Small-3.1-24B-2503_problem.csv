@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+zid_Mistral-Small-3.1-24B-2503_0.cpp,TIME_LIMIT_EXCEEDED,17,55.56%,1.180,1.55859375,17,0,0
+zid_Mistral-Small-3.1-24B-2503_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.140,3.6171875,0,0,0
+zid_Mistral-Small-3.1-24B-2503_2.cpp,TIME_LIMIT_EXCEEDED,17,33.33%,1.180,1.5546875,17,0,0
+zid_Mistral-Small-3.1-24B-2503_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+zid_Mistral-Small-3.1-24B-2503_4.cpp,RUNTIME_ERROR,0,0.00%,0.940,1.55859375,0,0,0
+zid_Mistral-Small-3.1-24B-2503_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.130,2.5859375,0,0,0
+zid_Mistral-Small-3.1-24B-2503_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.190,15.21875,0,0,0
+zid_Mistral-Small-3.1-24B-2503_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.120,1.8125,0,0,0

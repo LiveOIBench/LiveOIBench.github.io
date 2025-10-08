@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+2025-ho-t2_Bitaro_the_Brave_2_Qwen3-8B-Non-Thinking_0.cpp,RUNTIME_ERROR,0,0.00%,0.190,12.90234375,0,0,0,0,0
+2025-ho-t2_Bitaro_the_Brave_2_Qwen3-8B-Non-Thinking_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+2025-ho-t2_Bitaro_the_Brave_2_Qwen3-8B-Non-Thinking_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.110,9.03515625,0,0,0,0,0
+2025-ho-t2_Bitaro_the_Brave_2_Qwen3-8B-Non-Thinking_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.110,12.90234375,0,0,0,0,0
+2025-ho-t2_Bitaro_the_Brave_2_Qwen3-8B-Non-Thinking_4.cpp,TIME_LIMIT_EXCEEDED,0,19.80%,1.170,9.03125,0,0,0,0,0
+2025-ho-t2_Bitaro_the_Brave_2_Qwen3-8B-Non-Thinking_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.120,9.03515625,0,0,0,0,0
+2025-ho-t2_Bitaro_the_Brave_2_Qwen3-8B-Non-Thinking_6.cpp,TIME_LIMIT_EXCEEDED,0,19.80%,1.110,12.90234375,0,0,0,0,0
+2025-ho-t2_Bitaro_the_Brave_2_Qwen3-8B-Non-Thinking_7.cpp,TIME_LIMIT_EXCEEDED,0,23.08%,1.110,12.90234375,0,0,0,0,0

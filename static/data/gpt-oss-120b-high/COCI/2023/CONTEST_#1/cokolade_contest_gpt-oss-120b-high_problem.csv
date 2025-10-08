@@ -1,0 +1,4 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+cokolade_gpt-oss-120b-high_0.cpp,ACCEPTED,70,100.00%,100.00%,0.350,2.84375,15,20,35
+cokolade_gpt-oss-120b-high_3.cpp,ACCEPTED,70,100.00%,100.00%,0.090,2.84765625,15,20,35
+cokolade_gpt-oss-120b-high_6.cpp,ACCEPTED,70,100.00%,100.00%,0.080,2.84765625,15,20,35

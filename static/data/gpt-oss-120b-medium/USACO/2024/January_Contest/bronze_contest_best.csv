@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+bronze_Majority_Opinion,gpt-oss-120b-medium,ACCEPTED,333,103.42%,100.00%,0.060,1.96875
+bronze_Cannonball,gpt-oss-120b-medium,ACCEPTED,333,102.78%,100.00%,0.050,6.96875
+bronze_Balancing_Bacteria,gpt-oss-120b-medium,ACCEPTED,333,102.46%,100.00%,0.060,0.00390625

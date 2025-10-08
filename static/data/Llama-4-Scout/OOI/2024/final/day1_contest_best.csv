@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Dreaming_is_not_harmful,Llama-4-Scout,MEMORY_LIMIT_EXCEEDED,0,3.77%,0.250,136.43359375
+Cute_Subsequences,Llama-4-Scout,TIME_LIMIT_EXCEEDED,0,4.49%,1.220,27.58984375
+The_arithmetic_exercise,Llama-4-Scout,UNKNOWN,0,0.00%,0.000,0
+Alice_Bob_and_two_arrays,Llama-4-Scout,MEMORY_LIMIT_EXCEEDED,57,75.70%,0.240,219.1640625

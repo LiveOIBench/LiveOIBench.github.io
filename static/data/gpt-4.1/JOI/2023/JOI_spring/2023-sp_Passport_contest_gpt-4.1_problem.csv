@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+2023-sp_Passport_gpt-4.1_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+2023-sp_Passport_gpt-4.1_1.cpp,TIME_LIMIT_EXCEEDED,0,33.33%,2.280,12.125,0,0,0,0,0
+2023-sp_Passport_gpt-4.1_2.cpp,TIME_LIMIT_EXCEEDED,0,35.94%,2.280,15.58203125,0,0,0,0,0
+2023-sp_Passport_gpt-4.1_3.cpp,RUNTIME_ERROR,6,43.28%,0.150,6.04296875,6,0,0,0,0
+2023-sp_Passport_gpt-4.1_4.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+2023-sp_Passport_gpt-4.1_5.cpp,RUNTIME_ERROR,6,43.28%,0.150,26.30078125,6,0,0,0,0
+2023-sp_Passport_gpt-4.1_6.cpp,RUNTIME_ERROR,6,43.28%,0.140,5.16796875,6,0,0,0,0
+2023-sp_Passport_gpt-4.1_7.cpp,RUNTIME_ERROR,0,9.43%,0.000,0,0,0,0,0,0

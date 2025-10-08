@@ -1,0 +1,10 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+bikesvscars,RUNTIME_ERROR,0,0.00%,0.020,1.66015625,,0,0,0,0,0,0,0
+ppp,ACCEPTED,100,100.00%,0.140,28.6953125,,0,12,16,15,20,22,15
+findthebox,RUNTIME_ERROR,0,0.00%,0.030,0,,0,0,0,0,0,0,0
+inflation,ACCEPTED,100,100.00%,0.120,16.2421875,,0,14,28,19,23,16,0
+candy,ACCEPTED,100,100.00%,0.040,4.90625,,0,6,19,16,30,29,0
+sopsug,UNKNOWN,0,0.00%,0.000,0,,0,0,0,0,0,0,0
+guessinggame,RUNTIME_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0
+carnival,RUNTIME_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0
+TOTAL,,300,37.50%,,,37.50%,,,,,,,

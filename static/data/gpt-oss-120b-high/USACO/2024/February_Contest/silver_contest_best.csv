@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Target_Practice_II,gpt-oss-120b-high,ACCEPTED,333,100.00%,0.300,5.83984375
+silver_Test_Tubes,gpt-oss-120b-high,WRONG_ANSWER,50,14.29%,0.360,12.44140625
+silver_Moorbles,gpt-oss-120b-high,ACCEPTED,333,100.00%,0.100,9.29296875

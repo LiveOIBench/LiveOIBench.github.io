@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+cesta_gpt-oss-20b-high_1.cpp,RUNTIME_ERROR,0,0.00%,0.050,7.484375,0,0,0,0
+cesta_gpt-oss-20b-high_2.cpp,ACCEPTED,110,100.00%,0.920,131.125,10,30,30,40
+cesta_gpt-oss-20b-high_3.cpp,ACCEPTED,110,100.00%,0.770,115.80078125,10,30,30,40
+cesta_gpt-oss-20b-high_4.cpp,ACCEPTED,110,100.00%,0.780,123.5859375,10,30,30,40
+cesta_gpt-oss-20b-high_5.cpp,ACCEPTED,110,100.00%,0.880,134.9921875,10,30,30,40
+cesta_gpt-oss-20b-high_6.cpp,ACCEPTED,110,100.00%,0.930,135.1875,10,30,30,40
+cesta_gpt-oss-20b-high_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0

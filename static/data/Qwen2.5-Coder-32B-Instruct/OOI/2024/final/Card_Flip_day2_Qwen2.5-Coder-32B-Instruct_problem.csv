@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Card_Flip_Qwen2.5-Coder-32B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,0,5.94%,1.110,125.5625,0,0,0,0,0,0,0,0,0,0
+Card_Flip_Qwen2.5-Coder-32B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,0,12.38%,1.170,75.8046875,0.0,0,0,0,0,0,0,0,0,0
+Card_Flip_Qwen2.5-Coder-32B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,0,12.38%,1.170,72.1875,0.0,0,0,0,0,0,0,0,0,0
+Card_Flip_Qwen2.5-Coder-32B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,0,10.58%,1.150,33.7890625,0.0,0,0,0,0,0,0,0,0,0
+Card_Flip_Qwen2.5-Coder-32B-Instruct_4.cpp,RUNTIME_ERROR,0,14.29%,0.520,54.66015625,0.0,0,0,0,0,0,0,0,0,0
+Card_Flip_Qwen2.5-Coder-32B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,0,12.38%,1.160,72.0,0.0,0,0,0,0,0,0,0,0,0
+Card_Flip_Qwen2.5-Coder-32B-Instruct_6.cpp,RUNTIME_ERROR,0,1.03%,0.850,57.1484375,0,0,0,0,0,0,0,0,0,0
+Card_Flip_Qwen2.5-Coder-32B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,0,5.94%,1.160,30.046875,0,0,0,0,0,0,0,0,0,0

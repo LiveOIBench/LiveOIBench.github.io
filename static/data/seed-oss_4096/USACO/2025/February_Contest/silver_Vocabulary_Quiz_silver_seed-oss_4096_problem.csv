@@ -1,0 +1,7 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Vocabulary_Quiz_seed-oss_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.460,84.3203125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Vocabulary_Quiz_seed-oss_1.cpp,MEMORY_LIMIT_EXCEEDED,156,55.56%,0.440,305.00390625,0,22.22222222222222,0,0,0,0,0,0,22.22222222222222,22.22222222222222,22.22222222222222,22.22222222222222,22.22222222222222,22.22222222222222,0,0
+silver_Vocabulary_Quiz_seed-oss_2.cpp,TIME_LIMIT_EXCEEDED,0,16.67%,2.410,76.0625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Vocabulary_Quiz_seed-oss_3.cpp,RUNTIME_ERROR,0,0.00%,0.150,23.98828125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Vocabulary_Quiz_seed-oss_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.440,65.75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Vocabulary_Quiz_seed-oss_6.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

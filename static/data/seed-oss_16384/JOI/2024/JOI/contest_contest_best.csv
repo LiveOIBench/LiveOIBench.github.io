@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+2024-ho-t1_Room_Temperature,seed-oss_16384,ACCEPTED,100,100.00%,0.080,8.50390625
+2024-ho-t2_Construction_Project_2,seed-oss_16384,ACCEPTED,100,100.00%,0.230,35.1484375
+2024-ho-t3_Marathon_Race_2,seed-oss_16384,RUNTIME_ERROR,7,58.82%,0.000,0
+2024-ho-t4_Gift_Exchange,seed-oss_16384,RUNTIME_ERROR,0,36.14%,0.030,3.10546875
+2024-ho-t5_Road_Service_2,seed-oss_16384,TIME_LIMIT_EXCEEDED,16,60.83%,3.610,152.01171875

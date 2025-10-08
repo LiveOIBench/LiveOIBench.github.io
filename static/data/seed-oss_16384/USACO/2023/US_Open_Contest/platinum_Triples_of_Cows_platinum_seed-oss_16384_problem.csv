@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Triples_of_Cows_seed-oss_0.cpp,RUNTIME_ERROR,0,0.00%,0.090,22.0234375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Triples_of_Cows_seed-oss_1.cpp,RUNTIME_ERROR,0,0.00%,0.080,15.8515625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Triples_of_Cows_seed-oss_2.cpp,RUNTIME_ERROR,0,0.00%,0.110,33.30859375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Triples_of_Cows_seed-oss_3.cpp,TIME_LIMIT_EXCEEDED,39,25.00%,2.420,306.453125,0,19.6078431372549,0,0,0,0,0,0,0,0,19.6078431372549,0,0,0,0,0,0,0
+platinum_Triples_of_Cows_seed-oss_4.cpp,RUNTIME_ERROR,0,0.00%,0.090,23.51171875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Triples_of_Cows_seed-oss_5.cpp,RUNTIME_ERROR,0,5.00%,0.090,26.46875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Triples_of_Cows_seed-oss_6.cpp,RUNTIME_ERROR,0,0.00%,0.100,27.12890625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Triples_of_Cows_seed-oss_7.cpp,RUNTIME_ERROR,0,0.00%,0.100,30.328125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

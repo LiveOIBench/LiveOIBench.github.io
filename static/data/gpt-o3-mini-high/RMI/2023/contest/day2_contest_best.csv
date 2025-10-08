@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Circles,gpt-o3-mini-high,ACCEPTED,100,100.00%,0.390,46.33984375
+To_be_xor_not_to_be,gpt-o3-mini-high,RUNTIME_ERROR,0,4.76%,0.040,0
+Statues,gpt-o3-mini-high,ACCEPTED,100,100.00%,0.550,38.29296875

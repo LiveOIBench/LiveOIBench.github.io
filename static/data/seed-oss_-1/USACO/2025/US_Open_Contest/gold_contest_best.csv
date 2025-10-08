@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Moo_Decomposition,seed-oss_-1,ACCEPTED,333,100.00%,0.030,2.3671875
+gold_Election_Queries,seed-oss_-1,RUNTIME_ERROR,0,13.33%,0.110,18.6640625
+gold_OohMoo_Milk,seed-oss_-1,WRONG_ANSWER,98,40.00%,0.040,2.24609375

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Island_Vacation,gpt-o3-mini-high,RUNTIME_ERROR,33,13.04%,0.040,1.8125
+platinum_Merging_Cells,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,100,36.36%,2.210,562.296875
+platinum_Mooball_Teams_III,gpt-o3-mini-high,WRONG_ANSWER,0,16.67%,0.070,3.6171875

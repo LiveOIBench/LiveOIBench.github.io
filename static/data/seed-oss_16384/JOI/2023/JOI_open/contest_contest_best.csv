@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+2023-open-t1_Ancient_Machine_2,seed-oss_16384,RUNTIME_ERROR,0,0.00%,0.030,1.484375
+2023-open-t2_Cell_Automaton,seed-oss_16384,COMPILATION_ERROR,0,0.00%,0.000,0
+2023-open-t3_Garden,seed-oss_16384,RUNTIME_ERROR,0,31.68%,0.110,9.0859375

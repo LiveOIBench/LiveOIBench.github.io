@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Majority_Opinion,gpt-oss-20b-low,WRONG_ANSWER,71,26.67%,0.040,5.796875
+bronze_Cannonball,gpt-oss-20b-low,ACCEPTED,333,100.00%,0.030,8.98828125
+bronze_Balancing_Bacteria,gpt-oss-20b-low,ACCEPTED,333,100.00%,0.040,2.7890625

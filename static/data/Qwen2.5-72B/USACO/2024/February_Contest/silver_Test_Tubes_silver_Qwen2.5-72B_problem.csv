@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Test_Tubes_Qwen2.5-72B_0.cpp,WRONG_ANSWER,0,0.00%,0.160,5.046875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Test_Tubes_Qwen2.5-72B_1.cpp,WRONG_ANSWER,0,0.00%,0.140,1.6953125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Test_Tubes_Qwen2.5-72B_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.260,129.8359375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Test_Tubes_Qwen2.5-72B_3.cpp,WRONG_ANSWER,0,0.00%,0.150,5.0546875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Test_Tubes_Qwen2.5-72B_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Test_Tubes_Qwen2.5-72B_5.cpp,MEMORY_LIMIT_EXCEEDED,17,4.76%,0.940,124.15625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0
+silver_Test_Tubes_Qwen2.5-72B_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.360,129.89453125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Test_Tubes_Qwen2.5-72B_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

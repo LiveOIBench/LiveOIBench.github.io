@@ -1,0 +1,7 @@
+problem,model,status,score,%test passed,time,memory
+d1p1,seed-oss_512,TIME_LIMIT_EXCEEDED,8,28.57%,4.810,111.00390625
+d1p2,seed-oss_512,COMPILATION_ERROR,0,0.00%,0.000,0
+d1p3,seed-oss_512,COMPILATION_ERROR,0,0.00%,0.000,0
+d2p1,seed-oss_512,ACCEPTED,25,100.00%,0.020,0.00390625
+d2p2,seed-oss_512,UNKNOWN,0,0.00%,0.000,0
+d2p3,seed-oss_512,TIME_LIMIT_EXCEEDED,0,1.15%,4.800,100.01171875

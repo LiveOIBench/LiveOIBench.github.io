@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Lazy_Cow_gpt-oss-120b-medium_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.440,64.05078125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Lazy_Cow_gpt-oss-120b-medium_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.430,193.60546875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Lazy_Cow_gpt-oss-120b-medium_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.430,9.03125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Lazy_Cow_gpt-oss-120b-medium_3.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Lazy_Cow_gpt-oss-120b-medium_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.440,4.390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Lazy_Cow_gpt-oss-120b-medium_5.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.190,9.546875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Lazy_Cow_gpt-oss-120b-medium_6.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.080,0.00390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Lazy_Cow_gpt-oss-120b-medium_7.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.610,7.21875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

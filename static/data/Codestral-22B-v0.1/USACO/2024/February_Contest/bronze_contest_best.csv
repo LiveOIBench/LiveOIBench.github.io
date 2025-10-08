@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Palindrome_Game,Codestral-22B-v0.1,TIME_LIMIT_EXCEEDED,0,7.69%,2.260,251.37890625
+bronze_Milk_Exchange,Codestral-22B-v0.1,TIME_LIMIT_EXCEEDED,128,50.00%,2.290,4.59375
+bronze_Maximizing_Productivity,Codestral-22B-v0.1,TIME_LIMIT_EXCEEDED,62,23.53%,2.280,2.84765625

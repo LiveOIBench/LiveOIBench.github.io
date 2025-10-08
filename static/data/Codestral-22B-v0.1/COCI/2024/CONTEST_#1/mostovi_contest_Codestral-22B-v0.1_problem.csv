@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+mostovi_Codestral-22B-v0.1_0.cpp,RUNTIME_ERROR,0,0.00%,0.210,258.078125,0,0,0,0,0
+mostovi_Codestral-22B-v0.1_1.cpp,RUNTIME_ERROR,0,0.00%,0.160,24.37890625,0,0,0,0,0
+mostovi_Codestral-22B-v0.1_2.cpp,RUNTIME_ERROR,0,0.00%,0.160,258.89453125,0,0,0,0,0
+mostovi_Codestral-22B-v0.1_3.cpp,RUNTIME_ERROR,0,0.00%,0.090,13.4140625,0,0,0,0,0
+mostovi_Codestral-22B-v0.1_4.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+mostovi_Codestral-22B-v0.1_5.cpp,RUNTIME_ERROR,0,0.00%,0.090,7.7421875,0,0,0,0,0
+mostovi_Codestral-22B-v0.1_6.cpp,RUNTIME_ERROR,0,0.00%,0.090,12.68359375,0,0,0,0,0
+mostovi_Codestral-22B-v0.1_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.670,7.61328125,0,0,0,0,0

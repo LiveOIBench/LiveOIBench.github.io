@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+square_grid_puzzle,Llama-4-Scout,TIME_LIMIT_EXCEEDED,0,0.00%,1.210,0.00390625
+team_building,Llama-4-Scout,TIME_LIMIT_EXCEEDED,0,2.38%,1.220,3.5390625
+tree_infection,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0

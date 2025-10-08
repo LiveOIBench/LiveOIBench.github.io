@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+astronomer_Qwen3-14B_0.cpp,RUNTIME_ERROR,8,26.25%,0.170,0.00390625,0,8,0,0,0,0,0,0
+astronomer_Qwen3-14B_1.cpp,RUNTIME_ERROR,8,26.25%,0.170,0.00390625,0,8,0,0,0,0,0,0
+astronomer_Qwen3-14B_2.cpp,RUNTIME_ERROR,0,0.70%,0.000,0,0,0,0,0,0,0,0,0
+astronomer_Qwen3-14B_3.cpp,RUNTIME_ERROR,8,23.72%,0.190,0.00390625,0,8,0,0,0,0,0,0
+astronomer_Qwen3-14B_4.cpp,RUNTIME_ERROR,0,6.04%,0.000,0,0,0,0,0,0,0,0,0
+astronomer_Qwen3-14B_5.cpp,MEMORY_LIMIT_EXCEEDED,0,17.65%,0.500,385.421875,0,0,0,0,0,0,0,0
+astronomer_Qwen3-14B_6.cpp,RUNTIME_ERROR,0,5.37%,0.000,0,0,0,0,0,0,0,0,0
+astronomer_Qwen3-14B_7.cpp,RUNTIME_ERROR,8,28.66%,0.120,0.00390625,0,8,0,0,0,0,0,0

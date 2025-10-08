@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Identity_Theft,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Splitting_Haybales,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Activating_Robots,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+soccer_gpt-oss-120b-high_0.cpp,RUNTIME_ERROR,6,6.00%,28.26%,0.310,62.87890625,0,6,0,0,0,0,0
+soccer_gpt-oss-120b-high_1.cpp,RUNTIME_ERROR,0,0.00%,1.77%,0.000,0,0,0,0,0,0,0,0
+soccer_gpt-oss-120b-high_2.cpp,RUNTIME_ERROR,0,0.00%,2.65%,0.000,2.32421875,0,0,0,0,0,0,0
+soccer_gpt-oss-120b-high_3.cpp,RUNTIME_ERROR,0,0.00%,2.65%,0.000,0,0,0,0,0,0,0,0
+soccer_gpt-oss-120b-high_4.cpp,RUNTIME_ERROR,0,0.00%,1.77%,0.000,0,0,0,0,0,0,0,0
+soccer_gpt-oss-120b-high_5.cpp,RUNTIME_ERROR,0,0.00%,0.88%,0.000,0,0,0,0,0,0,0,0
+soccer_gpt-oss-120b-high_6.cpp,RUNTIME_ERROR,6,6.00%,28.26%,0.300,62.890625,0,6,0,0,0,0,0
+soccer_gpt-oss-120b-high_7.cpp,RUNTIME_ERROR,0,0.00%,0.88%,0.000,0,0,0,0,0,0,0,0

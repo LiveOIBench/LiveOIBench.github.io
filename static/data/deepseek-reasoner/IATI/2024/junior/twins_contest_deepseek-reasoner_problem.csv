@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+twins_deepseek-reasoner_0.cpp,RUNTIME_ERROR,40,35.88%,0.130,3.74609375,40,0,0
+twins_deepseek-reasoner_1.cpp,RUNTIME_ERROR,40,35.88%,0.140,3.16796875,40,0,0
+twins_deepseek-reasoner_2.cpp,RUNTIME_ERROR,40,35.88%,0.130,4.375,40,0,0
+twins_deepseek-reasoner_3.cpp,RUNTIME_ERROR,40,35.88%,0.130,3.171875,40,0,0
+twins_deepseek-reasoner_4.cpp,RUNTIME_ERROR,40,35.88%,0.130,5.26171875,40,0,0
+twins_deepseek-reasoner_5.cpp,RUNTIME_ERROR,40,35.88%,0.130,5.01953125,40,0,0
+twins_deepseek-reasoner_6.cpp,RUNTIME_ERROR,40,35.88%,0.130,3.16796875,40,0,0
+twins_deepseek-reasoner_7.cpp,RUNTIME_ERROR,40,35.88%,0.130,4.875,40,0,0

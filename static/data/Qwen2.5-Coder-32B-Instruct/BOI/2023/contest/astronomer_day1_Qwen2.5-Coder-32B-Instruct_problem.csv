@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+astronomer_Qwen2.5-Coder-32B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,5.510,0.00390625,0,0,0,0,0,0,0,0
+astronomer_Qwen2.5-Coder-32B-Instruct_1.cpp,RUNTIME_ERROR,0,0.00%,0.020,0.00390625,0,0,0,0,0,0,0,0
+astronomer_Qwen2.5-Coder-32B-Instruct_2.cpp,RUNTIME_ERROR,0,0.00%,0.020,0.00390625,0,0,0,0,0,0,0,0
+astronomer_Qwen2.5-Coder-32B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,5.510,0.00390625,0,0,0,0,0,0,0,0
+astronomer_Qwen2.5-Coder-32B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,5.520,0.00390625,0,0,0,0,0,0,0,0
+astronomer_Qwen2.5-Coder-32B-Instruct_5.cpp,RUNTIME_ERROR,0,12.66%,0.020,0.00390625,0,0,0,0,0,0,0,0
+astronomer_Qwen2.5-Coder-32B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,5.520,0.00390625,0,0,0,0,0,0,0,0
+astronomer_Qwen2.5-Coder-32B-Instruct_7.cpp,RUNTIME_ERROR,0,0.00%,0.030,0.00390625,0,0,0,0,0,0,0,0

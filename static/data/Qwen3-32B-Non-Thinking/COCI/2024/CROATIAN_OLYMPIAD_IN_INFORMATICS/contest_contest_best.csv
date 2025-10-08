@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+cern,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,0.00%,0.910,14.72265625
+koreografija,Qwen3-32B-Non-Thinking,UNKNOWN,0,0.00%,0.000,0
+ministarstvo,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,1.75%,0.140,9.02734375
+sirologija,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,0.00%,0.060,14.453125

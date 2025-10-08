@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+More_Gifts,Llama-4-Scout,TIME_LIMIT_EXCEEDED,30,63.83%,1.210,0.00390625
+Big_Persimmon,Llama-4-Scout,RUNTIME_ERROR,12,17.74%,0.020,0.00390625
+Evidence_Board,Llama-4-Scout,UNKNOWN,0,0.00%,0.000,0
+Draw_Polygon_Lines,Llama-4-Scout,UNKNOWN,0,0.00%,0.000,0

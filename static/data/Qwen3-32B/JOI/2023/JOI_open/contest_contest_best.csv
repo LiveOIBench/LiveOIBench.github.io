@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+2023-open-t1_Ancient_Machine_2,Qwen3-32B,RUNTIME_ERROR,0,0.00%,0.040,1.45703125
+2023-open-t2_Cell_Automaton,Qwen3-32B,TIME_LIMIT_EXCEEDED,4,70.56%,6.620,6.7109375
+2023-open-t3_Garden,Qwen3-32B,RUNTIME_ERROR,15,38.00%,0.260,6.703125

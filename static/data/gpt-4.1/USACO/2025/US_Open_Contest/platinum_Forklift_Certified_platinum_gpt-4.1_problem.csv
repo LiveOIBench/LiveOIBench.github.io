@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Forklift_Certified_gpt-4.1_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.320,108.86328125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Forklift_Certified_gpt-4.1_1.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.300,263.50390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Forklift_Certified_gpt-4.1_2.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.310,268.25390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Forklift_Certified_gpt-4.1_3.cpp,MEMORY_LIMIT_EXCEEDED,24,18.75%,0.280,275.06640625,0,0,0,0,0,0,0,0,0,23.809523809523807,0,0,0,0,0
+platinum_Forklift_Certified_gpt-4.1_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Forklift_Certified_gpt-4.1_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Forklift_Certified_gpt-4.1_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Forklift_Certified_gpt-4.1_7.cpp,RUNTIME_ERROR,0,0.00%,0.500,35.85546875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+aquarelle_gpt-5_0.cpp,ACCEPTED,100,100.00%,0.180,43.00390625,0,11,18,24,36,11
+aquarelle_gpt-5_1.cpp,RUNTIME_ERROR,0,5.88%,0.000,0,0,0,0,0,0,0
+aquarelle_gpt-5_2.cpp,ACCEPTED,100,100.00%,0.170,36.03125,0,11,18,24,36,11
+aquarelle_gpt-5_3.cpp,RUNTIME_ERROR,0,51.82%,0.070,8.5078125,0,0,0,0,0,0
+aquarelle_gpt-5_4.cpp,RUNTIME_ERROR,0,5.88%,0.070,2.26953125,0,0,0,0,0,0
+aquarelle_gpt-5_5.cpp,ACCEPTED,100,100.00%,0.300,72.17578125,0,11,18,24,36,11
+aquarelle_gpt-5_6.cpp,RUNTIME_ERROR,0,32.11%,0.080,0,0,0,0,0,0,0
+aquarelle_gpt-5_7.cpp,RUNTIME_ERROR,0,35.40%,0.080,2.26953125,0,0,0,0,0,0

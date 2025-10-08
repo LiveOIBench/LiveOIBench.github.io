@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Candy_Cane_Feast_gpt-oss-120b-medium_0.cpp,TIME_LIMIT_EXCEEDED,26,8.00%,7.14%,2.440,10.57421875,0,0,25.64102564102564,0,0,0,0,0,0,0,0,0,0,0
+bronze_Candy_Cane_Feast_gpt-oss-120b-medium_1.cpp,WRONG_ANSWER,26,8.00%,7.14%,0.110,10.5703125,0,0,25.64102564102564,0,0,0,0,0,0,0,0,0,0,0
+bronze_Candy_Cane_Feast_gpt-oss-120b-medium_2.cpp,WRONG_ANSWER,26,8.00%,7.14%,0.070,11.35546875,0,0,25.64102564102564,0,0,0,0,0,0,0,0,0,0,0
+bronze_Candy_Cane_Feast_gpt-oss-120b-medium_3.cpp,WRONG_ANSWER,51,15.69%,14.29%,0.120,36.359375,0,25.64102564102564,25.64102564102564,0,0,0,0,0,0,0,0,0,0,0
+bronze_Candy_Cane_Feast_gpt-oss-120b-medium_4.cpp,ACCEPTED,333,102.46%,100.00%,0.080,4.39453125,0,25.64102564102564,25.64102564102564,25.64102564102564,25.64102564102564,25.64102564102564,25.64102564102564,25.64102564102564,25.64102564102564,25.64102564102564,25.64102564102564,25.64102564102564,25.64102564102564,25.64102564102564
+bronze_Candy_Cane_Feast_gpt-oss-120b-medium_5.cpp,WRONG_ANSWER,0,0.00%,0.00%,0.090,10.06640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Candy_Cane_Feast_gpt-oss-120b-medium_6.cpp,TIME_LIMIT_EXCEEDED,26,8.00%,7.14%,2.440,10.57421875,0,0,25.64102564102564,0,0,0,0,0,0,0,0,0,0,0
+bronze_Candy_Cane_Feast_gpt-oss-120b-medium_7.cpp,WRONG_ANSWER,26,8.00%,14.29%,0.090,11.40625,0,0,25.64102564102564,0,0,0,0,0,0,0,0,0,0,0

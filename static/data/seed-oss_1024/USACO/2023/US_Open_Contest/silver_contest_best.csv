@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Milk_Sum,seed-oss_1024,UNKNOWN,0,0.00%,0.000,0
+silver_Field_Day,seed-oss_1024,RUNTIME_ERROR,70,20.00%,0.050,1.5546875
+silver_Pareidolia,seed-oss_1024,COMPILATION_ERROR,0,0.00%,0.000,0

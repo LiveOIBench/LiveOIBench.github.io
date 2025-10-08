@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Card_Flip,deepseek-chat,RUNTIME_ERROR,0,10.78%,0.470,32.25390625
+Order_Statistics,deepseek-chat,RUNTIME_ERROR,0,0.00%,0.060,5.93359375
+Best_Runner,deepseek-chat,RUNTIME_ERROR,34,37.10%,0.060,9.29296875
+Strong_Connectivity_Strikes_Back,deepseek-chat,ACCEPTED,100,100.00%,0.040,1.91796875

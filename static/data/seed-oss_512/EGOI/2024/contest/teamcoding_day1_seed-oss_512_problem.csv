@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+teamcoding_seed-oss_0.cpp,RUNTIME_ERROR,12,47.29%,0.050,13.30859375,0,12,0,0,0,0
+teamcoding_seed-oss_1.cpp,MEMORY_LIMIT_EXCEEDED,0,31.53%,0.440,1227.71484375,0,0,0,0,0,0
+teamcoding_seed-oss_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+teamcoding_seed-oss_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+teamcoding_seed-oss_4.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+teamcoding_seed-oss_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+teamcoding_seed-oss_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+teamcoding_seed-oss_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.470,1221.69140625,0,0,0,0,0,0

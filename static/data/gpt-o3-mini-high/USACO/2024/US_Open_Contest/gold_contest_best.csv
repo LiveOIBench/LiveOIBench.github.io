@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Cowreography,gpt-o3-mini-high,ACCEPTED,333,100.00%,0.050,15.12890625
+gold_Grass_Segments,gpt-o3-mini-high,ACCEPTED,333,100.00%,0.300,23.0546875
+gold_Smaller_Averages,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,271,85.00%,2.220,3.359375

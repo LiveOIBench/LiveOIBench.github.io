@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+2024-sp_Escape_Route_2_Qwen2.5-Coder-14B-Instruct_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+2024-sp_Escape_Route_2_Qwen2.5-Coder-14B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,0,4.59%,2.250,3.62109375,0,0,0,0,0,0
+2024-sp_Escape_Route_2_Qwen2.5-Coder-14B-Instruct_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+2024-sp_Escape_Route_2_Qwen2.5-Coder-14B-Instruct_3.cpp,RUNTIME_ERROR,0,0.00%,0.160,5.93359375,0,0,0,0,0,0
+2024-sp_Escape_Route_2_Qwen2.5-Coder-14B-Instruct_4.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.160,3.6171875,0,0,0,0,0,0
+2024-sp_Escape_Route_2_Qwen2.5-Coder-14B-Instruct_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.150,3.6171875,0,0,0,0,0,0
+2024-sp_Escape_Route_2_Qwen2.5-Coder-14B-Instruct_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+2024-sp_Escape_Route_2_Qwen2.5-Coder-14B-Instruct_7.cpp,RUNTIME_ERROR,0,0.00%,0.150,3.62109375,0,0,0,0,0,0

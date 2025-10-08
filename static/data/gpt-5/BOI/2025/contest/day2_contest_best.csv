@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+dev,gpt-5,TIME_LIMIT_EXCEEDED,0,4.40%,2.420,4.390625
+exp,gpt-5,TIME_LIMIT_EXCEEDED,37,44.97%,1.220,31.9765625
+gcd,gpt-5,RUNTIME_ERROR,17,29.51%,0.030,0

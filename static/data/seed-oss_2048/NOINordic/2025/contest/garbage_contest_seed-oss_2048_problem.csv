@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+garbage_seed-oss_0.cpp,RUNTIME_ERROR,0,4.11%,0.120,8.62109375,0,0,0,0,0,0
+garbage_seed-oss_1.cpp,TIME_LIMIT_EXCEEDED,0,4.11%,5.970,5.890625,0,0,0,0,0,0
+garbage_seed-oss_2.cpp,RUNTIME_ERROR,0,6.85%,0.080,4.6484375,0,0,0,0,0,0
+garbage_seed-oss_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+garbage_seed-oss_4.cpp,RUNTIME_ERROR,0,0.00%,0.130,7.609375,0,0,0,0,0,0
+garbage_seed-oss_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+garbage_seed-oss_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+garbage_seed-oss_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,5.980,7.94921875,0,0,0,0,0,0

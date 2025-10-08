@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+robot,deepseek-chat,RUNTIME_ERROR,0,0.67%,0.050,8.74609375
+overtaking,deepseek-chat,TIME_LIMIT_EXCEEDED,39,70.35%,2.770,8.5234375
+beechtree,deepseek-chat,TIME_LIMIT_EXCEEDED,0,22.86%,1.670,17.83984375

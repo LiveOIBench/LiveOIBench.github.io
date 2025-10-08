@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_The_Best_Subsequence_gpt-oss-120b-medium_0.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.580,65.078125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_The_Best_Subsequence_gpt-oss-120b-medium_1.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.250,69.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_The_Best_Subsequence_gpt-oss-120b-medium_2.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.630,18.82421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_The_Best_Subsequence_gpt-oss-120b-medium_3.cpp,TIME_LIMIT_EXCEEDED,59,18.27%,20.00%,2.410,21.15234375,0,19.6078431372549,0,0,0,0,0,0,0,0,0,19.6078431372549,19.6078431372549,0,0,0,0,0
+gold_The_Best_Subsequence_gpt-oss-120b-medium_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.450,20.4453125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_The_Best_Subsequence_gpt-oss-120b-medium_5.cpp,ACCEPTED,333,103.10%,100.00%,0.310,23.89453125,0,19.6078431372549,19.6078431372549,19.6078431372549,19.6078431372549,19.6078431372549,19.6078431372549,19.6078431372549,19.6078431372549,19.6078431372549,19.6078431372549,19.6078431372549,19.6078431372549,19.6078431372549,19.6078431372549,19.6078431372549,19.6078431372549,19.6078431372549
+gold_The_Best_Subsequence_gpt-oss-120b-medium_6.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.290,21.6640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_The_Best_Subsequence_gpt-oss-120b-medium_7.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.520,35.83984375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

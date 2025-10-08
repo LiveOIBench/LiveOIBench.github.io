@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+chairgame,Qwen3-32B,RUNTIME_ERROR,9,36.96%,0.040,0.00390625
+thinice,Qwen3-32B,RUNTIME_ERROR,0,22.03%,0.090,3.5859375
+animeshops,Qwen3-32B,TIME_LIMIT_EXCEEDED,23,60.00%,1.110,9.54296875

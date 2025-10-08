@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+Yet_another_queries_gpt-4.1_0.cpp,RUNTIME_ERROR,0,0.00%,0.160,5.515625,0,0,0,0,0,0,0,0,0
+Yet_another_queries_gpt-4.1_1.cpp,RUNTIME_ERROR,0,0.00%,0.930,69.97265625,0,0,0,0,0,0,0,0,0
+Yet_another_queries_gpt-4.1_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.660,73.58984375,0,0,0,0,0,0,0,0,0
+Yet_another_queries_gpt-4.1_3.cpp,RUNTIME_ERROR,0,0.00%,0.130,69.359375,0,0,0,0,0,0,0,0,0
+Yet_another_queries_gpt-4.1_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.660,37.39453125,0,0,0,0,0,0,0,0,0
+Yet_another_queries_gpt-4.1_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.660,37.69921875,0,0,0,0,0,0,0,0,0
+Yet_another_queries_gpt-4.1_6.cpp,RUNTIME_ERROR,0,0.00%,0.390,57.296875,0,0,0,0,0,0,0,0,0
+Yet_another_queries_gpt-4.1_7.cpp,TIME_LIMIT_EXCEEDED,19,33.33%,1.660,73.671875,0.0,19.0,0,0,0,0,0,0,0

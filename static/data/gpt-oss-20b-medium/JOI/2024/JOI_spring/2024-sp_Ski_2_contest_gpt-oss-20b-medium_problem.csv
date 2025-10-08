@@ -1,0 +1,5 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+2024-sp_Ski_2_gpt-oss-20b-medium_0.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+2024-sp_Ski_2_gpt-oss-20b-medium_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.410,8.5625,0,0,0,0,0,0
+2024-sp_Ski_2_gpt-oss-20b-medium_4.cpp,RUNTIME_ERROR,0,0.00%,0.260,0.00390625,0,0,0,0,0,0
+2024-sp_Ski_2_gpt-oss-20b-medium_6.cpp,RUNTIME_ERROR,0,0.00%,0.050,0.00390625,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Lazy_Cow,deepseek-chat,TIME_LIMIT_EXCEEDED,0,5.00%,2.260,10.0078125
+platinum_Minimum_Sum_of_Maximums,deepseek-chat,WRONG_ANSWER,33,20.83%,0.000,0
+platinum_Infinite_Adventure,deepseek-chat,RUNTIME_ERROR,83,22.22%,0.310,107.0234375

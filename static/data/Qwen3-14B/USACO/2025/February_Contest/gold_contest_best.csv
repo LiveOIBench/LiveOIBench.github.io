@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Bessies_Function,Qwen3-14B,WRONG_ANSWER,88,33.33%,0.150,5.16796875
+gold_The_Best_Subsequence,Qwen3-14B,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Friendship_Editing,Qwen3-14B,COMPILATION_ERROR,0,0.00%,0.000,0

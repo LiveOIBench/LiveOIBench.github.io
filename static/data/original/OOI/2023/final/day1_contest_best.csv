@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+More_Gifts,original,ACCEPTED,100,100.00%,0.330,20.75
+Big_Persimmon,original,ACCEPTED,100,100.00%,0.420,2.125
+Evidence_Board,original,ACCEPTED,100,100.00%,0.640,68.7265625
+Draw_Polygon_Lines,original,WRONG_ANSWER,53,73.48%,0.790,15.75

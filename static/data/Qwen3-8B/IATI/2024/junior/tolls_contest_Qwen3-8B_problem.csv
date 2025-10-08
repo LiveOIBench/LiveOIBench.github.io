@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+tolls_Qwen3-8B_0.cpp,ACCEPTED,100,100.00%,0.190,12.41015625,0,5,5,10,20,10,20,30
+tolls_Qwen3-8B_1.cpp,RUNTIME_ERROR,60,92.75%,0.160,13.6015625,0,5,5,10,20,0,20,0
+tolls_Qwen3-8B_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+tolls_Qwen3-8B_3.cpp,ACCEPTED,100,100.00%,0.200,9.05078125,0,5,5,10,20,10,20,30
+tolls_Qwen3-8B_4.cpp,ACCEPTED,100,100.00%,0.190,5.7109375,0,5,5,10,20,10,20,30
+tolls_Qwen3-8B_5.cpp,RUNTIME_ERROR,0,1.83%,0.040,2.2890625,0,0,0,0,0,0,0,0
+tolls_Qwen3-8B_6.cpp,ACCEPTED,100,100.00%,0.180,6.2265625,0,5,5,10,20,10,20,30
+tolls_Qwen3-8B_7.cpp,ACCEPTED,100,100.00%,0.180,12.92578125,0,5,5,10,20,10,20,30

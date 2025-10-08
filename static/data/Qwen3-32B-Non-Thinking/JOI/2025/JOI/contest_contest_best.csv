@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+2025-ho-t1_Grid_Coloring,Qwen3-32B-Non-Thinking,TIME_LIMIT_EXCEEDED,25,70.95%,2.220,28.8828125
+2025-ho-t2_Bitaro_the_Brave_2,Qwen3-32B-Non-Thinking,TIME_LIMIT_EXCEEDED,31,59.70%,1.110,9.03515625
+2025-ho-t3_Mi_Teleférico,Qwen3-32B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+2025-ho-t4_Just_Long_Neckties_2,Qwen3-32B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+2025-ho-t5_Post_Office,Qwen3-32B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0

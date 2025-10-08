@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Majority_Opinion,Qwen3-32B-Non-Thinking,WRONG_ANSWER,24,6.67%,0.050,1.8125
+bronze_Cannonball,Qwen3-32B-Non-Thinking,ACCEPTED,333,100.00%,0.050,4.4453125
+bronze_Balancing_Bacteria,Qwen3-32B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0

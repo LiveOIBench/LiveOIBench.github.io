@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+bouquet_seed-oss_0.cpp,RUNTIME_ERROR,0,4.09%,0.070,6.80859375,0,0,0,0,0,0
+bouquet_seed-oss_1.cpp,RUNTIME_ERROR,70,92.14%,0.060,19.60546875,0,8,16,28,18,0
+bouquet_seed-oss_2.cpp,ACCEPTED,100,100.00%,0.050,6.7109375,0,8,16,28,18,30
+bouquet_seed-oss_3.cpp,RUNTIME_ERROR,0,46.05%,0.050,6.45703125,0,0,0,0,0,0
+bouquet_seed-oss_4.cpp,RUNTIME_ERROR,0,1.79%,0.060,6.703125,0,0,0,0,0,0
+bouquet_seed-oss_5.cpp,RUNTIME_ERROR,0,1.19%,0.020,7.48828125,0,0,0,0,0,0
+bouquet_seed-oss_6.cpp,RUNTIME_ERROR,0,1.19%,0.020,2.84765625,0,0,0,0,0,0
+bouquet_seed-oss_7.cpp,RUNTIME_ERROR,0,3.51%,0.040,5.68359375,0,0,0,0,0,0

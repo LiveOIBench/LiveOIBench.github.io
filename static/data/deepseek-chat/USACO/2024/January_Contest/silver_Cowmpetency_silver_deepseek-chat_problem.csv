@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Cowmpetency_deepseek-chat_0.cpp,RUNTIME_ERROR,0,0.00%,0.080,2.56640625,0,0,0,0,0,0,0,0,0,0,0
+silver_Cowmpetency_deepseek-chat_1.cpp,TIME_LIMIT_EXCEEDED,0,8.33%,2.230,3.8671875,0,0,0,0,0,0,0,0,0,0,0
+silver_Cowmpetency_deepseek-chat_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.240,4.9375,0,0,0,0,0,0,0,0,0,0,0
+silver_Cowmpetency_deepseek-chat_3.cpp,TIME_LIMIT_EXCEEDED,0,8.33%,2.230,3.7890625,0,0,0,0,0,0,0,0,0,0,0
+silver_Cowmpetency_deepseek-chat_4.cpp,TIME_LIMIT_EXCEEDED,0,8.33%,2.260,3.1484375,0,0,0,0,0,0,0,0,0,0,0
+silver_Cowmpetency_deepseek-chat_5.cpp,TIME_LIMIT_EXCEEDED,0,8.33%,2.270,6.06640625,0,0,0,0,0,0,0,0,0,0,0
+silver_Cowmpetency_deepseek-chat_6.cpp,RUNTIME_ERROR,0,0.00%,0.070,2.89453125,0,0,0,0,0,0,0,0,0,0,0
+silver_Cowmpetency_deepseek-chat_7.cpp,RUNTIME_ERROR,0,0.00%,0.080,7.0,0,0,0,0,0,0,0,0,0,0,0

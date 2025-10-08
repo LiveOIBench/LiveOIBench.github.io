@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Space_accident_gpt-o3-mini-high_0.cpp,RUNTIME_ERROR,10,15.91%,0.050,2.07421875,0,0,0,10.0,0,0,0
+Space_accident_gpt-o3-mini-high_1.cpp,ACCEPTED,100,100.00%,0.060,2.07421875,0.0,15.0,16.0,10.0,15.0,24.0,20.0
+Space_accident_gpt-o3-mini-high_2.cpp,RUNTIME_ERROR,49,74.23%,0.040,2.015625,0.0,15.0,0,10.0,0,24.0,0
+Space_accident_gpt-o3-mini-high_3.cpp,RUNTIME_ERROR,10,15.91%,0.050,2.07421875,0,0,0,10.0,0,0,0
+Space_accident_gpt-o3-mini-high_4.cpp,RUNTIME_ERROR,10,15.91%,0.050,2.07421875,0,0,0,10.0,0,0,0
+Space_accident_gpt-o3-mini-high_5.cpp,ACCEPTED,100,100.00%,0.060,2.07421875,0.0,15.0,16.0,10.0,15.0,24.0,20.0
+Space_accident_gpt-o3-mini-high_6.cpp,RUNTIME_ERROR,10,32.89%,0.040,2.0703125,0.0,0,0,10.0,0,0,0
+Space_accident_gpt-o3-mini-high_7.cpp,RUNTIME_ERROR,25,32.58%,0.050,2.07421875,0,0,0,10.0,15.0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+knjige_Qwen3-30B-Non-Thinking_0.cpp,RUNTIME_ERROR,7,25.00%,0.070,2.91015625,7,0,0
+knjige_Qwen3-30B-Non-Thinking_1.cpp,RUNTIME_ERROR,0,0.00%,0.080,2.8515625,0,0,0
+knjige_Qwen3-30B-Non-Thinking_2.cpp,RUNTIME_ERROR,7,25.00%,0.080,4.45703125,7,0,0
+knjige_Qwen3-30B-Non-Thinking_3.cpp,RUNTIME_ERROR,7,25.00%,0.080,2.8515625,7,0,0
+knjige_Qwen3-30B-Non-Thinking_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.140,4.39453125,0,0,0
+knjige_Qwen3-30B-Non-Thinking_5.cpp,RUNTIME_ERROR,7,25.00%,0.080,3.10546875,7,0,0
+knjige_Qwen3-30B-Non-Thinking_6.cpp,RUNTIME_ERROR,7,25.00%,0.070,2.84765625,7,0,0
+knjige_Qwen3-30B-Non-Thinking_7.cpp,RUNTIME_ERROR,0,0.00%,0.060,3.68359375,0,0,0

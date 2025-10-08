@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+square_grid_puzzle,deepseek-reasoner,RUNTIME_ERROR,0,5.00%,0.030,0
+team_building,deepseek-reasoner,TIME_LIMIT_EXCEEDED,45,42.86%,1.120,4.90625
+tree_infection,deepseek-reasoner,RUNTIME_ERROR,15,14.81%,0.630,203.26171875

@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+7krokods,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,0,0.00%,0.000,0
+zrinka,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,20,20.00%,0.000,0
+bojanje,Qwen3-30B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+mreza,Qwen3-30B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+vrsta,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,26,20.00%,0.110,4.47265625

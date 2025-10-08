@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Target_Practice_II,seed-oss_1024,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Test_Tubes,seed-oss_1024,WRONG_ANSWER,17,4.76%,0.070,3.0390625
+silver_Moorbles,seed-oss_1024,COMPILATION_ERROR,0,0.00%,0.000,0

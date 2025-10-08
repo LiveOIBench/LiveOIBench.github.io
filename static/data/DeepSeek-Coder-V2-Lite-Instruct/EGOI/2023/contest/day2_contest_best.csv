@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+candy,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,35.96%,0.080,0
+sopsug,DeepSeek-Coder-V2-Lite-Instruct,UNKNOWN,0,0.00%,0.000,0
+guessinggame,DeepSeek-Coder-V2-Lite-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+carnival,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,11,30.23%,0.110,3.1015625

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Hoof_Paper_Scissors_Minus_One,Qwen3-14B,ACCEPTED,333,100.00%,0.200,8.7734375
+bronze_More_Cow_Photos,Qwen3-14B,ACCEPTED,333,100.00%,0.170,2.51171875
+bronze_Its_Mooin_Time_III,Qwen3-14B,TIME_LIMIT_EXCEEDED,167,54.55%,2.240,2.0703125

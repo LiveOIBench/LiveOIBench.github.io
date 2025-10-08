@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+robot,Qwen2.5-Coder-32B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+overtaking,Qwen2.5-Coder-32B-Instruct,TIME_LIMIT_EXCEEDED,39,69.78%,2.780,8.55078125
+beechtree,Qwen2.5-Coder-32B-Instruct,TIME_LIMIT_EXCEEDED,0,15.29%,1.660,17.078125

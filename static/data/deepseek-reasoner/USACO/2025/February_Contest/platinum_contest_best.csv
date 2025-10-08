@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Min_Max_Subarrays,deepseek-reasoner,WRONG_ANSWER,0,15.38%,0.140,17.84765625
+platinum_Transforming_Pairs,deepseek-reasoner,TIME_LIMIT_EXCEEDED,0,5.26%,2.240,0.00390625
+platinum_True_or_False_Test,deepseek-reasoner,WRONG_ANSWER,0,5.00%,0.090,4.39453125

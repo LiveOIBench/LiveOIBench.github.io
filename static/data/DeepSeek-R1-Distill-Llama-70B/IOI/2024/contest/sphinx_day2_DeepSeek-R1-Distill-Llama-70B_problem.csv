@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+sphinx_DeepSeek-R1-Distill-Llama-70B_0.cpp,RUNTIME_ERROR,0,3.26%,0.050,3.78515625,0,0,0.0,0,0,0.0
+sphinx_DeepSeek-R1-Distill-Llama-70B_1.cpp,RUNTIME_ERROR,0,3.26%,0.050,3.890625,0,0.0,0.0,0.0,0.0,0.0
+sphinx_DeepSeek-R1-Distill-Llama-70B_2.cpp,RUNTIME_ERROR,3,12.50%,0.440,4.2734375,0,3,0.0,0.0,0.0,0.0
+sphinx_DeepSeek-R1-Distill-Llama-70B_3.cpp,RUNTIME_ERROR,0,6.38%,0.050,3.921875,0,0,0.0,0,0,0.0
+sphinx_DeepSeek-R1-Distill-Llama-70B_4.cpp,RUNTIME_ERROR,0,3.26%,0.050,3.83203125,0,0.0,0.0,0.0,0.0,0.0
+sphinx_DeepSeek-R1-Distill-Llama-70B_5.cpp,RUNTIME_ERROR,10,49.52%,0.400,4.203125,0,3,7,0.0,0.0,0.0
+sphinx_DeepSeek-R1-Distill-Llama-70B_6.cpp,RUNTIME_ERROR,0,3.26%,0.050,3.82421875,0,0.0,0.0,0.0,0.0,0.0
+sphinx_DeepSeek-R1-Distill-Llama-70B_7.cpp,RUNTIME_ERROR,10,49.52%,0.390,4.140625,0,3,7,0.0,0.0,0.0

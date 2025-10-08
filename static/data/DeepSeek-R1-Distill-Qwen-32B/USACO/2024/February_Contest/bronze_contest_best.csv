@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Palindrome_Game,DeepSeek-R1-Distill-Qwen-32B,ACCEPTED,333,100.00%,0.120,1.59375
+bronze_Milk_Exchange,DeepSeek-R1-Distill-Qwen-32B,TIME_LIMIT_EXCEEDED,154,56.25%,2.280,7.66796875
+bronze_Maximizing_Productivity,DeepSeek-R1-Distill-Qwen-32B,ACCEPTED,333,100.00%,0.450,3.62109375

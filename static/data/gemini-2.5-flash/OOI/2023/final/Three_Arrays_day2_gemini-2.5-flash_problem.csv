@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Three_Arrays_gemini-2.5-flash_0.cpp,TIME_LIMIT_EXCEEDED,61,83.67%,1.110,2.06640625,0.0,13.0,18.0,14.0,16.0,0,0
+Three_Arrays_gemini-2.5-flash_1.cpp,ACCEPTED,100,100.00%,0.050,5.9375,0.0,13.0,18.0,14.0,16.0,19.0,20.0
+Three_Arrays_gemini-2.5-flash_2.cpp,RUNTIME_ERROR,0,0.00%,0.030,0.00390625,0,0,0,0,0,0,0
+Three_Arrays_gemini-2.5-flash_3.cpp,RUNTIME_ERROR,0,0.00%,0.020,1.55078125,0,0,0,0,0,0,0
+Three_Arrays_gemini-2.5-flash_4.cpp,ACCEPTED,100,100.00%,0.070,9.03125,0.0,13.0,18.0,14.0,16.0,19.0,20.0
+Three_Arrays_gemini-2.5-flash_5.cpp,TIME_LIMIT_EXCEEDED,31,64.88%,1.130,2.06640625,0.0,13.0,18.0,0,0,0,0
+Three_Arrays_gemini-2.5-flash_6.cpp,TIME_LIMIT_EXCEEDED,61,83.67%,1.110,2.32421875,0.0,13.0,18.0,14.0,16.0,0,0
+Three_Arrays_gemini-2.5-flash_7.cpp,RUNTIME_ERROR,0,3.73%,0.000,0,0.0,0,0,0,0,0,0

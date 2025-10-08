@@ -1,0 +1,7 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Activating_Robots_gpt-oss-20b-medium_0.cpp,MEMORY_LIMIT_EXCEEDED,117,37.50%,0.300,293.24609375,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,0,0,16.666666666666664,16.666666666666664,16.666666666666664,16.666666666666664,16.666666666666664,16.666666666666664,0
+platinum_Activating_Robots_gpt-oss-20b-medium_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.420,9.07421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Activating_Robots_gpt-oss-20b-medium_4.cpp,RUNTIME_ERROR,0,0.00%,0.040,11.41015625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Activating_Robots_gpt-oss-20b-medium_5.cpp,RUNTIME_ERROR,200,50.00%,0.240,2.84765625,0,16.666666666666664,0,0,16.666666666666664,0,0,16.666666666666664,16.666666666666664,0,0,16.666666666666664,16.666666666666664,16.666666666666664,0,16.666666666666664,16.666666666666664,16.666666666666664,16.666666666666664,16.666666666666664,0
+platinum_Activating_Robots_gpt-oss-20b-medium_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.140,290.30859375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Activating_Robots_gpt-oss-20b-medium_7.cpp,RUNTIME_ERROR,0,0.00%,1.030,18.98828125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

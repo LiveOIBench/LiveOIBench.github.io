@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+s1j4,gpt-oss-120b-low,ACCEPTED,15,100.00%,0.020,3.015625
+s2,gpt-oss-120b-low,ACCEPTED,15,100.00%,0.030,1.55859375
+s3,gpt-oss-120b-low,RUNTIME_ERROR,0,10.71%,0.120,34.5546875
+s4,gpt-oss-120b-low,RUNTIME_ERROR,6,32.35%,0.070,1.5546875
+s5,gpt-oss-120b-low,RUNTIME_ERROR,3,28.12%,0.050,4.4453125

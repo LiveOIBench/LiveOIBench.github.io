@@ -1,0 +1,8 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Triples_of_Cows_gpt-oss-120b-medium_0.cpp,WRONG_ANSWER,0,0.00%,10.00%,0.120,19.2421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Triples_of_Cows_gpt-oss-120b-medium_1.cpp,RUNTIME_ERROR,0,0.00%,5.00%,0.120,18.765625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Triples_of_Cows_gpt-oss-120b-medium_3.cpp,RUNTIME_ERROR,0,0.00%,5.00%,0.110,16.09375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Triples_of_Cows_gpt-oss-120b-medium_4.cpp,WRONG_ANSWER,0,0.00%,10.00%,0.110,19.703125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Triples_of_Cows_gpt-oss-120b-medium_5.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.120,14.55078125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Triples_of_Cows_gpt-oss-120b-medium_6.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.120,16.859375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Triples_of_Cows_gpt-oss-120b-medium_7.cpp,RUNTIME_ERROR,0,0.00%,5.00%,0.110,17.1875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

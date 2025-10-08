@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+chairgame,gpt-oss-120b-high,TIME_LIMIT_EXCEEDED,32,64.41%,1.230,2.3359375
+thinice,gpt-oss-120b-high,RUNTIME_ERROR,17,42.03%,0.060,4.78515625
+animeshops,gpt-oss-120b-high,ACCEPTED,100,100.00%,0.090,11.09375

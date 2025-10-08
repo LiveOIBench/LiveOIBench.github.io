@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Astral_Superposition,gpt-5,ACCEPTED,333,100.00%,0.140,2.5859375
+bronze_Its_Mooin_Time_II,gpt-5,ACCEPTED,333,100.00%,0.150,21.3515625
+bronze_Cow_Checkups,gpt-5,ACCEPTED,333,100.00%,0.150,1.55859375

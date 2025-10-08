@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+minequake,seed-oss_1024,RUNTIME_ERROR,0,3.68%,0.000,0
+mineraldeposits,seed-oss_1024,RUNTIME_ERROR,0,0.00%,0.010,1.48828125
+sequence,seed-oss_1024,RUNTIME_ERROR,0,8.00%,0.010,0

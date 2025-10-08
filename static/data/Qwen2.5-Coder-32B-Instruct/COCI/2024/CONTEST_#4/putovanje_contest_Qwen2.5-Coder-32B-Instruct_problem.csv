@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+putovanje_Qwen2.5-Coder-32B-Instruct_0.cpp,RUNTIME_ERROR,0,0.00%,0.080,4.38671875,0,0,0,0
+putovanje_Qwen2.5-Coder-32B-Instruct_1.cpp,RUNTIME_ERROR,0,0.72%,0.070,3.87109375,0,0,0,0
+putovanje_Qwen2.5-Coder-32B-Instruct_2.cpp,RUNTIME_ERROR,0,0.00%,0.070,3.87109375,0,0,0,0
+putovanje_Qwen2.5-Coder-32B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,45,46.76%,2.240,4.64453125,10,0,35,0
+putovanje_Qwen2.5-Coder-32B-Instruct_4.cpp,RUNTIME_ERROR,0,4.32%,0.090,4.97265625,0,0,0,0
+putovanje_Qwen2.5-Coder-32B-Instruct_5.cpp,RUNTIME_ERROR,0,0.00%,0.060,3.87109375,0,0,0,0
+putovanje_Qwen2.5-Coder-32B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,45,46.76%,2.230,4.64453125,10,0,35,0
+putovanje_Qwen2.5-Coder-32B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.300,4.64453125,0,0,0,0

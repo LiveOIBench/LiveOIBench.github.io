@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+Burenka_and_Pether,Qwen3-32B,RUNTIME_ERROR,0,0.79%,0.160,36.875
+Almost_Certainly,Qwen3-32B,RUNTIME_ERROR,0,0.00%,0.040,10.58203125
+Three_Arrays,Qwen3-32B,TIME_LIMIT_EXCEEDED,61,83.67%,1.110,2.08984375
+Parallel_Universes,Qwen3-32B,RUNTIME_ERROR,12,7.97%,0.030,1.55078125

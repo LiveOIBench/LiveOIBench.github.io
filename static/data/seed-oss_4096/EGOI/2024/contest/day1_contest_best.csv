@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+bouquet,seed-oss_4096,RUNTIME_ERROR,0,20.42%,0.090,4.91015625
+infiniterace,seed-oss_4096,RUNTIME_ERROR,0,12.00%,0.030,0.00390625
+teamcoding,seed-oss_4096,RUNTIME_ERROR,0,6.67%,0.000,0
+gardendecorations,seed-oss_4096,COMPILATION_ERROR,0,0.00%,0.000,0

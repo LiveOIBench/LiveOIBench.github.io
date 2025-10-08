@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+razlicitost_gpt-5_0.cpp,ACCEPTED,90,100.00%,0.400,10.96484375,25,13,9,43
+razlicitost_gpt-5_1.cpp,RUNTIME_ERROR,65,72.09%,0.270,6.7109375,0,13,9,43
+razlicitost_gpt-5_2.cpp,ACCEPTED,90,100.00%,0.410,25.7890625,25,13,9,43
+razlicitost_gpt-5_3.cpp,ACCEPTED,90,100.00%,0.300,10.05859375,25,13,9,43
+razlicitost_gpt-5_4.cpp,ACCEPTED,90,100.00%,0.360,7.4921875,25,13,9,43
+razlicitost_gpt-5_5.cpp,ACCEPTED,90,100.00%,0.360,19.9140625,25,13,9,43
+razlicitost_gpt-5_6.cpp,RUNTIME_ERROR,22,37.21%,0.390,4.6484375,0,13,9,0
+razlicitost_gpt-5_7.cpp,ACCEPTED,90,100.00%,1.080,25.78515625,25,13,9,43

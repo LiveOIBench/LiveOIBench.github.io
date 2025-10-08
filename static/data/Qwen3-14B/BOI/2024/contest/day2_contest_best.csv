@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+fire,Qwen3-14B,RUNTIME_ERROR,0,44.64%,0.040,3.87890625
+tiles,Qwen3-14B,RUNTIME_ERROR,0,1.99%,0.060,2.84765625
+wall,Qwen3-14B,TIME_LIMIT_EXCEEDED,0,22.73%,5.520,24.328125

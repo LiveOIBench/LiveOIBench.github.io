@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+desniklik,seed-oss_8192,ACCEPTED,50,100.00%,0.000,0
+cokolade,seed-oss_8192,ACCEPTED,70,100.00%,0.060,2.58984375
+berilij,seed-oss_8192,RUNTIME_ERROR,0,4.55%,0.120,12.75390625
+iksevi,seed-oss_8192,ACCEPTED,110,100.00%,2.070,77.63671875
+neboderi,seed-oss_8192,ACCEPTED,110,100.00%,0.160,5.16796875

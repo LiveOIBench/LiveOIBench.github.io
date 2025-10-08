@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Alice_Bob_and_two_arrays_DeepSeek-Coder-V2-Lite-Instruct_0.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.520,1120.97265625,0,0,0,0,0,0,0,0,0,0,0,0
+Alice_Bob_and_two_arrays_DeepSeek-Coder-V2-Lite-Instruct_1.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alice_Bob_and_two_arrays_DeepSeek-Coder-V2-Lite-Instruct_2.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.200,35.328125,0,0,0,0,0,0,0,0,0,0,0,0
+Alice_Bob_and_two_arrays_DeepSeek-Coder-V2-Lite-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,13,32.52%,2.760,2.06640625,0.0,13.0,0,0,0,0,0,0,0,0,0,0
+Alice_Bob_and_two_arrays_DeepSeek-Coder-V2-Lite-Instruct_4.cpp,RUNTIME_ERROR,0,13.46%,0.560,3.93359375,0.0,0,0,0,0,0,0,0,0,0,0,0
+Alice_Bob_and_two_arrays_DeepSeek-Coder-V2-Lite-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,0,8.04%,2.780,1102.1875,0.0,0,0,0,0,0,0,0,0,0,0,0
+Alice_Bob_and_two_arrays_DeepSeek-Coder-V2-Lite-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,93,96.79%,2.790,9.03125,0.0,13.0,10.0,0,12.0,11.0,8.0,10.0,7.0,6.0,7.0,9.0
+Alice_Bob_and_two_arrays_DeepSeek-Coder-V2-Lite-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,19,11.98%,2.820,5.1640625,0,0,0,0,0,11.0,8.0,0,0,0,0,0

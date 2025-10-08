@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_Bakery,gpt-oss-120b-medium,ACCEPTED,333,100.91%,100.00%,0.050,0.00390625
+silver_Cow-libi,gpt-oss-120b-medium,ACCEPTED,333,100.91%,100.00%,0.100,3.6171875
+silver_Moo_Route_II,gpt-oss-120b-medium,ACCEPTED,333,102.78%,100.00%,0.130,15.07421875

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+astronomer,deepseek-reasoner,RUNTIME_ERROR,8,28.66%,0.130,0.00390625
+staringcontest,deepseek-reasoner,RUNTIME_ERROR,0,17.95%,0.010,1.5390625
+tycho,deepseek-reasoner,RUNTIME_ERROR,0,70.91%,0.010,0

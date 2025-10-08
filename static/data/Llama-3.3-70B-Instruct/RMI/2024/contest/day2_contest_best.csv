@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+Jump_Civilization,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,6,36.07%,1.110,5.9375
+Ramen,Llama-3.3-70B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+Signals,Llama-3.3-70B-Instruct,RUNTIME_ERROR,37,52.38%,0.940,35.5859375

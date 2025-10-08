@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+bronze_Leaders,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,44,11.76%,0.120,1.8125
+bronze_Air_Cownditioning_II,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+bronze_Moo_Operations,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

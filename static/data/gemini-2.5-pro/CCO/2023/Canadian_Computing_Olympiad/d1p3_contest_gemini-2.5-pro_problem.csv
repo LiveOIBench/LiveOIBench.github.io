@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+d1p3_gemini-2.5-pro_0.cpp,RUNTIME_ERROR,0,0.96%,0.230,71.9296875,0,0,0,0,0,0,0,0
+d1p3_gemini-2.5-pro_1.cpp,TIME_LIMIT_EXCEEDED,0,0.96%,2.240,26.046875,0,0,0,0,0,0,0,0
+d1p3_gemini-2.5-pro_2.cpp,RUNTIME_ERROR,0,4.81%,0.670,72.05078125,0,0,0,0,0,0,0,0
+d1p3_gemini-2.5-pro_3.cpp,RUNTIME_ERROR,0,4.81%,0.930,144.37890625,0,0,0,0,0,0,0,0
+d1p3_gemini-2.5-pro_4.cpp,RUNTIME_ERROR,0,4.81%,0.630,68.0703125,0,0,0,0,0,0,0,0
+d1p3_gemini-2.5-pro_5.cpp,RUNTIME_ERROR,0,0.96%,0.250,41.4453125,0,0,0,0,0,0,0,0
+d1p3_gemini-2.5-pro_6.cpp,RUNTIME_ERROR,0,4.81%,0.150,12.90234375,0,0,0,0,0,0,0,0
+d1p3_gemini-2.5-pro_7.cpp,RUNTIME_ERROR,0,4.81%,0.670,75.8046875,0,0,0,0,0,0,0,0

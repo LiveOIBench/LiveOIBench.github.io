@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Find_and_Replace,Codestral-22B-v0.1,TIME_LIMIT_EXCEEDED,0,6.67%,2.280,180.30859375
+gold_Lights_Off,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0
+gold_Moo_Route,Codestral-22B-v0.1,COMPILATION_ERROR,0,0.00%,0.000,0

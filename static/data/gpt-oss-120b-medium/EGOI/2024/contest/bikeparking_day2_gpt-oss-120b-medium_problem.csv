@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+bikeparking_gpt-oss-120b-medium_0.cpp,RUNTIME_ERROR,25,25.00%,54.88%,0.090,10.58203125,0,16,9,0,0,0
+bikeparking_gpt-oss-120b-medium_1.cpp,RUNTIME_ERROR,25,25.00%,61.49%,0.050,8.51953125,0,16,9,0,0,0
+bikeparking_gpt-oss-120b-medium_2.cpp,RUNTIME_ERROR,0,0.00%,21.74%,0.050,5.94140625,0,0,0,0,0,0
+bikeparking_gpt-oss-120b-medium_3.cpp,RUNTIME_ERROR,0,0.00%,5.41%,0.000,0,0,0,0,0,0,0
+bikeparking_gpt-oss-120b-medium_4.cpp,RUNTIME_ERROR,16,16.00%,45.10%,0.000,0,0,16,0,0,0,0
+bikeparking_gpt-oss-120b-medium_5.cpp,RUNTIME_ERROR,25,25.00%,61.49%,0.070,5.94140625,0,16,9,0,0,0
+bikeparking_gpt-oss-120b-medium_6.cpp,RUNTIME_ERROR,25,25.00%,61.49%,0.060,10.58203125,0,16,9,0,0,0
+bikeparking_gpt-oss-120b-medium_7.cpp,RUNTIME_ERROR,25,25.00%,54.88%,0.050,10.0625,0,16,9,0,0,0

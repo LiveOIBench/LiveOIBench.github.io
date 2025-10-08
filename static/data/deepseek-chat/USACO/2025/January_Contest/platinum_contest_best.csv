@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_DFS_Order,deepseek-chat,RUNTIME_ERROR,0,0.00%,0.070,3.62109375
+platinum_Shock_Wave,deepseek-chat,WRONG_ANSWER,0,0.00%,0.070,2.07421875
+platinum_Watering_the_Plants,deepseek-chat,COMPILATION_ERROR,0,0.00%,0.000,0

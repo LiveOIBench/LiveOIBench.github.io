@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Pareidolia,seed-oss_4096,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Good_Bitstrings,seed-oss_4096,UNKNOWN,0,0.00%,0.000,0
+platinum_Triples_of_Cows,seed-oss_4096,COMPILATION_ERROR,0,0.00%,0.000,0

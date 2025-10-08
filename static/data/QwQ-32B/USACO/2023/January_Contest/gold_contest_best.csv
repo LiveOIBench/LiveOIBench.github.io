@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Find_and_Replace,QwQ-32B,MEMORY_LIMIT_EXCEEDED,0,6.67%,0.110,1.69921875
+gold_Lights_Off,QwQ-32B,TIME_LIMIT_EXCEEDED,56,25.00%,4.410,240.96484375
+gold_Moo_Route,QwQ-32B,WRONG_ANSWER,0,4.76%,0.110,1.7578125

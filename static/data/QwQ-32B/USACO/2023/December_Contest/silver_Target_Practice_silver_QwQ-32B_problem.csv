@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Target_Practice_QwQ-32B_0.cpp,WRONG_ANSWER,56,33.33%,1.400,2.5859375,0,27.777777777777775,0,0,0,0,0,0,27.777777777777775,0,0,0,0
+silver_Target_Practice_QwQ-32B_1.cpp,TIME_LIMIT_EXCEEDED,28,26.67%,2.210,10.1171875,0,27.777777777777775,0,0,0,0,0,0,0,0,0,0,0
+silver_Target_Practice_QwQ-32B_2.cpp,WRONG_ANSWER,28,20.00%,0.120,7.8828125,0,27.777777777777775,0,0,0,0,0,0,0,0,0,0,0
+silver_Target_Practice_QwQ-32B_3.cpp,WRONG_ANSWER,28,26.67%,0.140,21.859375,0,27.777777777777775,0,0,0,0,0,0,0,0,0,0,0
+silver_Target_Practice_QwQ-32B_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Target_Practice_QwQ-32B_5.cpp,TIME_LIMIT_EXCEEDED,28,6.67%,2.320,11.1015625,0,27.777777777777775,0,0,0,0,0,0,0,0,0,0,0
+silver_Target_Practice_QwQ-32B_6.cpp,WRONG_ANSWER,28,20.00%,0.120,6.96484375,0,27.777777777777775,0,0,0,0,0,0,0,0,0,0,0
+silver_Target_Practice_QwQ-32B_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0

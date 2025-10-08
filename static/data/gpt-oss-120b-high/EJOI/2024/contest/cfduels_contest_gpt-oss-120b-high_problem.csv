@@ -1,0 +1,6 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+cfduels_gpt-oss-120b-high_0.cpp,ACCEPTED,100,100.00%,0.150,2.6953125,0,12,16,14,18,10,30
+cfduels_gpt-oss-120b-high_1.cpp,ACCEPTED,100,100.00%,0.160,3.8515625,0,12,16,14,18,10,30
+cfduels_gpt-oss-120b-high_3.cpp,ACCEPTED,100,100.00%,0.130,4.03515625,0,12,16,14,18,10,30
+cfduels_gpt-oss-120b-high_5.cpp,ACCEPTED,100,100.00%,0.160,3.2578125,0,12,16,14,18,10,30
+cfduels_gpt-oss-120b-high_6.cpp,ACCEPTED,100,100.00%,0.140,3.71875,0,12,16,14,18,10,30

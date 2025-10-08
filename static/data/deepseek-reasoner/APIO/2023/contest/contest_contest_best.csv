@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+sequence,deepseek-reasoner,TIME_LIMIT_EXCEEDED,0,8.24%,1.800,46.78515625
+abc,deepseek-reasoner,RUNTIME_ERROR,0,0.00%,0.010,5.4453125
+cyberland,deepseek-reasoner,RUNTIME_ERROR,97,82.93%,1.590,59.30078125

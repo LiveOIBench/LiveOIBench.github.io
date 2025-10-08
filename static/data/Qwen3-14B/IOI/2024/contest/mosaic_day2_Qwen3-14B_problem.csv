@@ -1,0 +1,7 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+mosaic_Qwen3-14B_0.cpp,RUNTIME_ERROR,8,28.38%,0.150,20.640625,0,0,0,0,0,8,0,0,0
+mosaic_Qwen3-14B_1.cpp,RUNTIME_ERROR,0,4.29%,0.120,11.34375,0,0,0,0,0,0,0,0,0
+mosaic_Qwen3-14B_3.cpp,RUNTIME_ERROR,0,4.29%,0.110,8.7734375,0,0,0,0,0,0,0,0,0
+mosaic_Qwen3-14B_5.cpp,TIME_LIMIT_EXCEEDED,0,8.33%,1.110,12.90625,0,0,0,0,0,0,0,0,0
+mosaic_Qwen3-14B_6.cpp,MEMORY_LIMIT_EXCEEDED,22,64.86%,1.080,2240.90625,0,5,7,0,10,0,0,0,0
+mosaic_Qwen3-14B_7.cpp,RUNTIME_ERROR,0,4.29%,0.100,7.0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+blistavost_gpt-oss-120b-medium_0.cpp,ACCEPTED,120,100.00%,100.00%,0.080,2.1640625,20,25,55,20
+blistavost_gpt-oss-120b-medium_1.cpp,ACCEPTED,120,100.00%,100.00%,0.030,1.55078125,20,25,55,20
+blistavost_gpt-oss-120b-medium_2.cpp,RUNTIME_ERROR,0,0.00%,18.03%,0.070,62.65234375,0,0,0,0
+blistavost_gpt-oss-120b-medium_3.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.030,1.5546875,0,0,0,0
+blistavost_gpt-oss-120b-medium_4.cpp,RUNTIME_ERROR,75,62.50%,65.57%,0.030,1.80859375,0,0,55,20
+blistavost_gpt-oss-120b-medium_5.cpp,ACCEPTED,120,100.00%,100.00%,0.030,0.00390625,20,25,55,20
+blistavost_gpt-oss-120b-medium_6.cpp,RUNTIME_ERROR,0,0.00%,18.03%,0.050,62.6484375,0,0,0,0
+blistavost_gpt-oss-120b-medium_7.cpp,ACCEPTED,120,100.00%,100.00%,0.100,1.5546875,20,25,55,20

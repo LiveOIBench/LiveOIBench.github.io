@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+dev_deepseek-reasoner_0.cpp,RUNTIME_ERROR,0,1.66%,0.020,0.00390625,0,0,0,0,0,0,0
+dev_deepseek-reasoner_1.cpp,RUNTIME_ERROR,0,1.10%,0.020,2.3203125,0,0,0,0,0,0,0
+dev_deepseek-reasoner_2.cpp,RUNTIME_ERROR,0,1.10%,0.020,0.00390625,0,0,0,0,0,0,0
+dev_deepseek-reasoner_3.cpp,RUNTIME_ERROR,0,1.66%,0.020,0.00390625,0,0,0,0,0,0,0
+dev_deepseek-reasoner_4.cpp,RUNTIME_ERROR,0,7.18%,0.170,15.4609375,0,0,0,0,0,0,0
+dev_deepseek-reasoner_5.cpp,TIME_LIMIT_EXCEEDED,0,2.21%,2.220,2.76171875,0,0,0,0,0,0,0
+dev_deepseek-reasoner_6.cpp,TIME_LIMIT_EXCEEDED,0,2.21%,2.220,2.7578125,0,0,0,0,0,0,0
+dev_deepseek-reasoner_7.cpp,RUNTIME_ERROR,0,1.10%,0.120,1.546875,0,0,0,0,0,0,0

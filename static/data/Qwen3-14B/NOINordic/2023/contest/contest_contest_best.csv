@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+icecreammachines,Qwen3-14B,ACCEPTED,100,100.00%,0.170,12.89453125
+chatnoi,Qwen3-14B,RUNTIME_ERROR,17,42.08%,1.560,554.12890625
+islandalliances,Qwen3-14B,ACCEPTED,100,100.00%,0.210,14.1875

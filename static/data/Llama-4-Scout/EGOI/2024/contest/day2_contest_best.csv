@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+circlepassing,Llama-4-Scout,RUNTIME_ERROR,0,3.90%,0.020,0.00390625
+makethemmeet,Llama-4-Scout,RUNTIME_ERROR,0,10.00%,0.020,0
+lightbulbs,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0
+bikeparking,Llama-4-Scout,RUNTIME_ERROR,16,45.10%,0.020,0

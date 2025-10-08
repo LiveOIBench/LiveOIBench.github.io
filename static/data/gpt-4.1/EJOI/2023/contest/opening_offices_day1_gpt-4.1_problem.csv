@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+opening_offices_gpt-4.1_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+opening_offices_gpt-4.1_1.cpp,RUNTIME_ERROR,0,4.92%,0.950,66.26171875,0,0,0,0,0,0,0,0,0,0,0
+opening_offices_gpt-4.1_2.cpp,TIME_LIMIT_EXCEEDED,9,16.39%,1.170,247.05078125,0,0,0,0,9,0,0,0,0,0,0
+opening_offices_gpt-4.1_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+opening_offices_gpt-4.1_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+opening_offices_gpt-4.1_5.cpp,TIME_LIMIT_EXCEEDED,0,4.92%,1.200,346.171875,0,0,0,0,0,0,0,0,0,0,0
+opening_offices_gpt-4.1_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+opening_offices_gpt-4.1_7.cpp,MEMORY_LIMIT_EXCEEDED,0,4.92%,0.960,2215.4921875,0,0,0,0,0,0,0,0,0,0,0

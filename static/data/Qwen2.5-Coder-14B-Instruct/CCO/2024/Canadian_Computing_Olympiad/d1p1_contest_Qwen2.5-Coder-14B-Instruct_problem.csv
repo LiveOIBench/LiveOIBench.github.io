@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+d1p1_Qwen2.5-Coder-14B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.620,107.16015625,0,0,0,0
+d1p1_Qwen2.5-Coder-14B-Instruct_1.cpp,RUNTIME_ERROR,0,0.00%,2.460,339.2890625,0,0,0,0
+d1p1_Qwen2.5-Coder-14B-Instruct_2.cpp,RUNTIME_ERROR,0,0.00%,0.740,341.6640625,0,0,0,0
+d1p1_Qwen2.5-Coder-14B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,5,23.21%,4.430,99.5234375,5,0,0,0
+d1p1_Qwen2.5-Coder-14B-Instruct_4.cpp,MEMORY_LIMIT_EXCEEDED,0,3.57%,1.530,1094.01171875,0,0,0,0
+d1p1_Qwen2.5-Coder-14B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.530,251.63671875,0,0,0,0
+d1p1_Qwen2.5-Coder-14B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,5,23.21%,4.640,75.43359375,5,0,0,0
+d1p1_Qwen2.5-Coder-14B-Instruct_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.490,82.765625,0,0,0,0

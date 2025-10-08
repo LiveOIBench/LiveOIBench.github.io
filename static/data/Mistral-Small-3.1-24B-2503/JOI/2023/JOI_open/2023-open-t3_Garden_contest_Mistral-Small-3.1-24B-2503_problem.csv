@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+2023-open-t3_Garden_Mistral-Small-3.1-24B-2503_0.cpp,RUNTIME_ERROR,0,9.52%,0.160,5.16796875,0,0,0,0,0,0
+2023-open-t3_Garden_Mistral-Small-3.1-24B-2503_1.cpp,TIME_LIMIT_EXCEEDED,0,9.52%,2.210,5.1640625,0,0,0,0,0,0
+2023-open-t3_Garden_Mistral-Small-3.1-24B-2503_3.cpp,RUNTIME_ERROR,0,9.52%,0.420,26.01171875,0,0,0,0,0,0
+2023-open-t3_Garden_Mistral-Small-3.1-24B-2503_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+2023-open-t3_Garden_Mistral-Small-3.1-24B-2503_5.cpp,RUNTIME_ERROR,0,0.00%,0.270,5.16796875,0,0,0,0,0,0
+2023-open-t3_Garden_Mistral-Small-3.1-24B-2503_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+2023-open-t3_Garden_Mistral-Small-3.1-24B-2503_7.cpp,RUNTIME_ERROR,0,0.00%,0.180,9.28515625,0,0,0,0,0,0

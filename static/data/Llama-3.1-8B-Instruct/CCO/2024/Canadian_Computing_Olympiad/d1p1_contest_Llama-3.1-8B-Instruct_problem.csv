@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+d1p1_Llama-3.1-8B-Instruct_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.460,525.68359375,0,0,0,0
+d1p1_Llama-3.1-8B-Instruct_1.cpp,RUNTIME_ERROR,0,0.00%,0.160,51.05078125,0,0,0,0
+d1p1_Llama-3.1-8B-Instruct_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.460,504.88671875,0,0,0,0
+d1p1_Llama-3.1-8B-Instruct_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.460,87.921875,0,0,0,0
+d1p1_Llama-3.1-8B-Instruct_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
+d1p1_Llama-3.1-8B-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.450,1099.89453125,0,0,0,0
+d1p1_Llama-3.1-8B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.410,71.45703125,0,0,0,0
+d1p1_Llama-3.1-8B-Instruct_7.cpp,RUNTIME_ERROR,0,0.00%,0.660,99.5234375,0,0,0,0

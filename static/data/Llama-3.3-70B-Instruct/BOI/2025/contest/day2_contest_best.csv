@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+dev,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,1.66%,0.200,1.55859375
+exp,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,0,1.34%,1.110,2.53125
+gcd,Llama-3.3-70B-Instruct,RUNTIME_ERROR,0,3.28%,0.000,0

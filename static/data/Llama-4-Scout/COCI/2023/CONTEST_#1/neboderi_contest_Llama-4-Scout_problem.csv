@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+neboderi_Llama-4-Scout_0.cpp,TIME_LIMIT_EXCEEDED,33,38.89%,2.980,5.390625,11,22,0,0,0
+neboderi_Llama-4-Scout_1.cpp,TIME_LIMIT_EXCEEDED,33,38.89%,2.980,5.16796875,11,22,0,0,0
+neboderi_Llama-4-Scout_2.cpp,TIME_LIMIT_EXCEEDED,11,18.52%,2.990,5.16796875,11,0,0,0,0
+neboderi_Llama-4-Scout_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+neboderi_Llama-4-Scout_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+neboderi_Llama-4-Scout_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+neboderi_Llama-4-Scout_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+neboderi_Llama-4-Scout_7.cpp,TIME_LIMIT_EXCEEDED,38,38.89%,2.990,5.2265625,11,0,27,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+soccer,deepseek-chat,RUNTIME_ERROR,0,5.93%,0.000,0
+closing,deepseek-chat,RUNTIME_ERROR,8,6.72%,0.110,33.42578125
+longesttrip,deepseek-chat,RUNTIME_ERROR,15,29.52%,0.330,4.046875

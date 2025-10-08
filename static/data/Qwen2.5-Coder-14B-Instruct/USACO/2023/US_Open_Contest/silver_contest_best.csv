@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Milk_Sum,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,0.00%,0.000,0
+silver_Field_Day,Qwen2.5-Coder-14B-Instruct,TIME_LIMIT_EXCEEDED,70,25.00%,2.370,6.3984375
+silver_Pareidolia,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0

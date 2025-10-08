@@ -1,0 +1,7 @@
+problem,model,status,score,%test passed,time,memory
+aquarelle,Llama-4-Scout,RUNTIME_ERROR,0,11.24%,0.020,0
+parentheses,Llama-4-Scout,TIME_LIMIT_EXCEEDED,0,3.10%,0.360,1.82421875
+tolls,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0
+twins,Llama-4-Scout,RUNTIME_ERROR,0,0.00%,0.010,0
+walk,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0
+xy,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0

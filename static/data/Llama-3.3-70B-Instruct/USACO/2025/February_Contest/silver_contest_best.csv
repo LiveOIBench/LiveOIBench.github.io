@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_The_Best_Lineup,Llama-3.3-70B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Vocabulary_Quiz,Llama-3.3-70B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Transforming_Pairs,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,67,25.00%,2.420,306.28515625

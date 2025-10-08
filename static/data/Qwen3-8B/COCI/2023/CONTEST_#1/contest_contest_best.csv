@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+desniklik,Qwen3-8B,ACCEPTED,50,100.00%,0.000,0
+cokolade,Qwen3-8B,TIME_LIMIT_EXCEEDED,15,25.00%,1.220,2.07421875
+berilij,Qwen3-8B,RUNTIME_ERROR,0,2.27%,0.100,10.9921875
+iksevi,Qwen3-8B,COMPILATION_ERROR,0,0.00%,0.000,0
+neboderi,Qwen3-8B,ACCEPTED,110,100.00%,0.670,9.03125

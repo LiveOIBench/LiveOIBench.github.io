@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+fire,gpt-oss-120b-high,ACCEPTED,100,100.00%,0.140,48.82421875
+tiles,gpt-oss-120b-high,RUNTIME_ERROR,24,66.34%,0.160,20.59765625
+wall,gpt-oss-120b-high,ACCEPTED,100,100.00%,0.670,70.3203125

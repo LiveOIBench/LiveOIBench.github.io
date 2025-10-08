@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+autobus_gpt-o3-mini-high_0.cpp,WRONG_ANSWER,0,93.88%,0.030,0.00390625,0,0,0
+autobus_gpt-o3-mini-high_1.cpp,RUNTIME_ERROR,0,16.33%,0.000,0,0,0,0
+autobus_gpt-o3-mini-high_2.cpp,WRONG_ANSWER,0,93.88%,0.000,0,0,0,0
+autobus_gpt-o3-mini-high_3.cpp,ACCEPTED,50,100.00%,0.030,0,9,19,22
+autobus_gpt-o3-mini-high_4.cpp,RUNTIME_ERROR,0,16.33%,0.000,0,0,0,0
+autobus_gpt-o3-mini-high_5.cpp,RUNTIME_ERROR,0,16.33%,0.000,0,0,0,0
+autobus_gpt-o3-mini-high_6.cpp,RUNTIME_ERROR,0,16.33%,0.000,0,0,0,0
+autobus_gpt-o3-mini-high_7.cpp,ACCEPTED,50,100.00%,0.000,0,9,19,22

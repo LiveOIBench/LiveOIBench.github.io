@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Table_Recovery_gemini-2.5-flash_0.cpp,RUNTIME_ERROR,0,6.67%,0.200,9.28515625,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_gemini-2.5-flash_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_gemini-2.5-flash_2.cpp,TIME_LIMIT_EXCEEDED,0,6.67%,2.250,9.60546875,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_gemini-2.5-flash_3.cpp,WRONG_ANSWER,0,13.33%,0.220,20.1171875,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_gemini-2.5-flash_4.cpp,RUNTIME_ERROR,0,0.00%,0.200,9.28515625,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_gemini-2.5-flash_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_Table_Recovery_gemini-2.5-flash_7.cpp,RUNTIME_ERROR,0,6.67%,0.550,9.6875,0,0,0,0,0,0,0,0,0,0,0,0,0

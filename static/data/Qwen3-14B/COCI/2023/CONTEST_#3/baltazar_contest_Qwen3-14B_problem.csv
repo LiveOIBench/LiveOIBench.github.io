@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+baltazar_Qwen3-14B_0.cpp,TIME_LIMIT_EXCEEDED,15,62.50%,4.810,49.640625,15,0,0
+baltazar_Qwen3-14B_1.cpp,TIME_LIMIT_EXCEEDED,15,62.50%,4.810,32.9375,15,0,0
+baltazar_Qwen3-14B_2.cpp,TIME_LIMIT_EXCEEDED,15,62.50%,4.810,31.9453125,15,0,0
+baltazar_Qwen3-14B_3.cpp,TIME_LIMIT_EXCEEDED,15,62.50%,4.810,32.94921875,15,0,0
+baltazar_Qwen3-14B_4.cpp,RUNTIME_ERROR,0,0.00%,0.040,15.2109375,0,0,0
+baltazar_Qwen3-14B_5.cpp,RUNTIME_ERROR,0,0.00%,0.050,1.55078125,0,0,0
+baltazar_Qwen3-14B_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0
+baltazar_Qwen3-14B_7.cpp,RUNTIME_ERROR,0,0.00%,2.120,24.63671875,0,0,0

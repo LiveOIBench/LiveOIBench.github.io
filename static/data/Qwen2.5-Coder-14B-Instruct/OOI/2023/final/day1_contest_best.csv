@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+More_Gifts,Qwen2.5-Coder-14B-Instruct,TIME_LIMIT_EXCEEDED,30,63.83%,1.110,0.00390625
+Big_Persimmon,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,12,17.74%,0.080,1.484375
+Evidence_Board,Qwen2.5-Coder-14B-Instruct,UNKNOWN,0,0.00%,0.000,0
+Draw_Polygon_Lines,Qwen2.5-Coder-14B-Instruct,TIME_LIMIT_EXCEEDED,36,55.60%,2.210,2.96484375

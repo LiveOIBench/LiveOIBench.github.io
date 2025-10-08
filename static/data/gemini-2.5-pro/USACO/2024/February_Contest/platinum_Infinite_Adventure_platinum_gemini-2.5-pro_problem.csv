@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Infinite_Adventure_gemini-2.5-pro_0.cpp,MEMORY_LIMIT_EXCEEDED,42,22.22%,0.960,562.2421875,0,0,0,0,0,0,0,0,0,20.833333333333332,20.833333333333332,0,0,0,0,0,0
+platinum_Infinite_Adventure_gemini-2.5-pro_1.cpp,MEMORY_LIMIT_EXCEEDED,42,22.22%,0.300,562.296875,0,0,0,0,0,0,0,0,0,20.833333333333332,20.833333333333332,0,0,0,0,0,0
+platinum_Infinite_Adventure_gemini-2.5-pro_2.cpp,TIME_LIMIT_EXCEEDED,83,33.33%,2.270,539.62109375,0,0,0,0,0,0,0,0,0,20.833333333333332,20.833333333333332,0,0,0,20.833333333333332,20.833333333333332,0
+platinum_Infinite_Adventure_gemini-2.5-pro_3.cpp,MEMORY_LIMIT_EXCEEDED,42,22.22%,0.330,562.35546875,0,0,0,0,0,0,0,0,0,20.833333333333332,20.833333333333332,0,0,0,0,0,0
+platinum_Infinite_Adventure_gemini-2.5-pro_4.cpp,MEMORY_LIMIT_EXCEEDED,42,22.22%,0.990,562.50390625,0,0,0,0,0,0,0,0,0,20.833333333333332,20.833333333333332,0,0,0,0,0,0
+platinum_Infinite_Adventure_gemini-2.5-pro_5.cpp,MEMORY_LIMIT_EXCEEDED,42,22.22%,0.780,562.328125,0,0,0,0,0,0,0,0,0,20.833333333333332,20.833333333333332,0,0,0,0,0,0
+platinum_Infinite_Adventure_gemini-2.5-pro_6.cpp,RUNTIME_ERROR,0,0.00%,0.120,2.84375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Infinite_Adventure_gemini-2.5-pro_7.cpp,MEMORY_LIMIT_EXCEEDED,42,22.22%,0.340,434.6796875,0,0,0,0,0,0,0,0,0,20.833333333333332,20.833333333333332,0,0,0,0,0,0

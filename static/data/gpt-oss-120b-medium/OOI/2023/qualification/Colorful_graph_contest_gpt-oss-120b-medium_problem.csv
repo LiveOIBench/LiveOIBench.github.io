@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+Colorful_graph_gpt-oss-120b-medium_0.cpp,ACCEPTED,100,100.00%,100.00%,0.070,3.359375,0.0,10.0,9.0,15.0,16.0,14.0,13.0,12.0,11.0
+Colorful_graph_gpt-oss-120b-medium_1.cpp,ACCEPTED,100,100.00%,100.00%,0.070,3.36328125,0.0,10.0,9.0,15.0,16.0,14.0,13.0,12.0,11.0
+Colorful_graph_gpt-oss-120b-medium_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,14.38%,1.800,33.08203125,0.0,0,0,0,0,0,0,0,0
+Colorful_graph_gpt-oss-120b-medium_3.cpp,ACCEPTED,100,100.00%,100.00%,0.080,3.359375,0.0,10.0,9.0,15.0,16.0,14.0,13.0,12.0,11.0
+Colorful_graph_gpt-oss-120b-medium_4.cpp,TIME_LIMIT_EXCEEDED,64,64.00%,91.00%,1.830,107.3359375,0.0,10.0,9.0,15.0,16.0,14.0,0,0,0
+Colorful_graph_gpt-oss-120b-medium_5.cpp,TIME_LIMIT_EXCEEDED,64,64.00%,91.00%,1.800,109.93359375,0.0,10.0,9.0,15.0,16.0,14.0,0,0,0
+Colorful_graph_gpt-oss-120b-medium_6.cpp,ACCEPTED,100,100.00%,100.00%,0.070,3.359375,0.0,10.0,9.0,15.0,16.0,14.0,13.0,12.0,11.0
+Colorful_graph_gpt-oss-120b-medium_7.cpp,ACCEPTED,100,100.00%,100.00%,0.070,3.359375,0.0,10.0,9.0,15.0,16.0,14.0,13.0,12.0,11.0

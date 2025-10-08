@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+2024-sp_Board_Game_gpt-o3-mini-high_0.cpp,RUNTIME_ERROR,17,36.04%,0.090,7.875,3,7,7,0,0,0,0,0
+2024-sp_Board_Game_gpt-o3-mini-high_1.cpp,RUNTIME_ERROR,10,27.72%,0.080,7.48046875,3,7,0,0,0,0,0,0
+2024-sp_Board_Game_gpt-o3-mini-high_2.cpp,RUNTIME_ERROR,17,36.04%,0.060,7.87890625,3,7,7,0,0,0,0,0
+2024-sp_Board_Game_gpt-o3-mini-high_3.cpp,RUNTIME_ERROR,17,36.04%,0.080,7.36328125,3,7,7,0,0,0,0,0
+2024-sp_Board_Game_gpt-o3-mini-high_4.cpp,RUNTIME_ERROR,3,8.07%,0.070,5.93359375,3,0,0,0,0,0,0,0
+2024-sp_Board_Game_gpt-o3-mini-high_5.cpp,RUNTIME_ERROR,3,8.07%,0.070,6.44921875,3,0,0,0,0,0,0,0
+2024-sp_Board_Game_gpt-o3-mini-high_6.cpp,RUNTIME_ERROR,3,8.07%,0.060,5.03515625,3,0,0,0,0,0,0,0
+2024-sp_Board_Game_gpt-o3-mini-high_7.cpp,RUNTIME_ERROR,3,8.07%,0.050,7.22265625,3,0,0,0,0,0,0,0

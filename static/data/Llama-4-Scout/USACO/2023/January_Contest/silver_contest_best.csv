@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Find_and_Replace,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0
+silver_Following_Directions,Llama-4-Scout,TIME_LIMIT_EXCEEDED,143,46.67%,9.620,9.28515625
+silver_Moo_Route,Llama-4-Scout,RUNTIME_ERROR,19,5.00%,0.020,2.4375

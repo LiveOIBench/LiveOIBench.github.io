@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+neboderi_gpt-oss-20b-medium_0.cpp,RUNTIME_ERROR,0,12.96%,0.320,43.4296875,0,0,0,0,0
+neboderi_gpt-oss-20b-medium_1.cpp,ACCEPTED,110,100.00%,0.180,12.90234375,11,22,27,18,32
+neboderi_gpt-oss-20b-medium_2.cpp,ACCEPTED,110,100.00%,0.170,12.90234375,11,22,27,18,32
+neboderi_gpt-oss-20b-medium_3.cpp,ACCEPTED,110,100.00%,0.170,5.16796875,11,22,27,18,32
+neboderi_gpt-oss-20b-medium_4.cpp,ACCEPTED,110,100.00%,1.540,132.01171875,11,22,27,18,32
+neboderi_gpt-oss-20b-medium_5.cpp,ACCEPTED,110,100.00%,0.200,12.90234375,11,22,27,18,32
+neboderi_gpt-oss-20b-medium_6.cpp,ACCEPTED,110,100.00%,0.180,12.90234375,11,22,27,18,32
+neboderi_gpt-oss-20b-medium_7.cpp,RUNTIME_ERROR,0,0.00%,0.350,34.04296875,0,0,0,0,0

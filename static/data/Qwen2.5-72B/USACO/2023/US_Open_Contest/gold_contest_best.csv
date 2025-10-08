@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Custodial_Cleanup,Qwen2.5-72B,RUNTIME_ERROR,0,0.00%,0.110,0.00390625
+gold_Pareidolia,Qwen2.5-72B,RUNTIME_ERROR,0,5.88%,0.130,16.1640625
+gold_Tree_Merging,Qwen2.5-72B,COMPILATION_ERROR,0,0.00%,0.000,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+hieroglyphs_gemini-2.5-flash_0.cpp,TIME_LIMIT_EXCEEDED,0,5.22%,1.130,114.31640625,0,0,0,0,0,0,0
+hieroglyphs_gemini-2.5-flash_1.cpp,MEMORY_LIMIT_EXCEEDED,0,2.23%,1.110,2252.33984375,0,0,0,0,0,0,0
+hieroglyphs_gemini-2.5-flash_2.cpp,TIME_LIMIT_EXCEEDED,0,3.52%,1.110,15.5546875,0,0,0,0,0,0,0
+hieroglyphs_gemini-2.5-flash_3.cpp,TIME_LIMIT_EXCEEDED,0,7.69%,1.120,184.79296875,0,0,0,0,0,0,0
+hieroglyphs_gemini-2.5-flash_4.cpp,TIME_LIMIT_EXCEEDED,0,1.78%,1.110,576.7734375,0,0,0,0,0,0,0
+hieroglyphs_gemini-2.5-flash_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+hieroglyphs_gemini-2.5-flash_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.120,542.0,0,0,0,0,0,0,0
+hieroglyphs_gemini-2.5-flash_7.cpp,RUNTIME_ERROR,3,8.73%,0.050,19.609375,0,3,0,0,0,0,0

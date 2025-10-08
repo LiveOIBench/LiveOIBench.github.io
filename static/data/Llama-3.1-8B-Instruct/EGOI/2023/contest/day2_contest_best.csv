@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+candy,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,16.19%,0.000,0
+sopsug,Llama-3.1-8B-Instruct,UNKNOWN,0,0.00%,0.000,0
+guessinggame,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+carnival,Llama-3.1-8B-Instruct,RUNTIME_ERROR,11,30.23%,0.080,2.58984375

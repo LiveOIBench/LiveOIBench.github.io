@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+soccer,seed-oss_16384,RUNTIME_ERROR,6,11.50%,0.190,46.6796875
+closing,seed-oss_16384,RUNTIME_ERROR,8,2.31%,0.080,25.0390625
+longesttrip,seed-oss_16384,RUNTIME_ERROR,15,22.29%,0.130,4.06640625

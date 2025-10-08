@@ -1,0 +1,10 @@
+problem,model,status,score,%test passed,time,memory
+Colorful_Diameter,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,18,53.49%,7.710,5.1640625
+Road_Lighting,Mistral-Large-Instruct-2411,UNKNOWN,0,0.00%,0.000,0
+Repainting_the_Table,Mistral-Large-Instruct-2411,RUNTIME_ERROR,0,5.21%,0.000,0
+Distinctive_Features,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,17,35.65%,3.330,38.22265625
+Classic_Tree_Problem,Mistral-Large-Instruct-2411,UNKNOWN,0,0.00%,0.000,0
+Alien_Homophones,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,8,69.79%,2.320,74.3125
+Stone_Enthusiast,Mistral-Large-Instruct-2411,RUNTIME_ERROR,0,1.71%,0.260,2.54296875
+Egors_Gaming_Addiction,Mistral-Large-Instruct-2411,RUNTIME_ERROR,0,0.88%,0.350,3.6171875
+Ultrafast_train,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,17,62.79%,1.120,8.0

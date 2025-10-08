@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+zlagalica,gpt-o3-mini-high,ACCEPTED,50,100.00%,0.000,0
+bitovi,gpt-o3-mini-high,RUNTIME_ERROR,0,0.00%,0.030,2.4921875
+piratski,gpt-o3-mini-high,ACCEPTED,110,100.00%,0.040,1.8125
+rolete,gpt-o3-mini-high,RUNTIME_ERROR,26,22.45%,0.070,3.6171875
+trokut,gpt-o3-mini-high,RUNTIME_ERROR,0,0.00%,0.030,0.00390625

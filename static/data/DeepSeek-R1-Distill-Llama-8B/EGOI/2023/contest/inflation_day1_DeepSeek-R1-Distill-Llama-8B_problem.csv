@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+inflation_DeepSeek-R1-Distill-Llama-8B_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+inflation_DeepSeek-R1-Distill-Llama-8B_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+inflation_DeepSeek-R1-Distill-Llama-8B_2.cpp,RUNTIME_ERROR,0,0.00%,0.300,17.140625,0,0,0,0,0,0
+inflation_DeepSeek-R1-Distill-Llama-8B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+inflation_DeepSeek-R1-Distill-Llama-8B_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+inflation_DeepSeek-R1-Distill-Llama-8B_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
+inflation_DeepSeek-R1-Distill-Llama-8B_6.cpp,RUNTIME_ERROR,0,0.00%,0.920,2.5859375,0,0,0,0,0,0
+inflation_DeepSeek-R1-Distill-Llama-8B_7.cpp,RUNTIME_ERROR,0,0.00%,0.360,14.41015625,0,0,0,0,0,0

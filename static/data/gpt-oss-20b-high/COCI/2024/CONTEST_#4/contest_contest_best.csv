@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+bingo,gpt-oss-20b-high,ACCEPTED,50,100.00%,0.000,0
+knjige,gpt-oss-20b-high,ACCEPTED,70,100.00%,0.030,4.39453125
+lepeze,gpt-oss-20b-high,RUNTIME_ERROR,0,3.85%,0.000,0
+putovanje,gpt-oss-20b-high,ACCEPTED,110,100.00%,1.170,305.56640625
+roboti,gpt-oss-20b-high,TIME_LIMIT_EXCEEDED,23,54.55%,2.430,18.30859375

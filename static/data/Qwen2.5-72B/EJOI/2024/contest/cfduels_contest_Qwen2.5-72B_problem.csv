@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+cfduels_Qwen2.5-72B_0.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+cfduels_Qwen2.5-72B_1.cpp,RUNTIME_ERROR,0,30.12%,0.090,1.8125,0,0,0,0,0,0,0
+cfduels_Qwen2.5-72B_2.cpp,RUNTIME_ERROR,0,19.75%,0.610,3.1015625,0,0,0,0,0,0,0
+cfduels_Qwen2.5-72B_3.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+cfduels_Qwen2.5-72B_4.cpp,TIME_LIMIT_EXCEEDED,12,37.35%,2.470,2.07421875,0,12,0,0,0,0,0
+cfduels_Qwen2.5-72B_5.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+cfduels_Qwen2.5-72B_6.cpp,RUNTIME_ERROR,0,30.12%,0.100,1.8125,0,0,0,0,0,0,0
+cfduels_Qwen2.5-72B_7.cpp,RUNTIME_ERROR,0,0.00%,0.090,1.50390625,0,0,0,0,0,0,0

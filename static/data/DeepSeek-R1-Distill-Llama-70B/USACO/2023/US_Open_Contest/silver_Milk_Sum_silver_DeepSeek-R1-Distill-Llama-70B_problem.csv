@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Milk_Sum_DeepSeek-R1-Distill-Llama-70B_0.cpp,WRONG_ANSWER,100,36.36%,0.300,5.25,0,33.33333333333333,0,0,0,33.33333333333333,33.33333333333333,0,0,0,0
+silver_Milk_Sum_DeepSeek-R1-Distill-Llama-70B_1.cpp,WRONG_ANSWER,0,0.00%,0.370,8.97265625,0,0,0,0,0,0,0,0,0,0,0
+silver_Milk_Sum_DeepSeek-R1-Distill-Llama-70B_2.cpp,WRONG_ANSWER,0,0.00%,0.370,4.1328125,0,0,0,0,0,0,0,0,0,0,0
+silver_Milk_Sum_DeepSeek-R1-Distill-Llama-70B_3.cpp,WRONG_ANSWER,0,0.00%,0.180,3.62109375,0,0,0,0,0,0,0,0,0,0,0
+silver_Milk_Sum_DeepSeek-R1-Distill-Llama-70B_4.cpp,WRONG_ANSWER,100,36.36%,0.360,5.73828125,0,33.33333333333333,0,0,0,33.33333333333333,33.33333333333333,0,0,0,0
+silver_Milk_Sum_DeepSeek-R1-Distill-Llama-70B_5.cpp,WRONG_ANSWER,0,0.00%,0.350,6.65234375,0,0,0,0,0,0,0,0,0,0,0
+silver_Milk_Sum_DeepSeek-R1-Distill-Llama-70B_6.cpp,WRONG_ANSWER,0,0.00%,0.170,3.62109375,0,0,0,0,0,0,0,0,0,0,0
+silver_Milk_Sum_DeepSeek-R1-Distill-Llama-70B_7.cpp,RUNTIME_ERROR,0,0.00%,0.160,8.76953125,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+cyberland_deepseek-reasoner_0.cpp,RUNTIME_ERROR,15,19.51%,1.740,21.91796875,0,0,8,0,0,7,0,0,0
+cyberland_deepseek-reasoner_1.cpp,TIME_LIMIT_EXCEEDED,97,76.83%,2.980,69.75,0,5,8,13,19,7,16,29,0
+cyberland_deepseek-reasoner_2.cpp,TIME_LIMIT_EXCEEDED,97,76.83%,2.970,39.828125,0,5,8,13,19,7,16,29,0
+cyberland_deepseek-reasoner_3.cpp,TIME_LIMIT_EXCEEDED,33,34.15%,2.990,135.53125,0,5,8,13,0,7,0,0,0
+cyberland_deepseek-reasoner_4.cpp,RUNTIME_ERROR,15,20.73%,0.550,21.91796875,0,0,8,0,0,7,0,0,0
+cyberland_deepseek-reasoner_5.cpp,RUNTIME_ERROR,15,20.73%,0.580,21.91796875,0,0,8,0,0,7,0,0,0
+cyberland_deepseek-reasoner_6.cpp,RUNTIME_ERROR,97,82.93%,1.590,59.30078125,0,5,8,13,19,7,16,29,0
+cyberland_deepseek-reasoner_7.cpp,RUNTIME_ERROR,97,82.93%,1.590,59.30078125,0,5,8,13,19,7,16,29,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+sweets_Qwen2.5-Coder-32B-Instruct_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+sweets_Qwen2.5-Coder-32B-Instruct_1.cpp,RUNTIME_ERROR,0,0.00%,0.350,77.60546875,0,0,0,0,0,0,0,0
+sweets_Qwen2.5-Coder-32B-Instruct_2.cpp,RUNTIME_ERROR,0,0.00%,0.300,77.671875,0,0,0,0,0,0,0,0
+sweets_Qwen2.5-Coder-32B-Instruct_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+sweets_Qwen2.5-Coder-32B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.320,107.078125,0,0,0,0,0,0,0,0
+sweets_Qwen2.5-Coder-32B-Instruct_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.970,98.74609375,0,0,0,0,0,0,0,0
+sweets_Qwen2.5-Coder-32B-Instruct_6.cpp,RUNTIME_ERROR,0,0.00%,0.390,84.05078125,0,0,0,0,0,0,0,0
+sweets_Qwen2.5-Coder-32B-Instruct_7.cpp,RUNTIME_ERROR,0,0.00%,0.880,114.21484375,0,0,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+trains_gpt-4.1_0.cpp,TIME_LIMIT_EXCEEDED,21,75.82%,1.110,3.62109375,8,13,0,0,0
+trains_gpt-4.1_1.cpp,TIME_LIMIT_EXCEEDED,37,85.11%,1.140,2.84375,8,13,16,0,0
+trains_gpt-4.1_2.cpp,TIME_LIMIT_EXCEEDED,21,78.26%,1.120,3.62109375,8,13,0,0,0
+trains_gpt-4.1_3.cpp,TIME_LIMIT_EXCEEDED,21,75.82%,1.130,3.62109375,8,13,0,0,0
+trains_gpt-4.1_4.cpp,TIME_LIMIT_EXCEEDED,21,76.92%,1.130,2.84765625,8,13,0,0,0
+trains_gpt-4.1_5.cpp,TIME_LIMIT_EXCEEDED,21,78.26%,1.110,5.16015625,8,13,0,0,0
+trains_gpt-4.1_6.cpp,RUNTIME_ERROR,0,37.66%,1.120,2.33203125,0,0,0,0,0
+trains_gpt-4.1_7.cpp,TIME_LIMIT_EXCEEDED,21,78.26%,1.120,3.36328125,8,13,0,0,0

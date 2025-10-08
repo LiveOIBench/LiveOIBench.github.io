@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+gold_Bessies_Function,seed-oss_512,RUNTIME_ERROR,18,4.76%,0.070,4.43359375
+gold_The_Best_Subsequence,seed-oss_512,TIME_LIMIT_EXCEEDED,59,30.00%,2.410,3.62109375
+gold_Friendship_Editing,seed-oss_512,RUNTIME_ERROR,22,5.56%,0.070,1.55859375

@@ -1,0 +1,5 @@
+problem,status,score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+sequence,RUNTIME_ERROR,12,30.53%,0.270,41.76953125,,0,0,0,0,12,0,0,0,0
+abc,RUNTIME_ERROR,4,16.00%,0.130,12.15234375,,4,0,0,0,0,0,0,0,0
+cyberland,RUNTIME_ERROR,15,20.73%,0.360,21.26171875,,0,0,8,0,0,7,0,0,0
+TOTAL,,31,22.42%,,,0.00%,,,,,,,,,

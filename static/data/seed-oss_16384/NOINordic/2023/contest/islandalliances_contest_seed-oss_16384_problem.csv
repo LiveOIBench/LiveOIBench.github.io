@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+islandalliances_seed-oss_0.cpp,ACCEPTED,100,100.00%,0.360,32.75,15,17,20,23,25
+islandalliances_seed-oss_1.cpp,ACCEPTED,100,100.00%,0.370,32.75,15,17,20,23,25
+islandalliances_seed-oss_2.cpp,RUNTIME_ERROR,23,19.35%,0.620,61.109375,0,0,0,23,0
+islandalliances_seed-oss_3.cpp,RUNTIME_ERROR,0,12.90%,0.780,9.02734375,0,0,0,0,0
+islandalliances_seed-oss_4.cpp,ACCEPTED,100,100.00%,0.130,11.8671875,15,17,20,23,25
+islandalliances_seed-oss_5.cpp,ACCEPTED,100,100.00%,0.400,33.0078125,15,17,20,23,25
+islandalliances_seed-oss_6.cpp,ACCEPTED,100,100.00%,0.260,21.6640625,15,17,20,23,25
+islandalliances_seed-oss_7.cpp,ACCEPTED,100,100.00%,0.260,32.74609375,15,17,20,23,25

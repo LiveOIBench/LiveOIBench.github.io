@@ -1,0 +1,6 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+editor_gpt-oss-20b-low_0.cpp,RUNTIME_ERROR,0,12.90%,0.130,154.18359375,0,0,0,0,0,0
+editor_gpt-oss-20b-low_1.cpp,RUNTIME_ERROR,0,3.23%,0.240,34.87890625,0,0,0,0,0,0
+editor_gpt-oss-20b-low_2.cpp,RUNTIME_ERROR,0,3.23%,0.050,8.00390625,0,0,0,0,0,0
+editor_gpt-oss-20b-low_3.cpp,RUNTIME_ERROR,0,9.68%,0.050,20.89453125,0,0,0,0,0,0
+editor_gpt-oss-20b-low_5.cpp,RUNTIME_ERROR,0,8.06%,0.250,140.56640625,0,0,0,0,0,0

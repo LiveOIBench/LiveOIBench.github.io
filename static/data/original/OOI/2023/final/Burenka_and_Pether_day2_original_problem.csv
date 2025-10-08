@@ -1,0 +1,4 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+mangooste_ok.cpp,ACCEPTED,100,100.00%,1.190,227.703125,0.0,10.0,4.0,4.0,5.0,7.0,14.0,10.0,9.0,7.0,7.0,13.0,10.0
+ormlis_nlog2.cpp,ACCEPTED,100,100.00%,1.940,151.9140625,0.0,10.0,4.0,4.0,5.0,7.0,14.0,10.0,9.0,7.0,7.0,13.0,10.0
+ormlis_nlog2_opt.cpp,ACCEPTED,100,100.00%,1.310,96.36328125,0.0,10.0,4.0,4.0,5.0,7.0,14.0,10.0,9.0,7.0,7.0,13.0,10.0

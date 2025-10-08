@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Identity_Theft,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0
+platinum_Splitting_Haybales,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,17,13.64%,2.340,13.29296875
+platinum_Activating_Robots,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0

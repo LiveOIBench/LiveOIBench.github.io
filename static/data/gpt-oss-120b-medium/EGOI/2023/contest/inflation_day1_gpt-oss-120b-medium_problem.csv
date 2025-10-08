@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+inflation_gpt-oss-120b-medium_0.cpp,ACCEPTED,100,100.00%,100.00%,0.140,16.25,0,14,28,19,23,16
+inflation_gpt-oss-120b-medium_1.cpp,ACCEPTED,100,100.00%,100.00%,0.130,13.9296875,0,14,28,19,23,16
+inflation_gpt-oss-120b-medium_2.cpp,ACCEPTED,100,100.00%,100.00%,0.130,13.9296875,0,14,28,19,23,16
+inflation_gpt-oss-120b-medium_3.cpp,ACCEPTED,100,100.00%,100.00%,0.140,20.109375,0,14,28,19,23,16
+inflation_gpt-oss-120b-medium_4.cpp,ACCEPTED,100,100.00%,100.00%,0.140,20.109375,0,14,28,19,23,16
+inflation_gpt-oss-120b-medium_5.cpp,ACCEPTED,100,100.00%,100.00%,0.120,20.109375,0,14,28,19,23,16
+inflation_gpt-oss-120b-medium_6.cpp,ACCEPTED,100,100.00%,100.00%,0.120,18.0546875,0,14,28,19,23,16
+inflation_gpt-oss-120b-medium_7.cpp,ACCEPTED,100,100.00%,100.00%,0.120,16.25,0,14,28,19,23,16

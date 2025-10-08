@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Photo_Op_Qwen3-30B_0.cpp,RUNTIME_ERROR,0,0.00%,0.330,17.921875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Photo_Op_Qwen3-30B_1.cpp,RUNTIME_ERROR,0,0.00%,0.560,9.2890625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Photo_Op_Qwen3-30B_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.280,12.5078125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Photo_Op_Qwen3-30B_3.cpp,RUNTIME_ERROR,0,0.00%,0.440,23.98828125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Photo_Op_Qwen3-30B_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.310,4.65234375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Photo_Op_Qwen3-30B_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.350,8.37890625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Photo_Op_Qwen3-30B_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Photo_Op_Qwen3-30B_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.270,8.38671875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

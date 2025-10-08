@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+wow,DeepSeek-R1-Distill-Llama-8B,RUNTIME_ERROR,0,5.56%,0.070,0
+zid,DeepSeek-R1-Distill-Llama-8B,COMPILATION_ERROR,0,0.00%,0.000,0
+tornjevi,DeepSeek-R1-Distill-Llama-8B,COMPILATION_ERROR,0,0.00%,0.000,0
+crtez,DeepSeek-R1-Distill-Llama-8B,COMPILATION_ERROR,0,0.00%,0.000,0
+stablo,DeepSeek-R1-Distill-Llama-8B,COMPILATION_ERROR,0,0.00%,0.000,0

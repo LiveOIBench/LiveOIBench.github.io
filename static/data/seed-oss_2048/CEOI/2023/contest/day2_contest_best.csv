@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+trade,seed-oss_2048,COMPILATION_ERROR,0,0.00%,0.000,0
+incursion,seed-oss_2048,COMPILATION_ERROR,0,0.00%,0.000,0
+avoid,seed-oss_2048,COMPILATION_ERROR,0,0.00%,0.000,0

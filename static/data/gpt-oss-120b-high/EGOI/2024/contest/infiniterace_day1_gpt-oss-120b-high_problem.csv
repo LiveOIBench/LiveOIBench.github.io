@@ -1,0 +1,6 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+infiniterace_gpt-oss-120b-high_1.cpp,ACCEPTED,100,100.00%,0.040,3.10546875,0,29,34,22,15
+infiniterace_gpt-oss-120b-high_3.cpp,RUNTIME_ERROR,0,8.22%,0.000,0,0,0,0,0,0
+infiniterace_gpt-oss-120b-high_4.cpp,RUNTIME_ERROR,0,8.22%,0.000,0,0,0,0,0,0
+infiniterace_gpt-oss-120b-high_6.cpp,RUNTIME_ERROR,0,10.96%,0.030,0,0,0,0,0,0
+infiniterace_gpt-oss-120b-high_7.cpp,ACCEPTED,100,100.00%,0.050,2.015625,0,29,34,22,15

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+stations_gemini-2.5-pro_0.cpp,RUNTIME_ERROR,0,4.55%,0.110,12.328125,0,0,0,0,0,0,0
+stations_gemini-2.5-pro_1.cpp,TIME_LIMIT_EXCEEDED,0,4.55%,3.860,9.51953125,0,0,0,0,0,0,0
+stations_gemini-2.5-pro_2.cpp,RUNTIME_ERROR,0,4.55%,0.100,29.9609375,0,0,0,0,0,0,0
+stations_gemini-2.5-pro_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+stations_gemini-2.5-pro_4.cpp,TIME_LIMIT_EXCEEDED,18,52.54%,3.860,11.66796875,0,18,0,0,0,0,0
+stations_gemini-2.5-pro_5.cpp,RUNTIME_ERROR,0,4.55%,0.130,24.7578125,0,0,0,0,0,0,0
+stations_gemini-2.5-pro_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
+stations_gemini-2.5-pro_7.cpp,RUNTIME_ERROR,0,4.55%,0.190,13.09765625,0,0,0,0,0,0,0

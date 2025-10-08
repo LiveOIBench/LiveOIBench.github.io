@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+opening_offices_Qwen3-30B_0.cpp,TIME_LIMIT_EXCEEDED,0,3.28%,1.220,2188.83203125,0,0,0,0,0,0,0,0,0,0,0
+opening_offices_Qwen3-30B_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.290,2184.94921875,0,0,0,0,0,0,0,0,0,0,0
+opening_offices_Qwen3-30B_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+opening_offices_Qwen3-30B_3.cpp,TIME_LIMIT_EXCEEDED,9,9.84%,1.310,2194.171875,0,0,0,0,9,0,0,0,0,0,0
+opening_offices_Qwen3-30B_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.320,60.3515625,0,0,0,0,0,0,0,0,0,0,0
+opening_offices_Qwen3-30B_5.cpp,TIME_LIMIT_EXCEEDED,9,9.84%,1.120,60.35546875,0,0,0,0,9,0,0,0,0,0,0
+opening_offices_Qwen3-30B_6.cpp,TIME_LIMIT_EXCEEDED,9,9.84%,1.210,2199.3984375,0,0,0,0,9,0,0,0,0,0,0
+opening_offices_Qwen3-30B_7.cpp,TIME_LIMIT_EXCEEDED,18,21.31%,1.290,2201.4609375,0,0,0,0,9,0,9,0,0,0,0

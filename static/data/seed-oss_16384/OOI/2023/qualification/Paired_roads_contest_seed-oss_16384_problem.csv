@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+Paired_roads_seed-oss_0.cpp,RUNTIME_ERROR,0,0.00%,3.120,26.5390625,0,0,0,0,0,0,0,0
+Paired_roads_seed-oss_1.cpp,RUNTIME_ERROR,0,5.04%,0.090,45.59375,0,0,0,0,0,0,0,0
+Paired_roads_seed-oss_2.cpp,RUNTIME_ERROR,0,5.04%,0.070,18.3984375,0,0,0,0,0,0,0,0
+Paired_roads_seed-oss_3.cpp,RUNTIME_ERROR,0,7.44%,2.820,45.51171875,0,0,0,0,0,0,0,0
+Paired_roads_seed-oss_4.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+Paired_roads_seed-oss_5.cpp,RUNTIME_ERROR,0,12.60%,0.080,25.98046875,0.0,0,0,0,0,0,0,0
+Paired_roads_seed-oss_6.cpp,RUNTIME_ERROR,0,0.00%,0.100,54.9453125,0,0,0,0,0,0,0,0
+Paired_roads_seed-oss_7.cpp,RUNTIME_ERROR,0,7.44%,0.080,23.73046875,0,0,0,0,0,0,0,0

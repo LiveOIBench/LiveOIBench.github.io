@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+jobs,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+portal,Llama-3.1-8B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+trains,Llama-3.1-8B-Instruct,RUNTIME_ERROR,0,6.25%,0.020,0.00390625

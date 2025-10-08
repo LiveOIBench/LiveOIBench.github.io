@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+bikesvscars,gpt-o3-mini-high,RUNTIME_ERROR,34,56.36%,0.050,4.72265625
+ppp,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,36,45.21%,3.310,12.125
+findthebox,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,0,0.00%,0.030,1.45703125
+inflation,gpt-o3-mini-high,ACCEPTED,100,100.00%,0.120,15.73046875

@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+game_seed-oss_0.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0
+game_seed-oss_1.cpp,TIME_LIMIT_EXCEEDED,8,13.51%,1.800,6.71484375,8,0,0,0,0
+game_seed-oss_2.cpp,RUNTIME_ERROR,0,0.00%,0.100,12.32421875,0,0,0,0,0
+game_seed-oss_3.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0
+game_seed-oss_4.cpp,RUNTIME_ERROR,0,0.00%,0.080,4.40625,0,0,0,0,0
+game_seed-oss_5.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0
+game_seed-oss_6.cpp,RUNTIME_ERROR,0,0.00%,0.240,8.26953125,0,0,0,0,0
+game_seed-oss_7.cpp,RUNTIME_ERROR,0,10.81%,0.080,3.62890625,0,0,0,0,0

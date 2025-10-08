@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+baltazar_seed-oss_0.cpp,RUNTIME_ERROR,0,0.00%,0.630,22.296875,0,0,0
+baltazar_seed-oss_1.cpp,RUNTIME_ERROR,0,0.00%,0.020,0.00390625,0,0,0
+baltazar_seed-oss_2.cpp,RUNTIME_ERROR,0,0.00%,0.090,1.69921875,0,0,0
+baltazar_seed-oss_3.cpp,RUNTIME_ERROR,0,0.00%,0.110,1.6953125,0,0,0
+baltazar_seed-oss_4.cpp,TIME_LIMIT_EXCEEDED,15,62.50%,4.810,46.71484375,15,0,0
+baltazar_seed-oss_5.cpp,RUNTIME_ERROR,0,0.00%,0.080,1.5546875,0,0,0
+baltazar_seed-oss_6.cpp,TIME_LIMIT_EXCEEDED,15,62.50%,4.810,37.92578125,15,0,0
+baltazar_seed-oss_7.cpp,RUNTIME_ERROR,0,0.00%,0.130,1.69921875,0,0,0

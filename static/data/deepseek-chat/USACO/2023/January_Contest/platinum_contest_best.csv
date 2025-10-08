@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+platinum_Tractor_Paths,deepseek-chat,WRONG_ANSWER,0,0.00%,0.080,3.1484375
+platinum_Mana_Collection,deepseek-chat,WRONG_ANSWER,0,8.33%,0.230,79.15234375
+platinum_Subtree_Activation,deepseek-chat,WRONG_ANSWER,0,4.76%,0.050,8.36328125

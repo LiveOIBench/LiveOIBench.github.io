@@ -1,0 +1,5 @@
+problem,model,status,score,%test passed,time,memory
+More_Gifts,seed-oss_0,RUNTIME_ERROR,0,5.61%,0.030,0
+Big_Persimmon,seed-oss_0,RUNTIME_ERROR,12,17.74%,0.070,56.2109375
+Evidence_Board,seed-oss_0,UNKNOWN,0,0.00%,0.000,0
+Draw_Polygon_Lines,seed-oss_0,TIME_LIMIT_EXCEEDED,34,51.45%,2.410,3.609375

@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+covid,seed-oss_4096,RUNTIME_ERROR,0,3.70%,0.080,1.5390625
+battle,seed-oss_4096,MEMORY_LIMIT_EXCEEDED,6,42.86%,2.240,518.2734375
+editor,seed-oss_4096,RUNTIME_ERROR,0,12.90%,0.090,8.00390625

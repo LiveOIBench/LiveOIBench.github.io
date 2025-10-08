@@ -1,0 +1,4 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+stablo_gpt-oss-120b-high_0.cpp,ACCEPTED,120,100.00%,100.00%,0.600,85.34375,21,37,22,40
+stablo_gpt-oss-120b-high_2.cpp,ACCEPTED,120,100.00%,100.00%,0.640,89.20703125,21,37,22,40
+stablo_gpt-oss-120b-high_4.cpp,ACCEPTED,120,100.00%,100.00%,0.510,58.59375,21,37,22,40

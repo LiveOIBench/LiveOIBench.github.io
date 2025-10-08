@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+s1j4,seed-oss_-1,RUNTIME_ERROR,3,35.00%,0.010,0.00390625
+s2,seed-oss_-1,ACCEPTED,15,100.00%,0.030,1.55859375
+s3,seed-oss_-1,RUNTIME_ERROR,2,13.10%,0.020,8.7734375
+s4,seed-oss_-1,RUNTIME_ERROR,6,32.35%,0.240,32.234375
+s5,seed-oss_-1,RUNTIME_ERROR,4,50.00%,0.010,0.00390625

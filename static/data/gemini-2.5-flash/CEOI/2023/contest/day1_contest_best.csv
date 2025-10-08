@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+grading-server,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,0,1.33%,4.410,251.37109375
+light,gemini-2.5-flash,RUNTIME_ERROR,0,0.74%,0.020,1.48046875
+balance,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,15,29.17%,2.220,53.38671875

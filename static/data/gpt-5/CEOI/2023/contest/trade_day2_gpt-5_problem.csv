@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0_1,subtask_0_2,subtask_1_1,subtask_1_2,subtask_2_1,subtask_2_2,subtask_3_1,subtask_3_2,subtask_4_1,subtask_4_2,subtask_5_1,subtask_5_2
+trade_gpt-5_0.cpp,RUNTIME_ERROR,0,16.95%,0.090,13.7578125,0,0,0,0,0,0,0,0,0,0,0,0
+trade_gpt-5_1.cpp,RUNTIME_ERROR,0,20.34%,0.040,9.02734375,0,0,0,0,0,0,0,0,0,0,0,0
+trade_gpt-5_2.cpp,RUNTIME_ERROR,0,16.95%,0.070,10.58203125,0,0,0,0,0,0,0,0,0,0,0,0
+trade_gpt-5_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,8.410,22.54296875,0,0,0,0,0,0,0,0,0,0,0,0
+trade_gpt-5_4.cpp,RUNTIME_ERROR,0,0.00%,0.060,12.3828125,0,0,0,0,0,0,0,0,0,0,0,0
+trade_gpt-5_5.cpp,MEMORY_LIMIT_EXCEEDED,20,81.97%,0.940,2435.55859375,0,0,5,5,5,5,0,0,0,0,0,0
+trade_gpt-5_6.cpp,MEMORY_LIMIT_EXCEEDED,55,92.62%,0.750,779.890625,0,0,5,5,5,5,5,5,10,15,0,0
+trade_gpt-5_7.cpp,RUNTIME_ERROR,0,20.00%,0.090,25.015625,0,0,0,0,0,0,0,0,0,0,0,0

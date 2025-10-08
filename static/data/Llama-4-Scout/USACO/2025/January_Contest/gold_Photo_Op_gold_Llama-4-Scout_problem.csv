@@ -1,0 +1,8 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Photo_Op_Llama-4-Scout_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Photo_Op_Llama-4-Scout_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Photo_Op_Llama-4-Scout_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.420,59.23828125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Photo_Op_Llama-4-Scout_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.410,13.8984375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Photo_Op_Llama-4-Scout_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Photo_Op_Llama-4-Scout_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Photo_Op_Llama-4-Scout_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.420,9.23046875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

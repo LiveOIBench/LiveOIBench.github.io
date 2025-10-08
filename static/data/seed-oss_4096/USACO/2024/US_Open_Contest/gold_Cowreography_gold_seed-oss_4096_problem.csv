@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Cowreography_seed-oss_0.cpp,MEMORY_LIMIT_EXCEEDED,0,4.35%,0.090,50.2734375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Cowreography_seed-oss_1.cpp,RUNTIME_ERROR,0,4.35%,0.070,27.5625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Cowreography_seed-oss_2.cpp,RUNTIME_ERROR,17,4.35%,0.050,8.97265625,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Cowreography_seed-oss_3.cpp,RUNTIME_ERROR,33,13.04%,0.070,12.09375,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,0
+gold_Cowreography_seed-oss_4.cpp,WRONG_ANSWER,100,34.78%,0.060,11.921875,0,16.666666666666664,0,0,0,16.666666666666664,0,0,16.666666666666664,0,16.666666666666664,16.666666666666664,16.666666666666664,0,0,0,0,0,0,0,0
+gold_Cowreography_seed-oss_5.cpp,RUNTIME_ERROR,33,13.04%,0.060,11.97265625,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,0
+gold_Cowreography_seed-oss_6.cpp,WRONG_ANSWER,100,39.13%,0.060,11.48828125,0,16.666666666666664,0,0,0,16.666666666666664,0,0,16.666666666666664,0,16.666666666666664,16.666666666666664,16.666666666666664,0,0,0,0,0,0,0,0
+gold_Cowreography_seed-oss_7.cpp,RUNTIME_ERROR,33,13.04%,0.060,12.109375,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,0,0,0,0,0,0,0

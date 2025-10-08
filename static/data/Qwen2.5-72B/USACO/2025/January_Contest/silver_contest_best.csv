@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cow_Checkups,Qwen2.5-72B,TIME_LIMIT_EXCEEDED,0,4.35%,2.390,12.90234375
+silver_Farmer_Johns_Favorite_Operation,Qwen2.5-72B,TIME_LIMIT_EXCEEDED,22,12.50%,2.280,6.97265625
+silver_Table_Recovery,Qwen2.5-72B,RUNTIME_ERROR,0,6.67%,0.370,9.03125

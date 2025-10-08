@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+sprinklers_Llama-3.1-8B-Instruct_0.cpp,RUNTIME_ERROR,0,0.00%,0.040,1.81640625,0,0,0,0,0,0
+sprinklers_Llama-3.1-8B-Instruct_1.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.050,1.81640625,0,0,0,0,0,0
+sprinklers_Llama-3.1-8B-Instruct_2.cpp,RUNTIME_ERROR,0,2.22%,0.060,2.484375,0,0,0,0,0,0
+sprinklers_Llama-3.1-8B-Instruct_3.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0
+sprinklers_Llama-3.1-8B-Instruct_4.cpp,RUNTIME_ERROR,0,0.00%,0.050,1.81640625,0,0,0,0,0,0
+sprinklers_Llama-3.1-8B-Instruct_5.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0
+sprinklers_Llama-3.1-8B-Instruct_6.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0
+sprinklers_Llama-3.1-8B-Instruct_7.cpp,RUNTIME_ERROR,0,0.00%,0.040,1.81640625,0,0,0,0,0,0

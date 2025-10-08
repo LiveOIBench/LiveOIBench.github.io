@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3
+staringcontest_gemini-2.5-flash_0.cpp,RUNTIME_ERROR,0,14.53%,0.020,3.25,0,0,0
+staringcontest_gemini-2.5-flash_1.cpp,RUNTIME_ERROR,0,2.56%,0.010,1.5390625,0,0,0
+staringcontest_gemini-2.5-flash_2.cpp,RUNTIME_ERROR,0,2.56%,0.010,1.48046875,0,0,0
+staringcontest_gemini-2.5-flash_3.cpp,RUNTIME_ERROR,0,2.56%,0.010,1.48046875,0,0,0
+staringcontest_gemini-2.5-flash_4.cpp,RUNTIME_ERROR,0,2.56%,0.020,1.484375,0,0,0
+staringcontest_gemini-2.5-flash_5.cpp,RUNTIME_ERROR,0,2.56%,0.020,1.484375,0,0,0
+staringcontest_gemini-2.5-flash_6.cpp,RUNTIME_ERROR,0,0.85%,0.010,1.48046875,0,0,0
+staringcontest_gemini-2.5-flash_7.cpp,RUNTIME_ERROR,0,2.56%,0.020,1.5390625,0,0,0

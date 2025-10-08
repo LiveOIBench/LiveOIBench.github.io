@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+covid,Codestral-22B-v0.1,TIME_LIMIT_EXCEEDED,10,66.67%,6.040,1.66015625
+battle,Codestral-22B-v0.1,RUNTIME_ERROR,0,12.50%,0.180,32.1171875
+editor,Codestral-22B-v0.1,RUNTIME_ERROR,0,8.06%,0.080,4.65234375

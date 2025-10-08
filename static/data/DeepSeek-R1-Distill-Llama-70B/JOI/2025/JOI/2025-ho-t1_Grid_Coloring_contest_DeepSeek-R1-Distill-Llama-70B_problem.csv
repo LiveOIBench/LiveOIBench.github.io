@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+2025-ho-t1_Grid_Coloring_DeepSeek-R1-Distill-Llama-70B_0.cpp,RUNTIME_ERROR,0,3.37%,0.270,17.1328125,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_DeepSeek-R1-Distill-Llama-70B_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_DeepSeek-R1-Distill-Llama-70B_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_DeepSeek-R1-Distill-Llama-70B_3.cpp,RUNTIME_ERROR,0,1.15%,0.230,2.84765625,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_DeepSeek-R1-Distill-Llama-70B_4.cpp,MEMORY_LIMIT_EXCEEDED,25,70.95%,0.490,1115.046875,15,10,0,0,0
+2025-ho-t1_Grid_Coloring_DeepSeek-R1-Distill-Llama-70B_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.240,2.84765625,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_DeepSeek-R1-Distill-Llama-70B_6.cpp,RUNTIME_ERROR,0,0.00%,0.220,2.84765625,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_DeepSeek-R1-Distill-Llama-70B_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0

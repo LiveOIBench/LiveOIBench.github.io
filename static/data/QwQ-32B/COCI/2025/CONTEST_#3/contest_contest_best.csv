@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+autobus,QwQ-32B,RUNTIME_ERROR,0,16.33%,0.000,0
+karte,QwQ-32B,ACCEPTED,70,100.00%,0.150,0.00390625
+bojanje,QwQ-32B,RUNTIME_ERROR,0,5.80%,0.070,0
+stablo,QwQ-32B,RUNTIME_ERROR,0,14.71%,0.310,77.75
+procesor,QwQ-32B,COMPILATION_ERROR,0,0.00%,0.000,0

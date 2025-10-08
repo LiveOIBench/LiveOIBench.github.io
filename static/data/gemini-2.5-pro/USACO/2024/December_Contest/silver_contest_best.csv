@@ -1,0 +1,4 @@
+problem,model,status,score,%test passed,time,memory
+silver_Cake_Game,gemini-2.5-pro,ACCEPTED,333,100.00%,0.190,7.15234375
+silver_Deforestation,gemini-2.5-pro,ACCEPTED,333,100.00%,0.220,15.28125
+silver_2D_Conveyor_Belt,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,133,53.85%,2.270,2.58203125

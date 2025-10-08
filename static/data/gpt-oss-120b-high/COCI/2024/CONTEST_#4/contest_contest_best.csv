@@ -1,0 +1,6 @@
+problem,model,status,score,%test passed,time,memory
+bingo,gpt-oss-120b-high,ACCEPTED,50,100.00%,0.000,0
+knjige,gpt-oss-120b-high,ACCEPTED,70,100.00%,0.040,2.7890625
+lepeze,gpt-oss-120b-high,ACCEPTED,110,100.00%,0.170,9.8046875
+putovanje,gpt-oss-120b-high,ACCEPTED,110,100.00%,0.500,5.7265625
+roboti,gpt-oss-120b-high,ACCEPTED,110,100.00%,0.380,52.71484375

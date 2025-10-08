@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3
+animeshops_seed-oss_0.cpp,RUNTIME_ERROR,0,22.22%,0.040,9.3828125,0,0,0
+animeshops_seed-oss_1.cpp,ACCEPTED,100,100.00%,0.080,11.01953125,23,16,61
+animeshops_seed-oss_2.cpp,ACCEPTED,100,100.00%,0.080,9.546875,23,16,61
+animeshops_seed-oss_3.cpp,ACCEPTED,100,100.00%,0.080,10.76953125,23,16,61
+animeshops_seed-oss_4.cpp,RUNTIME_ERROR,0,22.22%,0.050,6.453125,0,0,0
+animeshops_seed-oss_5.cpp,MEMORY_LIMIT_EXCEEDED,39,86.96%,0.360,264.86328125,23,16,0
+animeshops_seed-oss_6.cpp,ACCEPTED,100,100.00%,0.060,10.37890625,23,16,61
+animeshops_seed-oss_7.cpp,RUNTIME_ERROR,0,22.22%,0.050,8.01171875,0,0,0

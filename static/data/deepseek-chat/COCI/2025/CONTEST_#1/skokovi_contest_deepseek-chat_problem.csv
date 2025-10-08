@@ -1,0 +1,9 @@
+solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+skokovi_deepseek-chat_0.cpp,ACCEPTED,70,100.00%,0.130,11.3515625,20,25,25
+skokovi_deepseek-chat_1.cpp,ACCEPTED,70,100.00%,0.110,11.3515625,20,25,25
+skokovi_deepseek-chat_2.cpp,RUNTIME_ERROR,20,47.92%,0.060,2.84765625,20,0,0
+skokovi_deepseek-chat_3.cpp,ACCEPTED,70,100.00%,0.120,11.3515625,20,25,25
+skokovi_deepseek-chat_4.cpp,ACCEPTED,70,100.00%,0.130,12.125,20,25,25
+skokovi_deepseek-chat_5.cpp,ACCEPTED,70,100.00%,0.100,12.125,20,25,25
+skokovi_deepseek-chat_6.cpp,ACCEPTED,70,100.00%,0.110,11.3515625,20,25,25
+skokovi_deepseek-chat_7.cpp,ACCEPTED,70,100.00%,0.120,11.3515625,20,25,25
