@@ -31,6 +31,13 @@ const competitions = [
   
   // Add flag at the top with other variables
   let isInitializing = false;
+  let isUpdatingTable = false; // Flag to prevent multiple simultaneous table updates
+  
+  // Combined function to update both date display and table
+  async function updateDateAndTable() {
+    updateDateDisplay();
+    await updateTable();
+  }
   
   function updateDateDisplay() {
     const startMonths = parseInt(startSlider.value);
@@ -42,8 +49,7 @@ const competitions = [
       } else {
         startSlider.value = endSlider.value;
       }
-      updateDateDisplay();
-      return;
+      // Continue with the rest of the function after adjusting the slider
     }
     const startDate = monthsToDate(startMonths);
     const endDate = monthsToEndDate(endMonths);
@@ -152,12 +158,10 @@ const competitions = [
     endSlider.value = TOTAL_MONTHS;
     
     startSlider.addEventListener('input', async () => {
-      updateDateDisplay();
-      await updateTable();
+      await updateDateAndTable();
     });
     endSlider.addEventListener('input', async () => {
-      updateDateDisplay();
-      await updateTable();
+      await updateDateAndTable();
     });
     updateDateDisplay();
   }
@@ -444,7 +448,21 @@ const competitions = [
   
   // Update the table with current selection
   async function updateTable() {
-    const table = document.getElementById('rankingTable');
+    // Prevent multiple simultaneous table updates
+    if (isUpdatingTable) {
+      return;
+    }
+    isUpdatingTable = true;
+    
+    try {
+      const table = document.getElementById('rankingTable');
+      
+      // Clear the entire table body completely
+      const tbody = table.querySelector('tbody');
+      if (tbody) {
+        tbody.innerHTML = '';
+      }
+    
     const thead = table.querySelector('thead tr');
     thead.innerHTML = `
       <th style="width: 30px"></th>
@@ -515,9 +533,6 @@ const competitions = [
         updateTable();
       });
     });
-  
-    const tbody = table.querySelector('tbody');
-    tbody.innerHTML = '';
   
     // Get filtered competitions based on time range and divisions
     const filteredCompetitions = getFilteredCompetitions();
@@ -700,6 +715,9 @@ const competitions = [
         
       tbody.appendChild(tr);
     });
+    } finally {
+      isUpdatingTable = false;
+    }
   }
   
   // Update division scope display
