@@ -11,6 +11,7 @@ const competitions = [
   let selectedDivisions = new Set(['1', '2', '3', '4']); // Start with all divisions selected
   let selectedDateRange = { start: new Date('2023-01-01'), end: new Date(2025, 11, 31, 23, 59, 59, 999) };
   let problemCounts = {};
+  let contestCounts = {}; // Dictionary to store competition-year to contest count mapping
   let competitionDivisions = {}; // Dictionary to store competition-year to division mapping
   let competitionMedals = {}; // New container for medal counts
   let modelRelativeScore = new Map(); // Map of model name to competition+year scores
@@ -57,11 +58,8 @@ const competitions = [
       // Add problem count
       totalProblems += problemCounts[compYear] || 0;
       
-      // Add contest count from subdivisions
-      const [comp, year] = compYear.split('_');
-      if (COMPETITION_CONFIG[comp]?.[year]?.subdivisions) {
-        totalContests += COMPETITION_CONFIG[comp][year].subdivisions.length;
-      }
+      // Add contest count from loaded data
+      totalContests += contestCounts[compYear] || 0;
     });
     
     // Format the date range display with the full sentence
@@ -735,6 +733,7 @@ const competitions = [
         loadCompetitionDates(),
         initializeMedalCounts(),
         loadProblemCounts(),
+        loadContestCounts(),
         loadModelScore()
       ]);
   
@@ -805,6 +804,23 @@ const competitions = [
       }
     } catch (error) {
       console.error('Failed to load problem counts:', error);
+    }
+  }
+  
+  // Add this function to load contest counts
+  async function loadContestCounts() {
+    try {
+      const response = await fetch('static/data/contest_counts.csv');
+      const text = await response.text();
+      const lines = text.trim().split('\n');
+      
+      // Skip header line
+      for (let i = 1; i < lines.length; i++) {
+        const [contestYear, count] = lines[i].split(',');
+        contestCounts[contestYear] = parseInt(count);
+      }
+    } catch (error) {
+      console.error('Failed to load contest counts:', error);
     }
   }
   
