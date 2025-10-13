@@ -76,10 +76,7 @@ const competitions = [
     sliderContainer.style.setProperty('--start-percent', startPercent);
     sliderContainer.style.setProperty('--end-percent', endPercent);
     
-    // Only update table if not initializing
-    if (!isInitializing) {
-      updateTable();
-    }
+    // Table will be updated by the calling function
   }
   
   // Load competition dates from config
@@ -110,6 +107,7 @@ const competitions = [
         updateToggleButton();
         await calculateAggregatedMetrics(); // Recalculate metrics when selection changes
         updateDateDisplay();
+        await updateTable(); // Update table after selection changes
       });
       
       container.appendChild(tab);
@@ -134,6 +132,7 @@ const competitions = [
       
       await calculateAggregatedMetrics(); // Recalculate metrics when selection changes
       updateDateDisplay();
+      await updateTable(); // Update table after selection changes
     });
   
     // Initialize toggle button text
@@ -152,8 +151,14 @@ const competitions = [
     endSlider.max = TOTAL_MONTHS;
     endSlider.value = TOTAL_MONTHS;
     
-    startSlider.addEventListener('input', updateDateDisplay);
-    endSlider.addEventListener('input', updateDateDisplay);
+    startSlider.addEventListener('input', async () => {
+      updateDateDisplay();
+      await updateTable();
+    });
+    endSlider.addEventListener('input', async () => {
+      updateDateDisplay();
+      await updateTable();
+    });
     updateDateDisplay();
   }
   
@@ -374,8 +379,10 @@ const competitions = [
   }
   
   // Calculate aggregated metrics for selected competitions and date range
-  async function calculateAggregatedMetrics() {
-    const filteredCompetitions = getFilteredCompetitions();
+  async function calculateAggregatedMetrics(filteredCompetitions = null) {
+    if (!filteredCompetitions) {
+      filteredCompetitions = getFilteredCompetitions();
+    }
     
     if (filteredCompetitions.size === 0) {
       updateStatisticsBox(0);
@@ -391,6 +398,11 @@ const competitions = [
       const { data, problemCount } = await loadCompetitionYearData(comp, year);
       
       Object.keys(data).forEach(model => {
+        // Only process models that are in the allowed list
+        if (!isModelAllowed(model)) {
+          return;
+        }
+        
         if (!allData[model]) {
           allData[model] = {
             avgPassed: 0,
@@ -532,6 +544,11 @@ const competitions = [
       
       // For each model in this competition
       for (const medalCount of competitionMedals[competition]) {
+        // Only process models that are in the allowed list
+        if (!isModelAllowed(medalCount.model)) {
+          continue;
+        }
+        
         if (!modelMedals.has(medalCount.model)) {
           modelMedals.set(medalCount.model, { gold: 0, silver: 0, bronze: 0 });
         }
@@ -548,6 +565,11 @@ const competitions = [
     
     // First pass: Calculate average relative scores
     for (const [model, scoreMap] of modelRelativeScore) {
+      // Only process models that are in the allowed list
+      if (!isModelAllowed(model)) {
+        continue;
+      }
+      
       let totalScore = 0;
       let count = 0;
       
@@ -568,6 +590,11 @@ const competitions = [
   
     // Second pass: Calculate average human percentiles
     for (const [model, percentileMap] of modelHumanPercentile) {
+      // Only process models that are in the allowed list
+      if (!isModelAllowed(model)) {
+        continue;
+      }
+      
       let totalPercentile = 0;
       let count = 0;
       
@@ -843,6 +870,7 @@ const competitions = [
         // Recalculate metrics and update display
         await calculateAggregatedMetrics();
         updateDateDisplay();
+        await updateTable(); // Update table after selection changes
       });
     });
   }
