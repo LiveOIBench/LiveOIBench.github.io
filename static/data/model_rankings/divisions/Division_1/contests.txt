@@ -1,0 +1,13 @@
+# Contests in Division 1
+
+1. BOI-2025-contest
+2. CEOI-2023-contest
+3. IATI-2024-senior
+4. IOI-2023-contest
+5. JOI-2023-JOI_open
+6. JOI-2023-JOI_spring
+7. NOINordic-2025-contest
+8. OOI-2023-final
+9. OOI-2023-qualification
+10. OOI-2024-qualification
+11. RMI-2023-contest

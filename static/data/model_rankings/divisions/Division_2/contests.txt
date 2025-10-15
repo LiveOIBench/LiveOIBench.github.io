@@ -1,0 +1,15 @@
+# Contests in Division 2
+
+1. APIO-2023-contest
+2. APIO-2024-contest
+3. BOI-2023-contest
+4. BOI-2024-contest
+5. CEOI-2024-contest
+6. EJOI-2023-contest
+7. IOI-2024-contest
+8. JOI-2024-JOI_open
+9. JOI-2024-JOI_spring
+10. NOINordic-2023-contest
+11. NOINordic-2024-contest
+12. OOI-2024-final
+13. RMI-2024-contest

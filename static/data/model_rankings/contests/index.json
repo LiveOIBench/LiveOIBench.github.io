@@ -26,6 +26,8 @@
     "COCI-2025-CONTEST_#3_rankings.csv",
     "COCI-2025-CONTEST_#4_rankings.csv",
     "COCI-2025-CONTEST_#5_rankings.csv",
+    "EGOI-2023-contest_rankings.csv",
+    "EGOI-2024-contest_rankings.csv",
     "EJOI-2023-contest_rankings.csv",
     "EJOI-2024-contest_rankings.csv",
     "IATI-2024-junior_rankings.csv",
@@ -43,8 +45,10 @@
     "NOINordic-2024-contest_rankings.csv",
     "NOINordic-2025-contest_rankings.csv",
     "OOI-2023-final_rankings.csv",
+    "OOI-2023-qualification_rankings.csv",
     "OOI-2024-final_rankings.csv",
     "OOI-2024-qualification_rankings.csv",
+    "RMI-2023-contest_rankings.csv",
     "RMI-2024-contest_rankings.csv",
     "USACO-2023-December_Contest-combined_rankings.csv",
     "USACO-2023-December_Contest-platinum_rankings.csv",
@@ -69,4 +73,4 @@
     "USACO-2025-US_Open_Contest-combined_rankings.csv",
     "USACO-2025-US_Open_Contest-platinum_rankings.csv"
   ]
-} 
+}

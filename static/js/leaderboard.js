@@ -16,6 +16,8 @@ const competitions = [
   let competitionMedals = {}; // New container for medal counts
   let modelRelativeScore = new Map(); // Map of model name to competition+year scores
   let modelHumanPercentile = new Map(); // Map of model name to competition+year human percentiles
+  let modelPassRate = new Map(); // Map of model name to competition+year pass rates
+  let modelMedals = new Map(); // Map of model name to competition+year medals
   
   // Reference date for slider calculations (month-based)
   const START_YEAR = 2023;
@@ -199,73 +201,6 @@ const competitions = [
     toggleButton.textContent = allSelected ? 'Deselect All' : 'Select All';
   }
   
-  // Find comparison files for a competition and year
-  function findComparisonFiles(basePath, competition, year) {
-    const validFiles = [];
-    
-    // Get the known subdivisions for this competition and year
-    const subdivisions = getCompetitionSubdivisions(competition, year);
-    
-    if (subdivisions.length === 0) {
-      console.log(`No subdivisions configured for ${competition} ${year}`);
-      return validFiles;
-    }
-    
-    // Build file paths for known subdivisions only
-    for (const sub of subdivisions) {
-      // URL encode the subdivision name to handle special characters like #
-      const encodedSub = encodeURIComponent(sub);
-      const encodedFileName = encodeURIComponent(`${competition}_${year}_${sub}_model_comparison.csv`);
-      const filePath = `${basePath}/${encodedSub}/${encodedFileName}`;
-      validFiles.push(filePath);
-    }
-    
-    return validFiles;
-  }
-  
-  // Process competition data
-  function processCompetitionData(csvText) {
-    const rows = csvText.trim().split('\n');
-    if (rows.length < 2) return { data: {}, problemCount: 0 };
-    
-    const headers = rows[0].split(',').map(h => h.trim());
-    
-    const modelIdx = headers.indexOf("Model");
-    const avgPassedIdx = headers.indexOf("Avg Tests Passed");
-    const avgTimeIdx = headers.indexOf("Avg Time");
-    const avgMemIdx = headers.indexOf("Avg Memory");
-    const passRateIdx = headers.indexOf("Pass Rate");
-    const problemCountIdx = headers.indexOf("Problem Count");
-    
-    if ([modelIdx, avgPassedIdx, avgTimeIdx, avgMemIdx, passRateIdx].includes(-1)) {
-      throw new Error("CSV header does not include expected columns.");
-    }
-    
-    const data = {};
-    let problemCount = 0;
-    
-    rows.slice(1).forEach(row => {
-      const cells = row.split(',');
-      if (cells.length <= modelIdx) return;
-      
-      const model = cells[modelIdx].trim();
-      if (!model) return;
-      
-      data[model] = {
-        avgPassed: parseFloat(cells[avgPassedIdx]) || 0,
-        avgTime: parseFloat(cells[avgTimeIdx]) || 0,
-        avgMem: parseFloat(cells[avgMemIdx]) || 0,
-        passRate: parseFloat(cells[passRateIdx]) || 0
-      };
-      
-      // Get problem count from the first row (all rows should have the same count)
-      if (problemCount === 0 && problemCountIdx !== -1) {
-        problemCount = parseInt(cells[problemCountIdx]) || 0;
-      }
-    });
-    
-    return { data, problemCount };
-  }
   
   // Update statistics box
   function updateStatisticsBox(totalQuestions) {
@@ -275,80 +210,6 @@ const competitions = [
     }
   }
   
-  // Load data for a specific competition and year
-  async function loadCompetitionYearData(competition, year) {
-    try {
-      // First, try to find all comparison files for this competition and year
-      const basePath = `static/data/all/${competition}/${year}`;
-      const files = findComparisonFiles(basePath, competition, year);
-      
-      if (files.length === 0) {
-        console.log(`No comparison files found for ${competition} ${year}`);
-        return { data: {}, problemCount: 0 };
-      }
-      
-      let aggregatedData = {};
-      let totalProblemCount = 0;
-      
-      // Load all files in parallel
-      const filePromises = files.map(async file => {
-        try {
-          const response = await fetch(file);
-          if (!response.ok) {
-            console.log(`File not found: ${file}`);
-            return null;
-          }
-          
-          const text = await response.text();
-          return processCompetitionData(text);
-        } catch (error) {
-          console.error(`Failed to load ${file}:`, error);
-          return null;
-        }
-      });
-      
-      // Wait for all files to load
-      const results = await Promise.all(filePromises);
-      
-      // Process results
-      results.forEach(result => {
-        if (!result) return;
-        
-        const { data, problemCount } = result;
-        
-        if (Object.keys(data).length === 0) return;
-        
-        // Merge data from multiple files
-        Object.keys(data).forEach(model => {
-          if (!aggregatedData[model]) {
-            aggregatedData[model] = {
-              avgPassed: 0,
-              avgTime: 0,
-              avgMem: 0,
-              passRate: 0,
-              count: 0
-            };
-          }
-          
-          const existing = aggregatedData[model];
-          const newData = data[model];
-          
-          existing.avgPassed = (existing.avgPassed * existing.count + newData.avgPassed) / (existing.count + 1);
-          existing.avgTime = (existing.avgTime * existing.count + newData.avgTime) / (existing.count + 1);
-          existing.avgMem = (existing.avgMem * existing.count + newData.avgMem) / (existing.count + 1);
-          existing.passRate = (existing.passRate * existing.count + newData.passRate) / (existing.count + 1);
-          existing.count++;
-        });
-        
-        totalProblemCount += problemCount;
-      });
-      
-      return { data: aggregatedData, problemCount: totalProblemCount };
-    } catch (error) {
-      console.error(`Failed to load data for ${competition} ${year}:`, error);
-      return { data: {}, problemCount: 0 };
-    }
-  }
   
   // Get filtered competitions based on time range, selected competitions, and divisions
   function getFilteredCompetitions() {
@@ -393,53 +254,57 @@ const competitions = [
       return [];
     }
     
-    // Load data for each filtered competition
-    const allData = {};
+    // Calculate total questions from problem counts
     let totalQuestions = 0;
-    
-    for (const compYear of filteredCompetitions) {
-      const [comp, year] = compYear.split('_');
-      const { data, problemCount } = await loadCompetitionYearData(comp, year);
-      
-      Object.keys(data).forEach(model => {
-        // Only process models that are in the allowed list
-        if (!isModelAllowed(model)) {
-          return;
-        }
-        
-        if (!allData[model]) {
-          allData[model] = {
-            avgPassed: 0,
-            avgTime: 0,
-            avgMem: 0,
-            passRate: 0,
-            count: 0
-          };
-        }
-        
-        const existing = allData[model];
-        const newData = data[model];
-        
-        existing.avgPassed = (existing.avgPassed * existing.count + newData.avgPassed) / (existing.count + 1);
-        existing.avgTime = (existing.avgTime * existing.count + newData.avgTime) / (existing.count + 1);
-        existing.avgMem = (existing.avgMem * existing.count + newData.avgMem) / (existing.count + 1);
-        existing.passRate = (existing.passRate * existing.count + newData.passRate) / (existing.count + 1);
-        existing.count++;
-      });
-      
-      totalQuestions += problemCount;
-    }
+    filteredCompetitions.forEach(compYear => {
+      totalQuestions += problemCounts[compYear] || 0;
+    });
     
     // Update statistics box with total questions
     updateStatisticsBox(totalQuestions);
     
-    return Object.keys(allData).map(model => ({
-      model: model,
-      avgPassed: allData[model].avgPassed.toFixed(2),
-      avgTime: allData[model].avgTime.toFixed(2),
-      avgMem: allData[model].avgMem.toFixed(2),
-      passRate: allData[model].passRate.toFixed(2)
-    }));
+    // Get all unique models from the contest data
+    const allModels = new Set();
+    for (const [model, _] of modelPassRate) {
+      if (isModelAllowed(model)) {
+        allModels.add(model);
+      }
+    }
+    
+    // Calculate aggregated metrics for each model
+    const modelMetrics = [];
+    
+    for (const model of allModels) {
+      let totalPassRate = 0;
+      let passRateCount = 0;
+      
+      // Calculate average pass rate across filtered competitions
+      for (const compYear of filteredCompetitions) {
+        const [comp, year] = compYear.split('_');
+        const compKey = `${comp}-${year}`;
+        
+        if (modelPassRate.has(model) && modelPassRate.get(model).has(compKey)) {
+          const passRateData = modelPassRate.get(model).get(compKey);
+          if (Array.isArray(passRateData)) {
+            // Calculate average of all pass rates for this competition+year
+            const avgPassRate = passRateData.reduce((sum, rate) => sum + rate, 0) / passRateData.length;
+            totalPassRate += avgPassRate;
+          } else {
+            totalPassRate += passRateData;
+          }
+          passRateCount++;
+        }
+      }
+      
+      const avgPassRate = passRateCount > 0 ? totalPassRate / passRateCount : 0;
+      
+      modelMetrics.push({
+        model: model,
+        passRate: avgPassRate.toFixed(2)
+      });
+    }
+    
+    return modelMetrics;
   }
   
   // Add sorting state variables
@@ -540,37 +405,39 @@ const competitions = [
     // Calculate metrics for each model
     const modelMetrics = await calculateAggregatedMetrics(filteredCompetitions);
     
-    // Get unique competition names and aggregate medals
-    const uniqueCompetitions = new Set();
-    for (const compYear of filteredCompetitions) {
-      const baseComp = compYear.split('_')[0];
-      uniqueCompetitions.add(baseComp);
-    }
-  
     // Create a map to store total medals for each model
-    const modelMedals = new Map();
+    const modelMedalCounts = new Map();
     
     // Aggregate medals from filtered competitions only
-    for (const competition of uniqueCompetitions) {
-      if (!competitionMedals[competition]) {
-        console.error(`No medal data found for competition: ${competition}`);
-        continue;
-      }
+    for (const compYear of filteredCompetitions) {
+      const [comp, year] = compYear.split('_');
+      const compKey = `${comp}-${year}`;
       
-      // For each model in this competition
-      for (const medalCount of competitionMedals[competition]) {
-        // Only process models that are in the allowed list
-        if (!isModelAllowed(medalCount.model)) {
+      // For each model, check if they have a medal in this competition
+      for (const [model, medalMap] of modelMedals) {
+        if (!isModelAllowed(model)) {
           continue;
         }
         
-        if (!modelMedals.has(medalCount.model)) {
-          modelMedals.set(medalCount.model, { gold: 0, silver: 0, bronze: 0 });
+        if (medalMap.has(compKey)) {
+          const medals = medalMap.get(compKey); // Now an array of medals
+          
+          if (!modelMedalCounts.has(model)) {
+            modelMedalCounts.set(model, { gold: 0, silver: 0, bronze: 0 });
+          }
+          
+          const counts = modelMedalCounts.get(model);
+          // Count all medals for this competition+year
+          for (const medal of medals) {
+            if (medal === 'Gold') {
+              counts.gold++;
+            } else if (medal === 'Silver') {
+              counts.silver++;
+            } else if (medal === 'Bronze') {
+              counts.bronze++;
+            }
+          }
         }
-        const total = modelMedals.get(medalCount.model);
-        total.gold += medalCount.gold;
-        total.silver += medalCount.silver;
-        total.bronze += medalCount.bronze;
       }
     }
   
@@ -593,7 +460,14 @@ const competitions = [
         const key = `${comp}-${year}`;
         
         if (scoreMap.has(key)) {
-          totalScore += scoreMap.get(key);
+          const scoreData = scoreMap.get(key);
+          if (Array.isArray(scoreData)) {
+            // Calculate average of all scores for this competition+year
+            const avgScore = scoreData.reduce((sum, score) => sum + score, 0) / scoreData.length;
+            totalScore += avgScore;
+          } else {
+            totalScore += scoreData;
+          }
           count++;
         }
       }
@@ -618,7 +492,14 @@ const competitions = [
         const key = `${comp}-${year}`;
         
         if (percentileMap.has(key)) {
-          totalPercentile += percentileMap.get(key);
+          const percentileData = percentileMap.get(key);
+          if (Array.isArray(percentileData)) {
+            // Calculate average of all percentiles for this competition+year
+            const avgPercentile = percentileData.reduce((sum, percentile) => sum + percentile, 0) / percentileData.length;
+            totalPercentile += avgPercentile;
+          } else {
+            totalPercentile += percentileData;
+          }
           count++;
         }
       }
@@ -630,7 +511,7 @@ const competitions = [
   
     // Combine metrics and medals data
     const combinedData = modelMetrics.map(entry => {
-      const medals = modelMedals.get(entry.model) || { gold: 0, silver: 0, bronze: 0 };
+      const medals = modelMedalCounts.get(entry.model) || { gold: 0, silver: 0, bronze: 0 };
       const avgRelativeScore = modelAvgScores.get(entry.model) || 0;
       const avgHumanPercentile = modelAvgPercentiles.get(entry.model) || 0;
       return {
@@ -776,7 +657,6 @@ const competitions = [
       // Load all data in parallel
       await Promise.all([
         loadCompetitionDates(),
-        initializeMedalCounts(),
         loadProblemCounts(),
         loadContestCounts(),
         loadModelScore()
@@ -1017,71 +897,10 @@ const competitions = [
     }
   }
   
-  // Initialize medal counts for each competition
-  async function initializeMedalCounts() {
-    try {
-      // Get unique competition names (without years)
-      const competitions = new Set();
-      for (const [competition, years] of Object.entries(COMPETITION_CONFIG)) {
-        competitions.add(competition);
-      }
-  
-      // Create promises for all competition rankings in parallel
-      const rankingPromises = Array.from(competitions).map(async competition => {
-        try {
-          // Special handling for EGOI - initialize with zero medals
-          if (competition === 'EGOI') {
-            return [competition, [new MedalCount('default', 0, 0, 0)]];
-          }
-  
-          // Special handling for USACO
-          const filename = competition === 'USACO' ? 'USACO_overall_rankings.csv' : `${competition}_rankings.csv`;
-          const response = await fetch(`static/data/model_rankings/competitions/${filename}`);
-          
-          if (!response.ok) {
-            console.log(`No rankings file found for ${competition}, skipping...`);
-            return [competition, []];
-          }
-          
-          const data = await response.text();
-          const lines = data.split('\n').filter(line => line.trim());
-          
-          // Skip header
-          const medalCounts = [];
-          for (let i = 1; i < lines.length; i++) {
-            const columns = lines[i].split(',').map(val => val.trim());
-            const model = columns[0];
-            const gold = parseInt(columns[8]);  // Gold Medals column
-            const silver = parseInt(columns[9]); // Silver Medals column
-            const bronze = parseInt(columns[10]); // Bronze Medals column
-            
-            if (model) {
-              medalCounts.push(new MedalCount(model, gold, silver, bronze));
-            }
-          }
-          
-          return [competition, medalCounts];
-        } catch (error) {
-          console.log(`Error loading rankings for ${competition}:`, error);
-          return [competition, []];
-        }
-      });
-  
-      // Wait for all rankings to load in parallel
-      const results = await Promise.all(rankingPromises);
-      
-      // Update competitionMedals with results
-      results.forEach(([competition, medalCounts]) => {
-        competitionMedals[competition] = medalCounts;
-      });
-    } catch (error) {
-      console.error('Error initializing medal counts:', error);
-    }
-  }
   
   // ... rest of the existing code ...  
   
-  // Load relative scores for models from contest rankings
+  // Load all model data from contest rankings (single source of truth)
   async function loadModelScore() {
       const baseDir = 'static/data/model_rankings/contests';
       
@@ -1107,6 +926,8 @@ const competitions = [
               
               const headers = rows[0].split(',');
               const modelIdx = headers.indexOf('Model');
+              const passRateIdx = headers.indexOf('Pass Rate (%)');
+              const medalIdx = headers.indexOf('Medal');
               const scoreIdx = headers.indexOf('Relative Score (%)');
               const percentileIdx = headers.indexOf('Human Percentile');
               
@@ -1117,15 +938,23 @@ const competitions = [
               
               const scores = new Map();
               const percentiles = new Map();
+              const passRates = new Map();
+              const medals = new Map();
+              
               for (let i = 1; i < rows.length; i++) {
                   const cells = rows[i].split(',');
                   const model = cells[modelIdx].trim();
                   const score = parseFloat(cells[scoreIdx]) || 0;
                   const percentile = percentileIdx !== -1 ? parseFloat(cells[percentileIdx]) || 0 : 0;
+                  const passRate = passRateIdx !== -1 ? parseFloat(cells[passRateIdx]) || 0 : 0;
+                  const medal = medalIdx !== -1 ? cells[medalIdx].trim() : 'None';
+                  
                   scores.set(model, score);
                   percentiles.set(model, percentile);
+                  passRates.set(model, passRate);
+                  medals.set(model, medal);
               }
-              return { scores, percentiles };
+              return { scores, percentiles, passRates, medals };
           } catch (error) {
               console.error(`Error processing ${filepath}:`, error);
               return null;
@@ -1146,16 +975,16 @@ const competitions = [
           const processPromises = files.map(async file => {
               const info = extractCompetitionYear(file);
               if (!info) return null;
-  
+
               const { competition, year } = info;
               const compKey = `${competition}-${year}`;
               
-              const result = await processCSVFile(`${baseDir}/${file}`);
+              const result = await processCSVFile(`${baseDir}/${encodeURIComponent(file)}`);
               if (!result) return null;
               
               return { compKey, result };
           });
-  
+
           const results = await Promise.all(processPromises);
           
           // Process results and update maps
@@ -1170,15 +999,19 @@ const competitions = [
                   }
                   const modelScores = modelRelativeScore.get(model);
                   
-                  // If we already have a score for this competition+year, average them
+                  // If we already have a score for this competition+year, store as array for proper averaging
                   if (modelScores.has(compKey)) {
-                      const existingScore = modelScores.get(compKey);
-                      modelScores.set(compKey, (existingScore + score) / 2);
+                      const existingData = modelScores.get(compKey);
+                      if (Array.isArray(existingData)) {
+                          existingData.push(score);
+                      } else {
+                          modelScores.set(compKey, [existingData, score]);
+                      }
                   } else {
                       modelScores.set(compKey, score);
                   }
               }
-  
+
               // Update modelHumanPercentile map
               for (const [model, percentile] of result.percentiles) {
                   if (!modelHumanPercentile.has(model)) {
@@ -1186,13 +1019,51 @@ const competitions = [
                   }
                   const modelPercentiles = modelHumanPercentile.get(model);
                   
-                  // If we already have a percentile for this competition+year, average them
+                  // If we already have a percentile for this competition+year, store as array for proper averaging
                   if (modelPercentiles.has(compKey)) {
-                      const existingPercentile = modelPercentiles.get(compKey);
-                      modelPercentiles.set(compKey, (existingPercentile + percentile) / 2);
+                      const existingData = modelPercentiles.get(compKey);
+                      if (Array.isArray(existingData)) {
+                          existingData.push(percentile);
+                      } else {
+                          modelPercentiles.set(compKey, [existingData, percentile]);
+                      }
                   } else {
                       modelPercentiles.set(compKey, percentile);
                   }
+              }
+
+              // Update modelPassRate map (new)
+              for (const [model, passRate] of result.passRates) {
+                  if (!modelPassRate.has(model)) {
+                      modelPassRate.set(model, new Map());
+                  }
+                  const modelPassRates = modelPassRate.get(model);
+                  
+                  // If we already have a pass rate for this competition+year, store as array for proper averaging
+                  if (modelPassRates.has(compKey)) {
+                      const existingData = modelPassRates.get(compKey);
+                      if (Array.isArray(existingData)) {
+                          existingData.push(passRate);
+                      } else {
+                          modelPassRates.set(compKey, [existingData, passRate]);
+                      }
+                  } else {
+                      modelPassRates.set(compKey, passRate);
+                  }
+              }
+
+              // Update modelMedals map (new)
+              for (const [model, medal] of result.medals) {
+                  if (!modelMedals.has(model)) {
+                      modelMedals.set(model, new Map());
+                  }
+                  const modelMedalMap = modelMedals.get(model);
+                  
+                  // Accumulate medals for this competition+year
+                  if (!modelMedalMap.has(compKey)) {
+                      modelMedalMap.set(compKey, []);
+                  }
+                  modelMedalMap.get(compKey).push(medal);
               }
           });
       } catch (error) {
