@@ -506,7 +506,7 @@ const competitions = [
       const modelCell = document.createElement('td');
       const modelLink = document.createElement('a');
       modelLink.href = `model_detail.html?model=${encodeURIComponent(entry.model)}`;
-      modelLink.textContent = entry.model;
+      modelLink.textContent = getModelDisplayName(entry.model);
       modelLink.target = '_blank'; // Open in new tab
       modelCell.appendChild(modelLink);
       tr.appendChild(modelCell);
