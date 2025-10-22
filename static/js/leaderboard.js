@@ -113,7 +113,13 @@ const competitions = [
           tab.classList.add('is-active');
         }
         updateToggleButton();
-        await calculateAggregatedMetrics(); // Recalculate metrics when selection changes
+        // Update statistics box when selection changes
+        const filteredCompetitions = getFilteredCompetitions();
+        let totalQuestions = 0;
+        filteredCompetitions.forEach(compYear => {
+          totalQuestions += problemCounts[compYear] || 0;
+        });
+        updateStatisticsBox(totalQuestions);
         updateDateDisplay();
         await updateTable(); // Update table after selection changes
       });
@@ -138,7 +144,13 @@ const competitions = [
         toggleButton.textContent = 'Select All';
       }
       
-      await calculateAggregatedMetrics(); // Recalculate metrics when selection changes
+      // Update statistics box when selection changes
+      const filteredCompetitions = getFilteredCompetitions();
+      let totalQuestions = 0;
+      filteredCompetitions.forEach(compYear => {
+        totalQuestions += problemCounts[compYear] || 0;
+      });
+      updateStatisticsBox(totalQuestions);
       updateDateDisplay();
       await updateTable(); // Update table after selection changes
     });
@@ -243,69 +255,6 @@ const competitions = [
     ));
   }
   
-  // Calculate aggregated metrics for selected competitions and date range
-  async function calculateAggregatedMetrics(filteredCompetitions = null) {
-    if (!filteredCompetitions) {
-      filteredCompetitions = getFilteredCompetitions();
-    }
-    
-    if (filteredCompetitions.size === 0) {
-      updateStatisticsBox(0);
-      return [];
-    }
-    
-    // Calculate total questions from problem counts
-    let totalQuestions = 0;
-    filteredCompetitions.forEach(compYear => {
-      totalQuestions += problemCounts[compYear] || 0;
-    });
-    
-    // Update statistics box with total questions
-    updateStatisticsBox(totalQuestions);
-    
-    // Get all unique models from the contest data
-    const allModels = new Set();
-    for (const [model, _] of modelPassRate) {
-      if (isModelAllowed(model)) {
-        allModels.add(model);
-      }
-    }
-    
-    // Calculate aggregated metrics for each model
-    const modelMetrics = [];
-    
-    for (const model of allModels) {
-      let totalPassRate = 0;
-      let passRateCount = 0;
-      
-      // Calculate average pass rate across filtered competitions
-      for (const compYear of filteredCompetitions) {
-        const [comp, year] = compYear.split('_');
-        const compKey = `${comp}-${year}`;
-        
-        if (modelPassRate.has(model) && modelPassRate.get(model).has(compKey)) {
-          const passRateData = modelPassRate.get(model).get(compKey);
-          if (Array.isArray(passRateData)) {
-            // Calculate average of all pass rates for this competition+year
-            const avgPassRate = passRateData.reduce((sum, rate) => sum + rate, 0) / passRateData.length;
-            totalPassRate += avgPassRate;
-          } else {
-            totalPassRate += passRateData;
-          }
-          passRateCount++;
-        }
-      }
-      
-      const avgPassRate = passRateCount > 0 ? totalPassRate / passRateCount : 0;
-      
-      modelMetrics.push({
-        model: model,
-        passRate: avgPassRate.toFixed(2)
-      });
-    }
-    
-    return modelMetrics;
-  }
   
   // Add sorting state variables
   let currentSortColumn = 'passRate'; // Default sort by pass rate
@@ -402,32 +351,94 @@ const competitions = [
     // Get filtered competitions based on time range and divisions
     const filteredCompetitions = getFilteredCompetitions();
     
-    // Calculate metrics for each model
-    const modelMetrics = await calculateAggregatedMetrics(filteredCompetitions);
+    // Update statistics box
+    let totalQuestions = 0;
+    filteredCompetitions.forEach(compYear => {
+      totalQuestions += problemCounts[compYear] || 0;
+    });
+    updateStatisticsBox(totalQuestions);
     
-    // Create a map to store total medals for each model
+    // Get all unique models from the contest data
+    const allModels = new Set();
+    for (const [model, _] of modelPassRate) {
+      if (isModelAllowed(model)) {
+        allModels.add(model);
+      }
+    }
+    
+    // Create maps to store all metrics for each model
     const modelMedalCounts = new Map();
+    const modelAvgScores = new Map();
+    const modelAvgPercentiles = new Map();
+    const modelAvgPassRates = new Map();
     
-    // Aggregate medals from filtered competitions only
-    for (const compYear of filteredCompetitions) {
-      const [comp, year] = compYear.split('_');
-      const compKey = `${comp}-${year}`;
+    // Calculate all metrics for each model in one consolidated loop
+    for (const model of allModels) {
+      // Initialize medal counts
+      modelMedalCounts.set(model, { gold: 0, silver: 0, bronze: 0 });
       
-      // For each model, check if they have a medal in this competition
-      for (const [model, medalMap] of modelMedals) {
-        if (!isModelAllowed(model)) {
-          continue;
+      // Initialize metric totals
+      let totalPassRate = 0;
+      let passRateCount = 0;
+      let totalScore = 0;
+      let scoreCount = 0;
+      let totalPercentile = 0;
+      let percentileCount = 0;
+      
+      // Process each filtered competition
+      for (const compYear of filteredCompetitions) {
+        const [comp, year] = compYear.split('_');
+        const compKey = `${comp}-${year}`;
+        
+        // Calculate pass rate
+        if (modelPassRate.has(model) && modelPassRate.get(model).has(compKey)) {
+          const passRateData = modelPassRate.get(model).get(compKey);
+          if (Array.isArray(passRateData)) {
+            // Treat each subdivision independently
+            for (const rate of passRateData) {
+              totalPassRate += rate;
+              passRateCount++;
+            }
+          } else {
+            totalPassRate += passRateData;
+            passRateCount++;
+          }
         }
         
-        if (medalMap.has(compKey)) {
-          const medals = medalMap.get(compKey); // Now an array of medals
-          
-          if (!modelMedalCounts.has(model)) {
-            modelMedalCounts.set(model, { gold: 0, silver: 0, bronze: 0 });
+        // Calculate relative score
+        if (modelRelativeScore.has(model) && modelRelativeScore.get(model).has(compKey)) {
+          const scoreData = modelRelativeScore.get(model).get(compKey);
+          if (Array.isArray(scoreData)) {
+            // Treat each subdivision independently
+            for (const score of scoreData) {
+              totalScore += score;
+              scoreCount++;
+            }
+          } else {
+            totalScore += scoreData;
+            scoreCount++;
           }
-          
+        }
+        
+        // Calculate human percentile
+        if (modelHumanPercentile.has(model) && modelHumanPercentile.get(model).has(compKey)) {
+          const percentileData = modelHumanPercentile.get(model).get(compKey);
+          if (Array.isArray(percentileData)) {
+            // Treat each subdivision independently
+            for (const percentile of percentileData) {
+              totalPercentile += percentile;
+              percentileCount++;
+            }
+          } else {
+            totalPercentile += percentileData;
+            percentileCount++;
+          }
+        }
+        
+        // Aggregate medals
+        if (modelMedals.has(model) && modelMedals.get(model).has(compKey)) {
+          const medals = modelMedals.get(model).get(compKey);
           const counts = modelMedalCounts.get(model);
-          // Count all medals for this competition+year
           for (const medal of medals) {
             if (medal === 'Gold') {
               counts.gold++;
@@ -439,83 +450,28 @@ const competitions = [
           }
         }
       }
-    }
-  
-    // Calculate average relative scores and human percentiles for filtered competitions
-    const modelAvgScores = new Map();
-    const modelAvgPercentiles = new Map();
-    
-    // First pass: Calculate average relative scores
-    for (const [model, scoreMap] of modelRelativeScore) {
-      // Only process models that are in the allowed list
-      if (!isModelAllowed(model)) {
-        continue;
+      
+      // Store calculated averages
+      if (passRateCount > 0) {
+        modelAvgPassRates.set(model, totalPassRate / passRateCount);
       }
-      
-      let totalScore = 0;
-      let count = 0;
-      
-      for (const compYear of filteredCompetitions) {
-        const [comp, year] = compYear.split('_');
-        const key = `${comp}-${year}`;
-        
-        if (scoreMap.has(key)) {
-          const scoreData = scoreMap.get(key);
-          if (Array.isArray(scoreData)) {
-            // Calculate average of all scores for this competition+year
-            const avgScore = scoreData.reduce((sum, score) => sum + score, 0) / scoreData.length;
-            totalScore += avgScore;
-          } else {
-            totalScore += scoreData;
-          }
-          count++;
-        }
+      if (scoreCount > 0) {
+        modelAvgScores.set(model, totalScore / scoreCount);
       }
-      
-      if (count > 0) {
-        modelAvgScores.set(model, totalScore / count);
+      if (percentileCount > 0) {
+        modelAvgPercentiles.set(model, totalPercentile / percentileCount);
       }
     }
   
-    // Second pass: Calculate average human percentiles
-    for (const [model, percentileMap] of modelHumanPercentile) {
-      // Only process models that are in the allowed list
-      if (!isModelAllowed(model)) {
-        continue;
-      }
-      
-      let totalPercentile = 0;
-      let count = 0;
-      
-      for (const compYear of filteredCompetitions) {
-        const [comp, year] = compYear.split('_');
-        const key = `${comp}-${year}`;
-        
-        if (percentileMap.has(key)) {
-          const percentileData = percentileMap.get(key);
-          if (Array.isArray(percentileData)) {
-            // Calculate average of all percentiles for this competition+year
-            const avgPercentile = percentileData.reduce((sum, percentile) => sum + percentile, 0) / percentileData.length;
-            totalPercentile += avgPercentile;
-          } else {
-            totalPercentile += percentileData;
-          }
-          count++;
-        }
-      }
-      
-      if (count > 0) {
-        modelAvgPercentiles.set(model, totalPercentile / count);
-      }
-    }
-  
-    // Combine metrics and medals data
-    const combinedData = modelMetrics.map(entry => {
-      const medals = modelMedalCounts.get(entry.model) || { gold: 0, silver: 0, bronze: 0 };
-      const avgRelativeScore = modelAvgScores.get(entry.model) || 0;
-      const avgHumanPercentile = modelAvgPercentiles.get(entry.model) || 0;
+    // Combine all metrics and medals data
+    const combinedData = Array.from(allModels).map(model => {
+      const medals = modelMedalCounts.get(model) || { gold: 0, silver: 0, bronze: 0 };
+      const avgPassRate = modelAvgPassRates.get(model) || 0;
+      const avgRelativeScore = modelAvgScores.get(model) || 0;
+      const avgHumanPercentile = modelAvgPercentiles.get(model) || 0;
       return {
-        ...entry,
+        model: model,
+        passRate: avgPassRate.toFixed(2),
         gold: medals.gold,
         silver: medals.silver,
         bronze: medals.bronze,
@@ -766,7 +722,13 @@ const competitions = [
         }
         
         // Recalculate metrics and update display
-        await calculateAggregatedMetrics();
+        // Update statistics box when division selection changes
+        const filteredCompetitions = getFilteredCompetitions();
+        let totalQuestions = 0;
+        filteredCompetitions.forEach(compYear => {
+          totalQuestions += problemCounts[compYear] || 0;
+        });
+        updateStatisticsBox(totalQuestions);
         updateDateDisplay();
         await updateTable(); // Update table after selection changes
       });
