@@ -9,6 +9,7 @@ const competitions = [
   let competitionDates = {};
   let selectedCompetitions = new Set(competitions); // Start with all selected
   let selectedDivisions = new Set(['1', '2', '3', '4']); // Start with all divisions selected
+  let selectedModelCategories = new Set(['proprietary', 'open-weight-thinking', 'open-weight-non-thinking']); // Start with all categories selected
   let selectedDateRange = { start: new Date('2023-01-01'), end: new Date(2025, 11, 31, 23, 59, 59, 999) };
   let problemCounts = {};
   let contestCounts = {}; // Dictionary to store competition-year to contest count mapping
@@ -358,10 +359,10 @@ const competitions = [
     });
     updateStatisticsBox(totalQuestions);
     
-    // Get all unique models from the contest data
+    // Get all unique models from the contest data, filtered by allowed models and selected categories
     const allModels = new Set();
     for (const [model, _] of modelPassRate) {
-      if (isModelAllowed(model)) {
+      if (isModelAllowed(model) && isModelInCategories(model, selectedModelCategories)) {
         allModels.add(model);
       }
     }
@@ -621,6 +622,7 @@ const competitions = [
       await Promise.all([
         initializeCompetitionSelection(),
         initializeDivisionSelection(),
+        initializeModelCategorySelection(),
         initializeDateRangeSlider()
       ]);
   
@@ -726,6 +728,36 @@ const competitions = [
         });
         updateStatisticsBox(totalQuestions);
         updateDateDisplay();
+        await updateTable(); // Update table after selection changes
+      });
+    });
+  }
+
+  // Initialize model category selection
+  function initializeModelCategorySelection() {
+    const container = document.querySelector('.model-category-tabs');
+    
+    if (!container) return;
+    
+    // Add click handlers to model category tabs
+    container.querySelectorAll('.model-category-tab').forEach(tab => {
+      tab.addEventListener('click', async () => {
+        const category = tab.dataset.category;
+        if (tab.classList.contains('is-active')) {
+          selectedModelCategories.delete(category);
+          tab.classList.remove('is-active');
+        } else {
+          selectedModelCategories.add(category);
+          tab.classList.add('is-active');
+        }
+        
+        // Update statistics box when category selection changes
+        const filteredCompetitions = getFilteredCompetitions();
+        let totalQuestions = 0;
+        filteredCompetitions.forEach(compYear => {
+          totalQuestions += problemCounts[compYear] || 0;
+        });
+        updateStatisticsBox(totalQuestions);
         await updateTable(); // Update table after selection changes
       });
     });
