@@ -502,13 +502,9 @@ const competitions = [
       rankCell.textContent = index + 1;
       tr.appendChild(rankCell);
         
-      // Model name with link
+      // Model name (not clickable)
       const modelCell = document.createElement('td');
-      const modelLink = document.createElement('a');
-      modelLink.href = `model_detail.html?model=${encodeURIComponent(entry.model)}`;
-      modelLink.textContent = getModelDisplayName(entry.model);
-      modelLink.target = '_blank'; // Open in new tab
-      modelCell.appendChild(modelLink);
+      modelCell.textContent = getModelDisplayName(entry.model);
       tr.appendChild(modelCell);
         
       // Medal counts
