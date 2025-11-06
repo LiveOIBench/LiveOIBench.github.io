@@ -19,6 +19,7 @@ const competitions = [
   let modelHumanPercentile = new Map(); // Map of model name to competition+year human percentiles
   let modelPassRate = new Map(); // Map of model name to competition+year pass rates
   let modelMedals = new Map(); // Map of model name to competition+year medals
+  let modelIncludedTasks = new Map(); // Map of model name to competition+year included tasks (for weighted averaging)
   
   // Reference date for slider calculations (month-based)
   const START_YEAR = 2023;
@@ -378,65 +379,106 @@ const competitions = [
       // Initialize medal counts
       modelMedalCounts.set(model, { gold: 0, silver: 0, bronze: 0 });
       
-      // Initialize metric totals
-      let totalPassRate = 0;
-      let passRateCount = 0;
-      let totalScore = 0;
-      let scoreCount = 0;
-      let totalPercentile = 0;
-      let percentileCount = 0;
+      // Initialize weighted metric totals
+      let weightedPassRateSum = 0;
+      let totalPassRateWeight = 0;
+      let weightedScoreSum = 0;
+      let totalScoreWeight = 0;
+      let weightedPercentileSum = 0;
+      let totalPercentileWeight = 0;
       
       // Process each filtered competition
       for (const compYear of filteredCompetitions) {
         const [comp, year] = compYear.split('_');
         const compKey = `${comp}-${year}`;
         
-        // Calculate pass rate
+        // Get included tasks for this competition (weights)
+        const includedTasksData = modelIncludedTasks.has(model) && modelIncludedTasks.get(model).has(compKey)
+          ? modelIncludedTasks.get(model).get(compKey)
+          : null;
+        
+        // Calculate weighted pass rate
         if (modelPassRate.has(model) && modelPassRate.get(model).has(compKey)) {
           const passRateData = modelPassRate.get(model).get(compKey);
-          if (Array.isArray(passRateData)) {
-            // Treat each subdivision independently
-            for (const rate of passRateData) {
-              totalPassRate += rate;
-              passRateCount++;
+          const tasksData = includedTasksData;
+          
+          if (Array.isArray(passRateData) && Array.isArray(tasksData)) {
+            // Treat each subdivision independently with weighted average
+            for (let i = 0; i < passRateData.length; i++) {
+              const rate = passRateData[i];
+              const weight = tasksData[i];
+              // Skip if rate or weight is missing/invalid (NaN, undefined, null, or weight is 0)
+              if (rate != null && !isNaN(rate) && weight != null && !isNaN(weight) && weight > 0) {
+                weightedPassRateSum += rate * weight;
+                totalPassRateWeight += weight;
+              }
             }
-          } else {
-            totalPassRate += passRateData;
-            passRateCount++;
+          } else if (!Array.isArray(passRateData) && !Array.isArray(tasksData)) {
+            const rate = passRateData;
+            const weight = tasksData;
+            // Skip if rate or weight is missing/invalid (NaN, undefined, null, or weight is 0)
+            if (rate != null && !isNaN(rate) && weight != null && !isNaN(weight) && weight > 0) {
+              weightedPassRateSum += rate * weight;
+              totalPassRateWeight += weight;
+            }
           }
         }
         
-        // Calculate relative score
+        // Calculate weighted relative score
         if (modelRelativeScore.has(model) && modelRelativeScore.get(model).has(compKey)) {
           const scoreData = modelRelativeScore.get(model).get(compKey);
-          if (Array.isArray(scoreData)) {
-            // Treat each subdivision independently
-            for (const score of scoreData) {
-              totalScore += score;
-              scoreCount++;
+          const tasksData = includedTasksData;
+          
+          if (Array.isArray(scoreData) && Array.isArray(tasksData)) {
+            // Treat each subdivision independently with weighted average
+            for (let i = 0; i < scoreData.length; i++) {
+              const score = scoreData[i];
+              const weight = tasksData[i];
+              // Skip if score or weight is missing/invalid (NaN, undefined, null, or weight is 0)
+              if (score != null && !isNaN(score) && weight != null && !isNaN(weight) && weight > 0) {
+                weightedScoreSum += score * weight;
+                totalScoreWeight += weight;
+              }
             }
-          } else {
-            totalScore += scoreData;
-            scoreCount++;
+          } else if (!Array.isArray(scoreData) && !Array.isArray(tasksData)) {
+            const score = scoreData;
+            const weight = tasksData;
+            // Skip if score or weight is missing/invalid (NaN, undefined, null, or weight is 0)
+            if (score != null && !isNaN(score) && weight != null && !isNaN(weight) && weight > 0) {
+              weightedScoreSum += score * weight;
+              totalScoreWeight += weight;
+            }
           }
         }
         
-        // Calculate human percentile
+        // Calculate weighted human percentile
         if (modelHumanPercentile.has(model) && modelHumanPercentile.get(model).has(compKey)) {
           const percentileData = modelHumanPercentile.get(model).get(compKey);
-          if (Array.isArray(percentileData)) {
-            // Treat each subdivision independently
-            for (const percentile of percentileData) {
-              totalPercentile += percentile;
-              percentileCount++;
+          const tasksData = includedTasksData;
+          
+          if (Array.isArray(percentileData) && Array.isArray(tasksData)) {
+            // Treat each subdivision independently with weighted average
+            for (let i = 0; i < percentileData.length; i++) {
+              const percentile = percentileData[i];
+              const weight = tasksData[i];
+              // Skip if percentile or weight is missing/invalid (NaN, undefined, null, or weight is 0)
+              if (percentile != null && !isNaN(percentile) && weight != null && !isNaN(weight) && weight > 0) {
+                weightedPercentileSum += percentile * weight;
+                totalPercentileWeight += weight;
+              }
             }
-          } else {
-            totalPercentile += percentileData;
-            percentileCount++;
+          } else if (!Array.isArray(percentileData) && !Array.isArray(tasksData)) {
+            const percentile = percentileData;
+            const weight = tasksData;
+            // Skip if percentile or weight is missing/invalid (NaN, undefined, null, or weight is 0)
+            if (percentile != null && !isNaN(percentile) && weight != null && !isNaN(weight) && weight > 0) {
+              weightedPercentileSum += percentile * weight;
+              totalPercentileWeight += weight;
+            }
           }
         }
         
-        // Aggregate medals
+        // Aggregate medals (unchanged - no weighting for medals)
         if (modelMedals.has(model) && modelMedals.get(model).has(compKey)) {
           const medals = modelMedals.get(model).get(compKey);
           const counts = modelMedalCounts.get(model);
@@ -452,15 +494,15 @@ const competitions = [
         }
       }
       
-      // Store calculated averages
-      if (passRateCount > 0) {
-        modelAvgPassRates.set(model, totalPassRate / passRateCount);
+      // Store calculated weighted averages
+      if (totalPassRateWeight > 0) {
+        modelAvgPassRates.set(model, weightedPassRateSum / totalPassRateWeight);
       }
-      if (scoreCount > 0) {
-        modelAvgScores.set(model, totalScore / scoreCount);
+      if (totalScoreWeight > 0) {
+        modelAvgScores.set(model, weightedScoreSum / totalScoreWeight);
       }
-      if (percentileCount > 0) {
-        modelAvgPercentiles.set(model, totalPercentile / percentileCount);
+      if (totalPercentileWeight > 0) {
+        modelAvgPercentiles.set(model, weightedPercentileSum / totalPercentileWeight);
       }
     }
   
@@ -920,6 +962,7 @@ const competitions = [
               const medalIdx = headers.indexOf('Medal');
               const scoreIdx = headers.indexOf('Relative Score (%)');
               const percentileIdx = headers.indexOf('Human Percentile');
+              const includedTasksIdx = headers.indexOf('Included Tasks');
               
               if (modelIdx === -1 || scoreIdx === -1) {
                   console.error(`Required columns not found in ${filepath}`);
@@ -930,21 +973,65 @@ const competitions = [
               const percentiles = new Map();
               const passRates = new Map();
               const medals = new Map();
+              const includedTasks = new Map();
               
               for (let i = 1; i < rows.length; i++) {
                   const cells = rows[i].split(',');
                   const model = cells[modelIdx].trim();
-                  const score = parseFloat(cells[scoreIdx]) || 0;
-                  const percentile = percentileIdx !== -1 ? parseFloat(cells[percentileIdx]) || 0 : 0;
-                  const passRate = passRateIdx !== -1 ? parseFloat(cells[passRateIdx]) || 0 : 0;
-                  const medal = medalIdx !== -1 ? cells[medalIdx].trim() : 'None';
                   
-                  scores.set(model, score);
-                  percentiles.set(model, percentile);
-                  passRates.set(model, passRate);
+                  // Parse relative score - store null if missing/empty
+                  let score = null;
+                  if (scoreIdx !== -1) {
+                      const scoreStr = cells[scoreIdx]?.trim();
+                      if (scoreStr && scoreStr !== '') {
+                          const parsed = parseFloat(scoreStr);
+                          if (!isNaN(parsed)) {
+                              score = parsed;
+                          }
+                      }
+                  }
+                  
+                  // Parse percentile - store null if missing/empty
+                  let percentile = null;
+                  if (percentileIdx !== -1) {
+                      const percentileStr = cells[percentileIdx]?.trim();
+                      if (percentileStr && percentileStr !== '') {
+                          const parsed = parseFloat(percentileStr);
+                          if (!isNaN(parsed)) {
+                              percentile = parsed;
+                          }
+                      }
+                  }
+                  
+                  // Parse pass rate - store null if missing/empty
+                  let passRate = null;
+                  if (passRateIdx !== -1) {
+                      const passRateStr = cells[passRateIdx]?.trim();
+                      if (passRateStr && passRateStr !== '') {
+                          const parsed = parseFloat(passRateStr);
+                          if (!isNaN(parsed)) {
+                              passRate = parsed;
+                          }
+                      }
+                  }
+                  
+                  const medal = medalIdx !== -1 ? cells[medalIdx].trim() : 'None';
+                  const includedTasksCount = includedTasksIdx !== -1 ? parseFloat(cells[includedTasksIdx]) || 0 : 0;
+                  
+                  // Only store if not null (skip missing values)
+                  if (score !== null) {
+                      scores.set(model, score);
+                  }
+                  if (percentile !== null) {
+                      percentiles.set(model, percentile);
+                  }
+                  if (passRate !== null) {
+                      passRates.set(model, passRate);
+                  }
                   medals.set(model, medal);
+                  includedTasks.set(model, includedTasksCount);
               }
-              return { scores, percentiles, passRates, medals };
+              return { scores, percentiles, passRates, medals, includedTasks };
           } catch (error) {
               console.error(`Error processing ${filepath}:`, error);
               return null;
@@ -1054,6 +1141,26 @@ const competitions = [
                       modelMedalMap.set(compKey, []);
                   }
                   modelMedalMap.get(compKey).push(medal);
+              }
+
+              // Update modelIncludedTasks map (for weighted averaging)
+              for (const [model, includedTasksCount] of result.includedTasks) {
+                  if (!modelIncludedTasks.has(model)) {
+                      modelIncludedTasks.set(model, new Map());
+                  }
+                  const modelTasks = modelIncludedTasks.get(model);
+                  
+                  // If we already have included tasks for this competition+year, store as array
+                  if (modelTasks.has(compKey)) {
+                      const existingData = modelTasks.get(compKey);
+                      if (Array.isArray(existingData)) {
+                          existingData.push(includedTasksCount);
+                      } else {
+                          modelTasks.set(compKey, [existingData, includedTasksCount]);
+                      }
+                  } else {
+                      modelTasks.set(compKey, includedTasksCount);
+                  }
               }
           });
       } catch (error) {
