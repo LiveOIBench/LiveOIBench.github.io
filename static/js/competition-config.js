@@ -78,11 +78,9 @@ const COMPETITION_CONFIG = {
     },
     'COCI': {
       '2023': { 
-        subdivisions: ['CONTEST_#1', 'CONTEST_#2', 'CONTEST_#3', 'CONTEST_#4', 'CONTEST_#5'], 
+        subdivisions: ['CONTEST_#3', 'CONTEST_#4', 'CONTEST_#5'], 
         date: '20230411',
         divisions: {
-          'CONTEST_#1': { division: 'Division 4', avg_difficulty: 15.6 },
-          'CONTEST_#2': { division: 'Division 4', avg_difficulty: 14.8 },
           'CONTEST_#3': { division: 'Division 3', avg_difficulty: 16.0 },
           'CONTEST_#4': { division: 'Division 4', avg_difficulty: 15.4 },
           'CONTEST_#5': { division: 'Division 4', avg_difficulty: 15.2 }
