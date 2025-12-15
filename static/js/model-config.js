@@ -59,8 +59,8 @@ const MODEL_DISPLAY_NAMES = {
   'gpt-oss-20b-medium': 'GPT-OSS-20B-Medium',
   
   // All other models keep their original names
-  'gemini-2.5-pro': 'gemini-2.5-pro',
-  'gemini-2.5-flash': 'gemini-2.5-flash',
+  'gemini-2.5-pro': 'Gemini-2.5-pro',
+  'gemini-2.5-flash': 'Gemini-2.5-flash',
   'Qwen3-32B': 'Qwen3-32B',
   'deepseek-reasoner': 'Deepseek-R1',
   'Qwen3-14B': 'Qwen3-14B',
