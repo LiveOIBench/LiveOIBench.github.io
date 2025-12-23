@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+candy,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.040,5.16796875
+guessinggame,grok-4-fast-reasoning,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0
+carnival,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.040,3.87890625

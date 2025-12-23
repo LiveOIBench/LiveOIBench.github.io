@@ -1,5 +1,5 @@
-problem,model,status,score,%test passed,time,memory
-More_Gifts,gpt-oss-120b-low,ACCEPTED,100,100.00%,0.190,220.09375
-Big_Persimmon,gpt-oss-120b-low,TIME_LIMIT_EXCEEDED,56,73.47%,2.410,263.37890625
-Evidence_Board,gpt-oss-120b-low,RUNTIME_ERROR,7,8.09%,0.160,29.421875
-Draw_Polygon_Lines,gpt-oss-120b-low,RUNTIME_ERROR,53,82.19%,0.050,0.00390625
+problem,model,status,score,relative_score,%test passed,time,memory
+More_Gifts,gpt-oss-120b-low,ACCEPTED,100,100.00%,100.00%,0.250,220.09375
+Big_Persimmon,gpt-oss-120b-low,TIME_LIMIT_EXCEEDED,56,56.00%,73.47%,2.400,257.7109375
+Evidence_Board,gpt-oss-120b-low,RUNTIME_ERROR,7,7.00%,8.09%,0.180,30.171875
+Draw_Polygon_Lines,gpt-oss-120b-low,RUNTIME_ERROR,53,53.00%,82.19%,0.110,0.00390625

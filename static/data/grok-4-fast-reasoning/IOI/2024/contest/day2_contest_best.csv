@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+hieroglyphs,grok-4-fast-reasoning,RUNTIME_ERROR,3,3.00%,15.35%,0.040,20.87109375
+sphinx,grok-4-fast-reasoning,RUNTIME_ERROR,31,31.00%,64.66%,0.310,4.47265625
+mosaic,grok-4-fast-reasoning,MEMORY_LIMIT_EXCEEDED,37,37.00%,82.86%,0.780,2455.6796875

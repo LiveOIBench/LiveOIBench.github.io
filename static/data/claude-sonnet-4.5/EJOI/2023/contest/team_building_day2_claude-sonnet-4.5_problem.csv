@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+team_building_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,45,45.00%,42.86%,1.220,1.87109375,0,11,19,15,0,0,0,0,0
+team_building_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,45,45.00%,42.86%,1.220,4.51171875,0,11,19,15,0,0,0,0,0
+team_building_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,45,45.00%,42.86%,1.210,4.1328125,0,11,19,15,0,0,0,0,0
+team_building_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,45,45.00%,42.86%,1.220,4.390625,0,11,19,15,0,0,0,0,0
+team_building_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,45,45.00%,42.86%,1.220,2.0703125,0,11,19,15,0,0,0,0,0
+team_building_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,45,45.00%,42.86%,1.220,4.34375,0,11,19,15,0,0,0,0,0
+team_building_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,45,45.00%,42.86%,1.220,2.05859375,0,11,19,15,0,0,0,0,0
+team_building_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,45,45.00%,42.86%,1.210,2.0703125,0,11,19,15,0,0,0,0,0

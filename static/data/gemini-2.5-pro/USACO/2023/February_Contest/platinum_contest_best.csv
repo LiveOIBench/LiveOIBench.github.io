@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-platinum_Hungry_Cow,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,17,13.64%,6.620,5.75
-platinum_Problem_Setting,gemini-2.5-pro,WRONG_ANSWER,33,13.64%,0.130,33.96875
-platinum_Watching_Cowflix,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,76,29.17%,3.340,280.875
+problem,model,status,score,relative_score,%test passed,time,memory
+platinum_Hungry_Cow,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,17,5.31%,13.64%,7.210,6.7421875
+platinum_Problem_Setting,gemini-2.5-pro,WRONG_ANSWER,33,10.31%,13.64%,0.140,16.25
+platinum_Watching_Cowflix,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,76,23.03%,29.17%,3.610,306.40234375

@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+dirigent_claude-sonnet-4.5_0.cpp,ACCEPTED,70,100.00%,100.00%,0.100,3.6171875,15,20,35
+dirigent_claude-sonnet-4.5_1.cpp,ACCEPTED,70,100.00%,100.00%,0.110,2.5859375,15,20,35
+dirigent_claude-sonnet-4.5_2.cpp,ACCEPTED,70,100.00%,100.00%,0.410,3.62109375,15,20,35
+dirigent_claude-sonnet-4.5_3.cpp,ACCEPTED,70,100.00%,100.00%,0.070,2.58984375,15,20,35
+dirigent_claude-sonnet-4.5_4.cpp,ACCEPTED,70,100.00%,100.00%,0.550,7.7421875,15,20,35
+dirigent_claude-sonnet-4.5_5.cpp,ACCEPTED,70,100.00%,100.00%,0.080,2.58984375,15,20,35
+dirigent_claude-sonnet-4.5_6.cpp,ACCEPTED,70,100.00%,100.00%,0.120,3.6171875,15,20,35
+dirigent_claude-sonnet-4.5_7.cpp,ACCEPTED,70,100.00%,100.00%,0.470,3.6171875,15,20,35

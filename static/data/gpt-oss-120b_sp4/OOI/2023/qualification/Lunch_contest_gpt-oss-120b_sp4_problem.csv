@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Lunch_gpt-oss-120b_0.cpp,RUNTIME_ERROR,16,16.00%,38.14%,0.020,0,0.0,16.0,0,0,0,0,0
+Lunch_gpt-oss-120b_1.cpp,RUNTIME_ERROR,16,16.00%,28.57%,0.000,0,0,16.0,0,0,0,0,0
+Lunch_gpt-oss-120b_2.cpp,RUNTIME_ERROR,0,0.00%,3.57%,0.000,0,0,0,0,0,0,0,0
+Lunch_gpt-oss-120b_3.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,3.57%,0.020,0.00390625,0,0,0,0,0,0,0
+Lunch_gpt-oss-120b_4.cpp,RUNTIME_ERROR,0,0.00%,6.98%,0.020,0,0,0,0,0,0,0,0
+Lunch_gpt-oss-120b_5.cpp,RUNTIME_ERROR,0,0.00%,3.57%,0.000,0,0,0,0,0,0,0,0
+Lunch_gpt-oss-120b_6.cpp,RUNTIME_ERROR,0,0.00%,6.98%,0.000,0,0,0,0,0,0,0,0
+Lunch_gpt-oss-120b_7.cpp,RUNTIME_ERROR,0,0.00%,6.98%,0.000,0,0,0,0,0,0,0,0

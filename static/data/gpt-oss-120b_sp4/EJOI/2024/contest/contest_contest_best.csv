@@ -1,0 +1,7 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+cheese,gpt-oss-120b_sp4,RUNTIME_ERROR,72,72.00%,79.49%,0.730,93.078125
+oldorhei,gpt-oss-120b_sp4,ACCEPTED,100,100.00%,100.00%,0.120,15.27734375
+manypairs,gpt-oss-120b_sp4,RUNTIME_ERROR,0,0.00%,5.71%,0.270,49.4375
+cfduels,gpt-oss-120b_sp4,ACCEPTED,100,100.00%,100.00%,0.130,3.140625
+hora,gpt-oss-120b_sp4,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,0.020,1.48828125
+sweets,gpt-oss-120b_sp4,ACCEPTED,100,100.00%,100.00%,0.670,102.23828125

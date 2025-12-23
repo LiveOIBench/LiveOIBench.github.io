@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+bronze_Astral_Superposition,claude-sonnet-4.5,ACCEPTED,333,100.91%,100.00%,0.190,10.26953125
+bronze_Its_Mooin_Time_II,claude-sonnet-4.5,ACCEPTED,333,100.91%,100.00%,0.680,60.04296875
+bronze_Cow_Checkups,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,100,30.30%,46.15%,2.410,1.55859375

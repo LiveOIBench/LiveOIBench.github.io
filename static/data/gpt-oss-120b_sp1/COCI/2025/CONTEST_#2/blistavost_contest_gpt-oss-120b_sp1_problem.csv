@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+blistavost_gpt-oss-120b_0.cpp,RUNTIME_ERROR,0,0.00%,18.03%,1.490,1083.78515625,0,0,0,0
+blistavost_gpt-oss-120b_1.cpp,RUNTIME_ERROR,55,45.83%,40.98%,0.280,383.1171875,0,0,55,0
+blistavost_gpt-oss-120b_2.cpp,MEMORY_LIMIT_EXCEEDED,100,83.33%,81.97%,0.930,1083.6953125,20,25,55,0
+blistavost_gpt-oss-120b_3.cpp,RUNTIME_ERROR,75,62.50%,65.57%,0.270,384.3359375,0,0,55,20
+blistavost_gpt-oss-120b_4.cpp,RUNTIME_ERROR,95,79.17%,80.33%,1.060,2.48828125,20,0,55,20
+blistavost_gpt-oss-120b_5.cpp,RUNTIME_ERROR,75,62.50%,52.46%,1.080,1083.94921875,20,0,55,0
+blistavost_gpt-oss-120b_6.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.070,1.5546875,0,0,0,0
+blistavost_gpt-oss-120b_7.cpp,ACCEPTED,120,100.00%,100.00%,0.070,2.80078125,20,25,55,20

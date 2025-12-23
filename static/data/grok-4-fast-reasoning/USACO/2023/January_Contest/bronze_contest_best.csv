@@ -1,0 +1,3 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+bronze_Leaders,grok-4-fast-reasoning,ACCEPTED,333,100.91%,100.00%,0.010,1.8125
+bronze_Air_Cownditioning_II,grok-4-fast-reasoning,ACCEPTED,333,100.91%,100.00%,0.010,0.00390625

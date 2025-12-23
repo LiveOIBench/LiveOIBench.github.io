@@ -1,0 +1,6 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+sudoku,grok-4-fast-reasoning,ACCEPTED,50,100.00%,100.00%,0.000,0
+labirint,grok-4-fast-reasoning,ACCEPTED,70,100.00%,100.00%,0.020,2.06640625
+an2dl,grok-4-fast-reasoning,ACCEPTED,110,100.00%,100.00%,1.130,99.0078125
+kocke,grok-4-fast-reasoning,ACCEPTED,110,100.00%,100.00%,0.230,192.33984375
+mostovi,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,42,38.18%,85.35%,3.600,25.87890625

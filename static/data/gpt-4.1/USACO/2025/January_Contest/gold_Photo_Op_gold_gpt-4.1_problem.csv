@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
-gold_Photo_Op_gpt-4.1_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.290,35.26953125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-gold_Photo_Op_gpt-4.1_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.330,6.92578125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-gold_Photo_Op_gpt-4.1_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.290,81.8359375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-gold_Photo_Op_gpt-4.1_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.310,22.390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-gold_Photo_Op_gpt-4.1_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-gold_Photo_Op_gpt-4.1_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.410,11.5703125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-gold_Photo_Op_gpt-4.1_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.310,10.63671875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-gold_Photo_Op_gpt-4.1_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.270,12.28515625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Photo_Op_gpt-4.1_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.490,35.8515625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Photo_Op_gpt-4.1_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.540,7.234375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Photo_Op_gpt-4.1_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.490,85.73046875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Photo_Op_gpt-4.1_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.480,22.41796875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Photo_Op_gpt-4.1_4.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Photo_Op_gpt-4.1_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.500,11.82421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Photo_Op_gpt-4.1_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.490,10.63671875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Photo_Op_gpt-4.1_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.470,12.2890625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

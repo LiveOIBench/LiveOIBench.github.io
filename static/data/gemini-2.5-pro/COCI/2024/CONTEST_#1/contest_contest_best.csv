@@ -1,6 +1,6 @@
-problem,model,status,score,%test passed,time,memory
-sudoku,gemini-2.5-pro,ACCEPTED,50,100.00%,0.000,0
-labirint,gemini-2.5-pro,ACCEPTED,70,100.00%,0.050,0.00390625
-an2dl,gemini-2.5-pro,ACCEPTED,110,100.00%,1.080,99.0078125
-kocke,gemini-2.5-pro,RUNTIME_ERROR,0,13.33%,0.000,0
-mostovi,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,30,56.78%,3.360,10.32421875
+problem,model,status,score,relative_score,%test passed,time,memory
+sudoku,gemini-2.5-pro,ACCEPTED,50,100.00%,100.00%,0.000,0
+labirint,gemini-2.5-pro,ACCEPTED,70,100.00%,100.00%,0.060,1.55078125
+an2dl,gemini-2.5-pro,ACCEPTED,110,100.00%,100.00%,1.100,99.0078125
+kocke,gemini-2.5-pro,RUNTIME_ERROR,0,0.00%,13.33%,0.000,0
+mostovi,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,30,27.27%,56.78%,3.610,10.32421875

@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+2024-sp_Growing_Vegetables_is_Fun_5_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,30,30.00%,76.69%,5.970,15.14453125,4,5,21,0,0
+2024-sp_Growing_Vegetables_is_Fun_5_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,9,9.00%,63.45%,6.000,328.97265625,4,5,0,0,0
+2024-sp_Growing_Vegetables_is_Fun_5_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,30,30.00%,76.69%,5.970,19.015625,4,5,21,0,0
+2024-sp_Growing_Vegetables_is_Fun_5_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,9,9.00%,63.45%,5.990,522.8046875,4,5,0,0,0
+2024-sp_Growing_Vegetables_is_Fun_5_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,30,30.00%,76.69%,5.990,15.140625,4,5,21,0,0
+2024-sp_Growing_Vegetables_is_Fun_5_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,30,30.00%,76.69%,5.970,15.140625,4,5,21,0,0
+2024-sp_Growing_Vegetables_is_Fun_5_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,30,30.00%,76.69%,5.970,19.01171875,4,5,21,0,0
+2024-sp_Growing_Vegetables_is_Fun_5_claude-sonnet-4.5_7.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0

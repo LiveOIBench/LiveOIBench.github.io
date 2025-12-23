@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+blistavost_grok-4-fast-reasoning_0.cpp,ACCEPTED,120,100.00%,100.00%,0.020,1.6640625,20,25,55,20
+blistavost_grok-4-fast-reasoning_1.cpp,ACCEPTED,120,100.00%,100.00%,0.010,1.5,20,25,55,20
+blistavost_grok-4-fast-reasoning_2.cpp,ACCEPTED,120,100.00%,100.00%,0.110,2.7578125,20,25,55,20
+blistavost_grok-4-fast-reasoning_3.cpp,ACCEPTED,120,100.00%,100.00%,0.030,2.0703125,20,25,55,20
+blistavost_grok-4-fast-reasoning_4.cpp,ACCEPTED,120,100.00%,100.00%,0.020,1.8671875,20,25,55,20
+blistavost_grok-4-fast-reasoning_5.cpp,ACCEPTED,120,100.00%,100.00%,0.010,2.671875,20,25,55,20
+blistavost_grok-4-fast-reasoning_6.cpp,ACCEPTED,120,100.00%,100.00%,0.080,2.5859375,20,25,55,20
+blistavost_grok-4-fast-reasoning_7.cpp,ACCEPTED,120,100.00%,100.00%,0.030,1.5546875,20,25,55,20

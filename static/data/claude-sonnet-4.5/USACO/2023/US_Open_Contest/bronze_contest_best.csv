@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+bronze_FEB,claude-sonnet-4.5,MEMORY_LIMIT_EXCEEDED,118,36.53%,45.00%,0.720,306.43359375
+bronze_Moo_Language,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,44,13.33%,12.50%,2.420,36.4609375
+bronze_Rotate_and_Shift,claude-sonnet-4.5,MEMORY_LIMIT_EXCEEDED,167,51.54%,53.85%,0.400,306.3515625

@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-robot,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,0.00%,0.010,3.625
-overtaking,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,19,43.11%,0.150,0.00390625
-beechtree,Qwen3-32B-Non-Thinking,TIME_LIMIT_EXCEEDED,0,2.42%,1.660,24.984375
+problem,model,status,score,relative_score,%test passed,time,memory
+robot,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,0.00%,0.00%,0.000,3.72265625
+overtaking,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,19,19.00%,43.11%,0.130,0.00390625
+beechtree,Qwen3-32B-Non-Thinking,TIME_LIMIT_EXCEEDED,0,0.00%,2.42%,1.810,24.984375

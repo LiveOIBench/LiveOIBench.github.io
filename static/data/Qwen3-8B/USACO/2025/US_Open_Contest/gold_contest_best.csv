@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-gold_Moo_Decomposition,Qwen3-8B,TIME_LIMIT_EXCEEDED,0,4.00%,2.420,4.8359375
-gold_Election_Queries,Qwen3-8B,WRONG_ANSWER,0,6.67%,0.140,3.87109375
-gold_OohMoo_Milk,Qwen3-8B,TIME_LIMIT_EXCEEDED,59,25.00%,2.420,5.17578125
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Moo_Decomposition,Qwen3-8B,TIME_LIMIT_EXCEEDED,0,0.00%,4.00%,2.410,4.8125
+gold_Election_Queries,Qwen3-8B,WRONG_ANSWER,0,0.00%,6.67%,0.260,3.875
+gold_OohMoo_Milk,Qwen3-8B,TIME_LIMIT_EXCEEDED,59,18.27%,25.00%,2.470,5.17578125

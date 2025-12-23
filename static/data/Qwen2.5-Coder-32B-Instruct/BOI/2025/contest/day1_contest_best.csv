@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-boi,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,0.00%,0.000,0
-tou,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,5.17%,0.400,61.109375
-tow,Qwen2.5-Coder-32B-Instruct,TIME_LIMIT_EXCEEDED,0,16.67%,3.020,9.52734375
+problem,model,status,score,relative_score,%test passed,time,memory
+boi,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,0.00%,0.00%,0.020,0.00390625
+tou,Qwen2.5-Coder-32B-Instruct,RUNTIME_ERROR,0,0.00%,5.17%,0.360,61.3671875
+tow,Qwen2.5-Coder-32B-Instruct,TIME_LIMIT_EXCEEDED,0,0.00%,16.67%,2.410,9.00390625

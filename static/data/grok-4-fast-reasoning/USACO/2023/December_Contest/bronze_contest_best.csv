@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+bronze_Candy_Cane_Feast,grok-4-fast-reasoning,ACCEPTED,333,102.46%,100.00%,0.350,13.28125
+bronze_Cowntact_Tracing_2,grok-4-fast-reasoning,ACCEPTED,333,100.91%,100.00%,0.010,1.5546875
+bronze_Farmer_John_Actually_Farms,grok-4-fast-reasoning,ACCEPTED,333,100.91%,100.00%,0.040,4.9609375

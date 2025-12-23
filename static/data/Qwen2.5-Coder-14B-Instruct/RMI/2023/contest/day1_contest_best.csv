@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-Heroes,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
-Pinball,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
-AA_Tree,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.000,0
+problem,model,status,score,relative_score,%test passed,time,memory
+Heroes,Qwen2.5-Coder-14B-Instruct,RUNTIME_ERROR,0,0.00%,14.29%,0.140,0
+Pinball,Qwen2.5-Coder-14B-Instruct,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,3.600,129.52734375
+AA_Tree,Qwen2.5-Coder-14B-Instruct,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0

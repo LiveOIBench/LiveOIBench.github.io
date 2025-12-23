@@ -1,0 +1,7 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+fire,grok-4-fast-reasoning,RUNTIME_ERROR,0,0.00%,0.00%,0.210,93.5625
+jobs,grok-4-fast-reasoning,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0
+portal,grok-4-fast-reasoning,RUNTIME_ERROR,21,21.00%,42.41%,0.020,4.66015625
+tiles,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,13,13.00%,38.24%,1.210,31.19921875
+trains,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.990,313.5078125
+wall,grok-4-fast-reasoning,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0

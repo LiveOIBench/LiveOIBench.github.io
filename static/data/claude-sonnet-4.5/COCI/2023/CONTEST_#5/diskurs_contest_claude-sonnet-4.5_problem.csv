@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+diskurs_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,20,28.57%,24.00%,2.420,38.421875,20,0,0
+diskurs_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,20,28.57%,22.00%,2.420,5.46484375,20,0,0
+diskurs_claude-sonnet-4.5_2.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.050,5.421875,0,0,0
+diskurs_claude-sonnet-4.5_3.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.040,4.39453125,0,0,0
+diskurs_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,20,28.57%,24.00%,2.410,38.421875,20,0,0
+diskurs_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,20,28.57%,24.00%,2.410,40.7421875,20,0,0
+diskurs_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,20,28.57%,22.00%,2.410,1.7578125,20,0,0
+diskurs_claude-sonnet-4.5_7.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.030,4.39453125,0,0,0

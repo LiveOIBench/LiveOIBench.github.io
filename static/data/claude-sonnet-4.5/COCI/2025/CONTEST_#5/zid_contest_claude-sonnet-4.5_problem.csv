@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+zid_claude-sonnet-4.5_0.cpp,ACCEPTED,70,100.00%,100.00%,0.210,1.8125,17,21,32
+zid_claude-sonnet-4.5_1.cpp,ACCEPTED,70,100.00%,100.00%,0.180,1.5546875,17,21,32
+zid_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,38,54.29%,66.67%,1.210,2.5859375,17,21,0
+zid_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,38,54.29%,94.44%,1.210,2.5859375,17,21,0
+zid_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,38,54.29%,66.67%,1.210,2.5859375,17,21,0
+zid_claude-sonnet-4.5_5.cpp,ACCEPTED,70,100.00%,100.00%,0.330,1.5546875,17,21,32
+zid_claude-sonnet-4.5_6.cpp,ACCEPTED,70,100.00%,100.00%,0.190,1.8125,17,21,32
+zid_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,38,54.29%,94.44%,1.230,1.5546875,17,21,0

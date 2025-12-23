@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+travel_gpt-oss-120b_0.cpp,RUNTIME_ERROR,0,0.00%,2.38%,0.240,65.140625,0,0,0,0,0,0,0
+travel_gpt-oss-120b_1.cpp,RUNTIME_ERROR,0,0.00%,2.38%,0.300,64.625,0,0,0,0,0,0,0
+travel_gpt-oss-120b_2.cpp,RUNTIME_ERROR,0,0.00%,2.38%,0.260,67.82421875,0,0,0,0,0,0,0
+travel_gpt-oss-120b_3.cpp,RUNTIME_ERROR,0,0.00%,2.38%,0.280,68.08203125,0,0,0,0,0,0,0
+travel_gpt-oss-120b_4.cpp,RUNTIME_ERROR,0,0.00%,3.57%,0.300,68.08203125,0,0,0,0,0,0,0
+travel_gpt-oss-120b_5.cpp,RUNTIME_ERROR,0,0.00%,2.38%,0.270,65.140625,0,0,0,0,0,0,0
+travel_gpt-oss-120b_6.cpp,RUNTIME_ERROR,0,0.00%,3.57%,0.310,66.171875,0,0,0,0,0,0,0
+travel_gpt-oss-120b_7.cpp,RUNTIME_ERROR,0,0.00%,2.38%,0.280,68.08203125,0,0,0,0,0,0,0

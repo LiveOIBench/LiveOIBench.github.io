@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Custodial_Cleanup_gpt-oss-120b_0.cpp,WRONG_ANSWER,83,25.94%,27.78%,0.050,6.21484375,0,0,0,0,0,0,0,0,0,0,0,0,20.833333333333332,20.833333333333332,20.833333333333332,20.833333333333332,0
+gold_Custodial_Cleanup_gpt-oss-120b_1.cpp,WRONG_ANSWER,0,0.00%,5.56%,0.070,6.4765625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Custodial_Cleanup_gpt-oss-120b_2.cpp,WRONG_ANSWER,0,0.00%,5.56%,0.060,5.4375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Custodial_Cleanup_gpt-oss-120b_3.cpp,WRONG_ANSWER,0,0.00%,5.56%,0.060,6.98828125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Custodial_Cleanup_gpt-oss-120b_4.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.00%,0.020,1.69921875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Custodial_Cleanup_gpt-oss-120b_5.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.060,4.64453125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Custodial_Cleanup_gpt-oss-120b_6.cpp,WRONG_ANSWER,0,0.00%,5.56%,0.060,4.9296875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Custodial_Cleanup_gpt-oss-120b_7.cpp,WRONG_ANSWER,0,0.00%,5.56%,0.070,6.1953125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,8 +1,8 @@
-problem,status,score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
-message,RUNTIME_ERROR,10,44.44%,3.740,4.4296875,,0,10,0.0,0,0,0,0,0,0
-nile,TIME_LIMIT_EXCEEDED,17,20.69%,2.210,4.65625,,0,0,0,17,0,0,0,0,0
-tree,RUNTIME_ERROR,0,2.67%,0.040,6.93359375,,0,0,0,0,0,0,0,0,0
-hieroglyphs,RUNTIME_ERROR,3,6.99%,0.080,22.3046875,,0,3,0,0,0,0,0,0,0
-sphinx,RUNTIME_ERROR,10,49.52%,0.390,4.140625,,0,3,7,0.0,0.0,0.0,0,0,0
-mosaic,TIME_LIMIT_EXCEEDED,22,64.86%,1.110,2236.796875,,0,5,7,0,10,0,0,0,0
-TOTAL,,62,31.53%,,,0.00%,,,,,,,,,
+problem,status,score,relative_score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+message,RUNTIME_ERROR,10,10.00%,44.44%,1.230,4.53125,,0,10,0.0,0,0,0,0,0,0
+nile,TIME_LIMIT_EXCEEDED,17,17.00%,20.69%,2.410,6.6484375,,0,0,0,17,0,0,0,0,0
+tree,RUNTIME_ERROR,0,0.00%,2.67%,0.050,6.4609375,,0,0,0,0,0,0,0,0,0
+hieroglyphs,RUNTIME_ERROR,3,3.00%,6.99%,0.070,21.53125,,0,3,0,0,0,0,0,0,0
+sphinx,RUNTIME_ERROR,10,10.00%,49.52%,0.310,4.16015625,,0,3,7,0.0,0.0,0.0,0,0,0
+mosaic,MEMORY_LIMIT_EXCEEDED,22,22.00%,64.86%,0.910,2444.3359375,,0,5,7,0,10,0,0,0,0
+TOTAL,,62,,31.53%,,,0.00%,,,,,,,,,

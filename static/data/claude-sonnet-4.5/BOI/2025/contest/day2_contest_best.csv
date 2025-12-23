@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+dev,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,4,4.00%,21.55%,2.420,613.59765625
+exp,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,14,14.00%,22.82%,1.210,29.19921875
+gcd,claude-sonnet-4.5,ACCEPTED,100,100.00%,100.00%,0.090,10.3203125

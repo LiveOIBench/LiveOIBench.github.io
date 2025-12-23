@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_21,subtask_22,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Watching_Cowflix_grok-4-fast-reasoning_0.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watching_Cowflix_grok-4-fast-reasoning_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,3.620,306.45703125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watching_Cowflix_grok-4-fast-reasoning_2.cpp,WRONG_ANSWER,0,0.00%,8.33%,0.070,43.15234375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watching_Cowflix_grok-4-fast-reasoning_3.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watching_Cowflix_grok-4-fast-reasoning_4.cpp,WRONG_ANSWER,15,4.55%,12.50%,0.070,40.890625,0,0,0,0,0,0,0,0,0,15.15151515151515,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watching_Cowflix_grok-4-fast-reasoning_5.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.210,91.56640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watching_Cowflix_grok-4-fast-reasoning_6.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watching_Cowflix_grok-4-fast-reasoning_7.cpp,WRONG_ANSWER,15,4.55%,12.50%,0.070,39.171875,0,0,0,0,0,0,0,0,0,15.15151515151515,0,0,0,0,0,0,0,0,0,0,0,0,0

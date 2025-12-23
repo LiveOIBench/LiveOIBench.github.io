@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-message,gemini-2.5-pro,RUNTIME_ERROR,10,44.44%,4.270,4.328125
-nile,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,67,83.76%,2.210,10.5859375
-tree,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,10,25.88%,2.210,23.2734375
+problem,model,status,score,relative_score,%test passed,time,memory
+message,gemini-2.5-pro,RUNTIME_ERROR,10,10.00%,44.44%,1.270,4.44140625
+nile,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,67,67.00%,83.76%,2.410,11.875
+tree,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,10,10.00%,25.88%,2.420,23.26953125

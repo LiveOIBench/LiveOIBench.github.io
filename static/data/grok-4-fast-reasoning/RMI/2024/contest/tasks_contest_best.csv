@@ -1,0 +1,7 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+Choose_Interval,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,86,86.00%,92.37%,1.800,14.125
+Jump_Civilization,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,33,33.00%,43.08%,1.210,613.421875
+Octagon,grok-4-fast-reasoning,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0
+Ramen,grok-4-fast-reasoning,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0
+Signals,grok-4-fast-reasoning,RUNTIME_ERROR,10,10.00%,22.86%,0.230,73.9921875
+Skittlez,grok-4-fast-reasoning,RUNTIME_ERROR,0,0.00%,0.00%,0.000,3.2421875

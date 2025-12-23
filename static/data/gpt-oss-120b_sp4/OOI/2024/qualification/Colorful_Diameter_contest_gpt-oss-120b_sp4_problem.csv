@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Colorful_Diameter_gpt-oss-120b_0.cpp,RUNTIME_ERROR,19,19.00%,29.86%,1.070,15.71484375,0,0,0,0,0,0,11.0,8.0,0,0
+Colorful_Diameter_gpt-oss-120b_1.cpp,RUNTIME_ERROR,19,19.00%,29.86%,0.880,12.4921875,0,0,0,0,0,0,11.0,8.0,0,0
+Colorful_Diameter_gpt-oss-120b_2.cpp,RUNTIME_ERROR,19,19.00%,39.69%,0.610,12.4921875,0.0,0,0,0,0,0,11.0,8.0,0,0
+Colorful_Diameter_gpt-oss-120b_3.cpp,RUNTIME_ERROR,19,19.00%,29.86%,0.940,15.8125,0,0,0,0,0,0,11.0,8.0,0,0
+Colorful_Diameter_gpt-oss-120b_4.cpp,RUNTIME_ERROR,19,19.00%,32.76%,1.400,9.03125,0,0,0,0,0,0,11.0,8.0,0,0
+Colorful_Diameter_gpt-oss-120b_5.cpp,RUNTIME_ERROR,19,19.00%,29.86%,0.950,12.86328125,0,0,0,0,0,0,11.0,8.0,0,0
+Colorful_Diameter_gpt-oss-120b_6.cpp,UNKNOWN,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0
+Colorful_Diameter_gpt-oss-120b_7.cpp,UNKNOWN,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0

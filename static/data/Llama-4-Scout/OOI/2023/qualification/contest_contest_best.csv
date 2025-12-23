@@ -1,10 +1,10 @@
-problem,model,status,score,%test passed,time,memory
-Paired_roads,Llama-4-Scout,UNKNOWN,0,0.00%,0.000,0
-Legs_warm-up_exercise,Llama-4-Scout,UNKNOWN,0,0.00%,0.000,0
-Hard_problem,Llama-4-Scout,ACCEPTED,100,100.00%,0.050,3.62109375
-Yet_another_queries,Llama-4-Scout,TIME_LIMIT_EXCEEDED,19,49.24%,1.810,5.421875
-Lunch,Llama-4-Scout,UNKNOWN,0,0.00%,0.000,0
-Tournament,Llama-4-Scout,ACCEPTED,100,100.00%,0.020,0.00390625
-You_need_to_train_more,Llama-4-Scout,RUNTIME_ERROR,0,6.98%,0.000,0
-Colorful_graph,Llama-4-Scout,UNKNOWN,0,0.00%,0.000,0
-Space_accident,Llama-4-Scout,RUNTIME_ERROR,0,12.88%,0.690,2.07421875
+problem,model,status,score,relative_score,%test passed,time,memory
+Paired_roads,Llama-4-Scout,UNKNOWN,0,0.00%,0.00%,0.000,0
+Legs_warm-up_exercise,Llama-4-Scout,UNKNOWN,0,0.00%,0.00%,0.000,0
+Hard_problem,Llama-4-Scout,ACCEPTED,100,100.00%,100.00%,0.150,3.62109375
+Yet_another_queries,Llama-4-Scout,TIME_LIMIT_EXCEEDED,19,19.00%,49.24%,1.800,5.42578125
+Lunch,Llama-4-Scout,UNKNOWN,0,0.00%,0.00%,0.000,0
+Tournament,Llama-4-Scout,ACCEPTED,100,100.00%,100.00%,0.110,0
+You_need_to_train_more,Llama-4-Scout,RUNTIME_ERROR,0,0.00%,6.98%,0.000,0
+Colorful_graph,Llama-4-Scout,UNKNOWN,0,0.00%,0.00%,0.000,0
+Space_accident,Llama-4-Scout,RUNTIME_ERROR,0,0.00%,12.88%,0.770,2.07421875

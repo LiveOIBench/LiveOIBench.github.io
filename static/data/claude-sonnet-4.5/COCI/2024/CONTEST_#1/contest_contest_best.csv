@@ -1,0 +1,6 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+sudoku,claude-sonnet-4.5,ACCEPTED,50,100.00%,100.00%,0.010,0
+labirint,claude-sonnet-4.5,ACCEPTED,70,100.00%,100.00%,0.050,0.00390625
+an2dl,claude-sonnet-4.5,ACCEPTED,110,100.00%,100.00%,1.060,114.4765625
+kocke,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,20,18.18%,40.00%,2.410,613.59375
+mostovi,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,55,50.00%,63.37%,3.610,8.0234375

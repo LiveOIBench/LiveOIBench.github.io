@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Lazy_Cow_grok-4-fast-reasoning_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.410,7.6015625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Lazy_Cow_grok-4-fast-reasoning_1.cpp,WRONG_ANSWER,0,0.00%,15.00%,0.050,0.00390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Lazy_Cow_grok-4-fast-reasoning_2.cpp,TIME_LIMIT_EXCEEDED,20,6.19%,5.00%,2.420,4.125,0,0,0,0,0,0,0,0,0,0,19.6078431372549,0,0,0,0,0,0,0
+platinum_Lazy_Cow_grok-4-fast-reasoning_3.cpp,WRONG_ANSWER,20,6.19%,15.00%,0.420,20.11328125,0,0,0,0,0,0,0,0,0,0,19.6078431372549,0,0,0,0,0,0,0
+platinum_Lazy_Cow_grok-4-fast-reasoning_4.cpp,TIME_LIMIT_EXCEEDED,98,30.34%,40.00%,2.410,5.85546875,0,19.6078431372549,0,0,0,0,0,0,0,0,19.6078431372549,19.6078431372549,19.6078431372549,19.6078431372549,0,0,0,0
+platinum_Lazy_Cow_grok-4-fast-reasoning_5.cpp,WRONG_ANSWER,20,6.19%,15.00%,0.210,5.94140625,0,0,0,0,0,0,0,0,0,0,19.6078431372549,0,0,0,0,0,0,0
+platinum_Lazy_Cow_grok-4-fast-reasoning_6.cpp,RUNTIME_ERROR,20,6.19%,15.00%,0.310,4.390625,0,0,0,0,0,0,0,0,0,0,19.6078431372549,0,0,0,0,0,0,0
+platinum_Lazy_Cow_grok-4-fast-reasoning_7.cpp,WRONG_ANSWER,0,0.00%,10.00%,0.220,9.54296875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

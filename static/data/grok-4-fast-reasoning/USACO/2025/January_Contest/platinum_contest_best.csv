@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+platinum_DFS_Order,grok-4-fast-reasoning,ACCEPTED,333,104.06%,100.00%,0.140,14.4453125
+platinum_Shock_Wave,grok-4-fast-reasoning,WRONG_ANSWER,26,8.00%,14.29%,0.040,2.015625
+platinum_Watering_the_Plants,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,62,19.38%,31.58%,2.420,14.3203125

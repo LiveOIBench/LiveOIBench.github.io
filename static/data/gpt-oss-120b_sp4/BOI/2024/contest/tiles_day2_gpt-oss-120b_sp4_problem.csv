@@ -1,0 +1,8 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+tiles_gpt-oss-120b_0.cpp,RUNTIME_ERROR,0,0.00%,1.33%,0.040,4.390625,0,0,0,0,0,0,0
+tiles_gpt-oss-120b_1.cpp,RUNTIME_ERROR,4,4.00%,9.93%,0.050,4.390625,4,0,0,0,0,0,0
+tiles_gpt-oss-120b_2.cpp,RUNTIME_ERROR,0,0.00%,2.60%,0.060,8.37890625,0,0,0,0,0,0,0
+tiles_gpt-oss-120b_3.cpp,RUNTIME_ERROR,24,24.00%,46.37%,0.070,7.6953125,4,9,11,0,0,0,0
+tiles_gpt-oss-120b_5.cpp,RUNTIME_ERROR,4,4.00%,18.52%,0.040,4.39453125,4,0,0,0,0,0,0
+tiles_gpt-oss-120b_6.cpp,RUNTIME_ERROR,4,4.00%,8.61%,0.050,6.0546875,4,0,0,0,0,0,0
+tiles_gpt-oss-120b_7.cpp,RUNTIME_ERROR,0,0.00%,1.33%,0.070,10.57421875,0,0,0,0,0,0,0

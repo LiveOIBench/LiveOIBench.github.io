@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3
+animeshops_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,23,23.00%,60.00%,1.220,13.515625,23,0,0
+animeshops_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,23,23.00%,60.00%,1.210,8.9453125,23,0,0
+animeshops_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,23,23.00%,50.00%,1.220,90.234375,23,0,0
+animeshops_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,23,23.00%,60.00%,1.210,402.8828125,23,0,0
+animeshops_claude-sonnet-4.5_4.cpp,ACCEPTED,100,100.00%,100.00%,0.100,15.73046875,23,16,61
+animeshops_claude-sonnet-4.5_5.cpp,MEMORY_LIMIT_EXCEEDED,23,23.00%,60.00%,0.360,601.77734375,23,0,0
+animeshops_claude-sonnet-4.5_6.cpp,ACCEPTED,100,100.00%,100.00%,0.130,15.734375,23,16,61
+animeshops_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,35.00%,1.210,86.109375,0,0,0

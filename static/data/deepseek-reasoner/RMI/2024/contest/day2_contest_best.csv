@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-Jump_Civilization,deepseek-reasoner,RUNTIME_ERROR,11,15.69%,0.080,26.55078125
-Ramen,deepseek-reasoner,COMPILATION_ERROR,0,0.00%,0.000,0
-Signals,deepseek-reasoner,RUNTIME_ERROR,2,8.57%,0.190,20.375
+problem,model,status,score,relative_score,%test passed,time,memory
+Jump_Civilization,deepseek-reasoner,RUNTIME_ERROR,11,11.00%,15.69%,0.180,26.55078125
+Ramen,deepseek-reasoner,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0
+Signals,deepseek-reasoner,RUNTIME_ERROR,2,2.00%,8.57%,0.270,20.37890625

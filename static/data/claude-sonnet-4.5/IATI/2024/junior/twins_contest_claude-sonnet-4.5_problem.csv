@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+twins_claude-sonnet-4.5_0.cpp,RUNTIME_ERROR,40,40.00%,35.88%,0.020,3.08984375,40,0,0
+twins_claude-sonnet-4.5_1.cpp,UNKNOWN,0,0.00%,0.00%,0.000,0,0,0,0
+twins_claude-sonnet-4.5_2.cpp,UNKNOWN,0,0.00%,0.00%,0.000,0,0,0,0
+twins_claude-sonnet-4.5_3.cpp,RUNTIME_ERROR,40,40.00%,35.88%,0.020,3.171875,40,0,0
+twins_claude-sonnet-4.5_4.cpp,RUNTIME_ERROR,40,40.00%,35.88%,0.020,3.171875,40,0,0
+twins_claude-sonnet-4.5_5.cpp,RUNTIME_ERROR,40,40.00%,35.88%,0.020,2.0625,40,0,0
+twins_claude-sonnet-4.5_6.cpp,ACCEPTED,100,100.00%,100.00%,0.050,3.5859375,40,10,50
+twins_claude-sonnet-4.5_7.cpp,RUNTIME_ERROR,40,40.00%,35.88%,0.020,3.171875,40,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Flight_Routes,claude-sonnet-4.5,ACCEPTED,333,104.06%,100.00%,0.060,5.6796875
+gold_Minimum_Longest_Trip,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,83,25.94%,40.00%,2.420,22.5546875
+gold_Haybale_Distribution,claude-sonnet-4.5,ACCEPTED,333,100.91%,100.00%,0.070,4.39453125

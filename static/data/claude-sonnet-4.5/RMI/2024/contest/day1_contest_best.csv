@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+Choose_Interval,claude-sonnet-4.5,RUNTIME_ERROR,7,7.00%,41.89%,0.150,0.00390625
+Skittlez,claude-sonnet-4.5,MEMORY_LIMIT_EXCEEDED,28,28.00%,56.00%,0.380,306.2890625
+Octagon,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,9,9.00%,50.98%,2.410,0.00390625

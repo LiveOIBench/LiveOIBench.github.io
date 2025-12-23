@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-sequence,deepseek-chat,TIME_LIMIT_EXCEEDED,11,48.31%,1.800,46.80859375
-abc,deepseek-chat,RUNTIME_ERROR,12,39.29%,0.190,15.86328125
-cyberland,deepseek-chat,TIME_LIMIT_EXCEEDED,97,92.68%,2.980,73.9921875
+problem,model,status,score,relative_score,%test passed,time,memory
+sequence,deepseek-chat,TIME_LIMIT_EXCEEDED,11,11.00%,48.31%,1.820,64.33984375
+abc,deepseek-chat,RUNTIME_ERROR,12,12.00%,39.29%,0.190,15.6640625
+cyberland,deepseek-chat,TIME_LIMIT_EXCEEDED,97,97.00%,92.68%,2.970,73.98828125

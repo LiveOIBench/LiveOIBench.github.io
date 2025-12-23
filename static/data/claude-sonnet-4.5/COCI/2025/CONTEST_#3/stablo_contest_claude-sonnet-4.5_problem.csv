@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+stablo_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,21,17.50%,35.29%,2.420,62.31640625,21,0,0,0
+stablo_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,21,17.50%,35.29%,2.430,71.953125,21,0,0,0
+stablo_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,21,17.50%,36.76%,2.420,56.72265625,21,0,0,0
+stablo_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,21,17.50%,35.29%,2.410,85.34375,21,0,0,0
+stablo_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,21,17.50%,35.29%,2.420,58.49609375,21,0,0,0
+stablo_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,21,17.50%,35.29%,2.420,92.828125,21,0,0,0
+stablo_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,21,17.50%,35.29%,2.420,60.59375,21,0,0,0
+stablo_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,21,17.50%,35.29%,2.420,58.59375,21,0,0,0

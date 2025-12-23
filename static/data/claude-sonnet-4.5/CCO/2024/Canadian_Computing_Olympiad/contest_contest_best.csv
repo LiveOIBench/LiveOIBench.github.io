@@ -1,0 +1,7 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+d1p1,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,5,20.00%,23.21%,4.810,91.78515625
+d1p2,claude-sonnet-4.5,ACCEPTED,25,100.00%,100.00%,0.410,81.72265625
+d1p3,claude-sonnet-4.5,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.00%,4.050,1228.07421875
+d2p1,claude-sonnet-4.5,RUNTIME_ERROR,0,0.00%,0.00%,0.010,0.00390625
+d2p2,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,4,16.00%,26.26%,4.810,28.13671875
+d2p3,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,5,20.00%,32.18%,4.810,7.7890625

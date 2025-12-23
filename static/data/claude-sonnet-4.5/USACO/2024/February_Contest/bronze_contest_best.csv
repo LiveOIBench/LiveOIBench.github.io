@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+bronze_Palindrome_Game,claude-sonnet-4.5,ACCEPTED,333,102.78%,100.00%,0.020,1.59375
+bronze_Milk_Exchange,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,205,63.08%,68.75%,2.410,5.34765625
+bronze_Maximizing_Productivity,claude-sonnet-4.5,ACCEPTED,333,104.06%,100.00%,0.100,3.62109375

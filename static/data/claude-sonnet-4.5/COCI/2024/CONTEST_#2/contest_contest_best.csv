@@ -1,0 +1,6 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+pahuljice,claude-sonnet-4.5,ACCEPTED,50,100.00%,100.00%,0.010,0
+pingvin,claude-sonnet-4.5,ACCEPTED,70,100.00%,100.00%,0.030,3.61328125
+dizalo,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,35,31.82%,47.37%,3.610,2.51953125
+kuglice,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,25,22.73%,51.35%,0.610,22.23828125
+zatopljenje,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,30,27.27%,62.50%,2.410,20.73828125

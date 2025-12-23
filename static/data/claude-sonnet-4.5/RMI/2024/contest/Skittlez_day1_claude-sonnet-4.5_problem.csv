@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+Skittlez_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,7,7.00%,37.21%,2.410,306.2890625,0,7,0,0,0
+Skittlez_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,7,7.00%,37.21%,2.410,306.2890625,0,7,0,0,0
+Skittlez_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,7,7.00%,37.21%,2.410,14.69921875,0,7,0,0,0
+Skittlez_claude-sonnet-4.5_3.cpp,MEMORY_LIMIT_EXCEEDED,28,28.00%,56.00%,0.380,306.2890625,0,7,21,0,0
+Skittlez_claude-sonnet-4.5_4.cpp,MEMORY_LIMIT_EXCEEDED,7,7.00%,40.91%,1.440,305.6171875,0,7,0,0,0
+Skittlez_claude-sonnet-4.5_5.cpp,MEMORY_LIMIT_EXCEEDED,7,7.00%,44.44%,0.810,306.33984375,0,7,0,0,0
+Skittlez_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,7,7.00%,37.21%,2.420,306.2890625,0,7,0,0,0
+Skittlez_claude-sonnet-4.5_7.cpp,MEMORY_LIMIT_EXCEEDED,7,7.00%,40.91%,0.960,305.6171875,0,7,0,0,0

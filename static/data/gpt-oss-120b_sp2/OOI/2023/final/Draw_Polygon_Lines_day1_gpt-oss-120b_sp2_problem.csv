@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_21,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Draw_Polygon_Lines_gpt-oss-120b_0.cpp,RUNTIME_ERROR,53,53.00%,82.19%,0.250,2.84765625,0,0,4.0,3.0,3.0,3.0,3.0,2.0,6.0,3.0,3.0,3.0,0,3.0,2.0,0,0,0,0,7.0,4.0,4.0
+Draw_Polygon_Lines_gpt-oss-120b_1.cpp,RUNTIME_ERROR,53,53.00%,82.19%,0.040,0.00390625,0,0,4.0,3.0,3.0,3.0,3.0,2.0,6.0,3.0,3.0,3.0,0,3.0,2.0,0,0,0,0,7.0,4.0,4.0
+Draw_Polygon_Lines_gpt-oss-120b_2.cpp,RUNTIME_ERROR,53,53.00%,82.19%,0.220,3.62109375,0,0,4.0,3.0,3.0,3.0,3.0,2.0,6.0,3.0,3.0,3.0,0,3.0,2.0,0,0,0,0,7.0,4.0,4.0
+Draw_Polygon_Lines_gpt-oss-120b_3.cpp,RUNTIME_ERROR,53,53.00%,82.19%,0.230,2.84765625,0,0,4.0,3.0,3.0,3.0,3.0,2.0,6.0,3.0,3.0,3.0,0,3.0,2.0,0,0,0,0,7.0,4.0,4.0
+Draw_Polygon_Lines_gpt-oss-120b_4.cpp,RUNTIME_ERROR,53,53.00%,82.19%,0.250,3.62109375,0,0,4.0,3.0,3.0,3.0,3.0,2.0,6.0,3.0,3.0,3.0,0,3.0,2.0,0,0,0,0,7.0,4.0,4.0
+Draw_Polygon_Lines_gpt-oss-120b_5.cpp,RUNTIME_ERROR,53,53.00%,82.19%,0.220,3.62109375,0,0,4.0,3.0,3.0,3.0,3.0,2.0,6.0,3.0,3.0,3.0,0,3.0,2.0,0,0,0,0,7.0,4.0,4.0
+Draw_Polygon_Lines_gpt-oss-120b_6.cpp,RUNTIME_ERROR,53,53.00%,82.19%,0.240,3.10546875,0,0,4.0,3.0,3.0,3.0,3.0,2.0,6.0,3.0,3.0,3.0,0,3.0,2.0,0,0,0,0,7.0,4.0,4.0
+Draw_Polygon_Lines_gpt-oss-120b_7.cpp,RUNTIME_ERROR,53,53.00%,82.19%,0.240,2.58984375,0,0,4.0,3.0,3.0,3.0,3.0,2.0,6.0,3.0,3.0,3.0,0,3.0,2.0,0,0,0,0,7.0,4.0,4.0

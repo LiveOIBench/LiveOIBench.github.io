@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
-Jump_Civilization_gemini-2.5-flash_0.cpp,TIME_LIMIT_EXCEEDED,0,7.84%,1.110,492.07421875,0,0,0,0,0,0
-Jump_Civilization_gemini-2.5-flash_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
-Jump_Civilization_gemini-2.5-flash_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
-Jump_Civilization_gemini-2.5-flash_3.cpp,TIME_LIMIT_EXCEEDED,0,7.84%,1.130,33.51953125,0,0,0,0,0,0
-Jump_Civilization_gemini-2.5-flash_4.cpp,TIME_LIMIT_EXCEEDED,6,34.43%,1.130,506.8515625,0,6,0,0,0,0
-Jump_Civilization_gemini-2.5-flash_5.cpp,RUNTIME_ERROR,0,4.08%,0.360,4.6484375,0,0,0,0,0,0
-Jump_Civilization_gemini-2.5-flash_6.cpp,TIME_LIMIT_EXCEEDED,6,26.32%,1.120,558.171875,0,6,0,0,0,0
-Jump_Civilization_gemini-2.5-flash_7.cpp,TIME_LIMIT_EXCEEDED,6,26.32%,1.110,37.4296875,0,6,0,0,0,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+Jump_Civilization_gemini-2.5-flash_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,7.84%,1.230,492.078125,0,0,0,0,0,0
+Jump_Civilization_gemini-2.5-flash_1.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0
+Jump_Civilization_gemini-2.5-flash_2.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0
+Jump_Civilization_gemini-2.5-flash_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,7.84%,1.290,33.7109375,0,0,0,0,0,0
+Jump_Civilization_gemini-2.5-flash_4.cpp,TIME_LIMIT_EXCEEDED,6,6.00%,34.43%,1.280,555.578125,0,6,0,0,0,0
+Jump_Civilization_gemini-2.5-flash_5.cpp,RUNTIME_ERROR,0,0.00%,4.08%,0.440,4.6484375,0,0,0,0,0,0
+Jump_Civilization_gemini-2.5-flash_6.cpp,TIME_LIMIT_EXCEEDED,6,6.00%,26.32%,1.210,609.734375,0,6,0,0,0,0
+Jump_Civilization_gemini-2.5-flash_7.cpp,TIME_LIMIT_EXCEEDED,6,6.00%,26.32%,1.280,37.17578125,0,6,0,0,0,0

@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-silver_Cowmpetency,Qwen3-4B-Non-Thinking,TIME_LIMIT_EXCEEDED,0,8.33%,2.280,3.28515625
-silver_Potion_Farming,Qwen3-4B-Non-Thinking,WRONG_ANSWER,0,6.67%,0.150,10.31640625
-silver_Cowlendar,Qwen3-4B-Non-Thinking,TIME_LIMIT_EXCEEDED,28,21.43%,2.210,2.328125
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_Cowmpetency,Qwen3-4B-Non-Thinking,TIME_LIMIT_EXCEEDED,0,0.00%,8.33%,2.470,3.28515625
+silver_Potion_Farming,Qwen3-4B-Non-Thinking,WRONG_ANSWER,0,0.00%,6.67%,0.150,8.76953125
+silver_Cowlendar,Qwen3-4B-Non-Thinking,TIME_LIMIT_EXCEEDED,28,8.64%,21.43%,2.410,1.7109375

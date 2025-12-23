@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-platinum_Pareidolia,gpt-4.1,TIME_LIMIT_EXCEEDED,17,9.52%,4.410,3.28125
-platinum_Good_Bitstrings,gpt-4.1,WRONG_ANSWER,0,0.00%,0.100,0
-platinum_Triples_of_Cows,gpt-4.1,TIME_LIMIT_EXCEEDED,39,25.00%,2.230,280.1875
+problem,model,status,score,relative_score,%test passed,time,memory
+platinum_Pareidolia,gpt-4.1,TIME_LIMIT_EXCEEDED,17,5.31%,9.52%,4.820,609.96875
+platinum_Good_Bitstrings,gpt-4.1,WRONG_ANSWER,0,0.00%,0.00%,0.000,0
+platinum_Triples_of_Cows,gpt-4.1,TIME_LIMIT_EXCEEDED,39,12.07%,25.00%,2.420,305.69921875

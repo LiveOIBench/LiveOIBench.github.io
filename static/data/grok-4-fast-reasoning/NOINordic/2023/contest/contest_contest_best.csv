@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+icecreammachines,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.070,18.0234375
+chatnoi,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,64,64.00%,81.05%,4.810,215.18359375
+islandalliances,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.070,16.20703125

@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+Circles,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,18,18.00%,47.37%,1.800,11.09375
+To_be_xor_not_to_be,claude-sonnet-4.5,RUNTIME_ERROR,9,9.00%,48.98%,0.020,1.80859375
+Statues,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,46,46.00%,80.33%,1.210,20.67578125

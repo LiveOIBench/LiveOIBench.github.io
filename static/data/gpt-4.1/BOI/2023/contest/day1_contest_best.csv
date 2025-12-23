@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-astronomer,gpt-4.1,TIME_LIMIT_EXCEEDED,0,28.89%,5.510,0.00390625
-staringcontest,gpt-4.1,RUNTIME_ERROR,0,4.27%,0.030,1.5234375
-tycho,gpt-4.1,TIME_LIMIT_EXCEEDED,47,91.22%,2.210,464.328125
+problem,model,status,score,relative_score,%test passed,time,memory
+astronomer,gpt-4.1,TIME_LIMIT_EXCEEDED,0,0.00%,28.89%,5.980,0.00390625
+staringcontest,gpt-4.1,RUNTIME_ERROR,0,0.00%,4.27%,0.030,1.546875
+tycho,gpt-4.1,TIME_LIMIT_EXCEEDED,47,47.00%,91.22%,2.410,464.328125

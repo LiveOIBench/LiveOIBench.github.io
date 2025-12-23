@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+sequence,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,40,40.00%,71.33%,1.800,42.703125
+abc,grok-4-fast-reasoning,RUNTIME_ERROR,4,4.00%,16.00%,0.170,14.21875
+cyberland,grok-4-fast-reasoning,RUNTIME_ERROR,97,97.00%,82.93%,0.320,12.9453125

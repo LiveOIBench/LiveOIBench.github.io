@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
-bronze_Making_Mexes_Qwen2.5-Coder-14B-Instruct_0.cpp,WRONG_ANSWER,0,0.00%,0.110,3.62109375,0,0,0,0,0,0,0,0,0,0,0
-bronze_Making_Mexes_Qwen2.5-Coder-14B-Instruct_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
-bronze_Making_Mexes_Qwen2.5-Coder-14B-Instruct_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
-bronze_Making_Mexes_Qwen2.5-Coder-14B-Instruct_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
-bronze_Making_Mexes_Qwen2.5-Coder-14B-Instruct_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
-bronze_Making_Mexes_Qwen2.5-Coder-14B-Instruct_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
-bronze_Making_Mexes_Qwen2.5-Coder-14B-Instruct_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
-bronze_Making_Mexes_Qwen2.5-Coder-14B-Instruct_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Making_Mexes_Qwen2.5-Coder-14B-Instruct_0.cpp,WRONG_ANSWER,0,0.00%,0.00%,0.160,3.62109375,0,0,0,0,0,0,0,0,0,0,0
+bronze_Making_Mexes_Qwen2.5-Coder-14B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.460,3.62109375,0,0,0,0,0,0,0,0,0,0,0
+bronze_Making_Mexes_Qwen2.5-Coder-14B-Instruct_2.cpp,WRONG_ANSWER,0,0.00%,0.00%,0.170,3.62109375,0,0,0,0,0,0,0,0,0,0,0
+bronze_Making_Mexes_Qwen2.5-Coder-14B-Instruct_3.cpp,WRONG_ANSWER,0,0.00%,0.00%,0.340,3.62109375,0,0,0,0,0,0,0,0,0,0,0
+bronze_Making_Mexes_Qwen2.5-Coder-14B-Instruct_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.550,3.62109375,0,0,0,0,0,0,0,0,0,0,0
+bronze_Making_Mexes_Qwen2.5-Coder-14B-Instruct_5.cpp,WRONG_ANSWER,0,0.00%,0.00%,0.370,2.84765625,0,0,0,0,0,0,0,0,0,0,0
+bronze_Making_Mexes_Qwen2.5-Coder-14B-Instruct_6.cpp,WRONG_ANSWER,0,0.00%,0.00%,0.170,3.62109375,0,0,0,0,0,0,0,0,0,0,0
+bronze_Making_Mexes_Qwen2.5-Coder-14B-Instruct_7.cpp,WRONG_ANSWER,0,0.00%,0.00%,0.160,3.62109375,0,0,0,0,0,0,0,0,0,0,0

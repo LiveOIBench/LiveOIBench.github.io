@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-jobs,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
-portal,Qwen3-4B-Non-Thinking,TIME_LIMIT_EXCEEDED,1,10.53%,1.120,10.578125
-trains,Qwen3-4B-Non-Thinking,TIME_LIMIT_EXCEEDED,21,78.26%,1.110,1.78125
+problem,model,status,score,relative_score,%test passed,time,memory
+jobs,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0
+portal,Qwen3-4B-Non-Thinking,TIME_LIMIT_EXCEEDED,1,1.00%,10.53%,1.210,2.34375
+trains,Qwen3-4B-Non-Thinking,TIME_LIMIT_EXCEEDED,21,21.00%,79.35%,1.220,1.78125

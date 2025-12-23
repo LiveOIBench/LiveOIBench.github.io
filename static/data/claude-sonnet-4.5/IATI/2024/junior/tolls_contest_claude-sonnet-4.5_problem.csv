@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+tolls_claude-sonnet-4.5_0.cpp,ACCEPTED,100,100.00%,100.00%,0.100,12.03125,0,5,5,10,20,10,20,30
+tolls_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,50,50.00%,86.12%,0.320,9.31640625,0,5,5,10,20,10,0,0
+tolls_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,20,20.00%,67.89%,0.300,9.54296875,0,5,5,10,0,0,0,0
+tolls_claude-sonnet-4.5_3.cpp,ACCEPTED,100,100.00%,100.00%,0.100,12.80078125,0,5,5,10,20,10,20,30
+tolls_claude-sonnet-4.5_4.cpp,ACCEPTED,100,100.00%,100.00%,0.110,11.60546875,0,5,5,10,20,10,20,30
+tolls_claude-sonnet-4.5_5.cpp,ACCEPTED,100,100.00%,100.00%,0.110,10.71484375,0,5,5,10,20,10,20,30
+tolls_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,20,20.00%,67.89%,0.320,8.76953125,0,5,5,10,0,0,0,0
+tolls_claude-sonnet-4.5_7.cpp,ACCEPTED,100,100.00%,100.00%,0.090,12.37890625,0,5,5,10,20,10,20,30

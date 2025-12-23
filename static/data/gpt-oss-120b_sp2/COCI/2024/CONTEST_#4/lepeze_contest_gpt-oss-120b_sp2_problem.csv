@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+lepeze_gpt-oss-120b_0.cpp,ACCEPTED,110,100.00%,100.00%,0.360,6.7109375,12,16,30,12,40
+lepeze_gpt-oss-120b_1.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.010,0,0,0,0,0,0
+lepeze_gpt-oss-120b_2.cpp,RUNTIME_ERROR,0,0.00%,1.92%,0.000,0,0,0,0,0,0
+lepeze_gpt-oss-120b_3.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0
+lepeze_gpt-oss-120b_4.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0
+lepeze_gpt-oss-120b_5.cpp,RUNTIME_ERROR,0,0.00%,3.85%,0.010,0,0,0,0,0,0
+lepeze_gpt-oss-120b_6.cpp,RUNTIME_ERROR,0,0.00%,3.85%,0.010,0,0,0,0,0,0
+lepeze_gpt-oss-120b_7.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.010,0,0,0,0,0,0

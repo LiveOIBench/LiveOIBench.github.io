@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-silver_Milk_Sum,gpt-5,ACCEPTED,333,100.00%,0.110,14.4453125
-silver_Field_Day,gpt-5,ACCEPTED,333,100.00%,0.030,3.8671875
-silver_Pareidolia,gpt-5,ACCEPTED,333,100.00%,0.030,33.765625
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_Milk_Sum,gpt-5,ACCEPTED,333,100.91%,100.00%,0.190,4.91015625
+silver_Field_Day,gpt-5,ACCEPTED,333,103.10%,100.00%,0.140,3.6171875
+silver_Pareidolia,gpt-5,ACCEPTED,333,100.91%,100.00%,0.120,1.67578125

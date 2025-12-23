@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-trade,gpt-4.1,TIME_LIMIT_EXCEEDED,0,31.75%,7.720,9.9609375
-incursion,gpt-4.1,COMPILATION_ERROR,0,0.00%,0.000,0
-avoid,gpt-4.1,RUNTIME_ERROR,10,7.41%,0.040,1.53515625
+problem,model,status,score,relative_score,%test passed,time,memory
+trade,gpt-4.1,TIME_LIMIT_EXCEEDED,0,0.00%,31.75%,8.410,9.96484375
+incursion,gpt-4.1,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0
+avoid,gpt-4.1,RUNTIME_ERROR,10,10.00%,7.41%,0.040,2.82421875

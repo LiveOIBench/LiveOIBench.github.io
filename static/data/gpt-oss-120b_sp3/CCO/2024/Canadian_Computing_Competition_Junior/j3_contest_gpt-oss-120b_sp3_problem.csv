@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+j3_gpt-oss-120b_0.cpp,ACCEPTED,15,100.00%,100.00%,0.010,0.00390625,6,7,2
+j3_gpt-oss-120b_1.cpp,RUNTIME_ERROR,13,86.67%,55.56%,0.010,0.00390625,6,7,0
+j3_gpt-oss-120b_1.cpp,RUNTIME_ERROR,13,86.67%,55.56%,0.010,0.00390625,6,7,0
+j3_gpt-oss-120b_2.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0
+j3_gpt-oss-120b_3.cpp,ACCEPTED,15,100.00%,100.00%,0.020,0.00390625,6,7,2
+j3_gpt-oss-120b_5.cpp,RUNTIME_ERROR,8,53.33%,88.89%,0.020,0.00390625,6,0,2
+j3_gpt-oss-120b_6.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0
+j3_gpt-oss-120b_7.cpp,ACCEPTED,15,100.00%,100.00%,0.020,0.00390625,6,7,2

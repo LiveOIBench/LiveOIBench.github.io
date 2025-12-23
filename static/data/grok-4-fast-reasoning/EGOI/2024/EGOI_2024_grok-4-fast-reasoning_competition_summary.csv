@@ -1,0 +1,8 @@
+problem,status,score,relative_score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+bouquet,ACCEPTED,100,100.00%,100.00%,0.050,16.51171875,,0,8,16,28,18,30
+infiniterace,ACCEPTED,100,100.00%,100.00%,0.030,3.5625,,0,29,34,22,15,0
+teamcoding,ACCEPTED,100,100.00%,100.00%,1.590,36.453125,,0,12,19,27,23,19
+circlepassing,ACCEPTED,100,100.00%,100.00%,0.040,5.16796875,,0,14,20,22,17,27
+makethemmeet,RUNTIME_ERROR,34,34.00%,42.86%,0.110,1.80859375,,0,10,13,11,0.0,0.0
+bikeparking,RUNTIME_ERROR,25,25.00%,61.49%,0.030,5.94140625,,0,16,9,0,0,0
+TOTAL,,459,,84.06%,,,66.67%,,,,,,

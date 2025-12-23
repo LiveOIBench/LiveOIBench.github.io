@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+bronze_Roundabout_Rounding,claude-sonnet-4.5,ACCEPTED,333,102.78%,100.00%,0.120,0.00390625
+bronze_Farmer_Johns_Cheese_Block,claude-sonnet-4.5,ACCEPTED,333,100.91%,100.00%,0.050,12.90234375
+bronze_Its_Mooin_Time,claude-sonnet-4.5,ACCEPTED,333,100.91%,100.00%,0.070,0.00390625

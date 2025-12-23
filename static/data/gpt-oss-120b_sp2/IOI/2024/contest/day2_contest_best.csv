@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+hieroglyphs,gpt-oss-120b_sp2,RUNTIME_ERROR,3,3.00%,15.15%,0.040,6.4609375
+sphinx,gpt-oss-120b_sp2,RUNTIME_ERROR,0,0.00%,3.26%,0.030,3.796875
+mosaic,gpt-oss-120b_sp2,RUNTIME_ERROR,0,0.00%,4.29%,0.080,7.0

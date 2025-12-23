@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+dizalo_gpt-oss-120b_0.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.230,18.83984375,0,0,0,0
+dizalo_gpt-oss-120b_1.cpp,TIME_LIMIT_EXCEEDED,29,26.36%,26.32%,3.610,4.00390625,0,0,29,0
+dizalo_gpt-oss-120b_2.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.270,19.19921875,0,0,0,0
+dizalo_gpt-oss-120b_3.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.220,19.59375,0,0,0,0
+dizalo_gpt-oss-120b_4.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.240,19.4609375,0,0,0,0
+dizalo_gpt-oss-120b_5.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.200,20.140625,0,0,0,0
+dizalo_gpt-oss-120b_6.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.280,19.58984375,0,0,0,0
+dizalo_gpt-oss-120b_7.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.240,18.81640625,0,0,0,0

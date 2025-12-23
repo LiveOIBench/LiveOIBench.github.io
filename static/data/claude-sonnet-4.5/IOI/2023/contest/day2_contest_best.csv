@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+robot,claude-sonnet-4.5,RUNTIME_ERROR,0,0.00%,0.67%,0.240,8.6484375
+overtaking,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,65,65.00%,86.26%,2.980,25.27734375
+beechtree,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,9,9.00%,28.49%,1.800,394.98828125

@@ -1,0 +1,5 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+2023-sp_Passport_grok-4-fast-reasoning_0.cpp,RUNTIME_ERROR,6,6.00%,47.14%,0.120,78.015625,6,0,0,0,0
+2023-sp_Passport_grok-4-fast-reasoning_2.cpp,RUNTIME_ERROR,6,6.00%,62.35%,0.050,39.0,6,0,0,0,0
+2023-sp_Passport_grok-4-fast-reasoning_3.cpp,RUNTIME_ERROR,6,6.00%,62.35%,0.060,18.1171875,6,0,0,0,0
+2023-sp_Passport_grok-4-fast-reasoning_7.cpp,RUNTIME_ERROR,0,0.00%,49.32%,1.540,52.9453125,0,0,0,0,0

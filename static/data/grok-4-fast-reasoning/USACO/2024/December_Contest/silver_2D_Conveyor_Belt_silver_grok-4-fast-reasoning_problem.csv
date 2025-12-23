@@ -1,0 +1,5 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_2D_Conveyor_Belt_grok-4-fast-reasoning_3.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.140,60.64453125,0,0,0,0,0,0,0,0,0,0,0
+silver_2D_Conveyor_Belt_grok-4-fast-reasoning_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.420,74.5078125,0,0,0,0,0,0,0,0,0,0,0
+silver_2D_Conveyor_Belt_grok-4-fast-reasoning_5.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.260,306.3984375,0,0,0,0,0,0,0,0,0,0,0
+silver_2D_Conveyor_Belt_grok-4-fast-reasoning_7.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.110,267.6171875,0,0,0,0,0,0,0,0,0,0,0

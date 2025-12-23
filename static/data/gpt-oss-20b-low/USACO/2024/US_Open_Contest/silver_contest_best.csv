@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-silver_Bessies_Interview,gpt-oss-20b-low,WRONG_ANSWER,33,9.52%,0.060,4.66015625
-silver_Painting_Fence_Posts,gpt-oss-20b-low,RUNTIME_ERROR,0,6.67%,0.330,68.5
-silver_The_Winning_Gene,gpt-oss-20b-low,WRONG_ANSWER,44,12.50%,0.100,1.60546875
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_Bessies_Interview,gpt-oss-20b-low,WRONG_ANSWER,33,10.31%,9.52%,0.170,4.66015625
+silver_Painting_Fence_Posts,gpt-oss-20b-low,RUNTIME_ERROR,0,0.00%,6.67%,0.430,68.50390625
+silver_The_Winning_Gene,gpt-oss-20b-low,WRONG_ANSWER,44,13.33%,12.50%,0.220,1.609375

@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+message_gpt-oss-120b_0.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.060,3.94921875,0,0.0,0.0
+message_gpt-oss-120b_1.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.040,3.90625,0,0.0,0.0
+message_gpt-oss-120b_2.cpp,RUNTIME_ERROR,10,10.00%,44.44%,1.790,5.08203125,0,10,0
+message_gpt-oss-120b_3.cpp,RUNTIME_ERROR,0,0.00%,6.67%,0.150,3.85546875,0,0.0,0.0
+message_gpt-oss-120b_4.cpp,RUNTIME_ERROR,0,0.00%,6.67%,0.170,3.90234375,0,0.0,0.0
+message_gpt-oss-120b_5.cpp,RUNTIME_ERROR,0,0.00%,6.67%,0.250,4.0390625,0,0.0,0.0
+message_gpt-oss-120b_6.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.160,3.80078125,0,0.0,0.0
+message_gpt-oss-120b_7.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.130,3.95703125,0,0.0,0.0

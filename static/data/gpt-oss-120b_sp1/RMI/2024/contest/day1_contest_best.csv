@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+Choose_Interval,gpt-oss-120b_sp1,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0
+Skittlez,gpt-oss-120b_sp1,TIME_LIMIT_EXCEEDED,7,7.00%,37.21%,2.410,75.46484375
+Octagon,gpt-oss-120b_sp1,RUNTIME_ERROR,9,9.00%,26.19%,0.150,0

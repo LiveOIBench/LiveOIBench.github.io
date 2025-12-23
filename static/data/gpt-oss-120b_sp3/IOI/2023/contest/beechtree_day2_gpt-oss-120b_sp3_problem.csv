@@ -1,0 +1,8 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+beechtree_gpt-oss-120b_0.cpp,RUNTIME_ERROR,0,0.00%,4.22%,0.070,16.2578125,0,0,0,0,0,0,0,0,0,0
+beechtree_gpt-oss-120b_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,11.38%,1.810,22.125,0,0,0,0,0,0,0,0,0,0
+beechtree_gpt-oss-120b_2.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0
+beechtree_gpt-oss-120b_3.cpp,RUNTIME_ERROR,0,0.00%,1.84%,0.090,23.47265625,0,0,0,0,0,0,0,0,0,0
+beechtree_gpt-oss-120b_4.cpp,RUNTIME_ERROR,0,0.00%,4.22%,0.050,15.73046875,0,0,0,0,0,0,0,0,0,0
+beechtree_gpt-oss-120b_5.cpp,RUNTIME_ERROR,0,0.00%,4.22%,0.070,15.41015625,0,0,0,0,0,0,0,0,0,0
+beechtree_gpt-oss-120b_6.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0

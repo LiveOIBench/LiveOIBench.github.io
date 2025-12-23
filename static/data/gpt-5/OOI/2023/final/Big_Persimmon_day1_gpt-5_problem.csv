@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
-Big_Persimmon_gpt-5_0.cpp,RUNTIME_ERROR,22,57.14%,0.340,76.7890625,0.0,10.0,12.0,0,0,0,0
-Big_Persimmon_gpt-5_1.cpp,TIME_LIMIT_EXCEEDED,56,73.47%,2.440,304.62109375,0.0,10.0,12.0,19.0,15.0,0,0
-Big_Persimmon_gpt-5_2.cpp,TIME_LIMIT_EXCEEDED,56,76.00%,2.410,577.53515625,0.0,10.0,12.0,19.0,15.0,0,0
-Big_Persimmon_gpt-5_3.cpp,RUNTIME_ERROR,22,50.00%,0.520,142.16015625,0.0,10.0,12.0,0,0,0,0
-Big_Persimmon_gpt-5_4.cpp,RUNTIME_ERROR,12,38.57%,0.070,0,0.0,0,12.0,0,0,0,0
-Big_Persimmon_gpt-5_5.cpp,TIME_LIMIT_EXCEEDED,56,73.47%,2.410,326.44921875,0.0,10.0,12.0,19.0,15.0,0,0
-Big_Persimmon_gpt-5_6.cpp,TIME_LIMIT_EXCEEDED,56,73.47%,2.420,265.91796875,0.0,10.0,12.0,19.0,15.0,0,0
-Big_Persimmon_gpt-5_7.cpp,RUNTIME_ERROR,0,13.33%,0.190,48.4765625,0,0,0,0,0,0,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Big_Persimmon_gpt-5_0.cpp,RUNTIME_ERROR,22,22.00%,57.14%,0.390,76.7890625,0.0,10.0,12.0,0,0,0,0
+Big_Persimmon_gpt-5_1.cpp,TIME_LIMIT_EXCEEDED,56,56.00%,73.47%,2.450,307.97265625,0.0,10.0,12.0,19.0,15.0,0,0
+Big_Persimmon_gpt-5_2.cpp,TIME_LIMIT_EXCEEDED,56,56.00%,76.00%,2.450,577.5625,0.0,10.0,12.0,19.0,15.0,0,0
+Big_Persimmon_gpt-5_3.cpp,RUNTIME_ERROR,22,22.00%,50.00%,0.560,142.16015625,0.0,10.0,12.0,0,0,0,0
+Big_Persimmon_gpt-5_4.cpp,RUNTIME_ERROR,12,12.00%,38.57%,0.090,0,0.0,0,12.0,0,0,0,0
+Big_Persimmon_gpt-5_5.cpp,TIME_LIMIT_EXCEEDED,56,56.00%,73.47%,2.400,327.2265625,0.0,10.0,12.0,19.0,15.0,0,0
+Big_Persimmon_gpt-5_6.cpp,TIME_LIMIT_EXCEEDED,56,56.00%,73.47%,2.420,264.88671875,0.0,10.0,12.0,19.0,15.0,0,0
+Big_Persimmon_gpt-5_7.cpp,RUNTIME_ERROR,0,0.00%,13.33%,0.230,48.4765625,0,0,0,0,0,0,0

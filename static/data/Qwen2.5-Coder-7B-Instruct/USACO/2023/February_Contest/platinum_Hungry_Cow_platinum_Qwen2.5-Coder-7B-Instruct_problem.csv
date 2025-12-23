@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
-platinum_Hungry_Cow_Qwen2.5-Coder-7B-Instruct_0.cpp,RUNTIME_ERROR,0,0.00%,0.240,7.2265625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-platinum_Hungry_Cow_Qwen2.5-Coder-7B-Instruct_1.cpp,RUNTIME_ERROR,0,0.00%,0.270,7.22265625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-platinum_Hungry_Cow_Qwen2.5-Coder-7B-Instruct_2.cpp,RUNTIME_ERROR,0,0.00%,0.290,11.4765625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-platinum_Hungry_Cow_Qwen2.5-Coder-7B-Instruct_3.cpp,RUNTIME_ERROR,0,0.00%,0.280,7.28515625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-platinum_Hungry_Cow_Qwen2.5-Coder-7B-Instruct_4.cpp,RUNTIME_ERROR,0,0.00%,0.240,8.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-platinum_Hungry_Cow_Qwen2.5-Coder-7B-Instruct_5.cpp,RUNTIME_ERROR,0,0.00%,0.280,7.22265625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-platinum_Hungry_Cow_Qwen2.5-Coder-7B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,6.640,4.90625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-platinum_Hungry_Cow_Qwen2.5-Coder-7B-Instruct_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.110,1.640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Hungry_Cow_Qwen2.5-Coder-7B-Instruct_0.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.250,7.484375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Hungry_Cow_Qwen2.5-Coder-7B-Instruct_1.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.280,7.484375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Hungry_Cow_Qwen2.5-Coder-7B-Instruct_2.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.290,10.69921875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Hungry_Cow_Qwen2.5-Coder-7B-Instruct_3.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.310,7.54296875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Hungry_Cow_Qwen2.5-Coder-7B-Instruct_4.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.240,7.7421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Hungry_Cow_Qwen2.5-Coder-7B-Instruct_5.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.280,7.2265625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Hungry_Cow_Qwen2.5-Coder-7B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,7.270,4.90625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Hungry_Cow_Qwen2.5-Coder-7B-Instruct_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.00%,0.120,1.69921875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

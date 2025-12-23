@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+platinum_Tractor_Paths,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,44,13.33%,18.75%,4.820,6.7578125
+platinum_Mana_Collection,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,30,9.09%,16.67%,5.990,502.8046875
+platinum_Subtree_Activation,claude-sonnet-4.5,WRONG_ANSWER,33,10.31%,14.29%,0.070,10.86328125

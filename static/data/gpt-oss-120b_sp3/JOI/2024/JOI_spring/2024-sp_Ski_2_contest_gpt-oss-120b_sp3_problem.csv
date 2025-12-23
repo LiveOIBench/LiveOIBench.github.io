@@ -1,0 +1,7 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+2024-sp_Ski_2_gpt-oss-120b_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.410,40.6171875,0,0,0,0,0,0
+2024-sp_Ski_2_gpt-oss-120b_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.410,4.9296875,0,0,0,0,0,0
+2024-sp_Ski_2_gpt-oss-120b_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.410,2.84765625,0,0,0,0,0,0
+2024-sp_Ski_2_gpt-oss-120b_5.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.020,0.00390625,0,0,0,0,0,0
+2024-sp_Ski_2_gpt-oss-120b_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.410,9.15625,0,0,0,0,0,0
+2024-sp_Ski_2_gpt-oss-120b_7.cpp,RUNTIME_ERROR,0,0.00%,0.85%,0.100,0.00390625,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Bessies_Function,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,18,5.57%,14.29%,2.410,6.7109375
+gold_The_Best_Subsequence,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,59,18.27%,30.00%,2.410,174.875
+gold_Friendship_Editing,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,178,53.94%,61.11%,2.420,2.32421875

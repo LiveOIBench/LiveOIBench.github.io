@@ -1,6 +1,6 @@
-problem,model,status,score,%test passed,time,memory
-estimathon,gpt-5,ACCEPTED,50,100.00%,0.000,0
-dirigent,gpt-5,ACCEPTED,70,100.00%,0.100,3.62109375
-baltazar,gpt-5,ACCEPTED,110,100.00%,0.460,89.11328125
-bomboni,gpt-5,ACCEPTED,110,100.00%,0.100,4.390625
-skrivaca,gpt-5,ACCEPTED,110,100.00%,0.520,64.78515625
+problem,model,status,score,relative_score,%test passed,time,memory
+estimathon,gpt-5,ACCEPTED,50,100.00%,100.00%,0.000,0
+dirigent,gpt-5,ACCEPTED,70,100.00%,100.00%,0.130,2.5859375
+baltazar,gpt-5,ACCEPTED,110,100.00%,100.00%,0.420,81.671875
+bomboni,gpt-5,ACCEPTED,110,100.00%,100.00%,0.120,4.390625
+skrivaca,gpt-5,ACCEPTED,110,100.00%,100.00%,0.410,50.89453125

@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+mosaic_claude-haiku-4.5_0.cpp,MEMORY_LIMIT_EXCEEDED,29,29.00%,73.85%,0.770,2452.328125,0,5,7,7,10,0,0,0,0
+mosaic_claude-haiku-4.5_1.cpp,MEMORY_LIMIT_EXCEEDED,22,22.00%,64.86%,0.800,2448.9765625,0,5,7,0,10,0,0,0,0
+mosaic_claude-haiku-4.5_2.cpp,TIME_LIMIT_EXCEEDED,19,19.00%,65.29%,1.210,2452.0703125,0,5,7,7,0,0,0,0,0
+mosaic_claude-haiku-4.5_3.cpp,TIME_LIMIT_EXCEEDED,12,12.00%,57.66%,1.220,104.171875,0,5,7,0,0,0,0,0,0
+mosaic_claude-haiku-4.5_4.cpp,TIME_LIMIT_EXCEEDED,22,22.00%,64.86%,1.220,294.953125,0,5,7,0,10,0,0,0,0
+mosaic_claude-haiku-4.5_5.cpp,TIME_LIMIT_EXCEEDED,12,12.00%,57.66%,1.210,1993.140625,0,5,7,0,0,0,0,0,0
+mosaic_claude-haiku-4.5_6.cpp,TIME_LIMIT_EXCEEDED,12,12.00%,57.66%,1.210,2456.44921875,0,5,7,0,0,0,0,0,0
+mosaic_claude-haiku-4.5_7.cpp,MEMORY_LIMIT_EXCEEDED,22,22.00%,64.86%,0.790,2434.796875,0,5,7,0,10,0,0,0,0

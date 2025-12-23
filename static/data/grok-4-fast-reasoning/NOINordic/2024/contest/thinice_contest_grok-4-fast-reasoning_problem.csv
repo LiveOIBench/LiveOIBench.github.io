@@ -1,0 +1,8 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+thinice_grok-4-fast-reasoning_0.cpp,RUNTIME_ERROR,0,0.00%,1.96%,0.010,3.203125,0,0,0,0,0,0
+thinice_grok-4-fast-reasoning_1.cpp,RUNTIME_ERROR,0,0.00%,1.96%,0.030,8.60546875,0,0,0,0,0,0
+thinice_grok-4-fast-reasoning_2.cpp,RUNTIME_ERROR,0,0.00%,1.96%,0.020,2.375,0,0,0,0,0,0
+thinice_grok-4-fast-reasoning_3.cpp,RUNTIME_ERROR,0,0.00%,1.96%,0.010,3.1015625,0,0,0,0,0,0
+thinice_grok-4-fast-reasoning_4.cpp,RUNTIME_ERROR,0,0.00%,24.59%,0.020,6.0078125,0,0,0,0,0,0
+thinice_grok-4-fast-reasoning_6.cpp,RUNTIME_ERROR,17,17.00%,42.03%,0.020,10.6640625,17,0,0,0,0,0
+thinice_grok-4-fast-reasoning_7.cpp,RUNTIME_ERROR,0,0.00%,35.82%,0.010,2.0703125,0,0,0,0,0,0

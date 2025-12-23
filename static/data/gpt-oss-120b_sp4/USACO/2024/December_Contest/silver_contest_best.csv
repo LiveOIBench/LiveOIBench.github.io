@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_Cake_Game,gpt-oss-120b_sp4,ACCEPTED,333,100.91%,100.00%,0.220,9.34375
+silver_Deforestation,gpt-oss-120b_sp4,ACCEPTED,333,100.91%,100.00%,0.280,3.96484375
+silver_2D_Conveyor_Belt,gpt-oss-120b_sp4,ACCEPTED,333,100.91%,100.00%,0.310,81.9921875

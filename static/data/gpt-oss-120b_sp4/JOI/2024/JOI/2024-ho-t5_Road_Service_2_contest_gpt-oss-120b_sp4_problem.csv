@@ -1,0 +1,4 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+2024-ho-t5_Road_Service_2_gpt-oss-120b_0.cpp,TIME_LIMIT_EXCEEDED,16,16.00%,61.73%,3.600,136.95703125,10,6,0,0,0,0,0,0
+2024-ho-t5_Road_Service_2_gpt-oss-120b_1.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.00%,0.270,47.62890625,0,0,0,0,0,0,0,0
+2024-ho-t5_Road_Service_2_gpt-oss-120b_7.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.280,142.57421875,0,0,0,0,0,0,0,0

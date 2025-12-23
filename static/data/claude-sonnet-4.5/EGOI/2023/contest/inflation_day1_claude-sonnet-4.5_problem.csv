@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+inflation_claude-sonnet-4.5_0.cpp,ACCEPTED,100,100.00%,100.00%,0.280,17.27734375,0,14,28,19,23,16
+inflation_claude-sonnet-4.5_1.cpp,ACCEPTED,100,100.00%,100.00%,0.260,17.27734375,0,14,28,19,23,16
+inflation_claude-sonnet-4.5_2.cpp,ACCEPTED,100,100.00%,100.00%,0.260,17.27734375,0,14,28,19,23,16
+inflation_claude-sonnet-4.5_3.cpp,ACCEPTED,100,100.00%,100.00%,0.220,17.27734375,0,14,28,19,23,16
+inflation_claude-sonnet-4.5_4.cpp,ACCEPTED,100,100.00%,100.00%,0.240,17.27734375,0,14,28,19,23,16
+inflation_claude-sonnet-4.5_5.cpp,ACCEPTED,100,100.00%,100.00%,0.260,17.27734375,0,14,28,19,23,16
+inflation_claude-sonnet-4.5_6.cpp,ACCEPTED,100,100.00%,100.00%,0.230,17.27734375,0,14,28,19,23,16
+inflation_claude-sonnet-4.5_7.cpp,ACCEPTED,100,100.00%,100.00%,0.450,17.27734375,0,14,28,19,23,16

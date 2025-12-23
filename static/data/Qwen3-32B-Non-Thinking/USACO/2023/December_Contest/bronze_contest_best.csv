@@ -1,2 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-bronze_Cowntact_Tracing_2,Qwen3-32B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+problem,model,status,score,relative_score,%test passed,time,memory
+bronze_Candy_Cane_Feast,Qwen3-32B-Non-Thinking,TIME_LIMIT_EXCEEDED,231,71.08%,71.43%,2.470,5.82421875
+bronze_Cowntact_Tracing_2,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,67,20.30%,16.67%,0.130,1.7109375
+bronze_Farmer_John_Actually_Farms,Qwen3-32B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0

@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+astronomer,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,36,36.00%,80.81%,5.980,0.00390625
+staringcontest,grok-4-fast-reasoning,RUNTIME_ERROR,9,9.00%,64.96%,0.020,11.8046875
+tycho,grok-4-fast-reasoning,RUNTIME_ERROR,55,55.00%,95.12%,1.760,9.8046875

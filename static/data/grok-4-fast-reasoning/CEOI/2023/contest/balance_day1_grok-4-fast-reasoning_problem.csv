@@ -1,0 +1,8 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0_1,subtask_1_1,subtask_2_1,subtask_2_2,subtask_2_3,subtask_3_1,subtask_3_2,subtask_3_3,subtask_4_1,subtask_4_2,subtask_4_3
+balance_grok-4-fast-reasoning_0.cpp,ACCEPTED,100,100.00%,100.00%,1.240,65.5859375,0,10,15,5,5,15,5,5,20,10,10
+balance_grok-4-fast-reasoning_1.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.160,84.71875,0,0,0,0,0,0,0,0,0,0,0
+balance_grok-4-fast-reasoning_2.cpp,RUNTIME_ERROR,0,0.00%,5.49%,2.180,86.4296875,0,0,0,0,0,0,0,0,0,0,0
+balance_grok-4-fast-reasoning_3.cpp,TIME_LIMIT_EXCEEDED,80,80.00%,91.28%,2.410,174.40625,0,10,15,5,5,15,5,5,20,0,0
+balance_grok-4-fast-reasoning_4.cpp,TIME_LIMIT_EXCEEDED,30,30.00%,51.40%,2.420,114.2734375,0,0,15,0,0,15,0,0,0,0,0
+balance_grok-4-fast-reasoning_6.cpp,RUNTIME_ERROR,0,0.00%,5.49%,0.120,46.265625,0,0,0,0,0,0,0,0,0,0,0
+balance_grok-4-fast-reasoning_7.cpp,TIME_LIMIT_EXCEEDED,85,85.00%,93.69%,2.410,73.76953125,0,10,15,5,5,15,5,0,20,10,0

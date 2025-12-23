@@ -1,0 +1,8 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+bronze_Palindrome_Game,grok-4-fast-reasoning,ACCEPTED,333,102.78%,100.00%,0.000,1.59375
+gold_Bessla_Motors,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,250,77.16%,80.00%,3.600,8.609375
+gold_Milk_Exchange,grok-4-fast-reasoning,ACCEPTED,333,104.06%,100.00%,0.100,52.0859375
+gold_Quantum_Moochanics,grok-4-fast-reasoning,WRONG_ANSWER,300,90.91%,91.67%,0.150,21.921875
+platinum_Lazy_Cow,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.590,7.6015625
+silver_Moorbles,grok-4-fast-reasoning,ACCEPTED,333,100.91%,100.00%,0.070,38.10546875
+silver_Test_Tubes,grok-4-fast-reasoning,WRONG_ANSWER,50,15.62%,14.29%,0.210,9.54296875

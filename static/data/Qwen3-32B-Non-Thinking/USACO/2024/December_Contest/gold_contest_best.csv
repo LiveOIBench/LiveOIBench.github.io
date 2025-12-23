@@ -1,2 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-gold_Job_Completion,Qwen3-32B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Cowdependence,Qwen3-32B-Non-Thinking,TIME_LIMIT_EXCEEDED,35,10.84%,15.00%,2.480,4.390625
+gold_Interstellar_Intervals,Qwen3-32B-Non-Thinking,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.460,5.8515625
+gold_Job_Completion,Qwen3-32B-Non-Thinking,WRONG_ANSWER,22,6.67%,12.50%,0.240,4.58203125

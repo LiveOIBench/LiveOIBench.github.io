@@ -1,5 +1,5 @@
-solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
-Circles_gpt-oss-20b-low_0.cpp,RUNTIME_ERROR,0,0.00%,0.350,149.27734375,0,0,0,0,0,0,0
-Circles_gpt-oss-20b-low_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.230,63.171875,0,0,0,0,0,0,0
-Circles_gpt-oss-20b-low_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0
-Circles_gpt-oss-20b-low_7.cpp,RUNTIME_ERROR,0,0.00%,0.240,80.69921875,0,0,0,0,0,0,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Circles_gpt-oss-20b-low_0.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.430,149.01953125,0,0,0,0,0,0,0
+Circles_gpt-oss-20b-low_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.00%,0.360,63.0859375,0,0,0,0,0,0,0
+Circles_gpt-oss-20b-low_6.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0
+Circles_gpt-oss-20b-low_7.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.360,80.44140625,0,0,0,0,0,0,0

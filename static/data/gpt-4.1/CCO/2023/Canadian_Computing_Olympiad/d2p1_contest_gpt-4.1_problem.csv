@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
-d2p1_gpt-4.1_0.cpp,RUNTIME_ERROR,0,12.50%,0.040,1.73046875,0,0,0,0,0,0
-d2p1_gpt-4.1_1.cpp,RUNTIME_ERROR,0,21.43%,0.040,4.21875,0,0,0,0,0,0
-d2p1_gpt-4.1_2.cpp,RUNTIME_ERROR,1,13.39%,0.040,1.73828125,1,0,0,0,0,0
-d2p1_gpt-4.1_3.cpp,RUNTIME_ERROR,1,29.46%,0.040,1.67578125,1,0,0,0,0,0
-d2p1_gpt-4.1_4.cpp,RUNTIME_ERROR,0,23.21%,0.000,0,0,0,0,0,0,0
-d2p1_gpt-4.1_5.cpp,RUNTIME_ERROR,1,15.18%,0.040,1.671875,1,0,0,0,0,0
-d2p1_gpt-4.1_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
-d2p1_gpt-4.1_7.cpp,RUNTIME_ERROR,1,25.00%,0.040,1.85546875,1,0,0,0,0,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+d2p1_gpt-4.1_0.cpp,RUNTIME_ERROR,0,0.00%,12.50%,0.040,1.546875,0,0,0,0,0,0
+d2p1_gpt-4.1_1.cpp,RUNTIME_ERROR,0,0.00%,21.43%,0.040,1.85546875,0,0,0,0,0,0
+d2p1_gpt-4.1_2.cpp,RUNTIME_ERROR,1,4.00%,13.39%,0.040,1.73046875,1,0,0,0,0,0
+d2p1_gpt-4.1_3.cpp,RUNTIME_ERROR,1,4.00%,29.46%,0.040,1.75390625,1,0,0,0,0,0
+d2p1_gpt-4.1_4.cpp,RUNTIME_ERROR,0,0.00%,23.21%,0.000,0,0,0,0,0,0,0
+d2p1_gpt-4.1_5.cpp,RUNTIME_ERROR,1,4.00%,15.18%,0.040,1.63671875,1,0,0,0,0,0
+d2p1_gpt-4.1_6.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0
+d2p1_gpt-4.1_7.cpp,RUNTIME_ERROR,1,4.00%,25.00%,0.040,1.66015625,1,0,0,0,0,0

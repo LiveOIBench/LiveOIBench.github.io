@@ -1,0 +1,5 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+Card_Flip,gpt-oss-120b_sp3,RUNTIME_ERROR,15,15.00%,49.61%,0.090,6.97265625
+Order_Statistics,gpt-oss-120b_sp3,RUNTIME_ERROR,18,18.00%,50.00%,0.320,23.98046875
+Best_Runner,gpt-oss-120b_sp3,TIME_LIMIT_EXCEEDED,39,39.00%,32.26%,1.210,125.296875
+Strong_Connectivity_Strikes_Back,gpt-oss-120b_sp3,ACCEPTED,100,100.00%,100.00%,0.030,1.8125

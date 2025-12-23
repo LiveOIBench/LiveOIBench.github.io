@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
-battle_gemini-2.5-pro_0.cpp,RUNTIME_ERROR,0,19.80%,0.860,83.3515625,0,0,0,0,0,0,0,0
-battle_gemini-2.5-pro_1.cpp,RUNTIME_ERROR,6,41.27%,0.280,58.984375,0,6,0,0,0,0,0,0
-battle_gemini-2.5-pro_2.cpp,RUNTIME_ERROR,67,91.96%,2.220,153.95703125,0,6,12,8,11,0,30,0
-battle_gemini-2.5-pro_3.cpp,RUNTIME_ERROR,6,41.27%,0.790,87.921875,0,6,0,0,0,0,0,0
-battle_gemini-2.5-pro_4.cpp,RUNTIME_ERROR,6,41.27%,0.530,61.2109375,0,6,0,0,0,0,0,0
-battle_gemini-2.5-pro_5.cpp,TIME_LIMIT_EXCEEDED,36,56.72%,3.320,101.83984375,0,6,0,0,0,0,30,0
-battle_gemini-2.5-pro_6.cpp,RUNTIME_ERROR,0,16.16%,0.330,67.421875,0,0,0,0,0,0,0,0
-battle_gemini-2.5-pro_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+battle_gemini-2.5-pro_0.cpp,RUNTIME_ERROR,0,0.00%,19.80%,0.860,83.35546875,0,0,0,0,0,0,0,0
+battle_gemini-2.5-pro_1.cpp,RUNTIME_ERROR,6,6.00%,41.27%,0.270,58.984375,0,6,0,0,0,0,0,0
+battle_gemini-2.5-pro_2.cpp,RUNTIME_ERROR,67,67.00%,91.96%,1.990,153.95703125,0,6,12,8,11,0,30,0
+battle_gemini-2.5-pro_3.cpp,RUNTIME_ERROR,6,6.00%,41.27%,0.740,87.1484375,0,6,0,0,0,0,0,0
+battle_gemini-2.5-pro_4.cpp,RUNTIME_ERROR,6,6.00%,41.27%,0.400,61.2109375,0,6,0,0,0,0,0,0
+battle_gemini-2.5-pro_5.cpp,TIME_LIMIT_EXCEEDED,36,36.00%,56.72%,3.600,101.84375,0,6,0,0,0,0,30,0
+battle_gemini-2.5-pro_6.cpp,RUNTIME_ERROR,0,0.00%,16.16%,0.320,67.42578125,0,0,0,0,0,0,0,0
+battle_gemini-2.5-pro_7.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0

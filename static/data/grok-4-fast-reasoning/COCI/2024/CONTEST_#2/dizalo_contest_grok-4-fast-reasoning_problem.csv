@@ -1,0 +1,8 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+dizalo_grok-4-fast-reasoning_0.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0
+dizalo_grok-4-fast-reasoning_2.cpp,TIME_LIMIT_EXCEEDED,64,58.18%,84.21%,3.630,9.65234375,16,19,29,0
+dizalo_grok-4-fast-reasoning_3.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.00%,0.250,365.3203125,0,0,0,0
+dizalo_grok-4-fast-reasoning_4.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0
+dizalo_grok-4-fast-reasoning_5.cpp,ACCEPTED,110,100.00%,100.00%,0.080,21.65625,16,19,29,46
+dizalo_grok-4-fast-reasoning_6.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0
+dizalo_grok-4-fast-reasoning_7.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0

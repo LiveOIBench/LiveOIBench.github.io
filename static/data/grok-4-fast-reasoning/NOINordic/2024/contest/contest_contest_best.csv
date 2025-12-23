@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+chairgame,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,37,37.00%,69.23%,1.210,0.00390625
+thinice,grok-4-fast-reasoning,RUNTIME_ERROR,17,17.00%,42.03%,0.020,10.6640625
+animeshops,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.050,9.28515625

@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-covid,Codestral-22B-v0.1,TIME_LIMIT_EXCEEDED,10,66.67%,6.040,1.66015625
-battle,Codestral-22B-v0.1,RUNTIME_ERROR,0,12.50%,0.180,32.1171875
-editor,Codestral-22B-v0.1,RUNTIME_ERROR,0,8.06%,0.080,4.65234375
+problem,model,status,score,relative_score,%test passed,time,memory
+covid,Codestral-22B-v0.1,RUNTIME_ERROR,10,10.00%,66.67%,5.890,1.67578125
+battle,Codestral-22B-v0.1,RUNTIME_ERROR,0,0.00%,12.50%,0.180,32.12109375
+editor,Codestral-22B-v0.1,RUNTIME_ERROR,0,0.00%,8.06%,0.080,4.6484375

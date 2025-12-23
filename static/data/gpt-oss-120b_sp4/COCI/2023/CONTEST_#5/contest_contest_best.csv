@@ -1,0 +1,6 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+kalendar,gpt-oss-120b_sp4,ACCEPTED,50,100.00%,100.00%,0.000,0
+diskurs,gpt-oss-120b_sp4,ACCEPTED,70,100.00%,100.00%,0.150,12.90234375
+logaritam,gpt-oss-120b_sp4,ACCEPTED,110,100.00%,100.00%,0.010,0.00390625
+slasticarnica,gpt-oss-120b_sp4,ACCEPTED,110,100.00%,100.00%,0.140,1.55859375
+zastave,gpt-oss-120b_sp4,ACCEPTED,110,100.00%,100.00%,0.050,2.07421875

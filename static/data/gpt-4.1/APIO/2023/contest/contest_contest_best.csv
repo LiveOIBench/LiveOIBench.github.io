@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-sequence,gpt-4.1,TIME_LIMIT_EXCEEDED,11,47.46%,1.800,49.15234375
-abc,gpt-4.1,RUNTIME_ERROR,4,16.00%,0.200,234.32421875
-cyberland,gpt-4.1,TIME_LIMIT_EXCEEDED,97,70.73%,2.990,431.65234375
+problem,model,status,score,relative_score,%test passed,time,memory
+sequence,gpt-4.1,TIME_LIMIT_EXCEEDED,11,11.00%,47.46%,1.860,49.15625
+abc,gpt-4.1,RUNTIME_ERROR,4,4.00%,16.00%,0.200,234.38671875
+cyberland,gpt-4.1,TIME_LIMIT_EXCEEDED,97,97.00%,70.73%,3.010,425.98046875

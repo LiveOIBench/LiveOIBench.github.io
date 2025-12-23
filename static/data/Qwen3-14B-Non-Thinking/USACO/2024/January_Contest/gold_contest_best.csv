@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-gold_Walking_in_Manhattan,Qwen3-14B-Non-Thinking,TIME_LIMIT_EXCEEDED,53,20.00%,2.270,9.296875
-gold_Cowmpetency,Qwen3-14B-Non-Thinking,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.110,2.32421875
-gold_Nap_Sort,Qwen3-14B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Walking_in_Manhattan,Qwen3-14B-Non-Thinking,TIME_LIMIT_EXCEEDED,53,16.41%,20.00%,2.420,9.30078125
+gold_Cowmpetency,Qwen3-14B-Non-Thinking,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.00%,0.130,1.80859375
+gold_Nap_Sort,Qwen3-14B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0

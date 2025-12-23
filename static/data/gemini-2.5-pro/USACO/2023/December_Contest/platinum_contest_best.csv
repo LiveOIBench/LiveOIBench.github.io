@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-platinum_Cowntact_Tracing,gemini-2.5-pro,WRONG_ANSWER,50,26.09%,0.210,15.2109375
-platinum_A_Graph_Problem,gemini-2.5-pro,ACCEPTED,333,100.00%,0.320,30.625
-platinum_Train_Scheduling,gemini-2.5-pro,WRONG_ANSWER,300,91.67%,0.160,192.59375
+problem,model,status,score,relative_score,%test passed,time,memory
+platinum_Cowntact_Tracing,gemini-2.5-pro,WRONG_ANSWER,50,15.62%,26.09%,0.190,15.2109375
+platinum_A_Graph_Problem,gemini-2.5-pro,ACCEPTED,333,104.06%,100.00%,0.280,30.625
+platinum_Train_Scheduling,gemini-2.5-pro,WRONG_ANSWER,300,93.75%,91.67%,0.210,1.5546875

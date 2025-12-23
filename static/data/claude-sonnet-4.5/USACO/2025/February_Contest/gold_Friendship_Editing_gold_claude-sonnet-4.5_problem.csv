@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Friendship_Editing_claude-sonnet-4.5_0.cpp,WRONG_ANSWER,0,0.00%,16.67%,0.030,1.5625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Friendship_Editing_claude-sonnet-4.5_1.cpp,WRONG_ANSWER,22,6.67%,22.22%,0.030,0.00390625,0,0,0,0,0,0,0,0,0,0,22.22222222222222,0,0,0,0,0
+gold_Friendship_Editing_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,178,53.94%,61.11%,2.420,2.32421875,0,22.22222222222222,0,0,0,0,0,0,22.22222222222222,22.22222222222222,22.22222222222222,22.22222222222222,22.22222222222222,0,22.22222222222222,22.22222222222222
+gold_Friendship_Editing_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,44,13.33%,27.78%,2.410,305.87109375,0,22.22222222222222,0,0,0,0,0,0,22.22222222222222,0,0,0,0,0,0,0
+gold_Friendship_Editing_claude-sonnet-4.5_4.cpp,WRONG_ANSWER,22,6.67%,22.22%,0.020,0.00390625,0,0,0,0,0,0,0,0,0,0,22.22222222222222,0,0,0,0,0
+gold_Friendship_Editing_claude-sonnet-4.5_5.cpp,WRONG_ANSWER,22,6.67%,22.22%,0.080,0.00390625,0,0,0,0,0,0,0,0,0,0,22.22222222222222,0,0,0,0,0
+gold_Friendship_Editing_claude-sonnet-4.5_6.cpp,WRONG_ANSWER,22,6.67%,22.22%,0.020,0.00390625,0,0,0,0,0,0,0,0,0,0,22.22222222222222,0,0,0,0,0
+gold_Friendship_Editing_claude-sonnet-4.5_7.cpp,MEMORY_LIMIT_EXCEEDED,44,13.33%,27.78%,1.550,306.4609375,0,22.22222222222222,0,0,0,0,0,0,22.22222222222222,0,0,0,0,0,0,0

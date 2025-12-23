@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-minequake,Llama-4-Scout,RUNTIME_ERROR,0,2.22%,0.000,2.33203125
-mineraldeposits,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0
-sequence,Llama-4-Scout,RUNTIME_ERROR,11,54.55%,0.000,0
+problem,model,status,score,relative_score,%test passed,time,memory
+minequake,Llama-4-Scout,RUNTIME_ERROR,0,0.00%,2.22%,0.020,3.56640625
+mineraldeposits,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0
+sequence,Llama-4-Scout,RUNTIME_ERROR,11,11.00%,54.55%,0.000,0

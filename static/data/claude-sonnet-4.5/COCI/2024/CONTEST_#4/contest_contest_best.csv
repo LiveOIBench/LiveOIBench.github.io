@@ -1,0 +1,6 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+bingo,claude-sonnet-4.5,ACCEPTED,50,100.00%,100.00%,0.010,0
+knjige,claude-sonnet-4.5,ACCEPTED,70,100.00%,100.00%,0.030,3.01171875
+lepeze,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,12,10.91%,32.69%,2.410,613.69921875
+putovanje,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,65,59.09%,68.35%,2.410,5.19140625
+roboti,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,13,11.82%,34.09%,2.410,17.5390625

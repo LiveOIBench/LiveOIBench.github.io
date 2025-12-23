@@ -1,2 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-silver_Cycle_Correspondence,Qwen3-32B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_Bovine_Acrobatics,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,89,26.97%,23.53%,0.170,6.1796875
+silver_Cycle_Correspondence,Qwen3-32B-Non-Thinking,TIME_LIMIT_EXCEEDED,28,8.64%,13.33%,2.460,34.80859375
+silver_Target_Practice,Qwen3-32B-Non-Thinking,TIME_LIMIT_EXCEEDED,83,25.62%,40.00%,2.480,10.5703125

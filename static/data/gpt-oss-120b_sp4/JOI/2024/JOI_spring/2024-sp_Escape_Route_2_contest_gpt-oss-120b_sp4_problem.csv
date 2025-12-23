@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+2024-sp_Escape_Route_2_gpt-oss-120b_0.cpp,RUNTIME_ERROR,54,54.00%,70.53%,0.970,111.74609375,6,8,17,23,0,0
+2024-sp_Escape_Route_2_gpt-oss-120b_1.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.920,9.80078125,0,0,0,0,0,0
+2024-sp_Escape_Route_2_gpt-oss-120b_2.cpp,TIME_LIMIT_EXCEEDED,54,54.00%,75.13%,2.400,55.53515625,6,8,17,23,0,0
+2024-sp_Escape_Route_2_gpt-oss-120b_3.cpp,RUNTIME_ERROR,0,0.00%,4.59%,2.050,10.421875,0,0,0,0,0,0
+2024-sp_Escape_Route_2_gpt-oss-120b_4.cpp,RUNTIME_ERROR,0,0.00%,0.00%,1.850,4.6953125,0,0,0,0,0,0
+2024-sp_Escape_Route_2_gpt-oss-120b_5.cpp,RUNTIME_ERROR,54,54.00%,70.53%,0.710,111.6328125,6,8,17,23,0,0
+2024-sp_Escape_Route_2_gpt-oss-120b_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.410,279.734375,0,0,0,0,0,0
+2024-sp_Escape_Route_2_gpt-oss-120b_7.cpp,RUNTIME_ERROR,0,0.00%,0.00%,1.810,6.81640625,0,0,0,0,0,0

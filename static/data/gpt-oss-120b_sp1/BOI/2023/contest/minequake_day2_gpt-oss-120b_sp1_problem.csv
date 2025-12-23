@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+minequake_gpt-oss-120b_0.cpp,RUNTIME_ERROR,0,0.00%,2.22%,0.000,0,0,0,0,0,0,0
+minequake_gpt-oss-120b_1.cpp,ACCEPTED,100,100.00%,100.00%,0.080,9.8046875,0,18,19,20,21,22
+minequake_gpt-oss-120b_2.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0
+minequake_gpt-oss-120b_3.cpp,RUNTIME_ERROR,0,0.00%,3.68%,0.000,0,0,0,0,0,0,0
+minequake_gpt-oss-120b_4.cpp,ACCEPTED,100,100.00%,100.00%,0.070,13.9296875,0,18,19,20,21,22
+minequake_gpt-oss-120b_5.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0
+minequake_gpt-oss-120b_6.cpp,ACCEPTED,100,100.00%,100.00%,0.060,16.25,0,18,19,20,21,22
+minequake_gpt-oss-120b_7.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0

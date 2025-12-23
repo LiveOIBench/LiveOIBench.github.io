@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-chairgame,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,4,34.78%,0.140,0.00390625
-thinice,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,15.09%,0.160,3.5625
-animeshops,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,39,86.96%,1.160,9.28515625
+problem,model,status,score,relative_score,%test passed,time,memory
+chairgame,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,4,4.00%,34.78%,0.170,0.00390625
+thinice,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,0.00%,15.09%,0.200,3.56640625
+animeshops,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,39,39.00%,86.96%,1.220,8.53125

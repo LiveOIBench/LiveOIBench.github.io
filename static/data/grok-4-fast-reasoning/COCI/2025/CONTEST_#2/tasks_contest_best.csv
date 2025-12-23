@@ -1,0 +1,5 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+blistavost,grok-4-fast-reasoning,ACCEPTED,120,100.00%,100.00%,0.010,1.6640625
+igre,grok-4-fast-reasoning,ACCEPTED,70,100.00%,100.00%,0.060,1.65625
+paradoks,grok-4-fast-reasoning,ACCEPTED,50,100.00%,100.00%,0.010,0
+razlicitost,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.420,34.390625

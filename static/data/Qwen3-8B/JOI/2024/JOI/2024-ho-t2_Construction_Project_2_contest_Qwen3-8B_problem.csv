@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4
-2024-ho-t2_Construction_Project_2_Qwen3-8B_0.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0
-2024-ho-t2_Construction_Project_2_Qwen3-8B_1.cpp,RUNTIME_ERROR,8,97.83%,0.280,36.51953125,8,0,0,0
-2024-ho-t2_Construction_Project_2_Qwen3-8B_2.cpp,TIME_LIMIT_EXCEEDED,8,8.08%,2.420,6.27734375,8,0,0,0
-2024-ho-t2_Construction_Project_2_Qwen3-8B_3.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0
-2024-ho-t2_Construction_Project_2_Qwen3-8B_4.cpp,RUNTIME_ERROR,8,31.48%,0.140,68.3828125,8,0,0,0
-2024-ho-t2_Construction_Project_2_Qwen3-8B_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
-2024-ho-t2_Construction_Project_2_Qwen3-8B_6.cpp,RUNTIME_ERROR,8,45.90%,0.200,49.015625,8,0,0,0
-2024-ho-t2_Construction_Project_2_Qwen3-8B_7.cpp,RUNTIME_ERROR,0,0.00%,0.020,0,0,0,0,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4
+2024-ho-t2_Construction_Project_2_Qwen3-8B_0.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0
+2024-ho-t2_Construction_Project_2_Qwen3-8B_1.cpp,RUNTIME_ERROR,8,8.00%,97.83%,0.360,31.40234375,8,0,0,0
+2024-ho-t2_Construction_Project_2_Qwen3-8B_2.cpp,TIME_LIMIT_EXCEEDED,8,8.00%,8.08%,2.570,6.27734375,8,0,0,0
+2024-ho-t2_Construction_Project_2_Qwen3-8B_3.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0
+2024-ho-t2_Construction_Project_2_Qwen3-8B_4.cpp,RUNTIME_ERROR,8,8.00%,31.48%,0.250,60.91015625,8,0,0,0
+2024-ho-t2_Construction_Project_2_Qwen3-8B_5.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0
+2024-ho-t2_Construction_Project_2_Qwen3-8B_6.cpp,RUNTIME_ERROR,8,8.00%,45.90%,0.330,31.5390625,8,0,0,0
+2024-ho-t2_Construction_Project_2_Qwen3-8B_7.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0

@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
-sequence_seed-oss_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
-sequence_seed-oss_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
-sequence_seed-oss_2.cpp,TIME_LIMIT_EXCEEDED,0,22.11%,1.800,50.42578125,0,0,0,0,0,0,0,0
-sequence_seed-oss_3.cpp,TIME_LIMIT_EXCEEDED,0,22.11%,1.800,33.203125,0,0,0,0,0,0,0,0
-sequence_seed-oss_4.cpp,TIME_LIMIT_EXCEEDED,0,24.21%,1.810,46.80859375,0,0,0,0,0,0,0,0
-sequence_seed-oss_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
-sequence_seed-oss_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
-sequence_seed-oss_7.cpp,TIME_LIMIT_EXCEEDED,0,22.11%,1.800,9.25,0,0,0,0,0,0,0,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+sequence_seed-oss_0.cpp,TIME_LIMIT_EXCEEDED,23,23.00%,61.94%,1.840,201.1328125,0,11,0,0,12,0,0,0
+sequence_seed-oss_1.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0
+sequence_seed-oss_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,22.11%,1.830,50.42578125,0,0,0,0,0,0,0,0
+sequence_seed-oss_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,22.11%,1.870,33.203125,0,0,0,0,0,0,0,0
+sequence_seed-oss_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,24.21%,1.820,45.26171875,0,0,0,0,0,0,0,0
+sequence_seed-oss_5.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0
+sequence_seed-oss_6.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0
+sequence_seed-oss_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,22.11%,1.820,9.25,0,0,0,0,0,0,0,0

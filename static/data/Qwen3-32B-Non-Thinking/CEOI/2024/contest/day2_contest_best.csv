@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-toy,Qwen3-32B-Non-Thinking,TIME_LIMIT_EXCEEDED,0,19.16%,1.490,172.5546875
-stations,Qwen3-32B-Non-Thinking,TIME_LIMIT_EXCEEDED,0,6.82%,3.860,6.39453125
-sprinklers,Qwen3-32B-Non-Thinking,ACCEPTED,100,100.00%,0.050,2.33203125
+problem,model,status,score,relative_score,%test passed,time,memory
+toy,Qwen3-32B-Non-Thinking,TIME_LIMIT_EXCEEDED,0,0.00%,19.54%,1.630,216.86328125
+stations,Qwen3-32B-Non-Thinking,TIME_LIMIT_EXCEEDED,0,0.00%,6.82%,4.210,6.39453125
+sprinklers,Qwen3-32B-Non-Thinking,ACCEPTED,100,100.00%,100.00%,0.050,2.33203125

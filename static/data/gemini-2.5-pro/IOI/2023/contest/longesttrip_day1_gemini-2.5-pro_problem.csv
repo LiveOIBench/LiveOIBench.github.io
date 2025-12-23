@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
-longesttrip_gemini-2.5-pro_0.cpp,RUNTIME_ERROR,40,52.41%,0.780,4.07421875,0,5,10,25,0
-longesttrip_gemini-2.5-pro_1.cpp,RUNTIME_ERROR,5,7.83%,2.030,3.921875,0,5,0,0,0
-longesttrip_gemini-2.5-pro_2.cpp,RUNTIME_ERROR,5,17.47%,0.770,4.07421875,0,5,0,0,0
-longesttrip_gemini-2.5-pro_3.cpp,RUNTIME_ERROR,40,52.41%,0.910,4.078125,0,5,10,25,0
-longesttrip_gemini-2.5-pro_4.cpp,RUNTIME_ERROR,5,10.84%,2.070,4.0234375,0,5,0,0,0.0
-longesttrip_gemini-2.5-pro_5.cpp,RUNTIME_ERROR,40,52.41%,0.770,4.09765625,0,5,10,25,0
-longesttrip_gemini-2.5-pro_6.cpp,RUNTIME_ERROR,40,52.41%,0.710,4.0625,0,5,10,25,0
-longesttrip_gemini-2.5-pro_7.cpp,RUNTIME_ERROR,5,36.14%,1.650,4.078125,0,5,0,0,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+longesttrip_gemini-2.5-pro_0.cpp,RUNTIME_ERROR,40,40.00%,52.41%,0.240,4.1015625,0,5,10,25,0
+longesttrip_gemini-2.5-pro_1.cpp,RUNTIME_ERROR,5,5.00%,10.24%,2.000,3.98046875,0,5,0,0,0
+longesttrip_gemini-2.5-pro_2.cpp,RUNTIME_ERROR,5,5.00%,17.47%,0.320,4.01171875,0,5,0,0,0
+longesttrip_gemini-2.5-pro_3.cpp,RUNTIME_ERROR,40,40.00%,52.41%,0.260,4.09765625,0,5,10,25,0
+longesttrip_gemini-2.5-pro_4.cpp,RUNTIME_ERROR,15,15.00%,16.87%,1.520,4.05859375,0,5,10,0,0.0
+longesttrip_gemini-2.5-pro_5.cpp,RUNTIME_ERROR,40,40.00%,52.41%,0.240,4.09765625,0,5,10,25,0
+longesttrip_gemini-2.5-pro_6.cpp,RUNTIME_ERROR,40,40.00%,52.41%,0.180,4.0859375,0,5,10,25,0
+longesttrip_gemini-2.5-pro_7.cpp,RUNTIME_ERROR,5,5.00%,36.14%,0.450,4.0703125,0,5,0,0,0

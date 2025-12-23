@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Bessla_Motors,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,306,94.44%,93.33%,3.600,9.09375
+gold_Milk_Exchange,grok-4-fast-reasoning,ACCEPTED,333,104.06%,100.00%,0.110,36.875
+gold_Quantum_Moochanics,grok-4-fast-reasoning,ACCEPTED,333,100.91%,100.00%,0.110,11.41796875

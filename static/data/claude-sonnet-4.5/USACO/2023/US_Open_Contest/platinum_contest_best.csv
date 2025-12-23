@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+platinum_Pareidolia,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,67,20.94%,23.81%,4.820,1.68359375
+platinum_Good_Bitstrings,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,33,10.31%,14.29%,2.410,0.00390625
+platinum_Triples_of_Cows,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,39,12.07%,25.00%,2.410,306.2890625

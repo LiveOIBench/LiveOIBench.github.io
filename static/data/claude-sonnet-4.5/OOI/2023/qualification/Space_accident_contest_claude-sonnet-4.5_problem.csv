@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Space_accident_claude-sonnet-4.5_0.cpp,RUNTIME_ERROR,49,49.00%,74.23%,0.040,2.07421875,0.0,15.0,0,10.0,0,24.0,0
+Space_accident_claude-sonnet-4.5_1.cpp,RUNTIME_ERROR,49,49.00%,74.23%,0.040,2.07421875,0.0,15.0,0,10.0,0,24.0,0
+Space_accident_claude-sonnet-4.5_2.cpp,RUNTIME_ERROR,49,49.00%,74.23%,0.040,2.07421875,0.0,15.0,0,10.0,0,24.0,0
+Space_accident_claude-sonnet-4.5_3.cpp,ACCEPTED,100,100.00%,100.00%,0.050,2.07421875,0.0,15.0,16.0,10.0,15.0,24.0,20.0
+Space_accident_claude-sonnet-4.5_4.cpp,RUNTIME_ERROR,49,49.00%,74.23%,0.050,2.84765625,0.0,15.0,0,10.0,0,24.0,0
+Space_accident_claude-sonnet-4.5_5.cpp,RUNTIME_ERROR,25,25.00%,31.82%,0.050,2.07421875,0,0,0,10.0,15.0,0,0
+Space_accident_claude-sonnet-4.5_6.cpp,ACCEPTED,100,100.00%,100.00%,0.070,2.07421875,0.0,15.0,16.0,10.0,15.0,24.0,20.0
+Space_accident_claude-sonnet-4.5_7.cpp,RUNTIME_ERROR,80,80.00%,93.23%,0.080,2.1328125,0.0,15.0,16.0,10.0,15.0,24.0,0

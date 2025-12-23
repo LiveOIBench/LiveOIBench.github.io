@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+cesta_grok-4-fast-reasoning_0.cpp,ACCEPTED,110,100.00%,100.00%,1.130,287.46484375,10,30,30,40
+cesta_grok-4-fast-reasoning_1.cpp,ACCEPTED,110,100.00%,100.00%,0.900,96.6875,10,30,30,40
+cesta_grok-4-fast-reasoning_2.cpp,ACCEPTED,110,100.00%,100.00%,1.330,283.59765625,10,30,30,40
+cesta_grok-4-fast-reasoning_3.cpp,ACCEPTED,110,100.00%,100.00%,0.730,222.7578125,10,30,30,40
+cesta_grok-4-fast-reasoning_4.cpp,ACCEPTED,110,100.00%,100.00%,0.710,215.0234375,10,30,30,40
+cesta_grok-4-fast-reasoning_5.cpp,ACCEPTED,110,100.00%,100.00%,0.630,111.8984375,10,30,30,40
+cesta_grok-4-fast-reasoning_6.cpp,ACCEPTED,110,100.00%,100.00%,2.250,100.5546875,10,30,30,40
+cesta_grok-4-fast-reasoning_7.cpp,ACCEPTED,110,100.00%,100.00%,0.980,291.3359375,10,30,30,40

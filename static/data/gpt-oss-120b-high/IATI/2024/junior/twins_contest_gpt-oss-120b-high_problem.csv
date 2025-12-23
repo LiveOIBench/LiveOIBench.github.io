@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
-twins_gpt-oss-120b-high_0.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0
-twins_gpt-oss-120b-high_1.cpp,RUNTIME_ERROR,0,0.00%,0.030,1.546875,0,0,0
-twins_gpt-oss-120b-high_2.cpp,RUNTIME_ERROR,0,0.00%,0.030,1.80078125,0,0,0
-twins_gpt-oss-120b-high_3.cpp,RUNTIME_ERROR,0,0.00%,0.030,1.546875,0,0,0
-twins_gpt-oss-120b-high_4.cpp,RUNTIME_ERROR,0,0.00%,0.030,1.546875,0,0,0
-twins_gpt-oss-120b-high_5.cpp,RUNTIME_ERROR,0,0.00%,0.030,1.546875,0,0,0
-twins_gpt-oss-120b-high_6.cpp,RUNTIME_ERROR,0,0.00%,0.030,1.8046875,0,0,0
-twins_gpt-oss-120b-high_7.cpp,RUNTIME_ERROR,0,0.00%,0.030,1.80078125,0,0,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+twins_gpt-oss-120b-high_0.cpp,UNKNOWN,0,0.00%,0.00%,0.000,0,0,0,0
+twins_gpt-oss-120b-high_1.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0,0,0,0
+twins_gpt-oss-120b-high_2.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.100,3.609375,0,0,0
+twins_gpt-oss-120b-high_3.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.090,4.41015625,0,0,0
+twins_gpt-oss-120b-high_4.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.100,2.578125,0,0,0
+twins_gpt-oss-120b-high_5.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0,0,0,0
+twins_gpt-oss-120b-high_6.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.100,3.3515625,0,0,0
+twins_gpt-oss-120b-high_7.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.100,4.12109375,0,0,0

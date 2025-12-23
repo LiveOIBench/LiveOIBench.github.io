@@ -1,0 +1,6 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+sah,gpt-oss-120b_sp1,ACCEPTED,50,100.00%,100.00%,0.080,0.00390625
+benzinska,gpt-oss-120b_sp1,ACCEPTED,70,100.00%,100.00%,0.100,9.234375
+xor,gpt-oss-120b_sp1,UNKNOWN,0,0.00%,0.00%,0.000,0
+cipele,gpt-oss-120b_sp1,ACCEPTED,120,100.00%,100.00%,0.180,23.6640625
+tura,gpt-oss-120b_sp1,TIME_LIMIT_EXCEEDED,0,0.00%,12.95%,0.600,5.0546875

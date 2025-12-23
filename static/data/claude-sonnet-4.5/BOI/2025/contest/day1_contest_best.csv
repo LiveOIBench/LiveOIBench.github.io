@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+boi,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,32,32.00%,64.89%,1.210,16.765625
+tou,claude-sonnet-4.5,MEMORY_LIMIT_EXCEEDED,32,32.00%,50.86%,1.260,1173.64453125
+tow,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,13,13.00%,50.00%,2.400,3.19921875

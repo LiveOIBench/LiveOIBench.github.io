@@ -1,0 +1,5 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+Burenka_and_Pether,grok-4-fast-reasoning,RUNTIME_ERROR,13,13.00%,7.54%,0.300,62.65625
+Almost_Certainly,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,53,53.00%,84.12%,1.210,6.4921875
+Three_Arrays,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.030,5.9375
+Parallel_Universes,grok-4-fast-reasoning,RUNTIME_ERROR,38,38.00%,35.97%,0.230,62.65234375

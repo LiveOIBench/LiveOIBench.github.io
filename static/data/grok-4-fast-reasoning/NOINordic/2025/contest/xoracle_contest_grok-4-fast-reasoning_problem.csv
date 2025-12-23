@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+xoracle_grok-4-fast-reasoning_0.cpp,ACCEPTED,100,100.00%,100.00%,0.340,4.0,8,5,9,11,24,43
+xoracle_grok-4-fast-reasoning_1.cpp,ACCEPTED,100,100.00%,100.00%,0.330,3.8203125,8,5,9,11,24,43
+xoracle_grok-4-fast-reasoning_2.cpp,ACCEPTED,100,100.00%,100.00%,0.330,4.12890625,8,5,9,11,24,43
+xoracle_grok-4-fast-reasoning_3.cpp,ACCEPTED,100,100.00%,100.00%,0.340,4.09765625,8,5,9,11,24,43
+xoracle_grok-4-fast-reasoning_4.cpp,ACCEPTED,100,100.00%,100.00%,0.340,4.8671875,8,5,9,11,24,43
+xoracle_grok-4-fast-reasoning_5.cpp,ACCEPTED,100,100.00%,100.00%,0.350,4.0703125,8,5,9,11,24,43
+xoracle_grok-4-fast-reasoning_6.cpp,ACCEPTED,100,100.00%,100.00%,0.340,3.8203125,8,5,9,11,24,43
+xoracle_grok-4-fast-reasoning_7.cpp,ACCEPTED,100,100.00%,100.00%,0.340,4.99609375,8,5,9,11,24,43

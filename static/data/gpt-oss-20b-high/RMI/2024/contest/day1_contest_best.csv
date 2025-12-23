@@ -1,2 +1,2 @@
-problem,model,status,score,%test passed,time,memory
-Skittlez,gpt-oss-20b-high,TIME_LIMIT_EXCEEDED,28,64.15%,2.410,63.20703125
+problem,model,status,score,relative_score,%test passed,time,memory
+Skittlez,gpt-oss-20b-high,TIME_LIMIT_EXCEEDED,28,28.00%,64.15%,2.410,60.06640625

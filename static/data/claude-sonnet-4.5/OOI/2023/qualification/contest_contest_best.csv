@@ -1,0 +1,10 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+Paired_roads,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,0,0.00%,22.30%,4.820,6.37890625
+Legs_warm-up_exercise,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,10,10.00%,36.86%,7.210,14.95703125
+Hard_problem,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,65,65.00%,88.72%,1.210,4.39453125
+Yet_another_queries,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,19,19.00%,49.24%,1.800,9.29296875
+Lunch,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,16,16.00%,48.51%,2.410,17.390625
+Tournament,claude-sonnet-4.5,ACCEPTED,100,100.00%,100.00%,0.000,0
+You_need_to_train_more,claude-sonnet-4.5,ACCEPTED,100,100.00%,100.00%,0.070,2.84765625
+Colorful_graph,claude-sonnet-4.5,MEMORY_LIMIT_EXCEEDED,0,0.00%,14.38%,0.100,306.2890625
+Space_accident,claude-sonnet-4.5,ACCEPTED,100,100.00%,100.00%,0.050,2.07421875

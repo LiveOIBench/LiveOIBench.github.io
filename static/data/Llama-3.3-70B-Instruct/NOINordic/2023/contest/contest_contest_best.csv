@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-icecreammachines,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,52,92.07%,1.180,2.07421875
-chatnoi,Llama-3.3-70B-Instruct,RUNTIME_ERROR,5,54.76%,1.030,161.765625
-islandalliances,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,52,76.00%,5.510,15.9921875
+problem,model,status,score,relative_score,%test passed,time,memory
+icecreammachines,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,52,52.00%,92.07%,1.210,2.07421875
+chatnoi,Llama-3.3-70B-Instruct,RUNTIME_ERROR,5,5.00%,54.76%,0.970,161.76171875
+islandalliances,Llama-3.3-70B-Instruct,TIME_LIMIT_EXCEEDED,52,52.00%,76.00%,5.960,15.98828125

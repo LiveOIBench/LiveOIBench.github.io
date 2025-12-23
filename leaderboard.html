@@ -106,30 +106,8 @@
     </div>
   </section>
 
-  <!-- Division Selection Section -->
   <section class="section" style="padding: 0.75rem 1.25rem;">
     <div class="container is-max-desktop">
-      <div class="box" style="padding: 1.25rem; margin-bottom: 0.75rem;">
-        <div class="division-selection">
-          <h3 class="title is-5 has-text-centered mb-3" style="font-size: 1.15rem; margin-bottom: 0.75rem;">Select Divisions<a href="#" onclick="document.getElementById('division-scope').scrollIntoView({behavior: 'smooth'}); return false;" class="has-text-info ml-2">*</a></h3>
-          <div class="division-tabs" style="gap: 0.4rem;">
-            <div class="division-tab is-active" data-division="1" style="padding: 0.6rem 1rem;">
-              <span class="division-name" style="font-size: 1rem;">Division 1</span>
-            </div>
-            <div class="division-tab is-active" data-division="2" style="padding: 0.6rem 1rem;">
-              <span class="division-name" style="font-size: 1rem;">Division 2</span>
-            </div>
-            <div class="division-tab is-active" data-division="3" style="padding: 0.6rem 1rem;">
-              <span class="division-name" style="font-size: 1rem;">Division 3</span>
-            </div>
-            <div class="division-tab is-active" data-division="4" style="padding: 0.6rem 1rem;">
-              <span class="division-name" style="font-size: 1rem;">Division 4</span>
-            </div>
-          </div>
-        </div>
-      </div>
-
-
       <div class="box" style="padding: 1.25rem;">
         <h3 class="title is-5 has-text-centered mb-3" style="font-size: 1.15rem; margin-bottom: 0.75rem;">Select Competitions</h3>
         <div class="field">
@@ -146,7 +124,7 @@
                 <input type="range" id="endDateSlider" min="0" max="35" value="35" step="1">
               </div>
               <div class="date-range-labels has-text-centered">
-                <span id="dateRangeDisplay" class="is-size-5" style="font-size: 1rem; line-height: 1.35;">454 problems selected in the current time window (8/1/2024 to 5/1/2025). You can adjust the start or end date to change the time window.</span>
+                <span id="dateRangeDisplay" class="is-size-5" style="font-size: 1rem; line-height: 1.35;"></span>
               </div>
             </div>
           </div>
@@ -212,23 +190,10 @@
     </div>
   </section>
 
-  <!-- Division Scope Section -->
-  <section id="division-scope" class="section pt-0">
-    <div class="container is-max-desktop">
-      <div class="box">
-        <h4 class="title is-5 has-text-centered mb-4">Division Scope</h4>
-        <div class="content is-small">
-          <div id="division-scope-content">
-            <!-- Will be populated by JavaScript -->
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <!-- Link to external scripts -->
-  <script src="static/js/competition-config.js"></script>
-  <script src="static/js/model-config.js"></script>
-  <script src="static/js/leaderboard.js"></script>
+  <script src="static/js/competition-config.js?v=1"></script>
+  <script src="static/js/model-config.js?v=1"></script>
+  <script src="static/js/leaderboard.js?v=1"></script>
 </body>
 </html>

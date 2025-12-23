@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-silver_Cowmpetency,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,0.00%,0.190,2.359375
-silver_Potion_Farming,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,0,6.67%,2.320,11.41015625
-silver_Cowlendar,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,0,7.14%,2.290,3.359375
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_Cowmpetency,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,0.00%,0.00%,0.200,2.36328125
+silver_Potion_Farming,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,0,0.00%,6.67%,2.460,11.41015625
+silver_Cowlendar,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,0,0.00%,7.14%,2.420,3.359375

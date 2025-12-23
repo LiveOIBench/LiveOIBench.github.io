@@ -1,0 +1,6 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+estimathon,gpt-oss-120b_sp2,ACCEPTED,50,100.00%,100.00%,0.000,0
+dirigent,gpt-oss-120b_sp2,ACCEPTED,70,100.00%,100.00%,0.060,4.91015625
+baltazar,gpt-oss-120b_sp2,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.00%,0.000,0.00390625
+bomboni,gpt-oss-120b_sp2,ACCEPTED,110,100.00%,100.00%,0.100,3.359375
+skrivaca,gpt-oss-120b_sp2,RUNTIME_ERROR,55,50.00%,51.06%,0.300,83.1484375

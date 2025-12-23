@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-platinum_Identity_Theft,gemini-2.5-pro,RUNTIME_ERROR,17,8.00%,0.130,3.7421875
-platinum_Splitting_Haybales,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,17,13.64%,2.270,4.453125
-platinum_Activating_Robots,gemini-2.5-pro,MEMORY_LIMIT_EXCEEDED,133,50.00%,0.160,275.86328125
+problem,model,status,score,relative_score,%test passed,time,memory
+platinum_Identity_Theft,gemini-2.5-pro,RUNTIME_ERROR,17,5.31%,8.00%,0.140,3.73828125
+platinum_Splitting_Haybales,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,17,5.31%,13.64%,2.480,4.39453125
+platinum_Activating_Robots,gemini-2.5-pro,MEMORY_LIMIT_EXCEEDED,133,41.56%,50.00%,0.230,299.578125

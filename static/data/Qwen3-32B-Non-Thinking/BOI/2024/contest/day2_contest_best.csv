@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-fire,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,44.64%,0.030,3.6171875
-tiles,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,1.33%,0.050,2.84375
-wall,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,13.25%,0.000,0
+problem,model,status,score,relative_score,%test passed,time,memory
+fire,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,0.00%,44.64%,0.050,3.6171875
+tiles,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,0.00%,1.33%,0.060,3.1796875
+wall,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,0.00%,13.25%,0.020,0

@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-silver_Target_Practice_II,seed-oss_-1,WRONG_ANSWER,167,46.67%,0.040,4.80859375
-silver_Test_Tubes,seed-oss_-1,WRONG_ANSWER,50,14.29%,0.180,5.55859375
-silver_Moorbles,seed-oss_-1,ACCEPTED,333,100.00%,0.090,22.0859375
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_Target_Practice_II,seed-oss_-1,WRONG_ANSWER,167,51.86%,46.67%,0.160,6.97265625
+silver_Test_Tubes,seed-oss_-1,WRONG_ANSWER,50,15.62%,14.29%,0.310,5.5625
+silver_Moorbles,seed-oss_-1,ACCEPTED,333,100.91%,100.00%,0.200,16.3671875

@@ -1,6 +1,6 @@
-problem,model,status,score,%test passed,time,memory
-paradoks,deepseek-chat,RUNTIME_ERROR,10,38.46%,0.000,0
-igre,deepseek-chat,RUNTIME_ERROR,29,38.78%,0.040,0.00390625
-razlicitost,deepseek-chat,MEMORY_LIMIT_EXCEEDED,22,37.21%,0.070,4.39453125
-blistavost,deepseek-chat,RUNTIME_ERROR,0,9.84%,0.030,1.5546875
-trokuti,deepseek-chat,RUNTIME_ERROR,13,25.96%,0.060,4.39453125
+problem,model,status,score,relative_score,%test passed,time,memory
+paradoks,deepseek-chat,RUNTIME_ERROR,10,20.00%,38.46%,0.060,0
+igre,deepseek-chat,RUNTIME_ERROR,29,41.43%,38.78%,0.070,0.00390625
+razlicitost,deepseek-chat,MEMORY_LIMIT_EXCEEDED,22,24.44%,37.21%,0.080,4.39453125
+blistavost,deepseek-chat,RUNTIME_ERROR,0,0.00%,9.84%,0.060,1.5546875
+trokuti,deepseek-chat,RUNTIME_ERROR,13,10.83%,25.96%,0.090,4.39453125

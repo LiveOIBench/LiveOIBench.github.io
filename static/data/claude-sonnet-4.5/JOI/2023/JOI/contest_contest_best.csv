@@ -1,0 +1,6 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+2023-ho-t1_Stone_Arranging_2,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,60,60.00%,86.78%,2.410,2.84765625
+2023-ho-t2_Advertisement_2,claude-sonnet-4.5,ACCEPTED,100,100.00%,100.00%,0.530,47.1875
+2023-ho-t3_Maze,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,27,27.00%,78.68%,2.410,10.57421875
+2023-ho-t4_Cat_Exercise,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,21,21.00%,80.54%,2.410,30.4296875
+2023-ho-t5_Modern_Machine,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,3,3.00%,45.36%,2.970,1.8125

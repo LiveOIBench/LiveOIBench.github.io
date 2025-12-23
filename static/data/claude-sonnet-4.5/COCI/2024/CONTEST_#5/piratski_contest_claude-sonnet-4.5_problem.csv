@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+piratski_claude-sonnet-4.5_0.cpp,ACCEPTED,110,100.00%,100.00%,0.070,2.0703125,20,40,50
+piratski_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,20,18.18%,33.33%,2.410,272.71484375,20,0,0
+piratski_claude-sonnet-4.5_2.cpp,ACCEPTED,110,100.00%,100.00%,0.100,1.5625,20,40,50
+piratski_claude-sonnet-4.5_3.cpp,ACCEPTED,110,100.00%,100.00%,0.130,1.55859375,20,40,50
+piratski_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,20,18.18%,33.33%,2.410,83.53515625,20,0,0
+piratski_claude-sonnet-4.5_5.cpp,ACCEPTED,110,100.00%,100.00%,2.270,3.1328125,20,40,50
+piratski_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,20,18.18%,33.33%,2.410,241.88671875,20,0,0
+piratski_claude-sonnet-4.5_7.cpp,MEMORY_LIMIT_EXCEEDED,60,54.55%,66.67%,0.460,613.59765625,20,40,0

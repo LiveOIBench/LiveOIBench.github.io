@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+lepeze_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,12,10.91%,32.69%,2.420,613.70703125,12,0,0,0,0
+lepeze_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,12,10.91%,32.69%,2.410,613.70703125,12,0,0,0,0
+lepeze_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,12,10.91%,32.69%,2.410,613.69921875,12,0,0,0,0
+lepeze_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,12,10.91%,32.69%,2.430,296.58984375,12,0,0,0,0
+lepeze_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,15.38%,2.420,20.98828125,0,0,0,0,0
+lepeze_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,12,10.91%,32.69%,2.410,421.890625,12,0,0,0,0
+lepeze_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,12,10.91%,32.69%,2.420,613.69921875,12,0,0,0,0
+lepeze_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,12,10.91%,32.69%,2.410,392.76171875,12,0,0,0,0

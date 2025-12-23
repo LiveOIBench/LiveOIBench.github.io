@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+piratski_gpt-oss-120b_0.cpp,WRONG_ANSWER,0,0.00%,0.00%,0.190,1.83203125,0,0,0
+piratski_gpt-oss-120b_1.cpp,ACCEPTED,110,100.00%,100.00%,0.160,1.5546875,20,40,50
+piratski_gpt-oss-120b_2.cpp,WRONG_ANSWER,0,0.00%,0.00%,0.050,1.55859375,0,0,0
+piratski_gpt-oss-120b_3.cpp,ACCEPTED,110,100.00%,100.00%,0.130,1.8125,20,40,50
+piratski_gpt-oss-120b_4.cpp,WRONG_ANSWER,0,0.00%,0.00%,0.100,1.5546875,0,0,0
+piratski_gpt-oss-120b_5.cpp,WRONG_ANSWER,0,0.00%,0.00%,0.220,1.859375,0,0,0
+piratski_gpt-oss-120b_6.cpp,WRONG_ANSWER,0,0.00%,0.00%,0.050,1.55859375,0,0,0
+piratski_gpt-oss-120b_7.cpp,ACCEPTED,110,100.00%,100.00%,0.270,1.7421875,20,40,50

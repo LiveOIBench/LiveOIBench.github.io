@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_Target_Practice_II,claude-sonnet-4.5,WRONG_ANSWER,167,51.86%,53.33%,0.050,12.3671875
+silver_Test_Tubes,claude-sonnet-4.5,MEMORY_LIMIT_EXCEEDED,50,15.62%,14.29%,0.400,305.43359375
+silver_Moorbles,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,67,20.30%,33.33%,2.410,306.59375

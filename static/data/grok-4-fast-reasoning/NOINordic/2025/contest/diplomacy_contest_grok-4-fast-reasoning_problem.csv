@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+diplomacy_grok-4-fast-reasoning_0.cpp,TIME_LIMIT_EXCEEDED,25,25.00%,61.46%,4.810,31.3828125,9,10,6,0,0,0,0
+diplomacy_grok-4-fast-reasoning_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,4.810,27.68359375,0,0,0,0,0,0,0
+diplomacy_grok-4-fast-reasoning_2.cpp,TIME_LIMIT_EXCEEDED,15,15.00%,41.94%,4.810,55.6953125,9,0,6,0,0,0,0
+diplomacy_grok-4-fast-reasoning_3.cpp,TIME_LIMIT_EXCEEDED,25,25.00%,57.29%,4.810,54.34765625,9,10,6,0,0,0,0
+diplomacy_grok-4-fast-reasoning_4.cpp,TIME_LIMIT_EXCEEDED,25,25.00%,57.29%,4.810,81.0625,9,10,6,0,0,0,0
+diplomacy_grok-4-fast-reasoning_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.00%,1.500,2456.16796875,0,0,0,0,0,0,0
+diplomacy_grok-4-fast-reasoning_6.cpp,TIME_LIMIT_EXCEEDED,25,25.00%,61.46%,4.810,54.43359375,9,10,6,0,0,0,0
+diplomacy_grok-4-fast-reasoning_7.cpp,TIME_LIMIT_EXCEEDED,25,25.00%,57.29%,4.820,17.73828125,9,10,6,0,0,0,0

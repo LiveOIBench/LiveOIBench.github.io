@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory
-AA_Tree_DeepSeek-Coder-V2-Lite-Instruct_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0
-AA_Tree_DeepSeek-Coder-V2-Lite-Instruct_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0
-AA_Tree_DeepSeek-Coder-V2-Lite-Instruct_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0
-AA_Tree_DeepSeek-Coder-V2-Lite-Instruct_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0
-AA_Tree_DeepSeek-Coder-V2-Lite-Instruct_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0
-AA_Tree_DeepSeek-Coder-V2-Lite-Instruct_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0
-AA_Tree_DeepSeek-Coder-V2-Lite-Instruct_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0
-AA_Tree_DeepSeek-Coder-V2-Lite-Instruct_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+AA_Tree_DeepSeek-Coder-V2-Lite-Instruct_0.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0
+AA_Tree_DeepSeek-Coder-V2-Lite-Instruct_2.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0
+AA_Tree_DeepSeek-Coder-V2-Lite-Instruct_2.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0
+AA_Tree_DeepSeek-Coder-V2-Lite-Instruct_3.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0
+AA_Tree_DeepSeek-Coder-V2-Lite-Instruct_4.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.150,0,0,0,0,0
+AA_Tree_DeepSeek-Coder-V2-Lite-Instruct_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,0.140,0.00390625,0,0,0,0
+AA_Tree_DeepSeek-Coder-V2-Lite-Instruct_6.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0
+AA_Tree_DeepSeek-Coder-V2-Lite-Instruct_7.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0

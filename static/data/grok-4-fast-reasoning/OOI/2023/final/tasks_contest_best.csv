@@ -1,0 +1,7 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+Almost_Certainly,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,29,29.00%,77.06%,1.210,9.4453125
+Big_Persimmon,grok-4-fast-reasoning,RUNTIME_ERROR,12,12.00%,38.57%,0.000,0
+Burenka_and_Pether,grok-4-fast-reasoning,RUNTIME_ERROR,13,13.00%,7.54%,0.240,62.65625
+Evidence_Board,grok-4-fast-reasoning,RUNTIME_ERROR,0,0.00%,0.00%,0.210,30.53515625
+More_Gifts,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.350,71.66796875
+Three_Arrays,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.200,9.55078125

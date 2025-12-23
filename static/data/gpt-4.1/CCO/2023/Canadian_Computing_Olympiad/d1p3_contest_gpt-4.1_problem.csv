@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
-d1p3_gpt-4.1_0.cpp,RUNTIME_ERROR,0,4.81%,0.690,73.8359375,0,0,0,0,0,0,0,0
-d1p3_gpt-4.1_1.cpp,RUNTIME_ERROR,0,4.81%,0.930,376.3203125,0,0,0,0,0,0,0,0
-d1p3_gpt-4.1_2.cpp,RUNTIME_ERROR,0,3.85%,1.040,556.62109375,0,0,0,0,0,0,0,0
-d1p3_gpt-4.1_3.cpp,RUNTIME_ERROR,0,4.81%,0.490,75.9375,0,0,0,0,0,0,0,0
-d1p3_gpt-4.1_4.cpp,TIME_LIMIT_EXCEEDED,0,4.81%,2.230,890.28125,0,0,0,0,0,0,0,0
-d1p3_gpt-4.1_5.cpp,TIME_LIMIT_EXCEEDED,0,2.88%,2.240,334.2578125,0,0,0,0,0,0,0,0
-d1p3_gpt-4.1_6.cpp,RUNTIME_ERROR,0,0.96%,0.960,760.48828125,0,0,0,0,0,0,0,0
-d1p3_gpt-4.1_7.cpp,RUNTIME_ERROR,0,4.81%,0.920,123.4921875,0,0,0,0,0,0,0,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+d1p3_gpt-4.1_0.cpp,RUNTIME_ERROR,0,0.00%,4.81%,0.620,73.83203125,0,0,0,0,0,0,0,0
+d1p3_gpt-4.1_1.cpp,RUNTIME_ERROR,0,0.00%,4.81%,0.870,381.22265625,0,0,0,0,0,0,0,0
+d1p3_gpt-4.1_2.cpp,RUNTIME_ERROR,0,0.00%,3.85%,0.990,556.6171875,0,0,0,0,0,0,0,0
+d1p3_gpt-4.1_3.cpp,RUNTIME_ERROR,0,0.00%,4.81%,0.560,75.9375,0,0,0,0,0,0,0,0
+d1p3_gpt-4.1_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.81%,2.420,890.28515625,0,0,0,0,0,0,0,0
+d1p3_gpt-4.1_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.88%,2.430,334.2578125,0,0,0,0,0,0,0,0
+d1p3_gpt-4.1_6.cpp,RUNTIME_ERROR,0,0.00%,0.96%,0.900,760.48828125,0,0,0,0,0,0,0,0
+d1p3_gpt-4.1_7.cpp,RUNTIME_ERROR,0,0.00%,4.81%,0.890,123.4921875,0,0,0,0,0,0,0,0

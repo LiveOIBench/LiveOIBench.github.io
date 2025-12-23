@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3
-animeshops_gpt-oss-20b-high_0.cpp,ACCEPTED,100,100.00%,0.080,9.54296875,23,16,61
-animeshops_gpt-oss-20b-high_1.cpp,ACCEPTED,100,100.00%,0.110,10.8359375,23,16,61
-animeshops_gpt-oss-20b-high_2.cpp,ACCEPTED,100,100.00%,0.100,10.05859375,23,16,61
-animeshops_gpt-oss-20b-high_3.cpp,ACCEPTED,100,100.00%,0.110,11.09375,23,16,61
-animeshops_gpt-oss-20b-high_4.cpp,ACCEPTED,100,100.00%,0.100,9.02734375,23,16,61
-animeshops_gpt-oss-20b-high_5.cpp,ACCEPTED,100,100.00%,0.100,11.09375,23,16,61
-animeshops_gpt-oss-20b-high_6.cpp,ACCEPTED,100,100.00%,0.100,11.08984375,23,16,61
-animeshops_gpt-oss-20b-high_7.cpp,ACCEPTED,100,100.00%,0.090,11.609375,23,16,61
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3
+animeshops_gpt-oss-20b-high_0.cpp,ACCEPTED,100,100.00%,100.00%,0.220,9.03125,23,16,61
+animeshops_gpt-oss-20b-high_1.cpp,ACCEPTED,100,100.00%,100.00%,0.210,11.09375,23,16,61
+animeshops_gpt-oss-20b-high_2.cpp,ACCEPTED,100,100.00%,100.00%,0.230,10.578125,23,16,61
+animeshops_gpt-oss-20b-high_3.cpp,ACCEPTED,100,100.00%,100.00%,0.230,11.09375,23,16,61
+animeshops_gpt-oss-20b-high_4.cpp,ACCEPTED,100,100.00%,100.00%,0.210,9.546875,23,16,61
+animeshops_gpt-oss-20b-high_5.cpp,ACCEPTED,100,100.00%,100.00%,0.240,10.8359375,23,16,61
+animeshops_gpt-oss-20b-high_6.cpp,ACCEPTED,100,100.00%,100.00%,0.220,11.09375,23,16,61
+animeshops_gpt-oss-20b-high_7.cpp,ACCEPTED,100,100.00%,100.00%,0.220,10.8359375,23,16,61

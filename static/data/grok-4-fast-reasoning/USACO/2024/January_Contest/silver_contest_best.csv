@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_Cowmpetency,grok-4-fast-reasoning,WRONG_ANSWER,167,50.61%,58.33%,0.050,4.44140625
+silver_Potion_Farming,grok-4-fast-reasoning,ACCEPTED,333,103.42%,100.00%,0.030,11.55078125
+silver_Cowlendar,grok-4-fast-reasoning,ACCEPTED,333,102.78%,100.00%,0.010,2.0703125

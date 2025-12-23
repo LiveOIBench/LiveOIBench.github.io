@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Custodial_Cleanup,grok-4-fast-reasoning,WRONG_ANSWER,83,25.94%,33.33%,0.050,6.73046875
+gold_Pareidolia,grok-4-fast-reasoning,ACCEPTED,333,103.42%,100.00%,0.020,3.22265625
+gold_Tree_Merging,grok-4-fast-reasoning,MEMORY_LIMIT_EXCEEDED,44,13.33%,18.75%,0.010,1.609375

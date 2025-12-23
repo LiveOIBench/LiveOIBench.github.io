@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-bronze_Reflection,DeepSeek-R1-Distill-Llama-70B,COMPILATION_ERROR,0,0.00%,0.000,0
-bronze_Making_Mexes,DeepSeek-R1-Distill-Llama-70B,COMPILATION_ERROR,0,0.00%,0.000,0
-bronze_Printing_Sequences,DeepSeek-R1-Distill-Llama-70B,COMPILATION_ERROR,0,0.00%,0.000,0
+problem,model,status,score,relative_score,%test passed,time,memory
+bronze_Reflection,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,333,100.91%,100.00%,0.320,9.03125
+bronze_Making_Mexes,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,333,100.91%,100.00%,0.330,3.62109375
+bronze_Printing_Sequences,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,333,100.91%,100.00%,0.240,0.00390625

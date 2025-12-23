@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_Cow_Checkups,grok-4-fast-reasoning,ACCEPTED,333,104.06%,100.00%,0.190,47.4453125
+silver_Farmer_Johns_Favorite_Operation,grok-4-fast-reasoning,ACCEPTED,333,100.91%,100.00%,0.080,5.9375
+silver_Table_Recovery,grok-4-fast-reasoning,ACCEPTED,333,102.78%,100.00%,0.130,13.5234375

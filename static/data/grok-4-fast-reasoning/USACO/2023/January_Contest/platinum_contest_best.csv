@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+platinum_Tractor_Paths,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,44,13.33%,18.75%,4.820,20.47265625
+platinum_Mana_Collection,grok-4-fast-reasoning,ACCEPTED,333,100.91%,100.00%,4.370,305.03125
+platinum_Subtree_Activation,grok-4-fast-reasoning,WRONG_ANSWER,17,5.31%,9.52%,0.030,12.2890625

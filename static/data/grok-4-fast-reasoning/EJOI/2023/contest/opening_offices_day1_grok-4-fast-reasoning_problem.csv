@@ -1,0 +1,7 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+opening_offices_grok-4-fast-reasoning_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,1.210,17.796875,0,0,0,0,0,0,0,0,0,0,0
+opening_offices_grok-4-fast-reasoning_1.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+opening_offices_grok-4-fast-reasoning_2.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+opening_offices_grok-4-fast-reasoning_3.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+opening_offices_grok-4-fast-reasoning_6.cpp,RUNTIME_ERROR,47,47.00%,57.38%,0.910,176.109375,0,4,0,0,9,11,9,0,14,0,0
+opening_offices_grok-4-fast-reasoning_7.cpp,RUNTIME_ERROR,61,61.00%,75.41%,0.590,94.21484375,0,4,0,5,9,11,9,0,14,0,9

@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+square_grid_puzzle,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,0,0.00%,25.00%,1.210,220.21484375
+team_building,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,45,45.00%,42.86%,1.210,2.0703125
+tree_infection,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,20,20.00%,18.52%,1.220,35.91015625

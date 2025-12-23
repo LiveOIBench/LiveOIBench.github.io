@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+stablo_grok-4-fast-reasoning_0.cpp,ACCEPTED,120,100.00%,100.00%,0.930,155.984375,21,37,22,40
+stablo_grok-4-fast-reasoning_1.cpp,ACCEPTED,120,100.00%,100.00%,0.610,108.3515625,21,37,22,40
+stablo_grok-4-fast-reasoning_2.cpp,ACCEPTED,120,100.00%,100.00%,0.610,117.83203125,21,37,22,40
+stablo_grok-4-fast-reasoning_3.cpp,ACCEPTED,120,100.00%,100.00%,0.580,129.2421875,21,37,22,40
+stablo_grok-4-fast-reasoning_4.cpp,ACCEPTED,120,100.00%,100.00%,0.870,153.921875,21,37,22,40
+stablo_grok-4-fast-reasoning_5.cpp,ACCEPTED,120,100.00%,100.00%,0.880,106.2265625,21,37,22,40
+stablo_grok-4-fast-reasoning_6.cpp,ACCEPTED,120,100.00%,100.00%,0.550,85.4140625,21,37,22,40
+stablo_grok-4-fast-reasoning_7.cpp,ACCEPTED,120,100.00%,100.00%,0.850,155.984375,21,37,22,40

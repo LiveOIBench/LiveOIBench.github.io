@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-boi,Qwen3-8B,TIME_LIMIT_EXCEEDED,0,9.52%,1.210,16.76953125
-tou,Qwen3-8B,TIME_LIMIT_EXCEEDED,0,8.62%,2.410,143.390625
-tow,Qwen3-8B,RUNTIME_ERROR,0,16.67%,0.010,1.546875
+problem,model,status,score,relative_score,%test passed,time,memory
+boi,Qwen3-8B,TIME_LIMIT_EXCEEDED,0,0.00%,9.52%,1.210,16.76953125
+tou,Qwen3-8B,TIME_LIMIT_EXCEEDED,0,0.00%,8.62%,2.410,143.390625
+tow,Qwen3-8B,RUNTIME_ERROR,0,0.00%,16.67%,0.030,1.55078125

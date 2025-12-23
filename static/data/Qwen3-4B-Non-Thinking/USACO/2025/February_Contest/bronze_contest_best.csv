@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-bronze_Reflection,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
-bronze_Making_Mexes,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
-bronze_Printing_Sequences,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+problem,model,status,score,relative_score,%test passed,time,memory
+bronze_Reflection,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0
+bronze_Making_Mexes,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0
+bronze_Printing_Sequences,Qwen3-4B-Non-Thinking,WRONG_ANSWER,30,9.09%,15.38%,0.150,0.00390625

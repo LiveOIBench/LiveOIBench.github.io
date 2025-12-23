@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+bronze_Reflection,claude-sonnet-4.5,ACCEPTED,333,100.91%,100.00%,0.050,9.02734375
+bronze_Making_Mexes,claude-sonnet-4.5,ACCEPTED,333,100.91%,100.00%,0.040,2.7890625
+bronze_Printing_Sequences,claude-sonnet-4.5,ACCEPTED,333,100.91%,100.00%,0.040,1.61328125

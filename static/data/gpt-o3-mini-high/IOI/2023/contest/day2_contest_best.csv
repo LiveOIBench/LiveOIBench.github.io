@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-robot,gpt-o3-mini-high,RUNTIME_ERROR,6,7.24%,0.050,8.7265625
-overtaking,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,65,86.26%,2.770,18.3671875
-beechtree,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,9,27.06%,1.660,62.35546875
+problem,model,status,score,relative_score,%test passed,time,memory
+robot,gpt-o3-mini-high,RUNTIME_ERROR,6,6.00%,7.24%,0.050,8.7578125
+overtaking,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,65,65.00%,86.26%,2.970,18.36328125
+beechtree,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,9,9.00%,27.06%,1.800,65.70703125

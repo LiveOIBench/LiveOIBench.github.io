@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+aquarelle_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,11,11.00%,71.51%,0.430,236.671875,0,11,0,0,0,0
+aquarelle_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,11,11.00%,68.24%,0.450,1.55078125,0,11,0,0,0,0
+aquarelle_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,29,29.00%,76.56%,0.430,26.04296875,0,11,18,0,0,0
+aquarelle_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,11,11.00%,68.24%,0.420,63.94140625,0,11,0,0,0,0
+aquarelle_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,29,29.00%,76.56%,0.420,26.30078125,0,11,18,0,0,0
+aquarelle_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,11,11.00%,71.51%,0.440,237.44140625,0,11,0,0,0,0
+aquarelle_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,29,29.00%,76.56%,0.430,26.30078125,0,11,18,0,0,0
+aquarelle_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,11,11.00%,72.53%,0.430,2.39453125,0,11,0,0,0,0

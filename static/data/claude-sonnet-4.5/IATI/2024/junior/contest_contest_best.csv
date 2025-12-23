@@ -1,0 +1,7 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+aquarelle,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,29,29.00%,76.56%,0.420,26.30078125
+parentheses,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,40,40.00%,91.83%,0.360,2.33984375
+tolls,claude-sonnet-4.5,ACCEPTED,100,100.00%,100.00%,0.090,12.37890625
+twins,claude-sonnet-4.5,ACCEPTED,100,100.00%,100.00%,0.050,3.5859375
+walk,claude-sonnet-4.5,ACCEPTED,100,100.00%,100.00%,0.390,26.23828125
+xy,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,0,0.00%,2.86%,0.260,16.796875

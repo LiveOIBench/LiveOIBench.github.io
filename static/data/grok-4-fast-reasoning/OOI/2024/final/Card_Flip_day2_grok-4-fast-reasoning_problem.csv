@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Card_Flip_grok-4-fast-reasoning_0.cpp,RUNTIME_ERROR,50,50.00%,71.11%,0.200,30.328125,0.0,0,0,9.0,10.0,6.0,11.0,14.0,0,0
+Card_Flip_grok-4-fast-reasoning_1.cpp,RUNTIME_ERROR,15,15.00%,49.61%,0.210,14.9609375,0.0,0,0,9.0,0,6.0,0,0,0,0
+Card_Flip_grok-4-fast-reasoning_2.cpp,RUNTIME_ERROR,15,15.00%,42.28%,0.210,20.99609375,0.0,0,0,9.0,0,6.0,0,0,0,0
+Card_Flip_grok-4-fast-reasoning_3.cpp,RUNTIME_ERROR,50,50.00%,71.11%,0.180,47.4453125,0.0,0,0,9.0,10.0,6.0,11.0,14.0,0,0
+Card_Flip_grok-4-fast-reasoning_4.cpp,RUNTIME_ERROR,50,50.00%,71.11%,0.220,35.8359375,0.0,0,0,9.0,10.0,6.0,11.0,14.0,0,0
+Card_Flip_grok-4-fast-reasoning_5.cpp,RUNTIME_ERROR,50,50.00%,71.11%,0.250,28.109375,0.0,0,0,9.0,10.0,6.0,11.0,14.0,0,0
+Card_Flip_grok-4-fast-reasoning_6.cpp,RUNTIME_ERROR,50,50.00%,71.11%,0.240,33.5234375,0.0,0,0,9.0,10.0,6.0,11.0,14.0,0,0
+Card_Flip_grok-4-fast-reasoning_7.cpp,RUNTIME_ERROR,15,15.00%,49.61%,0.130,7.74609375,0.0,0,0,9.0,0,6.0,0,0,0,0

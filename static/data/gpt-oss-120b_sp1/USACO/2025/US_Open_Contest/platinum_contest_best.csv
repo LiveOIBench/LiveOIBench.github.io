@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+platinum_Forklift_Certified,gpt-oss-120b_sp1,WRONG_ANSWER,95,29.50%,37.50%,0.580,10.55078125
+platinum_Lazy_Sort,gpt-oss-120b_sp1,WRONG_ANSWER,0,0.00%,6.67%,0.000,0
+platinum_Package_Pickup,gpt-oss-120b_sp1,TIME_LIMIT_EXCEEDED,0,0.00%,10.00%,4.810,198.52734375

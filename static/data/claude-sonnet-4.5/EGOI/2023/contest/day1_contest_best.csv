@@ -1,0 +1,5 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+bikesvscars,claude-sonnet-4.5,RUNTIME_ERROR,0,0.00%,0.00%,0.010,1.546875
+ppp,claude-sonnet-4.5,MEMORY_LIMIT_EXCEEDED,36,36.00%,45.21%,1.420,994.6484375
+findthebox,claude-sonnet-4.5,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0
+inflation,claude-sonnet-4.5,ACCEPTED,100,100.00%,100.00%,0.220,17.27734375

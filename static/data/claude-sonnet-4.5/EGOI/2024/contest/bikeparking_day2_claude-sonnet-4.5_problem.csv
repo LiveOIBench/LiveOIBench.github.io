@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+bikeparking_claude-sonnet-4.5_0.cpp,RUNTIME_ERROR,25,25.00%,61.49%,0.230,8.26171875,0,16,9,0,0,0
+bikeparking_claude-sonnet-4.5_1.cpp,RUNTIME_ERROR,25,25.00%,61.49%,0.390,10.58203125,0,16,9,0,0,0
+bikeparking_claude-sonnet-4.5_2.cpp,RUNTIME_ERROR,25,25.00%,61.49%,0.230,10.58203125,0,16,9,0,0,0
+bikeparking_claude-sonnet-4.5_3.cpp,RUNTIME_ERROR,25,25.00%,61.49%,0.140,10.58203125,0,16,9,0,0,0
+bikeparking_claude-sonnet-4.5_4.cpp,RUNTIME_ERROR,25,25.00%,61.49%,0.360,10.58203125,0,16,9,0,0,0
+bikeparking_claude-sonnet-4.5_5.cpp,RUNTIME_ERROR,25,25.00%,54.88%,0.110,8.00390625,0,16,9,0,0,0
+bikeparking_claude-sonnet-4.5_6.cpp,RUNTIME_ERROR,25,25.00%,61.49%,0.120,10.58203125,0,16,9,0,0,0
+bikeparking_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,16,16.00%,49.03%,1.210,5.94140625,0,16,0,0,0,0

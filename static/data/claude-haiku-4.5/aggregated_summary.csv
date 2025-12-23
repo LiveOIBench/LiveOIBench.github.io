@@ -1,0 +1,6 @@
+competition_year,model,total_score,avg %passed,avg_time,avg_mem,pass_rate
+ALL_COMPETITIONS,claude-haiku-4.5,340,38.62%,1.27,285.07,0.00%
+APIO-2023,claude-haiku-4.5,140,59.82%,1.28,28.08,0.00%
+APIO-2024,claude-haiku-4.5,35,28.57%,1.24,115.94,0.00%
+IOI-2023,claude-haiku-4.5,107,37.72%,1.40,174.65,0.00%
+IOI-2024,claude-haiku-4.5,58,28.37%,1.17,821.60,0.00%

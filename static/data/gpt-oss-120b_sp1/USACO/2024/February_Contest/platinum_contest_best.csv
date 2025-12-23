@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+platinum_Lazy_Cow,gpt-oss-120b_sp1,TIME_LIMIT_EXCEEDED,98,30.34%,40.00%,2.540,3.359375
+platinum_Minimum_Sum_of_Maximums,gpt-oss-120b_sp1,TIME_LIMIT_EXCEEDED,117,36.56%,45.83%,2.560,73.19921875
+platinum_Infinite_Adventure,gpt-oss-120b_sp1,TIME_LIMIT_EXCEEDED,104,32.50%,38.89%,2.450,613.5234375

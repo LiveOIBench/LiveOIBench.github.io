@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-covid,gpt-o3-mini-high,RUNTIME_ERROR,10,66.67%,0.050,1.52734375
-battle,gpt-o3-mini-high,ACCEPTED,100,100.00%,1.170,117.703125
-editor,gpt-o3-mini-high,MEMORY_LIMIT_EXCEEDED,56,90.16%,1.230,1125.35546875
+problem,model,status,score,relative_score,%test passed,time,memory
+covid,gpt-o3-mini-high,RUNTIME_ERROR,10,10.00%,66.67%,0.060,1.546875
+battle,gpt-o3-mini-high,ACCEPTED,100,100.00%,100.00%,1.000,117.703125
+editor,gpt-o3-mini-high,MEMORY_LIMIT_EXCEEDED,56,56.00%,90.16%,1.290,1227.70703125

@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
-mosaic_Qwen3-14B-Non-Thinking_0.cpp,MEMORY_LIMIT_EXCEEDED,0,8.33%,1.050,2216.6875,0,0,0,0,0,0,0,0,0
-mosaic_Qwen3-14B-Non-Thinking_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.120,2232.15625,0,0,0,0,0,0,0,0,0
-mosaic_Qwen3-14B-Non-Thinking_2.cpp,TIME_LIMIT_EXCEEDED,0,4.29%,1.120,2237.3125,0,0,0,0,0,0,0,0,0
-mosaic_Qwen3-14B-Non-Thinking_3.cpp,TIME_LIMIT_EXCEEDED,0,8.33%,1.140,2243.49609375,0,0,0,0,0,0,0,0,0
-mosaic_Qwen3-14B-Non-Thinking_4.cpp,TIME_LIMIT_EXCEEDED,0,8.33%,1.120,2244.3203125,0,0,0,0,0,0,0,0,0
-mosaic_Qwen3-14B-Non-Thinking_5.cpp,MEMORY_LIMIT_EXCEEDED,22,64.86%,1.070,2225.9453125,0,5,7,0,10,0,0,0,0
-mosaic_Qwen3-14B-Non-Thinking_6.cpp,MEMORY_LIMIT_EXCEEDED,0,8.33%,1.020,2238.859375,0,0,0,0,0,0,0,0,0
-mosaic_Qwen3-14B-Non-Thinking_7.cpp,TIME_LIMIT_EXCEEDED,0,4.29%,1.120,2235.52734375,0,0,0,0,0,0,0,0,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+mosaic_Qwen3-14B-Non-Thinking_0.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,8.33%,0.890,2446.13671875,0,0,0,0,0,0,0,0,0
+mosaic_Qwen3-14B-Non-Thinking_1.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.00%,1.040,2434.0234375,0,0,0,0,0,0,0,0,0
+mosaic_Qwen3-14B-Non-Thinking_2.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,4.29%,1.040,2448.71875,0,0,0,0,0,0,0,0,0
+mosaic_Qwen3-14B-Non-Thinking_3.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,8.33%,0.890,2449.4921875,0,0,0,0,0,0,0,0,0
+mosaic_Qwen3-14B-Non-Thinking_4.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,8.33%,0.890,2448.59375,0,0,0,0,0,0,0,0,0
+mosaic_Qwen3-14B-Non-Thinking_5.cpp,MEMORY_LIMIT_EXCEEDED,22,22.00%,64.86%,0.890,2447.171875,0,5,7,0,10,0,0,0,0
+mosaic_Qwen3-14B-Non-Thinking_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,8.33%,0.920,2423.453125,0,0,0,0,0,0,0,0,0
+mosaic_Qwen3-14B-Non-Thinking_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,4.29%,1.020,2443.046875,0,0,0,0,0,0,0,0,0

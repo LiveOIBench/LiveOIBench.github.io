@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_Sequence_Construction,grok-4-fast-reasoning,WRONG_ANSWER,0,0.00%,0.00%,0.020,0.00390625
+silver_Compatible_Pairs,grok-4-fast-reasoning,ACCEPTED,333,100.91%,100.00%,0.260,54.01171875
+silver_Ski_Slope,grok-4-fast-reasoning,ACCEPTED,333,104.06%,100.00%,0.140,29.578125

@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+bronze_Hoof_Paper_Scissors_Minus_One,claude-sonnet-4.5,ACCEPTED,333,100.91%,100.00%,0.050,2.5859375
+bronze_More_Cow_Photos,claude-sonnet-4.5,ACCEPTED,333,100.91%,100.00%,0.160,1.81640625
+bronze_Its_Mooin_Time_III,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,167,50.61%,54.55%,2.410,27.3359375

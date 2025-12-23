@@ -1,0 +1,6 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+mosaic_grok-4-fast-reasoning_1.cpp,MEMORY_LIMIT_EXCEEDED,22,22.00%,64.86%,1.070,2442.2734375,0,5,7,0,10,0,0,0,0
+mosaic_grok-4-fast-reasoning_2.cpp,MEMORY_LIMIT_EXCEEDED,22,22.00%,64.86%,0.890,2441.49609375,0,5,7,0,10,0,0,0,0
+mosaic_grok-4-fast-reasoning_4.cpp,MEMORY_LIMIT_EXCEEDED,37,37.00%,82.86%,0.780,2455.6796875,0,5,7,7,10,8,0,0,0
+mosaic_grok-4-fast-reasoning_6.cpp,MEMORY_LIMIT_EXCEEDED,22,22.00%,64.86%,0.840,2434.796875,0,5,7,0,10,0,0,0,0
+mosaic_grok-4-fast-reasoning_7.cpp,RUNTIME_ERROR,20,20.00%,61.17%,0.460,257.61328125,0,5,0,7,0,8,0,0,0

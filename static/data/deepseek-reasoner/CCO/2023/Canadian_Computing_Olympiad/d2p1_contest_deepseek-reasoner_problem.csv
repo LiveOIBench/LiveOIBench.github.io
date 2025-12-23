@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
-d2p1_deepseek-reasoner_0.cpp,RUNTIME_ERROR,1,24.11%,0.020,1.70703125,1,0,0,0,0,0
-d2p1_deepseek-reasoner_1.cpp,RUNTIME_ERROR,1,22.32%,0.020,1.7109375,1,0,0,0,0,0
-d2p1_deepseek-reasoner_2.cpp,RUNTIME_ERROR,4,38.39%,0.020,1.7109375,1,3,0,0,0,0
-d2p1_deepseek-reasoner_3.cpp,RUNTIME_ERROR,4,38.39%,0.020,1.6796875,1,3,0,0,0,0
-d2p1_deepseek-reasoner_4.cpp,RUNTIME_ERROR,1,26.79%,0.020,1.70703125,1,0,0,0,0,0
-d2p1_deepseek-reasoner_5.cpp,RUNTIME_ERROR,4,40.18%,0.020,1.6796875,1,3,0,0,0,0
-d2p1_deepseek-reasoner_6.cpp,RUNTIME_ERROR,4,40.18%,0.020,1.7109375,1,3,0,0,0,0
-d2p1_deepseek-reasoner_7.cpp,RUNTIME_ERROR,1,27.68%,0.020,1.6796875,1,0,0,0,0,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+d2p1_deepseek-reasoner_0.cpp,RUNTIME_ERROR,1,4.00%,24.11%,0.050,1.5546875,1,0,0,0,0,0
+d2p1_deepseek-reasoner_1.cpp,RUNTIME_ERROR,1,4.00%,22.32%,0.040,1.7109375,1,0,0,0,0,0
+d2p1_deepseek-reasoner_2.cpp,RUNTIME_ERROR,4,16.00%,38.39%,0.050,1.7109375,1,3,0,0,0,0
+d2p1_deepseek-reasoner_3.cpp,RUNTIME_ERROR,4,16.00%,38.39%,0.040,1.6796875,1,3,0,0,0,0
+d2p1_deepseek-reasoner_4.cpp,RUNTIME_ERROR,1,4.00%,26.79%,0.050,1.70703125,1,0,0,0,0,0
+d2p1_deepseek-reasoner_5.cpp,RUNTIME_ERROR,4,16.00%,40.18%,0.040,1.67578125,1,3,0,0,0,0
+d2p1_deepseek-reasoner_6.cpp,RUNTIME_ERROR,4,16.00%,40.18%,0.050,1.7109375,1,3,0,0,0,0
+d2p1_deepseek-reasoner_7.cpp,RUNTIME_ERROR,1,4.00%,27.68%,0.040,1.6796875,1,0,0,0,0,0

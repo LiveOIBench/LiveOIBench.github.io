@@ -1,2 +1,4 @@
 problem,model,status,score,relative_score,%test passed,time,memory
-platinum_Subtree_Activation,gpt-oss-120b-high,WRONG_ANSWER,0,0.00%,4.76%,0.060,0.00390625
+platinum_Tractor_Paths,gpt-oss-120b-high,TIME_LIMIT_EXCEEDED,44,13.33%,18.75%,4.870,40.97265625
+platinum_Mana_Collection,gpt-oss-120b-high,ACCEPTED,333,100.91%,100.00%,0.530,159.59765625
+platinum_Subtree_Activation,gpt-oss-120b-high,TIME_LIMIT_EXCEEDED,217,67.81%,66.67%,2.460,15.83203125

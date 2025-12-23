@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
-longesttrip_deepseek-chat_0.cpp,RUNTIME_ERROR,15,29.52%,0.330,4.046875,0,5,10,0,0.0
-longesttrip_deepseek-chat_1.cpp,RUNTIME_ERROR,5,16.87%,0.150,3.921875,0,5,0,0,0.0
-longesttrip_deepseek-chat_2.cpp,RUNTIME_ERROR,5,11.45%,0.230,4.02734375,0,5,0,0,0
-longesttrip_deepseek-chat_3.cpp,RUNTIME_ERROR,5,39.76%,0.250,4.05078125,0,5,0,0,0
-longesttrip_deepseek-chat_4.cpp,RUNTIME_ERROR,5,13.86%,0.190,4.046875,0,5,0,0,0.0
-longesttrip_deepseek-chat_5.cpp,RUNTIME_ERROR,5,18.07%,0.330,4.02734375,0,5,0,0,0
-longesttrip_deepseek-chat_6.cpp,RUNTIME_ERROR,15,23.49%,0.240,4.046875,0,5,10,0,0
-longesttrip_deepseek-chat_7.cpp,RUNTIME_ERROR,5,12.65%,1.790,5.0078125,0,5,0,0,0.0
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+longesttrip_deepseek-chat_0.cpp,RUNTIME_ERROR,15,15.00%,29.52%,0.110,4.0390625,0,5,10,0,0.0
+longesttrip_deepseek-chat_1.cpp,RUNTIME_ERROR,5,5.00%,16.87%,0.060,4.0078125,0,5,0,0,0.0
+longesttrip_deepseek-chat_2.cpp,RUNTIME_ERROR,5,5.00%,11.45%,0.070,4.0078125,0,5,0,0,0
+longesttrip_deepseek-chat_3.cpp,RUNTIME_ERROR,5,5.00%,39.76%,0.100,4.0546875,0,5,0,0,0
+longesttrip_deepseek-chat_4.cpp,RUNTIME_ERROR,5,5.00%,13.86%,0.060,4.0546875,0,5,0,0,0.0
+longesttrip_deepseek-chat_5.cpp,RUNTIME_ERROR,5,5.00%,18.07%,0.080,4.0390625,0,5,0,0,0
+longesttrip_deepseek-chat_6.cpp,RUNTIME_ERROR,15,15.00%,23.49%,0.090,4.06640625,0,5,10,0,0
+longesttrip_deepseek-chat_7.cpp,RUNTIME_ERROR,5,5.00%,12.65%,0.410,5.1328125,0,5,0,0,0.0

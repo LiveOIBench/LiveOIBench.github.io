@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_Bovine_Acrobatics,claude-sonnet-4.5,ACCEPTED,333,100.91%,100.00%,0.060,14.69921875
+silver_Cycle_Correspondence,claude-sonnet-4.5,ACCEPTED,333,102.78%,100.00%,0.250,49.70703125
+silver_Target_Practice,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,83,25.62%,40.00%,2.410,7.4140625

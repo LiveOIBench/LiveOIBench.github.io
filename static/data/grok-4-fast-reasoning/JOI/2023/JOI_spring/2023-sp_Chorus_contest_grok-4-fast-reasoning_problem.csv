@@ -1,0 +1,6 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+2023-sp_Chorus_grok-4-fast-reasoning_0.cpp,RUNTIME_ERROR,0,0.00%,42.06%,0.010,0,0,0,0,0,0
+2023-sp_Chorus_grok-4-fast-reasoning_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,7.210,0.00390625,0,0,0,0,0
+2023-sp_Chorus_grok-4-fast-reasoning_2.cpp,RUNTIME_ERROR,0,0.00%,12.66%,0.000,0,0,0,0,0,0
+2023-sp_Chorus_grok-4-fast-reasoning_4.cpp,RUNTIME_ERROR,0,0.00%,42.06%,0.010,0,0,0,0,0,0
+2023-sp_Chorus_grok-4-fast-reasoning_5.cpp,RUNTIME_ERROR,0,0.00%,35.35%,0.000,0,0,0,0,0,0

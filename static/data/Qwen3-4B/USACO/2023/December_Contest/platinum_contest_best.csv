@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-platinum_Cowntact_Tracing,Qwen3-4B,COMPILATION_ERROR,0,0.00%,0.000,0
-platinum_A_Graph_Problem,Qwen3-4B,TIME_LIMIT_EXCEEDED,17,17.39%,2.420,21.67578125
-platinum_Train_Scheduling,Qwen3-4B,WRONG_ANSWER,183,62.50%,0.020,0.00390625
+problem,model,status,score,relative_score,%test passed,time,memory
+platinum_Cowntact_Tracing,Qwen3-4B,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0
+platinum_A_Graph_Problem,Qwen3-4B,TIME_LIMIT_EXCEEDED,17,5.31%,17.39%,2.470,23.48046875
+platinum_Train_Scheduling,Qwen3-4B,WRONG_ANSWER,183,57.19%,62.50%,0.120,0.00390625

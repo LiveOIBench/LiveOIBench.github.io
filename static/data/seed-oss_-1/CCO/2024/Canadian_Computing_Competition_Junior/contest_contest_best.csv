@@ -1,6 +1,6 @@
-problem,model,status,score,%test passed,time,memory
-j1,seed-oss_-1,COMPILATION_ERROR,0,0.00%,0.000,0
-j2,seed-oss_-1,ACCEPTED,15,100.00%,0.020,0.00390625
-j3,seed-oss_-1,ACCEPTED,15,100.00%,0.020,0.00390625
-j4,seed-oss_-1,ACCEPTED,15,100.00%,0.020,2.3125
-j5,seed-oss_-1,ACCEPTED,15,100.00%,0.020,1.5546875
+problem,model,status,score,relative_score,%test passed,time,memory
+j1,seed-oss_-1,ACCEPTED,15,100.00%,100.00%,0.000,0
+j2,seed-oss_-1,ACCEPTED,15,100.00%,100.00%,0.040,0.00390625
+j3,seed-oss_-1,ACCEPTED,15,100.00%,100.00%,0.050,0.00390625
+j4,seed-oss_-1,ACCEPTED,15,100.00%,100.00%,0.050,2.05859375
+j5,seed-oss_-1,ACCEPTED,15,100.00%,100.00%,0.050,1.5546875

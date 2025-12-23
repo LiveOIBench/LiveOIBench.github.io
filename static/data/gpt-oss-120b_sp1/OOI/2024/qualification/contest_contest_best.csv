@@ -1,0 +1,10 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+Colorful_Diameter,gpt-oss-120b_sp1,RUNTIME_ERROR,51,51.00%,80.56%,2.060,16.9375
+Road_Lighting,gpt-oss-120b_sp1,UNKNOWN,0,0.00%,0.00%,0.000,0
+Repainting_the_Table,gpt-oss-120b_sp1,UNKNOWN,0,0.00%,0.00%,0.000,0
+Distinctive_Features,gpt-oss-120b_sp1,ACCEPTED,100,100.00%,100.00%,0.490,89.72265625
+Classic_Tree_Problem,gpt-oss-120b_sp1,UNKNOWN,0,0.00%,0.00%,0.000,0
+Alien_Homophones,gpt-oss-120b_sp1,ACCEPTED,100,100.00%,100.00%,0.630,233.6796875
+Stone_Enthusiast,gpt-oss-120b_sp1,ACCEPTED,100,100.00%,100.00%,0.310,21.90234375
+Egors_Gaming_Addiction,gpt-oss-120b_sp1,ACCEPTED,100,100.00%,100.00%,0.490,61.84375
+Ultrafast_train,gpt-oss-120b_sp1,ACCEPTED,100,100.00%,100.00%,0.150,10.27734375

@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+circlepassing,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,56,56.00%,77.70%,2.410,124.109375
+makethemmeet,claude-sonnet-4.5,RUNTIME_ERROR,11,11.00%,16.00%,0.130,9.63671875
+bikeparking,claude-sonnet-4.5,RUNTIME_ERROR,25,25.00%,61.49%,0.120,10.58203125

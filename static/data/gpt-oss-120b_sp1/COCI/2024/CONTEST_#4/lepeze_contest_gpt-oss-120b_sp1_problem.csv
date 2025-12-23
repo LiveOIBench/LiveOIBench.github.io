@@ -1,0 +1,6 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+lepeze_gpt-oss-120b_1.cpp,RUNTIME_ERROR,16,14.55%,19.23%,0.200,19.08203125,0,16,0,0,0
+lepeze_gpt-oss-120b_2.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0
+lepeze_gpt-oss-120b_4.cpp,RUNTIME_ERROR,0,0.00%,1.92%,0.000,0,0,0,0,0,0
+lepeze_gpt-oss-120b_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,11.54%,0.060,2.17578125,0,0,0,0,0
+lepeze_gpt-oss-120b_6.cpp,RUNTIME_ERROR,0,0.00%,1.92%,0.050,0,0,0,0,0,0

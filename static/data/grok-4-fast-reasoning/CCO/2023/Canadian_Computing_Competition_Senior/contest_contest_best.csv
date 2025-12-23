@@ -1,0 +1,6 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+s1j4,grok-4-fast-reasoning,RUNTIME_ERROR,6,40.00%,52.50%,0.010,0.00390625
+s2,grok-4-fast-reasoning,ACCEPTED,15,100.00%,100.00%,0.010,1.55859375
+s3,grok-4-fast-reasoning,RUNTIME_ERROR,2,13.33%,13.10%,0.080,5.16796875
+s4,grok-4-fast-reasoning,ACCEPTED,15,100.00%,100.00%,0.230,32.48828125
+s5,grok-4-fast-reasoning,RUNTIME_ERROR,7,46.67%,59.38%,0.130,39.46484375

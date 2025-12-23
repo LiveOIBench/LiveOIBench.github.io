@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-jobs,gpt-5,RUNTIME_ERROR,11,10.07%,0.120,26.875
-portal,gpt-5,RUNTIME_ERROR,40,50.79%,0.030,2.84375
-trains,gpt-5,ACCEPTED,100,100.00%,0.100,9.80078125
+problem,model,status,score,relative_score,%test passed,time,memory
+jobs,gpt-5,RUNTIME_ERROR,11,11.00%,10.07%,0.110,26.87890625
+portal,gpt-5,RUNTIME_ERROR,40,40.00%,50.79%,0.040,4.1328125
+trains,gpt-5,ACCEPTED,100,100.00%,100.00%,0.090,9.8046875

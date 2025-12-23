@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+icecreammachines,gpt-oss-120b_sp4,ACCEPTED,100,100.00%,100.00%,0.190,4.6484375
+chatnoi,gpt-oss-120b_sp4,TIME_LIMIT_EXCEEDED,40,40.00%,76.80%,4.810,138.4765625
+islandalliances,gpt-oss-120b_sp4,ACCEPTED,100,100.00%,100.00%,0.240,13.671875

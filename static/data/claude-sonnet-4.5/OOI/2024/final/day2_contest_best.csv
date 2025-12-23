@@ -1,0 +1,5 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+Card_Flip,claude-sonnet-4.5,MEMORY_LIMIT_EXCEEDED,23,23.00%,49.30%,0.740,306.28515625
+Order_Statistics,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,4,4.00%,47.69%,4.810,7.6953125
+Best_Runner,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,39,39.00%,33.60%,1.210,4.65234375
+Strong_Connectivity_Strikes_Back,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,52,52.00%,58.39%,1.220,1.80859375

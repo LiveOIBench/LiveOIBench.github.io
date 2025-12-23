@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_Bessies_Interview,claude-sonnet-4.5,MEMORY_LIMIT_EXCEEDED,0,0.00%,4.76%,0.280,306.53125
+silver_Painting_Fence_Posts,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,0,0.00%,20.00%,3.620,9.03125
+silver_The_Winning_Gene,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,111,33.64%,37.50%,2.410,0.00390625

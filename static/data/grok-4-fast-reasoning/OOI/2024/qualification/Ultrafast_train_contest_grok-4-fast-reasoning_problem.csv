@@ -1,0 +1,5 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+Ultrafast_train_grok-4-fast-reasoning_0.cpp,ACCEPTED,100,100.00%,100.00%,0.100,30.51953125,0.0,17.0,13.0,12.0,26.0,32.0
+Ultrafast_train_grok-4-fast-reasoning_1.cpp,ACCEPTED,100,100.00%,100.00%,0.120,24.87890625,0.0,17.0,13.0,12.0,26.0,32.0
+Ultrafast_train_grok-4-fast-reasoning_5.cpp,RUNTIME_ERROR,68,68.00%,98.88%,0.130,45.2109375,0.0,17.0,13.0,12.0,26.0,0
+Ultrafast_train_grok-4-fast-reasoning_7.cpp,RUNTIME_ERROR,68,68.00%,98.88%,0.150,42.640625,0.0,17.0,13.0,12.0,26.0,0

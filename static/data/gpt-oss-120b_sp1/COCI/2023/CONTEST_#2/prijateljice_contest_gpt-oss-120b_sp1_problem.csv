@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+prijateljice_gpt-oss-120b_0.cpp,ACCEPTED,110,100.00%,100.00%,0.060,7.484375,20,30,60
+prijateljice_gpt-oss-120b_1.cpp,ACCEPTED,110,100.00%,100.00%,0.150,35.4375,20,30,60
+prijateljice_gpt-oss-120b_2.cpp,ACCEPTED,110,100.00%,100.00%,0.070,10.578125,20,30,60
+prijateljice_gpt-oss-120b_3.cpp,ACCEPTED,110,100.00%,100.00%,0.080,16.1796875,20,30,60
+prijateljice_gpt-oss-120b_4.cpp,ACCEPTED,110,100.00%,100.00%,0.070,15.21875,20,30,60
+prijateljice_gpt-oss-120b_5.cpp,ACCEPTED,110,100.00%,100.00%,0.070,7.484375,20,30,60
+prijateljice_gpt-oss-120b_6.cpp,ACCEPTED,110,100.00%,100.00%,0.060,7.7421875,20,30,60
+prijateljice_gpt-oss-120b_7.cpp,ACCEPTED,110,100.00%,100.00%,0.070,9.2890625,20,30,60

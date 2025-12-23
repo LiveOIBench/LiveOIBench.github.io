@@ -1,0 +1,8 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+2023-open-t3_Garden_gpt-oss-120b_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,71.23%,2.480,103.28125,0,0,0,0,0,0
+2023-open-t3_Garden_gpt-oss-120b_1.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0
+2023-open-t3_Garden_gpt-oss-120b_2.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.190,20.62890625,0,0,0,0,0,0
+2023-open-t3_Garden_gpt-oss-120b_3.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.170,0.00390625,0,0,0,0,0,0
+2023-open-t3_Garden_gpt-oss-120b_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,71.23%,2.450,18.82421875,0,0,0,0,0,0
+2023-open-t3_Garden_gpt-oss-120b_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.00%,0.200,1.55078125,0,0,0,0,0,0
+2023-open-t3_Garden_gpt-oss-120b_7.cpp,RUNTIME_ERROR,0,0.00%,7.32%,0.190,5.265625,0,0,0,0,0,0

@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
-bronze_Astral_Superposition_gemini-2.5-flash_0.cpp,TIME_LIMIT_EXCEEDED,300,75.00%,4.420,2.5859375,0,0,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333
-bronze_Astral_Superposition_gemini-2.5-flash_1.cpp,RUNTIME_ERROR,0,0.00%,0.160,14.4140625,0,0,0,0,0,0,0,0,0,0,0
-bronze_Astral_Superposition_gemini-2.5-flash_2.cpp,WRONG_ANSWER,33,25.00%,0.170,6.77734375,0,33.33333333333333,0,0,0,0,0,0,0,0,0
-bronze_Astral_Superposition_gemini-2.5-flash_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
-bronze_Astral_Superposition_gemini-2.5-flash_4.cpp,WRONG_ANSWER,33,16.67%,0.050,2.58203125,0,33.33333333333333,0,0,0,0,0,0,0,0,0
-bronze_Astral_Superposition_gemini-2.5-flash_5.cpp,ACCEPTED,333,100.00%,0.330,2.73828125,0,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333
-bronze_Astral_Superposition_gemini-2.5-flash_6.cpp,WRONG_ANSWER,33,25.00%,0.110,6.65234375,0,33.33333333333333,0,0,0,0,0,0,0,0,0
-bronze_Astral_Superposition_gemini-2.5-flash_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.420,129.54296875,0,0,0,0,0,0,0,0,0,0,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Astral_Superposition_gemini-2.5-flash_0.cpp,TIME_LIMIT_EXCEEDED,300,90.91%,75.00%,4.810,2.7890625,0,0,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333
+bronze_Astral_Superposition_gemini-2.5-flash_1.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.240,14.609375,0,0,0,0,0,0,0,0,0,0,0
+bronze_Astral_Superposition_gemini-2.5-flash_2.cpp,WRONG_ANSWER,33,10.00%,25.00%,0.250,6.78125,0,33.33333333333333,0,0,0,0,0,0,0,0,0
+bronze_Astral_Superposition_gemini-2.5-flash_3.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Astral_Superposition_gemini-2.5-flash_4.cpp,WRONG_ANSWER,33,10.00%,16.67%,0.160,2.66796875,0,33.33333333333333,0,0,0,0,0,0,0,0,0
+bronze_Astral_Superposition_gemini-2.5-flash_5.cpp,ACCEPTED,333,100.91%,100.00%,0.390,2.78515625,0,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333
+bronze_Astral_Superposition_gemini-2.5-flash_6.cpp,WRONG_ANSWER,33,10.00%,25.00%,0.200,6.72265625,0,33.33333333333333,0,0,0,0,0,0,0,0,0
+bronze_Astral_Superposition_gemini-2.5-flash_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,4.860,129.54296875,0,0,0,0,0,0,0,0,0,0,0

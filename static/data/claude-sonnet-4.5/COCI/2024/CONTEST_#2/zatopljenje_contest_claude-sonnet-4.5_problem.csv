@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+zatopljenje_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,10,9.09%,42.50%,2.410,2.7890625,10,0,0,0
+zatopljenje_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,10,9.09%,42.50%,2.410,2.015625,10,0,0,0
+zatopljenje_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,10,9.09%,40.00%,2.410,2.015625,10,0,0,0
+zatopljenje_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,10,9.09%,42.50%,2.420,2.7890625,10,0,0,0
+zatopljenje_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,10,9.09%,42.50%,2.420,2.7890625,10,0,0,0
+zatopljenje_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,30,27.27%,62.50%,2.410,20.73828125,10,20,0,0
+zatopljenje_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,10,9.09%,42.50%,2.410,2.015625,10,0,0,0
+zatopljenje_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,10,9.09%,42.50%,2.420,2.7890625,10,0,0,0

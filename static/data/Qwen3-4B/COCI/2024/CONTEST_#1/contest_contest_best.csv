@@ -1,6 +1,6 @@
-problem,model,status,score,%test passed,time,memory
-sudoku,Qwen3-4B,ACCEPTED,50,100.00%,0.020,0
-labirint,Qwen3-4B,ACCEPTED,70,100.00%,0.250,3.16796875
-an2dl,Qwen3-4B,ACCEPTED,110,100.00%,1.130,99.0078125
-kocke,Qwen3-4B,RUNTIME_ERROR,0,13.33%,0.030,1.53125
-mostovi,Qwen3-4B,TIME_LIMIT_EXCEEDED,30,56.78%,3.610,8.0
+problem,model,status,score,relative_score,%test passed,time,memory
+sudoku,Qwen3-4B,ACCEPTED,50,100.00%,100.00%,0.060,0
+labirint,Qwen3-4B,ACCEPTED,70,100.00%,100.00%,0.290,3.171875
+an2dl,Qwen3-4B,ACCEPTED,110,100.00%,100.00%,1.100,99.0078125
+kocke,Qwen3-4B,RUNTIME_ERROR,0,0.00%,13.33%,0.050,0
+mostovi,Qwen3-4B,TIME_LIMIT_EXCEEDED,30,27.27%,56.78%,3.610,7.97265625

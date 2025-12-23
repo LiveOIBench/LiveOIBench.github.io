@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Cowreography,grok-4-fast-reasoning,WRONG_ANSWER,200,62.50%,65.22%,0.010,3.859375
+gold_Grass_Segments,grok-4-fast-reasoning,ACCEPTED,333,103.10%,100.00%,0.200,21.91796875
+gold_Smaller_Averages,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,271,84.69%,85.00%,2.410,3.359375

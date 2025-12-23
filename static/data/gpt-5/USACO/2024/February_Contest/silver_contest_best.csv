@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-silver_Target_Practice_II,gpt-5,ACCEPTED,333,100.00%,0.170,7.99609375
-silver_Test_Tubes,gpt-5,WRONG_ANSWER,50,14.29%,0.290,11.41796875
-silver_Moorbles,gpt-5,ACCEPTED,333,100.00%,0.090,22.4375
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_Target_Practice_II,gpt-5,ACCEPTED,333,103.42%,100.00%,0.220,7.92578125
+silver_Test_Tubes,gpt-5,WRONG_ANSWER,50,15.62%,14.29%,0.410,11.72265625
+silver_Moorbles,gpt-5,ACCEPTED,333,100.91%,100.00%,0.190,17.28125

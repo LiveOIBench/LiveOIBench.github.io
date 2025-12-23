@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-platinum_Cowntact_Tracing,Qwen3-32B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
-platinum_A_Graph_Problem,Qwen3-32B-Non-Thinking,TIME_LIMIT_EXCEEDED,17,17.39%,2.240,44.52734375
-platinum_Train_Scheduling,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,50,20.83%,0.140,192.59375
+problem,model,status,score,relative_score,%test passed,time,memory
+platinum_Cowntact_Tracing,Qwen3-32B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0
+platinum_A_Graph_Problem,Qwen3-32B-Non-Thinking,TIME_LIMIT_EXCEEDED,17,5.31%,17.39%,2.450,44.5546875
+platinum_Train_Scheduling,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,50,15.62%,20.83%,0.190,192.59375

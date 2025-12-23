@@ -1,2 +1,9 @@
-solution,status,score,%test passed,time,memory
-tornjevi_Qwen3-14B-Non-Thinking_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+tornjevi_Qwen3-14B-Non-Thinking_0.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0
+tornjevi_Qwen3-14B-Non-Thinking_0.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0
+tornjevi_Qwen3-14B-Non-Thinking_1.cpp,RUNTIME_ERROR,7,7.78%,18.52%,0.160,16.51171875,7,0,0,0,0
+tornjevi_Qwen3-14B-Non-Thinking_2.cpp,TIME_LIMIT_EXCEEDED,7,7.78%,18.52%,2.410,9.03515625,7,0,0,0,0
+tornjevi_Qwen3-14B-Non-Thinking_3.cpp,TIME_LIMIT_EXCEEDED,7,7.78%,18.52%,2.440,37.65234375,7,0,0,0,0
+tornjevi_Qwen3-14B-Non-Thinking_4.cpp,TIME_LIMIT_EXCEEDED,7,7.78%,18.52%,2.440,9.03515625,7,0,0,0,0
+tornjevi_Qwen3-14B-Non-Thinking_5.cpp,TIME_LIMIT_EXCEEDED,61,67.78%,79.63%,2.420,9.03125,7,11,17,0,26
+tornjevi_Qwen3-14B-Non-Thinking_7.cpp,TIME_LIMIT_EXCEEDED,7,7.78%,33.33%,2.430,9.03515625,7,0,0,0,0

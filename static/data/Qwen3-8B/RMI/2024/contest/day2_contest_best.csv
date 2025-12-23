@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-Jump_Civilization,Qwen3-8B,RUNTIME_ERROR,11,15.69%,0.070,26.55078125
-Ramen,Qwen3-8B,COMPILATION_ERROR,0,0.00%,0.000,0
-Signals,Qwen3-8B,TIME_LIMIT_EXCEEDED,61,60.47%,1.450,35.5859375
+problem,model,status,score,relative_score,%test passed,time,memory
+Jump_Civilization,Qwen3-8B,RUNTIME_ERROR,11,11.00%,15.69%,0.200,26.546875
+Ramen,Qwen3-8B,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0
+Signals,Qwen3-8B,TIME_LIMIT_EXCEEDED,61,61.00%,60.47%,1.450,35.5859375

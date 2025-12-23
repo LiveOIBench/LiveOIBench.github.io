@@ -1,0 +1,7 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Watering_the_Plants_grok-4-fast-reasoning_0.cpp,WRONG_ANSWER,0,0.00%,10.53%,0.250,169.64453125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watering_the_Plants_grok-4-fast-reasoning_1.cpp,WRONG_ANSWER,0,0.00%,10.53%,0.180,12.8984375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watering_the_Plants_grok-4-fast-reasoning_3.cpp,WRONG_ANSWER,0,0.00%,10.53%,0.080,12.90234375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watering_the_Plants_grok-4-fast-reasoning_4.cpp,TIME_LIMIT_EXCEEDED,21,6.56%,21.05%,2.410,16.51171875,0,0,0,0,0,0,0,0,0,0,0,0,20.833333333333332,0,0,0,0
+platinum_Watering_the_Plants_grok-4-fast-reasoning_5.cpp,WRONG_ANSWER,0,0.00%,15.79%,0.110,13.04296875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watering_the_Plants_grok-4-fast-reasoning_7.cpp,TIME_LIMIT_EXCEEDED,62,19.38%,31.58%,2.420,14.3203125,0,0,0,0,0,0,0,0,0,0,0,0,20.833333333333332,20.833333333333332,20.833333333333332,0,0

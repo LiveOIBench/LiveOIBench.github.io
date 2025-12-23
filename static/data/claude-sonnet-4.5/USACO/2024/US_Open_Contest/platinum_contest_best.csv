@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+platinum_Identity_Theft,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,183,57.19%,64.00%,3.610,443.2421875
+platinum_Splitting_Haybales,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,17,5.31%,13.64%,2.420,2.015625
+platinum_Activating_Robots,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,133,41.56%,50.00%,2.420,227.91015625

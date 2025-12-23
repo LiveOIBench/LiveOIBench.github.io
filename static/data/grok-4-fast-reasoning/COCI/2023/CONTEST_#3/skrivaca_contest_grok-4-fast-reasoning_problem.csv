@@ -1,0 +1,8 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+skrivaca_grok-4-fast-reasoning_1.cpp,ACCEPTED,110,100.00%,100.00%,0.690,112.28125,15,25,30,40
+skrivaca_grok-4-fast-reasoning_2.cpp,RUNTIME_ERROR,25,22.73%,63.83%,0.690,92.44140625,0,25,0,0
+skrivaca_grok-4-fast-reasoning_3.cpp,RUNTIME_ERROR,30,27.27%,31.91%,0.490,97.56640625,0,0,30,0
+skrivaca_grok-4-fast-reasoning_4.cpp,ACCEPTED,110,100.00%,100.00%,0.560,126.89453125,15,25,30,40
+skrivaca_grok-4-fast-reasoning_5.cpp,ACCEPTED,110,100.00%,100.00%,0.550,91.64453125,15,25,30,40
+skrivaca_grok-4-fast-reasoning_6.cpp,ACCEPTED,110,100.00%,100.00%,0.620,91.31640625,15,25,30,40
+skrivaca_grok-4-fast-reasoning_7.cpp,ACCEPTED,110,100.00%,100.00%,0.580,113.33203125,15,25,30,40

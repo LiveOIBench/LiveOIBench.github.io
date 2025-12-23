@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+vrsar_claude-sonnet-4.5_0.cpp,RUNTIME_ERROR,8,11.43%,18.75%,0.090,13.15234375,8,0,0,0
+vrsar_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,1.220,3.609375,0,0,0,0
+vrsar_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,8,11.43%,18.75%,1.220,6.453125,8,0,0,0
+vrsar_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,8,11.43%,18.75%,1.210,6.453125,8,0,0,0
+vrsar_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,8,11.43%,18.75%,1.210,596.06640625,8,0,0,0
+vrsar_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,8,11.43%,18.75%,1.210,608.25390625,8,0,0,0
+vrsar_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,8,11.43%,18.75%,1.200,586.01171875,8,0,0,0
+vrsar_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,44,62.86%,68.75%,1.230,4.6484375,8,17,19,0

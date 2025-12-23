@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_Cowmpetency,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,67,20.30%,33.33%,2.420,2.5078125
+silver_Potion_Farming,claude-sonnet-4.5,MEMORY_LIMIT_EXCEEDED,143,44.41%,46.67%,0.270,254.66796875
+silver_Cowlendar,claude-sonnet-4.5,ACCEPTED,333,102.78%,100.00%,0.180,2.328125

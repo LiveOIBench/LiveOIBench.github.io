@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+beechtree_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,9,9.00%,28.49%,1.800,394.98828125,0,9,0,0,0,0,0,0,0,0
+beechtree_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,9,9.00%,27.06%,1.810,29.28125,0,9,0,0,0,0,0,0,0,0
+beechtree_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.68%,1.810,590.140625,0,0,0,0,0,0,0,0,0,0
+beechtree_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,6.02%,1.800,1410.7578125,0,0,0,0,0,0,0,0,0,0
+beechtree_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,12.12%,1.800,55.5859375,0,0,0,0,0,0,0,0,0,0
+beechtree_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,10.53%,1.810,1451.99609375,0,0,0,0,0,0,0,0,0,0
+beechtree_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,13.33%,1.810,16.76953125,0,0,0,0,0,0,0,0,0,0
+beechtree_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.68%,1.800,464.31640625,0,0,0,0,0,0,0,0,0,0

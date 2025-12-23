@@ -1,0 +1,6 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+wow,claude-sonnet-4.5,ACCEPTED,50,100.00%,100.00%,0.000,0
+zid,claude-sonnet-4.5,ACCEPTED,70,100.00%,100.00%,0.180,1.5546875
+tornjevi,claude-sonnet-4.5,ACCEPTED,90,100.00%,100.00%,0.420,85.23828125
+crtez,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,20,16.67%,42.55%,2.420,2.53515625
+stablo,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,15,12.50%,27.72%,4.210,115.765625

@@ -1,2 +1,6 @@
-problem,model,status,score,%test passed,time,memory
-tornjevi,Qwen3-14B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+problem,model,status,score,relative_score,%test passed,time,memory
+wow,Qwen3-14B-Non-Thinking,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0
+zid,Qwen3-14B-Non-Thinking,TIME_LIMIT_EXCEEDED,38,54.29%,66.67%,1.210,2.58984375
+tornjevi,Qwen3-14B-Non-Thinking,TIME_LIMIT_EXCEEDED,61,67.78%,79.63%,2.420,9.03125
+crtez,Qwen3-14B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0
+stablo,Qwen3-14B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0

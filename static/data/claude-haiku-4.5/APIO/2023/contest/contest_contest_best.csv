@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+sequence,claude-haiku-4.5,TIME_LIMIT_EXCEEDED,11,11.00%,44.92%,1.840,6.19921875
+abc,claude-haiku-4.5,RUNTIME_ERROR,32,32.00%,51.61%,0.080,17.1953125
+cyberland,claude-haiku-4.5,RUNTIME_ERROR,97,97.00%,82.93%,1.920,60.84765625

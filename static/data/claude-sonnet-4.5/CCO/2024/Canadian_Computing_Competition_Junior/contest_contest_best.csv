@@ -1,0 +1,6 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+j1,claude-sonnet-4.5,ACCEPTED,15,100.00%,100.00%,0.010,0
+j2,claude-sonnet-4.5,ACCEPTED,15,100.00%,100.00%,0.010,0.00390625
+j3,claude-sonnet-4.5,ACCEPTED,15,100.00%,100.00%,0.030,0.00390625
+j4,claude-sonnet-4.5,ACCEPTED,15,100.00%,100.00%,0.020,2.48828125
+j5,claude-sonnet-4.5,ACCEPTED,15,100.00%,100.00%,0.010,0.00390625

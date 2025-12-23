@@ -6,14 +6,14 @@ const COMPETITION_CONFIG = {
         subdivisions: ['contest'], 
         date: '20230520',
         divisions: {
-          'contest': { division: 'Division 2', avg_difficulty: 22.0 }
+          'contest': { division: 'Division 1'}
         }
       },
       '2024': { 
         subdivisions: ['contest'], 
         date: '20240518',
         divisions: {
-          'contest': { division: 'Division 2', avg_difficulty: 21.333333333333332 }
+          'contest': { division: 'Division 1'}
         }
       }
     },
@@ -22,21 +22,21 @@ const COMPETITION_CONFIG = {
         subdivisions: ['contest'], 
         date: '20230428',
         divisions: {
-          'contest': { division: 'Division 2', avg_difficulty: 22.0 }
+          'contest': { division: 'Division 1'}
         }
       },
       '2024': { 
         subdivisions: ['contest'], 
         date: '20240503',
         divisions: {
-          'contest': { division: 'Division 2', avg_difficulty: 21.166666666666668 }
+          'contest': { division: 'Division 2'}
         }
       },
       '2025': { 
         subdivisions: ['contest'], 
         date: '20250424',
         divisions: {
-          'contest': { division: 'Division 1', avg_difficulty: 23.666666666666668 }
+          'contest': { division: 'Division 1'}
         }
       }
     },
@@ -45,18 +45,18 @@ const COMPETITION_CONFIG = {
         subdivisions: ['Canadian_Computing_Competition_Junior', 'Canadian_Computing_Competition_Senior', 'Canadian_Computing_Olympiad'], 
         date: '20230606',
         divisions: {
-          'Canadian_Computing_Competition_Junior': { division: 'Division 4', avg_difficulty: 5.0 },
-          'Canadian_Computing_Competition_Senior': { division: 'Division 4', avg_difficulty: 15.4 },
-          'Canadian_Computing_Olympiad': { division: 'Division 2', avg_difficulty: 22.0 }
+          'Canadian_Computing_Competition_Junior': { division: 'Division 4'},
+          'Canadian_Computing_Competition_Senior': { division: 'Division 3'},
+          'Canadian_Computing_Olympiad': { division: 'Division 2'}
         }
       },
       '2024': { 
         subdivisions: ['Canadian_Computing_Competition_Junior', 'Canadian_Computing_Competition_Senior', 'Canadian_Computing_Olympiad'], 
         date: '20240609',
         divisions: {
-          'Canadian_Computing_Competition_Junior': { division: 'Division 4', avg_difficulty: 6.0 },
-          'Canadian_Computing_Competition_Senior': { division: 'Division 4', avg_difficulty: 11.4 },
-          'Canadian_Computing_Olympiad': { division: 'Division 3', avg_difficulty: 20.333333333333332 }
+          'Canadian_Computing_Competition_Junior': { division: 'Division 4'},
+          'Canadian_Computing_Competition_Senior': { division: 'Division 4'},
+          'Canadian_Computing_Olympiad': { division: 'Division 2'}
         }
       }
     },
@@ -65,14 +65,14 @@ const COMPETITION_CONFIG = {
         subdivisions: ['contest'], 
         date: '20230813',
         divisions: {
-          'contest': { division: 'Division 1', avg_difficulty: 24.0 }
+          'contest': { division: 'Division 1'}
         }
       },
       '2024': { 
         subdivisions: ['contest'], 
         date: '20240730',
         divisions: {
-          'contest': { division: 'Division 2', avg_difficulty: 20.666666666666668 }
+          'contest': { division: 'Division 1'}
         }
       }
     },
@@ -81,32 +81,32 @@ const COMPETITION_CONFIG = {
         subdivisions: ['CONTEST_#3', 'CONTEST_#4', 'CONTEST_#5'], 
         date: '20230411',
         divisions: {
-          'CONTEST_#3': { division: 'Division 3', avg_difficulty: 16.0 },
-          'CONTEST_#4': { division: 'Division 4', avg_difficulty: 15.4 },
-          'CONTEST_#5': { division: 'Division 4', avg_difficulty: 15.2 }
+          'CONTEST_#3': { division: 'Division 4'},
+          'CONTEST_#4': { division: 'Division 3'},
+          'CONTEST_#5': { division: 'Division 4'}
         }
       },
       '2024': { 
         subdivisions: ['CONTEST_#1', 'CONTEST_#2', 'CONTEST_#3', 'CONTEST_#4', 'CONTEST_#5', 'CROATIAN_OLYMPIAD_IN_INFORMATICS'], 
         date: '20240510',
         divisions: {
-          'CONTEST_#1': { division: 'Division 3', avg_difficulty: 16.6 },
-          'CONTEST_#2': { division: 'Division 4', avg_difficulty: 14.2 },
-          'CONTEST_#3': { division: 'Division 3', avg_difficulty: 17.2 },
-          'CONTEST_#4': { division: 'Division 3', avg_difficulty: 17.2 },
-          'CONTEST_#5': { division: 'Division 3', avg_difficulty: 20.2 },
-          'CROATIAN_OLYMPIAD_IN_INFORMATICS': { division: 'Division 1', avg_difficulty: 24.0 }
+          'CONTEST_#1': { division: 'Division 4'},
+          'CONTEST_#2': { division: 'Division 4'},
+          'CONTEST_#3': { division: 'Division 4'},
+          'CONTEST_#4': { division: 'Division 4'},
+          'CONTEST_#5': { division: 'Division 3'},
+          'CROATIAN_OLYMPIAD_IN_INFORMATICS': { division: 'Division 1'}
         }
       },
       '2025': { 
         subdivisions: ['CONTEST_#1', 'CONTEST_#2', 'CONTEST_#3', 'CONTEST_#4', 'CONTEST_#5'], 
         date: '20250125',
         divisions: {
-          'CONTEST_#1': { division: 'Division 4', avg_difficulty: 13.8 },
-          'CONTEST_#2': { division: 'Division 3', avg_difficulty: 16.4 },
-          'CONTEST_#3': { division: 'Division 4', avg_difficulty: 15.0 },
-          'CONTEST_#4': { division: 'Division 3', avg_difficulty: 16.4 },
-          'CONTEST_#5': { division: 'Division 4', avg_difficulty: 14.0 }
+          'CONTEST_#1': { division: 'Division 3'},
+          'CONTEST_#2': { division: 'Division 4'},
+          'CONTEST_#3': { division: 'Division 3'},
+          'CONTEST_#4': { division: 'Division 3'},
+          'CONTEST_#5': { division: 'Division 4'}
         }
       }
     },
@@ -115,14 +115,14 @@ const COMPETITION_CONFIG = {
         subdivisions: ['contest'], 
         date: '20230715',
         divisions: {
-          'contest': { division: 'Division 3', avg_difficulty: 17.625 }
+          'contest': { division: 'Division 4'}
         }
       },
       '2024': { 
         subdivisions: ['contest'], 
         date: '20240721',
         divisions: {
-          'contest': { division: 'Division 3', avg_difficulty: 19.375 }
+          'contest': { division: 'Division 4'}
         }
       }
     },
@@ -131,14 +131,14 @@ const COMPETITION_CONFIG = {
         subdivisions: ['contest'], 
         date: '20230908',
         divisions: {
-          'contest': { division: 'Division 2', avg_difficulty: 21.833333333333332 }
+          'contest': { division: 'Division 2'}
         }
       },
       '2024': { 
         subdivisions: ['contest'], 
         date: '20240817',
         divisions: {
-          'contest': { division: 'Division 3', avg_difficulty: 20.166666666666668 }
+          'contest': { division: 'Division 3'}
         }
       }
     },
@@ -147,8 +147,8 @@ const COMPETITION_CONFIG = {
         subdivisions: ['junior', 'senior'], 
         date: '20240417',
         divisions: {
-          'junior': { division: 'Division 3', avg_difficulty: 19.666666666666668 },
-          'senior': { division: 'Division 1', avg_difficulty: 24.4 }
+          'junior': { division: 'Division 2'},
+          'senior': { division: 'Division 1'}
         }
       }
     },
@@ -157,14 +157,14 @@ const COMPETITION_CONFIG = {
         subdivisions: ['contest'], 
         date: '20230828',
         divisions: {
-          'contest': { division: 'Division 1', avg_difficulty: 25.333333333333332 }
+          'contest': { division: 'Division 1'}
         }
       },
       '2024': { 
         subdivisions: ['contest'], 
         date: '20240901',
         divisions: {
-          'contest': { division: 'Division 2', avg_difficulty: 20.333333333333332 }
+          'contest': { division: 'Division 1'}
         }
       }
     },
@@ -173,25 +173,25 @@ const COMPETITION_CONFIG = {
         subdivisions: ['JOI', 'JOI_open', 'JOI_spring'], 
         date: '20230309',
         divisions: {
-          'JOI': { division: 'Division 3', avg_difficulty: 19.8 },
-          'JOI_open': { division: 'Division 1', avg_difficulty: 23.0 },
-          'JOI_spring': { division: 'Division 1', avg_difficulty: 22.5 }
+          'JOI': { division: 'Division 1'},
+          'JOI_open': { division: 'Division 1'},
+          'JOI_spring': { division: 'Division 1'}
         }
       },
       '2024': { 
         subdivisions: ['JOI', 'JOI_open', 'JOI_spring'], 
         date: '20240716',
         divisions: {
-          'JOI': { division: 'Division 3', avg_difficulty: 20.0 },
-          'JOI_open': { division: 'Division 2', avg_difficulty: 22.0 },
-          'JOI_spring': { division: 'Division 2', avg_difficulty: 22.083333333333332 }
+          'JOI': { division: 'Division 2'},
+          'JOI_open': { division: 'Division 1'},
+          'JOI_spring': { division: 'Division 1'}
         }
       },
       '2025': { 
         subdivisions: ['JOI'], 
         date: '20250321',
         divisions: {
-          'JOI': { division: 'Division 3', avg_difficulty: 18.8 }
+          'JOI': { division: 'Division 2'}
         }
       }
     },
@@ -200,21 +200,21 @@ const COMPETITION_CONFIG = {
         subdivisions: ['contest'], 
         date: '20230305',
         divisions: {
-          'contest': { division: 'Division 2', avg_difficulty: 20.333333333333332 }
+          'contest': { division: 'Division 4'}
         }
       },
       '2024': { 
         subdivisions: ['contest'], 
         date: '20240306',
         divisions: {
-          'contest': { division: 'Division 2', avg_difficulty: 22.333333333333332 }
+          'contest': { division: 'Division 3'}
         }
       },
       '2025': { 
         subdivisions: ['contest'], 
         date: '20250305',
         divisions: {
-          'contest': { division: 'Division 1', avg_difficulty: 23.0 }
+          'contest': { division: 'Division 4'}
         }
       }
     },
@@ -223,16 +223,16 @@ const COMPETITION_CONFIG = {
         subdivisions: ['final', 'qualification'], 
         date: '20230828',
         divisions: {
-          'final': { division: 'Division 1', avg_difficulty: 24.125 },
-          'qualification': { division: 'Division 1', avg_difficulty: 24.0 }
+          'final': { division: 'Division 1'},
+          'qualification': { division: 'Division 4'}
         }
       },
       '2024': { 
         subdivisions: ['final', 'qualification'], 
         date: '20240801',
         divisions: {
-          'final': { division: 'Division 2', avg_difficulty: 20.5 },
-          'qualification': { division: 'Division 1', avg_difficulty: 23.444444444444443 }
+          'final': { division: 'Division 2'},
+          'qualification': { division: 'Division 4'}
         }
       }
     },
@@ -241,14 +241,14 @@ const COMPETITION_CONFIG = {
         subdivisions: ['contest'], 
         date: '20231014',
         divisions: {
-          'contest': { division: 'Division 1', avg_difficulty: 24.0 }
+          'contest': { division: 'Division 2'}
         }
       },
       '2024': { 
         subdivisions: ['contest'], 
         date: '20241127',
         divisions: {
-          'contest': { division: 'Division 2', avg_difficulty: 22.0 }
+          'contest': { division: 'Division 2'}
         }
       }
     },
@@ -257,40 +257,40 @@ const COMPETITION_CONFIG = {
         subdivisions: ['December_Contest', 'January_Contest', 'February_Contest', 'US_Open_Contest'], 
         date: '20230201',
         divisions: {
-          'December_Contest-combined': { division: 'Division 4', avg_difficulty: 15.444444444444445 },
-          'December_Contest-platinum': { division: 'Division 1', avg_difficulty: 23.333333333333332 },
-          'January_Contest-combined': { division: 'Division 4', avg_difficulty: 14.777777777777779 },
-          'January_Contest-platinum': { division: 'Division 2', avg_difficulty: 21.666666666666668 },
-          'February_Contest-combined': { division: 'Division 4', avg_difficulty: 14.11111111111111 },
-          'February_Contest-platinum': { division: 'Division 2', avg_difficulty: 22.333333333333332 },
-          'US_Open_Contest-combined': { division: 'Division 3', avg_difficulty: 17.88888888888889 },
-          'US_Open_Contest-platinum': { division: 'Division 1', avg_difficulty: 24.666666666666668 }
+          'December_Contest-combined': { division: 'Division 4'},
+          'December_Contest-platinum': { division: 'Division 1'},
+          'January_Contest-combined': { division: 'Division 4'},
+          'January_Contest-platinum': { division: 'Division 2'},
+          'February_Contest-combined': { division: 'Division 4'},
+          'February_Contest-platinum': { division: 'Division 2'},
+          'US_Open_Contest-combined': { division: 'Division 3'},
+          'US_Open_Contest-platinum': { division: 'Division 1'}
         }
       },
       '2024': { 
         subdivisions: ['December_Contest', 'January_Contest', 'February_Contest', 'US_Open_Contest'], 
         date: '20240201',
         divisions: {
-          'December_Contest-combined': { division: 'Division 4', avg_difficulty: 15.333333333333334 },
-          'December_Contest-platinum': { division: 'Division 1', avg_difficulty: 23.666666666666668 },
-          'January_Contest-combined': { division: 'Division 3', avg_difficulty: 16.0 },
-          'January_Contest-platinum': { division: 'Division 1', avg_difficulty: 22.666666666666668 },
-          'February_Contest-combined': { division: 'Division 4', avg_difficulty: 15.222222222222221 },
-          'February_Contest-platinum': { division: 'Division 1', avg_difficulty: 22.666666666666668 },
-          'US_Open_Contest-combined': { division: 'Division 3', avg_difficulty: 17.22222222222222 },
-          'US_Open_Contest-platinum': { division: 'Division 2', avg_difficulty: 21.0 }
+          'December_Contest-combined': { division: 'Division 4'},
+          'December_Contest-platinum': { division: 'Division 1'},
+          'January_Contest-combined': { division: 'Division 3'},
+          'January_Contest-platinum': { division: 'Division 1'},
+          'February_Contest-combined': { division: 'Division 4'},
+          'February_Contest-platinum': { division: 'Division 1'},
+          'US_Open_Contest-combined': { division: 'Division 3'},
+          'US_Open_Contest-platinum': { division: 'Division 2'}
         }
       },
       '2025': { 
         subdivisions: ['January_Contest', 'February_Contest', 'US_Open_Contest'], 
         date: '20250201',
         divisions: {
-          'January_Contest-combined': { division: 'Division 4', avg_difficulty: 15.777777777777779 },
-          'January_Contest-platinum': { division: 'Division 2', avg_difficulty: 22.333333333333332 },
-          'February_Contest-combined': { division: 'Division 3', avg_difficulty: 16.0 },
-          'February_Contest-platinum': { division: 'Division 1', avg_difficulty: 22.666666666666668 },
-          'US_Open_Contest-combined': { division: 'Division 4', avg_difficulty: 15.0 },
-          'US_Open_Contest-platinum': { division: 'Division 2', avg_difficulty: 21.0 }
+          'January_Contest-combined': { division: 'Division 4'},
+          'January_Contest-platinum': { division: 'Division 2'},
+          'February_Contest-combined': { division: 'Division 3'},
+          'February_Contest-platinum': { division: 'Division 1'},
+          'US_Open_Contest-combined': { division: 'Division 4'},
+          'US_Open_Contest-platinum': { division: 'Division 2'}
         }
       }
     }

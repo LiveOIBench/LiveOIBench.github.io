@@ -1,2 +1,6 @@
-problem,model,status,score,%test passed,time,memory
-labirint,DeepSeek-R1-Distill-Llama-8B,COMPILATION_ERROR,0,0.00%,0.000,0
+problem,model,status,score,relative_score,%test passed,time,memory
+sudoku,DeepSeek-R1-Distill-Llama-8B,RUNTIME_ERROR,0,0.00%,45.71%,0.060,0
+labirint,DeepSeek-R1-Distill-Llama-8B,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0
+an2dl,DeepSeek-R1-Distill-Llama-8B,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0
+kocke,DeepSeek-R1-Distill-Llama-8B,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0
+mostovi,DeepSeek-R1-Distill-Llama-8B,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0

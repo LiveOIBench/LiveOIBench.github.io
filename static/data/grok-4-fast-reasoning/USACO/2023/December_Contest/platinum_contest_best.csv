@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+platinum_Cowntact_Tracing,grok-4-fast-reasoning,WRONG_ANSWER,33,10.31%,21.74%,0.190,12.3046875
+platinum_A_Graph_Problem,grok-4-fast-reasoning,ACCEPTED,333,104.06%,100.00%,0.180,20.83984375
+platinum_Train_Scheduling,grok-4-fast-reasoning,WRONG_ANSWER,300,93.75%,91.67%,0.030,1.55078125

@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Cute_Subsequences_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,14,14.00%,63.16%,1.210,306.546875,0.0,14.0,0,0,0,0,0
+Cute_Subsequences_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,14,14.00%,60.15%,1.210,260.91015625,0.0,14.0,0,0,0,0,0
+Cute_Subsequences_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,14,14.00%,60.15%,1.210,280.04296875,0.0,14.0,0,0,0,0,0
+Cute_Subsequences_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,14,14.00%,60.15%,1.220,211.8984375,0.0,14.0,0,0,0,0,0
+Cute_Subsequences_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,14,14.00%,60.15%,1.220,306.28515625,0.0,14.0,0,0,0,0,0
+Cute_Subsequences_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,14,14.00%,63.16%,1.220,179.6875,0.0,14.0,0,0,0,0,0
+Cute_Subsequences_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,14,14.00%,63.16%,1.210,306.10546875,0.0,14.0,0,0,0,0,0
+Cute_Subsequences_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,14,14.00%,63.16%,1.220,286.43359375,0.0,14.0,0,0,0,0,0

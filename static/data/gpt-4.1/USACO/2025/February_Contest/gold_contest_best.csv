@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-gold_Bessies_Function,gpt-4.1,RUNTIME_ERROR,35,9.52%,0.150,2.84765625
-gold_The_Best_Subsequence,gpt-4.1,TIME_LIMIT_EXCEEDED,59,30.00%,2.370,157.76953125
-gold_Friendship_Editing,gpt-4.1,TIME_LIMIT_EXCEEDED,44,27.78%,2.460,0.00390625
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Bessies_Function,gpt-4.1,RUNTIME_ERROR,35,10.84%,9.52%,0.160,2.84765625
+gold_The_Best_Subsequence,gpt-4.1,TIME_LIMIT_EXCEEDED,59,18.27%,30.00%,2.570,157.765625
+gold_Friendship_Editing,gpt-4.1,WRONG_ANSWER,133,40.30%,50.00%,0.230,9.84375

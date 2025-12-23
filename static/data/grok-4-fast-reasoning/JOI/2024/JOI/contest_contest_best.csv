@@ -1,0 +1,5 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+2024-ho-t2_Construction_Project_2,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.400,151.16015625
+2024-ho-t3_Marathon_Race_2,grok-4-fast-reasoning,RUNTIME_ERROR,7,7.00%,58.82%,0.010,0
+2024-ho-t4_Gift_Exchange,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,50,50.00%,79.30%,2.980,43.7109375
+2024-ho-t5_Road_Service_2,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,31,31.00%,71.12%,3.610,212.96875

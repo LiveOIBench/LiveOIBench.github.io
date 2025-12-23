@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+2023-ho-t3_Maze,grok-4-fast-reasoning,RUNTIME_ERROR,8,8.00%,43.10%,0.040,14.703125
+2023-ho-t4_Cat_Exercise,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,54,54.00%,89.94%,2.410,17.1484375
+2023-ho-t5_Modern_Machine,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,3,3.00%,45.36%,2.970,1.8125

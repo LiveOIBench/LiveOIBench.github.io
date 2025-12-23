@@ -1,0 +1,6 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+bingo,gpt-oss-120b_sp1,ACCEPTED,50,100.00%,100.00%,0.000,0
+knjige,gpt-oss-120b_sp1,ACCEPTED,70,100.00%,100.00%,0.070,3.87890625
+lepeze,gpt-oss-120b_sp1,RUNTIME_ERROR,16,14.55%,19.23%,0.200,19.08203125
+putovanje,gpt-oss-120b_sp1,TIME_LIMIT_EXCEEDED,65,59.09%,84.89%,2.440,5.41796875
+roboti,gpt-oss-120b_sp1,RUNTIME_ERROR,61,55.45%,68.18%,0.450,75.91015625

@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
-tou_Qwen3-30B_0.cpp,RUNTIME_ERROR,0,9.05%,0.680,166.8125,0,0,0,0,0,0
-tou_Qwen3-30B_1.cpp,RUNTIME_ERROR,0,5.17%,1.210,119.6328125,0,0,0,0,0,0
-tou_Qwen3-30B_2.cpp,TIME_LIMIT_EXCEEDED,0,5.17%,2.230,107.80078125,0,0,0,0,0,0
-tou_Qwen3-30B_3.cpp,TIME_LIMIT_EXCEEDED,0,24.57%,2.220,100.11328125,0,0,0,0,0,0
-tou_Qwen3-30B_4.cpp,RUNTIME_ERROR,0,5.17%,1.120,123.4921875,0,0,0,0,0,0
-tou_Qwen3-30B_5.cpp,RUNTIME_ERROR,0,9.05%,1.820,119.68359375,0,0,0,0,0,0
-tou_Qwen3-30B_6.cpp,RUNTIME_ERROR,0,9.05%,1.400,98.234375,0,0,0,0,0,0
-tou_Qwen3-30B_7.cpp,TIME_LIMIT_EXCEEDED,0,2.59%,2.210,59.11328125,0,0,0,0,0,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+tou_Qwen3-30B_0.cpp,RUNTIME_ERROR,0,0.00%,9.05%,0.570,166.8125,0,0,0,0,0,0
+tou_Qwen3-30B_1.cpp,RUNTIME_ERROR,0,0.00%,5.17%,1.040,119.6328125,0,0,0,0,0,0
+tou_Qwen3-30B_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,5.17%,2.430,107.80078125,0,0,0,0,0,0
+tou_Qwen3-30B_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,24.57%,2.410,100.11328125,0,0,0,0,0,0
+tou_Qwen3-30B_4.cpp,RUNTIME_ERROR,0,0.00%,5.17%,1.050,123.49609375,0,0,0,0,0,0
+tou_Qwen3-30B_5.cpp,RUNTIME_ERROR,0,0.00%,9.05%,1.550,119.68359375,0,0,0,0,0,0
+tou_Qwen3-30B_6.cpp,RUNTIME_ERROR,0,0.00%,9.05%,1.500,98.23828125,0,0,0,0,0,0
+tou_Qwen3-30B_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.59%,2.430,59.11328125,0,0,0,0,0,0

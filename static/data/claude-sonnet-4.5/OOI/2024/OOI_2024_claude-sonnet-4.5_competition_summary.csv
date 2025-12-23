@@ -1,0 +1,18 @@
+problem,status,score,relative_score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Dreaming_is_not_harmful,TIME_LIMIT_EXCEEDED,8,8.00%,53.89%,2.410,19.67578125,,0.0,0,0,0,0,0,8.0,0,0,0,0,0,0
+Cute_Subsequences,TIME_LIMIT_EXCEEDED,14,14.00%,63.16%,1.210,306.10546875,,0.0,14.0,0,0,0,0,0,0,0,0,0,0,0
+The_arithmetic_exercise,TIME_LIMIT_EXCEEDED,19,19.00%,46.90%,2.420,300.61328125,,0.0,0,0,0,0,8.0,11.0,0,0,0,0,0,0
+Alice_Bob_and_two_arrays,TIME_LIMIT_EXCEEDED,13,13.00%,32.52%,2.990,251.37109375,,0.0,13.0,0,0,0,0,0,0,0,0,0,0,0
+Card_Flip,MEMORY_LIMIT_EXCEEDED,23,23.00%,49.30%,0.740,306.28515625,,0.0,12.0,0,0,0,0,0,0,0,11.0,0,0,0
+Order_Statistics,TIME_LIMIT_EXCEEDED,4,4.00%,47.69%,4.810,7.6953125,,0.0,4.0,0,0,0,0,0,0,0,0,0,0,0
+Best_Runner,TIME_LIMIT_EXCEEDED,39,39.00%,33.60%,1.210,4.65234375,,0.0,23.0,0,0,0,0,16.0,0,0,0,0,0,0
+Strong_Connectivity_Strikes_Back,TIME_LIMIT_EXCEEDED,52,52.00%,58.39%,1.220,1.80859375,,0.0,11.0,0,0,0,0,0,0,20.0,21.0,0,0,0
+Colorful_Diameter,TIME_LIMIT_EXCEEDED,29,29.00%,64.61%,8.410,5.1640625,,0.0,10.0,0,0,0,8.0,11.0,0,0,0,0,0,0
+Road_Lighting,TIME_LIMIT_EXCEEDED,24,24.00%,63.16%,2.410,15.734375,,0.0,14.0,0,0,0,0,10.0,0,0,0,0,0,0
+Repainting_the_Table,UNKNOWN,0,0.00%,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+Distinctive_Features,TIME_LIMIT_EXCEEDED,30,30.00%,53.94%,3.610,43.58203125,,0.0,10.0,0,0,0,7.0,13.0,0,0,0,0,0,0
+Alien_Homophones,TIME_LIMIT_EXCEEDED,38,38.00%,85.52%,2.410,1144.93359375,,0.0,8.0,0,0,0,7.0,9.0,0,8.0,6.0,0,0,0
+Stone_Enthusiast,ACCEPTED,100,100.00%,100.00%,0.380,2.85546875,,0.0,16.0,0,0,0,14.0,12.0,16.0,11.0,17.0,14.0,0,0
+Egors_Gaming_Addiction,TIME_LIMIT_EXCEEDED,27,27.00%,53.72%,2.410,3.359375,,0.0,8.0,0,0,0,7.0,0,12.0,0,0,0,0,0
+Ultrafast_train,ACCEPTED,100,100.00%,100.00%,0.130,25.23828125,,0.0,17.0,0,0,0,13.0,12.0,26.0,32.0,0,0,0,0
+TOTAL,,520,,56.65%,,,12.50%,,,,,,,,,,,,,

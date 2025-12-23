@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+2025-ho-t2_Bitaro_the_Brave_2_claude-sonnet-4.5_0.cpp,ACCEPTED,100,100.00%,100.00%,0.270,24.24609375,10,21,19,22,28
+2025-ho-t2_Bitaro_the_Brave_2_claude-sonnet-4.5_1.cpp,ACCEPTED,100,100.00%,100.00%,0.260,20.37890625,10,21,19,22,28
+2025-ho-t2_Bitaro_the_Brave_2_claude-sonnet-4.5_2.cpp,ACCEPTED,100,100.00%,100.00%,0.230,20.37890625,10,21,19,22,28
+2025-ho-t2_Bitaro_the_Brave_2_claude-sonnet-4.5_3.cpp,ACCEPTED,100,100.00%,100.00%,0.250,24.24609375,10,21,19,22,28
+2025-ho-t2_Bitaro_the_Brave_2_claude-sonnet-4.5_4.cpp,ACCEPTED,100,100.00%,100.00%,0.240,20.37890625,10,21,19,22,28
+2025-ho-t2_Bitaro_the_Brave_2_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,31,31.00%,59.70%,1.210,8.9765625,10,21,0,0,0
+2025-ho-t2_Bitaro_the_Brave_2_claude-sonnet-4.5_6.cpp,ACCEPTED,100,100.00%,100.00%,0.250,20.37890625,10,21,19,22,28
+2025-ho-t2_Bitaro_the_Brave_2_claude-sonnet-4.5_7.cpp,ACCEPTED,100,100.00%,100.00%,0.090,24.24609375,10,21,19,22,28

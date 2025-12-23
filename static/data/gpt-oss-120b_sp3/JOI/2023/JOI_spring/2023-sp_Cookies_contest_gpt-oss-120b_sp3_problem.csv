@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+2023-sp_Cookies_gpt-oss-120b_0.cpp,MEMORY_LIMIT_EXCEEDED,6,6.00%,58.67%,0.350,1222.0390625,6,0,0,0,0,0
+2023-sp_Cookies_gpt-oss-120b_1.cpp,RUNTIME_ERROR,0,0.00%,15.97%,0.020,0,0,0,0,0,0,0
+2023-sp_Cookies_gpt-oss-120b_2.cpp,UNKNOWN,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0
+2023-sp_Cookies_gpt-oss-120b_3.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0
+2023-sp_Cookies_gpt-oss-120b_4.cpp,RUNTIME_ERROR,13,13.00%,79.54%,0.200,458.34765625,6,7,0,0,0,0
+2023-sp_Cookies_gpt-oss-120b_5.cpp,TIME_LIMIT_EXCEEDED,13,13.00%,70.88%,1.210,1.80859375,6,7,0,0,0,0
+2023-sp_Cookies_gpt-oss-120b_6.cpp,RUNTIME_ERROR,13,13.00%,75.53%,0.310,362.859375,6,7,0,0,0,0
+2023-sp_Cookies_gpt-oss-120b_7.cpp,RUNTIME_ERROR,7,7.00%,54.59%,0.020,1.8125,0,7,0,0,0,0

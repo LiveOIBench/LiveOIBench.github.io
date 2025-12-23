@@ -1,0 +1,5 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+an2dl,grok-4-fast-reasoning,ACCEPTED,110,100.00%,100.00%,1.090,99.0078125
+labirint,grok-4-fast-reasoning,ACCEPTED,70,100.00%,100.00%,0.170,0.00390625
+mostovi,grok-4-fast-reasoning,RUNTIME_ERROR,0,0.00%,0.00%,0.650,20.375
+sudoku,grok-4-fast-reasoning,ACCEPTED,50,100.00%,100.00%,0.010,0

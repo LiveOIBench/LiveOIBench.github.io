@@ -1,8 +1,8 @@
-solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
-zbunjenost_Qwen3-30B-Non-Thinking_0.cpp,RUNTIME_ERROR,0,1.61%,0.000,0,0,0,0,0,0
-zbunjenost_Qwen3-30B-Non-Thinking_2.cpp,RUNTIME_ERROR,0,1.61%,0.090,15.265625,0,0,0,0,0
-zbunjenost_Qwen3-30B-Non-Thinking_3.cpp,RUNTIME_ERROR,0,0.00%,0.090,13.4609375,0,0,0,0,0
-zbunjenost_Qwen3-30B-Non-Thinking_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0
-zbunjenost_Qwen3-30B-Non-Thinking_5.cpp,RUNTIME_ERROR,0,1.61%,0.100,12.19140625,0,0,0,0,0
-zbunjenost_Qwen3-30B-Non-Thinking_6.cpp,RUNTIME_ERROR,0,1.61%,0.120,12.62890625,0,0,0,0,0
-zbunjenost_Qwen3-30B-Non-Thinking_7.cpp,RUNTIME_ERROR,15,33.87%,0.120,23.515625,0,0,0,15,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+zbunjenost_Qwen3-30B-Non-Thinking_0.cpp,RUNTIME_ERROR,0,0.00%,1.61%,0.000,0,0,0,0,0,0
+zbunjenost_Qwen3-30B-Non-Thinking_2.cpp,RUNTIME_ERROR,0,0.00%,1.61%,0.090,15.26953125,0,0,0,0,0
+zbunjenost_Qwen3-30B-Non-Thinking_3.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.090,12.5,0,0,0,0,0
+zbunjenost_Qwen3-30B-Non-Thinking_4.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0
+zbunjenost_Qwen3-30B-Non-Thinking_5.cpp,RUNTIME_ERROR,0,0.00%,1.61%,0.080,10.14453125,0,0,0,0,0
+zbunjenost_Qwen3-30B-Non-Thinking_6.cpp,RUNTIME_ERROR,0,0.00%,1.61%,0.100,11.6015625,0,0,0,0,0
+zbunjenost_Qwen3-30B-Non-Thinking_7.cpp,RUNTIME_ERROR,15,12.50%,33.87%,0.100,25.22265625,0,0,0,15,0

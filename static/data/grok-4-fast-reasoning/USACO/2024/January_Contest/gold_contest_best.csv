@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Walking_in_Manhattan,grok-4-fast-reasoning,ACCEPTED,333,103.10%,100.00%,0.230,6.74609375
+gold_Cowmpetency,grok-4-fast-reasoning,ACCEPTED,333,102.78%,100.00%,0.090,1.75390625
+gold_Nap_Sort,grok-4-fast-reasoning,ACCEPTED,333,100.91%,100.00%,0.090,7.48046875

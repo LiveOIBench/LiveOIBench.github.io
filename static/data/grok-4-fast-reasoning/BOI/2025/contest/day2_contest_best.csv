@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+dev,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,0,0.00%,4.40%,2.420,3.375
+exp,grok-4-fast-reasoning,RUNTIME_ERROR,37,37.00%,44.97%,0.080,25.5234375
+gcd,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.080,31.98046875

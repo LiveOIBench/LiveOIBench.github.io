@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+Circles,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.350,114.98828125
+To_be_xor_not_to_be,grok-4-fast-reasoning,RUNTIME_ERROR,17,17.00%,48.94%,0.000,0
+Statues,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.350,53.26171875

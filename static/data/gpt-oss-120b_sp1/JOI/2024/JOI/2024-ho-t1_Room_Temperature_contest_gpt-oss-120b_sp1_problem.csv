@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+2024-ho-t1_Room_Temperature_gpt-oss-120b_0.cpp,ACCEPTED,100,100.00%,100.00%,0.220,5.16796875,15,5,30,35,15
+2024-ho-t1_Room_Temperature_gpt-oss-120b_1.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.170,0,0,0,0,0,0
+2024-ho-t1_Room_Temperature_gpt-oss-120b_2.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.160,0.00390625,0,0,0,0,0
+2024-ho-t1_Room_Temperature_gpt-oss-120b_3.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0
+2024-ho-t1_Room_Temperature_gpt-oss-120b_4.cpp,TIME_LIMIT_EXCEEDED,85,85.00%,92.04%,2.450,5.62109375,15,5,30,35,0
+2024-ho-t1_Room_Temperature_gpt-oss-120b_5.cpp,ACCEPTED,100,100.00%,100.00%,0.220,5.16796875,15,5,30,35,15
+2024-ho-t1_Room_Temperature_gpt-oss-120b_6.cpp,ACCEPTED,100,100.00%,100.00%,0.240,5.16796875,15,5,30,35,15
+2024-ho-t1_Room_Temperature_gpt-oss-120b_7.cpp,ACCEPTED,100,100.00%,100.00%,0.220,5.16796875,15,5,30,35,15

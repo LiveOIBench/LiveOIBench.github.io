@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-robot,Qwen3-14B,RUNTIME_ERROR,0,0.67%,0.050,8.64453125
-overtaking,Qwen3-14B,RUNTIME_ERROR,10,44.60%,0.010,1.04296875
-beechtree,Qwen3-14B,RUNTIME_ERROR,0,4.22%,0.080,27.65234375
+problem,model,status,score,relative_score,%test passed,time,memory
+robot,Qwen3-14B,RUNTIME_ERROR,0,0.00%,0.67%,0.040,8.6484375
+overtaking,Qwen3-14B,RUNTIME_ERROR,10,10.00%,44.60%,0.020,1.04296875
+beechtree,Qwen3-14B,RUNTIME_ERROR,0,0.00%,4.22%,0.060,27.65625

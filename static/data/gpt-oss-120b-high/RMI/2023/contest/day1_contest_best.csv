@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-Heroes,gpt-oss-120b-high,ACCEPTED,100,100.00%,0.050,0
-Pinball,gpt-oss-120b-high,ACCEPTED,100,100.00%,1.300,127.546875
-AA_Tree,gpt-oss-120b-high,TIME_LIMIT_EXCEEDED,53,91.18%,0.120,2.92578125
+problem,model,status,score,relative_score,%test passed,time,memory
+Heroes,gpt-oss-120b-high,ACCEPTED,100,100.00%,100.00%,0.000,0
+Pinball,gpt-oss-120b-high,ACCEPTED,100,100.00%,100.00%,1.430,136.14453125
+AA_Tree,gpt-oss-120b-high,TIME_LIMIT_EXCEEDED,19,19.00%,32.14%,0.150,0.00390625

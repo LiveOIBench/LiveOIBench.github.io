@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3
-animeshops_Qwen3-14B-Non-Thinking_0.cpp,RUNTIME_ERROR,0,0.00%,0.150,7.1484375,0,0,0
-animeshops_Qwen3-14B-Non-Thinking_1.cpp,RUNTIME_ERROR,0,0.00%,0.150,6.828125,0,0,0
-animeshops_Qwen3-14B-Non-Thinking_2.cpp,RUNTIME_ERROR,0,5.88%,0.160,7.484375,0,0,0
-animeshops_Qwen3-14B-Non-Thinking_3.cpp,RUNTIME_ERROR,0,5.88%,0.160,7.484375,0,0,0
-animeshops_Qwen3-14B-Non-Thinking_4.cpp,RUNTIME_ERROR,0,5.88%,0.170,7.484375,0,0,0
-animeshops_Qwen3-14B-Non-Thinking_5.cpp,RUNTIME_ERROR,0,0.00%,0.150,6.96875,0,0,0
-animeshops_Qwen3-14B-Non-Thinking_6.cpp,TIME_LIMIT_EXCEEDED,0,16.67%,1.180,7.59765625,0,0,0
-animeshops_Qwen3-14B-Non-Thinking_7.cpp,RUNTIME_ERROR,0,5.88%,0.150,6.7109375,0,0,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3
+animeshops_Qwen3-14B-Non-Thinking_0.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.180,7.15234375,0,0,0
+animeshops_Qwen3-14B-Non-Thinking_1.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.190,6.453125,0,0,0
+animeshops_Qwen3-14B-Non-Thinking_2.cpp,RUNTIME_ERROR,0,0.00%,5.88%,0.190,6.96875,0,0,0
+animeshops_Qwen3-14B-Non-Thinking_3.cpp,RUNTIME_ERROR,0,0.00%,5.88%,0.190,6.1953125,0,0,0
+animeshops_Qwen3-14B-Non-Thinking_4.cpp,RUNTIME_ERROR,0,0.00%,5.88%,0.180,7.484375,0,0,0
+animeshops_Qwen3-14B-Non-Thinking_5.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.190,6.83984375,0,0,0
+animeshops_Qwen3-14B-Non-Thinking_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,16.67%,1.260,7.6015625,0,0,0
+animeshops_Qwen3-14B-Non-Thinking_7.cpp,RUNTIME_ERROR,0,0.00%,5.88%,0.180,6.1953125,0,0,0

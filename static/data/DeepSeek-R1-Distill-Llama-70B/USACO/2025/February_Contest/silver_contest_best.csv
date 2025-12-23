@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-silver_The_Best_Lineup,DeepSeek-R1-Distill-Llama-70B,COMPILATION_ERROR,0,0.00%,0.000,0
-silver_Vocabulary_Quiz,DeepSeek-R1-Distill-Llama-70B,COMPILATION_ERROR,0,0.00%,0.000,0
-silver_Transforming_Pairs,DeepSeek-R1-Distill-Llama-70B,WRONG_ANSWER,0,16.67%,0.100,0.00390625
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_The_Best_Lineup,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,137,42.41%,44.44%,2.470,3.64453125
+silver_Vocabulary_Quiz,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,156,47.27%,55.56%,2.480,66.07421875
+silver_Transforming_Pairs,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,333,100.91%,100.00%,0.160,0.00390625

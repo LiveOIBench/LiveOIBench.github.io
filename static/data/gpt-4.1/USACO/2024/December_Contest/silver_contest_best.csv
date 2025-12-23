@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-silver_Cake_Game,gpt-4.1,TIME_LIMIT_EXCEEDED,33,18.18%,2.240,5.26953125
-silver_Deforestation,gpt-4.1,ACCEPTED,333,100.00%,0.280,11.29296875
-silver_2D_Conveyor_Belt,gpt-4.1,TIME_LIMIT_EXCEEDED,133,53.85%,2.270,10.06640625
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_Cake_Game,gpt-4.1,TIME_LIMIT_EXCEEDED,33,10.00%,18.18%,2.470,5.26953125
+silver_Deforestation,gpt-4.1,ACCEPTED,333,100.91%,100.00%,0.310,11.55078125
+silver_2D_Conveyor_Belt,gpt-4.1,TIME_LIMIT_EXCEEDED,133,40.30%,53.85%,2.430,10.06640625

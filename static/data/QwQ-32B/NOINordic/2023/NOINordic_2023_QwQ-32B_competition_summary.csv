@@ -1,5 +1,5 @@
-problem,status,score,%test passed,time,memory,pass_rate,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
-icecreammachines,TIME_LIMIT_EXCEEDED,79,99.15%,1.170,17.28125,,7,12,22,11,14,13,0
-chatnoi,RUNTIME_ERROR,12,59.32%,1.160,200.5546875,,5,7,0,0,0,0,0
-islandalliances,ACCEPTED,100,100.00%,0.220,14.2421875,,15,17,20,23,25,0,0
-TOTAL,,191,86.15%,,,33.33%,,,,,,,
+problem,status,score,relative_score,%test passed,time,memory,pass_rate,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+icecreammachines,TIME_LIMIT_EXCEEDED,79,79.00%,99.15%,1.310,17.27734375,,7,12,22,11,14,13,0
+chatnoi,RUNTIME_ERROR,12,12.00%,59.32%,1.080,200.5546875,,5,7,0,0,0,0,0
+islandalliances,ACCEPTED,100,100.00%,100.00%,0.250,13.71484375,,15,17,20,23,25,0,0
+TOTAL,,191,,86.15%,,,33.33%,,,,,,,

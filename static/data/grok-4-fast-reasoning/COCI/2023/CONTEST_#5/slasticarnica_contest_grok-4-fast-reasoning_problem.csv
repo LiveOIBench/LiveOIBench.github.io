@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+slasticarnica_grok-4-fast-reasoning_0.cpp,ACCEPTED,110,100.00%,100.00%,0.190,3.41796875,21,31,58
+slasticarnica_grok-4-fast-reasoning_1.cpp,MEMORY_LIMIT_EXCEEDED,21,19.09%,25.00%,1.300,523.625,21,0,0
+slasticarnica_grok-4-fast-reasoning_2.cpp,TIME_LIMIT_EXCEEDED,79,71.82%,77.50%,2.410,99.78125,21,0,58
+slasticarnica_grok-4-fast-reasoning_3.cpp,TIME_LIMIT_EXCEEDED,21,19.09%,25.00%,2.420,194.14453125,21,0,0
+slasticarnica_grok-4-fast-reasoning_4.cpp,RUNTIME_ERROR,0,0.00%,2.50%,0.030,2.84375,0,0,0
+slasticarnica_grok-4-fast-reasoning_5.cpp,TIME_LIMIT_EXCEEDED,21,19.09%,27.50%,2.410,161.73046875,21,0,0
+slasticarnica_grok-4-fast-reasoning_6.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0
+slasticarnica_grok-4-fast-reasoning_7.cpp,ACCEPTED,110,100.00%,100.00%,1.560,3.6171875,21,31,58

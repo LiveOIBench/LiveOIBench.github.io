@@ -1,10 +1,10 @@
-problem,model,status,score,%test passed,time,memory
-Paired_roads,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,0,5.04%,4.410,161.62890625
-Legs_warm-up_exercise,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,18,52.37%,6.630,22.28515625
-Hard_problem,gemini-2.5-flash,ACCEPTED,100,100.00%,0.120,2.84765625
-Yet_another_queries,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,67,79.87%,1.660,23.46875
-Lunch,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,29,69.44%,2.420,4.49609375
-Tournament,gemini-2.5-flash,RUNTIME_ERROR,80,97.15%,0.000,0
-You_need_to_train_more,gemini-2.5-flash,ACCEPTED,100,100.00%,0.060,3.640625
-Colorful_graph,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,64,91.00%,1.660,174.75
-Space_accident,gemini-2.5-flash,ACCEPTED,100,100.00%,0.050,2.07421875
+problem,model,status,score,relative_score,%test passed,time,memory
+Paired_roads,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,0,0.00%,5.04%,4.800,199.1015625
+Legs_warm-up_exercise,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,18,18.00%,52.37%,7.220,22.2890625
+Hard_problem,gemini-2.5-flash,ACCEPTED,100,100.00%,100.00%,0.160,4.39453125
+Yet_another_queries,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,67,67.00%,79.87%,1.810,105.51171875
+Lunch,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,29,29.00%,69.44%,2.440,4.49609375
+Tournament,gemini-2.5-flash,RUNTIME_ERROR,80,80.00%,97.15%,0.000,0
+You_need_to_train_more,gemini-2.5-flash,ACCEPTED,100,100.00%,100.00%,0.130,3.64453125
+Colorful_graph,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,64,64.00%,91.00%,1.860,174.75
+Space_accident,gemini-2.5-flash,ACCEPTED,100,100.00%,100.00%,0.130,2.07421875

@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-gold_Bessla_Motors,gpt-oss-120b-low,ACCEPTED,333,100.00%,0.460,28.0078125
-gold_Milk_Exchange,gpt-oss-120b-low,TIME_LIMIT_EXCEEDED,33,21.74%,2.570,16.5078125
-gold_Quantum_Moochanics,gpt-oss-120b-low,WRONG_ANSWER,33,16.67%,0.090,4.65234375
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Bessla_Motors,gpt-oss-120b-low,ACCEPTED,333,102.78%,100.00%,0.530,28.19140625
+gold_Milk_Exchange,gpt-oss-120b-low,TIME_LIMIT_EXCEEDED,33,10.31%,21.74%,2.540,16.5078125
+gold_Quantum_Moochanics,gpt-oss-120b-low,WRONG_ANSWER,33,10.00%,16.67%,0.170,4.91015625

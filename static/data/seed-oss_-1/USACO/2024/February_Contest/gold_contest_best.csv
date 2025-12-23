@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-gold_Bessla_Motors,seed-oss_-1,ACCEPTED,333,100.00%,1.040,60.109375
-gold_Milk_Exchange,seed-oss_-1,TIME_LIMIT_EXCEEDED,50,26.09%,2.450,15.203125
-gold_Quantum_Moochanics,seed-oss_-1,ACCEPTED,333,100.00%,0.090,8.546875
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Bessla_Motors,seed-oss_-1,ACCEPTED,333,102.78%,100.00%,1.130,60.11328125
+gold_Milk_Exchange,seed-oss_-1,TIME_LIMIT_EXCEEDED,50,15.62%,26.09%,2.490,176.12109375
+gold_Quantum_Moochanics,seed-oss_-1,ACCEPTED,333,100.91%,100.00%,0.210,8.5625

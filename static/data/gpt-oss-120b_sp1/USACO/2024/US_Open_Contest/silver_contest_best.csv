@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_Bessies_Interview,gpt-oss-120b_sp1,TIME_LIMIT_EXCEEDED,250,78.12%,76.19%,2.440,15.5234375
+silver_Painting_Fence_Posts,gpt-oss-120b_sp1,ACCEPTED,333,102.78%,100.00%,0.530,57.6953125
+silver_The_Winning_Gene,gpt-oss-120b_sp1,ACCEPTED,333,100.91%,100.00%,0.150,1.55078125

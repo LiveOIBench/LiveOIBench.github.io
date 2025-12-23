@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+fire_grok-4-fast-reasoning_0.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.210,93.5625,0,0,0,0,0,0
+fire_grok-4-fast-reasoning_1.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0
+fire_grok-4-fast-reasoning_2.cpp,RUNTIME_ERROR,40,40.00%,94.21%,0.340,91.34765625,14,17,9,0,0,0
+fire_grok-4-fast-reasoning_3.cpp,RUNTIME_ERROR,0,0.00%,28.74%,0.060,10.984375,0,0,0,0,0,0
+fire_grok-4-fast-reasoning_4.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.280,90.34375,0,0,0,0,0,0
+fire_grok-4-fast-reasoning_5.cpp,RUNTIME_ERROR,0,0.00%,7.89%,0.050,20.87890625,0,0,0,0,0,0
+fire_grok-4-fast-reasoning_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,28.74%,1.210,37.37890625,0,0,0,0,0,0
+fire_grok-4-fast-reasoning_7.cpp,RUNTIME_ERROR,0,0.00%,69.72%,0.060,12.83984375,0,0,0,0,0,0

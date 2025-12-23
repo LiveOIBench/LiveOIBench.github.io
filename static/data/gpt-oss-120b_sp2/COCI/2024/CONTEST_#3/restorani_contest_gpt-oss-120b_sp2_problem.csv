@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+restorani_gpt-oss-120b_0.cpp,RUNTIME_ERROR,0,0.00%,1.37%,0.110,26.56640625,0,0,0,0
+restorani_gpt-oss-120b_1.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0
+restorani_gpt-oss-120b_2.cpp,RUNTIME_ERROR,0,0.00%,0.68%,0.070,53.8671875,0,0,0,0
+restorani_gpt-oss-120b_3.cpp,RUNTIME_ERROR,0,0.00%,0.68%,0.200,70.45703125,0,0,0,0
+restorani_gpt-oss-120b_4.cpp,RUNTIME_ERROR,0,0.00%,0.68%,0.090,52.0859375,0,0,0,0
+restorani_gpt-oss-120b_5.cpp,RUNTIME_ERROR,0,0.00%,0.68%,0.170,71.796875,0,0,0,0
+restorani_gpt-oss-120b_6.cpp,RUNTIME_ERROR,0,0.00%,0.68%,0.110,77.609375,0,0,0,0
+restorani_gpt-oss-120b_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.68%,2.410,20.33203125,0,0,0,0

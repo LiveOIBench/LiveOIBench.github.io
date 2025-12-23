@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_Cake_Game,grok-4-fast-reasoning,ACCEPTED,333,100.91%,100.00%,0.070,7.15234375
+silver_Deforestation,grok-4-fast-reasoning,ACCEPTED,333,100.91%,100.00%,0.160,6.3125
+silver_2D_Conveyor_Belt,grok-4-fast-reasoning,RUNTIME_ERROR,0,0.00%,0.00%,0.110,267.6171875

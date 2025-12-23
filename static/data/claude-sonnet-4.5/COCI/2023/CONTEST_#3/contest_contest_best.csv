@@ -1,0 +1,6 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+estimathon,claude-sonnet-4.5,ACCEPTED,50,100.00%,100.00%,0.010,0
+dirigent,claude-sonnet-4.5,ACCEPTED,70,100.00%,100.00%,0.070,2.58984375
+baltazar,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,15,13.64%,62.50%,4.810,39.8203125
+bomboni,claude-sonnet-4.5,ACCEPTED,110,100.00%,100.00%,0.280,470.5078125
+skrivaca,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,15,13.64%,25.53%,2.410,15.1796875

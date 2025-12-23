@@ -1,0 +1,8 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Shock_Wave_gpt-oss-120b_0.cpp,WRONG_ANSWER,0,0.00%,0.00%,0.050,2.015625,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Shock_Wave_gpt-oss-120b_1.cpp,WRONG_ANSWER,0,0.00%,0.00%,0.070,7.859375,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Shock_Wave_gpt-oss-120b_2.cpp,WRONG_ANSWER,0,0.00%,0.00%,0.040,2.015625,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Shock_Wave_gpt-oss-120b_3.cpp,WRONG_ANSWER,0,0.00%,0.00%,0.050,2.015625,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Shock_Wave_gpt-oss-120b_4.cpp,WRONG_ANSWER,0,0.00%,0.00%,0.660,6.046875,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Shock_Wave_gpt-oss-120b_5.cpp,WRONG_ANSWER,0,0.00%,0.00%,0.050,2.015625,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Shock_Wave_gpt-oss-120b_6.cpp,WRONG_ANSWER,0,0.00%,0.00%,0.040,2.7890625,0,0,0,0,0,0,0,0,0,0,0,0,0,0

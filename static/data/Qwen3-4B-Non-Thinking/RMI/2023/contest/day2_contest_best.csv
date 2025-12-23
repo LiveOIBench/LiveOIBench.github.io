@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-Circles,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
-To_be_xor_not_to_be,Qwen3-4B-Non-Thinking,RUNTIME_ERROR,0,0.00%,0.000,0
-Statues,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+problem,model,status,score,relative_score,%test passed,time,memory
+Circles,Qwen3-4B-Non-Thinking,TIME_LIMIT_EXCEEDED,4,4.00%,12.90%,1.810,54.40234375
+To_be_xor_not_to_be,Qwen3-4B-Non-Thinking,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0
+Statues,Qwen3-4B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0

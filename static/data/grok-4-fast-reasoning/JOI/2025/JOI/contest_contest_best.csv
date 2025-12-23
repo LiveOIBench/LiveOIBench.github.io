@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+2025-ho-t3_Mi_Teleférico,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.680,131.8046875
+2025-ho-t4_Just_Long_Neckties_2,grok-4-fast-reasoning,RUNTIME_ERROR,0,0.00%,9.15%,0.000,0
+2025-ho-t5_Post_Office,grok-4-fast-reasoning,RUNTIME_ERROR,3,3.00%,30.92%,0.100,47.93359375

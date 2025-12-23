@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_21,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
-Draw_Polygon_Lines_Qwen3-32B-Non-Thinking_0.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Draw_Polygon_Lines_Qwen3-32B-Non-Thinking_1.cpp,RUNTIME_ERROR,53,82.19%,0.540,5.73046875,0,0,4.0,3.0,3.0,3.0,3.0,2.0,6.0,3.0,3.0,3.0,0,3.0,2.0,0,0,0,0,7.0,4.0,4.0
-Draw_Polygon_Lines_Qwen3-32B-Non-Thinking_2.cpp,MEMORY_LIMIT_EXCEEDED,18,14.74%,0.270,562.2578125,0,0,4.0,3.0,0,0,0,0,0,3.0,0,0,0,0,0,0,0,0,0,0,4.0,4.0
-Draw_Polygon_Lines_Qwen3-32B-Non-Thinking_3.cpp,MEMORY_LIMIT_EXCEEDED,36,55.60%,1.000,562.1640625,0,0,4.0,3.0,3.0,3.0,3.0,2.0,0,3.0,0,0,0,0,0,0,0,0,0,7.0,4.0,4.0
-Draw_Polygon_Lines_Qwen3-32B-Non-Thinking_4.cpp,RUNTIME_ERROR,53,82.19%,0.260,3.953125,0,0,4.0,3.0,3.0,3.0,3.0,2.0,6.0,3.0,3.0,3.0,0,3.0,2.0,0,0,0,0,7.0,4.0,4.0
-Draw_Polygon_Lines_Qwen3-32B-Non-Thinking_5.cpp,TIME_LIMIT_EXCEEDED,15,11.58%,2.240,5.3203125,0,0,4.0,3.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.0,4.0
-Draw_Polygon_Lines_Qwen3-32B-Non-Thinking_6.cpp,TIME_LIMIT_EXCEEDED,36,55.60%,2.210,3.984375,0,0,4.0,3.0,3.0,3.0,3.0,2.0,0,3.0,0,0,0,0,0,0,0,0,0,7.0,4.0,4.0
-Draw_Polygon_Lines_Qwen3-32B-Non-Thinking_7.cpp,RUNTIME_ERROR,53,82.19%,0.320,3.8828125,0,0,4.0,3.0,3.0,3.0,3.0,2.0,6.0,3.0,3.0,3.0,0,3.0,2.0,0,0,0,0,7.0,4.0,4.0
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_21,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Draw_Polygon_Lines_Qwen3-32B-Non-Thinking_0.cpp,UNKNOWN,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Draw_Polygon_Lines_Qwen3-32B-Non-Thinking_1.cpp,RUNTIME_ERROR,53,53.00%,82.19%,0.580,5.8828125,0,0,4.0,3.0,3.0,3.0,3.0,2.0,6.0,3.0,3.0,3.0,0,3.0,2.0,0,0,0,0,7.0,4.0,4.0
+Draw_Polygon_Lines_Qwen3-32B-Non-Thinking_2.cpp,MEMORY_LIMIT_EXCEEDED,18,18.00%,14.74%,0.290,613.30859375,0,0,4.0,3.0,0,0,0,0,0,3.0,0,0,0,0,0,0,0,0,0,0,4.0,4.0
+Draw_Polygon_Lines_Qwen3-32B-Non-Thinking_3.cpp,MEMORY_LIMIT_EXCEEDED,36,36.00%,55.60%,1.050,613.46484375,0,0,4.0,3.0,3.0,3.0,3.0,2.0,0,3.0,0,0,0,0,0,0,0,0,0,7.0,4.0,4.0
+Draw_Polygon_Lines_Qwen3-32B-Non-Thinking_4.cpp,RUNTIME_ERROR,53,53.00%,82.19%,0.300,3.953125,0,0,4.0,3.0,3.0,3.0,3.0,2.0,6.0,3.0,3.0,3.0,0,3.0,2.0,0,0,0,0,7.0,4.0,4.0
+Draw_Polygon_Lines_Qwen3-32B-Non-Thinking_5.cpp,TIME_LIMIT_EXCEEDED,15,15.00%,11.58%,2.450,5.3203125,0,0,4.0,3.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.0,4.0
+Draw_Polygon_Lines_Qwen3-32B-Non-Thinking_6.cpp,TIME_LIMIT_EXCEEDED,36,36.00%,55.60%,2.410,3.95703125,0,0,4.0,3.0,3.0,3.0,3.0,2.0,0,3.0,0,0,0,0,0,0,0,0,0,7.0,4.0,4.0
+Draw_Polygon_Lines_Qwen3-32B-Non-Thinking_7.cpp,RUNTIME_ERROR,53,53.00%,82.19%,0.310,3.8828125,0,0,4.0,3.0,3.0,3.0,3.0,2.0,6.0,3.0,3.0,3.0,0,3.0,2.0,0,0,0,0,7.0,4.0,4.0

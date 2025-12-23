@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Circles_grok-4-fast-reasoning_0.cpp,ACCEPTED,100,100.00%,100.00%,0.420,80.734375,0,4,9,14,15,21,37
+Circles_grok-4-fast-reasoning_1.cpp,ACCEPTED,100,100.00%,100.00%,0.390,89.3828125,0,4,9,14,15,21,37
+Circles_grok-4-fast-reasoning_2.cpp,ACCEPTED,100,100.00%,100.00%,0.450,80.44140625,0,4,9,14,15,21,37
+Circles_grok-4-fast-reasoning_3.cpp,RUNTIME_ERROR,4,4.00%,12.90%,1.020,80.4453125,0,4,0,0,0,0,0
+Circles_grok-4-fast-reasoning_4.cpp,ACCEPTED,100,100.00%,100.00%,0.350,114.98828125,0,4,9,14,15,21,37
+Circles_grok-4-fast-reasoning_5.cpp,ACCEPTED,100,100.00%,100.00%,0.410,80.7109375,0,4,9,14,15,21,37
+Circles_grok-4-fast-reasoning_6.cpp,RUNTIME_ERROR,63,63.00%,82.00%,0.320,89.46484375,0,4,9,14,15,21,0
+Circles_grok-4-fast-reasoning_7.cpp,RUNTIME_ERROR,4,4.00%,33.33%,0.300,157.78515625,0,4,0,0,0,0,0

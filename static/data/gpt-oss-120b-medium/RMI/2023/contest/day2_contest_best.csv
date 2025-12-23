@@ -1,4 +1,4 @@
 problem,model,status,score,relative_score,%test passed,time,memory
-Circles,gpt-oss-120b-medium,ACCEPTED,100,100.00%,100.00%,0.310,89.48046875
+Circles,gpt-oss-120b-medium,ACCEPTED,100,100.00%,100.00%,0.430,89.53125
 To_be_xor_not_to_be,gpt-oss-120b-medium,RUNTIME_ERROR,0,0.00%,4.76%,0.000,0
-Statues,gpt-oss-120b-medium,ACCEPTED,100,100.00%,100.00%,0.390,21.765625
+Statues,gpt-oss-120b-medium,ACCEPTED,100,100.00%,100.00%,0.470,31.94921875

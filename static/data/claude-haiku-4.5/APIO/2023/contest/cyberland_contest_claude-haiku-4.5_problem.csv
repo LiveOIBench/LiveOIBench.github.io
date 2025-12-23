@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+cyberland_claude-haiku-4.5_0.cpp,TIME_LIMIT_EXCEEDED,20,20.00%,23.17%,2.980,254.203125,0,5,8,0,0,7,0,0,0
+cyberland_claude-haiku-4.5_1.cpp,RUNTIME_ERROR,97,97.00%,82.93%,1.920,60.84765625,0,5,8,13,19,7,16,29,0
+cyberland_claude-haiku-4.5_2.cpp,TIME_LIMIT_EXCEEDED,20,20.00%,23.17%,3.000,301.51953125,0,5,8,0,0,7,0,0,0
+cyberland_claude-haiku-4.5_3.cpp,TIME_LIMIT_EXCEEDED,15,15.00%,20.73%,3.000,264.02734375,0,0,8,0,0,7,0,0,0
+cyberland_claude-haiku-4.5_4.cpp,UNKNOWN,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0
+cyberland_claude-haiku-4.5_5.cpp,TIME_LIMIT_EXCEEDED,15,15.00%,20.73%,2.990,260.65234375,0,0,8,0,0,7,0,0,0
+cyberland_claude-haiku-4.5_6.cpp,UNKNOWN,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0
+cyberland_claude-haiku-4.5_7.cpp,RUNTIME_ERROR,15,15.00%,20.73%,1.000,22.6875,0,0,8,0,0,7,0,0,0

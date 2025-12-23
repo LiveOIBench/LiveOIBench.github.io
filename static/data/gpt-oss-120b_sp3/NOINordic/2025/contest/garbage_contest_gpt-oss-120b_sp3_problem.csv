@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+garbage_gpt-oss-120b_0.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0
+garbage_gpt-oss-120b_1.cpp,RUNTIME_ERROR,0,0.00%,26.03%,0.110,10.67578125,0,0,0,0,0,0
+garbage_gpt-oss-120b_2.cpp,RUNTIME_ERROR,0,0.00%,26.03%,0.150,9.64453125,0,0,0,0,0,0
+garbage_gpt-oss-120b_3.cpp,RUNTIME_ERROR,0,0.00%,26.03%,0.150,13.1484375,0,0,0,0,0,0
+garbage_gpt-oss-120b_4.cpp,RUNTIME_ERROR,0,0.00%,26.03%,0.160,28.29296875,0,0,0,0,0,0
+garbage_gpt-oss-120b_5.cpp,ACCEPTED,100,100.00%,100.00%,0.130,8.8828125,10,12,15,22,23,18
+garbage_gpt-oss-120b_6.cpp,RUNTIME_ERROR,0,0.00%,26.03%,0.100,12.22265625,0,0,0,0,0,0
+garbage_gpt-oss-120b_7.cpp,RUNTIME_ERROR,0,0.00%,26.03%,0.140,22.8046875,0,0,0,0,0,0

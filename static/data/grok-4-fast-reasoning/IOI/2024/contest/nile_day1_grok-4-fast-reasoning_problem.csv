@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+nile_grok-4-fast-reasoning_0.cpp,TIME_LIMIT_EXCEEDED,67,67.00%,83.76%,2.410,8.46875,0,6,13,17,11,20,0,0
+nile_grok-4-fast-reasoning_1.cpp,ACCEPTED,100,100.00%,100.00%,0.090,18.58203125,0,6,13,17,11,20,15,18
+nile_grok-4-fast-reasoning_2.cpp,TIME_LIMIT_EXCEEDED,67,67.00%,83.76%,2.400,8.98828125,0,6,13,17,11,20,0,0
+nile_grok-4-fast-reasoning_3.cpp,RUNTIME_ERROR,38,38.00%,61.84%,0.060,11.10546875,0,6,0,17,0,0,15,0
+nile_grok-4-fast-reasoning_4.cpp,RUNTIME_ERROR,38,38.00%,61.84%,0.050,15.9140625,0,6,0,17,0,0,15,0
+nile_grok-4-fast-reasoning_5.cpp,ACCEPTED,100,100.00%,100.00%,0.190,117.28125,0,6,13,17,11,20,15,18
+nile_grok-4-fast-reasoning_6.cpp,TIME_LIMIT_EXCEEDED,23,23.00%,43.48%,2.410,9.0234375,0,6,0,17,0,0,0,0
+nile_grok-4-fast-reasoning_7.cpp,RUNTIME_ERROR,38,38.00%,61.84%,0.040,11.09765625,0,6,0,17,0,0,15,0

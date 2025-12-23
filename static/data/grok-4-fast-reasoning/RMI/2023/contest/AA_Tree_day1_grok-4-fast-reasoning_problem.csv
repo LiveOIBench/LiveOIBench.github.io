@@ -1,0 +1,8 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+AA_Tree_grok-4-fast-reasoning_0.cpp,TIME_LIMIT_EXCEEDED,53,53.00%,76.47%,0.130,3.10546875,0,19,34,0
+AA_Tree_grok-4-fast-reasoning_1.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.010,2.00390625,0,0,0,0
+AA_Tree_grok-4-fast-reasoning_2.cpp,TIME_LIMIT_EXCEEDED,53,53.00%,76.47%,0.140,3.68359375,0,19,34,0
+AA_Tree_grok-4-fast-reasoning_3.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.030,4.35546875,0,0,0,0
+AA_Tree_grok-4-fast-reasoning_5.cpp,TIME_LIMIT_EXCEEDED,53,53.00%,76.47%,0.130,3.62109375,0,19,34,0
+AA_Tree_grok-4-fast-reasoning_6.cpp,TIME_LIMIT_EXCEEDED,53,53.00%,76.47%,0.130,1.8125,0,19,34,0
+AA_Tree_grok-4-fast-reasoning_7.cpp,TIME_LIMIT_EXCEEDED,53,53.00%,91.18%,0.130,3.16015625,0,19,34,0

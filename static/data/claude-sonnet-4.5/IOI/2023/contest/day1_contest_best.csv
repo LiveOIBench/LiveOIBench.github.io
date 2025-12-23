@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+soccer,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,0,0.00%,51.41%,4.210,0.00390625
+closing,claude-sonnet-4.5,RUNTIME_ERROR,17,17.00%,33.14%,0.060,19.86328125
+longesttrip,claude-sonnet-4.5,RUNTIME_ERROR,40,40.00%,59.64%,0.200,4.078125

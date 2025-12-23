@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
-Ultrafast_train_gpt-5_0.cpp,ACCEPTED,100,100.00%,0.060,10.37109375,0.0,17.0,13.0,12.0,26.0,32.0
-Ultrafast_train_gpt-5_1.cpp,RUNTIME_ERROR,42,89.20%,0.130,11.26171875,0.0,17.0,13.0,12.0,0,0
-Ultrafast_train_gpt-5_2.cpp,ACCEPTED,100,100.00%,0.130,12.17578125,0.0,17.0,13.0,12.0,26.0,32.0
-Ultrafast_train_gpt-5_3.cpp,ACCEPTED,100,100.00%,0.130,9.24609375,0.0,17.0,13.0,12.0,26.0,32.0
-Ultrafast_train_gpt-5_4.cpp,RUNTIME_ERROR,68,98.88%,0.130,10.0,0.0,17.0,13.0,12.0,26.0,0
-Ultrafast_train_gpt-5_5.cpp,ACCEPTED,100,100.00%,0.130,9.234375,0.0,17.0,13.0,12.0,26.0,32.0
-Ultrafast_train_gpt-5_6.cpp,ACCEPTED,100,100.00%,0.120,9.890625,0.0,17.0,13.0,12.0,26.0,32.0
-Ultrafast_train_gpt-5_7.cpp,ACCEPTED,100,100.00%,0.130,9.24609375,0.0,17.0,13.0,12.0,26.0,32.0
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+Ultrafast_train_gpt-5_0.cpp,ACCEPTED,100,100.00%,100.00%,0.160,10.3671875,0.0,17.0,13.0,12.0,26.0,32.0
+Ultrafast_train_gpt-5_1.cpp,RUNTIME_ERROR,42,42.00%,89.20%,0.150,11.26171875,0.0,17.0,13.0,12.0,0,0
+Ultrafast_train_gpt-5_2.cpp,ACCEPTED,100,100.00%,100.00%,0.160,12.171875,0.0,17.0,13.0,12.0,26.0,32.0
+Ultrafast_train_gpt-5_3.cpp,ACCEPTED,100,100.00%,100.00%,0.150,9.2421875,0.0,17.0,13.0,12.0,26.0,32.0
+Ultrafast_train_gpt-5_4.cpp,RUNTIME_ERROR,68,68.00%,98.88%,0.150,9.99609375,0.0,17.0,13.0,12.0,26.0,0
+Ultrafast_train_gpt-5_5.cpp,ACCEPTED,100,100.00%,100.00%,0.160,9.23828125,0.0,17.0,13.0,12.0,26.0,32.0
+Ultrafast_train_gpt-5_6.cpp,ACCEPTED,100,100.00%,100.00%,0.160,10.01171875,0.0,17.0,13.0,12.0,26.0,32.0
+Ultrafast_train_gpt-5_7.cpp,ACCEPTED,100,100.00%,100.00%,0.150,9.50390625,0.0,17.0,13.0,12.0,26.0,32.0

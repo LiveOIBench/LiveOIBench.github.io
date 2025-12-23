@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-soccer,Qwen3-14B,RUNTIME_ERROR,0,2.65%,0.000,0
-closing,Qwen3-14B,RUNTIME_ERROR,8,6.72%,0.090,26.6015625
-longesttrip,Qwen3-14B,RUNTIME_ERROR,5,17.47%,0.170,3.98828125
+problem,model,status,score,relative_score,%test passed,time,memory
+soccer,Qwen3-14B,RUNTIME_ERROR,0,0.00%,2.65%,0.000,0
+closing,Qwen3-14B,RUNTIME_ERROR,8,8.00%,6.72%,0.110,26.60546875
+longesttrip,Qwen3-14B,RUNTIME_ERROR,5,5.00%,17.47%,0.110,4.09375

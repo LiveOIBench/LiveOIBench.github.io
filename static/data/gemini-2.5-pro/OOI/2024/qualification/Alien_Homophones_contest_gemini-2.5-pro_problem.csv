@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
-Alien_Homophones_gemini-2.5-pro_0.cpp,TIME_LIMIT_EXCEEDED,55,92.16%,2.230,104.7578125,0.0,8.0,0,7.0,9.0,0,8.0,6.0,7.0,10.0,0
-Alien_Homophones_gemini-2.5-pro_1.cpp,ACCEPTED,100,100.00%,0.830,316.6328125,0.0,8.0,11.0,7.0,9.0,15.0,8.0,6.0,7.0,10.0,19.0
-Alien_Homophones_gemini-2.5-pro_2.cpp,TIME_LIMIT_EXCEEDED,55,92.16%,2.280,94.67578125,0.0,8.0,0,7.0,9.0,0,8.0,6.0,7.0,10.0,0
-Alien_Homophones_gemini-2.5-pro_3.cpp,TIME_LIMIT_EXCEEDED,55,92.16%,2.240,194.04296875,0.0,8.0,0,7.0,9.0,0,8.0,6.0,7.0,10.0,0
-Alien_Homophones_gemini-2.5-pro_4.cpp,ACCEPTED,100,100.00%,1.250,618.1328125,0.0,8.0,11.0,7.0,9.0,15.0,8.0,6.0,7.0,10.0,19.0
-Alien_Homophones_gemini-2.5-pro_5.cpp,RUNTIME_ERROR,0,1.37%,0.200,306.48046875,0,0,0,0,0,0,0,0,0,0,0
-Alien_Homophones_gemini-2.5-pro_6.cpp,TIME_LIMIT_EXCEEDED,55,92.16%,2.300,251.9921875,0.0,8.0,0,7.0,9.0,0,8.0,6.0,7.0,10.0,0
-Alien_Homophones_gemini-2.5-pro_7.cpp,ACCEPTED,100,100.00%,0.930,484.74609375,0.0,8.0,11.0,7.0,9.0,15.0,8.0,6.0,7.0,10.0,19.0
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Alien_Homophones_gemini-2.5-pro_0.cpp,TIME_LIMIT_EXCEEDED,55,55.00%,92.16%,2.470,104.80859375,0.0,8.0,0,7.0,9.0,0,8.0,6.0,7.0,10.0,0
+Alien_Homophones_gemini-2.5-pro_1.cpp,ACCEPTED,100,100.00%,100.00%,0.730,316.62890625,0.0,8.0,11.0,7.0,9.0,15.0,8.0,6.0,7.0,10.0,19.0
+Alien_Homophones_gemini-2.5-pro_2.cpp,TIME_LIMIT_EXCEEDED,55,55.00%,92.16%,2.430,94.67578125,0.0,8.0,0,7.0,9.0,0,8.0,6.0,7.0,10.0,0
+Alien_Homophones_gemini-2.5-pro_3.cpp,TIME_LIMIT_EXCEEDED,55,55.00%,92.16%,2.470,194.09765625,0.0,8.0,0,7.0,9.0,0,8.0,6.0,7.0,10.0,0
+Alien_Homophones_gemini-2.5-pro_4.cpp,ACCEPTED,100,100.00%,100.00%,1.160,618.1328125,0.0,8.0,11.0,7.0,9.0,15.0,8.0,6.0,7.0,10.0,19.0
+Alien_Homophones_gemini-2.5-pro_5.cpp,RUNTIME_ERROR,0,0.00%,1.37%,0.200,306.48046875,0,0,0,0,0,0,0,0,0,0,0
+Alien_Homophones_gemini-2.5-pro_6.cpp,TIME_LIMIT_EXCEEDED,55,55.00%,92.16%,2.420,239.671875,0.0,8.0,0,7.0,9.0,0,8.0,6.0,7.0,10.0,0
+Alien_Homophones_gemini-2.5-pro_7.cpp,ACCEPTED,100,100.00%,100.00%,0.850,484.87109375,0.0,8.0,11.0,7.0,9.0,15.0,8.0,6.0,7.0,10.0,19.0

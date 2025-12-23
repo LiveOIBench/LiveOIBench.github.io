@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_Milk_Sum,grok-4-fast-reasoning,ACCEPTED,333,100.91%,100.00%,0.100,4.90625
+silver_Field_Day,grok-4-fast-reasoning,ACCEPTED,333,103.10%,100.00%,0.030,3.6171875
+silver_Pareidolia,grok-4-fast-reasoning,ACCEPTED,333,100.91%,100.00%,0.010,1.73046875

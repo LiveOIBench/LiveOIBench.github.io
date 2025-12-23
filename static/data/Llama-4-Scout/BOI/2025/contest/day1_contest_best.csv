@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-boi,Llama-4-Scout,RUNTIME_ERROR,0,0.00%,0.000,0.00390625
-tou,Llama-4-Scout,RUNTIME_ERROR,0,5.17%,0.130,16.57421875
-tow,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0
+problem,model,status,score,relative_score,%test passed,time,memory
+boi,Llama-4-Scout,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0
+tou,Llama-4-Scout,RUNTIME_ERROR,0,0.00%,5.17%,0.170,16.31640625
+tow,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0

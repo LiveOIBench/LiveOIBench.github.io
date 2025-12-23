@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+platinum_All_Pairs_Similarity,grok-4-fast-reasoning,ACCEPTED,333,103.42%,100.00%,1.600,451.1796875
+platinum_Its_Mooin_Time,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,48,14.91%,33.33%,3.610,12.16796875
+platinum_Maximize_Minimum_Difference,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,21,6.56%,20.00%,4.820,10.0625

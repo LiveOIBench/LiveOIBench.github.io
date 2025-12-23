@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Custodial_Cleanup,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,21,6.56%,16.67%,2.420,305.70703125
+gold_Pareidolia,claude-sonnet-4.5,ACCEPTED,333,103.42%,100.00%,0.050,28.26171875
+gold_Tree_Merging,claude-sonnet-4.5,WRONG_ANSWER,0,0.00%,0.00%,0.020,0.00390625

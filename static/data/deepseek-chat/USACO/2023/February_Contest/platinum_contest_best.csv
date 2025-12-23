@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-platinum_Hungry_Cow,deepseek-chat,RUNTIME_ERROR,17,4.55%,0.100,7.22265625
-platinum_Problem_Setting,deepseek-chat,RUNTIME_ERROR,0,0.00%,0.940,6.11328125
-platinum_Watching_Cowflix,deepseek-chat,COMPILATION_ERROR,0,0.00%,0.000,0
+problem,model,status,score,relative_score,%test passed,time,memory
+platinum_Hungry_Cow,deepseek-chat,RUNTIME_ERROR,17,5.31%,4.55%,0.160,6.70703125
+platinum_Problem_Setting,deepseek-chat,RUNTIME_ERROR,0,0.00%,0.00%,0.990,6.11328125
+platinum_Watching_Cowflix,deepseek-chat,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0

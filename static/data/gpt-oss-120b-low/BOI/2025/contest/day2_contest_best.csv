@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-dev,gpt-oss-120b-low,RUNTIME_ERROR,0,1.10%,0.020,1.49609375
-exp,gpt-oss-120b-low,RUNTIME_ERROR,0,1.34%,0.140,11.6015625
-gcd,gpt-oss-120b-low,RUNTIME_ERROR,0,3.28%,0.020,0
+problem,model,status,score,relative_score,%test passed,time,memory
+dev,gpt-oss-120b-low,RUNTIME_ERROR,0,0.00%,1.10%,0.030,1.5
+exp,gpt-oss-120b-low,MEMORY_LIMIT_EXCEEDED,0,0.00%,1.34%,0.150,306.2890625
+gcd,gpt-oss-120b-low,RUNTIME_ERROR,0,0.00%,3.28%,0.000,0

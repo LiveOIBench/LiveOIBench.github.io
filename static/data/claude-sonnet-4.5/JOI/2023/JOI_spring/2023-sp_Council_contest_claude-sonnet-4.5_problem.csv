@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+2023-sp_Council_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,41,41.00%,90.00%,3.600,3.875,8,8,6,19,0,0,0
+2023-sp_Council_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,41,41.00%,90.46%,3.610,5.67578125,8,8,6,19,0,0,0
+2023-sp_Council_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,41,41.00%,87.60%,3.630,2.5859375,8,8,6,19,0,0,0
+2023-sp_Council_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,78,78.00%,96.90%,3.600,14.48046875,8,8,6,19,15,22,0
+2023-sp_Council_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,41,41.00%,90.46%,3.600,5.9375,8,8,6,19,0,0,0
+2023-sp_Council_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,41,41.00%,90.00%,3.600,3.359375,8,8,6,19,0,0,0
+2023-sp_Council_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,41,41.00%,90.46%,3.600,3.69140625,8,8,6,19,0,0,0
+2023-sp_Council_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,41,41.00%,90.00%,3.610,3.359375,8,8,6,19,0,0,0

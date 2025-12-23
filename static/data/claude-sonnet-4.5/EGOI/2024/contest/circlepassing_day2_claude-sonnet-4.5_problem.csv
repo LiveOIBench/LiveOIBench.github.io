@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+circlepassing_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,34,34.00%,68.25%,2.420,191.51171875,0,14,20,0,0,0
+circlepassing_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,56,56.00%,77.70%,2.410,124.109375,0,14,20,22,0,0
+circlepassing_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,56,56.00%,77.70%,2.410,201.671875,0,14,20,22,0,0
+circlepassing_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,14,14.00%,49.04%,2.430,1.8984375,0,14,0,0,0,0
+circlepassing_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,14,14.00%,49.04%,2.420,1.80859375,0,14,0,0,0,0
+circlepassing_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,14,14.00%,49.04%,2.410,1.73046875,0,14,0,0,0,0
+circlepassing_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,56,56.00%,77.70%,2.410,164.33984375,0,14,20,22,0,0
+circlepassing_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,14,14.00%,49.04%,2.410,1.55078125,0,14,0,0,0,0

@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-platinum_Forklift_Certified,gemini-2.5-pro,MEMORY_LIMIT_EXCEEDED,95,37.50%,1.200,280.8828125
-platinum_Lazy_Sort,gemini-2.5-pro,WRONG_ANSWER,0,6.67%,0.250,43.5234375
-platinum_Package_Pickup,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,0,10.00%,4.460,131.0859375
+problem,model,status,score,relative_score,%test passed,time,memory
+platinum_Forklift_Certified,gemini-2.5-pro,MEMORY_LIMIT_EXCEEDED,95,29.50%,37.50%,1.280,306.2890625
+platinum_Lazy_Sort,gemini-2.5-pro,WRONG_ANSWER,0,0.00%,6.67%,0.210,77.5546875
+platinum_Package_Pickup,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,0,0.00%,10.00%,4.810,131.08203125

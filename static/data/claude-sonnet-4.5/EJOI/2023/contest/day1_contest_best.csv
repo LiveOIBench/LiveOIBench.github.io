@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+teleporters,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,16,16.00%,32.84%,1.210,145.1796875
+tree_search,claude-sonnet-4.5,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0
+opening_offices,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,18,18.00%,29.51%,1.220,2402.66796875

@@ -1,0 +1,7 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Election_Queries,grok-4-fast-reasoning,WRONG_ANSWER,231,71.08%,73.33%,0.160,6.7109375
+gold_OohMoo_Milk,grok-4-fast-reasoning,WRONG_ANSWER,0,0.00%,15.00%,0.010,2.8828125
+platinum_Forklift_Certified,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,95,29.50%,37.50%,2.410,11.609375
+platinum_Package_Pickup,grok-4-fast-reasoning,RUNTIME_ERROR,0,0.00%,0.00%,0.070,16.5703125
+silver_Compatible_Pairs,grok-4-fast-reasoning,WRONG_ANSWER,267,80.91%,83.33%,0.320,61.54296875
+silver_Sequence_Construction,grok-4-fast-reasoning,WRONG_ANSWER,0,0.00%,0.00%,0.210,45.12890625

@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
-Card_Flip_DeepSeek-R1-Distill-Llama-70B_0.cpp,RUNTIME_ERROR,0,14.29%,0.800,30.25390625,0.0,0,0,0,0,0,0,0,0,0
-Card_Flip_DeepSeek-R1-Distill-Llama-70B_1.cpp,TIME_LIMIT_EXCEEDED,0,13.08%,1.150,111.63671875,0.0,0,0,0,0,0,0,0,0,0
-Card_Flip_DeepSeek-R1-Distill-Llama-70B_2.cpp,RUNTIME_ERROR,0,10.78%,0.340,6.97265625,0,0,0,0,0,0,0,0,0,0
-Card_Flip_DeepSeek-R1-Distill-Llama-70B_3.cpp,RUNTIME_ERROR,0,16.82%,0.420,14.92578125,0,0,0,0,0,0,0,0,0,0
-Card_Flip_DeepSeek-R1-Distill-Llama-70B_4.cpp,TIME_LIMIT_EXCEEDED,0,5.94%,1.150,94.109375,0,0,0,0,0,0,0,0,0,0
-Card_Flip_DeepSeek-R1-Distill-Llama-70B_5.cpp,RUNTIME_ERROR,0,6.93%,0.460,18.8203125,0,0,0,0,0,0,0,0,0,0
-Card_Flip_DeepSeek-R1-Distill-Llama-70B_6.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0
-Card_Flip_DeepSeek-R1-Distill-Llama-70B_7.cpp,RUNTIME_ERROR,0,10.89%,0.340,6.97265625,0,0,0,0,0,0,0,0,0,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Card_Flip_DeepSeek-R1-Distill-Llama-70B_0.cpp,RUNTIME_ERROR,0,0.00%,14.29%,0.650,30.25390625,0.0,0,0,0,0,0,0,0,0,0
+Card_Flip_DeepSeek-R1-Distill-Llama-70B_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,13.08%,1.260,133.16796875,0.0,0,0,0,0,0,0,0,0,0
+Card_Flip_DeepSeek-R1-Distill-Llama-70B_2.cpp,RUNTIME_ERROR,0,0.00%,10.78%,0.360,6.97265625,0,0,0,0,0,0,0,0,0,0
+Card_Flip_DeepSeek-R1-Distill-Llama-70B_3.cpp,RUNTIME_ERROR,0,0.00%,16.82%,0.410,14.92578125,0,0,0,0,0,0,0,0,0,0
+Card_Flip_DeepSeek-R1-Distill-Llama-70B_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,5.94%,1.230,102.671875,0,0,0,0,0,0,0,0,0,0
+Card_Flip_DeepSeek-R1-Distill-Llama-70B_5.cpp,RUNTIME_ERROR,0,0.00%,6.93%,0.420,18.73046875,0,0,0,0,0,0,0,0,0,0
+Card_Flip_DeepSeek-R1-Distill-Llama-70B_6.cpp,UNKNOWN,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0
+Card_Flip_DeepSeek-R1-Distill-Llama-70B_7.cpp,RUNTIME_ERROR,0,0.00%,10.89%,0.370,6.97265625,0,0,0,0,0,0,0,0,0,0

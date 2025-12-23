@@ -1,0 +1,7 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+vrsar_gpt-oss-120b_0.cpp,ACCEPTED,70,100.00%,100.00%,0.060,5.9375,8,17,19,26
+vrsar_gpt-oss-120b_1.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.050,11.3515625,0,0,0,0
+vrsar_gpt-oss-120b_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,1.220,613.59765625,0,0,0,0
+vrsar_gpt-oss-120b_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,1.210,5.9375,0,0,0,0
+vrsar_gpt-oss-120b_5.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.110,25.20703125,0,0,0,0
+vrsar_gpt-oss-120b_7.cpp,MEMORY_LIMIT_EXCEEDED,27,38.57%,50.00%,0.960,303.4921875,8,0,19,0

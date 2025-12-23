@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-silver_The_Best_Lineup,gpt-5,ACCEPTED,333,100.00%,0.230,16.3515625
-silver_Vocabulary_Quiz,gpt-5,ACCEPTED,333,100.00%,0.250,26.30859375
-silver_Transforming_Pairs,gpt-5,ACCEPTED,333,100.00%,0.110,0.00390625
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_The_Best_Lineup,gpt-5,ACCEPTED,333,103.10%,100.00%,0.240,17.0234375
+silver_Vocabulary_Quiz,gpt-5,ACCEPTED,333,100.91%,100.00%,0.290,30.17578125
+silver_Transforming_Pairs,gpt-5,ACCEPTED,333,100.91%,100.00%,0.150,0.00390625

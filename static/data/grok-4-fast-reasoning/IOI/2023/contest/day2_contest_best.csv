@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+robot,grok-4-fast-reasoning,RUNTIME_ERROR,16,16.00%,22.93%,0.050,8.8359375
+overtaking,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,65,65.00%,86.64%,2.980,39.76171875
+beechtree,grok-4-fast-reasoning,RUNTIME_ERROR,0,0.00%,26.11%,0.060,15.78515625

@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+kuglice_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,10,9.09%,24.32%,0.610,145.98046875,0,10,0,0,0
+kuglice_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,25,22.73%,45.95%,0.610,10.57421875,0,10,0,15,0
+kuglice_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,25,22.73%,48.65%,0.610,12.89453125,0,10,0,15,0
+kuglice_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,10,9.09%,25.68%,0.610,171.8203125,0,10,0,0,0
+kuglice_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,10,9.09%,31.08%,0.620,139.73828125,0,10,0,0,0
+kuglice_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,10,9.09%,25.68%,0.620,180.83984375,0,10,0,0,0
+kuglice_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,10,9.09%,25.68%,0.610,163.3125,0,10,0,0,0
+kuglice_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,25,22.73%,51.35%,0.610,22.23828125,0,10,0,15,0

@@ -1,0 +1,6 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+wow,gpt-oss-120b_sp1,ACCEPTED,50,100.00%,100.00%,0.000,0
+zid,gpt-oss-120b_sp1,ACCEPTED,70,100.00%,100.00%,0.160,2.5859375
+tornjevi,gpt-oss-120b_sp1,ACCEPTED,90,100.00%,100.00%,0.340,12.8984375
+crtez,gpt-oss-120b_sp1,TIME_LIMIT_EXCEEDED,20,16.67%,42.55%,2.410,2.84375
+stablo,gpt-oss-120b_sp1,ACCEPTED,120,100.00%,100.00%,0.950,134.84375

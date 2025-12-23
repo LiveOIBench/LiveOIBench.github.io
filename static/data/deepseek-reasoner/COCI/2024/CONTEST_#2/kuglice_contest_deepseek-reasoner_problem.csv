@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
-kuglice_deepseek-reasoner_0.cpp,RUNTIME_ERROR,0,6.76%,0.000,0,0,0,0,0,0
-kuglice_deepseek-reasoner_1.cpp,ACCEPTED,110,100.00%,0.070,35.84765625,17,10,26,15,42
-kuglice_deepseek-reasoner_2.cpp,TIME_LIMIT_EXCEEDED,51,67.57%,0.580,35.84375,0,10,26,15,0
-kuglice_deepseek-reasoner_3.cpp,RUNTIME_ERROR,0,9.46%,0.030,0,0,0,0,0,0
-kuglice_deepseek-reasoner_4.cpp,ACCEPTED,110,100.00%,0.070,35.84375,17,10,26,15,42
-kuglice_deepseek-reasoner_5.cpp,ACCEPTED,110,100.00%,0.440,36.09765625,17,10,26,15,42
-kuglice_deepseek-reasoner_6.cpp,ACCEPTED,110,100.00%,0.400,35.84375,17,10,26,15,42
-kuglice_deepseek-reasoner_7.cpp,TIME_LIMIT_EXCEEDED,51,67.57%,0.570,35.84375,0,10,26,15,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+kuglice_deepseek-reasoner_0.cpp,RUNTIME_ERROR,0,0.00%,6.76%,0.050,0,0,0,0,0,0
+kuglice_deepseek-reasoner_1.cpp,ACCEPTED,110,100.00%,100.00%,0.080,35.84765625,17,10,26,15,42
+kuglice_deepseek-reasoner_2.cpp,TIME_LIMIT_EXCEEDED,51,46.36%,67.57%,0.630,35.84375,0,10,26,15,0
+kuglice_deepseek-reasoner_3.cpp,RUNTIME_ERROR,0,0.00%,9.46%,0.070,28.62890625,0,0,0,0,0
+kuglice_deepseek-reasoner_4.cpp,ACCEPTED,110,100.00%,100.00%,0.100,35.84375,17,10,26,15,42
+kuglice_deepseek-reasoner_5.cpp,ACCEPTED,110,100.00%,100.00%,0.490,36.09765625,17,10,26,15,42
+kuglice_deepseek-reasoner_6.cpp,ACCEPTED,110,100.00%,100.00%,0.450,35.84375,17,10,26,15,42
+kuglice_deepseek-reasoner_7.cpp,TIME_LIMIT_EXCEEDED,93,84.55%,93.24%,0.650,35.84375,0,10,26,15,42

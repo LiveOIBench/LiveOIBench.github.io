@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-gold_Find_and_Replace,gpt-o3-mini-high,ACCEPTED,333,100.00%,1.540,25.01171875
-gold_Lights_Off,gpt-o3-mini-high,ACCEPTED,333,100.00%,0.360,4.1796875
-gold_Moo_Route,gpt-o3-mini-high,ACCEPTED,333,100.00%,0.050,9.80859375
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Find_and_Replace,gpt-o3-mini-high,ACCEPTED,333,103.42%,100.00%,1.560,25.015625
+gold_Lights_Off,gpt-o3-mini-high,ACCEPTED,333,102.78%,100.00%,0.390,4.18359375
+gold_Moo_Route,gpt-o3-mini-high,ACCEPTED,333,104.06%,100.00%,0.130,9.80859375

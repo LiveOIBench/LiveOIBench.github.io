@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+nile_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.70%,2.420,2452.1875,0,0,0,0,0,0,0,0
+nile_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,17,17.00%,23.73%,2.420,2446.9140625,0,0,0,17,0,0,0,0
+nile_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,17,17.00%,23.73%,2.410,31.46875,0,0,0,17,0,0,0,0
+nile_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,17,17.00%,45.07%,2.410,5.875,0,6,0,0,11,0,0,0
+nile_claude-sonnet-4.5_4.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.00%,0.810,2427.8359375,0,0,0,0,0,0,0,0
+nile_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.70%,2.410,2449.75,0,0,0,0,0,0,0,0
+nile_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,17,17.00%,45.07%,2.410,4.234375,0,6,0,0,11,0,0,0
+nile_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.70%,2.410,2436.859375,0,0,0,0,0,0,0,0

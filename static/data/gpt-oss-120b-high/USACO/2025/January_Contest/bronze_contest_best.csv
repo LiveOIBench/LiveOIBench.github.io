@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-bronze_Astral_Superposition,gpt-oss-120b-high,ACCEPTED,333,100.00%,0.100,3.34375
-bronze_Its_Mooin_Time_II,gpt-oss-120b-high,ACCEPTED,333,100.00%,0.110,16.76953125
-bronze_Cow_Checkups,gpt-oss-120b-high,ACCEPTED,333,100.00%,0.130,1.55859375
+problem,model,status,score,relative_score,%test passed,time,memory
+bronze_Astral_Superposition,gpt-oss-120b-high,ACCEPTED,333,100.91%,100.00%,0.180,3.49609375
+bronze_Its_Mooin_Time_II,gpt-oss-120b-high,ACCEPTED,333,100.91%,100.00%,0.200,17.54296875
+bronze_Cow_Checkups,gpt-oss-120b-high,ACCEPTED,333,100.91%,100.00%,0.210,1.55859375

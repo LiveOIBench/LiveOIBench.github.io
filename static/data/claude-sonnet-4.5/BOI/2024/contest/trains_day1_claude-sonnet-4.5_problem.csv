@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+trains_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,37,37.00%,85.11%,1.220,5.16796875,8,13,16,0,0
+trains_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,21,21.00%,89.47%,1.210,3.62109375,8,13,0,0,0
+trains_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,37,37.00%,81.72%,1.210,3.62109375,8,13,16,0,0
+trains_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,21,21.00%,75.82%,1.220,3.62109375,8,13,0,0,0
+trains_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,37,37.00%,85.11%,1.210,4.39453125,8,13,16,0,0
+trains_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,21,21.00%,79.35%,1.210,3.62109375,8,13,0,0,0
+trains_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,37,37.00%,81.72%,1.210,3.62109375,8,13,16,0,0
+trains_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,21,21.00%,75.82%,1.220,3.62109375,8,13,0,0,0

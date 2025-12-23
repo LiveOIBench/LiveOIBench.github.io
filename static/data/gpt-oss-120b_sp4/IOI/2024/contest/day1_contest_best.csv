@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+message,gpt-oss-120b_sp4,RUNTIME_ERROR,10,10.00%,44.44%,1.790,5.08203125
+nile,gpt-oss-120b_sp4,TIME_LIMIT_EXCEEDED,67,67.00%,83.76%,2.410,12.953125
+tree,gpt-oss-120b_sp4,TIME_LIMIT_EXCEEDED,10,10.00%,25.88%,2.410,6.9765625

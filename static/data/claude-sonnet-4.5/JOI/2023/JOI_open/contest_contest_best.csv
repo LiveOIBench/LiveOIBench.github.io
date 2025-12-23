@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+2023-open-t1_Ancient_Machine_2,claude-sonnet-4.5,RUNTIME_ERROR,0,0.00%,0.00%,0.020,1.484375
+2023-open-t2_Cell_Automaton,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,16,16.00%,79.23%,7.200,928.90625
+2023-open-t3_Garden,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,0,0.00%,72.11%,2.410,12.9453125

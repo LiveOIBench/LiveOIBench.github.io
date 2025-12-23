@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_The_Best_Subsequence_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.420,14.453125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_The_Best_Subsequence_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,59,18.27%,30.00%,2.410,174.875,0,19.6078431372549,0,0,0,0,0,0,0,0,0,19.6078431372549,19.6078431372549,0,0,0,0,0
+gold_The_Best_Subsequence_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,39,12.07%,25.00%,2.420,25.93359375,0,19.6078431372549,0,0,0,0,0,0,0,0,19.6078431372549,0,0,0,0,0,0,0
+gold_The_Best_Subsequence_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,15.00%,2.420,125.83203125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_The_Best_Subsequence_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,59,18.27%,30.00%,2.420,129.5234375,0,19.6078431372549,0,0,0,0,0,0,0,0,0,19.6078431372549,19.6078431372549,0,0,0,0,0
+gold_The_Best_Subsequence_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,20,6.19%,20.00%,2.420,9.7734375,0,19.6078431372549,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_The_Best_Subsequence_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,15.00%,2.420,121.42578125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_The_Best_Subsequence_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,39,12.07%,25.00%,2.420,25.140625,0,19.6078431372549,0,0,0,0,0,0,0,0,19.6078431372549,0,0,0,0,0,0,0

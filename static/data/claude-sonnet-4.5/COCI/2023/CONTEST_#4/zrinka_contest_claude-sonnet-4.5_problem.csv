@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+zrinka_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,1.210,2.84375,0,0,0,0
+zrinka_claude-sonnet-4.5_1.cpp,RUNTIME_ERROR,15,21.43%,20.00%,0.020,2.0703125,15,0,0,0
+zrinka_claude-sonnet-4.5_2.cpp,RUNTIME_ERROR,15,21.43%,20.00%,0.020,1.8125,15,0,0,0
+zrinka_claude-sonnet-4.5_3.cpp,RUNTIME_ERROR,15,21.43%,20.00%,0.020,1.8125,15,0,0,0
+zrinka_claude-sonnet-4.5_4.cpp,RUNTIME_ERROR,15,21.43%,20.00%,0.010,0.00390625,15,0,0,0
+zrinka_claude-sonnet-4.5_5.cpp,RUNTIME_ERROR,15,21.43%,20.00%,0.010,0.00390625,15,0,0,0
+zrinka_claude-sonnet-4.5_6.cpp,RUNTIME_ERROR,15,21.43%,20.00%,0.010,0.00390625,15,0,0,0
+zrinka_claude-sonnet-4.5_7.cpp,RUNTIME_ERROR,35,50.00%,40.00%,0.030,2.0703125,15,20,0,0

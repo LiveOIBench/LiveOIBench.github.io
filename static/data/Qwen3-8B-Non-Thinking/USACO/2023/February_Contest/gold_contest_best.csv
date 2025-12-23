@@ -1,2 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-gold_Piling_Papers,Qwen3-8B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Equal_Sum_Subarrays,Qwen3-8B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0
+gold_Fertilizing_Pastures,Qwen3-8B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0
+gold_Piling_Papers,Qwen3-8B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0

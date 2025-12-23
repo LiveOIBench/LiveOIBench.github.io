@@ -1,0 +1,6 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+five,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,19,19.00%,28.12%,0.850,2.0703125
+game,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,8,8.00%,13.51%,1.800,25.0625
+lexgcd,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,6,6.00%,9.02%,1.810,5.1796875
+ones,claude-sonnet-4.5,WRONG_ANSWER,57,57.00%,0.00%,0.110,1.953125
+travel,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,20,20.00%,29.41%,1.210,33.7578125

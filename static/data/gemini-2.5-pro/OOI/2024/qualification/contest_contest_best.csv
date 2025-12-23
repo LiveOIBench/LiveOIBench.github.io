@@ -1,10 +1,10 @@
-problem,model,status,score,%test passed,time,memory
-Colorful_Diameter,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,43,75.10%,7.710,27.828125
-Road_Lighting,gemini-2.5-pro,RUNTIME_ERROR,14,38.66%,0.380,8.19921875
-Repainting_the_Table,gemini-2.5-pro,ACCEPTED,100,100.00%,0.500,140.65625
-Distinctive_Features,gemini-2.5-pro,ACCEPTED,100,100.00%,0.530,47.4765625
-Classic_Tree_Problem,gemini-2.5-pro,RUNTIME_ERROR,0,0.00%,0.000,0
-Alien_Homophones,gemini-2.5-pro,ACCEPTED,100,100.00%,0.830,316.6328125
-Stone_Enthusiast,gemini-2.5-pro,ACCEPTED,100,100.00%,0.350,21.77734375
-Egors_Gaming_Addiction,gemini-2.5-pro,ACCEPTED,100,100.00%,0.690,227.07421875
-Ultrafast_train,gemini-2.5-pro,ACCEPTED,100,100.00%,0.200,18.40234375
+problem,model,status,score,relative_score,%test passed,time,memory
+Colorful_Diameter,gemini-2.5-pro,RUNTIME_ERROR,43,43.00%,75.70%,6.340,28.9609375
+Road_Lighting,gemini-2.5-pro,RUNTIME_ERROR,14,14.00%,38.66%,0.460,8.19921875
+Repainting_the_Table,gemini-2.5-pro,UNKNOWN,0,0.00%,0.00%,0.000,0
+Distinctive_Features,gemini-2.5-pro,ACCEPTED,100,100.00%,100.00%,0.440,47.4765625
+Classic_Tree_Problem,gemini-2.5-pro,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0
+Alien_Homophones,gemini-2.5-pro,ACCEPTED,100,100.00%,100.00%,0.730,316.62890625
+Stone_Enthusiast,gemini-2.5-pro,ACCEPTED,100,100.00%,100.00%,0.290,21.7421875
+Egors_Gaming_Addiction,gemini-2.5-pro,ACCEPTED,100,100.00%,100.00%,0.590,227.07421875
+Ultrafast_train,gemini-2.5-pro,ACCEPTED,100,100.00%,100.00%,0.180,18.38671875

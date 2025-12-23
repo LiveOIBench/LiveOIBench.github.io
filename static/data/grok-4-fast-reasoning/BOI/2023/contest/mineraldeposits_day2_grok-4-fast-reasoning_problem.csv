@@ -1,0 +1,8 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+mineraldeposits_grok-4-fast-reasoning_0.cpp,RUNTIME_ERROR,0,0.00%,45.90%,0.000,1.48828125,0,0,0,0,0,0,0,0
+mineraldeposits_grok-4-fast-reasoning_1.cpp,TIME_LIMIT_EXCEEDED,9,9.00%,53.38%,0.000,1.546875,0,9,0,0,0,0,0,0
+mineraldeposits_grok-4-fast-reasoning_2.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.000,1.48828125,0,0,0,0,0,0,0,0
+mineraldeposits_grok-4-fast-reasoning_3.cpp,TIME_LIMIT_EXCEEDED,9,9.00%,53.38%,0.000,1.67578125,0,9,0,0,0,0,0,0
+mineraldeposits_grok-4-fast-reasoning_5.cpp,TIME_LIMIT_EXCEEDED,9,9.00%,53.38%,0.000,1.546875,0,9,0,0,0,0,0,0
+mineraldeposits_grok-4-fast-reasoning_6.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0
+mineraldeposits_grok-4-fast-reasoning_7.cpp,TIME_LIMIT_EXCEEDED,9,9.00%,53.38%,0.000,1.546875,0,9,0,0,0,0,0,0

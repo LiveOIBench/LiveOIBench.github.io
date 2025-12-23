@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_Target_Practice_II,grok-4-fast-reasoning,ACCEPTED,333,103.42%,100.00%,0.250,7.16015625
+silver_Test_Tubes,grok-4-fast-reasoning,WRONG_ANSWER,50,15.62%,14.29%,0.230,6.66015625
+silver_Moorbles,grok-4-fast-reasoning,ACCEPTED,333,100.91%,100.00%,0.080,32.3828125

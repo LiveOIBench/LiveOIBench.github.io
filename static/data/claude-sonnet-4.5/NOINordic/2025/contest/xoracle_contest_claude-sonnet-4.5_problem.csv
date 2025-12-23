@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+xoracle_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,57,57.00%,91.18%,1.800,3.85546875,8,5,9,11,24,0
+xoracle_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,57,57.00%,91.18%,1.800,3.55859375,8,5,9,11,24,0
+xoracle_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,57,57.00%,91.18%,1.800,3.55859375,8,5,9,11,24,0
+xoracle_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,57,57.00%,91.18%,1.800,3.94921875,8,5,9,11,24,0
+xoracle_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,57,57.00%,91.18%,1.800,3.5625,8,5,9,11,24,0
+xoracle_claude-sonnet-4.5_5.cpp,ACCEPTED,100,100.00%,100.00%,0.360,3.5625,8,5,9,11,24,43
+xoracle_claude-sonnet-4.5_6.cpp,ACCEPTED,100,100.00%,100.00%,0.350,3.8125,8,5,9,11,24,43
+xoracle_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,57,57.00%,91.18%,1.800,3.84375,8,5,9,11,24,0

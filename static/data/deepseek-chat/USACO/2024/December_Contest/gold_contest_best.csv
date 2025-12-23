@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-gold_Cowdependence,deepseek-chat,TIME_LIMIT_EXCEEDED,35,15.00%,2.270,4.390625
-gold_Interstellar_Intervals,deepseek-chat,TIME_LIMIT_EXCEEDED,50,26.09%,2.220,5.6953125
-gold_Job_Completion,deepseek-chat,WRONG_ANSWER,67,25.00%,0.150,6.03125
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Cowdependence,deepseek-chat,TIME_LIMIT_EXCEEDED,35,10.84%,15.00%,2.490,4.390625
+gold_Interstellar_Intervals,deepseek-chat,TIME_LIMIT_EXCEEDED,50,15.62%,26.09%,2.420,3.87109375
+gold_Job_Completion,deepseek-chat,WRONG_ANSWER,67,20.30%,25.00%,0.240,4.92578125

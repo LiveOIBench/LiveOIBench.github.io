@@ -1,0 +1,6 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+hijerarhija,grok-4-fast-reasoning,ACCEPTED,90,100.00%,100.00%,0.210,16.171875
+osobna,grok-4-fast-reasoning,ACCEPTED,50,100.00%,100.00%,0.000,0
+skokovi,grok-4-fast-reasoning,ACCEPTED,70,100.00%,100.00%,0.080,12.8984375
+uciteljica,grok-4-fast-reasoning,RUNTIME_ERROR,35,29.17%,32.79%,0.070,19.89453125
+zbunjenost,grok-4-fast-reasoning,ACCEPTED,120,100.00%,100.00%,0.240,101.265625

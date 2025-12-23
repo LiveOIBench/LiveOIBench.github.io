@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Colorful_Diameter_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,18,18.00%,54.38%,8.420,5.1640625,0.0,10.0,8.0,0,0,0,0,0,0,0
+Colorful_Diameter_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,18,18.00%,54.38%,8.410,5.1640625,0.0,10.0,8.0,0,0,0,0,0,0,0
+Colorful_Diameter_claude-sonnet-4.5_2.cpp,MEMORY_LIMIT_EXCEEDED,21,21.00%,46.52%,2.340,272.36328125,0.0,10.0,0,11.0,0,0,0,0,0,0
+Colorful_Diameter_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,18,18.00%,54.38%,8.410,5.1640625,0.0,10.0,8.0,0,0,0,0,0,0,0
+Colorful_Diameter_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,29,29.00%,64.61%,8.410,5.1640625,0.0,10.0,8.0,11.0,0,0,0,0,0,0
+Colorful_Diameter_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,18,18.00%,54.38%,8.410,5.1640625,0.0,10.0,8.0,0,0,0,0,0,0,0
+Colorful_Diameter_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,29,29.00%,64.61%,8.410,5.16796875,0.0,10.0,8.0,11.0,0,0,0,0,0,0
+Colorful_Diameter_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,29,29.00%,64.61%,8.420,5.16796875,0.0,10.0,8.0,11.0,0,0,0,0,0,0

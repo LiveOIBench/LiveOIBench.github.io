@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+bronze_Candy_Cane_Feast,claude-sonnet-4.5,ACCEPTED,333,102.46%,100.00%,0.050,4.39453125
+bronze_Cowntact_Tracing_2,claude-sonnet-4.5,WRONG_ANSWER,33,10.00%,25.00%,0.020,0.00390625
+bronze_Farmer_John_Actually_Farms,claude-sonnet-4.5,ACCEPTED,333,100.91%,100.00%,0.130,4.39453125

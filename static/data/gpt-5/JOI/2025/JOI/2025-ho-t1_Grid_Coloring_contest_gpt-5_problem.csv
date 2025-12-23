@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
-2025-ho-t1_Grid_Coloring_gpt-5_0.cpp,ACCEPTED,100,100.00%,0.110,26.05078125,15,10,20,25,30
-2025-ho-t1_Grid_Coloring_gpt-5_1.cpp,ACCEPTED,100,100.00%,0.100,26.05078125,15,10,20,25,30
-2025-ho-t1_Grid_Coloring_gpt-5_2.cpp,ACCEPTED,100,100.00%,0.100,25.79296875,15,10,20,25,30
-2025-ho-t1_Grid_Coloring_gpt-5_3.cpp,ACCEPTED,100,100.00%,0.110,13.67578125,15,10,20,25,30
-2025-ho-t1_Grid_Coloring_gpt-5_4.cpp,ACCEPTED,100,100.00%,0.100,32.23828125,15,10,20,25,30
-2025-ho-t1_Grid_Coloring_gpt-5_5.cpp,ACCEPTED,100,100.00%,0.080,13.67578125,15,10,20,25,30
-2025-ho-t1_Grid_Coloring_gpt-5_6.cpp,ACCEPTED,100,100.00%,0.110,32.4296875,15,10,20,25,30
-2025-ho-t1_Grid_Coloring_gpt-5_7.cpp,ACCEPTED,100,100.00%,0.180,25.79296875,15,10,20,25,30
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+2025-ho-t1_Grid_Coloring_gpt-5_0.cpp,ACCEPTED,100,100.00%,100.00%,0.230,26.046875,15,10,20,25,30
+2025-ho-t1_Grid_Coloring_gpt-5_1.cpp,ACCEPTED,100,100.00%,100.00%,0.260,26.046875,15,10,20,25,30
+2025-ho-t1_Grid_Coloring_gpt-5_2.cpp,ACCEPTED,100,100.00%,100.00%,0.230,16.5078125,15,10,20,25,30
+2025-ho-t1_Grid_Coloring_gpt-5_3.cpp,ACCEPTED,100,100.00%,100.00%,0.240,13.671875,15,10,20,25,30
+2025-ho-t1_Grid_Coloring_gpt-5_4.cpp,ACCEPTED,100,100.00%,100.00%,0.240,32.234375,15,10,20,25,30
+2025-ho-t1_Grid_Coloring_gpt-5_5.cpp,ACCEPTED,100,100.00%,100.00%,0.220,13.671875,15,10,20,25,30
+2025-ho-t1_Grid_Coloring_gpt-5_6.cpp,ACCEPTED,100,100.00%,100.00%,0.230,31.3671875,15,10,20,25,30
+2025-ho-t1_Grid_Coloring_gpt-5_7.cpp,ACCEPTED,100,100.00%,100.00%,0.330,25.7890625,15,10,20,25,30

@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+sweets_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,27,27.00%,37.10%,3.610,57.55859375,0,7,8,0,12,0,0,0
+sweets_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,27,27.00%,37.10%,3.620,57.55859375,0,7,8,0,12,0,0,0
+sweets_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,27,27.00%,37.10%,3.610,59.55859375,0,7,8,0,12,0,0,0
+sweets_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,27,27.00%,37.10%,3.620,269.421875,0,7,8,0,12,0,0,0
+sweets_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,27,27.00%,37.10%,3.620,57.55859375,0,7,8,0,12,0,0,0
+sweets_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,27,27.00%,37.10%,3.610,57.5546875,0,7,8,0,12,0,0,0
+sweets_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,27,27.00%,37.10%,3.610,87.6640625,0,7,8,0,12,0,0,0
+sweets_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,27,27.00%,37.10%,3.610,269.42578125,0,7,8,0,12,0,0,0

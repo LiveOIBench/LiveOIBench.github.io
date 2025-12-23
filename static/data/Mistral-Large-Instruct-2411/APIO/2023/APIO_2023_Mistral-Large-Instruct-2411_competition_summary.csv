@@ -1,3 +1,4 @@
-problem,status,score,%test passed,time,memory,pass_rate
-cyberland,COMPILATION_ERROR,0,0.00%,0.000,0,
-TOTAL,,0,0.00%,,,0.00%
+problem,status,score,relative_score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+sequence,TIME_LIMIT_EXCEEDED,11,11.00%,44.92%,1.840,4.90625,,0,11,0,0,0,0,0,0,0
+cyberland,MEMORY_LIMIT_EXCEEDED,15,15.00%,19.51%,1.020,2441.23046875,,0,0,8,0,0,7,0,0,0
+TOTAL,,26,,32.21%,,,0.00%,,,,,,,,,

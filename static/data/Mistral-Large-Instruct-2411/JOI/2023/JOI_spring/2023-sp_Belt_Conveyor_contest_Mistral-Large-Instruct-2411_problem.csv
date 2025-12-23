@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4
-2023-sp_Belt_Conveyor_Mistral-Large-Instruct-2411_0.cpp,RUNTIME_ERROR,0,0.00%,0.690,14.24609375,0,0,0,0
-2023-sp_Belt_Conveyor_Mistral-Large-Instruct-2411_1.cpp,RUNTIME_ERROR,0,0.00%,0.670,5.98828125,0,0,0,0
-2023-sp_Belt_Conveyor_Mistral-Large-Instruct-2411_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0
-2023-sp_Belt_Conveyor_Mistral-Large-Instruct-2411_3.cpp,RUNTIME_ERROR,0,3.23%,0.170,18.7265625,0,0,0,0
-2023-sp_Belt_Conveyor_Mistral-Large-Instruct-2411_4.cpp,RUNTIME_ERROR,0,0.00%,0.130,0,0,0,0,0
-2023-sp_Belt_Conveyor_Mistral-Large-Instruct-2411_5.cpp,RUNTIME_ERROR,0,0.00%,0.710,24.16015625,0,0,0,0
-2023-sp_Belt_Conveyor_Mistral-Large-Instruct-2411_6.cpp,RUNTIME_ERROR,1,12.90%,0.680,5.71875,1,0,0,0
-2023-sp_Belt_Conveyor_Mistral-Large-Instruct-2411_7.cpp,RUNTIME_ERROR,1,12.90%,0.660,5.76171875,1,0,0,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4
+2023-sp_Belt_Conveyor_Mistral-Large-Instruct-2411_0.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.710,14.16796875,0,0,0,0
+2023-sp_Belt_Conveyor_Mistral-Large-Instruct-2411_1.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.720,6.359375,0,0,0,0
+2023-sp_Belt_Conveyor_Mistral-Large-Instruct-2411_2.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0
+2023-sp_Belt_Conveyor_Mistral-Large-Instruct-2411_3.cpp,RUNTIME_ERROR,0,0.00%,3.23%,0.200,18.82421875,0,0,0,0
+2023-sp_Belt_Conveyor_Mistral-Large-Instruct-2411_4.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.160,0.6328125,0,0,0,0
+2023-sp_Belt_Conveyor_Mistral-Large-Instruct-2411_5.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.710,24.23046875,0,0,0,0
+2023-sp_Belt_Conveyor_Mistral-Large-Instruct-2411_6.cpp,RUNTIME_ERROR,1,1.00%,12.90%,0.740,5.7421875,1,0,0,0
+2023-sp_Belt_Conveyor_Mistral-Large-Instruct-2411_7.cpp,RUNTIME_ERROR,1,1.00%,12.90%,0.700,5.75390625,1,0,0,0

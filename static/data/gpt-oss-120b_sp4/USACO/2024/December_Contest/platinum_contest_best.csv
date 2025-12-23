@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+platinum_All_Pairs_Similarity,gpt-oss-120b_sp4,TIME_LIMIT_EXCEEDED,48,14.91%,20.00%,2.460,100.46875
+platinum_Its_Mooin_Time,gpt-oss-120b_sp4,RUNTIME_ERROR,24,7.45%,16.67%,0.180,12.484375
+platinum_Maximize_Minimum_Difference,gpt-oss-120b_sp4,RUNTIME_ERROR,21,6.56%,10.00%,0.140,0.00390625

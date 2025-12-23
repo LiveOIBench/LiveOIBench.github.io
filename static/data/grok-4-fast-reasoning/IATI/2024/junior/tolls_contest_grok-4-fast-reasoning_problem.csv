@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+tolls_grok-4-fast-reasoning_0.cpp,ACCEPTED,100,100.00%,100.00%,0.090,6.22265625,0,5,5,10,20,10,20,30
+tolls_grok-4-fast-reasoning_1.cpp,ACCEPTED,100,100.00%,100.00%,0.090,8.0,0,5,5,10,20,10,20,30
+tolls_grok-4-fast-reasoning_2.cpp,ACCEPTED,100,100.00%,100.00%,0.110,12.1484375,0,5,5,10,20,10,20,30
+tolls_grok-4-fast-reasoning_3.cpp,ACCEPTED,100,100.00%,100.00%,0.100,5.9375,0,5,5,10,20,10,20,30
+tolls_grok-4-fast-reasoning_4.cpp,ACCEPTED,100,100.00%,100.00%,0.100,7.484375,0,5,5,10,20,10,20,30
+tolls_grok-4-fast-reasoning_5.cpp,ACCEPTED,100,100.00%,100.00%,0.110,5.93359375,0,5,5,10,20,10,20,30
+tolls_grok-4-fast-reasoning_6.cpp,ACCEPTED,100,100.00%,100.00%,0.090,8.765625,0,5,5,10,20,10,20,30
+tolls_grok-4-fast-reasoning_7.cpp,ACCEPTED,100,100.00%,100.00%,0.090,6.21875,0,5,5,10,20,10,20,30

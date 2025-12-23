@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+platinum_Min_Max_Subarrays,grok-4-fast-reasoning,WRONG_ANSWER,0,0.00%,23.08%,0.080,13.9296875
+platinum_Transforming_Pairs,grok-4-fast-reasoning,WRONG_ANSWER,0,0.00%,5.26%,0.120,0.00390625
+platinum_True_or_False_Test,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,105,32.51%,35.00%,3.610,12.125

@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+tornjevi_grok-4-fast-reasoning_0.cpp,MEMORY_LIMIT_EXCEEDED,64,71.11%,79.63%,1.100,495.01953125,7,11,17,29,0
+tornjevi_grok-4-fast-reasoning_1.cpp,MEMORY_LIMIT_EXCEEDED,64,71.11%,79.63%,1.030,496.22265625,7,11,17,29,0
+tornjevi_grok-4-fast-reasoning_2.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0
+tornjevi_grok-4-fast-reasoning_3.cpp,ACCEPTED,90,100.00%,100.00%,1.330,193.32421875,7,11,17,29,26
+tornjevi_grok-4-fast-reasoning_4.cpp,ACCEPTED,90,100.00%,100.00%,0.430,85.34375,7,11,17,29,26
+tornjevi_grok-4-fast-reasoning_5.cpp,ACCEPTED,90,100.00%,100.00%,0.410,92.87109375,7,11,17,29,26
+tornjevi_grok-4-fast-reasoning_6.cpp,ACCEPTED,90,100.00%,100.00%,0.420,89.0546875,7,11,17,29,26
+tornjevi_grok-4-fast-reasoning_7.cpp,ACCEPTED,90,100.00%,100.00%,0.430,85.23828125,7,11,17,29,26

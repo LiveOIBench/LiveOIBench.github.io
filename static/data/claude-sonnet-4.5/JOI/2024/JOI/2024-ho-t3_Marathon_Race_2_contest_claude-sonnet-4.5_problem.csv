@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+2024-ho-t3_Marathon_Race_2_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,14,14.00%,77.46%,1.800,20.3359375,7,7,0,0,0,0,0
+2024-ho-t3_Marathon_Race_2_claude-sonnet-4.5_1.cpp,RUNTIME_ERROR,24,24.00%,83.54%,0.100,3.78125,7,7,10,0,0,0,0
+2024-ho-t3_Marathon_Race_2_claude-sonnet-4.5_2.cpp,RUNTIME_ERROR,24,24.00%,83.54%,0.070,3.6640625,7,7,10,0,0,0,0
+2024-ho-t3_Marathon_Race_2_claude-sonnet-4.5_3.cpp,RUNTIME_ERROR,24,24.00%,83.54%,0.070,3.73046875,7,7,10,0,0,0,0
+2024-ho-t3_Marathon_Race_2_claude-sonnet-4.5_4.cpp,RUNTIME_ERROR,24,24.00%,83.54%,0.070,3.734375,7,7,10,0,0,0,0
+2024-ho-t3_Marathon_Race_2_claude-sonnet-4.5_5.cpp,RUNTIME_ERROR,7,7.00%,58.82%,0.000,0,7,0,0,0,0,0,0
+2024-ho-t3_Marathon_Race_2_claude-sonnet-4.5_6.cpp,RUNTIME_ERROR,24,24.00%,83.54%,0.070,3.73046875,7,7,10,0,0,0,0
+2024-ho-t3_Marathon_Race_2_claude-sonnet-4.5_7.cpp,RUNTIME_ERROR,24,24.00%,83.54%,0.070,4.0390625,7,7,10,0,0,0,0

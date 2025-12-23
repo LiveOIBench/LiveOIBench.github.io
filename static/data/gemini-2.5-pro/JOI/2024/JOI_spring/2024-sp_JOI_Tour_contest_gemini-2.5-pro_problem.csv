@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
-2024-sp_JOI_Tour_gemini-2.5-pro_0.cpp,TIME_LIMIT_EXCEEDED,52,55.41%,3.610,44.9375,6,8,6,16,16,0,0
-2024-sp_JOI_Tour_gemini-2.5-pro_1.cpp,TIME_LIMIT_EXCEEDED,52,55.41%,3.610,48.7421875,6,8,6,16,16,0,0
-2024-sp_JOI_Tour_gemini-2.5-pro_2.cpp,RUNTIME_ERROR,0,9.74%,0.160,45.38671875,0,0,0,0,0,0,0
-2024-sp_JOI_Tour_gemini-2.5-pro_3.cpp,TIME_LIMIT_EXCEEDED,52,56.05%,3.610,44.8515625,6,8,6,16,16,0,0
-2024-sp_JOI_Tour_gemini-2.5-pro_4.cpp,RUNTIME_ERROR,0,9.74%,0.150,49.49609375,0,0,0,0,0,0,0
-2024-sp_JOI_Tour_gemini-2.5-pro_5.cpp,TIME_LIMIT_EXCEEDED,52,56.05%,3.610,46.421875,6,8,6,16,16,0,0
-2024-sp_JOI_Tour_gemini-2.5-pro_6.cpp,RUNTIME_ERROR,0,9.74%,0.180,48.73828125,0,0,0,0,0,0,0
-2024-sp_JOI_Tour_gemini-2.5-pro_7.cpp,TIME_LIMIT_EXCEEDED,52,55.41%,3.610,95.63671875,6,8,6,16,16,0,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+2024-sp_JOI_Tour_gemini-2.5-pro_0.cpp,TIME_LIMIT_EXCEEDED,52,52.00%,55.41%,3.600,32.8828125,6,8,6,16,16,0,0
+2024-sp_JOI_Tour_gemini-2.5-pro_1.cpp,TIME_LIMIT_EXCEEDED,52,52.00%,55.41%,3.610,36.62109375,6,8,6,16,16,0,0
+2024-sp_JOI_Tour_gemini-2.5-pro_2.cpp,RUNTIME_ERROR,0,0.00%,9.74%,0.280,37.9140625,0,0,0,0,0,0,0
+2024-sp_JOI_Tour_gemini-2.5-pro_3.cpp,TIME_LIMIT_EXCEEDED,52,52.00%,56.05%,3.790,42.53125,6,8,6,16,16,0,0
+2024-sp_JOI_Tour_gemini-2.5-pro_4.cpp,RUNTIME_ERROR,0,0.00%,9.74%,0.330,42.25,0,0,0,0,0,0,0
+2024-sp_JOI_Tour_gemini-2.5-pro_5.cpp,TIME_LIMIT_EXCEEDED,52,52.00%,56.05%,3.600,44.09765625,6,8,6,16,16,0,0
+2024-sp_JOI_Tour_gemini-2.5-pro_6.cpp,RUNTIME_ERROR,0,0.00%,9.74%,0.300,48.7421875,0,0,0,0,0,0,0
+2024-sp_JOI_Tour_gemini-2.5-pro_7.cpp,TIME_LIMIT_EXCEEDED,52,52.00%,55.41%,3.600,91.5390625,6,8,6,16,16,0,0

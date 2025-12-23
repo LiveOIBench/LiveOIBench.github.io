@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-toy,deepseek-chat,RUNTIME_ERROR,0,52.60%,0.020,1.55078125
-stations,deepseek-chat,TIME_LIMIT_EXCEEDED,18,52.54%,3.860,14.9296875
-sprinklers,deepseek-chat,RUNTIME_ERROR,9,47.01%,0.050,3.10546875
+problem,model,status,score,relative_score,%test passed,time,memory
+toy,deepseek-chat,RUNTIME_ERROR,0,0.00%,52.60%,0.040,1.55078125
+stations,deepseek-chat,TIME_LIMIT_EXCEEDED,18,18.00%,52.54%,4.210,14.94140625
+sprinklers,deepseek-chat,RUNTIME_ERROR,9,9.00%,47.01%,0.060,3.10546875

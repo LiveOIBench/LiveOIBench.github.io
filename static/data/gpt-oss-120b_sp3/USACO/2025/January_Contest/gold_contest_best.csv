@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Median_Heap,gpt-oss-120b_sp3,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0
+gold_Reachable_Pairs,gpt-oss-120b_sp3,WRONG_ANSWER,50,15.62%,26.09%,0.420,101.375
+gold_Photo_Op,gpt-oss-120b_sp3,RUNTIME_ERROR,22,6.67%,5.56%,0.600,25.2734375

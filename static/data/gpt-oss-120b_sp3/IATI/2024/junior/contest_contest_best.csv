@@ -1,0 +1,6 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+aquarelle,gpt-oss-120b_sp3,ACCEPTED,100,100.00%,100.00%,0.360,80.41015625
+parentheses,gpt-oss-120b_sp3,ACCEPTED,100,100.00%,100.00%,0.090,7.2265625
+tolls,gpt-oss-120b_sp3,ACCEPTED,100,100.00%,100.00%,0.080,6.453125
+twins,gpt-oss-120b_sp3,UNKNOWN,0,0.00%,0.00%,0.000,0
+xy,gpt-oss-120b_sp3,RUNTIME_ERROR,0,0.00%,0.00%,0.030,9.8046875

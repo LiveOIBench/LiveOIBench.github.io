@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+abc_claude-sonnet-4.5_0.cpp,RUNTIME_ERROR,4,4.00%,25.93%,0.170,232.12109375,4,0,0,0,0,0,0,0,0
+abc_claude-sonnet-4.5_1.cpp,RUNTIME_ERROR,28,28.00%,43.33%,0.240,339.9765625,4,0,0,24,0,0,0,0,0
+abc_claude-sonnet-4.5_2.cpp,RUNTIME_ERROR,12,12.00%,39.29%,0.200,232.015625,4,4,4,0,0,0,0,0,0
+abc_claude-sonnet-4.5_3.cpp,RUNTIME_ERROR,12,12.00%,48.39%,0.120,232.26953125,4,4,4,0,0,0,0,0,0
+abc_claude-sonnet-4.5_4.cpp,RUNTIME_ERROR,36,36.00%,63.89%,0.210,231.65625,4,4,4,24,0,0,0,0,0
+abc_claude-sonnet-4.5_5.cpp,RUNTIME_ERROR,12,12.00%,48.39%,0.200,232.13671875,4,4,4,0,0,0,0,0,0
+abc_claude-sonnet-4.5_6.cpp,RUNTIME_ERROR,12,12.00%,48.39%,0.200,232.1640625,4,4,4,0,0,0,0,0,0
+abc_claude-sonnet-4.5_7.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.190,231.8828125,0,0,0,0,0,0,0,0,0

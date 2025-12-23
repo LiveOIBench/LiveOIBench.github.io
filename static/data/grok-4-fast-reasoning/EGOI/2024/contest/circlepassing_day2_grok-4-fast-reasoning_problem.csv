@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+circlepassing_grok-4-fast-reasoning_0.cpp,RUNTIME_ERROR,14,14.00%,35.87%,0.020,0.00390625,0,14,0,0,0,0
+circlepassing_grok-4-fast-reasoning_1.cpp,ACCEPTED,100,100.00%,100.00%,0.060,5.16796875,0,14,20,22,17,27
+circlepassing_grok-4-fast-reasoning_2.cpp,RUNTIME_ERROR,14,14.00%,35.87%,0.010,0.00390625,0,14,0,0,0,0
+circlepassing_grok-4-fast-reasoning_3.cpp,ACCEPTED,100,100.00%,100.00%,0.060,9.03125,0,14,20,22,17,27
+circlepassing_grok-4-fast-reasoning_4.cpp,ACCEPTED,100,100.00%,100.00%,0.040,5.16796875,0,14,20,22,17,27
+circlepassing_grok-4-fast-reasoning_5.cpp,ACCEPTED,100,100.00%,100.00%,0.060,5.1640625,0,14,20,22,17,27
+circlepassing_grok-4-fast-reasoning_6.cpp,ACCEPTED,100,100.00%,100.00%,0.060,5.16796875,0,14,20,22,17,27
+circlepassing_grok-4-fast-reasoning_7.cpp,RUNTIME_ERROR,14,14.00%,35.87%,0.010,0.00390625,0,14,0,0,0,0

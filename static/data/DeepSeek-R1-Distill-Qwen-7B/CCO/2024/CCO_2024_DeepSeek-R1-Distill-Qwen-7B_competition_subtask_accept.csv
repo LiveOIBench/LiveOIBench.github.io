@@ -1,2 +1,6 @@
-problem,subtask_0,subtask_1,subtask_2,subtask_3
-s3,0,0,0,0
+problem,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+s3,0,0,0,0,-1,-1,-1
+s4,0,0,0,0,-1,-1,-1
+d2p1,0,-1,-1,-1,-1,-1,-1
+d2p3,0,0,0,0,0,0,0
+j5,0,0,0,0,-1,-1,-1

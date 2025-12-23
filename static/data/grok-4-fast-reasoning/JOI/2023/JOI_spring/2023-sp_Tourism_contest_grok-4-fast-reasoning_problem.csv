@@ -1,0 +1,8 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+2023-sp_Tourism_grok-4-fast-reasoning_0.cpp,TIME_LIMIT_EXCEEDED,35,35.00%,89.89%,4.820,37.1328125,5,5,7,18,0,0
+2023-sp_Tourism_grok-4-fast-reasoning_1.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0
+2023-sp_Tourism_grok-4-fast-reasoning_3.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0
+2023-sp_Tourism_grok-4-fast-reasoning_4.cpp,TIME_LIMIT_EXCEEDED,28,28.00%,81.22%,4.820,28.359375,5,5,0,18,0,0
+2023-sp_Tourism_grok-4-fast-reasoning_5.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0
+2023-sp_Tourism_grok-4-fast-reasoning_6.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0
+2023-sp_Tourism_grok-4-fast-reasoning_7.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.060,18.30078125,0,0,0,0,0,0

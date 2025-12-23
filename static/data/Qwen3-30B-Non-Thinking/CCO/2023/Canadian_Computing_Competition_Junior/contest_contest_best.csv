@@ -1,5 +1,5 @@
-problem,model,status,score,%test passed,time,memory
-j2,Qwen3-30B-Non-Thinking,ACCEPTED,15,100.00%,0.000,0
-j3,Qwen3-30B-Non-Thinking,ACCEPTED,15,100.00%,0.000,0
-s1j4,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,6,52.50%,0.030,0
-j5,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,6,72.22%,0.040,0
+problem,model,status,score,relative_score,%test passed,time,memory
+j2,Qwen3-30B-Non-Thinking,ACCEPTED,15,100.00%,100.00%,0.000,0
+j3,Qwen3-30B-Non-Thinking,ACCEPTED,15,100.00%,100.00%,0.000,0
+s1j4,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,6,40.00%,52.50%,0.040,1.5546875
+j5,Qwen3-30B-Non-Thinking,RUNTIME_ERROR,6,40.00%,72.22%,0.000,0

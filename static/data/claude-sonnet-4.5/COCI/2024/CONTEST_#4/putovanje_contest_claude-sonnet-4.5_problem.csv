@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+putovanje_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,45,40.91%,46.76%,2.420,6.40234375,10,0,35,0
+putovanje_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,65,59.09%,64.03%,2.410,5.15625,10,20,35,0
+putovanje_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,65,59.09%,64.03%,2.410,7.48046875,10,20,35,0
+putovanje_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,65,59.09%,64.03%,2.410,6.19140625,10,20,35,0
+putovanje_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,65,59.09%,64.03%,2.410,5.16015625,10,20,35,0
+putovanje_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,65,59.09%,64.03%,2.420,6.4453125,10,20,35,0
+putovanje_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,45,40.91%,46.76%,2.420,4.390625,10,0,35,0
+putovanje_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,65,59.09%,68.35%,2.410,5.19140625,10,20,35,0

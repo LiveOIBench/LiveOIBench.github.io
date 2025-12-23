@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+vrsta_claude-sonnet-4.5_0.cpp,ACCEPTED,110,100.00%,100.00%,0.220,19.6015625,19,26,29,36
+vrsta_claude-sonnet-4.5_1.cpp,ACCEPTED,110,100.00%,100.00%,0.200,19.58984375,19,26,29,36
+vrsta_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,19,17.27%,20.00%,1.220,3.6171875,19,0,0,0
+vrsta_claude-sonnet-4.5_3.cpp,ACCEPTED,110,100.00%,100.00%,0.290,19.6015625,19,26,29,36
+vrsta_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,19,17.27%,20.00%,1.210,3.6171875,19,0,0,0
+vrsta_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,19,17.27%,20.00%,1.210,3.6171875,19,0,0,0
+vrsta_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,19,17.27%,20.00%,1.220,3.359375,19,0,0,0
+vrsta_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,19,17.27%,20.00%,1.230,3.6171875,19,0,0,0

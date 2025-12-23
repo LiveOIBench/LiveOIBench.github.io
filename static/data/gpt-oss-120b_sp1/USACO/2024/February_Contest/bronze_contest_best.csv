@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+bronze_Palindrome_Game,gpt-oss-120b_sp1,ACCEPTED,333,102.78%,100.00%,0.140,1.5546875
+bronze_Milk_Exchange,gpt-oss-120b_sp1,ACCEPTED,333,102.46%,100.00%,0.140,5.59765625
+bronze_Maximizing_Productivity,gpt-oss-120b_sp1,ACCEPTED,333,104.06%,100.00%,0.200,3.62109375

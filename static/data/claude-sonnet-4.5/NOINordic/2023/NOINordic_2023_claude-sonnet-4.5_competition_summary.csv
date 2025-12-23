@@ -1,0 +1,5 @@
+problem,status,score,relative_score,%test passed,time,memory,pass_rate,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+icecreammachines,ACCEPTED,100,100.00%,100.00%,0.110,19.90234375,,7,12,22,11,14,13,21
+chatnoi,TIME_LIMIT_EXCEEDED,22,22.00%,68.04%,4.810,447.15234375,,5,0,17,0,0,0,0
+islandalliances,ACCEPTED,100,100.00%,100.00%,0.490,20.88671875,,15,17,20,23,25,0,0
+TOTAL,,222,,89.35%,,,66.67%,,,,,,,

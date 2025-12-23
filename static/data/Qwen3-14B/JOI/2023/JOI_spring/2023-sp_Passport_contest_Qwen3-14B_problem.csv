@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
-2023-sp_Passport_Qwen3-14B_0.cpp,RUNTIME_ERROR,6,43.28%,0.190,34.04296875,6,0,0,0,0
-2023-sp_Passport_Qwen3-14B_1.cpp,RUNTIME_ERROR,0,0.00%,0.130,0.00390625,0,0,0,0,0
-2023-sp_Passport_Qwen3-14B_2.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.120,0.00390625,0,0,0,0,0
-2023-sp_Passport_Qwen3-14B_3.cpp,RUNTIME_ERROR,6,47.14%,0.210,24.73828125,6,0,0,0,0
-2023-sp_Passport_Qwen3-14B_4.cpp,RUNTIME_ERROR,6,43.28%,0.150,9.91015625,6,0,0,0,0
-2023-sp_Passport_Qwen3-14B_5.cpp,RUNTIME_ERROR,6,47.14%,0.160,8.51953125,6,0,0,0,0
-2023-sp_Passport_Qwen3-14B_6.cpp,RUNTIME_ERROR,0,0.00%,0.000,0,0,0,0,0,0
-2023-sp_Passport_Qwen3-14B_7.cpp,RUNTIME_ERROR,6,43.28%,0.190,31.9765625,6,0,0,0,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+2023-sp_Passport_Qwen3-14B_0.cpp,RUNTIME_ERROR,6,6.00%,43.28%,0.230,34.04296875,6,0,0,0,0
+2023-sp_Passport_Qwen3-14B_1.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.160,0.00390625,0,0,0,0,0
+2023-sp_Passport_Qwen3-14B_2.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.00%,0.150,1.69921875,0,0,0,0,0
+2023-sp_Passport_Qwen3-14B_3.cpp,RUNTIME_ERROR,6,6.00%,47.14%,0.240,28.171875,6,0,0,0,0
+2023-sp_Passport_Qwen3-14B_4.cpp,RUNTIME_ERROR,6,6.00%,43.28%,0.200,10.68359375,6,0,0,0,0
+2023-sp_Passport_Qwen3-14B_5.cpp,RUNTIME_ERROR,6,6.00%,47.14%,0.180,8.51953125,6,0,0,0,0
+2023-sp_Passport_Qwen3-14B_6.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0
+2023-sp_Passport_Qwen3-14B_7.cpp,RUNTIME_ERROR,6,6.00%,43.28%,0.230,31.97265625,6,0,0,0,0

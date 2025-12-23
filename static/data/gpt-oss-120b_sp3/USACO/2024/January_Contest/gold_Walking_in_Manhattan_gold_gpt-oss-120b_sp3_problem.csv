@@ -1,0 +1,14 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Walking_in_Manhattan_gpt-oss-120b_0.cpp,TIME_LIMIT_EXCEEDED,70,21.67%,20.00%,2.480,4.390625,0,17.543859649122805,0,0,0,0,0,0,0,0,0,0,0,17.543859649122805,17.543859649122805,17.543859649122805,0,0,0,0
+gold_Walking_in_Manhattan_gpt-oss-120b_1.cpp,TIME_LIMIT_EXCEEDED,140,43.34%,45.00%,2.430,5.9375,0,17.543859649122805,0,0,0,0,0,0,0,0,0,0,17.543859649122805,17.543859649122805,17.543859649122805,17.543859649122805,17.543859649122805,17.543859649122805,17.543859649122805,0
+gold_Walking_in_Manhattan_gpt-oss-120b_2.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Walking_in_Manhattan_gpt-oss-120b_2.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Walking_in_Manhattan_gpt-oss-120b_2.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Walking_in_Manhattan_gpt-oss-120b_2.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Walking_in_Manhattan_gpt-oss-120b_2.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Walking_in_Manhattan_gpt-oss-120b_2.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Walking_in_Manhattan_gpt-oss-120b_2.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Walking_in_Manhattan_gpt-oss-120b_3.cpp,WRONG_ANSWER,0,0.00%,0.00%,0.420,219.0625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Walking_in_Manhattan_gpt-oss-120b_4.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Walking_in_Manhattan_gpt-oss-120b_6.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Walking_in_Manhattan_gpt-oss-120b_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,5.00%,2.420,6.7109375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

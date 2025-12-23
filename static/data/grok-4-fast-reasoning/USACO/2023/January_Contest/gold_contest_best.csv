@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Find_and_Replace,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,238,73.91%,73.33%,2.410,83.82421875
+gold_Lights_Off,grok-4-fast-reasoning,ACCEPTED,333,102.78%,100.00%,0.420,42.64453125
+gold_Moo_Route,grok-4-fast-reasoning,ACCEPTED,333,104.06%,100.00%,0.030,10.0703125

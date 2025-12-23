@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+platinum_Identity_Theft,gpt-oss-120b_sp4,RUNTIME_ERROR,33,10.31%,12.00%,0.160,38.03125
+platinum_Splitting_Haybales,gpt-oss-120b_sp4,TIME_LIMIT_EXCEEDED,17,5.31%,13.64%,2.470,9.02734375
+platinum_Activating_Robots,gpt-oss-120b_sp4,RUNTIME_ERROR,200,62.50%,58.33%,0.150,2.84765625

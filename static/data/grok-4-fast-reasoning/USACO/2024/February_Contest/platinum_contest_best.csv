@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+platinum_Lazy_Cow,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,98,30.34%,40.00%,2.410,5.85546875
+platinum_Minimum_Sum_of_Maximums,grok-4-fast-reasoning,WRONG_ANSWER,50,15.62%,29.17%,0.010,0.00390625
+platinum_Infinite_Adventure,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,125,39.06%,44.44%,2.420,31.8046875

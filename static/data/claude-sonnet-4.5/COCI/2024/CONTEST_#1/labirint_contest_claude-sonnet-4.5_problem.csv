@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+labirint_claude-sonnet-4.5_0.cpp,ACCEPTED,70,100.00%,100.00%,0.050,0.00390625,11,13,24,22
+labirint_claude-sonnet-4.5_1.cpp,ACCEPTED,70,100.00%,100.00%,0.270,3.1484375,11,13,24,22
+labirint_claude-sonnet-4.5_2.cpp,ACCEPTED,70,100.00%,100.00%,0.080,1.94140625,11,13,24,22
+labirint_claude-sonnet-4.5_3.cpp,ACCEPTED,70,100.00%,100.00%,0.250,2.3125,11,13,24,22
+labirint_claude-sonnet-4.5_4.cpp,ACCEPTED,70,100.00%,100.00%,0.620,3.6015625,11,13,24,22
+labirint_claude-sonnet-4.5_5.cpp,ACCEPTED,70,100.00%,100.00%,0.510,3.59375,11,13,24,22
+labirint_claude-sonnet-4.5_6.cpp,ACCEPTED,70,100.00%,100.00%,0.150,1.94921875,11,13,24,22
+labirint_claude-sonnet-4.5_7.cpp,ACCEPTED,70,100.00%,100.00%,0.250,2.28515625,11,13,24,22

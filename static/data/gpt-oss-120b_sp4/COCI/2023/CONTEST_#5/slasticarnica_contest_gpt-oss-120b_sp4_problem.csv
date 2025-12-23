@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+slasticarnica_gpt-oss-120b_0.cpp,ACCEPTED,110,100.00%,100.00%,0.140,1.55859375,21,31,58
+slasticarnica_gpt-oss-120b_1.cpp,RUNTIME_ERROR,21,19.09%,65.00%,0.140,1.5546875,21,0,0
+slasticarnica_gpt-oss-120b_2.cpp,RUNTIME_ERROR,0,0.00%,2.50%,0.090,1.58984375,0,0,0
+slasticarnica_gpt-oss-120b_3.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0
+slasticarnica_gpt-oss-120b_4.cpp,ACCEPTED,110,100.00%,100.00%,0.180,1.5859375,21,31,58
+slasticarnica_gpt-oss-120b_5.cpp,RUNTIME_ERROR,31,28.18%,67.50%,0.200,1.58984375,0,31,0
+slasticarnica_gpt-oss-120b_6.cpp,TIME_LIMIT_EXCEEDED,21,19.09%,27.50%,2.410,222.47265625,21,0,0
+slasticarnica_gpt-oss-120b_7.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.050,22.4296875,0,0,0

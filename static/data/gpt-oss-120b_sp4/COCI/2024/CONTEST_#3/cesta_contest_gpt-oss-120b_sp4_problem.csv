@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+cesta_gpt-oss-120b_0.cpp,RUNTIME_ERROR,0,0.00%,0.92%,0.060,12.125,0,0,0,0
+cesta_gpt-oss-120b_1.cpp,RUNTIME_ERROR,0,0.00%,0.92%,0.040,13.9296875,0,0,0,0
+cesta_gpt-oss-120b_2.cpp,ACCEPTED,110,100.00%,100.00%,0.840,134.83203125,10,30,30,40
+cesta_gpt-oss-120b_3.cpp,ACCEPTED,110,100.00%,100.00%,0.770,123.54296875,10,30,30,40
+cesta_gpt-oss-120b_4.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.040,11.609375,0,0,0,0
+cesta_gpt-oss-120b_5.cpp,ACCEPTED,110,100.00%,100.00%,0.790,142.57421875,10,30,30,40
+cesta_gpt-oss-120b_6.cpp,ACCEPTED,110,100.00%,100.00%,0.860,139.515625,10,30,30,40
+cesta_gpt-oss-120b_7.cpp,RUNTIME_ERROR,0,0.00%,0.92%,0.030,12.3828125,0,0,0,0

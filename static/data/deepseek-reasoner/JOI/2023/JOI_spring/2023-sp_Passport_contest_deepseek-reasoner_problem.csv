@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
-2023-sp_Passport_deepseek-reasoner_0.cpp,RUNTIME_ERROR,6,43.28%,0.070,5.9375,6,0,0,0,0
-2023-sp_Passport_deepseek-reasoner_1.cpp,RUNTIME_ERROR,6,43.28%,0.060,5.94140625,6,0,0,0,0
-2023-sp_Passport_deepseek-reasoner_2.cpp,RUNTIME_ERROR,6,43.28%,0.070,26.625,6,0,0,0,0
-2023-sp_Passport_deepseek-reasoner_3.cpp,RUNTIME_ERROR,6,43.28%,0.080,33.53125,6,0,0,0,0
-2023-sp_Passport_deepseek-reasoner_4.cpp,RUNTIME_ERROR,6,47.14%,0.070,10.89453125,6,0,0,0,0
-2023-sp_Passport_deepseek-reasoner_5.cpp,RUNTIME_ERROR,6,43.28%,0.070,23.52734375,6,0,0,0,0
-2023-sp_Passport_deepseek-reasoner_6.cpp,RUNTIME_ERROR,6,43.28%,0.070,30.8671875,6,0,0,0,0
-2023-sp_Passport_deepseek-reasoner_7.cpp,RUNTIME_ERROR,6,43.28%,0.060,4.875,6,0,0,0,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+2023-sp_Passport_deepseek-reasoner_0.cpp,RUNTIME_ERROR,6,6.00%,43.28%,0.180,5.9375,6,0,0,0,0
+2023-sp_Passport_deepseek-reasoner_1.cpp,RUNTIME_ERROR,6,6.00%,43.28%,0.180,5.94140625,6,0,0,0,0
+2023-sp_Passport_deepseek-reasoner_2.cpp,RUNTIME_ERROR,6,6.00%,43.28%,0.180,29.19921875,6,0,0,0,0
+2023-sp_Passport_deepseek-reasoner_3.cpp,RUNTIME_ERROR,6,6.00%,43.28%,0.180,33.1015625,6,0,0,0,0
+2023-sp_Passport_deepseek-reasoner_4.cpp,RUNTIME_ERROR,6,6.00%,47.14%,0.180,9.34765625,6,0,0,0,0
+2023-sp_Passport_deepseek-reasoner_5.cpp,RUNTIME_ERROR,6,6.00%,43.28%,0.170,16.56640625,6,0,0,0,0
+2023-sp_Passport_deepseek-reasoner_6.cpp,RUNTIME_ERROR,6,6.00%,43.28%,0.180,16.5703125,6,0,0,0,0
+2023-sp_Passport_deepseek-reasoner_7.cpp,RUNTIME_ERROR,6,6.00%,43.28%,0.180,9.0,6,0,0,0,0

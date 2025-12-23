@@ -1,0 +1,6 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+five,gpt-oss-120b_sp3,TIME_LIMIT_EXCEEDED,62,62.00%,75.00%,0.850,14.50390625
+game,gpt-oss-120b_sp3,RUNTIME_ERROR,8,8.00%,13.51%,0.070,3.11328125
+lexgcd,gpt-oss-120b_sp3,RUNTIME_ERROR,0,0.00%,7.38%,0.030,2.07421875
+ones,gpt-oss-120b_sp3,WRONG_ANSWER,25,25.00%,0.00%,0.120,1.94921875
+travel,gpt-oss-120b_sp3,RUNTIME_ERROR,0,0.00%,3.57%,0.300,68.08203125

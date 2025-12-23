@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+abc_claude-haiku-4.5_0.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0
+abc_claude-haiku-4.5_1.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.110,6.79296875,0,0,0,0,0,0,0,0,0
+abc_claude-haiku-4.5_2.cpp,RUNTIME_ERROR,32,32.00%,51.61%,0.080,17.1953125,4,4,0,24,0,0,0,0,0
+abc_claude-haiku-4.5_3.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.120,7.7421875,0,0,0,0,0,0,0,0,0
+abc_claude-haiku-4.5_4.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.180,231.96875,0,0,0,0,0,0,0,0,0
+abc_claude-haiku-4.5_5.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.120,7.1796875,0,0,0,0,0,0,0,0,0
+abc_claude-haiku-4.5_6.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0
+abc_claude-haiku-4.5_7.cpp,RUNTIME_ERROR,12,12.00%,39.29%,0.230,236.9453125,4,4,4,0,0,0,0,0,0

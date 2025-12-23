@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+jobs,claude-sonnet-4.5,RUNTIME_ERROR,11,11.00%,10.14%,0.150,76.57421875
+portal,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,55,55.00%,79.10%,1.210,4.65625
+trains,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,37,37.00%,85.11%,1.210,4.39453125

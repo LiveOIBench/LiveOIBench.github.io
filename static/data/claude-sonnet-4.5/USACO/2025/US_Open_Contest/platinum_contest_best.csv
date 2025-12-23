@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+platinum_Forklift_Certified,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,24,7.45%,18.75%,2.410,266.390625
+platinum_Lazy_Sort,claude-sonnet-4.5,WRONG_ANSWER,0,0.00%,6.67%,0.030,0.00390625
+platinum_Package_Pickup,claude-sonnet-4.5,MEMORY_LIMIT_EXCEEDED,0,0.00%,10.00%,0.140,289.80078125

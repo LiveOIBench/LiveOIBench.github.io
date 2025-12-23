@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
-platinum_Infinite_Adventure_gpt-oss-120b-high_0.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,1.190,613.75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-platinum_Infinite_Adventure_gpt-oss-120b-high_1.cpp,RUNTIME_ERROR,83,22.22%,0.100,28.953125,0,0,20.833333333333332,0,0,0,0,0,0,0,0,0,0,0,20.833333333333332,20.833333333333332,20.833333333333332
-platinum_Infinite_Adventure_gpt-oss-120b-high_2.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.050,2.5859375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-platinum_Infinite_Adventure_gpt-oss-120b-high_3.cpp,TIME_LIMIT_EXCEEDED,83,33.33%,2.430,394.58203125,0,0,20.833333333333332,0,0,0,0,0,0,20.833333333333332,20.833333333333332,0,0,0,0,0,20.833333333333332
-platinum_Infinite_Adventure_gpt-oss-120b-high_4.cpp,RUNTIME_ERROR,0,11.11%,0.070,34.5703125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-platinum_Infinite_Adventure_gpt-oss-120b-high_5.cpp,TIME_LIMIT_EXCEEDED,125,44.44%,2.440,613.51953125,0,20.833333333333332,20.833333333333332,0,0,0,0,0,0,20.833333333333332,20.833333333333332,20.833333333333332,0,0,0,0,20.833333333333332
-platinum_Infinite_Adventure_gpt-oss-120b-high_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.070,4.12890625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-platinum_Infinite_Adventure_gpt-oss-120b-high_7.cpp,WRONG_ANSWER,83,33.33%,0.200,8.25390625,0,0,20.833333333333332,0,0,0,0,0,0,0,0,0,0,0,20.833333333333332,20.833333333333332,20.833333333333332
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Infinite_Adventure_gpt-oss-120b-high_0.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.00%,1.130,613.75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Infinite_Adventure_gpt-oss-120b-high_1.cpp,RUNTIME_ERROR,83,25.94%,22.22%,0.180,28.94921875,0,0,20.833333333333332,0,0,0,0,0,0,0,0,0,0,0,20.833333333333332,20.833333333333332,20.833333333333332
+platinum_Infinite_Adventure_gpt-oss-120b-high_2.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.00%,0.140,2.5859375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Infinite_Adventure_gpt-oss-120b-high_3.cpp,TIME_LIMIT_EXCEEDED,83,25.94%,33.33%,2.520,378.984375,0,0,20.833333333333332,0,0,0,0,0,0,20.833333333333332,20.833333333333332,0,0,0,0,0,20.833333333333332
+platinum_Infinite_Adventure_gpt-oss-120b-high_4.cpp,RUNTIME_ERROR,0,0.00%,11.11%,0.150,34.5703125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Infinite_Adventure_gpt-oss-120b-high_5.cpp,TIME_LIMIT_EXCEEDED,104,32.50%,38.89%,2.480,613.5234375,0,20.833333333333332,20.833333333333332,0,0,0,0,0,0,20.833333333333332,20.833333333333332,0,0,0,0,0,20.833333333333332
+platinum_Infinite_Adventure_gpt-oss-120b-high_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.00%,0.140,4.12890625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Infinite_Adventure_gpt-oss-120b-high_7.cpp,WRONG_ANSWER,83,25.94%,33.33%,0.270,8.2578125,0,0,20.833333333333332,0,0,0,0,0,0,0,0,0,0,0,20.833333333333332,20.833333333333332,20.833333333333332

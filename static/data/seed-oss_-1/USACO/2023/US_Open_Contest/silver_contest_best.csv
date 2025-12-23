@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-silver_Milk_Sum,seed-oss_-1,ACCEPTED,333,100.00%,0.100,3.62109375
-silver_Field_Day,seed-oss_-1,ACCEPTED,333,100.00%,0.040,3.4375
-silver_Pareidolia,seed-oss_-1,ACCEPTED,333,100.00%,0.020,1.49609375
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_Milk_Sum,seed-oss_-1,ACCEPTED,333,100.91%,100.00%,0.190,3.62109375
+silver_Field_Day,seed-oss_-1,ACCEPTED,333,103.10%,100.00%,0.140,3.44140625
+silver_Pareidolia,seed-oss_-1,ACCEPTED,333,100.91%,100.00%,0.110,1.49609375

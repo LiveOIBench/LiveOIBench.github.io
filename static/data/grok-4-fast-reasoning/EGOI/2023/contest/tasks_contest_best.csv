@@ -1,0 +1,8 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+bikesvscars,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.030,5.44921875
+candy,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.040,5.16796875
+carnival,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.070,3.36328125
+findthebox,grok-4-fast-reasoning,RUNTIME_ERROR,0,0.00%,0.00%,0.010,1.546875
+guessinggame,grok-4-fast-reasoning,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0
+inflation,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.170,19.59765625
+ppp,grok-4-fast-reasoning,RUNTIME_ERROR,0,0.00%,0.00%,0.060,13.56640625

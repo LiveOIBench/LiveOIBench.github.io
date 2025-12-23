@@ -1,0 +1,8 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+mostovi_grok-4-fast-reasoning_0.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.690,20.375,0,0,0,0,0
+mostovi_grok-4-fast-reasoning_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.73%,3.600,13.41796875,0,0,0,0,0
+mostovi_grok-4-fast-reasoning_3.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.040,11.609375,0,0,0,0,0
+mostovi_grok-4-fast-reasoning_4.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.090,20.91015625,0,0,0,0,0
+mostovi_grok-4-fast-reasoning_5.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0
+mostovi_grok-4-fast-reasoning_6.cpp,TIME_LIMIT_EXCEEDED,42,38.18%,72.16%,3.630,21.7421875,13,17,0,12,0
+mostovi_grok-4-fast-reasoning_7.cpp,TIME_LIMIT_EXCEEDED,42,38.18%,85.35%,3.600,25.87890625,13,17,0,12,0

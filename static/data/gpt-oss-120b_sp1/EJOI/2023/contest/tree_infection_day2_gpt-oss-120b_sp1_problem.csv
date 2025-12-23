@@ -1,0 +1,6 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+tree_infection_gpt-oss-120b_0.cpp,TIME_LIMIT_EXCEEDED,15,15.00%,14.81%,1.210,101.33203125,0,0,0,15,0,0,0
+tree_infection_gpt-oss-120b_1.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.220,78.8984375,0,0,0,0,0,0,0
+tree_infection_gpt-oss-120b_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,1.230,101.4375,0,0,0,0,0,0,0
+tree_infection_gpt-oss-120b_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,1.210,61.15234375,0,0,0,0,0,0,0
+tree_infection_gpt-oss-120b_4.cpp,RUNTIME_ERROR,15,15.00%,14.81%,0.340,120.515625,0,0,0,15,0,0,0

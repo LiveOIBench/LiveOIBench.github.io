@@ -1,0 +1,5 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+baltazar,grok-4-fast-reasoning,RUNTIME_ERROR,0,0.00%,0.00%,0.070,1.578125
+bomboni,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,63,57.27%,80.00%,2.420,255.48828125
+dirigent,grok-4-fast-reasoning,ACCEPTED,70,100.00%,100.00%,0.080,3.6171875
+estimathon,grok-4-fast-reasoning,ACCEPTED,50,100.00%,100.00%,0.000,0

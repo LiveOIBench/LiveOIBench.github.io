@@ -1,0 +1,7 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+cfduels,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.190,5.34765625
+cheese,grok-4-fast-reasoning,RUNTIME_ERROR,8,8.00%,20.51%,0.750,123.5625
+hora,grok-4-fast-reasoning,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0
+manypairs,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,63,63.00%,77.14%,2.430,94.02734375
+oldorhei,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.490,97.203125
+sweets,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,1.060,104.0390625

@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Moo_Route_claude-sonnet-4.5_0.cpp,MEMORY_LIMIT_EXCEEDED,50,15.62%,19.05%,0.930,306.8359375,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,16.666666666666664,0,0,0,0,0,0
+gold_Moo_Route_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.410,306.6328125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Moo_Route_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,50,15.62%,19.05%,2.420,306.4375,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,16.666666666666664,0,0,0,0,0,0
+gold_Moo_Route_claude-sonnet-4.5_3.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.00%,1.110,306.69140625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Moo_Route_claude-sonnet-4.5_4.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,4.76%,2.150,306.7734375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Moo_Route_claude-sonnet-4.5_5.cpp,MEMORY_LIMIT_EXCEEDED,50,15.62%,19.05%,1.950,306.6953125,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,16.666666666666664,0,0,0,0,0,0
+gold_Moo_Route_claude-sonnet-4.5_6.cpp,MEMORY_LIMIT_EXCEEDED,50,15.62%,19.05%,1.660,306.69140625,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,16.666666666666664,0,0,0,0,0,0
+gold_Moo_Route_claude-sonnet-4.5_7.cpp,MEMORY_LIMIT_EXCEEDED,50,15.62%,19.05%,1.330,306.6328125,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,16.666666666666664,0,0,0,0,0,0

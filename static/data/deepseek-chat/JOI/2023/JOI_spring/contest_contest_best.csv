@@ -1,13 +1,12 @@
-problem,model,status,score,%test passed,time,memory
-2023-sp_Two_Currencies,deepseek-chat,TIME_LIMIT_EXCEEDED,10,62.16%,4.410,26.5703125
-2023-sp_Festivals_in_JOI_Kingdom_2,deepseek-chat,RUNTIME_ERROR,0,13.33%,0.000,0
-2023-sp_Passport,deepseek-chat,RUNTIME_ERROR,6,43.28%,0.070,9.0546875
-2023-sp_Belt_Conveyor,deepseek-chat,RUNTIME_ERROR,1,12.90%,0.660,16.40625
-2023-sp_Council,deepseek-chat,TIME_LIMIT_EXCEEDED,8,79.14%,3.610,28.8828125
-2023-sp_Mizuyokan_2,deepseek-chat,RUNTIME_ERROR,0,0.00%,1.930,4.91015625
-2023-sp_Chorus,deepseek-chat,RUNTIME_ERROR,0,6.67%,0.040,0
-2023-sp_Cookies,deepseek-chat,RUNTIME_ERROR,0,15.97%,0.000,0
-2023-sp_Tourism,deepseek-chat,TIME_LIMIT_EXCEEDED,28,79.65%,4.410,16.484375
-2023-sp_Super_Dango_Maker,deepseek-chat,COMPILATION_ERROR,0,0.00%,0.000,0
-2023-sp_Security_Guard,deepseek-chat,RUNTIME_ERROR,0,5.95%,0.070,4.390625
-2023-sp_Bitaro’s_travel,deepseek-chat,RUNTIME_ERROR,0,14.52%,0.000,0
+problem,model,status,score,relative_score,%test passed,time,memory
+2023-sp_Two_Currencies,deepseek-chat,TIME_LIMIT_EXCEEDED,10,10.00%,62.16%,4.810,31.8125
+2023-sp_Festivals_in_JOI_Kingdom_2,deepseek-chat,RUNTIME_ERROR,0,0.00%,13.33%,0.000,0
+2023-sp_Passport,deepseek-chat,RUNTIME_ERROR,6,6.00%,43.28%,0.190,9.0546875
+2023-sp_Belt_Conveyor,deepseek-chat,RUNTIME_ERROR,1,1.00%,12.90%,0.780,16.43359375
+2023-sp_Council,deepseek-chat,TIME_LIMIT_EXCEEDED,8,8.00%,79.14%,3.660,28.8828125
+2023-sp_Mizuyokan_2,deepseek-chat,RUNTIME_ERROR,0,0.00%,0.00%,2.010,4.91015625
+2023-sp_Chorus,deepseek-chat,RUNTIME_ERROR,0,0.00%,6.67%,0.150,0
+2023-sp_Cookies,deepseek-chat,RUNTIME_ERROR,0,0.00%,15.97%,0.000,0
+2023-sp_Tourism,deepseek-chat,TIME_LIMIT_EXCEEDED,28,28.00%,79.65%,4.840,21.40234375
+2023-sp_Super_Dango_Maker,deepseek-chat,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0
+2023-sp_Security_Guard,deepseek-chat,RUNTIME_ERROR,0,0.00%,5.95%,0.180,5.1640625

@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+astronomer,claude-sonnet-4.5,RUNTIME_ERROR,8,8.00%,36.36%,1.170,0.00390625
+staringcontest,claude-sonnet-4.5,RUNTIME_ERROR,9,9.00%,48.72%,0.010,1.55078125
+tycho,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,32,32.00%,87.94%,2.410,32.703125

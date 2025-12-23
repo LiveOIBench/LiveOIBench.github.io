@@ -1,0 +1,7 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+d1p1,gpt-oss-120b_sp2,ACCEPTED,25,100.00%,100.00%,0.090,16.76953125
+d1p2,gpt-oss-120b_sp2,RUNTIME_ERROR,0,0.00%,1.90%,0.110,51.2109375
+d1p3,gpt-oss-120b_sp2,RUNTIME_ERROR,0,0.00%,4.81%,0.100,30.4296875
+d2p1,gpt-oss-120b_sp2,RUNTIME_ERROR,1,4.00%,29.46%,0.040,1.4921875
+d2p2,gpt-oss-120b_sp2,RUNTIME_ERROR,0,0.00%,1.56%,0.090,15.21875
+d2p3,gpt-oss-120b_sp2,RUNTIME_ERROR,5,20.00%,69.81%,0.200,21.140625

@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-gold_Cowreography,gpt-5,ACCEPTED,333,100.00%,0.040,16.3828125
-gold_Grass_Segments,gpt-5,ACCEPTED,333,100.00%,0.310,17.27734375
-gold_Smaller_Averages,gpt-5,ACCEPTED,333,100.00%,0.520,4.390625
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Cowreography,gpt-5,ACCEPTED,333,104.06%,100.00%,0.130,7.35546875
+gold_Grass_Segments,gpt-5,ACCEPTED,333,103.10%,100.00%,0.350,17.27734375
+gold_Smaller_Averages,gpt-5,ACCEPTED,333,104.06%,100.00%,0.570,4.90234375

@@ -1,2 +1,6 @@
 problem,model,status,score,relative_score,%test passed,time,memory
-s1,gpt-oss-20b-low,ACCEPTED,15,100.00%,100.00%,0.100,5.109375
+s1,gpt-oss-20b-low,ACCEPTED,15,100.00%,100.00%,0.120,5.109375
+s2,gpt-oss-20b-low,ACCEPTED,15,100.00%,100.00%,0.050,0.00390625
+s3,gpt-oss-20b-low,TIME_LIMIT_EXCEEDED,2,13.33%,17.14%,1.210,32.234375
+s4,gpt-oss-20b-low,RUNTIME_ERROR,0,0.00%,2.00%,0.100,17.0234375
+s5,gpt-oss-20b-low,RUNTIME_ERROR,0,0.00%,7.96%,0.060,4.39453125

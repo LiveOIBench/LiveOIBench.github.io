@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+bronze_Logical_Moos,gpt-oss-120b_sp2,ACCEPTED,333,106.73%,100.00%,0.080,10.3203125
+bronze_Walking_Along_a_Fence,gpt-oss-120b_sp2,ACCEPTED,333,100.91%,100.00%,0.060,7.484375
+bronze_Farmer_Johns_Favorite_Permutation,gpt-oss-120b_sp2,WRONG_ANSWER,0,0.00%,9.09%,0.220,6.3125

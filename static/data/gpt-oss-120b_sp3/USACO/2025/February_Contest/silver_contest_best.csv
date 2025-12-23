@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_The_Best_Lineup,gpt-oss-120b_sp3,WRONG_ANSWER,0,0.00%,5.56%,0.090,5.4296875
+silver_Vocabulary_Quiz,gpt-oss-120b_sp3,ACCEPTED,333,100.91%,100.00%,0.170,17.6875
+silver_Transforming_Pairs,gpt-oss-120b_sp3,ACCEPTED,333,100.91%,100.00%,0.020,0.00390625

@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-icecreammachines,gpt-4.1,ACCEPTED,100,100.00%,0.300,160.0390625
-chatnoi,gpt-4.1,RUNTIME_ERROR,29,73.52%,1.200,227.76953125
-islandalliances,gpt-4.1,ACCEPTED,100,100.00%,0.390,34.296875
+problem,model,status,score,relative_score,%test passed,time,memory
+icecreammachines,gpt-4.1,ACCEPTED,100,100.00%,100.00%,0.290,145.68359375
+chatnoi,gpt-4.1,RUNTIME_ERROR,29,29.00%,73.52%,1.110,227.765625
+islandalliances,gpt-4.1,ACCEPTED,100,100.00%,100.00%,0.380,34.0390625

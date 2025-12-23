@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+covid,grok-4-fast-reasoning,RUNTIME_ERROR,10,10.00%,70.37%,0.090,1.55078125
+battle,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,46,46.00%,89.08%,3.600,126.18359375
+editor,grok-4-fast-reasoning,RUNTIME_ERROR,5,5.00%,26.98%,0.070,37.390625

@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+platinum_All_Pairs_Similarity,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,48,14.91%,20.00%,2.410,17.29296875
+platinum_Its_Mooin_Time,claude-sonnet-4.5,MEMORY_LIMIT_EXCEEDED,48,14.91%,33.33%,0.130,295.76953125
+platinum_Maximize_Minimum_Difference,claude-sonnet-4.5,MEMORY_LIMIT_EXCEEDED,21,6.56%,20.00%,2.720,306.44921875

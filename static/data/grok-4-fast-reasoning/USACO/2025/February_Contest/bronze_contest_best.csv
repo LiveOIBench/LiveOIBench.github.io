@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+bronze_Reflection,grok-4-fast-reasoning,ACCEPTED,333,100.91%,100.00%,0.030,5.6796875
+bronze_Making_Mexes,grok-4-fast-reasoning,ACCEPTED,333,100.91%,100.00%,0.020,2.7890625
+bronze_Printing_Sequences,grok-4-fast-reasoning,ACCEPTED,333,100.91%,100.00%,0.080,1.5859375

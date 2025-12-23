@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+2024-sp_JOI_Tour_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,38,38.00%,21.84%,3.600,28.22265625,6,0,0,16,16,0,0
+2024-sp_JOI_Tour_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,52,52.00%,55.41%,3.600,51.0625,6,8,6,16,16,0,0
+2024-sp_JOI_Tour_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,46,46.00%,35.79%,3.610,1228.39453125,6,8,0,16,16,0,0
+2024-sp_JOI_Tour_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,52,52.00%,55.41%,3.620,37.9140625,6,8,6,16,16,0,0
+2024-sp_JOI_Tour_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,38,38.00%,21.84%,3.620,22.61328125,6,0,0,16,16,0,0
+2024-sp_JOI_Tour_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,52,52.00%,55.41%,3.630,49.2578125,6,8,6,16,16,0,0
+2024-sp_JOI_Tour_claude-sonnet-4.5_6.cpp,MEMORY_LIMIT_EXCEEDED,46,46.00%,35.79%,0.570,1221.26953125,6,8,0,16,16,0,0
+2024-sp_JOI_Tour_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,38,38.00%,21.84%,3.630,22.61328125,6,0,0,16,16,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Moo_Decomposition,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,143,45.40%,52.00%,2.420,139.41015625
+gold_Election_Queries,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,128,39.38%,46.67%,3.600,3.03125
+gold_OohMoo_Milk,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,59,18.27%,30.00%,2.420,2.0703125

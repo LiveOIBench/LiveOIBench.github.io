@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+bouquet,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.050,16.51171875
+infiniterace,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.030,3.5625
+teamcoding,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,1.590,36.453125

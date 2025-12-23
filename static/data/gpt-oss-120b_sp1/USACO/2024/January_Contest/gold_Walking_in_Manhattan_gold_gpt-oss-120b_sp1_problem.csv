@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Walking_in_Manhattan_gpt-oss-120b_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.440,2.84375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Walking_in_Manhattan_gpt-oss-120b_1.cpp,RUNTIME_ERROR,0,0.00%,0.00%,1.260,281.62109375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Walking_in_Manhattan_gpt-oss-120b_2.cpp,TIME_LIMIT_EXCEEDED,140,43.34%,45.00%,2.420,2.84375,0,17.543859649122805,0,0,0,0,0,0,0,0,0,0,17.543859649122805,17.543859649122805,17.543859649122805,17.543859649122805,17.543859649122805,17.543859649122805,17.543859649122805,0
+gold_Walking_in_Manhattan_gpt-oss-120b_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.520,6.7109375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Walking_in_Manhattan_gpt-oss-120b_4.cpp,TIME_LIMIT_EXCEEDED,35,10.84%,10.00%,2.470,78.38671875,0,0,0,0,0,0,0,0,0,0,0,0,0,17.543859649122805,0,17.543859649122805,0,0,0,0
+gold_Walking_in_Manhattan_gpt-oss-120b_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.460,4.5078125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Walking_in_Manhattan_gpt-oss-120b_6.cpp,MEMORY_LIMIT_EXCEEDED,53,16.41%,15.00%,0.240,282.828125,0,17.543859649122805,0,0,0,0,0,0,0,0,0,0,0,0,17.543859649122805,0,0,17.543859649122805,0,0
+gold_Walking_in_Manhattan_gpt-oss-120b_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.470,3.12890625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

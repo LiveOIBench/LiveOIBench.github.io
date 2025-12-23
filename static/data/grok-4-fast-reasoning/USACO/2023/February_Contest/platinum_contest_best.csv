@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+platinum_Hungry_Cow,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,17,5.31%,13.64%,7.210,2.84375
+platinum_Problem_Setting,grok-4-fast-reasoning,ACCEPTED,333,104.06%,100.00%,0.280,38.33203125
+platinum_Watching_Cowflix,grok-4-fast-reasoning,WRONG_ANSWER,15,4.55%,12.50%,0.070,39.171875

@@ -1,0 +1,8 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+bronze_Roundabout_Rounding,grok-4-fast-reasoning,ACCEPTED,333,102.78%,100.00%,0.020,0.00390625
+gold_Cowdependence,grok-4-fast-reasoning,MEMORY_LIMIT_EXCEEDED,0,0.00%,5.00%,0.030,10.3671875
+gold_Job_Completion,grok-4-fast-reasoning,WRONG_ANSWER,22,6.67%,12.50%,0.150,18.73046875
+platinum_All_Pairs_Similarity,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,238,73.91%,73.33%,2.410,106.34375
+platinum_Its_Mooin_Time,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,24,7.45%,11.11%,3.640,11.73046875
+platinum_Maximize_Minimum_Difference,grok-4-fast-reasoning,RUNTIME_ERROR,0,0.00%,5.00%,0.000,0.00390625
+silver_Cake_Game,grok-4-fast-reasoning,ACCEPTED,333,100.91%,100.00%,0.060,7.15234375

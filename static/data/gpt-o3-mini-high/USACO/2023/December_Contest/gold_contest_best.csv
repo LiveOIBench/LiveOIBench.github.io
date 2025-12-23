@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-gold_Flight_Routes,gpt-o3-mini-high,ACCEPTED,333,100.00%,0.050,3.6171875
-gold_Minimum_Longest_Trip,gpt-o3-mini-high,ACCEPTED,333,100.00%,0.520,154.1796875
-gold_Haybale_Distribution,gpt-o3-mini-high,ACCEPTED,333,100.00%,0.110,3.62109375
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Flight_Routes,gpt-o3-mini-high,ACCEPTED,333,104.06%,100.00%,0.120,3.6171875
+gold_Minimum_Longest_Trip,gpt-o3-mini-high,ACCEPTED,333,104.06%,100.00%,0.560,154.1796875
+gold_Haybale_Distribution,gpt-o3-mini-high,ACCEPTED,333,100.91%,100.00%,0.200,3.62109375

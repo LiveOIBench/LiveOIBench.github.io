@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+j4_claude-sonnet-4.5_0.cpp,ACCEPTED,15,100.00%,100.00%,0.040,2.5703125,3,3,5,4
+j4_claude-sonnet-4.5_1.cpp,ACCEPTED,15,100.00%,100.00%,0.030,3.828125,3,3,5,4
+j4_claude-sonnet-4.5_2.cpp,RUNTIME_ERROR,3,20.00%,35.48%,0.010,2.078125,3,0,0,0
+j4_claude-sonnet-4.5_3.cpp,ACCEPTED,15,100.00%,100.00%,0.020,2.48828125,3,3,5,4
+j4_claude-sonnet-4.5_4.cpp,ACCEPTED,15,100.00%,100.00%,0.370,4.046875,3,3,5,4
+j4_claude-sonnet-4.5_5.cpp,ACCEPTED,15,100.00%,100.00%,0.030,2.5390625,3,3,5,4
+j4_claude-sonnet-4.5_6.cpp,ACCEPTED,15,100.00%,100.00%,0.030,2.56640625,3,3,5,4
+j4_claude-sonnet-4.5_7.cpp,ACCEPTED,15,100.00%,100.00%,0.040,3.4921875,3,3,5,4

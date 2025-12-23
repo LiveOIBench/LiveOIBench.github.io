@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-silver_Sequence_Construction,Qwen3-30B-Non-Thinking,WRONG_ANSWER,0,0.00%,0.130,0.00390625
-silver_Compatible_Pairs,Qwen3-30B-Non-Thinking,WRONG_ANSWER,67,33.33%,0.370,28.76171875
-silver_Ski_Slope,Qwen3-30B-Non-Thinking,TIME_LIMIT_EXCEEDED,62,23.53%,2.220,238.48046875
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_Sequence_Construction,Qwen3-30B-Non-Thinking,WRONG_ANSWER,0,0.00%,0.00%,0.150,0.00390625
+silver_Compatible_Pairs,Qwen3-30B-Non-Thinking,WRONG_ANSWER,67,20.30%,33.33%,0.340,28.7578125
+silver_Ski_Slope,Qwen3-30B-Non-Thinking,TIME_LIMIT_EXCEEDED,62,19.38%,23.53%,2.420,259.71484375

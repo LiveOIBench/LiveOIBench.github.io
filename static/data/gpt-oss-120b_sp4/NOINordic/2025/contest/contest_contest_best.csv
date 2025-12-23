@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+diplomacy,gpt-oss-120b_sp4,ACCEPTED,100,100.00%,100.00%,1.850,218.82421875
+garbage,gpt-oss-120b_sp4,RUNTIME_ERROR,0,0.00%,26.03%,0.240,13.25390625
+xoracle,gpt-oss-120b_sp4,RUNTIME_ERROR,67,67.00%,41.18%,0.490,3.81640625

@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+Colorful_graph_grok-4-fast-reasoning_0.cpp,ACCEPTED,100,100.00%,100.00%,0.040,3.359375,0.0,10.0,9.0,15.0,16.0,14.0,13.0,12.0,11.0
+Colorful_graph_grok-4-fast-reasoning_1.cpp,ACCEPTED,100,100.00%,100.00%,0.040,2.58984375,0.0,10.0,9.0,15.0,16.0,14.0,13.0,12.0,11.0
+Colorful_graph_grok-4-fast-reasoning_2.cpp,TIME_LIMIT_EXCEEDED,77,77.00%,95.93%,1.810,15.0,0.0,10.0,9.0,15.0,16.0,14.0,13.0,0,0
+Colorful_graph_grok-4-fast-reasoning_3.cpp,ACCEPTED,100,100.00%,100.00%,0.040,3.359375,0.0,10.0,9.0,15.0,16.0,14.0,13.0,12.0,11.0
+Colorful_graph_grok-4-fast-reasoning_4.cpp,TIME_LIMIT_EXCEEDED,77,77.00%,93.66%,1.800,4.421875,0.0,10.0,9.0,15.0,16.0,14.0,13.0,0,0
+Colorful_graph_grok-4-fast-reasoning_5.cpp,ACCEPTED,100,100.00%,100.00%,0.040,2.58984375,0.0,10.0,9.0,15.0,16.0,14.0,13.0,12.0,11.0
+Colorful_graph_grok-4-fast-reasoning_6.cpp,ACCEPTED,100,100.00%,100.00%,0.120,10.0625,0.0,10.0,9.0,15.0,16.0,14.0,13.0,12.0,11.0
+Colorful_graph_grok-4-fast-reasoning_7.cpp,ACCEPTED,100,100.00%,100.00%,0.040,3.36328125,0.0,10.0,9.0,15.0,16.0,14.0,13.0,12.0,11.0

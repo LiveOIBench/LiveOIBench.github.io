@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-dev,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,0,4.40%,2.210,554.06640625
-exp,gemini-2.5-pro,MEMORY_LIMIT_EXCEEDED,37,44.97%,0.180,262.203125
-gcd,gemini-2.5-pro,RUNTIME_ERROR,0,3.28%,0.000,0
+problem,model,status,score,relative_score,%test passed,time,memory
+dev,gemini-2.5-pro,TIME_LIMIT_EXCEEDED,0,0.00%,6.59%,2.420,18.51953125
+exp,gemini-2.5-pro,MEMORY_LIMIT_EXCEEDED,37,37.00%,44.97%,0.150,299.265625
+gcd,gemini-2.5-pro,RUNTIME_ERROR,0,0.00%,3.28%,0.000,0

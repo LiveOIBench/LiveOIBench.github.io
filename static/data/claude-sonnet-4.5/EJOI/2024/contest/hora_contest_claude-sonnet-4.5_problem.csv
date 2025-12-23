@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+hora_claude-sonnet-4.5_0.cpp,RUNTIME_ERROR,5,5.00%,9.30%,0.020,1.55078125,0,5,0,0,0,0,0,0,0,0
+hora_claude-sonnet-4.5_1.cpp,RUNTIME_ERROR,5,5.00%,9.30%,0.350,3.15234375,0,5,0,0,0,0,0,0,0,0
+hora_claude-sonnet-4.5_2.cpp,RUNTIME_ERROR,5,5.00%,18.60%,0.020,0,0,5,0,0,0,0,0,0,0,0
+hora_claude-sonnet-4.5_3.cpp,RUNTIME_ERROR,5,5.00%,10.47%,0.020,0,0,5,0,0,0,0,0,0,0,0
+hora_claude-sonnet-4.5_4.cpp,RUNTIME_ERROR,5,5.00%,12.79%,0.020,0.56640625,0,5,0,0,0,0,0,0,0,0
+hora_claude-sonnet-4.5_5.cpp,RUNTIME_ERROR,5,5.00%,11.63%,0.020,1.55078125,0,5,0,0,0,0,0,0,0,0
+hora_claude-sonnet-4.5_6.cpp,RUNTIME_ERROR,5,5.00%,15.12%,0.020,1.55078125,0,5,0,0,0,0,0,0,0,0
+hora_claude-sonnet-4.5_7.cpp,RUNTIME_ERROR,5,5.00%,18.60%,0.020,0.56640625,0,5,0,0,0,0,0,0,0,0

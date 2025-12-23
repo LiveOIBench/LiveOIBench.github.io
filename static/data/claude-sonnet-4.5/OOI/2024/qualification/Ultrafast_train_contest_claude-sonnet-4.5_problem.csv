@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+Ultrafast_train_claude-sonnet-4.5_0.cpp,RUNTIME_ERROR,42,42.00%,85.96%,0.070,8.6875,0.0,17.0,13.0,12.0,0,0
+Ultrafast_train_claude-sonnet-4.5_1.cpp,RUNTIME_ERROR,68,68.00%,98.88%,0.080,9.73046875,0.0,17.0,13.0,12.0,26.0,0
+Ultrafast_train_claude-sonnet-4.5_2.cpp,RUNTIME_ERROR,68,68.00%,98.88%,0.110,18.36328125,0.0,17.0,13.0,12.0,26.0,0
+Ultrafast_train_claude-sonnet-4.5_3.cpp,RUNTIME_ERROR,68,68.00%,98.88%,0.070,9.09375,0.0,17.0,13.0,12.0,26.0,0
+Ultrafast_train_claude-sonnet-4.5_4.cpp,RUNTIME_ERROR,0,0.00%,10.39%,0.020,0,0,0,0,0,0,0
+Ultrafast_train_claude-sonnet-4.5_5.cpp,RUNTIME_ERROR,42,42.00%,85.96%,0.060,7.9453125,0.0,17.0,13.0,12.0,0,0
+Ultrafast_train_claude-sonnet-4.5_6.cpp,RUNTIME_ERROR,0,0.00%,9.09%,0.020,0,0,0,0,0,0,0
+Ultrafast_train_claude-sonnet-4.5_7.cpp,ACCEPTED,100,100.00%,100.00%,0.130,25.23828125,0.0,17.0,13.0,12.0,26.0,32.0

@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+icecreammachines_claude-sonnet-4.5_0.cpp,ACCEPTED,100,100.00%,100.00%,0.110,19.90234375,7,12,22,11,14,13,21
+icecreammachines_claude-sonnet-4.5_1.cpp,ACCEPTED,100,100.00%,100.00%,0.440,41.76953125,7,12,22,11,14,13,21
+icecreammachines_claude-sonnet-4.5_2.cpp,RUNTIME_ERROR,7,7.00%,46.23%,0.020,0.00390625,7,0,0,0,0,0,0
+icecreammachines_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,79,79.00%,99.15%,1.210,39.3828125,7,12,22,11,14,13,0
+icecreammachines_claude-sonnet-4.5_4.cpp,ACCEPTED,100,100.00%,100.00%,0.390,160.87890625,7,12,22,11,14,13,21
+icecreammachines_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,66,66.00%,92.98%,1.210,96.68359375,7,12,22,11,14,0,0
+icecreammachines_claude-sonnet-4.5_6.cpp,ACCEPTED,100,100.00%,100.00%,0.260,32.74609375,7,12,22,11,14,13,21
+icecreammachines_claude-sonnet-4.5_7.cpp,ACCEPTED,100,100.00%,100.00%,0.430,152.4765625,7,12,22,11,14,13,21

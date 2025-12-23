@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Signals_gpt-oss-120b_0.cpp,RUNTIME_ERROR,34,34.00%,32.43%,0.410,63.609375,0,0,2,0,32,0,0
+Signals_gpt-oss-120b_1.cpp,TIME_LIMIT_EXCEEDED,39,39.00%,70.59%,1.450,77.66015625,0,5,2,8,0,24,0
+Signals_gpt-oss-120b_2.cpp,RUNTIME_ERROR,10,10.00%,41.46%,0.350,66.265625,0,0,2,8,0,0,0
+Signals_gpt-oss-120b_3.cpp,ACCEPTED,100,100.00%,100.00%,0.660,123.0703125,0,5,2,8,32,24,29
+Signals_gpt-oss-120b_4.cpp,ACCEPTED,100,100.00%,100.00%,0.470,56.828125,0,5,2,8,32,24,29
+Signals_gpt-oss-120b_5.cpp,ACCEPTED,100,100.00%,100.00%,0.300,47.9375,0,5,2,8,32,24,29
+Signals_gpt-oss-120b_6.cpp,ACCEPTED,100,100.00%,100.00%,0.530,92.95703125,0,5,2,8,32,24,29
+Signals_gpt-oss-120b_7.cpp,RUNTIME_ERROR,10,10.00%,20.00%,0.370,77.66015625,0,0,2,8,0,0,0

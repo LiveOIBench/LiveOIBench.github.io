@@ -1,0 +1,6 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+wow,grok-4-fast-reasoning,ACCEPTED,50,100.00%,100.00%,0.000,0
+zid,grok-4-fast-reasoning,ACCEPTED,70,100.00%,100.00%,0.240,3.359375
+tornjevi,grok-4-fast-reasoning,ACCEPTED,90,100.00%,100.00%,0.410,92.87109375
+crtez,grok-4-fast-reasoning,ACCEPTED,120,100.00%,100.00%,0.260,33.6328125
+stablo,grok-4-fast-reasoning,ACCEPTED,120,100.00%,100.00%,1.500,249.41015625

@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+skrivaca_gpt-oss-120b_0.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.120,16.25,0,0,0,0
+skrivaca_gpt-oss-120b_1.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.090,16.25,0,0,0,0
+skrivaca_gpt-oss-120b_2.cpp,RUNTIME_ERROR,55,50.00%,51.06%,0.420,79.96875,0,25,30,0
+skrivaca_gpt-oss-120b_3.cpp,RUNTIME_ERROR,55,50.00%,51.06%,0.300,83.1484375,0,25,30,0
+skrivaca_gpt-oss-120b_4.cpp,RUNTIME_ERROR,25,22.73%,44.68%,0.640,90.7890625,0,25,0,0
+skrivaca_gpt-oss-120b_5.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.150,15.47265625,0,0,0,0
+skrivaca_gpt-oss-120b_6.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.090,15.734375,0,0,0,0
+skrivaca_gpt-oss-120b_7.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.220,31.9765625,0,0,0,0

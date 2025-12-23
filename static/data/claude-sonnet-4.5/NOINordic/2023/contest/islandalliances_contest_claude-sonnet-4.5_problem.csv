@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+islandalliances_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,52,52.00%,76.00%,5.970,23.984375,15,17,20,0,0
+islandalliances_claude-sonnet-4.5_1.cpp,ACCEPTED,100,100.00%,100.00%,0.490,20.88671875,15,17,20,23,25
+islandalliances_claude-sonnet-4.5_2.cpp,ACCEPTED,100,100.00%,100.00%,0.580,20.11328125,15,17,20,23,25
+islandalliances_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,52,52.00%,76.00%,5.980,15.98828125,15,17,20,0,0
+islandalliances_claude-sonnet-4.5_4.cpp,ACCEPTED,100,100.00%,100.00%,0.500,17.0234375,15,17,20,23,25
+islandalliances_claude-sonnet-4.5_5.cpp,ACCEPTED,100,100.00%,100.00%,3.230,11.09375,15,17,20,23,25
+islandalliances_claude-sonnet-4.5_6.cpp,ACCEPTED,100,100.00%,100.00%,0.530,18.82421875,15,17,20,23,25
+islandalliances_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,52,52.00%,76.00%,5.980,24.23828125,15,17,20,0,0

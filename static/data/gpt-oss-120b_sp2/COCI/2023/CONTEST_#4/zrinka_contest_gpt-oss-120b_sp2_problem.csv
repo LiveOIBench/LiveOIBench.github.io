@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+zrinka_gpt-oss-120b_0.cpp,ACCEPTED,70,100.00%,100.00%,0.170,96.94921875,15,20,15,20
+zrinka_gpt-oss-120b_1.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.500,0.00390625,0,0,0,0
+zrinka_gpt-oss-120b_2.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.140,1.55859375,0,0,0,0
+zrinka_gpt-oss-120b_3.cpp,ACCEPTED,70,100.00%,100.00%,0.210,96.69140625,15,20,15,20
+zrinka_gpt-oss-120b_4.cpp,RUNTIME_ERROR,20,28.57%,30.00%,0.120,1.55859375,0,20,0,0
+zrinka_gpt-oss-120b_5.cpp,TIME_LIMIT_EXCEEDED,50,71.43%,60.00%,1.210,1.55859375,15,20,15,0
+zrinka_gpt-oss-120b_6.cpp,ACCEPTED,70,100.00%,100.00%,0.160,96.94921875,15,20,15,20
+zrinka_gpt-oss-120b_7.cpp,RUNTIME_ERROR,20,28.57%,20.00%,0.010,0.00390625,0,20,0,0

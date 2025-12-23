@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+bikesvscars_grok-4-fast-reasoning_0.cpp,ACCEPTED,100,100.00%,100.00%,0.040,5.4609375,0,10,5,17,18,19,31
+bikesvscars_grok-4-fast-reasoning_1.cpp,ACCEPTED,100,100.00%,100.00%,0.190,6.3671875,0,10,5,17,18,19,31
+bikesvscars_grok-4-fast-reasoning_2.cpp,ACCEPTED,100,100.00%,100.00%,0.470,10.125,0,10,5,17,18,19,31
+bikesvscars_grok-4-fast-reasoning_3.cpp,ACCEPTED,100,100.00%,100.00%,0.450,6.12890625,0,10,5,17,18,19,31
+bikesvscars_grok-4-fast-reasoning_4.cpp,ACCEPTED,100,100.00%,100.00%,0.280,8.0546875,0,10,5,17,18,19,31
+bikesvscars_grok-4-fast-reasoning_5.cpp,ACCEPTED,100,100.00%,100.00%,0.310,6.234375,0,10,5,17,18,19,31
+bikesvscars_grok-4-fast-reasoning_6.cpp,ACCEPTED,100,100.00%,100.00%,0.150,6.10546875,0,10,5,17,18,19,31
+bikesvscars_grok-4-fast-reasoning_7.cpp,MEMORY_LIMIT_EXCEEDED,27,27.00%,49.49%,0.550,998.3671875,0,10,0,17,0,0,0

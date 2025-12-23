@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Flight_Routes,gpt-oss-120b_sp3,ACCEPTED,333,104.06%,100.00%,0.020,1.5546875
+gold_Minimum_Longest_Trip,gpt-oss-120b_sp3,ACCEPTED,333,104.06%,100.00%,0.170,21.91796875
+gold_Haybale_Distribution,gpt-oss-120b_sp3,ACCEPTED,333,100.91%,100.00%,0.080,4.39453125

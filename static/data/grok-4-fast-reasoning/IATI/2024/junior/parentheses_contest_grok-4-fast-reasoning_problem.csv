@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+parentheses_grok-4-fast-reasoning_0.cpp,RUNTIME_ERROR,40,40.00%,91.83%,0.040,63.453125,0,5,10,10,15,0,0
+parentheses_grok-4-fast-reasoning_1.cpp,RUNTIME_ERROR,25,25.00%,87.45%,0.030,31.01171875,0,5,10,10,0,0,0
+parentheses_grok-4-fast-reasoning_2.cpp,ACCEPTED,100,100.00%,100.00%,0.120,67.3359375,0,5,10,10,15,15,45
+parentheses_grok-4-fast-reasoning_3.cpp,ACCEPTED,100,100.00%,100.00%,0.100,34.53515625,0,5,10,10,15,15,45
+parentheses_grok-4-fast-reasoning_4.cpp,ACCEPTED,100,100.00%,100.00%,0.120,67.1796875,0,5,10,10,15,15,45
+parentheses_grok-4-fast-reasoning_5.cpp,RUNTIME_ERROR,25,25.00%,87.45%,0.060,123.8828125,0,5,10,10,0,0,0
+parentheses_grok-4-fast-reasoning_6.cpp,RUNTIME_ERROR,25,25.00%,87.45%,0.060,123.88671875,0,5,10,10,0,0,0
+parentheses_grok-4-fast-reasoning_7.cpp,ACCEPTED,100,100.00%,100.00%,0.170,35.33203125,0,5,10,10,15,15,45

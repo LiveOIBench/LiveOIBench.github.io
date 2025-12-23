@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-hieroglyphs,deepseek-reasoner,RUNTIME_ERROR,3,8.73%,0.090,29.8828125
-sphinx,deepseek-reasoner,RUNTIME_ERROR,10,49.52%,0.370,4.2578125
-mosaic,deepseek-reasoner,RUNTIME_ERROR,20,55.43%,0.110,20.640625
+problem,model,status,score,relative_score,%test passed,time,memory
+hieroglyphs,deepseek-reasoner,RUNTIME_ERROR,3,3.00%,8.73%,0.080,29.36328125
+sphinx,deepseek-reasoner,RUNTIME_ERROR,10,10.00%,49.52%,0.320,4.25390625
+mosaic,deepseek-reasoner,RUNTIME_ERROR,20,20.00%,55.43%,0.120,20.640625

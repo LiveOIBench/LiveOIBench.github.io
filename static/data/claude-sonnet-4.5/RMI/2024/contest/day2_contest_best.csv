@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+Jump_Civilization,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,6,6.00%,36.07%,1.210,2.58984375
+Ramen,claude-sonnet-4.5,RUNTIME_ERROR,5,5.00%,10.17%,0.030,1.55078125
+Signals,claude-sonnet-4.5,ACCEPTED,100,100.00%,100.00%,0.330,86.6328125

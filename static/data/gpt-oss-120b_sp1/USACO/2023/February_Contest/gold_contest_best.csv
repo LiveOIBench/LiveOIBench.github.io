@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Equal_Sum_Subarrays,gpt-oss-120b_sp1,ACCEPTED,333,103.42%,100.00%,0.120,6.96875
+gold_Fertilizing_Pastures,gpt-oss-120b_sp1,ACCEPTED,333,104.06%,100.00%,0.170,23.71484375
+gold_Piling_Papers,gpt-oss-120b_sp1,MEMORY_LIMIT_EXCEEDED,56,17.28%,23.08%,1.280,306.37109375

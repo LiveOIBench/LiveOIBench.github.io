@@ -9,6 +9,8 @@ const ALLOWED_MODELS = [
   'gpt-o3-mini-high',
   'gemini-2.5-flash',
   'gpt-4.1',
+  'grok-4-fast-reasoning',
+  'claude-sonnet-4.5',
   
   // Open-weight Thinking LLMs
   'gpt-oss-120b-high',
@@ -49,7 +51,7 @@ const MODEL_DISPLAY_NAMES = {
   // GPT models
   'gpt-5': 'GPT-5',
   'gpt-4.1': 'GPT-4.1',
-  'gpt-o3-mini-high': 'GPT-o3-mini-high',
+  'gpt-o3-mini-high': 'o3-mini-high',
   'gpt-oss-120b-high': 'GPT-OSS-120B-High',
   'gpt-oss-20b-high': 'GPT-OSS-20B-High',
   'gpt-oss-120b-medium': 'GPT-OSS-120B-Medium',
@@ -61,6 +63,8 @@ const MODEL_DISPLAY_NAMES = {
   // All other models keep their original names
   'gemini-2.5-pro': 'Gemini-2.5-pro',
   'gemini-2.5-flash': 'Gemini-2.5-flash',
+  'grok-4-fast-reasoning': 'Grok-4-Fast-Reasoning',
+  'claude-sonnet-4.5': 'Claude-Sonnet-4.5',
   'Qwen3-32B': 'Qwen3-32B',
   'deepseek-reasoner': 'Deepseek-R1',
   'Qwen3-14B': 'Qwen3-14B',
@@ -72,7 +76,7 @@ const MODEL_DISPLAY_NAMES = {
   'Qwen3-4B': 'Qwen3-4B',
   'DeepSeek-R1-Distill-Qwen-14B': 'DeepSeek-R1-Distill-Qwen-14B',
   'DeepSeek-R1-Distill-Llama-8B': 'DeepSeek-R1-Distill-Llama-8B',
-  'deepseek-chat': 'deepseek-chat',
+  'deepseek-chat': 'Deepseek-V3',
   'Qwen3-32B-Non-Thinking': 'Qwen3-32B-Non-Thinking',
   'Qwen2.5-Coder-32B-Instruct': 'Qwen2.5-Coder-32B-Instruct',
   'Qwen2.5-Coder-14B-Instruct': 'Qwen2.5-Coder-14B-Instruct',
@@ -110,7 +114,9 @@ const MODEL_CATEGORIES = {
     'gemini-2.5-pro',
     'gpt-o3-mini-high',
     'gemini-2.5-flash',
-    'gpt-4.1'
+    'gpt-4.1',
+    'grok-4-fast-reasoning',
+    'claude-sonnet-4.5'
   ],
   'open-weight-thinking': [
     'gpt-oss-120b-high',

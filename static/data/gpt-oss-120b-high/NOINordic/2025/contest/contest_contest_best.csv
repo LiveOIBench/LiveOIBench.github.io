@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-diplomacy,gpt-oss-120b-high,ACCEPTED,100,100.00%,1.270,104.83984375
-garbage,gpt-oss-120b-high,ACCEPTED,100,100.00%,0.140,13.76953125
-xoracle,gpt-oss-120b-high,ACCEPTED,100,100.00%,0.370,3.7890625
+problem,model,status,score,relative_score,%test passed,time,memory
+diplomacy,gpt-oss-120b-high,ACCEPTED,100,100.00%,100.00%,1.460,104.83984375
+garbage,gpt-oss-120b-high,ACCEPTED,100,100.00%,100.00%,0.250,13.76953125
+xoracle,gpt-oss-120b-high,ACCEPTED,100,100.00%,100.00%,0.490,3.8203125

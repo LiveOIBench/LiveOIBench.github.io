@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+tree_infection_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,1.220,26.55859375,0,0,0,0,0,0,0
+tree_infection_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,5.56%,1.220,27.73046875,0,0,0,0,0,0,0
+tree_infection_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,20,20.00%,18.52%,1.220,76.05859375,0,20,0,0,0,0,0
+tree_infection_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,20,20.00%,18.52%,1.220,35.91015625,0,20,0,0,0,0,0
+tree_infection_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,12.96%,1.220,29.75,0,0,0,0,0,0,0
+tree_infection_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,20,20.00%,18.52%,1.230,86.60546875,0,20,0,0,0,0,0
+tree_infection_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,12.96%,1.220,40.203125,0,0,0,0,0,0,0
+tree_infection_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,12.96%,1.230,40.24609375,0,0,0,0,0,0,0

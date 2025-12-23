@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+cesta_claude-sonnet-4.5_0.cpp,RUNTIME_ERROR,10,9.09%,20.18%,0.020,2.8828125,10,0,0,0
+cesta_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,10,9.09%,47.71%,3.610,26.55859375,10,0,0,0
+cesta_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,40,36.36%,48.62%,3.620,9.03125,10,30,0,0
+cesta_claude-sonnet-4.5_3.cpp,RUNTIME_ERROR,10,9.09%,20.18%,0.040,4.4296875,10,0,0,0
+cesta_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,10,9.09%,20.18%,3.610,9.25390625,10,0,0,0
+cesta_claude-sonnet-4.5_5.cpp,RUNTIME_ERROR,10,9.09%,20.18%,0.050,2.58203125,10,0,0,0
+cesta_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,10,9.09%,20.18%,3.610,589.36328125,10,0,0,0
+cesta_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,70,63.64%,99.08%,3.610,443.94921875,10,30,30,0

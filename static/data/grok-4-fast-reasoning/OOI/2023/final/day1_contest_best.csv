@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+More_Gifts,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.180,29.91015625
+Big_Persimmon,grok-4-fast-reasoning,MEMORY_LIMIT_EXCEEDED,56,56.00%,76.00%,2.070,1224.359375
+Evidence_Board,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.320,97.5703125

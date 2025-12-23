@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-bronze_Candy_Cane_Feast,deepseek-chat,ACCEPTED,333,100.00%,0.070,4.39453125
-bronze_Cowntact_Tracing_2,deepseek-chat,RUNTIME_ERROR,100,25.00%,0.040,1.7109375
-bronze_Farmer_John_Actually_Farms,deepseek-chat,COMPILATION_ERROR,0,0.00%,0.000,0
+problem,model,status,score,relative_score,%test passed,time,memory
+bronze_Candy_Cane_Feast,deepseek-chat,ACCEPTED,333,102.46%,100.00%,0.150,4.39453125
+bronze_Cowntact_Tracing_2,deepseek-chat,RUNTIME_ERROR,100,30.30%,25.00%,0.130,1.5546875
+bronze_Farmer_John_Actually_Farms,deepseek-chat,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0

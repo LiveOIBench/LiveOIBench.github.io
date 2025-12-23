@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+2025-ho-t5_Post_Office_Qwen3-14B_0.cpp,TIME_LIMIT_EXCEEDED,3,3.00%,18.71%,2.510,11.68359375,3,0,0,0,0,0,0
+2025-ho-t5_Post_Office_Qwen3-14B_1.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,3.17%,1.660,1222.83203125,0,0,0,0,0,0,0
+2025-ho-t5_Post_Office_Qwen3-14B_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.38%,2.500,12.40625,0,0,0,0,0,0,0
+2025-ho-t5_Post_Office_Qwen3-14B_3.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.00%,0.990,528.16015625,0,0,0,0,0,0,0
+2025-ho-t5_Post_Office_Qwen3-14B_4.cpp,TIME_LIMIT_EXCEEDED,3,3.00%,18.71%,2.470,16.08984375,3,0,0,0,0,0,0
+2025-ho-t5_Post_Office_Qwen3-14B_5.cpp,TIME_LIMIT_EXCEEDED,3,3.00%,18.71%,2.500,84.6640625,3,0,0,0,0,0,0
+2025-ho-t5_Post_Office_Qwen3-14B_6.cpp,RUNTIME_ERROR,3,3.00%,16.06%,0.210,19.65234375,3,0,0,0,0,0,0
+2025-ho-t5_Post_Office_Qwen3-14B_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.480,16.62890625,0,0,0,0,0,0,0

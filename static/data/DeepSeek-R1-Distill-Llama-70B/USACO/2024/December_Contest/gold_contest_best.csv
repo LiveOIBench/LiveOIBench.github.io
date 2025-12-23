@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-gold_Cowdependence,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,35,15.00%,2.360,4.6484375
-gold_Interstellar_Intervals,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,50,26.09%,2.330,9.53515625
-gold_Job_Completion,DeepSeek-R1-Distill-Llama-70B,WRONG_ANSWER,22,12.50%,0.220,4.640625
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Cowdependence,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,35,10.84%,15.00%,2.450,4.6484375
+gold_Interstellar_Intervals,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,50,15.62%,26.09%,2.490,9.53515625
+gold_Job_Completion,DeepSeek-R1-Distill-Llama-70B,WRONG_ANSWER,22,6.67%,12.50%,0.230,4.64453125

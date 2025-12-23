@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Watering_the_Plants_gpt-oss-120b_0.cpp,WRONG_ANSWER,0,0.00%,10.53%,0.110,16.51171875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watering_the_Plants_gpt-oss-120b_1.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.100,20.375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watering_the_Plants_gpt-oss-120b_2.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.110,20.37890625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watering_the_Plants_gpt-oss-120b_3.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.110,28.11328125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watering_the_Plants_gpt-oss-120b_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.480,73.2265625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watering_the_Plants_gpt-oss-120b_5.cpp,WRONG_ANSWER,0,0.00%,10.53%,0.100,9.03515625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watering_the_Plants_gpt-oss-120b_6.cpp,WRONG_ANSWER,0,0.00%,10.53%,0.120,16.51171875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Watering_the_Plants_gpt-oss-120b_7.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.120,16.85546875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

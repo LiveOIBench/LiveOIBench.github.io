@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+2023-open-t1_Ancient_Machine_2,gpt-oss-120b_sp3,RUNTIME_ERROR,0,0.00%,0.00%,0.020,1.484375
+2023-open-t2_Cell_Automaton,gpt-oss-120b_sp3,TIME_LIMIT_EXCEEDED,4,4.00%,68.75%,7.210,1912.4609375
+2023-open-t3_Garden,gpt-oss-120b_sp3,TIME_LIMIT_EXCEEDED,0,0.00%,13.95%,2.410,5.421875

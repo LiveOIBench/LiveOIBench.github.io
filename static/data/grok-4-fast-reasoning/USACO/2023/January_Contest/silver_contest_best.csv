@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_Find_and_Replace,grok-4-fast-reasoning,WRONG_ANSWER,238,73.91%,73.33%,0.010,0.00390625
+silver_Following_Directions,grok-4-fast-reasoning,ACCEPTED,333,103.42%,100.00%,0.070,29.39453125
+silver_Moo_Route,grok-4-fast-reasoning,WRONG_ANSWER,56,17.28%,25.00%,0.030,9.2421875

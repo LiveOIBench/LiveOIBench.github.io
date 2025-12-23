@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-jobs,Mistral-Large-Instruct-2411,RUNTIME_ERROR,0,0.00%,0.120,8.26171875
-portal,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,1,10.53%,1.110,20.37109375
-trains,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,21,82.35%,1.110,2.58984375
+problem,model,status,score,relative_score,%test passed,time,memory
+jobs,Mistral-Large-Instruct-2411,RUNTIME_ERROR,0,0.00%,0.00%,0.120,5.94140625
+portal,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,1,1.00%,10.53%,1.220,20.37109375
+trains,Mistral-Large-Instruct-2411,TIME_LIMIT_EXCEEDED,21,21.00%,82.35%,1.220,2.58984375

@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Lunch_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,16,16.00%,48.51%,2.410,6.09375,0.0,16.0,0,0,0,0,0
+Lunch_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,16,16.00%,48.51%,2.410,17.390625,0.0,16.0,0,0,0,0,0
+Lunch_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,16,16.00%,48.51%,2.410,12.23046875,0.0,16.0,0,0,0,0,0
+Lunch_claude-sonnet-4.5_3.cpp,UNKNOWN,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0
+Lunch_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,16,16.00%,48.51%,2.440,13.66796875,0.0,16.0,0,0,0,0,0
+Lunch_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,16,16.00%,48.51%,2.430,20.11328125,0.0,16.0,0,0,0,0,0
+Lunch_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,16,16.00%,48.51%,2.410,9.6640625,0.0,16.0,0,0,0,0,0
+Lunch_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,16,16.00%,48.51%,2.410,104.4140625,0.0,16.0,0,0,0,0,0

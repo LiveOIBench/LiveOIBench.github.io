@@ -1,0 +1,5 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Moo_Route_grok-4-fast-reasoning_0.cpp,WRONG_ANSWER,56,17.28%,25.00%,0.030,12.35546875,0,18.51851851851852,0,0,0,0,0,0,0,0,0,0,18.51851851851852,0,0,0,0,0,18.51851851851852
+silver_Moo_Route_grok-4-fast-reasoning_1.cpp,WRONG_ANSWER,37,11.42%,20.00%,1.440,9.7421875,0,18.51851851851852,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18.51851851851852
+silver_Moo_Route_grok-4-fast-reasoning_3.cpp,WRONG_ANSWER,56,17.28%,25.00%,0.030,9.2421875,0,18.51851851851852,0,0,0,0,0,0,0,0,0,0,18.51851851851852,0,0,0,0,0,18.51851851851852
+silver_Moo_Route_grok-4-fast-reasoning_6.cpp,WRONG_ANSWER,56,17.28%,25.00%,0.030,10.01953125,0,18.51851851851852,0,0,0,0,0,0,0,0,0,0,18.51851851851852,0,0,0,0,0,18.51851851851852

@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+longesttrip_claude-haiku-4.5_0.cpp,RUNTIME_ERROR,5,5.00%,6.63%,2.070,4.06640625,0,5,0,0,0
+longesttrip_claude-haiku-4.5_1.cpp,RUNTIME_ERROR,15,15.00%,44.58%,2.030,4.07421875,0,5,10,0,0
+longesttrip_claude-haiku-4.5_2.cpp,RUNTIME_ERROR,5,5.00%,31.33%,1.130,4.1015625,0,5,0,0,0
+longesttrip_claude-haiku-4.5_3.cpp,RUNTIME_ERROR,5,5.00%,9.64%,2.040,4.078125,0,5,0,0,0
+longesttrip_claude-haiku-4.5_4.cpp,RUNTIME_ERROR,5,5.00%,8.43%,2.010,4.08203125,0,5,0,0,0
+longesttrip_claude-haiku-4.5_5.cpp,RUNTIME_ERROR,5,5.00%,10.84%,2.010,4.04296875,0,5,0,0,0
+longesttrip_claude-haiku-4.5_6.cpp,RUNTIME_ERROR,5,5.00%,5.42%,1.660,3.97265625,0,5,0,0,0.0
+longesttrip_claude-haiku-4.5_7.cpp,RUNTIME_ERROR,5,5.00%,5.42%,1.290,3.93359375,0,5,0,0,0.0

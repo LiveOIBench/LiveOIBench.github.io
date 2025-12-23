@@ -1,0 +1,8 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+Strong_Connectivity_Strikes_Back_gpt-oss-120b_1.cpp,RUNTIME_ERROR,41,41.00%,37.39%,0.120,1.8125,0,0,0,0,0,20.0,21.0,0
+Strong_Connectivity_Strikes_Back_gpt-oss-120b_2.cpp,RUNTIME_ERROR,66,66.00%,57.26%,0.440,2.06640625,0,0,0,12.0,13.0,20.0,21.0,0
+Strong_Connectivity_Strikes_Back_gpt-oss-120b_3.cpp,RUNTIME_ERROR,66,66.00%,57.26%,0.120,1.8125,0,0,0,12.0,13.0,20.0,21.0,0
+Strong_Connectivity_Strikes_Back_gpt-oss-120b_4.cpp,RUNTIME_ERROR,66,66.00%,57.26%,0.120,1.55859375,0,0,0,12.0,13.0,20.0,21.0,0
+Strong_Connectivity_Strikes_Back_gpt-oss-120b_5.cpp,RUNTIME_ERROR,66,66.00%,57.26%,0.120,1.8125,0,0,0,12.0,13.0,20.0,21.0,0
+Strong_Connectivity_Strikes_Back_gpt-oss-120b_6.cpp,RUNTIME_ERROR,41,41.00%,37.39%,0.110,1.5546875,0,0,0,0,0,20.0,21.0,0
+Strong_Connectivity_Strikes_Back_gpt-oss-120b_7.cpp,RUNTIME_ERROR,41,41.00%,40.17%,0.110,1.58984375,0.0,0,0,0,0,20.0,21.0,0

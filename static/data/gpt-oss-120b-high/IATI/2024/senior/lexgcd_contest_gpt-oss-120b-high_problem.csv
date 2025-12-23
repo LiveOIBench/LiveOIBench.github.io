@@ -1,8 +1,8 @@
-solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
-lexgcd_gpt-oss-120b-high_0.cpp,RUNTIME_ERROR,6,18.70%,0.320,25.0390625,6,0,0,0,0,0,0
-lexgcd_gpt-oss-120b-high_1.cpp,RUNTIME_ERROR,0,0.83%,0.100,28.17578125,0,0,0,0,0,0,0
-lexgcd_gpt-oss-120b-high_3.cpp,RUNTIME_ERROR,38,39.26%,0.360,23.53125,6,19,13,0,0,0,0
-lexgcd_gpt-oss-120b-high_4.cpp,RUNTIME_ERROR,38,39.26%,0.370,28.96875,6,19,13,0,0,0,0
-lexgcd_gpt-oss-120b-high_5.cpp,RUNTIME_ERROR,6,18.70%,0.300,16.02734375,6,0,0,0,0,0,0
-lexgcd_gpt-oss-120b-high_6.cpp,RUNTIME_ERROR,69,54.81%,0.370,28.0,6,19,13,0,0,31,0
-lexgcd_gpt-oss-120b-high_7.cpp,RUNTIME_ERROR,6,13.82%,0.120,19.703125,6,0,0,0,0,0,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+lexgcd_gpt-oss-120b-high_0.cpp,RUNTIME_ERROR,6,6.00%,18.70%,0.380,25.04296875,6,0,0,0,0,0,0
+lexgcd_gpt-oss-120b-high_1.cpp,RUNTIME_ERROR,0,0.00%,0.83%,0.180,23.88671875,0,0,0,0,0,0,0
+lexgcd_gpt-oss-120b-high_3.cpp,RUNTIME_ERROR,38,38.00%,39.26%,0.440,23.53515625,6,19,13,0,0,0,0
+lexgcd_gpt-oss-120b-high_4.cpp,RUNTIME_ERROR,38,38.00%,39.26%,0.430,28.96484375,6,19,13,0,0,0,0
+lexgcd_gpt-oss-120b-high_5.cpp,RUNTIME_ERROR,6,6.00%,18.70%,0.370,16.03515625,6,0,0,0,0,0,0
+lexgcd_gpt-oss-120b-high_6.cpp,RUNTIME_ERROR,69,69.00%,54.81%,0.430,27.84375,6,19,13,0,0,31,0
+lexgcd_gpt-oss-120b-high_7.cpp,RUNTIME_ERROR,6,6.00%,13.82%,0.200,19.70703125,6,0,0,0,0,0,0

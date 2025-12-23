@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+covid,claude-sonnet-4.5,RUNTIME_ERROR,10,10.00%,70.37%,0.370,1.55078125
+battle,claude-sonnet-4.5,MEMORY_LIMIT_EXCEEDED,46,46.00%,89.08%,1.100,518.26171875
+editor,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,56,56.00%,90.16%,4.800,338.171875

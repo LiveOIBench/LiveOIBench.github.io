@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Identity_Theft_gpt-oss-120b_0.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.070,107.80859375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_gpt-oss-120b_1.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.120,169.4453125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_gpt-oss-120b_2.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.040,13.32421875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_gpt-oss-120b_3.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.050,67.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_gpt-oss-120b_4.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.140,176.640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_gpt-oss-120b_5.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.070,75.56640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_gpt-oss-120b_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.00%,0.800,599.30078125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Identity_Theft_gpt-oss-120b_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,3.610,114.49609375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

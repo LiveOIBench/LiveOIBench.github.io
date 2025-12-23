@@ -1,0 +1,4 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+2023-sp_Council_grok-4-fast-reasoning_0.cpp,TIME_LIMIT_EXCEEDED,78,78.00%,96.90%,3.610,67.0390625,8,8,6,19,15,22,0
+2023-sp_Council_grok-4-fast-reasoning_3.cpp,ACCEPTED,100,100.00%,100.00%,2.620,68.890625,8,8,6,19,15,22,22
+2023-sp_Council_grok-4-fast-reasoning_5.cpp,TIME_LIMIT_EXCEEDED,8,8.00%,92.54%,3.610,41.51171875,8,0,0,0,0,0,0

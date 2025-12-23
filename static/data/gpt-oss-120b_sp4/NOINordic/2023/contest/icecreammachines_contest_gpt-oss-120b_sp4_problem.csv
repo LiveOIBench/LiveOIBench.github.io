@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+icecreammachines_gpt-oss-120b_0.cpp,ACCEPTED,100,100.00%,100.00%,0.190,5.625,7,12,22,11,14,13,21
+icecreammachines_gpt-oss-120b_1.cpp,ACCEPTED,100,100.00%,100.00%,0.200,10.578125,7,12,22,11,14,13,21
+icecreammachines_gpt-oss-120b_2.cpp,ACCEPTED,100,100.00%,100.00%,0.190,4.6484375,7,12,22,11,14,13,21
+icecreammachines_gpt-oss-120b_3.cpp,ACCEPTED,100,100.00%,100.00%,0.190,9.37890625,7,12,22,11,14,13,21
+icecreammachines_gpt-oss-120b_4.cpp,ACCEPTED,100,100.00%,100.00%,0.190,7.7421875,7,12,22,11,14,13,21
+icecreammachines_gpt-oss-120b_5.cpp,ACCEPTED,100,100.00%,100.00%,0.190,5.63671875,7,12,22,11,14,13,21
+icecreammachines_gpt-oss-120b_6.cpp,ACCEPTED,100,100.00%,100.00%,0.190,5.1171875,7,12,22,11,14,13,21
+icecreammachines_gpt-oss-120b_7.cpp,ACCEPTED,100,100.00%,100.00%,0.190,4.9296875,7,12,22,11,14,13,21

@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
-vrsta_deepseek-chat_0.cpp,RUNTIME_ERROR,26,20.00%,0.230,19.6015625,0,26,0,0
-vrsta_deepseek-chat_1.cpp,TIME_LIMIT_EXCEEDED,45,40.00%,1.160,123.1875,19,26,0,0
-vrsta_deepseek-chat_2.cpp,TIME_LIMIT_EXCEEDED,19,20.00%,1.130,257.484375,19,0,0,0
-vrsta_deepseek-chat_3.cpp,TIME_LIMIT_EXCEEDED,45,40.00%,1.120,269.9296875,19,26,0,0
-vrsta_deepseek-chat_4.cpp,TIME_LIMIT_EXCEEDED,19,20.00%,1.150,3.359375,19,0,0,0
-vrsta_deepseek-chat_5.cpp,TIME_LIMIT_EXCEEDED,45,40.00%,1.120,121.8984375,19,26,0,0
-vrsta_deepseek-chat_6.cpp,TIME_LIMIT_EXCEEDED,45,40.00%,1.140,160.1171875,19,26,0,0
-vrsta_deepseek-chat_7.cpp,TIME_LIMIT_EXCEEDED,45,40.00%,1.140,280.5625,19,26,0,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+vrsta_deepseek-chat_0.cpp,RUNTIME_ERROR,26,23.64%,20.00%,0.190,19.6015625,0,26,0,0
+vrsta_deepseek-chat_1.cpp,TIME_LIMIT_EXCEEDED,45,40.91%,40.00%,1.200,128.60546875,19,26,0,0
+vrsta_deepseek-chat_2.cpp,TIME_LIMIT_EXCEEDED,19,17.27%,20.00%,1.210,257.48828125,19,0,0,0
+vrsta_deepseek-chat_3.cpp,TIME_LIMIT_EXCEEDED,45,40.91%,40.00%,1.210,292.10546875,19,26,0,0
+vrsta_deepseek-chat_4.cpp,TIME_LIMIT_EXCEEDED,19,17.27%,20.00%,1.270,3.6171875,19,0,0,0
+vrsta_deepseek-chat_5.cpp,TIME_LIMIT_EXCEEDED,45,40.91%,40.00%,1.220,178.6796875,19,26,0,0
+vrsta_deepseek-chat_6.cpp,TIME_LIMIT_EXCEEDED,45,40.91%,40.00%,1.250,173.5234375,19,26,0,0
+vrsta_deepseek-chat_7.cpp,TIME_LIMIT_EXCEEDED,45,40.91%,40.00%,1.200,294.23046875,19,26,0,0

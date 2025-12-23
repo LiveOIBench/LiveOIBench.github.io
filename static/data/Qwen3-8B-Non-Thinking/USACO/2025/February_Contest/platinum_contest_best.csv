@@ -1,3 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-platinum_Transforming_Pairs,Qwen3-8B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
-platinum_True_or_False_Test,Qwen3-8B-Non-Thinking,WRONG_ANSWER,0,0.00%,0.330,8.98828125
+problem,model,status,score,relative_score,%test passed,time,memory
+platinum_Min_Max_Subarrays,Qwen3-8B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0
+platinum_Transforming_Pairs,Qwen3-8B-Non-Thinking,RUNTIME_ERROR,0,0.00%,0.00%,0.270,0.00390625
+platinum_True_or_False_Test,Qwen3-8B-Non-Thinking,WRONG_ANSWER,0,0.00%,0.00%,0.350,8.98828125

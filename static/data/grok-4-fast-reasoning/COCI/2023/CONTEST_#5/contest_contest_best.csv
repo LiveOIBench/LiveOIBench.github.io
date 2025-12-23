@@ -1,0 +1,6 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+kalendar,grok-4-fast-reasoning,ACCEPTED,50,100.00%,100.00%,0.010,0
+diskurs,grok-4-fast-reasoning,ACCEPTED,70,100.00%,100.00%,0.140,13.35546875
+logaritam,grok-4-fast-reasoning,ACCEPTED,110,100.00%,100.00%,0.150,0.00390625
+slasticarnica,grok-4-fast-reasoning,ACCEPTED,110,100.00%,100.00%,0.190,3.41796875
+zastave,grok-4-fast-reasoning,ACCEPTED,110,100.00%,100.00%,0.070,1.81640625

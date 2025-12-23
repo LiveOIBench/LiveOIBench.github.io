@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-platinum_Forklift_Certified,gpt-oss-20b-high,RUNTIME_ERROR,95,25.00%,1.620,32.28125
-platinum_Lazy_Sort,gpt-oss-20b-high,ACCEPTED,333,100.00%,0.300,39.453125
-platinum_Package_Pickup,gpt-oss-20b-high,TIME_LIMIT_EXCEEDED,0,10.00%,4.810,197.9140625
+problem,model,status,score,relative_score,%test passed,time,memory
+platinum_Forklift_Certified,gpt-oss-20b-high,RUNTIME_ERROR,95,29.50%,25.00%,1.710,32.28515625
+platinum_Lazy_Sort,gpt-oss-20b-high,ACCEPTED,333,102.46%,100.00%,0.400,39.453125
+platinum_Package_Pickup,gpt-oss-20b-high,TIME_LIMIT_EXCEEDED,0,0.00%,10.00%,4.820,197.91015625

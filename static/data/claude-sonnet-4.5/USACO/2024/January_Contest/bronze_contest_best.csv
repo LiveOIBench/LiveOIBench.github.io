@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+bronze_Majority_Opinion,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,71,22.05%,26.67%,2.420,3.6171875
+bronze_Cannonball,claude-sonnet-4.5,ACCEPTED,333,102.78%,100.00%,0.040,2.07421875
+bronze_Balancing_Bacteria,claude-sonnet-4.5,ACCEPTED,333,102.46%,100.00%,0.060,2.84765625

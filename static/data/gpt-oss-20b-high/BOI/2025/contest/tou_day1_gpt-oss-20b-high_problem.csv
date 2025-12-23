@@ -1,5 +1,5 @@
-solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
-tou_gpt-oss-20b-high_0.cpp,TIME_LIMIT_EXCEEDED,76,86.64%,2.420,69.61328125,0,9,23,19,25,0
-tou_gpt-oss-20b-high_1.cpp,RUNTIME_ERROR,0,5.17%,1.420,364.1484375,0,0,0,0,0,0
-tou_gpt-oss-20b-high_2.cpp,TIME_LIMIT_EXCEEDED,0,9.05%,2.410,376.6640625,0,0,0,0,0,0
-tou_gpt-oss-20b-high_3.cpp,RUNTIME_ERROR,0,32.76%,0.890,145.15234375,0,0,0,0,0,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+tou_gpt-oss-20b-high_0.cpp,TIME_LIMIT_EXCEEDED,76,76.00%,86.64%,2.410,72.7109375,0,9,23,19,25,0
+tou_gpt-oss-20b-high_1.cpp,RUNTIME_ERROR,0,0.00%,5.17%,1.470,364.1484375,0,0,0,0,0,0
+tou_gpt-oss-20b-high_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,9.05%,2.430,376.66796875,0,0,0,0,0,0
+tou_gpt-oss-20b-high_3.cpp,RUNTIME_ERROR,0,0.00%,32.76%,0.860,146.4453125,0,0,0,0,0,0

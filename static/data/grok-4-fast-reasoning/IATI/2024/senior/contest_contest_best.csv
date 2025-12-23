@@ -1,0 +1,6 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+five,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,5,5.00%,22.81%,0.860,14.25
+game,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,26,26.00%,53.33%,1.810,9.04296875
+lexgcd,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,29,29.00%,45.04%,1.800,22.26953125
+ones,grok-4-fast-reasoning,WRONG_ANSWER,57,57.00%,0.00%,0.140,2.09375
+travel,grok-4-fast-reasoning,RUNTIME_ERROR,35,35.00%,44.05%,0.350,182.53515625

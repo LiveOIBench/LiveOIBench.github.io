@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Cowreography,claude-sonnet-4.5,MEMORY_LIMIT_EXCEEDED,33,10.31%,21.74%,0.180,306.2265625
+gold_Grass_Segments,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,39,12.07%,25.00%,2.410,3.62109375
+gold_Smaller_Averages,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,188,58.75%,65.00%,2.420,3.36328125

@@ -1,0 +1,7 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+tura_grok-4-fast-reasoning_0.cpp,RUNTIME_ERROR,0,0.00%,0.72%,0.010,1.55078125,0,0,0
+tura_grok-4-fast-reasoning_1.cpp,RUNTIME_ERROR,0,0.00%,0.72%,0.010,2.5859375,0,0,0
+tura_grok-4-fast-reasoning_2.cpp,RUNTIME_ERROR,0,0.00%,0.72%,0.010,4.3828125,0,0,0
+tura_grok-4-fast-reasoning_4.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.010,1.5546875,0,0,0
+tura_grok-4-fast-reasoning_5.cpp,TIME_LIMIT_EXCEEDED,11,9.17%,30.22%,0.620,613.46875,11,0,0
+tura_grok-4-fast-reasoning_6.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0

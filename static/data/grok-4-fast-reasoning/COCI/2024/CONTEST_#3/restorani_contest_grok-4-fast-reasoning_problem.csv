@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+restorani_grok-4-fast-reasoning_0.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0
+restorani_grok-4-fast-reasoning_1.cpp,RUNTIME_ERROR,0,0.00%,0.68%,0.140,72.953125,0,0,0,0
+restorani_grok-4-fast-reasoning_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.37%,2.420,188.7265625,0,0,0,0
+restorani_grok-4-fast-reasoning_3.cpp,RUNTIME_ERROR,0,0.00%,0.68%,0.110,47.9609375,0,0,0,0
+restorani_grok-4-fast-reasoning_4.cpp,RUNTIME_ERROR,0,0.00%,0.68%,1.500,101.56640625,0,0,0,0
+restorani_grok-4-fast-reasoning_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.05%,2.440,516.71484375,0,0,0,0
+restorani_grok-4-fast-reasoning_6.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0
+restorani_grok-4-fast-reasoning_7.cpp,RUNTIME_ERROR,0,0.00%,2.05%,0.160,61.36328125,0,0,0,0

@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-gold_Find_and_Replace,gpt-5,ACCEPTED,333,100.00%,0.130,9.02734375
-gold_Lights_Off,gpt-5,ACCEPTED,333,100.00%,0.180,7.2265625
-gold_Moo_Route,gpt-5,WRONG_ANSWER,33,14.29%,0.110,10.06640625
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Find_and_Replace,gpt-5,ACCEPTED,333,103.42%,100.00%,0.140,9.046875
+gold_Lights_Off,gpt-5,ACCEPTED,333,102.78%,100.00%,0.280,7.2265625
+gold_Moo_Route,gpt-5,WRONG_ANSWER,33,10.31%,14.29%,0.130,10.58203125

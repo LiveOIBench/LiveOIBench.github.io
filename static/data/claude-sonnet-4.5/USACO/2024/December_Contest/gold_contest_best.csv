@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Cowdependence,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,35,10.84%,15.00%,2.410,5.42578125
+gold_Interstellar_Intervals,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,117,36.56%,43.48%,2.420,9.53515625
+gold_Job_Completion,claude-sonnet-4.5,ACCEPTED,333,100.91%,100.00%,0.230,6.78125

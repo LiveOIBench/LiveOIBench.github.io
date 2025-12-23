@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+cyberland_gpt-oss-120b_0.cpp,RUNTIME_ERROR,15,15.00%,20.73%,0.890,20.88671875,0,0,8,0,0,7,0,0,0
+cyberland_gpt-oss-120b_1.cpp,RUNTIME_ERROR,15,15.00%,18.29%,0.580,33.24609375,0,0,8,0,0,7,0,0,0
+cyberland_gpt-oss-120b_2.cpp,RUNTIME_ERROR,15,15.00%,20.73%,0.560,27.39453125,0,0,8,0,0,7,0,0,0
+cyberland_gpt-oss-120b_3.cpp,RUNTIME_ERROR,15,15.00%,20.73%,0.900,20.88671875,0,0,8,0,0,7,0,0,0
+cyberland_gpt-oss-120b_4.cpp,RUNTIME_ERROR,15,15.00%,20.73%,0.360,10.80859375,0,0,8,0,0,7,0,0,0
+cyberland_gpt-oss-120b_5.cpp,RUNTIME_ERROR,15,15.00%,20.73%,1.010,20.8828125,0,0,8,0,0,7,0,0,0
+cyberland_gpt-oss-120b_6.cpp,RUNTIME_ERROR,20,20.00%,23.17%,0.580,20.8828125,0,5,8,0,0,7,0,0,0
+cyberland_gpt-oss-120b_7.cpp,RUNTIME_ERROR,15,15.00%,20.73%,0.850,20.88671875,0,0,8,0,0,7,0,0,0

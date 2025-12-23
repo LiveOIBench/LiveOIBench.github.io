@@ -1,0 +1,8 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+Colorful_graph,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.040,3.359375
+Hard_problem,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.100,4.39453125
+Lunch,grok-4-fast-reasoning,RUNTIME_ERROR,16,16.00%,46.15%,0.010,0
+Space_accident,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.020,2.07421875
+Tournament,grok-4-fast-reasoning,MEMORY_LIMIT_EXCEEDED,80,80.00%,97.15%,0.010,1.6796875
+Yet_another_queries,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,67,67.00%,79.87%,1.800,73.53515625
+Legs_warm-up_exercise,grok-4-fast-reasoning,UNKNOWN,0,0.00%,0.00%,0.000,0

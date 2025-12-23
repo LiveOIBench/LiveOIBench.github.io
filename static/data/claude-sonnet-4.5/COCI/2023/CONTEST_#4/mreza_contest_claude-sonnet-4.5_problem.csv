@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+mreza_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,21,19.09%,47.22%,5.980,36.24609375,21,0,0
+mreza_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,21,19.09%,47.22%,5.990,20.44921875,21,0,0
+mreza_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,21,19.09%,47.22%,5.980,20.33984375,21,0,0
+mreza_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,21,19.09%,47.22%,5.980,25.13671875,21,0,0
+mreza_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,21,19.09%,47.22%,5.980,30.15234375,21,0,0
+mreza_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,21,19.09%,47.22%,5.980,18.32421875,21,0,0
+mreza_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,21,19.09%,47.22%,5.980,18.8359375,21,0,0
+mreza_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,21,19.09%,47.22%,5.980,34.3671875,21,0,0

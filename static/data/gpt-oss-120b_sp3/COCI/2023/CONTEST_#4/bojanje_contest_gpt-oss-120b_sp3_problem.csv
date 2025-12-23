@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+bojanje_gpt-oss-120b_0.cpp,RUNTIME_ERROR,30,27.27%,33.33%,0.010,0.00390625,30,0,0
+bojanje_gpt-oss-120b_1.cpp,ACCEPTED,110,100.00%,100.00%,0.010,1.60546875,30,40,40
+bojanje_gpt-oss-120b_2.cpp,RUNTIME_ERROR,30,27.27%,53.33%,0.010,1.55078125,30,0,0
+bojanje_gpt-oss-120b_3.cpp,ACCEPTED,110,100.00%,100.00%,0.010,0.00390625,30,40,40
+bojanje_gpt-oss-120b_4.cpp,RUNTIME_ERROR,30,27.27%,33.33%,0.010,0,30,0,0
+bojanje_gpt-oss-120b_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,1.220,0.00390625,0,0,0
+bojanje_gpt-oss-120b_6.cpp,ACCEPTED,110,100.00%,100.00%,0.010,0.00390625,30,40,40
+bojanje_gpt-oss-120b_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,1.210,0.00390625,0,0,0

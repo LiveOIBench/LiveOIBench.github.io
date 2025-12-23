@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Election_Queries_gpt-oss-120b_0.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.210,13.92578125,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Election_Queries_gpt-oss-120b_1.cpp,WRONG_ANSWER,0,0.00%,13.33%,0.230,17.01953125,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Election_Queries_gpt-oss-120b_2.cpp,WRONG_ANSWER,0,0.00%,13.33%,0.230,6.9609375,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Election_Queries_gpt-oss-120b_3.cpp,WRONG_ANSWER,0,0.00%,6.67%,0.190,3.875,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Election_Queries_gpt-oss-120b_4.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.180,3.6171875,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Election_Queries_gpt-oss-120b_5.cpp,WRONG_ANSWER,0,0.00%,13.33%,0.230,7.078125,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Election_Queries_gpt-oss-120b_6.cpp,WRONG_ANSWER,0,0.00%,6.67%,0.190,3.875,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Election_Queries_gpt-oss-120b_7.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.240,12.99609375,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
-j4_Llama-4-Scout_0.cpp,RUNTIME_ERROR,0,0.00%,0.010,2.07421875,0,0,0,0
-j4_Llama-4-Scout_1.cpp,RUNTIME_ERROR,0,0.00%,0.010,1.82421875,0,0,0,0
-j4_Llama-4-Scout_2.cpp,RUNTIME_ERROR,3,16.13%,0.010,0.00390625,3,0,0,0
-j4_Llama-4-Scout_3.cpp,RUNTIME_ERROR,0,0.00%,0.010,2.08203125,0,0,0,0
-j4_Llama-4-Scout_4.cpp,RUNTIME_ERROR,0,0.00%,0.020,2.078125,0,0,0,0
-j4_Llama-4-Scout_5.cpp,RUNTIME_ERROR,6,41.94%,0.010,0.00390625,3,3,0,0
-j4_Llama-4-Scout_6.cpp,RUNTIME_ERROR,0,0.00%,0.010,2.08203125,0,0,0,0
-j4_Llama-4-Scout_7.cpp,RUNTIME_ERROR,3,16.13%,0.010,0.00390625,3,0,0,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+j4_Llama-4-Scout_0.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.040,2.07421875,0,0,0,0
+j4_Llama-4-Scout_1.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.050,1.828125,0,0,0,0
+j4_Llama-4-Scout_2.cpp,RUNTIME_ERROR,3,20.00%,16.13%,0.040,0.00390625,3,0,0,0
+j4_Llama-4-Scout_3.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.050,2.078125,0,0,0,0
+j4_Llama-4-Scout_4.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.040,1.70703125,0,0,0,0
+j4_Llama-4-Scout_5.cpp,RUNTIME_ERROR,6,40.00%,41.94%,0.040,1.7109375,3,3,0,0
+j4_Llama-4-Scout_6.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.050,1.5546875,0,0,0,0
+j4_Llama-4-Scout_7.cpp,RUNTIME_ERROR,3,20.00%,16.13%,0.040,2.078125,3,0,0,0

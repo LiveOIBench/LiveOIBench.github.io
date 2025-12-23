@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+diplomacy,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,25,25.00%,61.46%,4.810,31.3828125
+garbage,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.170,22.8046875
+xoracle,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.330,3.8203125

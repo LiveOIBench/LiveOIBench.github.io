@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
-gold_Moo_Route_Qwen2.5-Coder-7B-Instruct_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-gold_Moo_Route_Qwen2.5-Coder-7B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.520,3.125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-gold_Moo_Route_Qwen2.5-Coder-7B-Instruct_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-gold_Moo_Route_Qwen2.5-Coder-7B-Instruct_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-gold_Moo_Route_Qwen2.5-Coder-7B-Instruct_4.cpp,WRONG_ANSWER,0,0.00%,0.120,1.81640625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-gold_Moo_Route_Qwen2.5-Coder-7B-Instruct_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.240,231.52734375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-gold_Moo_Route_Qwen2.5-Coder-7B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.320,193.11328125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-gold_Moo_Route_Qwen2.5-Coder-7B-Instruct_7.cpp,RUNTIME_ERROR,0,0.00%,0.160,2.53125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Moo_Route_Qwen2.5-Coder-7B-Instruct_0.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Moo_Route_Qwen2.5-Coder-7B-Instruct_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.670,3.12109375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Moo_Route_Qwen2.5-Coder-7B-Instruct_2.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Moo_Route_Qwen2.5-Coder-7B-Instruct_3.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Moo_Route_Qwen2.5-Coder-7B-Instruct_4.cpp,WRONG_ANSWER,0,0.00%,0.00%,0.130,2.58984375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Moo_Route_Qwen2.5-Coder-7B-Instruct_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.00%,0.220,285.92578125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Moo_Route_Qwen2.5-Coder-7B-Instruct_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.420,193.11328125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Moo_Route_Qwen2.5-Coder-7B-Instruct_7.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.160,2.53125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

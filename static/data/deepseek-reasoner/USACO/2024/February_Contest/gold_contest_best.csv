@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-gold_Bessla_Motors,deepseek-reasoner,TIME_LIMIT_EXCEEDED,139,53.33%,3.320,6.70703125
-gold_Milk_Exchange,deepseek-reasoner,TIME_LIMIT_EXCEEDED,50,26.09%,2.230,9.03125
-gold_Quantum_Moochanics,deepseek-reasoner,MEMORY_LIMIT_EXCEEDED,33,16.67%,0.110,8.74609375
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Bessla_Motors,deepseek-reasoner,TIME_LIMIT_EXCEEDED,139,42.90%,53.33%,3.630,6.546875
+gold_Milk_Exchange,deepseek-reasoner,TIME_LIMIT_EXCEEDED,50,15.62%,26.09%,2.550,9.03125
+gold_Quantum_Moochanics,deepseek-reasoner,WRONG_ANSWER,33,10.00%,16.67%,0.180,4.91015625

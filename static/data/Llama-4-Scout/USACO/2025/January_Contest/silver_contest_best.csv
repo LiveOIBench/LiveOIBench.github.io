@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-silver_Cow_Checkups,Llama-4-Scout,TIME_LIMIT_EXCEEDED,17,17.39%,2.420,7.0859375
-silver_Farmer_Johns_Favorite_Operation,Llama-4-Scout,TIME_LIMIT_EXCEEDED,22,12.50%,2.420,2.84765625
-silver_Table_Recovery,Llama-4-Scout,RUNTIME_ERROR,0,6.67%,0.100,9.03515625
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_Cow_Checkups,Llama-4-Scout,TIME_LIMIT_EXCEEDED,17,5.31%,17.39%,2.480,7.0859375
+silver_Farmer_Johns_Favorite_Operation,Llama-4-Scout,TIME_LIMIT_EXCEEDED,22,6.67%,12.50%,2.520,2.84765625
+silver_Table_Recovery,Llama-4-Scout,RUNTIME_ERROR,0,0.00%,6.67%,0.230,9.03515625

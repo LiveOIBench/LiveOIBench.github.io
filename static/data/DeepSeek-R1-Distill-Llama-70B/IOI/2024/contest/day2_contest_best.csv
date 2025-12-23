@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-hieroglyphs,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,3,6.99%,0.080,22.3046875
-sphinx,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,10,49.52%,0.390,4.140625
-mosaic,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,22,64.86%,1.110,2236.796875
+problem,model,status,score,relative_score,%test passed,time,memory
+hieroglyphs,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,3,3.00%,6.99%,0.070,21.53125
+sphinx,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,10,10.00%,49.52%,0.310,4.16015625
+mosaic,DeepSeek-R1-Distill-Llama-70B,MEMORY_LIMIT_EXCEEDED,22,22.00%,64.86%,0.910,2444.3359375

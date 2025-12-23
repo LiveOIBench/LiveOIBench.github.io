@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+soccer,grok-4-fast-reasoning,RUNTIME_ERROR,6,6.00%,22.31%,0.760,673.40625
+closing,grok-4-fast-reasoning,RUNTIME_ERROR,17,17.00%,33.14%,0.090,33.4140625
+longesttrip,grok-4-fast-reasoning,RUNTIME_ERROR,15,15.00%,20.48%,0.200,4.0703125

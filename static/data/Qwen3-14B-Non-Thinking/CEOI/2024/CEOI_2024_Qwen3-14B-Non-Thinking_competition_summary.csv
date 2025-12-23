@@ -1,8 +1,8 @@
-problem,status,score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
-covid,TIME_LIMIT_EXCEEDED,10,66.67%,6.110,1.5390625,,0,10,0,0,0,0,0,0
-battle,RUNTIME_ERROR,0,12.50%,0.170,25.78515625,,0,0,0,0,0,0,0,0
-editor,RUNTIME_ERROR,0,11.29%,0.110,8.00390625,,0,0,0,0,0,0,0,0
-toy,TIME_LIMIT_EXCEEDED,14,56.81%,1.490,1121.8125,,0,14,0,0,0,0,0,0
-stations,RUNTIME_ERROR,0,4.55%,0.120,5.30078125,,0,0,0,0,0,0,0,0
-sprinklers,RUNTIME_ERROR,6,21.74%,0.050,2.47265625,,0,0,6,0,0,0,0,0
-TOTAL,,30,28.92%,,,0.00%,,,,,,,,
+problem,status,score,relative_score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+covid,RUNTIME_ERROR,10,10.00%,66.67%,5.990,1.55078125,,0,10,0,0,0,0,0,0
+battle,RUNTIME_ERROR,0,0.00%,12.50%,0.150,25.78515625,,0,0,0,0,0,0,0,0
+editor,RUNTIME_ERROR,0,0.00%,11.29%,0.090,8.00390625,,0,0,0,0,0,0,0,0
+toy,TIME_LIMIT_EXCEEDED,14,14.00%,56.81%,1.640,1226.16015625,,0,14,0,0,0,0,0,0
+stations,RUNTIME_ERROR,0,0.00%,4.55%,0.110,5.296875,,0,0,0,0,0,0,0,0
+sprinklers,RUNTIME_ERROR,6,6.00%,21.74%,0.050,2.47265625,,0,0,6,0,0,0,0,0
+TOTAL,,30,,28.92%,,,0.00%,,,,,,,,

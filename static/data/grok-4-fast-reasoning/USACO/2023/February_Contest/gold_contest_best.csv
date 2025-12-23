@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Equal_Sum_Subarrays,grok-4-fast-reasoning,ACCEPTED,333,103.42%,100.00%,3.230,2.328125
+gold_Fertilizing_Pastures,grok-4-fast-reasoning,ACCEPTED,333,104.06%,100.00%,0.070,26.046875
+gold_Piling_Papers,grok-4-fast-reasoning,ACCEPTED,333,102.78%,100.00%,1.000,31.08984375

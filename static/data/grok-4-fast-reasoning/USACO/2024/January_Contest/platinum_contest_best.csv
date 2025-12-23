@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+platinum_Island_Vacation,grok-4-fast-reasoning,MEMORY_LIMIT_EXCEEDED,33,10.31%,13.04%,1.830,306.60546875
+platinum_Merging_Cells,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,200,62.50%,63.64%,2.410,22.1796875
+platinum_Mooball_Teams_III,grok-4-fast-reasoning,ACCEPTED,333,104.06%,100.00%,0.410,24.3984375

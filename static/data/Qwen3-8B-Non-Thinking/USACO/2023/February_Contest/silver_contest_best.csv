@@ -1,2 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-silver_Bakery,Qwen3-8B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_Bakery,Qwen3-8B-Non-Thinking,TIME_LIMIT_EXCEEDED,100,30.30%,36.36%,2.470,0.00390625
+silver_Cow-libi,Qwen3-8B-Non-Thinking,WRONG_ANSWER,0,0.00%,9.09%,0.200,3.62109375
+silver_Moo_Route_II,Qwen3-8B-Non-Thinking,RUNTIME_ERROR,130,40.12%,35.00%,0.330,17.5390625

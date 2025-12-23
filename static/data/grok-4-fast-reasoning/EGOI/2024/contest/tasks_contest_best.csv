@@ -1,0 +1,7 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+bikeparking,grok-4-fast-reasoning,RUNTIME_ERROR,25,25.00%,61.49%,0.040,5.94140625
+bouquet,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.080,17.2734375
+circlepassing,grok-4-fast-reasoning,RUNTIME_ERROR,14,14.00%,35.87%,0.010,0.00390625
+infiniterace,grok-4-fast-reasoning,RUNTIME_ERROR,0,0.00%,17.33%,0.010,0.00390625
+makethemmeet,grok-4-fast-reasoning,RUNTIME_ERROR,11,11.00%,16.00%,0.050,1.55078125
+teamcoding,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,12,12.00%,55.80%,4.820,19.59765625

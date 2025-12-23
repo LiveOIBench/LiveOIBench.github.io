@@ -1,0 +1,5 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+Dreaming_is_not_harmful,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,8,8.00%,53.89%,2.410,19.67578125
+Cute_Subsequences,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,14,14.00%,63.16%,1.210,306.10546875
+The_arithmetic_exercise,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,19,19.00%,46.90%,2.420,300.61328125
+Alice_Bob_and_two_arrays,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,13,13.00%,32.52%,2.990,251.37109375

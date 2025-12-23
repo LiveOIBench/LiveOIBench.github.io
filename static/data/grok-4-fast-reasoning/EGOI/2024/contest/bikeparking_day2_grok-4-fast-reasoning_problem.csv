@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+bikeparking_grok-4-fast-reasoning_0.cpp,RUNTIME_ERROR,25,25.00%,61.49%,0.040,5.94140625,0,16,9,0,0,0
+bikeparking_grok-4-fast-reasoning_1.cpp,RUNTIME_ERROR,25,25.00%,61.49%,0.030,5.94140625,0,16,9,0,0,0
+bikeparking_grok-4-fast-reasoning_2.cpp,RUNTIME_ERROR,25,25.00%,61.49%,0.880,24.60546875,0,16,9,0,0,0
+bikeparking_grok-4-fast-reasoning_3.cpp,RUNTIME_ERROR,25,25.00%,61.49%,0.030,8.26171875,0,16,9,0,0,0
+bikeparking_grok-4-fast-reasoning_4.cpp,RUNTIME_ERROR,25,25.00%,61.49%,0.050,5.94140625,0,16,9,0,0,0
+bikeparking_grok-4-fast-reasoning_5.cpp,RUNTIME_ERROR,25,25.00%,61.49%,0.090,21.921875,0,16,9,0,0,0
+bikeparking_grok-4-fast-reasoning_6.cpp,RUNTIME_ERROR,25,25.00%,61.49%,0.040,5.94140625,0,16,9,0,0,0
+bikeparking_grok-4-fast-reasoning_7.cpp,RUNTIME_ERROR,25,25.00%,56.02%,0.030,8.26171875,0,16,9,0,0,0

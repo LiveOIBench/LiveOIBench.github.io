@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_Sequence_Construction,gpt-oss-120b_sp3,WRONG_ANSWER,0,0.00%,0.00%,0.020,0.00390625
+silver_Compatible_Pairs,gpt-oss-120b_sp3,ACCEPTED,333,100.91%,100.00%,0.660,81.66015625
+silver_Ski_Slope,gpt-oss-120b_sp3,ACCEPTED,333,104.06%,100.00%,0.120,43.02734375

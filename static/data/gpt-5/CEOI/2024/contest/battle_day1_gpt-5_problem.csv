@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
-battle_gpt-5_0.cpp,ACCEPTED,100,100.00%,0.620,160.41796875,0,6,12,8,11,9,30,24
-battle_gpt-5_1.cpp,ACCEPTED,100,100.00%,0.260,26.2109375,0,6,12,8,11,9,30,24
-battle_gpt-5_2.cpp,RUNTIME_ERROR,36,62.33%,0.110,13.6484375,0,6,0,0,0,0,30,0
-battle_gpt-5_3.cpp,RUNTIME_ERROR,0,12.50%,0.300,73.87109375,0,0,0,0,0,0,0,0
-battle_gpt-5_4.cpp,RUNTIME_ERROR,36,62.33%,0.260,71.5234375,0,6,0,0,0,0,30,0
-battle_gpt-5_5.cpp,RUNTIME_ERROR,36,56.72%,0.460,139.203125,0,6,0,0,0,0,30,0
-battle_gpt-5_6.cpp,ACCEPTED,100,100.00%,0.390,105.55859375,0,6,12,8,11,9,30,24
-battle_gpt-5_7.cpp,ACCEPTED,100,100.00%,0.170,31.34765625,0,6,12,8,11,9,30,24
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+battle_gpt-5_0.cpp,ACCEPTED,100,100.00%,100.00%,0.590,160.41796875,0,6,12,8,11,9,30,24
+battle_gpt-5_1.cpp,ACCEPTED,100,100.00%,100.00%,0.270,27.57421875,0,6,12,8,11,9,30,24
+battle_gpt-5_2.cpp,RUNTIME_ERROR,36,36.00%,62.33%,0.110,13.3984375,0,6,0,0,0,0,30,0
+battle_gpt-5_3.cpp,RUNTIME_ERROR,0,0.00%,12.50%,0.270,73.8671875,0,0,0,0,0,0,0,0
+battle_gpt-5_4.cpp,RUNTIME_ERROR,36,36.00%,62.33%,0.250,71.5234375,0,6,0,0,0,0,30,0
+battle_gpt-5_5.cpp,RUNTIME_ERROR,36,36.00%,56.72%,0.500,139.20703125,0,6,0,0,0,0,30,0
+battle_gpt-5_6.cpp,ACCEPTED,100,100.00%,100.00%,0.360,105.55859375,0,6,12,8,11,9,30,24
+battle_gpt-5_7.cpp,ACCEPTED,100,100.00%,100.00%,0.170,31.3515625,0,6,12,8,11,9,30,24

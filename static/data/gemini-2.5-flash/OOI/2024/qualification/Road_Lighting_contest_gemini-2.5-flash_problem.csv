@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
-Road_Lighting_gemini-2.5-flash_0.cpp,MEMORY_LIMIT_EXCEEDED,10,27.18%,0.960,35.94921875,0.0,0,0,10.0,0,0,0,0
-Road_Lighting_gemini-2.5-flash_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.220,15.21875,0,0,0,0,0,0,0,0
-Road_Lighting_gemini-2.5-flash_2.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
-Road_Lighting_gemini-2.5-flash_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.220,28.828125,0,0,0,0,0,0,0,0
-Road_Lighting_gemini-2.5-flash_4.cpp,TIME_LIMIT_EXCEEDED,24,58.65%,2.210,34.85546875,0.0,14.0,0,10.0,0,0,0,0
-Road_Lighting_gemini-2.5-flash_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.050,35.84375,0,0,0,0,0,0,0,0
-Road_Lighting_gemini-2.5-flash_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.210,26.875,0,0,0,0,0,0,0,0
-Road_Lighting_gemini-2.5-flash_7.cpp,UNKNOWN,0,0.00%,0.000,0,0,0,0,0,0,0,0,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+Road_Lighting_gemini-2.5-flash_0.cpp,MEMORY_LIMIT_EXCEEDED,10,10.00%,27.18%,0.980,44.19921875,0.0,0,0,10.0,0,0,0,0
+Road_Lighting_gemini-2.5-flash_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.450,15.21875,0,0,0,0,0,0,0,0
+Road_Lighting_gemini-2.5-flash_2.cpp,UNKNOWN,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0
+Road_Lighting_gemini-2.5-flash_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.460,28.828125,0,0,0,0,0,0,0,0
+Road_Lighting_gemini-2.5-flash_4.cpp,TIME_LIMIT_EXCEEDED,24,24.00%,58.65%,2.420,34.85546875,0.0,14.0,0,10.0,0,0,0,0
+Road_Lighting_gemini-2.5-flash_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.00%,0.110,35.84375,0,0,0,0,0,0,0,0
+Road_Lighting_gemini-2.5-flash_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.450,26.87890625,0,0,0,0,0,0,0,0
+Road_Lighting_gemini-2.5-flash_7.cpp,UNKNOWN,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0

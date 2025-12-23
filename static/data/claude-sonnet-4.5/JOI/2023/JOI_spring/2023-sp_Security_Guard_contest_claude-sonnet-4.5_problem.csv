@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+2023-sp_Security_Guard_claude-sonnet-4.5_0.cpp,RUNTIME_ERROR,0,0.00%,5.95%,0.130,26.62109375,0,0,0,0,0,0,0
+2023-sp_Security_Guard_claude-sonnet-4.5_1.cpp,RUNTIME_ERROR,0,0.00%,5.95%,0.090,4.39453125,0,0,0,0,0,0,0
+2023-sp_Security_Guard_claude-sonnet-4.5_2.cpp,RUNTIME_ERROR,0,0.00%,5.95%,0.080,30.22265625,0,0,0,0,0,0,0
+2023-sp_Security_Guard_claude-sonnet-4.5_3.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.00%,2.020,525.87890625,0,0,0,0,0,0,0
+2023-sp_Security_Guard_claude-sonnet-4.5_4.cpp,RUNTIME_ERROR,0,0.00%,5.95%,0.090,2.84765625,0,0,0,0,0,0,0
+2023-sp_Security_Guard_claude-sonnet-4.5_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.00%,2.050,780.10546875,0,0,0,0,0,0,0
+2023-sp_Security_Guard_claude-sonnet-4.5_6.cpp,RUNTIME_ERROR,0,0.00%,5.95%,0.150,74.81640625,0,0,0,0,0,0,0
+2023-sp_Security_Guard_claude-sonnet-4.5_7.cpp,RUNTIME_ERROR,0,0.00%,5.95%,0.090,4.390625,0,0,0,0,0,0,0

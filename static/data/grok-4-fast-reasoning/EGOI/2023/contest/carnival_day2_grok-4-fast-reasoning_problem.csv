@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4
+carnival_grok-4-fast-reasoning_0.cpp,ACCEPTED,100,100.00%,100.00%,0.080,3.36328125,0,11,23,29,37
+carnival_grok-4-fast-reasoning_1.cpp,ACCEPTED,100,100.00%,100.00%,0.040,5.1640625,0,11,23,29,37
+carnival_grok-4-fast-reasoning_2.cpp,ACCEPTED,100,100.00%,100.00%,0.090,5.1640625,0,11,23,29,37
+carnival_grok-4-fast-reasoning_3.cpp,ACCEPTED,100,100.00%,100.00%,0.080,4.1328125,0,11,23,29,37
+carnival_grok-4-fast-reasoning_4.cpp,ACCEPTED,100,100.00%,100.00%,0.070,0.00390625,0,11,23,29,37
+carnival_grok-4-fast-reasoning_5.cpp,ACCEPTED,100,100.00%,100.00%,0.060,3.359375,0,11,23,29,37
+carnival_grok-4-fast-reasoning_6.cpp,ACCEPTED,100,100.00%,100.00%,0.040,8.53125,0,11,23,29,37
+carnival_grok-4-fast-reasoning_7.cpp,ACCEPTED,100,100.00%,100.00%,0.040,3.87890625,0,11,23,29,37

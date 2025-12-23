@@ -1,0 +1,7 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+2024-sp_Board_Game_grok-4-fast-reasoning_0.cpp,RUNTIME_ERROR,17,17.00%,36.04%,0.030,5.9609375,3,7,7,0,0,0,0,0
+2024-sp_Board_Game_grok-4-fast-reasoning_1.cpp,RUNTIME_ERROR,10,10.00%,27.72%,0.040,9.80078125,3,7,0,0,0,0,0,0
+2024-sp_Board_Game_grok-4-fast-reasoning_2.cpp,RUNTIME_ERROR,17,17.00%,38.61%,3.160,773.7734375,3,7,7,0,0,0,0,0
+2024-sp_Board_Game_grok-4-fast-reasoning_3.cpp,TIME_LIMIT_EXCEEDED,3,3.00%,18.24%,4.820,10.578125,3,0,0,0,0,0,0,0
+2024-sp_Board_Game_grok-4-fast-reasoning_6.cpp,RUNTIME_ERROR,3,3.00%,8.07%,0.050,7.0234375,3,0,0,0,0,0,0,0
+2024-sp_Board_Game_grok-4-fast-reasoning_7.cpp,RUNTIME_ERROR,10,10.00%,27.72%,0.030,6.109375,3,7,0,0,0,0,0,0

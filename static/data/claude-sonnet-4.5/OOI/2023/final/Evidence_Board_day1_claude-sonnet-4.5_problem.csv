@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Evidence_Board_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,10,10.00%,40.11%,2.420,21.0,0.0,10.0,0,0,0,0,0,0,0,0
+Evidence_Board_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,10,10.00%,40.11%,2.420,11.3515625,0.0,10.0,0,0,0,0,0,0,0,0
+Evidence_Board_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,10,10.00%,40.11%,2.410,16.76171875,0.0,10.0,0,0,0,0,0,0,0,0
+Evidence_Board_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,10,10.00%,45.21%,2.420,56.71484375,0.0,10.0,0,0,0,0,0,0,0,0
+Evidence_Board_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,10,10.00%,40.11%,2.420,22.26953125,0.0,10.0,0,0,0,0,0,0,0,0
+Evidence_Board_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,10,10.00%,40.11%,2.420,21.91796875,0.0,10.0,0,0,0,0,0,0,0,0
+Evidence_Board_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,10,10.00%,40.11%,2.410,612.82421875,0.0,10.0,0,0,0,0,0,0,0,0
+Evidence_Board_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,10,10.00%,40.11%,2.410,385.0234375,0.0,10.0,0,0,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+astronomer_gpt-oss-120b_0.cpp,RUNTIME_ERROR,8,8.00%,25.00%,0.180,0.00390625,0,8,0,0,0,0,0,0
+astronomer_gpt-oss-120b_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,26.42%,5.980,0.00390625,0,0,0,0,0,0,0,0
+astronomer_gpt-oss-120b_2.cpp,RUNTIME_ERROR,23,23.00%,40.85%,1.990,0.00390625,0,8,0,0,0,0,15,0
+astronomer_gpt-oss-120b_3.cpp,RUNTIME_ERROR,23,23.00%,36.54%,2.140,0.00390625,0,8,0,0,0,0,15,0
+astronomer_gpt-oss-120b_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,82.26%,5.980,1.86328125,0,0,0,0,0,0,0,0
+astronomer_gpt-oss-120b_5.cpp,RUNTIME_ERROR,23,23.00%,40.85%,1.970,0.00390625,0,8,0,0,0,0,15,0
+astronomer_gpt-oss-120b_6.cpp,RUNTIME_ERROR,8,8.00%,49.51%,5.730,0.00390625,0,8,0,0,0,0,0,0
+astronomer_gpt-oss-120b_7.cpp,RUNTIME_ERROR,8,8.00%,23.72%,0.020,0.00390625,0,8,0,0,0,0,0,0

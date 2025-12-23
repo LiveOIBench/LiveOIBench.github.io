@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+walk_claude-sonnet-4.5_0.cpp,ACCEPTED,100,100.00%,100.00%,0.390,26.23828125,0,10,7,29,27,7,14,6
+walk_claude-sonnet-4.5_1.cpp,RUNTIME_ERROR,7,7.00%,17.86%,0.120,13.75,0,0,7,0,0,0,0,0
+walk_claude-sonnet-4.5_2.cpp,ACCEPTED,100,100.00%,100.00%,1.240,62.49609375,0,10,7,29,27,7,14,6
+walk_claude-sonnet-4.5_3.cpp,ACCEPTED,100,100.00%,100.00%,1.030,62.515625,0,10,7,29,27,7,14,6
+walk_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,80,80.00%,93.12%,1.800,126.390625,0,10,7,29,27,7,0,0
+walk_claude-sonnet-4.5_5.cpp,ACCEPTED,100,100.00%,100.00%,0.650,23.9296875,0,10,7,29,27,7,14,6
+walk_claude-sonnet-4.5_6.cpp,ACCEPTED,100,100.00%,100.00%,0.740,62.51953125,0,10,7,29,27,7,14,6
+walk_claude-sonnet-4.5_7.cpp,ACCEPTED,100,100.00%,100.00%,0.400,25.46875,0,10,7,29,27,7,14,6

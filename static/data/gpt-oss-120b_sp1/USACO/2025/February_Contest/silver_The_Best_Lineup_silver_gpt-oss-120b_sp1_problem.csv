@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_The_Best_Lineup_gpt-oss-120b_0.cpp,WRONG_ANSWER,0,0.00%,5.56%,0.230,6.58203125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_The_Best_Lineup_gpt-oss-120b_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.570,6.84375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_The_Best_Lineup_gpt-oss-120b_2.cpp,WRONG_ANSWER,0,0.00%,0.00%,0.200,10.87890625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_The_Best_Lineup_gpt-oss-120b_3.cpp,WRONG_ANSWER,0,0.00%,0.00%,0.200,2.84765625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_The_Best_Lineup_gpt-oss-120b_4.cpp,WRONG_ANSWER,0,0.00%,5.56%,0.210,6.88671875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_The_Best_Lineup_gpt-oss-120b_5.cpp,WRONG_ANSWER,0,0.00%,0.00%,0.260,12.49609375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_The_Best_Lineup_gpt-oss-120b_6.cpp,WRONG_ANSWER,0,0.00%,0.00%,0.200,3.8984375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+silver_The_Best_Lineup_gpt-oss-120b_7.cpp,WRONG_ANSWER,0,0.00%,0.00%,0.210,6.71875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

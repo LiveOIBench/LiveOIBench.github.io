@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_The_Best_Lineup,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,59,18.27%,22.22%,2.410,6.21875
+silver_Vocabulary_Quiz,claude-sonnet-4.5,MEMORY_LIMIT_EXCEEDED,156,47.27%,55.56%,0.350,264.78125
+silver_Transforming_Pairs,claude-sonnet-4.5,ACCEPTED,333,100.91%,100.00%,0.020,0.00390625

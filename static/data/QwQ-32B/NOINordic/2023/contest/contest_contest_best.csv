@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-icecreammachines,QwQ-32B,TIME_LIMIT_EXCEEDED,79,99.15%,1.170,17.28125
-chatnoi,QwQ-32B,RUNTIME_ERROR,12,59.32%,1.160,200.5546875
-islandalliances,QwQ-32B,ACCEPTED,100,100.00%,0.220,14.2421875
+problem,model,status,score,relative_score,%test passed,time,memory
+icecreammachines,QwQ-32B,TIME_LIMIT_EXCEEDED,79,79.00%,99.15%,1.310,17.27734375
+chatnoi,QwQ-32B,RUNTIME_ERROR,12,12.00%,59.32%,1.080,200.5546875
+islandalliances,QwQ-32B,ACCEPTED,100,100.00%,100.00%,0.250,13.71484375

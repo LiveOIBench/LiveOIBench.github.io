@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-bronze_Candy_Cane_Feast,Mistral-Large-Instruct-2411,ACCEPTED,333,100.00%,0.370,4.39453125
-bronze_Cowntact_Tracing_2,Mistral-Large-Instruct-2411,WRONG_ANSWER,100,33.33%,0.110,1.70703125
-bronze_Farmer_John_Actually_Farms,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.000,0
+problem,model,status,score,relative_score,%test passed,time,memory
+bronze_Candy_Cane_Feast,Mistral-Large-Instruct-2411,ACCEPTED,333,102.46%,100.00%,0.360,4.39453125
+bronze_Cowntact_Tracing_2,Mistral-Large-Instruct-2411,WRONG_ANSWER,100,30.30%,33.33%,0.130,1.5546875
+bronze_Farmer_John_Actually_Farms,Mistral-Large-Instruct-2411,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0

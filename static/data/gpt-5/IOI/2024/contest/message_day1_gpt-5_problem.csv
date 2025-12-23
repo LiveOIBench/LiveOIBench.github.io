@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
-message_gpt-5_0.cpp,RUNTIME_ERROR,0,6.67%,0.140,3.9609375,0,0.0,0.0
-message_gpt-5_1.cpp,RUNTIME_ERROR,0,6.67%,0.150,3.7890625,0,0.0,0.0
-message_gpt-5_2.cpp,RUNTIME_ERROR,0,6.67%,0.190,3.83203125,0,0.0,0.0
-message_gpt-5_3.cpp,RUNTIME_ERROR,0,6.67%,0.140,3.88671875,0,0.0,0.0
-message_gpt-5_4.cpp,RUNTIME_ERROR,0,6.67%,0.170,3.91796875,0,0.0,0.0
-message_gpt-5_5.cpp,RUNTIME_ERROR,0,6.67%,0.160,3.8203125,0,0.0,0.0
-message_gpt-5_6.cpp,RUNTIME_ERROR,0,6.67%,0.160,3.88671875,0,0.0,0.0
-message_gpt-5_7.cpp,RUNTIME_ERROR,0,6.67%,0.160,4.015625,0,0.0,0.0
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2
+message_gpt-5_0.cpp,RUNTIME_ERROR,0,0.00%,6.67%,0.130,3.90234375,0,0.0,0.0
+message_gpt-5_1.cpp,RUNTIME_ERROR,0,0.00%,6.67%,0.140,3.9609375,0,0.0,0.0
+message_gpt-5_2.cpp,RUNTIME_ERROR,0,0.00%,6.67%,0.150,3.875,0,0.0,0.0
+message_gpt-5_3.cpp,RUNTIME_ERROR,0,0.00%,6.67%,0.130,3.8828125,0,0.0,0.0
+message_gpt-5_4.cpp,RUNTIME_ERROR,0,0.00%,6.67%,0.150,3.94140625,0,0.0,0.0
+message_gpt-5_5.cpp,RUNTIME_ERROR,0,0.00%,6.67%,0.140,4.03515625,0,0.0,0.0
+message_gpt-5_6.cpp,RUNTIME_ERROR,0,0.00%,6.67%,0.160,3.96484375,0,0.0,0.0
+message_gpt-5_7.cpp,RUNTIME_ERROR,0,0.00%,6.67%,0.170,4.046875,0,0.0,0.0

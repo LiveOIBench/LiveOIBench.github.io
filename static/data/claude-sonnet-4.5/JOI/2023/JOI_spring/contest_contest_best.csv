@@ -1,0 +1,12 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+2023-sp_Two_Currencies,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,10,10.00%,62.16%,4.810,26.4296875
+2023-sp_Festivals_in_JOI_Kingdom_2,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,10,10.00%,71.91%,7.210,0.00390625
+2023-sp_Passport,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,0,0.00%,56.96%,2.410,20.16796875
+2023-sp_Belt_Conveyor,claude-sonnet-4.5,RUNTIME_ERROR,1,1.00%,16.13%,0.570,11.15234375
+2023-sp_Council,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,78,78.00%,96.90%,3.600,14.48046875
+2023-sp_Mizuyokan_2,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,15,15.00%,68.60%,3.610,141.6875
+2023-sp_Chorus,claude-sonnet-4.5,MEMORY_LIMIT_EXCEEDED,16,16.00%,54.24%,2.280,1226.29296875
+2023-sp_Cookies,claude-sonnet-4.5,RUNTIME_ERROR,13,13.00%,71.59%,0.850,8.9609375
+2023-sp_Tourism,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,28,28.00%,79.65%,4.820,17.5390625
+2023-sp_Security_Guard,claude-sonnet-4.5,RUNTIME_ERROR,0,0.00%,5.95%,0.080,30.22265625
+2023-sp_Bitaro’s_travel,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,15,15.00%,77.88%,2.410,12.125

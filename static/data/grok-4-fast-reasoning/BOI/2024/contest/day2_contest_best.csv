@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+fire,grok-4-fast-reasoning,RUNTIME_ERROR,40,40.00%,94.21%,0.340,91.34765625
+tiles,grok-4-fast-reasoning,RUNTIME_ERROR,24,24.00%,59.80%,0.180,30.4296875
+wall,grok-4-fast-reasoning,MEMORY_LIMIT_EXCEEDED,70,70.00%,96.94%,1.350,295.60546875

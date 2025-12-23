@@ -1,0 +1,6 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+zlagalica,gpt-oss-120b_sp1,ACCEPTED,50,100.00%,100.00%,0.000,0
+bitovi,gpt-oss-120b_sp1,RUNTIME_ERROR,0,0.00%,0.00%,0.060,1.5546875
+piratski,gpt-oss-120b_sp1,ACCEPTED,110,100.00%,100.00%,0.130,1.8125
+rolete,gpt-oss-120b_sp1,RUNTIME_ERROR,26,23.64%,22.45%,0.090,4.1328125
+trokut,gpt-oss-120b_sp1,RUNTIME_ERROR,0,0.00%,0.00%,0.050,0.00390625

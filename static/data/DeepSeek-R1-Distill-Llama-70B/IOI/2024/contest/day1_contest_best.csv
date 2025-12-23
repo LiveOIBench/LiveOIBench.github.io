@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-message,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,10,44.44%,3.740,4.4296875
-nile,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,17,20.69%,2.210,4.65625
-tree,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,2.67%,0.040,6.93359375
+problem,model,status,score,relative_score,%test passed,time,memory
+message,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,10,10.00%,44.44%,1.230,4.53125
+nile,DeepSeek-R1-Distill-Llama-70B,TIME_LIMIT_EXCEEDED,17,17.00%,20.69%,2.410,6.6484375
+tree,DeepSeek-R1-Distill-Llama-70B,RUNTIME_ERROR,0,0.00%,2.67%,0.050,6.4609375

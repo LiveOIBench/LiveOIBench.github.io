@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_Cake_Game,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,67,20.30%,27.27%,2.410,301.78125
+silver_Deforestation,claude-sonnet-4.5,MEMORY_LIMIT_EXCEEDED,33,10.00%,18.18%,0.570,237.1640625
+silver_2D_Conveyor_Belt,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,133,40.30%,53.85%,2.410,48.21875

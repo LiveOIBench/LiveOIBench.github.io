@@ -1,6 +1,6 @@
-problem,model,status,score,%test passed,time,memory
-bingo,gpt-o3-mini-high,ACCEPTED,50,100.00%,0.000,0
-knjige,gpt-o3-mini-high,ACCEPTED,70,100.00%,0.050,3.10546875
-lepeze,gpt-o3-mini-high,RUNTIME_ERROR,16,21.15%,0.210,46.66796875
-putovanje,gpt-o3-mini-high,ACCEPTED,110,100.00%,1.850,5.5859375
-roboti,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,23,52.27%,2.210,18.234375
+problem,model,status,score,relative_score,%test passed,time,memory
+bingo,gpt-o3-mini-high,ACCEPTED,50,100.00%,100.00%,0.000,0
+knjige,gpt-o3-mini-high,ACCEPTED,70,100.00%,100.00%,0.070,4.39453125
+lepeze,gpt-o3-mini-high,RUNTIME_ERROR,16,14.55%,21.15%,0.180,46.66796875
+putovanje,gpt-o3-mini-high,ACCEPTED,110,100.00%,100.00%,1.810,5.58984375
+roboti,gpt-o3-mini-high,TIME_LIMIT_EXCEEDED,23,20.91%,52.27%,2.420,17.3515625

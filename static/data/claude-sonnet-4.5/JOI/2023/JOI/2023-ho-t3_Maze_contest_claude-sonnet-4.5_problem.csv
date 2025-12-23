@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+2023-ho-t3_Maze_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,65.33%,2.420,1.8046875,0,0,0,0,0,0,0,0
+2023-ho-t3_Maze_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,27,27.00%,78.13%,2.410,9.8359375,8,19,0,0,0,0,0,0
+2023-ho-t3_Maze_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,27,27.00%,78.13%,2.440,9.83984375,8,19,0,0,0,0,0,0
+2023-ho-t3_Maze_claude-sonnet-4.5_3.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0
+2023-ho-t3_Maze_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,27,27.00%,78.68%,2.410,10.57421875,8,19,0,0,0,0,0,0
+2023-ho-t3_Maze_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,27,27.00%,74.33%,2.410,10.4296875,8,19,0,0,0,0,0,0
+2023-ho-t3_Maze_claude-sonnet-4.5_6.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0
+2023-ho-t3_Maze_claude-sonnet-4.5_7.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0

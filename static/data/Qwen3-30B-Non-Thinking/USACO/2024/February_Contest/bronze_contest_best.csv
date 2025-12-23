@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-bronze_Palindrome_Game,Qwen3-30B-Non-Thinking,TIME_LIMIT_EXCEEDED,167,53.85%,2.250,115.76171875
-bronze_Milk_Exchange,Qwen3-30B-Non-Thinking,MEMORY_LIMIT_EXCEEDED,128,50.00%,0.430,279.40234375
-bronze_Maximizing_Productivity,Qwen3-30B-Non-Thinking,ACCEPTED,333,100.00%,0.180,3.62109375
+problem,model,status,score,relative_score,%test passed,time,memory
+bronze_Palindrome_Game,Qwen3-30B-Non-Thinking,TIME_LIMIT_EXCEEDED,167,51.54%,53.85%,2.450,1.703125
+bronze_Milk_Exchange,Qwen3-30B-Non-Thinking,MEMORY_LIMIT_EXCEEDED,128,39.38%,50.00%,0.480,305.18359375
+bronze_Maximizing_Productivity,Qwen3-30B-Non-Thinking,ACCEPTED,333,104.06%,100.00%,0.220,3.62109375

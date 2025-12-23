@@ -1,8 +1,8 @@
-problem,status,score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
-Heroes,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0
-Pinball,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0
-AA_Tree,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0
-Circles,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0
-To_be_xor_not_to_be,RUNTIME_ERROR,0,4.76%,0.000,0,,0,0,0,0,0,0,0
-Statues,COMPILATION_ERROR,0,0.00%,0.000,0,,0,0,0,0,0,0,0
-TOTAL,,0,0.79%,,,0.00%,,,,,,,
+problem,status,score,relative_score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+Heroes,RUNTIME_ERROR,0,0.00%,14.29%,0.000,0,,0,0,0,0,0,0,0,0
+Pinball,TIME_LIMIT_EXCEEDED,0,0.00%,3.12%,3.670,7.19921875,,0,0,0,0,0,0,0,0
+AA_Tree,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0,,0,0,0,0,0,0,0,0
+Circles,TIME_LIMIT_EXCEEDED,14,14.00%,29.41%,1.880,73.97265625,,0,0,0,14,0,0,0,0
+To_be_xor_not_to_be,RUNTIME_ERROR,0,0.00%,4.76%,0.000,0,,0,0,0,0,0,0,0,0
+Statues,RUNTIME_ERROR,0,0.00%,10.81%,0.000,0,,0,0,0,0,0,0,0,0
+TOTAL,,14,,10.40%,,,0.00%,,,,,,,,

@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_Find_and_Replace,claude-sonnet-4.5,WRONG_ANSWER,0,0.00%,6.67%,0.020,0.00390625
+silver_Following_Directions,claude-sonnet-4.5,ACCEPTED,333,103.42%,100.00%,4.340,26.55859375
+silver_Moo_Route,claude-sonnet-4.5,WRONG_ANSWER,56,17.28%,25.00%,0.050,8.07421875

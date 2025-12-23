@@ -1,6 +1,6 @@
-problem,model,status,score,%test passed,time,memory
-osobna,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,0.00%,0.000,0
-skokovi,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,25,43.75%,5.540,2.07421875
-hijerarhija,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,50,63.89%,3.410,36.875
-uciteljica,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,1.64%,0.000,0
-zbunjenost,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,0.00%,0.130,2.84375
+problem,model,status,score,relative_score,%test passed,time,memory
+osobna,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0
+skokovi,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,25,35.71%,43.75%,5.970,2.07421875
+hijerarhija,DeepSeek-Coder-V2-Lite-Instruct,TIME_LIMIT_EXCEEDED,50,55.56%,63.89%,3.620,36.875
+uciteljica,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,0.00%,1.64%,0.000,0
+zbunjenost,DeepSeek-Coder-V2-Lite-Instruct,RUNTIME_ERROR,0,0.00%,0.00%,0.120,4.390625

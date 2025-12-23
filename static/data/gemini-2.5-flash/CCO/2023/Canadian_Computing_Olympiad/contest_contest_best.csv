@@ -1,7 +1,7 @@
-problem,model,status,score,%test passed,time,memory
-d1p1,gemini-2.5-flash,ACCEPTED,25,100.00%,0.080,9.03125
-d1p2,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,0,1.90%,5.510,47.60546875
-d1p3,gemini-2.5-flash,RUNTIME_ERROR,0,4.81%,0.100,14.69921875
-d2p1,gemini-2.5-flash,MEMORY_LIMIT_EXCEEDED,1,32.14%,0.900,1125.203125
-d2p2,gemini-2.5-flash,RUNTIME_ERROR,2,10.16%,0.130,32.1171875
-d2p3,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,0,35.85%,1.110,9.09765625
+problem,model,status,score,relative_score,%test passed,time,memory
+d1p1,gemini-2.5-flash,ACCEPTED,25,100.00%,100.00%,0.090,9.03125
+d1p2,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,0,0.00%,1.90%,5.980,52.453125
+d1p3,gemini-2.5-flash,RUNTIME_ERROR,0,0.00%,4.81%,0.110,9.11328125
+d2p1,gemini-2.5-flash,MEMORY_LIMIT_EXCEEDED,1,4.00%,32.14%,0.910,1227.96875
+d2p2,gemini-2.5-flash,RUNTIME_ERROR,2,8.00%,10.16%,0.120,32.1171875
+d2p3,gemini-2.5-flash,TIME_LIMIT_EXCEEDED,0,0.00%,35.85%,1.210,9.09765625

@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-message,gpt-oss-120b-low,RUNTIME_ERROR,10,44.44%,1.200,4.5234375
-nile,gpt-oss-120b-low,TIME_LIMIT_EXCEEDED,67,83.76%,2.410,10.53125
-tree,gpt-oss-120b-low,TIME_LIMIT_EXCEEDED,10,25.88%,2.420,16.5625
+problem,model,status,score,relative_score,%test passed,time,memory
+message,gpt-oss-120b-low,RUNTIME_ERROR,10,10.00%,44.44%,1.770,4.46484375
+nile,gpt-oss-120b-low,TIME_LIMIT_EXCEEDED,67,67.00%,83.76%,2.410,10.57421875
+tree,gpt-oss-120b-low,TIME_LIMIT_EXCEEDED,10,10.00%,25.88%,2.410,16.5625

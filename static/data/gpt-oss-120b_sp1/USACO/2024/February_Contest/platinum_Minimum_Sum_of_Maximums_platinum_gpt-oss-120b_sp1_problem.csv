@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Minimum_Sum_of_Maximums_gpt-oss-120b_0.cpp,RUNTIME_ERROR,33,10.31%,8.33%,0.140,0.00390625,0,0,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,16.666666666666664,0,0,0,0,0,0
+platinum_Minimum_Sum_of_Maximums_gpt-oss-120b_1.cpp,RUNTIME_ERROR,17,5.31%,8.33%,0.130,0,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Minimum_Sum_of_Maximums_gpt-oss-120b_2.cpp,RUNTIME_ERROR,17,5.31%,8.33%,0.140,0.00390625,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Minimum_Sum_of_Maximums_gpt-oss-120b_3.cpp,WRONG_ANSWER,50,15.62%,29.17%,0.000,0,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,16.666666666666664,0,0,0,0,0,0
+platinum_Minimum_Sum_of_Maximums_gpt-oss-120b_4.cpp,RUNTIME_ERROR,17,5.31%,8.33%,0.140,0.00390625,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Minimum_Sum_of_Maximums_gpt-oss-120b_5.cpp,TIME_LIMIT_EXCEEDED,117,36.56%,45.83%,2.560,73.19921875,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,16.666666666666664,16.666666666666664,0,16.666666666666664,16.666666666666664,16.666666666666664,0
+platinum_Minimum_Sum_of_Maximums_gpt-oss-120b_6.cpp,RUNTIME_ERROR,17,5.31%,12.50%,0.880,33.51953125,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Minimum_Sum_of_Maximums_gpt-oss-120b_7.cpp,RUNTIME_ERROR,50,15.62%,20.83%,0.130,0,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,16.666666666666664,0,16.666666666666664,0,0,0,0,0,0

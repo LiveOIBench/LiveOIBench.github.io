@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Colorful_Diameter_grok-4-fast-reasoning_0.cpp,RUNTIME_ERROR,11,11.00%,25.00%,0.880,14.55078125,0,0,0,0,0,0,11.0,0,0,0
+Colorful_Diameter_grok-4-fast-reasoning_1.cpp,RUNTIME_ERROR,19,19.00%,29.27%,1.890,15.69921875,0,0,0,0,0,0,11.0,8.0,0,0
+Colorful_Diameter_grok-4-fast-reasoning_2.cpp,RUNTIME_ERROR,11,11.00%,39.88%,1.060,19.84765625,0.0,0,0,0,0,0,11.0,0,0,0
+Colorful_Diameter_grok-4-fast-reasoning_3.cpp,RUNTIME_ERROR,19,19.00%,43.75%,4.860,21.45703125,0.0,0,0,0,0,0,11.0,8.0,0,0
+Colorful_Diameter_grok-4-fast-reasoning_4.cpp,RUNTIME_ERROR,41,41.00%,53.50%,4.900,19.8671875,0,0,0,0,14.0,8.0,11.0,8.0,0,0
+Colorful_Diameter_grok-4-fast-reasoning_5.cpp,TIME_LIMIT_EXCEEDED,14,14.00%,47.46%,8.410,21.09765625,0.0,0,0,0,14.0,0,0,0,0,0
+Colorful_Diameter_grok-4-fast-reasoning_6.cpp,TIME_LIMIT_EXCEEDED,62,62.00%,79.91%,8.410,34.359375,0.0,10.0,0,11.0,14.0,8.0,11.0,8.0,0,0
+Colorful_Diameter_grok-4-fast-reasoning_7.cpp,TIME_LIMIT_EXCEEDED,40,40.00%,73.44%,8.410,15.671875,0.0,10.0,0,11.0,0,0,11.0,8.0,0,0

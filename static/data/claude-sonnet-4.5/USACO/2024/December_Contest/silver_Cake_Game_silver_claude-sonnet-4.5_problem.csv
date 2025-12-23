@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+silver_Cake_Game_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,33,10.00%,18.18%,2.420,303.32421875,0,0,0,33.33333333333333,0,0,0,0,0,0,0
+silver_Cake_Game_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,33,10.00%,18.18%,2.430,301.4453125,0,0,0,33.33333333333333,0,0,0,0,0,0,0
+silver_Cake_Game_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,33,10.00%,18.18%,2.420,303.37890625,0,0,0,33.33333333333333,0,0,0,0,0,0,0
+silver_Cake_Game_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,33,10.00%,18.18%,2.410,303.375,0,0,0,33.33333333333333,0,0,0,0,0,0,0
+silver_Cake_Game_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,33,10.00%,18.18%,2.410,303.3046875,0,0,0,33.33333333333333,0,0,0,0,0,0,0
+silver_Cake_Game_claude-sonnet-4.5_5.cpp,MEMORY_LIMIT_EXCEEDED,33,10.00%,18.18%,2.140,305.9609375,0,0,0,33.33333333333333,0,0,0,0,0,0,0
+silver_Cake_Game_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,33,10.00%,18.18%,2.410,303.3515625,0,0,0,33.33333333333333,0,0,0,0,0,0,0
+silver_Cake_Game_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,67,20.30%,27.27%,2.410,301.78125,0,33.33333333333333,0,33.33333333333333,0,0,0,0,0,0,0

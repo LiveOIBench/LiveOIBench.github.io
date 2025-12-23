@@ -1,0 +1,5 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+More_Gifts,gpt-oss-120b_sp2,ACCEPTED,100,100.00%,100.00%,0.180,220.2890625
+Big_Persimmon,gpt-oss-120b_sp2,TIME_LIMIT_EXCEEDED,56,56.00%,74.75%,2.410,537.2890625
+Evidence_Board,gpt-oss-120b_sp2,RUNTIME_ERROR,7,7.00%,8.09%,0.120,30.828125
+Draw_Polygon_Lines,gpt-oss-120b_sp2,RUNTIME_ERROR,53,53.00%,82.19%,0.040,0.00390625

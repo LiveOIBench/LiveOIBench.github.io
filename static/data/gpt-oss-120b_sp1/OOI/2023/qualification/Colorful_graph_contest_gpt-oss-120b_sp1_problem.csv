@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+Colorful_graph_gpt-oss-120b_0.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.120,11.0859375,0,0,0,0,0,0,0,0,0
+Colorful_graph_gpt-oss-120b_1.cpp,RUNTIME_ERROR,0,0.00%,22.75%,0.250,29.56640625,0.0,0,0,0,0,0,0,0,0
+Colorful_graph_gpt-oss-120b_2.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.120,11.0859375,0,0,0,0,0,0,0,0,0
+Colorful_graph_gpt-oss-120b_3.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.00%,0.140,11.30859375,0,0,0,0,0,0,0,0,0
+Colorful_graph_gpt-oss-120b_4.cpp,MEMORY_LIMIT_EXCEEDED,50,50.00%,84.30%,0.960,293.734375,0.0,10.0,9.0,15.0,16.0,0,0,0,0
+Colorful_graph_gpt-oss-120b_5.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.110,2.0625,0,0,0,0,0,0,0,0,0
+Colorful_graph_gpt-oss-120b_6.cpp,TIME_LIMIT_EXCEEDED,50,50.00%,86.25%,1.850,44.63671875,0.0,10.0,9.0,15.0,16.0,0,0,0,0
+Colorful_graph_gpt-oss-120b_7.cpp,TIME_LIMIT_EXCEEDED,77,77.00%,95.12%,1.810,225.39453125,0.0,10.0,9.0,15.0,16.0,14.0,13.0,0,0

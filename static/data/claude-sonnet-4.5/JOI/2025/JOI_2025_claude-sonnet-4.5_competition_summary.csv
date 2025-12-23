@@ -1,0 +1,7 @@
+problem,status,score,relative_score,%test passed,time,memory,pass_rate,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+2025-ho-t1_Grid_Coloring,ACCEPTED,100,100.00%,100.00%,0.370,102.09765625,,15,10,20,25,30,0,0
+2025-ho-t2_Bitaro_the_Brave_2,ACCEPTED,100,100.00%,100.00%,0.090,24.24609375,,10,21,19,22,28,0,0
+2025-ho-t3_Mi_Teleférico,TIME_LIMIT_EXCEEDED,26,26.00%,65.53%,2.410,13.984375,,7,8,11,0,0,0,0
+2025-ho-t4_Just_Long_Neckties_2,TIME_LIMIT_EXCEEDED,46,46.00%,83.91%,3.600,4.22265625,,10,6,12,18,0,0,0
+2025-ho-t5_Post_Office,TIME_LIMIT_EXCEEDED,3,3.00%,32.00%,2.410,15.34375,,3,0,0,0,0,0,0
+TOTAL,,275,,76.29%,,,40.00%,,,,,,,

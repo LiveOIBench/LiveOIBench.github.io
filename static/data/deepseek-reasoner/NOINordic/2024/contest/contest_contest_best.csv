@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-chairgame,deepseek-reasoner,TIME_LIMIT_EXCEEDED,17,63.79%,1.130,0.00390625
-thinice,deepseek-reasoner,RUNTIME_ERROR,0,22.03%,0.090,4.48046875
-animeshops,deepseek-reasoner,RUNTIME_ERROR,0,22.22%,0.070,8.2578125
+problem,model,status,score,relative_score,%test passed,time,memory
+chairgame,deepseek-reasoner,TIME_LIMIT_EXCEEDED,17,17.00%,63.79%,1.280,0.00390625
+thinice,deepseek-reasoner,RUNTIME_ERROR,0,0.00%,22.03%,0.180,5.1640625
+animeshops,deepseek-reasoner,RUNTIME_ERROR,0,0.00%,22.22%,0.180,7.48046875

@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
-cyberland_gemini-2.5-pro_0.cpp,TIME_LIMIT_EXCEEDED,97,87.80%,2.980,81.68359375,0,5,8,13,19,7,16,29,0
-cyberland_gemini-2.5-pro_1.cpp,TIME_LIMIT_EXCEEDED,97,76.83%,2.980,75.765625,0,5,8,13,19,7,16,29,0
-cyberland_gemini-2.5-pro_2.cpp,TIME_LIMIT_EXCEEDED,97,87.80%,2.980,71.3828125,0,5,8,13,19,7,16,29,0
-cyberland_gemini-2.5-pro_3.cpp,RUNTIME_ERROR,15,20.73%,1.150,35.125,0,0,8,0,0,7,0,0,0
-cyberland_gemini-2.5-pro_4.cpp,TIME_LIMIT_EXCEEDED,97,87.80%,2.990,82.0234375,0,5,8,13,19,7,16,29,0
-cyberland_gemini-2.5-pro_5.cpp,RUNTIME_ERROR,15,20.73%,0.750,21.9765625,0,0,8,0,0,7,0,0,0
-cyberland_gemini-2.5-pro_6.cpp,TIME_LIMIT_EXCEEDED,97,87.80%,2.990,90.38671875,0,5,8,13,19,7,16,29,0
-cyberland_gemini-2.5-pro_7.cpp,RUNTIME_ERROR,15,20.73%,0.770,21.9140625,0,0,8,0,0,7,0,0,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+cyberland_gemini-2.5-pro_0.cpp,TIME_LIMIT_EXCEEDED,97,97.00%,87.80%,2.980,71.390625,0,5,8,13,19,7,16,29,0
+cyberland_gemini-2.5-pro_1.cpp,TIME_LIMIT_EXCEEDED,97,97.00%,76.83%,2.900,75.7734375,0,5,8,13,19,7,16,29,0
+cyberland_gemini-2.5-pro_2.cpp,TIME_LIMIT_EXCEEDED,97,97.00%,87.80%,2.980,83.7421875,0,5,8,13,19,7,16,29,0
+cyberland_gemini-2.5-pro_3.cpp,RUNTIME_ERROR,15,15.00%,20.73%,1.300,35.125,0,0,8,0,0,7,0,0,0
+cyberland_gemini-2.5-pro_4.cpp,TIME_LIMIT_EXCEEDED,97,97.00%,87.80%,2.990,76.37109375,0,5,8,13,19,7,16,29,0
+cyberland_gemini-2.5-pro_5.cpp,RUNTIME_ERROR,15,15.00%,20.73%,0.880,21.9765625,0,0,8,0,0,7,0,0,0
+cyberland_gemini-2.5-pro_6.cpp,TIME_LIMIT_EXCEEDED,97,97.00%,87.80%,2.980,79.5625,0,5,8,13,19,7,16,29,0
+cyberland_gemini-2.5-pro_7.cpp,RUNTIME_ERROR,15,15.00%,20.73%,0.910,21.91796875,0,0,8,0,0,7,0,0,0

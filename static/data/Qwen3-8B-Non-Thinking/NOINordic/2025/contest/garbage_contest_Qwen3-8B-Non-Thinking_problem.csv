@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
-garbage_Qwen3-8B-Non-Thinking_0.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.510,879.68359375,0,0,0,0,0,0
-garbage_Qwen3-8B-Non-Thinking_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
-garbage_Qwen3-8B-Non-Thinking_2.cpp,TIME_LIMIT_EXCEEDED,0,5.48%,5.560,10.0625,0,0,0,0,0,0
-garbage_Qwen3-8B-Non-Thinking_3.cpp,RUNTIME_ERROR,0,4.11%,0.170,10.75,0,0,0,0,0,0
-garbage_Qwen3-8B-Non-Thinking_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0
-garbage_Qwen3-8B-Non-Thinking_5.cpp,MEMORY_LIMIT_EXCEEDED,0,5.48%,0.590,1070.328125,0,0,0,0,0,0
-garbage_Qwen3-8B-Non-Thinking_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.530,1076.11328125,0,0,0,0,0,0
-garbage_Qwen3-8B-Non-Thinking_7.cpp,MEMORY_LIMIT_EXCEEDED,0,4.11%,0.510,1067.60546875,0,0,0,0,0,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+garbage_Qwen3-8B-Non-Thinking_0.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.00%,0.550,867.546875,0,0,0,0,0,0
+garbage_Qwen3-8B-Non-Thinking_1.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0
+garbage_Qwen3-8B-Non-Thinking_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,5.48%,5.970,10.0625,0,0,0,0,0,0
+garbage_Qwen3-8B-Non-Thinking_3.cpp,RUNTIME_ERROR,0,0.00%,4.11%,0.210,10.75390625,0,0,0,0,0,0
+garbage_Qwen3-8B-Non-Thinking_4.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0
+garbage_Qwen3-8B-Non-Thinking_5.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,5.48%,0.620,974.2578125,0,0,0,0,0,0
+garbage_Qwen3-8B-Non-Thinking_6.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,0.00%,0.540,927.40234375,0,0,0,0,0,0
+garbage_Qwen3-8B-Non-Thinking_7.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,4.11%,0.520,906.13671875,0,0,0,0,0,0

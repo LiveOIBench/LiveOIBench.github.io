@@ -1,0 +1,8 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_16,subtask_17,subtask_18,subtask_19,subtask_2,subtask_20,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Splitting_Haybales_gpt-oss-120b_0.cpp,TIME_LIMIT_EXCEEDED,17,5.31%,13.64%,2.420,15.28125,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Splitting_Haybales_gpt-oss-120b_1.cpp,WRONG_ANSWER,0,0.00%,9.09%,0.200,2.84765625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Splitting_Haybales_gpt-oss-120b_2.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.100,81.73046875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Splitting_Haybales_gpt-oss-120b_3.cpp,TIME_LIMIT_EXCEEDED,17,5.31%,13.64%,2.430,20.4375,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Splitting_Haybales_gpt-oss-120b_5.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.080,20.43359375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Splitting_Haybales_gpt-oss-120b_6.cpp,TIME_LIMIT_EXCEEDED,17,5.31%,13.64%,2.440,2.7890625,0,16.666666666666664,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Splitting_Haybales_gpt-oss-120b_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.55%,2.410,67.0390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

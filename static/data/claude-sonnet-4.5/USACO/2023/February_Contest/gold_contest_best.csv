@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Equal_Sum_Subarrays,claude-sonnet-4.5,ACCEPTED,333,103.42%,100.00%,0.220,3.39453125
+gold_Fertilizing_Pastures,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,200,62.50%,63.64%,2.410,16.5078125
+gold_Piling_Papers,claude-sonnet-4.5,MEMORY_LIMIT_EXCEEDED,0,0.00%,7.69%,1.580,306.28515625

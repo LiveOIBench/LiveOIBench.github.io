@@ -1,0 +1,3 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+september,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.150,8.82421875
+train,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,10,10.00%,32.14%,1.220,54.05078125

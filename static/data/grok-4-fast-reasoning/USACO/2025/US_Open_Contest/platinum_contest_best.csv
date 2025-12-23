@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+platinum_Forklift_Certified,grok-4-fast-reasoning,WRONG_ANSWER,95,29.50%,37.50%,0.600,14.296875
+platinum_Lazy_Sort,grok-4-fast-reasoning,WRONG_ANSWER,0,0.00%,6.67%,0.010,0
+platinum_Package_Pickup,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,0,0.00%,10.00%,4.810,9.48828125

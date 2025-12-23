@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+garbage_grok-4-fast-reasoning_0.cpp,RUNTIME_ERROR,0,0.00%,26.03%,0.130,16.24609375,0,0,0,0,0,0
+garbage_grok-4-fast-reasoning_1.cpp,RUNTIME_ERROR,0,0.00%,26.03%,0.100,12.890625,0,0,0,0,0,0
+garbage_grok-4-fast-reasoning_2.cpp,RUNTIME_ERROR,0,0.00%,26.03%,0.110,12.390625,0,0,0,0,0,0
+garbage_grok-4-fast-reasoning_3.cpp,ACCEPTED,100,100.00%,100.00%,0.720,436.7421875,10,12,15,22,23,18
+garbage_grok-4-fast-reasoning_4.cpp,ACCEPTED,100,100.00%,100.00%,0.170,22.8046875,10,12,15,22,23,18
+garbage_grok-4-fast-reasoning_5.cpp,RUNTIME_ERROR,0,0.00%,9.59%,0.180,16.35546875,0,0,0,0,0,0
+garbage_grok-4-fast-reasoning_6.cpp,RUNTIME_ERROR,22,22.00%,46.58%,0.140,16.1015625,0,0,0,22,0,0
+garbage_grok-4-fast-reasoning_7.cpp,RUNTIME_ERROR,0,0.00%,26.03%,0.130,16.359375,0,0,0,0,0,0

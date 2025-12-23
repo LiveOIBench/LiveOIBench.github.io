@@ -1,2 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-bronze_Air_Cownditioning_II,Qwen3-14B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+problem,model,status,score,relative_score,%test passed,time,memory
+bronze_Leaders,Qwen3-14B-Non-Thinking,TIME_LIMIT_EXCEEDED,244,73.94%,76.47%,2.470,2.0703125
+bronze_Air_Cownditioning_II,Qwen3-14B-Non-Thinking,ACCEPTED,333,100.91%,100.00%,0.000,0
+bronze_Moo_Operations,Qwen3-14B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0

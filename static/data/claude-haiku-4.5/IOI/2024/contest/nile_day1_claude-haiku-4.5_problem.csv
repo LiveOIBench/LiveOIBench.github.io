@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+nile_claude-haiku-4.5_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.70%,2.420,2453.875,0,0,0,0,0,0,0,0
+nile_claude-haiku-4.5_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.70%,2.410,3.8828125,0,0,0,0,0,0,0,0
+nile_claude-haiku-4.5_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.70%,2.410,20.8984375,0,0,0,0,0,0,0,0
+nile_claude-haiku-4.5_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.70%,2.410,1150.88671875,0,0,0,0,0,0,0,0
+nile_claude-haiku-4.5_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.70%,2.420,3.3671875,0,0,0,0,0,0,0,0
+nile_claude-haiku-4.5_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.70%,2.410,2450.78125,0,0,0,0,0,0,0,0
+nile_claude-haiku-4.5_6.cpp,TIME_LIMIT_EXCEEDED,17,17.00%,45.07%,2.420,6.203125,0,6,0,0,11,0,0,0
+nile_claude-haiku-4.5_7.cpp,TIME_LIMIT_EXCEEDED,6,6.00%,36.62%,2.410,1027.08203125,0,6,0,0,0,0,0,0

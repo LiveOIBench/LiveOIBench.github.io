@@ -1,2 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-bronze_Leaders,Qwen3-32B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
+problem,model,status,score,relative_score,%test passed,time,memory
+bronze_Leaders,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,0,0.00%,0.00%,0.890,2.328125
+bronze_Air_Cownditioning_II,Qwen3-32B-Non-Thinking,ACCEPTED,333,100.91%,100.00%,0.000,0
+bronze_Moo_Operations,Qwen3-32B-Non-Thinking,WRONG_ANSWER,0,0.00%,0.00%,0.000,0

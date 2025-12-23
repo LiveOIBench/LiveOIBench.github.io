@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+platinum_Island_Vacation,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,67,20.94%,30.43%,2.410,306.36328125
+platinum_Merging_Cells,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,100,31.25%,36.36%,2.410,606.1171875
+platinum_Mooball_Teams_III,claude-sonnet-4.5,MEMORY_LIMIT_EXCEEDED,150,46.88%,54.17%,0.180,301.79296875

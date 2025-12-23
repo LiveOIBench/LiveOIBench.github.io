@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+2023-open-t3_Garden_claude-sonnet-4.5_0.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0
+2023-open-t3_Garden_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,72.11%,2.410,12.9453125,0,0,0,0,0,0
+2023-open-t3_Garden_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,58.96%,2.420,5.41796875,0,0,0,0,0,0
+2023-open-t3_Garden_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,69.44%,2.410,5.16015625,0,0,0,0,0,0
+2023-open-t3_Garden_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,68.53%,2.410,64.9921875,0,0,0,0,0,0
+2023-open-t3_Garden_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,43.48%,2.410,1100.7734375,0,0,0,0,0,0
+2023-open-t3_Garden_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,69.44%,2.410,601.19921875,0,0,0,0,0,0
+2023-open-t3_Garden_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,37.38%,2.420,12.89453125,0,0,0,0,0,0

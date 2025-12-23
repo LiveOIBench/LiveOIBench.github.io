@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-gold_Find_and_Replace,gpt-oss-120b-high,ACCEPTED,333,100.00%,0.520,89.46484375
-gold_Lights_Off,gpt-oss-120b-high,ACCEPTED,333,100.00%,0.250,23.46875
-gold_Moo_Route,gpt-oss-120b-high,ACCEPTED,333,100.00%,0.050,10.06640625
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Find_and_Replace,gpt-oss-120b-high,ACCEPTED,333,103.42%,100.00%,0.570,89.46484375
+gold_Lights_Off,gpt-oss-120b-high,ACCEPTED,333,102.78%,100.00%,0.320,23.46875
+gold_Moo_Route,gpt-oss-120b-high,ACCEPTED,333,104.06%,100.00%,0.130,10.06640625

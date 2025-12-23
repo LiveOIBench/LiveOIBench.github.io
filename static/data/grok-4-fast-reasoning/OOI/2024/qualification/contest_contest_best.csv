@@ -1,0 +1,8 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+Colorful_Diameter,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,62,62.00%,79.91%,8.410,34.359375
+Road_Lighting,grok-4-fast-reasoning,RUNTIME_ERROR,37,37.00%,66.87%,0.040,25.46484375
+Repainting_the_Table,grok-4-fast-reasoning,UNKNOWN,0,0.00%,0.00%,0.000,0
+Alien_Homophones,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,56,56.00%,89.46%,2.410,205.0859375
+Stone_Enthusiast,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.370,2.82421875
+Egors_Gaming_Addiction,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.510,79.2734375
+Ultrafast_train,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.100,30.51953125

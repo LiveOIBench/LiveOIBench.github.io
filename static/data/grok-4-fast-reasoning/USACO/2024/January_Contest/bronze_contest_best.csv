@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+bronze_Majority_Opinion,grok-4-fast-reasoning,ACCEPTED,333,103.42%,100.00%,0.020,2.84375
+bronze_Cannonball,grok-4-fast-reasoning,ACCEPTED,333,102.78%,100.00%,0.020,2.33203125
+bronze_Balancing_Bacteria,grok-4-fast-reasoning,RUNTIME_ERROR,308,94.77%,80.00%,0.020,2.84765625

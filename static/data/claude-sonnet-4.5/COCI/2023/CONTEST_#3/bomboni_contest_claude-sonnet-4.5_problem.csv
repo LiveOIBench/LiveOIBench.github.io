@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+bomboni_claude-sonnet-4.5_0.cpp,ACCEPTED,110,100.00%,100.00%,0.610,206.10546875,13,17,33,47
+bomboni_claude-sonnet-4.5_1.cpp,ACCEPTED,110,100.00%,100.00%,0.320,470.5078125,13,17,33,47
+bomboni_claude-sonnet-4.5_2.cpp,ACCEPTED,110,100.00%,100.00%,0.280,470.5078125,13,17,33,47
+bomboni_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,63,57.27%,64.00%,2.410,328.5703125,13,17,33,0
+bomboni_claude-sonnet-4.5_4.cpp,ACCEPTED,110,100.00%,100.00%,0.380,188.4609375,13,17,33,47
+bomboni_claude-sonnet-4.5_5.cpp,ACCEPTED,110,100.00%,100.00%,0.370,206.10546875,13,17,33,47
+bomboni_claude-sonnet-4.5_6.cpp,ACCEPTED,110,100.00%,100.00%,0.290,116.01953125,13,17,33,47
+bomboni_claude-sonnet-4.5_7.cpp,ACCEPTED,110,100.00%,100.00%,0.290,470.5078125,13,17,33,47

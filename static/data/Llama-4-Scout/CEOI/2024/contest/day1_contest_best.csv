@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-covid,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0
-battle,Llama-4-Scout,RUNTIME_ERROR,0,12.50%,0.050,22.6875
-editor,Llama-4-Scout,RUNTIME_ERROR,0,9.68%,0.180,4.6484375
+problem,model,status,score,relative_score,%test passed,time,memory
+covid,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0
+battle,Llama-4-Scout,RUNTIME_ERROR,0,0.00%,12.50%,0.050,14.95703125
+editor,Llama-4-Scout,RUNTIME_ERROR,0,0.00%,9.68%,0.200,4.65234375

@@ -1,0 +1,8 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Tractor_Paths_gpt-oss-120b_0.cpp,WRONG_ANSWER,0,0.00%,0.00%,1.530,21.76171875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_gpt-oss-120b_1.cpp,WRONG_ANSWER,0,0.00%,0.00%,0.500,20.67578125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_gpt-oss-120b_2.cpp,WRONG_ANSWER,0,0.00%,0.00%,0.820,20.671875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_gpt-oss-120b_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,4.870,20.0234375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_gpt-oss-120b_5.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.130,19.6953125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Tractor_Paths_gpt-oss-120b_6.cpp,TIME_LIMIT_EXCEEDED,44,13.33%,18.75%,4.860,22.80859375,0,22.22222222222222,0,0,0,0,0,0,22.22222222222222,0,0,0,0,0,0,0
+platinum_Tractor_Paths_gpt-oss-120b_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,4.850,20.67578125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

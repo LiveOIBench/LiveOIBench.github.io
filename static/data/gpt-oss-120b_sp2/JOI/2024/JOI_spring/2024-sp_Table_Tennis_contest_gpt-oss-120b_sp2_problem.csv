@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+2024-sp_Table_Tennis_gpt-oss-120b_0.cpp,RUNTIME_ERROR,0,0.00%,10.26%,0.050,13.4140625,0,0,0,0,0,0
+2024-sp_Table_Tennis_gpt-oss-120b_1.cpp,RUNTIME_ERROR,0,0.00%,10.26%,0.070,25.53515625,0,0,0,0,0,0
+2024-sp_Table_Tennis_gpt-oss-120b_2.cpp,RUNTIME_ERROR,5,5.00%,44.35%,0.030,13.41796875,5,0,0,0,0,0
+2024-sp_Table_Tennis_gpt-oss-120b_3.cpp,RUNTIME_ERROR,0,0.00%,10.26%,0.030,0.00390625,0,0,0,0,0,0
+2024-sp_Table_Tennis_gpt-oss-120b_4.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.020,0,0,0,0,0,0,0
+2024-sp_Table_Tennis_gpt-oss-120b_5.cpp,RUNTIME_ERROR,0,0.00%,10.26%,0.200,25.53125,0,0,0,0,0,0
+2024-sp_Table_Tennis_gpt-oss-120b_6.cpp,UNKNOWN,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0
+2024-sp_Table_Tennis_gpt-oss-120b_7.cpp,RUNTIME_ERROR,5,5.00%,44.35%,0.030,13.41796875,5,0,0,0,0,0

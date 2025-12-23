@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+Jump_Civilization,gpt-oss-120b_sp4,TIME_LIMIT_EXCEEDED,0,0.00%,8.16%,1.230,28.8828125
+Ramen,gpt-oss-120b_sp4,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,0.140,1.546875
+Signals,gpt-oss-120b_sp4,ACCEPTED,100,100.00%,100.00%,0.300,47.9375

@@ -1,4 +1,17 @@
-problem,status,score,%test passed,time,memory,pass_rate
-2023-sp_Tourism,COMPILATION_ERROR,0,0.00%,0.000,0,
-2023-ho-t3_Maze,COMPILATION_ERROR,0,0.00%,0.000,0,
-TOTAL,,0,0.00%,,,0.00%
+problem,status,score,relative_score,%test passed,time,memory,pass_rate,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+2023-open-t1_Ancient_Machine_2,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,,0,0,0,0,0,0,0
+2023-open-t2_Cell_Automaton,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,,0,0,0,0,0,0,0
+2023-open-t3_Garden,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,,0,0,0,0,0,0,0
+2023-sp_Two_Currencies,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,,0,0,0,0,0,0,0
+2023-sp_Festivals_in_JOI_Kingdom_2,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,,0,0,0,0,0,0,0
+2023-sp_Passport,MEMORY_LIMIT_EXCEEDED,0,0.00%,17.86%,0.660,913.37109375,,0,0,0,0,0,0,0
+2023-sp_Council,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,3.600,34.55859375,,0,0,0,0,0,0,0
+2023-sp_Mizuyokan_2,RUNTIME_ERROR,0,0.00%,0.00%,0.180,10.94921875,,0,0,0,0,0,0,0
+2023-sp_Chorus,RUNTIME_ERROR,0,0.00%,6.67%,0.000,0,,0,0,0,0,0,0,0
+2023-sp_Cookies,UNKNOWN,0,0.00%,0.00%,0.000,0,,0,0,0,0,0,0,0
+2023-ho-t1_Stone_Arranging_2,RUNTIME_ERROR,0,0.00%,32.10%,0.000,0,,0,0,0,0,0,0,0
+2023-ho-t2_Advertisement_2,RUNTIME_ERROR,10,10.00%,39.66%,0.240,12.8984375,,10,0,0,0,0,0,0
+2023-ho-t3_Maze,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,,0,0,0,0,0,0,0
+2023-ho-t4_Cat_Exercise,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,,0,0,0,0,0,0,0
+2023-ho-t5_Modern_Machine,TIME_LIMIT_EXCEEDED,3,3.00%,45.36%,2.930,2.84375,,3,0,0,0,0,0,0
+TOTAL,,13,,9.44%,,,0.00%,,,,,,,

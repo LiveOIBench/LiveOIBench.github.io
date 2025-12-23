@@ -1,0 +1,6 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+s1,claude-sonnet-4.5,ACCEPTED,15,100.00%,100.00%,0.200,5.16796875
+s2,claude-sonnet-4.5,ACCEPTED,15,100.00%,100.00%,0.020,0.00390625
+s3,claude-sonnet-4.5,RUNTIME_ERROR,2,13.33%,17.14%,0.080,3.6171875
+s4,claude-sonnet-4.5,RUNTIME_ERROR,0,0.00%,2.00%,0.110,14.2265625
+s5,claude-sonnet-4.5,RUNTIME_ERROR,4,26.67%,35.40%,0.140,4.39453125

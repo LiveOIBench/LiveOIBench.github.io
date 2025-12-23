@@ -1,8 +1,8 @@
-solution,status,score,%test passed,time,memory
-Circles_Qwen3-4B-Non-Thinking_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0
-Circles_Qwen3-4B-Non-Thinking_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0
-Circles_Qwen3-4B-Non-Thinking_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0
-Circles_Qwen3-4B-Non-Thinking_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0
-Circles_Qwen3-4B-Non-Thinking_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0
-Circles_Qwen3-4B-Non-Thinking_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0
-Circles_Qwen3-4B-Non-Thinking_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Circles_Qwen3-4B-Non-Thinking_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,1.850,11.34765625,0,0,0,0,0,0,0
+Circles_Qwen3-4B-Non-Thinking_1.cpp,TIME_LIMIT_EXCEEDED,4,4.00%,12.90%,1.810,54.40234375,0,4,0,0,0,0,0
+Circles_Qwen3-4B-Non-Thinking_3.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.530,153.3984375,0,0,0,0,0,0,0
+Circles_Qwen3-4B-Non-Thinking_4.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0
+Circles_Qwen3-4B-Non-Thinking_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,1.890,98.390625,0,0,0,0,0,0,0
+Circles_Qwen3-4B-Non-Thinking_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.23%,1.810,35.58984375,0,0,0,0,0,0,0
+Circles_Qwen3-4B-Non-Thinking_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.23%,1.850,11.3515625,0,0,0,0,0,0,0

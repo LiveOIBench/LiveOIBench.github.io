@@ -1,0 +1,17 @@
+problem,status,score,relative_score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Dreaming_is_not_harmful,RUNTIME_ERROR,10,10.00%,12.73%,0.200,111.4921875,,0,10.0,0,0,0,0,0,0,0,0,0,0,0
+Cute_Subsequences,ACCEPTED,100,100.00%,100.00%,0.070,15.09375,,0.0,14.0,0,0,0,19.0,17.0,21.0,15.0,14.0,0,0,0
+The_arithmetic_exercise,RUNTIME_ERROR,4,4.00%,20.41%,0.010,4.39453125,,0.0,4.0,0,0,0,0,0,0,0,0,0,0,0
+Alice_Bob_and_two_arrays,ACCEPTED,100,100.00%,100.00%,0.180,0.00390625,,0.0,13.0,10.0,7.0,0,12.0,11.0,8.0,10.0,7.0,6.0,7.0,9.0
+Card_Flip,RUNTIME_ERROR,50,50.00%,71.11%,0.180,47.4453125,,0.0,0,0,0,0,0,9.0,10.0,6.0,11.0,14.0,0,0
+Order_Statistics,TIME_LIMIT_EXCEEDED,4,4.00%,47.45%,4.820,11.3671875,,0.0,4.0,0,0,0,0,0,0,0,0,0,0,0
+Best_Runner,RUNTIME_ERROR,30,30.00%,34.45%,0.150,47.3671875,,0.0,0,0,0,0,0,0,19.0,11.0,0,0,0,0
+Strong_Connectivity_Strikes_Back,ACCEPTED,100,100.00%,100.00%,0.200,17.27734375,,0.0,11.0,0,0,0,9.0,12.0,13.0,20.0,21.0,14.0,0,0
+Colorful_Diameter,TIME_LIMIT_EXCEEDED,62,62.00%,79.91%,8.410,34.359375,,0.0,10.0,0,0,0,0,11.0,14.0,8.0,11.0,8.0,0,0
+Road_Lighting,RUNTIME_ERROR,37,37.00%,66.87%,0.040,25.46484375,,0.0,14.0,0,0,0,13.0,10.0,0,0,0,0,0,0
+Repainting_the_Table,UNKNOWN,0,0.00%,0.00%,0.000,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alien_Homophones,TIME_LIMIT_EXCEEDED,56,56.00%,89.46%,2.410,205.0859375,,0.0,8.0,0,0,0,7.0,9.0,15.0,0,0,7.0,10.0,0
+Stone_Enthusiast,ACCEPTED,100,100.00%,100.00%,0.370,2.82421875,,0.0,16.0,0,0,0,14.0,12.0,16.0,11.0,17.0,14.0,0,0
+Egors_Gaming_Addiction,ACCEPTED,100,100.00%,100.00%,0.510,79.2734375,,0.0,8.0,0,0,0,7.0,9.0,12.0,19.0,10.0,14.0,21.0,0
+Ultrafast_train,ACCEPTED,100,100.00%,100.00%,0.100,30.51953125,,0.0,17.0,0,0,0,13.0,12.0,26.0,32.0,0,0,0,0
+TOTAL,,853,,68.16%,,,40.00%,,,,,,,,,,,,,

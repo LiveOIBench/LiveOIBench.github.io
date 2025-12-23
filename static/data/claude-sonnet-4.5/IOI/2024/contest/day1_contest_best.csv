@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+message,claude-sonnet-4.5,RUNTIME_ERROR,10,10.00%,44.44%,1.220,4.4609375
+nile,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,17,17.00%,45.07%,2.410,4.234375
+tree,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,10,10.00%,25.88%,2.410,26.65625

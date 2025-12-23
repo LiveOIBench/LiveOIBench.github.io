@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Circles_gpt-oss-120b_0.cpp,ACCEPTED,100,100.00%,100.00%,0.360,80.703125,0,4,9,14,15,21,37
+Circles_gpt-oss-120b_1.cpp,ACCEPTED,100,100.00%,100.00%,0.390,158.04296875,0,4,9,14,15,21,37
+Circles_gpt-oss-120b_2.cpp,ACCEPTED,100,100.00%,100.00%,0.350,123.5,0,4,9,14,15,21,37
+Circles_gpt-oss-120b_3.cpp,RUNTIME_ERROR,0,0.00%,3.23%,0.030,9.28515625,0,0,0,0,0,0,0
+Circles_gpt-oss-120b_4.cpp,RUNTIME_ERROR,63,63.00%,60.61%,0.290,89.46484375,0,4,9,14,15,21,0
+Circles_gpt-oss-120b_5.cpp,ACCEPTED,100,100.00%,100.00%,0.350,123.75390625,0,4,9,14,15,21,37
+Circles_gpt-oss-120b_6.cpp,ACCEPTED,100,100.00%,100.00%,0.330,158.2421875,0,4,9,14,15,21,37
+Circles_gpt-oss-120b_7.cpp,ACCEPTED,100,100.00%,100.00%,0.380,89.46484375,0,4,9,14,15,21,37

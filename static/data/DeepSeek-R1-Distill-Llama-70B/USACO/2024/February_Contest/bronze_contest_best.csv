@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-bronze_Palindrome_Game,DeepSeek-R1-Distill-Llama-70B,WRONG_ANSWER,0,7.69%,0.120,1.68359375
-bronze_Milk_Exchange,DeepSeek-R1-Distill-Llama-70B,WRONG_ANSWER,128,50.00%,0.170,4.0234375
-bronze_Maximizing_Productivity,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,333,100.00%,0.400,3.62109375
+problem,model,status,score,relative_score,%test passed,time,memory
+bronze_Palindrome_Game,DeepSeek-R1-Distill-Llama-70B,WRONG_ANSWER,0,0.00%,7.69%,0.150,1.58984375
+bronze_Milk_Exchange,DeepSeek-R1-Distill-Llama-70B,WRONG_ANSWER,128,39.38%,50.00%,0.190,4.0234375
+bronze_Maximizing_Productivity,DeepSeek-R1-Distill-Llama-70B,ACCEPTED,333,104.06%,100.00%,0.440,3.62109375

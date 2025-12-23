@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+message,claude-haiku-4.5,RUNTIME_ERROR,0,0.00%,6.67%,0.180,4.0546875
+nile,claude-haiku-4.5,TIME_LIMIT_EXCEEDED,17,17.00%,45.07%,2.420,6.203125
+tree,claude-haiku-4.5,TIME_LIMIT_EXCEEDED,10,10.00%,25.88%,2.420,22.52734375

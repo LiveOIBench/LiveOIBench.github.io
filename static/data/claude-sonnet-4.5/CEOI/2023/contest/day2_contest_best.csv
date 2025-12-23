@@ -1,0 +1,3 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+trade,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,10,10.00%,64.52%,8.410,5.1640625
+avoid,claude-sonnet-4.5,RUNTIME_ERROR,10,10.00%,8.15%,0.010,1.48828125

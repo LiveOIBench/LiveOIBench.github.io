@@ -1,6 +1,6 @@
-solution,status,score,%test passed,time,memory,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
-september_gpt-oss-20b-medium_0.cpp,RUNTIME_ERROR,0,0.00%,0.390,32.90234375,0,0,0,0,0,0,0,0,0,0
-september_gpt-oss-20b-medium_1.cpp,ACCEPTED,100,100.00%,0.220,15.50390625,11,16,14,5,9,5,11,9,11,9
-september_gpt-oss-20b-medium_2.cpp,ACCEPTED,100,100.00%,0.330,22.55859375,11,16,14,5,9,5,11,9,11,9
-september_gpt-oss-20b-medium_4.cpp,ACCEPTED,100,100.00%,0.420,27.140625,11,16,14,5,9,5,11,9,11,9
-september_gpt-oss-20b-medium_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+september_gpt-oss-20b-medium_0.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.500,25.0390625,0,0,0,0,0,0,0,0,0,0
+september_gpt-oss-20b-medium_1.cpp,ACCEPTED,100,100.00%,100.00%,0.310,15.5078125,11,16,14,5,9,5,11,9,11,9
+september_gpt-oss-20b-medium_2.cpp,ACCEPTED,100,100.00%,100.00%,0.410,23.7109375,11,16,14,5,9,5,11,9,11,9
+september_gpt-oss-20b-medium_4.cpp,ACCEPTED,100,100.00%,100.00%,0.510,25.4609375,11,16,14,5,9,5,11,9,11,9
+september_gpt-oss-20b-medium_7.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0

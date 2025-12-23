@@ -1,5 +1,5 @@
-problem,model,status,score,%test passed,time,memory
-circlepassing,Llama-4-Scout,RUNTIME_ERROR,0,3.90%,0.020,0.00390625
-makethemmeet,Llama-4-Scout,RUNTIME_ERROR,0,10.00%,0.020,0
-lightbulbs,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.000,0
-bikeparking,Llama-4-Scout,RUNTIME_ERROR,16,45.10%,0.020,0
+problem,model,status,score,relative_score,%test passed,time,memory
+circlepassing,Llama-4-Scout,RUNTIME_ERROR,0,0.00%,3.90%,0.080,0.00390625
+makethemmeet,Llama-4-Scout,RUNTIME_ERROR,0,0.00%,10.00%,0.070,0
+lightbulbs,Llama-4-Scout,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0
+bikeparking,Llama-4-Scout,RUNTIME_ERROR,16,16.00%,45.10%,0.000,0

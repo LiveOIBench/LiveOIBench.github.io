@@ -1,5 +1,5 @@
-problem,status,score,%test passed,time,memory,pass_rate,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
-diplomacy,TIME_LIMIT_EXCEEDED,0,5.38%,4.480,16.09375,,0,0,0,0,0,0,0
-garbage,TIME_LIMIT_EXCEEDED,0,5.48%,5.540,12.67578125,,0,0,0,0,0,0,0
-xoracle,ACCEPTED,100,100.00%,0.470,3.796875,,8,5,9,11,24,43,0
-TOTAL,,100,36.95%,,,33.33%,,,,,,,
+problem,status,score,relative_score,%test passed,time,memory,pass_rate,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7
+diplomacy,TIME_LIMIT_EXCEEDED,0,0.00%,5.38%,4.890,15.83203125,,0,0,0,0,0,0,0
+garbage,TIME_LIMIT_EXCEEDED,0,0.00%,5.48%,5.980,8.21484375,,0,0,0,0,0,0,0
+xoracle,ACCEPTED,100,100.00%,100.00%,0.500,3.8515625,,8,5,9,11,24,43,0
+TOTAL,,100,,36.95%,,,33.33%,,,,,,,

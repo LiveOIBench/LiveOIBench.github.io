@@ -1,0 +1,9 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+bronze_Cannonball,grok-4-fast-reasoning,ACCEPTED,333,102.78%,100.00%,0.010,2.58984375
+gold_Cowmpetency,grok-4-fast-reasoning,ACCEPTED,333,102.78%,100.00%,0.110,1.71484375
+gold_Nap_Sort,grok-4-fast-reasoning,WRONG_ANSWER,0,0.00%,9.09%,0.030,2.84765625
+gold_Walking_in_Manhattan,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.410,33.5390625
+platinum_Island_Vacation,grok-4-fast-reasoning,MEMORY_LIMIT_EXCEEDED,33,10.31%,13.04%,1.820,306.6640625
+platinum_Mooball_Teams_III,grok-4-fast-reasoning,WRONG_ANSWER,0,0.00%,16.67%,0.030,2.84765625
+silver_Cowlendar,grok-4-fast-reasoning,ACCEPTED,333,102.78%,100.00%,0.010,2.0703125
+silver_Cowmpetency,grok-4-fast-reasoning,WRONG_ANSWER,167,50.61%,58.33%,0.080,17.0390625

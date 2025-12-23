@@ -1,0 +1,8 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+beechtree_grok-4-fast-reasoning_0.cpp,RUNTIME_ERROR,0,0.00%,20.57%,0.070,34.08984375,0,0,0,0,0,0,0,0,0,0
+beechtree_grok-4-fast-reasoning_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.42%,1.800,57.83203125,0,0,0,0,0,0,0,0,0,0
+beechtree_grok-4-fast-reasoning_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,3.64%,1.800,61.78515625,0,0,0,0,0,0,0,0,0,0
+beechtree_grok-4-fast-reasoning_4.cpp,RUNTIME_ERROR,0,0.00%,4.22%,0.120,87.97265625,0,0,0,0,0,0,0,0,0,0
+beechtree_grok-4-fast-reasoning_5.cpp,RUNTIME_ERROR,0,0.00%,26.11%,0.060,15.78515625,0,0,0,0,0,0,0,0,0,0
+beechtree_grok-4-fast-reasoning_6.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0
+beechtree_grok-4-fast-reasoning_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,17.06%,1.810,106.015625,0,0,0,0,0,0,0,0,0,0

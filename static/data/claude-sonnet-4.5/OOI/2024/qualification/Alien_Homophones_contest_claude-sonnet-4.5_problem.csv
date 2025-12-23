@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+Alien_Homophones_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,8,8.00%,75.07%,2.420,2.86328125,0.0,8.0,0,0,0,0,0,0,0,0,0
+Alien_Homophones_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,8,8.00%,75.07%,2.420,2.8671875,0.0,8.0,0,0,0,0,0,0,0,0,0
+Alien_Homophones_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,30,30.00%,83.15%,2.410,324.4765625,0.0,8.0,0,7.0,9.0,0,0,6.0,0,0,0
+Alien_Homophones_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,8,8.00%,74.80%,2.410,2.0625,0.0,8.0,0,0,0,0,0,0,0,0,0
+Alien_Homophones_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,8,8.00%,75.07%,2.410,2.859375,0.0,8.0,0,0,0,0,0,0,0,0,0
+Alien_Homophones_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,38,38.00%,85.52%,2.410,1144.93359375,0.0,8.0,0,7.0,9.0,0,8.0,6.0,0,0,0
+Alien_Homophones_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,8,8.00%,74.45%,2.420,2.0859375,0.0,8.0,0,0,0,0,0,0,0,0,0
+Alien_Homophones_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,8,8.00%,75.07%,2.410,2.86328125,0.0,8.0,0,0,0,0,0,0,0,0,0

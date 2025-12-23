@@ -1,0 +1,6 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+paradoks,gpt-oss-120b_sp1,ACCEPTED,50,100.00%,100.00%,0.000,0
+igre,gpt-oss-120b_sp1,ACCEPTED,70,100.00%,100.00%,0.100,1.55859375
+razlicitost,gpt-oss-120b_sp1,RUNTIME_ERROR,77,85.56%,83.72%,1.380,35.04296875
+blistavost,gpt-oss-120b_sp1,ACCEPTED,120,100.00%,100.00%,0.070,2.80078125
+trokuti,gpt-oss-120b_sp1,RUNTIME_ERROR,13,10.83%,25.96%,0.070,1.81640625

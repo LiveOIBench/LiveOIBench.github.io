@@ -1,2 +1,6 @@
-problem,model,status,score,%test passed,time,memory
-j1,deepseek-reasoner,ACCEPTED,15,100.00%,0.000,0
+problem,model,status,score,relative_score,%test passed,time,memory
+j1,deepseek-reasoner,ACCEPTED,15,100.00%,100.00%,0.000,0
+j2,deepseek-reasoner,ACCEPTED,15,100.00%,100.00%,0.040,0.00390625
+j3,deepseek-reasoner,ACCEPTED,15,100.00%,100.00%,0.060,2.328125
+j4,deepseek-reasoner,ACCEPTED,15,100.00%,100.00%,0.060,2.56640625
+j5,deepseek-reasoner,ACCEPTED,15,100.00%,100.00%,0.050,1.5546875

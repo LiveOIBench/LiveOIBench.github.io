@@ -1,0 +1,3 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4
+2023-sp_Belt_Conveyor_grok-4-fast-reasoning_0.cpp,RUNTIME_ERROR,25,25.00%,58.82%,0.820,18.1015625,1,14,10,0
+2023-sp_Belt_Conveyor_grok-4-fast-reasoning_7.cpp,RUNTIME_ERROR,11,11.00%,35.29%,0.680,16.11328125,1,0,10,0

@@ -1,6 +1,6 @@
-problem,model,status,score,%test passed,time,memory
-five,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,5,16.36%,0.470,20.48046875
-game,Qwen3-32B-Non-Thinking,UNKNOWN,0,0.00%,0.000,0
-lexgcd,Qwen3-32B-Non-Thinking,MEMORY_LIMIT_EXCEEDED,0,3.31%,0.310,613.38671875
-ones,Qwen3-32B-Non-Thinking,WRONG_ANSWER,25,0.00%,0.190,1.953125
-travel,Qwen3-32B-Non-Thinking,TIME_LIMIT_EXCEEDED,20,29.41%,1.250,31.9765625
+problem,model,status,score,relative_score,%test passed,time,memory
+five,Qwen3-32B-Non-Thinking,RUNTIME_ERROR,5,5.00%,16.36%,0.410,20.921875
+game,Qwen3-32B-Non-Thinking,UNKNOWN,0,0.00%,0.00%,0.000,0
+lexgcd,Qwen3-32B-Non-Thinking,MEMORY_LIMIT_EXCEEDED,0,0.00%,3.31%,0.290,613.38671875
+ones,Qwen3-32B-Non-Thinking,WRONG_ANSWER,25,25.00%,0.00%,0.210,1.953125
+travel,Qwen3-32B-Non-Thinking,TIME_LIMIT_EXCEEDED,20,20.00%,29.41%,1.200,33.78125

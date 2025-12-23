@@ -1,0 +1,5 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+bikesvscars,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.040,5.4609375
+ppp,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.150,53.9921875
+findthebox,grok-4-fast-reasoning,RUNTIME_ERROR,0,0.00%,27.07%,0.030,3.26171875
+inflation,grok-4-fast-reasoning,ACCEPTED,100,100.00%,100.00%,0.200,17.27734375

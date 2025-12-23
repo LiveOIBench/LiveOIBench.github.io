@@ -1,0 +1,2 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0_1,subtask_1_1,subtask_2_1,subtask_3_1,subtask_4_1
+avoid_grok-4-fast-reasoning_0.cpp,RUNTIME_ERROR,15,15.00%,48.89%,0.010,1.55078125,0,10,5,0,0

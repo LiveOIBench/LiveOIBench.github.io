@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-platinum_Hungry_Cow,gpt-o3-mini-high,WRONG_ANSWER,17,13.64%,0.140,26.6953125
-platinum_Problem_Setting,gpt-o3-mini-high,ACCEPTED,333,100.00%,0.620,17.3359375
-platinum_Watching_Cowflix,gpt-o3-mini-high,WRONG_ANSWER,61,25.00%,0.110,45.83984375
+problem,model,status,score,relative_score,%test passed,time,memory
+platinum_Hungry_Cow,gpt-o3-mini-high,WRONG_ANSWER,17,5.31%,13.64%,0.170,29.01953125
+platinum_Problem_Setting,gpt-o3-mini-high,ACCEPTED,333,104.06%,100.00%,0.670,26.25390625
+platinum_Watching_Cowflix,gpt-o3-mini-high,WRONG_ANSWER,61,18.48%,25.00%,0.190,24.078125

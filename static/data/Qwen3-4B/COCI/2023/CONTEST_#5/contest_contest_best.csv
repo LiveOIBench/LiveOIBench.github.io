@@ -1,6 +1,6 @@
-problem,model,status,score,%test passed,time,memory
-kalendar,Qwen3-4B,ACCEPTED,50,100.00%,0.000,0
-diskurs,Qwen3-4B,TIME_LIMIT_EXCEEDED,20,22.00%,2.410,2.07421875
-logaritam,Qwen3-4B,RUNTIME_ERROR,0,0.00%,0.020,0.00390625
-slasticarnica,Qwen3-4B,RUNTIME_ERROR,0,2.50%,0.020,0.00390625
-zastave,Qwen3-4B,RUNTIME_ERROR,0,23.81%,0.050,2.07421875
+problem,model,status,score,relative_score,%test passed,time,memory
+kalendar,Qwen3-4B,ACCEPTED,50,100.00%,100.00%,0.040,0
+diskurs,Qwen3-4B,TIME_LIMIT_EXCEEDED,20,28.57%,22.00%,2.420,2.07421875
+logaritam,Qwen3-4B,RUNTIME_ERROR,0,0.00%,0.00%,0.050,0.00390625
+slasticarnica,Qwen3-4B,RUNTIME_ERROR,0,0.00%,2.50%,0.050,1.61328125
+zastave,Qwen3-4B,RUNTIME_ERROR,0,0.00%,23.81%,0.080,2.07421875

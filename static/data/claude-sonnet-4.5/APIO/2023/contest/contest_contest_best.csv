@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+sequence,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,57,57.00%,80.82%,1.810,19.875
+abc,claude-sonnet-4.5,RUNTIME_ERROR,36,36.00%,63.89%,0.210,231.65625
+cyberland,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,97,97.00%,87.80%,2.970,74.99609375

@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0_1,subtask_0_2,subtask_0_3,subtask_1_1,subtask_2_1,subtask_3_1,subtask_4_1,subtask_5_1,subtask_6_1,subtask_7_1
+grading-server_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,4.00%,4.810,0.00390625,0,0,0,0,0,0,0,0,0,0
+grading-server_claude-sonnet-4.5_1.cpp,RUNTIME_ERROR,0,0.00%,1.33%,0.080,251.43359375,0,0,0,0,0,0,0,0,0,0
+grading-server_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.33%,4.810,251.43359375,0,0,0,0,0,0,0,0,0,0
+grading-server_claude-sonnet-4.5_3.cpp,RUNTIME_ERROR,0,0.00%,4.00%,0.690,251.43359375,0,0,0,0,0,0,0,0,0,0
+grading-server_claude-sonnet-4.5_4.cpp,RUNTIME_ERROR,0,0.00%,1.33%,0.090,251.43359375,0,0,0,0,0,0,0,0,0,0
+grading-server_claude-sonnet-4.5_5.cpp,RUNTIME_ERROR,0,0.00%,2.67%,0.220,251.43359375,0,0,0,0,0,0,0,0,0,0
+grading-server_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.33%,4.810,251.43359375,0,0,0,0,0,0,0,0,0,0
+grading-server_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,1.33%,4.810,1218.74609375,0,0,0,0,0,0,0,0,0,0

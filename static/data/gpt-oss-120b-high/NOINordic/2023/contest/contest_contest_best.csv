@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-icecreammachines,gpt-oss-120b-high,ACCEPTED,100,100.00%,0.070,5.62109375
-chatnoi,gpt-oss-120b-high,RUNTIME_ERROR,46,70.42%,0.550,273.140625
-islandalliances,gpt-oss-120b-high,ACCEPTED,100,100.00%,0.130,13.671875
+problem,model,status,score,relative_score,%test passed,time,memory
+icecreammachines,gpt-oss-120b-high,ACCEPTED,100,100.00%,100.00%,0.180,5.8671875
+chatnoi,gpt-oss-120b-high,RUNTIME_ERROR,46,46.00%,70.42%,0.690,273.140625
+islandalliances,gpt-oss-120b-high,ACCEPTED,100,100.00%,100.00%,0.250,14.1875

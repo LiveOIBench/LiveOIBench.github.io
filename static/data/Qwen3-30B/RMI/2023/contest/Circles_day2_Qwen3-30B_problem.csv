@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory
-Circles_Qwen3-30B_0.cpp,COMPILATION_ERROR,0,0.00%,0.000,0
-Circles_Qwen3-30B_1.cpp,COMPILATION_ERROR,0,0.00%,0.000,0
-Circles_Qwen3-30B_2.cpp,COMPILATION_ERROR,0,0.00%,0.000,0
-Circles_Qwen3-30B_3.cpp,COMPILATION_ERROR,0,0.00%,0.000,0
-Circles_Qwen3-30B_4.cpp,COMPILATION_ERROR,0,0.00%,0.000,0
-Circles_Qwen3-30B_5.cpp,COMPILATION_ERROR,0,0.00%,0.000,0
-Circles_Qwen3-30B_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0
-Circles_Qwen3-30B_7.cpp,COMPILATION_ERROR,0,0.00%,0.000,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Circles_Qwen3-30B_0.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0
+Circles_Qwen3-30B_1.cpp,RUNTIME_ERROR,4,4.00%,12.90%,0.470,12.3828125,0,4,0,0,0,0,0
+Circles_Qwen3-30B_2.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0
+Circles_Qwen3-30B_3.cpp,TIME_LIMIT_EXCEEDED,4,4.00%,33.33%,1.840,101.0703125,0,4,0,0,0,0,0
+Circles_Qwen3-30B_4.cpp,RUNTIME_ERROR,25,25.00%,41.67%,1.780,12.3828125,0,4,0,0,0,21,0
+Circles_Qwen3-30B_5.cpp,RUNTIME_ERROR,4,4.00%,33.33%,0.740,12.3828125,0,4,0,0,0,0,0
+Circles_Qwen3-30B_6.cpp,RUNTIME_ERROR,4,4.00%,33.33%,0.830,12.3828125,0,4,0,0,0,0,0
+Circles_Qwen3-30B_7.cpp,RUNTIME_ERROR,4,4.00%,12.90%,0.690,12.3828125,0,4,0,0,0,0,0

@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-Heroes,gpt-5,ACCEPTED,100,100.00%,0.020,1.5546875
-Pinball,gpt-5,MEMORY_LIMIT_EXCEEDED,40,67.50%,1.300,239.84375
-AA_Tree,gpt-5,ACCEPTED,100,100.00%,0.110,3.47265625
+problem,model,status,score,relative_score,%test passed,time,memory
+Heroes,gpt-5,ACCEPTED,100,100.00%,100.00%,0.000,0
+Pinball,gpt-5,MEMORY_LIMIT_EXCEEDED,40,40.00%,67.50%,1.330,239.84375
+AA_Tree,gpt-5,TIME_LIMIT_EXCEEDED,19,19.00%,60.61%,0.150,1.61328125

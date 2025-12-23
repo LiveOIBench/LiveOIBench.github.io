@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Moo_Decomposition,grok-4-fast-reasoning,ACCEPTED,333,105.71%,100.00%,0.030,17.82421875
+gold_Election_Queries,grok-4-fast-reasoning,ACCEPTED,333,102.46%,100.00%,1.160,5.9375
+gold_OohMoo_Milk,grok-4-fast-reasoning,ACCEPTED,333,103.10%,100.00%,0.030,2.84375

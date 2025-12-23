@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+j4_gpt-oss-120b_0.cpp,ACCEPTED,15,100.00%,100.00%,0.000,2.26953125,3,3,5,4
+j4_gpt-oss-120b_1.cpp,ACCEPTED,15,100.00%,100.00%,0.000,2.26953125,3,3,5,4
+j4_gpt-oss-120b_2.cpp,ACCEPTED,15,100.00%,100.00%,0.030,2.69921875,3,3,5,4
+j4_gpt-oss-120b_3.cpp,ACCEPTED,15,100.00%,100.00%,0.000,2.265625,3,3,5,4
+j4_gpt-oss-120b_4.cpp,ACCEPTED,15,100.00%,100.00%,0.010,2.625,3,3,5,4
+j4_gpt-oss-120b_5.cpp,ACCEPTED,15,100.00%,100.00%,0.000,2.3125,3,3,5,4
+j4_gpt-oss-120b_6.cpp,ACCEPTED,15,100.00%,100.00%,0.150,2.69140625,3,3,5,4
+j4_gpt-oss-120b_7.cpp,ACCEPTED,15,100.00%,100.00%,0.000,2.5703125,3,3,5,4

@@ -1,0 +1,6 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Min_Max_Subarrays_grok-4-fast-reasoning_0.cpp,WRONG_ANSWER,0,0.00%,23.08%,0.150,28.70703125,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_grok-4-fast-reasoning_1.cpp,WRONG_ANSWER,0,0.00%,23.08%,0.080,13.9296875,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_grok-4-fast-reasoning_5.cpp,WRONG_ANSWER,0,0.00%,23.08%,0.370,41.40625,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_grok-4-fast-reasoning_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,7.69%,3.620,179.2890625,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_grok-4-fast-reasoning_7.cpp,WRONG_ANSWER,0,0.00%,15.38%,1.000,89.98046875,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+platinum_Island_Vacation,gpt-oss-120b_sp2,RUNTIME_ERROR,17,5.31%,4.35%,0.760,3.90625
+platinum_Merging_Cells,gpt-oss-120b_sp2,RUNTIME_ERROR,0,0.00%,0.00%,0.020,0.00390625
+platinum_Mooball_Teams_III,gpt-oss-120b_sp2,RUNTIME_ERROR,0,0.00%,4.17%,0.040,3.62109375

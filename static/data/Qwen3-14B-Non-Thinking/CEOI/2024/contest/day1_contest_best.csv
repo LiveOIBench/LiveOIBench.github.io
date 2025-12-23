@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-covid,Qwen3-14B-Non-Thinking,TIME_LIMIT_EXCEEDED,10,66.67%,6.110,1.5390625
-battle,Qwen3-14B-Non-Thinking,RUNTIME_ERROR,0,12.50%,0.170,25.78515625
-editor,Qwen3-14B-Non-Thinking,RUNTIME_ERROR,0,11.29%,0.110,8.00390625
+problem,model,status,score,relative_score,%test passed,time,memory
+covid,Qwen3-14B-Non-Thinking,RUNTIME_ERROR,10,10.00%,66.67%,5.990,1.55078125
+battle,Qwen3-14B-Non-Thinking,RUNTIME_ERROR,0,0.00%,12.50%,0.150,25.78515625
+editor,Qwen3-14B-Non-Thinking,RUNTIME_ERROR,0,0.00%,11.29%,0.090,8.00390625

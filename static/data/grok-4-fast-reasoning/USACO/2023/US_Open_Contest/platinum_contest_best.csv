@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+platinum_Pareidolia,grok-4-fast-reasoning,ACCEPTED,333,104.06%,100.00%,0.240,93.84375
+platinum_Good_Bitstrings,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.420,0.00390625
+platinum_Triples_of_Cows,grok-4-fast-reasoning,WRONG_ANSWER,0,0.00%,10.00%,0.110,40.37890625

@@ -1,9 +1,9 @@
-solution,status,score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
-bronze_Farmer_Johns_Favorite_Permutation_DeepSeek-R1-Distill-Llama-70B_0.cpp,WRONG_ANSWER,0,0.00%,0.270,1.80859375,0,0,0,0,0,0,0,0,0,0,0
-bronze_Farmer_Johns_Favorite_Permutation_DeepSeek-R1-Distill-Llama-70B_1.cpp,WRONG_ANSWER,0,0.00%,0.300,1.86328125,0,0,0,0,0,0,0,0,0,0,0
-bronze_Farmer_Johns_Favorite_Permutation_DeepSeek-R1-Distill-Llama-70B_2.cpp,WRONG_ANSWER,0,0.00%,0.540,6.390625,0,0,0,0,0,0,0,0,0,0,0
-bronze_Farmer_Johns_Favorite_Permutation_DeepSeek-R1-Distill-Llama-70B_3.cpp,WRONG_ANSWER,0,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
-bronze_Farmer_Johns_Favorite_Permutation_DeepSeek-R1-Distill-Llama-70B_4.cpp,WRONG_ANSWER,0,0.00%,0.310,6.0625,0,0,0,0,0,0,0,0,0,0,0
-bronze_Farmer_Johns_Favorite_Permutation_DeepSeek-R1-Distill-Llama-70B_5.cpp,WRONG_ANSWER,0,0.00%,0.360,6.29296875,0,0,0,0,0,0,0,0,0,0,0
-bronze_Farmer_Johns_Favorite_Permutation_DeepSeek-R1-Distill-Llama-70B_6.cpp,WRONG_ANSWER,0,0.00%,0.350,6.29296875,0,0,0,0,0,0,0,0,0,0,0
-bronze_Farmer_Johns_Favorite_Permutation_DeepSeek-R1-Distill-Llama-70B_7.cpp,WRONG_ANSWER,0,0.00%,0.360,6.296875,0,0,0,0,0,0,0,0,0,0,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+bronze_Farmer_Johns_Favorite_Permutation_DeepSeek-R1-Distill-Llama-70B_0.cpp,WRONG_ANSWER,0,0.00%,0.00%,0.280,1.80859375,0,0,0,0,0,0,0,0,0,0,0
+bronze_Farmer_Johns_Favorite_Permutation_DeepSeek-R1-Distill-Llama-70B_1.cpp,WRONG_ANSWER,0,0.00%,0.00%,0.280,1.86328125,0,0,0,0,0,0,0,0,0,0,0
+bronze_Farmer_Johns_Favorite_Permutation_DeepSeek-R1-Distill-Llama-70B_2.cpp,WRONG_ANSWER,0,0.00%,0.00%,0.570,6.39453125,0,0,0,0,0,0,0,0,0,0,0
+bronze_Farmer_Johns_Favorite_Permutation_DeepSeek-R1-Distill-Llama-70B_3.cpp,WRONG_ANSWER,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0
+bronze_Farmer_Johns_Favorite_Permutation_DeepSeek-R1-Distill-Llama-70B_4.cpp,WRONG_ANSWER,0,0.00%,0.00%,0.320,6.1171875,0,0,0,0,0,0,0,0,0,0,0
+bronze_Farmer_Johns_Favorite_Permutation_DeepSeek-R1-Distill-Llama-70B_5.cpp,WRONG_ANSWER,0,0.00%,0.00%,0.380,6.29296875,0,0,0,0,0,0,0,0,0,0,0
+bronze_Farmer_Johns_Favorite_Permutation_DeepSeek-R1-Distill-Llama-70B_6.cpp,WRONG_ANSWER,0,0.00%,0.00%,0.370,6.29296875,0,0,0,0,0,0,0,0,0,0,0
+bronze_Farmer_Johns_Favorite_Permutation_DeepSeek-R1-Distill-Llama-70B_7.cpp,WRONG_ANSWER,0,0.00%,9.09%,0.420,6.296875,0,0,0,0,0,0,0,0,0,0,0

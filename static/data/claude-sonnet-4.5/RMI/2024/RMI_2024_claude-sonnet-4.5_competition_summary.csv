@@ -1,0 +1,8 @@
+problem,status,score,relative_score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Choose_Interval,RUNTIME_ERROR,7,7.00%,41.89%,0.150,0.00390625,,0,7,0,0,0,0,0
+Skittlez,MEMORY_LIMIT_EXCEEDED,28,28.00%,56.00%,0.380,306.2890625,,0,7,21,0,0,0,0
+Octagon,TIME_LIMIT_EXCEEDED,9,9.00%,50.98%,2.410,0.00390625,,0,9,0,0,0,0,0
+Jump_Civilization,TIME_LIMIT_EXCEEDED,6,6.00%,36.07%,1.210,2.58984375,,0,6,0,0,0,0,0
+Ramen,RUNTIME_ERROR,5,5.00%,10.17%,0.030,1.55078125,,0,5,0,0,0,0,0
+Signals,ACCEPTED,100,100.00%,100.00%,0.330,86.6328125,,0,5,2,8,32,24,29
+TOTAL,,155,,49.18%,,,16.67%,,,,,,,

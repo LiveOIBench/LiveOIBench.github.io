@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Min_Max_Subarrays_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,23.08%,3.600,277.15625,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,23.08%,3.610,279.99609375,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_claude-sonnet-4.5_2.cpp,MEMORY_LIMIT_EXCEEDED,0,0.00%,23.08%,1.010,296.3046875,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,23.08%,3.610,279.99609375,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,23.08%,3.630,271.74609375,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,23.08%,3.620,179.1796875,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,23.08%,3.600,277.67578125,0,0,0,0,0,0,0,0,0,0,0
+platinum_Min_Max_Subarrays_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,23.08%,3.610,56.98046875,0,0,0,0,0,0,0,0,0,0,0

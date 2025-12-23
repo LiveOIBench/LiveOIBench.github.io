@@ -1,0 +1,4 @@
+problem,status,score,relative_score,%test passed,time,memory,pass_rate,subtask_1,subtask_10,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+september,TIME_LIMIT_EXCEEDED,25,25.00%,25.00%,1.270,0.00390625,,11,0,14,0,0,0,0,0,0,0
+train,TIME_LIMIT_EXCEEDED,10,10.00%,32.14%,1.210,231.8671875,,5,0,5,0,0,0,0,0,0,0
+TOTAL,,35,,28.57%,,,0.00%,,,,,,,,,,

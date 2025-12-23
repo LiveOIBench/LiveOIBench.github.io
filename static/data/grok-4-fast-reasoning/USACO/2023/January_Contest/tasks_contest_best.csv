@@ -1,0 +1,8 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+bronze_Leaders,grok-4-fast-reasoning,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0
+gold_Find_and_Replace,grok-4-fast-reasoning,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0
+gold_Moo_Route,grok-4-fast-reasoning,WRONG_ANSWER,100,31.25%,33.33%,0.020,17.03125
+platinum_Mana_Collection,grok-4-fast-reasoning,WRONG_ANSWER,0,0.00%,8.33%,2.510,144.41015625
+platinum_Subtree_Activation,grok-4-fast-reasoning,WRONG_ANSWER,0,0.00%,4.76%,0.020,9.12890625
+platinum_Tractor_Paths,grok-4-fast-reasoning,TIME_LIMIT_EXCEEDED,44,13.33%,18.75%,4.820,97.71484375
+silver_Moo_Route,grok-4-fast-reasoning,WRONG_ANSWER,56,17.28%,25.00%,0.020,13.12890625

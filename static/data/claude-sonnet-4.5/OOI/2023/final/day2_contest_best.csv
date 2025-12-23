@@ -1,0 +1,5 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+Burenka_and_Pether,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,10,10.00%,42.18%,3.610,113.43359375
+Almost_Certainly,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,29,29.00%,74.82%,1.210,4.390625
+Three_Arrays,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,61,61.00%,84.05%,1.210,3.35546875
+Parallel_Universes,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,78,78.00%,89.39%,2.410,2.578125

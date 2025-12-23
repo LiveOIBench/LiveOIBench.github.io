@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-Heroes,Qwen3-14B,COMPILATION_ERROR,0,0.00%,0.000,0
-Pinball,Qwen3-14B,COMPILATION_ERROR,0,0.00%,0.000,0
-AA_Tree,Qwen3-14B,COMPILATION_ERROR,0,0.00%,0.000,0
+problem,model,status,score,relative_score,%test passed,time,memory
+Heroes,Qwen3-14B,RUNTIME_ERROR,0,0.00%,14.29%,0.000,0
+Pinball,Qwen3-14B,TIME_LIMIT_EXCEEDED,0,0.00%,3.12%,3.670,7.19921875
+AA_Tree,Qwen3-14B,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0

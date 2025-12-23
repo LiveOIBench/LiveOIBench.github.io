@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-Heroes,gpt-4.1,COMPILATION_ERROR,0,0.00%,0.000,0
-Pinball,gpt-4.1,COMPILATION_ERROR,0,0.00%,0.000,0
-AA_Tree,gpt-4.1,COMPILATION_ERROR,0,0.00%,0.000,0
+problem,model,status,score,relative_score,%test passed,time,memory
+Heroes,gpt-4.1,RUNTIME_ERROR,0,0.00%,14.29%,0.130,0
+Pinball,gpt-4.1,TIME_LIMIT_EXCEEDED,0,0.00%,6.25%,3.610,298.8984375
+AA_Tree,gpt-4.1,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0

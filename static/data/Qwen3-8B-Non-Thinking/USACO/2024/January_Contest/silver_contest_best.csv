@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-silver_Cowmpetency,Qwen3-8B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
-silver_Potion_Farming,Qwen3-8B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.000,0
-silver_Cowlendar,Qwen3-8B-Non-Thinking,TIME_LIMIT_EXCEEDED,139,35.71%,2.210,14.18359375
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_Cowmpetency,Qwen3-8B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0
+silver_Potion_Farming,Qwen3-8B-Non-Thinking,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0
+silver_Cowlendar,Qwen3-8B-Non-Thinking,TIME_LIMIT_EXCEEDED,139,42.90%,35.71%,2.420,14.1796875

@@ -1,0 +1,6 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_14,subtask_15,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+gold_Photo_Op_gpt-oss-120b_0.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.080,4.65234375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Photo_Op_gpt-oss-120b_2.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.910,9.65234375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Photo_Op_gpt-oss-120b_3.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.120,9.28515625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Photo_Op_gpt-oss-120b_5.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.370,47.18359375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gold_Photo_Op_gpt-oss-120b_6.cpp,RUNTIME_ERROR,22,6.67%,5.56%,0.600,25.2734375,0,0,0,0,0,0,0,0,0,0,0,0,0,22.22222222222222,0,0

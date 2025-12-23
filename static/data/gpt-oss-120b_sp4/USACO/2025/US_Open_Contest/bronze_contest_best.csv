@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+bronze_Hoof_Paper_Scissors_Minus_One,gpt-oss-120b_sp4,ACCEPTED,333,100.91%,100.00%,0.150,2.5859375
+bronze_More_Cow_Photos,gpt-oss-120b_sp4,ACCEPTED,333,100.91%,100.00%,0.180,1.75390625
+bronze_Its_Mooin_Time_III,gpt-oss-120b_sp4,ACCEPTED,333,100.91%,100.00%,0.200,22.18359375

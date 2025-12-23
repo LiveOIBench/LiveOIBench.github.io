@@ -1,3 +1,3 @@
-problem,model,status,score,%test passed,time,memory
-gold_Find_and_Replace,gpt-oss-20b-high,ACCEPTED,333,100.00%,0.740,68.03515625
-gold_Lights_Off,gpt-oss-20b-high,ACCEPTED,333,100.00%,0.250,23.46875
+problem,model,status,score,relative_score,%test passed,time,memory
+gold_Find_and_Replace,gpt-oss-20b-high,ACCEPTED,333,103.42%,100.00%,0.820,68.03515625
+gold_Lights_Off,gpt-oss-20b-high,ACCEPTED,333,102.78%,100.00%,0.340,23.46875

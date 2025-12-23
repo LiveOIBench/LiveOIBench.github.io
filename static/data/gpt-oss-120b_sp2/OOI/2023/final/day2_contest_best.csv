@@ -1,0 +1,5 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+Burenka_and_Pether,gpt-oss-120b_sp2,RUNTIME_ERROR,14,14.00%,19.16%,0.290,56.20703125
+Almost_Certainly,gpt-oss-120b_sp2,RUNTIME_ERROR,13,13.00%,15.94%,0.090,24.2421875
+Three_Arrays,gpt-oss-120b_sp2,ACCEPTED,100,100.00%,100.00%,0.040,5.1640625
+Parallel_Universes,gpt-oss-120b_sp2,RUNTIME_ERROR,19,19.00%,20.86%,0.120,40.58984375

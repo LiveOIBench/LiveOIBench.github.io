@@ -1,3 +1,9 @@
-solution,status,score,%test passed,time,memory
-putovanje_Qwen3-14B-Non-Thinking_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0
-putovanje_Qwen3-14B-Non-Thinking_6.cpp,COMPILATION_ERROR,0,0.00%,0.000,0
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+putovanje_Qwen3-14B-Non-Thinking_0.cpp,TIME_LIMIT_EXCEEDED,45,40.91%,46.76%,2.480,4.53125,10,0,35,0
+putovanje_Qwen3-14B-Non-Thinking_3.cpp,TIME_LIMIT_EXCEEDED,45,40.91%,46.76%,2.440,4.6484375,10,0,35,0
+putovanje_Qwen3-14B-Non-Thinking_6.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0
+putovanje_Qwen3-14B-Non-Thinking_6.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0
+putovanje_Qwen3-14B-Non-Thinking_6.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0
+putovanje_Qwen3-14B-Non-Thinking_6.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0
+putovanje_Qwen3-14B-Non-Thinking_6.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0
+putovanje_Qwen3-14B-Non-Thinking_6.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0

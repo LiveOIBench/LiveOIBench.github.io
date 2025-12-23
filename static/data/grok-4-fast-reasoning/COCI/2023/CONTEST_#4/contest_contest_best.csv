@@ -1,0 +1,6 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+7krokods,grok-4-fast-reasoning,ACCEPTED,50,100.00%,100.00%,0.000,0
+zrinka,grok-4-fast-reasoning,ACCEPTED,70,100.00%,100.00%,0.160,192.33984375
+bojanje,grok-4-fast-reasoning,ACCEPTED,110,100.00%,100.00%,0.020,1.6640625
+mreza,grok-4-fast-reasoning,ACCEPTED,110,100.00%,100.00%,1.590,51.5625
+vrsta,grok-4-fast-reasoning,ACCEPTED,110,100.00%,100.00%,0.160,15.21875

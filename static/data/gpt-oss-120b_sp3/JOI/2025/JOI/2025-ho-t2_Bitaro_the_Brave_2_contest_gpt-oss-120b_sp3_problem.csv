@@ -1,0 +1,14 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+2025-ho-t2_Bitaro_the_Brave_2_gpt-oss-120b_0.cpp,ACCEPTED,100,100.00%,100.00%,0.120,41.2578125,10,21,19,22,28
+2025-ho-t2_Bitaro_the_Brave_2_gpt-oss-120b_1.cpp,ACCEPTED,100,100.00%,100.00%,0.090,20.37890625,10,21,19,22,28
+2025-ho-t2_Bitaro_the_Brave_2_gpt-oss-120b_2.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0
+2025-ho-t2_Bitaro_the_Brave_2_gpt-oss-120b_2.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0
+2025-ho-t2_Bitaro_the_Brave_2_gpt-oss-120b_2.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0
+2025-ho-t2_Bitaro_the_Brave_2_gpt-oss-120b_2.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0
+2025-ho-t2_Bitaro_the_Brave_2_gpt-oss-120b_2.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0
+2025-ho-t2_Bitaro_the_Brave_2_gpt-oss-120b_2.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0
+2025-ho-t2_Bitaro_the_Brave_2_gpt-oss-120b_3.cpp,ACCEPTED,100,100.00%,100.00%,0.120,41.2578125,10,21,19,22,28
+2025-ho-t2_Bitaro_the_Brave_2_gpt-oss-120b_4.cpp,ACCEPTED,100,100.00%,100.00%,0.130,26.046875,10,21,19,22,28
+2025-ho-t2_Bitaro_the_Brave_2_gpt-oss-120b_5.cpp,ACCEPTED,100,100.00%,100.00%,0.110,25.53125,10,21,19,22,28
+2025-ho-t2_Bitaro_the_Brave_2_gpt-oss-120b_6.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0
+2025-ho-t2_Bitaro_the_Brave_2_gpt-oss-120b_7.cpp,ACCEPTED,100,100.00%,100.00%,0.110,24.24609375,10,21,19,22,28

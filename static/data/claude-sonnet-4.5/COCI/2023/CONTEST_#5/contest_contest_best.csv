@@ -1,0 +1,6 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+kalendar,claude-sonnet-4.5,ACCEPTED,50,100.00%,100.00%,0.000,0
+diskurs,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,20,28.57%,24.00%,2.410,40.7421875
+logaritam,claude-sonnet-4.5,ACCEPTED,110,100.00%,100.00%,0.060,0.00390625
+slasticarnica,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,21,19.09%,25.00%,2.410,126.33203125
+zastave,claude-sonnet-4.5,ACCEPTED,110,100.00%,100.00%,0.090,2.07421875

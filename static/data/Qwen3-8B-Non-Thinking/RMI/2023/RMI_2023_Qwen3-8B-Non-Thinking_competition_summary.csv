@@ -1,3 +1,7 @@
-problem,status,score,%test passed,time,memory,pass_rate
-Pinball,COMPILATION_ERROR,0,0.00%,0.000,0,
-TOTAL,,0,0.00%,,,0.00%
+problem,status,score,relative_score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Heroes,RUNTIME_ERROR,0,0.00%,0.00%,0.000,0,,0,0,0,0,0,0,0
+AA_Tree,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,,0,0,0,0,0,0,0
+Circles,TIME_LIMIT_EXCEEDED,0,0.00%,18.18%,1.770,10.0625,,0,0,0,0,0,0,0
+To_be_xor_not_to_be,UNKNOWN,0,0.00%,0.00%,0.000,0,,0,0,0,0,0,0,0
+Statues,TIME_LIMIT_EXCEEDED,24,24.00%,46.67%,1.270,19.17578125,,0,7,0,0,0,17,0
+TOTAL,,24,,12.97%,,,0.00%,,,,,,,

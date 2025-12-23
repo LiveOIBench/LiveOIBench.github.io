@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+Choose_Interval,gpt-oss-120b_sp4,RUNTIME_ERROR,0,0.00%,10.91%,0.000,0
+Skittlez,gpt-oss-120b_sp4,ACCEPTED,100,100.00%,100.00%,2.190,261.62109375
+Octagon,gpt-oss-120b_sp4,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0

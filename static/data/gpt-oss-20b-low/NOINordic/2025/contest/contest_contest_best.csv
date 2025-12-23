@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-diplomacy,gpt-oss-20b-low,TIME_LIMIT_EXCEEDED,0,5.38%,4.820,12.62890625
-garbage,gpt-oss-20b-low,TIME_LIMIT_EXCEEDED,0,15.07%,5.980,6.3515625
-xoracle,gpt-oss-20b-low,ACCEPTED,100,100.00%,0.360,3.796875
+problem,model,status,score,relative_score,%test passed,time,memory
+diplomacy,gpt-oss-20b-low,TIME_LIMIT_EXCEEDED,0,0.00%,5.38%,4.830,12.37109375
+garbage,gpt-oss-20b-low,TIME_LIMIT_EXCEEDED,0,0.00%,15.07%,5.970,6.3515625
+xoracle,gpt-oss-20b-low,ACCEPTED,100,100.00%,100.00%,0.490,3.81640625

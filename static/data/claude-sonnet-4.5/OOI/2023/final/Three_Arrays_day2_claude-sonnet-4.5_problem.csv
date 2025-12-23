@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Three_Arrays_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,31,31.00%,64.88%,1.210,2.6328125,0.0,13.0,18.0,0,0,0,0
+Three_Arrays_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,61,61.00%,83.67%,1.210,2.4765625,0.0,13.0,18.0,14.0,16.0,0,0
+Three_Arrays_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,61,61.00%,83.67%,1.220,2.32421875,0.0,13.0,18.0,14.0,16.0,0,0
+Three_Arrays_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,61,61.00%,83.67%,1.210,2.328125,0.0,13.0,18.0,14.0,16.0,0,0
+Three_Arrays_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,61,61.00%,83.67%,1.220,2.49609375,0.0,13.0,18.0,14.0,16.0,0,0
+Three_Arrays_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,61,61.00%,84.05%,1.210,3.35546875,0.0,13.0,18.0,14.0,16.0,0,0
+Three_Arrays_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,61,61.00%,83.67%,1.210,2.41015625,0.0,13.0,18.0,14.0,16.0,0,0
+Three_Arrays_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,61,61.00%,83.67%,1.210,2.35546875,0.0,13.0,18.0,14.0,16.0,0,0

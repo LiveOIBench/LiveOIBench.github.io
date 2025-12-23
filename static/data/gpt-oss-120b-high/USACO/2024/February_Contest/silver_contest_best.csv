@@ -1,4 +1,4 @@
-problem,model,status,score,%test passed,time,memory
-silver_Target_Practice_II,gpt-oss-120b-high,ACCEPTED,333,100.00%,0.300,5.83984375
-silver_Test_Tubes,gpt-oss-120b-high,WRONG_ANSWER,50,14.29%,0.360,12.44140625
-silver_Moorbles,gpt-oss-120b-high,ACCEPTED,333,100.00%,0.100,9.29296875
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_Target_Practice_II,gpt-oss-120b-high,ACCEPTED,333,103.42%,100.00%,0.370,6.3515625
+silver_Test_Tubes,gpt-oss-120b-high,WRONG_ANSWER,50,15.62%,14.29%,0.460,12.44140625
+silver_Moorbles,gpt-oss-120b-high,ACCEPTED,333,100.91%,100.00%,0.180,8.66015625

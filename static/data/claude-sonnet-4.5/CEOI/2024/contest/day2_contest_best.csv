@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+toy,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,35,35.00%,75.10%,1.630,310.875
+stations,claude-sonnet-4.5,TIME_LIMIT_EXCEEDED,18,18.00%,52.54%,4.210,7.84765625
+sprinklers,claude-sonnet-4.5,RUNTIME_ERROR,9,9.00%,48.31%,0.460,7.88671875

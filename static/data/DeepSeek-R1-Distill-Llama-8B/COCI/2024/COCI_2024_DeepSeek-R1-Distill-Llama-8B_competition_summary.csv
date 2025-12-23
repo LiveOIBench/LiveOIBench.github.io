@@ -1,3 +1,27 @@
-problem,status,score,%test passed,time,memory,pass_rate
-labirint,COMPILATION_ERROR,0,0.00%,0.000,0,
-TOTAL,,0,0.00%,,,0.00%
+problem,status,score,relative_score,%test passed,time,memory,pass_rate,subtask_0,subtask_1,subtask_2,subtask_3
+eurokod,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,,0,0,0,0
+vrsar,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,,0,0,0,0
+milano,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,,0,0,0,0
+restorani,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,,0,0,0,0
+cesta,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,,0,0,0,0
+zlagalica,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,,0,0,0,0
+bitovi,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,,0,0,0,0
+piratski,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,,0,0,0,0
+rolete,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,,0,0,0,0
+trokut,RUNTIME_ERROR,0,0.00%,0.00%,0.060,0.00390625,,0,0,0,0
+bingo,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,,0,0,0,0
+knjige,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,,0,0,0,0
+lepeze,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,,0,0,0,0
+putovanje,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,,0,0,0,0
+roboti,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,,0,0,0,0
+pahuljice,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,,0,0,0,0
+pingvin,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,,0,0,0,0
+dizalo,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,,0,0,0,0
+kuglice,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,,0,0,0,0
+zatopljenje,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,,0,0,0,0
+sudoku,RUNTIME_ERROR,0,0.00%,45.71%,0.060,0,,0,0,0,0
+labirint,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,,0,0,0,0
+an2dl,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,,0,0,0,0
+kocke,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,,0,0,0,0
+mostovi,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,,0,0,0,0
+TOTAL,,0,,1.83%,,,0.00%,,,,

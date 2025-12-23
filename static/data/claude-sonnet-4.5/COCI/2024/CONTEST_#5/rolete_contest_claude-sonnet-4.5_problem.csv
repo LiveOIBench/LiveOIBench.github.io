@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+rolete_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.410,4.73828125,0,0,0,0
+rolete_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.420,5.265625,0,0,0,0
+rolete_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.04%,2.410,3.07421875,0,0,0,0
+rolete_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,2.04%,2.410,4.90625,0,0,0,0
+rolete_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.410,4.2578125,0,0,0,0
+rolete_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.410,4.34375,0,0,0,0
+rolete_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.410,4.671875,0,0,0,0
+rolete_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.410,3.5078125,0,0,0,0

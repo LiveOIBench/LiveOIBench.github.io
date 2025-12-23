@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_10,subtask_11,subtask_12,subtask_13,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8,subtask_9
+platinum_Lazy_Sort_claude-sonnet-4.5_0.cpp,WRONG_ANSWER,0,0.00%,6.67%,0.030,0.00390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Lazy_Sort_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,6.67%,2.420,293.5390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Lazy_Sort_claude-sonnet-4.5_2.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Lazy_Sort_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,6.67%,2.420,293.51953125,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Lazy_Sort_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,6.67%,2.410,289.52734375,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Lazy_Sort_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,6.67%,2.410,77.60546875,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Lazy_Sort_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,6.67%,2.410,306.28515625,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+platinum_Lazy_Sort_claude-sonnet-4.5_7.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.040,0.00390625,0,0,0,0,0,0,0,0,0,0,0,0,0,0

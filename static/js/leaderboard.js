@@ -8,12 +8,10 @@ const competitions = [
   let competitionData = {};
   let competitionDates = {};
   let selectedCompetitions = new Set(competitions); // Start with all selected
-  let selectedDivisions = new Set(['1', '2', '3', '4']); // Start with all divisions selected
   let selectedModelCategories = new Set(['proprietary', 'open-weight-thinking', 'open-weight-non-thinking']); // Start with all categories selected
   let selectedDateRange = { start: new Date('2023-01-01'), end: new Date(2025, 11, 31, 23, 59, 59, 999) };
   let problemCounts = {};
   let contestCounts = {}; // Dictionary to store competition-year to contest count mapping
-  let competitionDivisions = {}; // Dictionary to store competition-year to division mapping
   let competitionMedals = {}; // New container for medal counts
   let modelRelativeScore = new Map(); // Map of model name to competition+year scores
   let modelHumanPercentile = new Map(); // Map of model name to competition+year human percentiles
@@ -225,7 +223,7 @@ const competitions = [
   }
   
   
-  // Get filtered competitions based on time range, selected competitions, and divisions
+  // Get filtered competitions based on time range and selected competitions
   function getFilteredCompetitions() {
     // Get competitions selected by user and within time range
     const competitionsInTimeRange = new Set();
@@ -237,24 +235,8 @@ const competitions = [
         competitionsInTimeRange.add(compYear);
       }
     });
-  
-    // If no divisions are selected, return empty set
-    if (selectedDivisions.size === 0) {
-      return new Set();
-    }
-  
-    // Get competitions that match selected divisions
-    const competitionsInDivisions = new Set();
-    Object.entries(competitionDivisions).forEach(([compYear, division]) => {
-      if (selectedDivisions.has(division.toString())) {
-        competitionsInDivisions.add(compYear);
-      }
-    });
-  
-    // Return competitions that match both filters
-    return new Set([...competitionsInTimeRange].filter(compYear => 
-      competitionsInDivisions.has(compYear)
-    ));
+
+    return competitionsInTimeRange;
   }
   
   
@@ -350,7 +332,7 @@ const competitions = [
       });
     });
   
-    // Get filtered competitions based on time range and divisions
+    // Get filtered competitions based on time range
     const filteredCompetitions = getFilteredCompetitions();
     
     // Update statistics box
@@ -596,44 +578,6 @@ const competitions = [
     }
   }
   
-  // Update division scope display
-  function updateDivisionScope() {
-    const scopeContent = document.getElementById('division-scope-content');
-    if (!scopeContent) return;
-  
-    // Group competitions by division
-    const divisionGroups = {};
-    Object.entries(competitionDivisions).forEach(([compYear, division]) => {
-      if (!divisionGroups[division]) {
-        divisionGroups[division] = new Set();
-      }
-      divisionGroups[division].add(compYear);
-    });
-  
-    // Create HTML for each division
-    let html = '';
-    for (let i = 1; i <= 4; i++) {
-      const division = i.toString(); // Use just the number as the key
-      const competitions = divisionGroups[division] || new Set();
-      
-      html += `<p><strong>Division ${i}:</strong> `;
-      if (competitions.size > 0) {
-        html += Array.from(competitions)
-          .map(compYear => {
-            const [comp, year] = compYear.split('_');
-            return `${comp} ${year}`;
-          })
-          .sort()
-          .join(', ');
-      } else {
-        html += 'No competitions';
-      }
-      html += '</p>';
-    }
-  
-    scopeContent.innerHTML = html;
-  }
-  
   // Initialize everything
   async function initialize() {
     try {
@@ -657,18 +601,13 @@ const competitions = [
         loadModelScore()
       ]);
   
-      // Get competition divisions while data is loading
-      competitionDivisions = getCompetitionDivisionMap();
-      
       // Initialize UI elements in parallel
       await Promise.all([
         initializeCompetitionSelection(),
-        initializeDivisionSelection(),
         initializeModelCategorySelection(),
         initializeDateRangeSlider()
       ]);
-  
-      updateDivisionScope();
+
       updateDateDisplay();
       
       isInitializing = false;  // Clear flag
@@ -745,36 +684,6 @@ const competitions = [
     }
   }
   
-  // Initialize division selection
-  function initializeDivisionSelection() {
-    const container = document.querySelector('.division-tabs');
-    
-    // Add click handlers to division tabs
-    container.querySelectorAll('.division-tab').forEach(tab => {
-      tab.addEventListener('click', async () => {
-        const division = tab.dataset.division;
-        if (tab.classList.contains('is-active')) {
-          selectedDivisions.delete(division);
-          tab.classList.remove('is-active');
-        } else {
-          selectedDivisions.add(division);
-          tab.classList.add('is-active');
-        }
-        
-        // Recalculate metrics and update display
-        // Update statistics box when division selection changes
-        const filteredCompetitions = getFilteredCompetitions();
-        let totalQuestions = 0;
-        filteredCompetitions.forEach(compYear => {
-          totalQuestions += problemCounts[compYear] || 0;
-        });
-        updateStatisticsBox(totalQuestions);
-        updateDateDisplay();
-        await updateTable(); // Update table after selection changes
-      });
-    });
-  }
-
   // Initialize model category selection
   function initializeModelCategorySelection() {
     const container = document.querySelector('.model-category-tabs');
@@ -803,62 +712,6 @@ const competitions = [
         await updateTable(); // Update table after selection changes
       });
     });
-  }
-  
-  // Get competition division mapping
-  function getCompetitionDivisionMap() {
-    const divisionMap = {};
-    
-    // Iterate through each competition in COMPETITION_CONFIG
-    for (const [competition, years] of Object.entries(COMPETITION_CONFIG)) {
-      // For each year of this competition
-      for (const [year, data] of Object.entries(years)) {
-        const key = `${competition}_${year}`;
-        let divisionSum = 0;
-        let divisionCount = 0;
-        
-        // Skip if no subdivisions
-        if (!data || !data.subdivisions) continue;
-        
-        // Go through each subdivision and collect division numbers
-        for (const subdivision of data.subdivisions) {
-          // Special handling for USACO
-          if (competition === 'USACO') {
-            const combinedKey = `${subdivision}-combined`;
-            if (data.divisions && data.divisions[combinedKey]) {
-              const divInfo = data.divisions[combinedKey];
-              if (divInfo && divInfo.division) {
-                const match = divInfo.division.match(/Division (\d)/);
-                if (match) {
-                  divisionSum += parseInt(match[1]);
-                  divisionCount++;
-                }
-              }
-            }
-          } else {
-            // Original logic for other competitions
-            if (!data.divisions || !data.divisions[subdivision]) continue;
-            
-            const divInfo = data.divisions[subdivision];
-            if (divInfo && divInfo.division) {
-              const match = divInfo.division.match(/Division (\d)/);
-              if (match) {
-                divisionSum += parseInt(match[1]);
-                divisionCount++;
-              }
-            }
-          }
-        }
-        
-        // Calculate average division if we found any divisions
-        if (divisionCount > 0) {
-          const avgDivision = Math.round(divisionSum / divisionCount);
-          divisionMap[key] = avgDivision;
-        }
-      }
-    }
-    
-    return divisionMap;
   }
   
   // ... rest of the existing code ...  

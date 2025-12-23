@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+cfduels_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,40,40.00%,69.15%,2.410,7.65625,0,12,0,0,18,10,0
+cfduels_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,40,40.00%,69.15%,2.410,6.58984375,0,12,0,0,18,10,0
+cfduels_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,36,36.00%,78.31%,2.410,7.72265625,0,12,0,14,0,10,0
+cfduels_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,22,22.00%,58.51%,2.410,6.0078125,0,12,0,0,0,10,0
+cfduels_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,10,10.00%,34.62%,2.410,3.3671875,0,0,0,0,0,10,0
+cfduels_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,40,40.00%,69.15%,2.410,7.34765625,0,12,0,0,18,10,0
+cfduels_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,10,10.00%,37.18%,2.420,173.1640625,0,0,0,0,0,10,0
+cfduels_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,10,10.00%,29.49%,2.420,6.1875,0,0,0,0,0,10,0

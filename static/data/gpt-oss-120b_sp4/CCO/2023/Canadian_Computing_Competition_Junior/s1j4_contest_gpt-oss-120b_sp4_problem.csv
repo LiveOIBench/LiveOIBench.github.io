@@ -1,0 +1,8 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3
+s1j4_gpt-oss-120b_0.cpp,RUNTIME_ERROR,6,40.00%,52.50%,0.000,0,3,3,0,0
+s1j4_gpt-oss-120b_1.cpp,RUNTIME_ERROR,6,40.00%,52.50%,0.040,0,3,3,0,0
+s1j4_gpt-oss-120b_2.cpp,RUNTIME_ERROR,6,40.00%,52.50%,0.040,1.55859375,3,3,0,0
+s1j4_gpt-oss-120b_3.cpp,RUNTIME_ERROR,6,40.00%,52.50%,0.040,0,3,3,0,0
+s1j4_gpt-oss-120b_4.cpp,RUNTIME_ERROR,6,40.00%,52.50%,0.040,0,3,3,0,0
+s1j4_gpt-oss-120b_5.cpp,RUNTIME_ERROR,6,40.00%,52.50%,0.040,0.00390625,3,3,0,0
+s1j4_gpt-oss-120b_7.cpp,RUNTIME_ERROR,6,40.00%,52.50%,0.040,0,3,3,0,0

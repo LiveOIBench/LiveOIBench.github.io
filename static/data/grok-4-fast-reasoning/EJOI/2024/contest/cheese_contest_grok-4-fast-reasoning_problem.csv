@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+cheese_grok-4-fast-reasoning_0.cpp,RUNTIME_ERROR,8,8.00%,20.51%,0.790,123.5625,0,0,8,0,0,0,0
+cheese_grok-4-fast-reasoning_1.cpp,RUNTIME_ERROR,26,26.00%,61.54%,0.210,10.90234375,0,7,8,11,0,0,0
+cheese_grok-4-fast-reasoning_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,30.77%,2.430,19.93359375,0,0,0,0,0,0,0
+cheese_grok-4-fast-reasoning_3.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0
+cheese_grok-4-fast-reasoning_4.cpp,RUNTIME_ERROR,72,72.00%,79.49%,1.310,100.375,0,7,8,0,19,38,0
+cheese_grok-4-fast-reasoning_5.cpp,RUNTIME_ERROR,15,15.00%,43.59%,0.820,123.5,0,7,8,0,0,0,0
+cheese_grok-4-fast-reasoning_6.cpp,COMPILATION_ERROR,0,0.00%,0.00%,0.000,0,0,0,0,0,0,0,0
+cheese_grok-4-fast-reasoning_7.cpp,ACCEPTED,100,100.00%,100.00%,1.100,131.03515625,0,7,8,11,19,38,17

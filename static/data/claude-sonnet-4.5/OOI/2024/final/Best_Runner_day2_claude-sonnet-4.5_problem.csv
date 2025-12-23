@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+Best_Runner_claude-sonnet-4.5_0.cpp,TIME_LIMIT_EXCEEDED,39,39.00%,33.60%,1.210,4.91015625,0.0,23.0,0,16.0,0,0,0
+Best_Runner_claude-sonnet-4.5_1.cpp,TIME_LIMIT_EXCEEDED,23,23.00%,29.03%,1.220,6.71484375,0.0,23.0,0,0,0,0,0
+Best_Runner_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,23,23.00%,27.42%,1.220,6.97265625,0.0,23.0,0,0,0,0,0
+Best_Runner_claude-sonnet-4.5_3.cpp,TIME_LIMIT_EXCEEDED,23,23.00%,29.03%,1.210,6.7109375,0.0,23.0,0,0,0,0,0
+Best_Runner_claude-sonnet-4.5_4.cpp,TIME_LIMIT_EXCEEDED,39,39.00%,33.60%,1.210,4.65234375,0.0,23.0,0,16.0,0,0,0
+Best_Runner_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,39,39.00%,33.60%,1.210,6.97265625,0.0,23.0,0,16.0,0,0,0
+Best_Runner_claude-sonnet-4.5_6.cpp,TIME_LIMIT_EXCEEDED,39,39.00%,33.60%,1.210,6.97265625,0.0,23.0,0,16.0,0,0,0
+Best_Runner_claude-sonnet-4.5_7.cpp,TIME_LIMIT_EXCEEDED,23,23.00%,31.45%,1.220,91.2109375,0.0,23.0,0,0,0,0,0

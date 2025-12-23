@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+fire_gpt-oss-120b_0.cpp,ACCEPTED,100,100.00%,100.00%,0.390,116.5390625,14,17,9,13,21,26
+fire_gpt-oss-120b_1.cpp,ACCEPTED,100,100.00%,100.00%,0.200,47.1875,14,17,9,13,21,26
+fire_gpt-oss-120b_2.cpp,ACCEPTED,100,100.00%,100.00%,0.190,45.640625,14,17,9,13,21,26
+fire_gpt-oss-120b_3.cpp,ACCEPTED,100,100.00%,100.00%,0.250,109.8359375,14,17,9,13,21,26
+fire_gpt-oss-120b_4.cpp,ACCEPTED,100,100.00%,100.00%,0.300,109.578125,14,17,9,13,21,26
+fire_gpt-oss-120b_5.cpp,ACCEPTED,100,100.00%,100.00%,0.200,47.1875,14,17,9,13,21,26
+fire_gpt-oss-120b_6.cpp,ACCEPTED,100,100.00%,100.00%,0.190,47.1875,14,17,9,13,21,26
+fire_gpt-oss-120b_7.cpp,ACCEPTED,100,100.00%,100.00%,0.290,109.8359375,14,17,9,13,21,26

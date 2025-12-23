@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5
+2025-ho-t1_Grid_Coloring_Qwen3-14B_0.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.200,4.39453125,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_Qwen3-14B_1.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.400,19.6015625,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_Qwen3-14B_2.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.190,4.39453125,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_Qwen3-14B_3.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,6.59%,2.470,31.9765625,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_Qwen3-14B_4.cpp,RUNTIME_ERROR,0,0.00%,0.00%,0.210,20.375,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_Qwen3-14B_5.cpp,RUNTIME_ERROR,0,0.00%,3.41%,0.490,80.78515625,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_Qwen3-14B_6.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,15.46%,2.440,31.9765625,0,0,0,0,0
+2025-ho-t1_Grid_Coloring_Qwen3-14B_7.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.00%,2.440,19.6015625,0,0,0,0,0

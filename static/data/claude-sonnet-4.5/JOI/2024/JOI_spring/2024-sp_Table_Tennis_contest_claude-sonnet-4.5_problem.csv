@@ -1,0 +1,9 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6
+2024-sp_Table_Tennis_claude-sonnet-4.5_0.cpp,RUNTIME_ERROR,0,0.00%,0.46%,0.120,340.8359375,0,0,0,0,0,0
+2024-sp_Table_Tennis_claude-sonnet-4.5_1.cpp,RUNTIME_ERROR,0,0.00%,0.46%,0.240,430.234375,0,0,0,0,0,0
+2024-sp_Table_Tennis_claude-sonnet-4.5_2.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,10.66%,1.210,4.6484375,0,0,0,0,0,0
+2024-sp_Table_Tennis_claude-sonnet-4.5_3.cpp,RUNTIME_ERROR,0,0.00%,10.26%,0.300,96.6796875,0,0,0,0,0,0
+2024-sp_Table_Tennis_claude-sonnet-4.5_4.cpp,RUNTIME_ERROR,0,0.00%,0.92%,0.170,91.015625,0,0,0,0,0,0
+2024-sp_Table_Tennis_claude-sonnet-4.5_5.cpp,TIME_LIMIT_EXCEEDED,0,0.00%,0.46%,1.200,192.77734375,0,0,0,0,0,0
+2024-sp_Table_Tennis_claude-sonnet-4.5_6.cpp,RUNTIME_ERROR,0,0.00%,0.92%,0.260,91.015625,0,0,0,0,0,0
+2024-sp_Table_Tennis_claude-sonnet-4.5_7.cpp,RUNTIME_ERROR,0,0.00%,10.26%,0.230,13.5390625,0,0,0,0,0,0

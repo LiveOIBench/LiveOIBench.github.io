@@ -1,0 +1,4 @@
+problem,model,status,score,relative_score,%test passed,time,memory
+silver_The_Best_Lineup,grok-4-fast-reasoning,ACCEPTED,333,103.10%,100.00%,0.080,5.4765625
+silver_Vocabulary_Quiz,grok-4-fast-reasoning,ACCEPTED,333,100.91%,100.00%,0.110,13.0546875
+silver_Transforming_Pairs,grok-4-fast-reasoning,ACCEPTED,333,100.91%,100.00%,0.010,0.00390625

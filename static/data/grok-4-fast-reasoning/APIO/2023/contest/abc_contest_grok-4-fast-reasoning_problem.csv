@@ -1,0 +1,4 @@
+solution,status,score,relative_score,%test passed,time,memory,subtask_0,subtask_1,subtask_2,subtask_3,subtask_4,subtask_5,subtask_6,subtask_7,subtask_8
+abc_grok-4-fast-reasoning_2.cpp,RUNTIME_ERROR,4,4.00%,16.00%,0.170,14.21875,4,0,0,0,0,0,0,0,0
+abc_grok-4-fast-reasoning_4.cpp,RUNTIME_ERROR,4,4.00%,16.00%,0.230,17.03125,4,0,0,0,0,0,0,0,0
+abc_grok-4-fast-reasoning_6.cpp,RUNTIME_ERROR,4,4.00%,16.00%,0.260,17.234375,4,0,0,0,0,0,0,0,0
