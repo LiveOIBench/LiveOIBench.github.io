@@ -241,7 +241,7 @@ const competitions = [
   
   
   // Add sorting state variables
-  let currentSortColumn = 'passRate'; // Default sort by pass rate
+  let currentSortColumn = 'gold'; // Default sort by gold medals
   let isAscending = false; // Default descending order
   
   // Update the table with current selection
